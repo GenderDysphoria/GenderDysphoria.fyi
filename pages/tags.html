@@ -1,0 +1,54 @@
+---
+title: 'Tagged Posts'
+---
+
+{{#extend "layout"}}
+
+  {{#content "meta"}}
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="Just a plus size trans girl in a straight size cis world.">
+  <meta property="og:image" content="{{rev '/images/avi.jpeg'}}">
+  <meta property="og:url" content="https://{{page.domain}}/tags.html">
+  <meta name="twitter:card" content="summary_large_image">{{/content}}
+
+  {{#content "bodyAttributes"}}class="page-index"{{/content}}
+  {{#content "body"}}
+
+  <div class="tag-list">
+    <h3>Posts By Tag</h3>
+    <div class="nav nav-pills" role="tablist">
+      {{#each posts.tags}}
+        <a
+          class="nav-link {{#unless @index}}active{{/unless}}"
+          data-toggle="pill"
+          role="tab"
+          id="{{@key}}-tab"
+          href="#{{@key}}"
+          aria-controls="{{@key}}"
+          aria-selected="{{#if @index}}true{{else}}false{{/if}}"
+        >{{this}}</a>
+      {{/each}}
+    </div>
+  </div>
+
+
+  <div class="tab-content">
+    {{#each posts.tags}}
+    <div class="tab-pane fade {{#unless @index}}show active{{/unless}}" role="tabpanel" id="{{@key}}" aria-labelledby="{{@key}}-tab">
+      <div class="post-grid">
+      {{#each (get ../posts.byTag this)}}
+        {{> cell}}
+      {{/each}}
+      </div>
+    </div>
+    {{/each}}
+
+  </div>
+
+  {{/content}}
+
+  {{#content "postscripts"}}
+  <script src="{{rev '/js/tags.js'}}"></script>
+  {{/content}}
+
+{{/extend}}
