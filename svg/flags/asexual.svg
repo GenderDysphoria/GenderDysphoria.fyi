@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji v0.3.1</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Dzuk</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="asexual_flag" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M32,6c0,-0.53 -0.211,-1.039 -0.586,-1.414c-0.375,-0.375 -0.884,-0.586 -1.414,-0.586c-5.746,0 -22.254,0 -28,0c-0.53,0 -1.039,0.211 -1.414,0.586c-0.375,0.375 -0.586,0.884 -0.586,1.414c0,4.52 0,15.48 0,20c0,0.53 0.211,1.039 0.586,1.414c0.375,0.375 0.884,0.586 1.414,0.586c5.746,0 22.254,0 28,0c0.53,0 1.039,-0.211 1.414,-0.586c0.375,-0.375 0.586,-0.884 0.586,-1.414c0,-4.52 0,-15.48 0,-20Z"/></g><g id="emoji"><rect x="2" y="6" width="28" height="20" style="fill:none;"/><clipPath id="_clip2"><rect x="2" y="6" width="28" height="20"/></clipPath><g clip-path="url(#_clip2)"><rect x="1" y="20" width="30" height="7" style="fill:#80179a;"/><rect x="1" y="15" width="30" height="6" style="fill:#fff;"/><rect x="1" y="10" width="30" height="6" style="fill:#747474;"/><rect x="1" y="5" width="30" height="6" style="fill:#333;"/></g></g></g></svg>

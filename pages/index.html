@@ -2,7 +2,7 @@
 
   {{#content "meta"}}
   <meta property="og:title" content="{{page.title}}">
-  <meta property="og:description" content={{page.description}}>
+  <meta property="og:description" content="{{page.description}}">
   <meta property="og:image" content="https://{{page.domain}}{{rev '/images/titlecard.jpg'}}">
   <meta property="og:url" content="https://{{page.domain}}">
   <meta name="twitter:title" content="{{page.title}}">
@@ -19,10 +19,7 @@
 
       {{markdown '_index-copy'}}
 
-      <div class="pager">
-        <span class="filler"></span>
-        <a href="/gdb/what-is-gender" class="btn btn-primary">Continue Reading {{icon 'chevron-right'}}</a>
-      </div>
+      {{inject 'gdb/_pager'}}
 
     </div></section>
 

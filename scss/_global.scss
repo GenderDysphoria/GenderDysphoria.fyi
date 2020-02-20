@@ -1,0 +1,26 @@
+
+body {
+  font-family: $font-primary;
+}
+
+span.svg-icon {
+  $size: 1.5em;
+  display: inline-block;
+  position: relative;
+  height: $size;
+  width: $size;
+  line-height: 1;
+
+  svg {
+    width: 100%;
+    height: 100%;
+    fill: currentColor;
+  }
+}
+
+img.svg-icon {
+  height: 1.5em;
+  display: inline-block;
+  position: relative;
+  line-height: 1;
+}

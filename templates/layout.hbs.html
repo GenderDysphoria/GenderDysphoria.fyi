@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="UTF-8">
+  <meta name="author" content="Jocelyn Badgley">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:site_name" content="GenderDysphoria, FYI">
+  <meta name="twitter:site" content="GenderDysphoria, FYI">
+  <meta name="twitter:creator" content="TwippingVanilla">
+  {{block "meta"}}
+  <title>{{page.title}}</title>
+
+  <!-- generics -->
+  <link rel="icon" type="image/x-icon" href="https://{{page.domain}}{{rev '/favicon.ico'}}">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon32.png'}}" sizes="32x32">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon57.png'}}" sizes="57x57">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon76.png'}}" sizes="76x76">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon96.png'}}" sizes="96x96">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon128.png'}}" sizes="128x128">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon192.png'}}" sizes="192x192">
+  <link rel="icon" type="image/png"    href="https://{{page.domain}}{{rev '/favicon228.png'}}" sizes="228x228">
+
+  <!-- Android -->
+  <link rel="shortcut icon" sizes="196x196" href="/favicon196.png">
+
+  <!-- iOS -->
+  <link rel="apple-touch-icon"             type="image/png" sizes="120x120" href="https://{{page.domain}}{{rev '/favicon120.png'}}">
+  <link rel="apple-touch-icon"             type="image/png" sizes="152x152" href="https://{{page.domain}}{{rev '/favicon152.png'}}">
+  <link rel="apple-touch-icon"             type="image/png" sizes="180x180" href="https://{{page.domain}}{{rev '/favicon180.png'}}">
+  <link rel="apple-touch-icon-precomposed" type="image/png" sizes="57x57"   href="https://{{page.domain}}{{rev '/favicon57.png'}}">
+  <link rel="apple-touch-icon-precomposed" type="image/png" sizes="72x72"   href="https://{{page.domain}}{{rev '/favicon72.png'}}">
+  <link rel="apple-touch-icon-precomposed" type="image/png" sizes="120x120" href="https://{{page.domain}}{{rev '/favicon120.png'}}">
+  <link rel="apple-touch-icon-precomposed" type="image/png" sizes="144x144" href="https://{{page.domain}}{{rev '/favicon144.png'}}">
+
+  <!-- Windows 8 IE 10 -->
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="https://{{page.domain}}{{rev '/favicon144.png'}}">
+
+  <!-- Windows 8.1 + IE11 and above -->
+  <meta name="msapplication-config" content="https://{{page.domain}}/browserconfig.xml" />
+
+  <link rel="preconnect" href="//fonts.gstatic.com/" crossorigin>
+  <link rel="preconnect" href="//cdnjs.cloudflare.com/" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{rev '/css/style.css'}}" type="text/css" media="screen" title="no title" charset="utf-8">
+  <link href="//fonts.googleapis.com/css?family=Sriracha:400" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato:100,200,300,400,700,800" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,600" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Gothic+A1:300,400,600" rel="stylesheet">
+  {{#block "prescripts"}}
+  <script type="text/javascript" src="{{rev '/js/global.js'}}" defer></script>
+  {{/block}}
+  <script async src="{{rev '/js/i.js'}}" data-url="{{#prod}}//t.{{page.domain}}{{/prod}}/i"></script>
+</head>
+<body class="{{block 'bodyClass'}}" {{block 'bodyAttributes'}}>
+  {{block "preRoot"}}
+  <div class="root">
+    <header>
+      <nav>
+        <a href="/" class="top-brand" >That's Gender Dysphoria, FYI</a>
+
+        <div class="top-nav">
+          <ul class="top-nav-inner">
+            <!-- <li><a href="/glossary" class="top-nav-item">Glossary</a></li> -->
+            <li><a href="/gdb/" class="top-nav-item dropdown-toggle" id="nav-gdb" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">The Gender Dysphoria Bible</a>{{inject '/pages/gdb/_menu'}}</li>
+            <!-- <li><a href="/guides/" class="top-nav-item">Guides</a></li> -->
+            <!-- <li class="break"></li> -->
+            <li><a href="https://github.com/GenderDysphoria/GenderDysphoria.fyi" class="top-nav-item">{{icon 'brands/github'}}</a></li>
+            <!-- <li><a href="https://patreon.com/curvyandtrans" class="top-nav-item" title="Patreon">{{icon 'brands/patreon'}}</a></li> -->
+            <!-- <li><a href="https://ko-fi.com/curvyandtrans" class="top-nav-item" title="Ko-Fi">{{icon 'brands/ko-fi'}}</a></li> -->
+          </ul>
+
+
+        </div>
+      </nav>
+    </header>
+    {{block 'post-header'}}
+    <div id="body">
+      {{block "body"}}
+    </div>
+    <footer>
+      <p>Site text, website code and original graphics are <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed CC BY-NC-SA.</a><span class="cc-by-nc-sa">{{icon 'symbols/cc'}}{{icon 'symbols/cc-by'}}{{icon 'symbols/cc-nc'}}{{icon 'symbols/cc-sa'}}</span><br>&copy; {{date "yyyy"}} Jocelyn Badgley and Other Contributors </p>
+
+      <p><a href="/privacy">Privacy Policy</a></p>
+    </footer>
+  </div>
+
+  {{block "postscripts"}}
+  <noscript><img src="{{#prod}}//t.{{page.domain}}{{/prod}}/i?stage=noscript" style="display: none"></noscript>
+</body>
+</html>

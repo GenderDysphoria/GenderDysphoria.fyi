@@ -1,37 +1,43 @@
 
-<div class="pager">
-  {{#is step 0 1 }}<span class="filler"></span>{{/is}}
-  {{#is step 2}}<a href="/gdb/what-is-gender" class="btn btn-primary">{{icon 'chevron-left'}} What Is Gender?</a>{{/is}}
-  {{#is step 3}}<a href="/gdb/gd-history" class="btn btn-primary">{{icon 'chevron-left'}} The History of Gender Dysphoria</a>{{/is}}
-  {{#is step 4}}<a href="/gdb/euphoria" class="btn btn-primary">{{icon 'chevron-left'}} Gender Euphoria</a>{{/is}}
-  {{#is step 5}}<a href="/gdb/physical-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Physical Dysphoria</a>{{/is}}
-  {{#is step 6}}<a href="/gdb/biochemical-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Biochemical Dysphoria</a>{{/is}}
-  {{#is step 7}}<a href="/gdb/social-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Social Dysphoria</a>{{/is}}
-  {{#is step 8}}<a href="/gdb/societal-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Societal Dysphoria</a>{{/is}}
-  {{#is step 9}}<a href="/gdb/sexual-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Sexual Dysphoria</a>{{/is}}
-  {{#is step 10}}<a href="/gdb/presentational-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Presentational Dysphoria</a>{{/is}}
-  {{#is step 11}}<a href="/gdb/historical-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Historical Dysphoria</a>{{/is}}
-  {{#is step 12}}<a href="/gdb/managed-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Managed Dysphoria</a>{{/is}}
-  {{#is step 13}}<a href="/gdb/impostor-syndrome" class="btn btn-primary">{{icon 'chevron-left'}} Impostor Syndrome</a>{{/is}}
-  {{#is step 14}}<a href="/gdb/diagnoses" class="btn btn-primary">{{icon 'chevron-left'}} Clinical Diagnoses</a>{{/is}}
-  {{#is step 15}}<a href="/gdb/treatment" class="btn btn-primary">{{icon 'chevron-left'}} Treating Gender Dysphoria</a>{{/is}}
-  {{#is step 16}}<a href="/gdb/causes" class="btn btn-primary">{{icon 'chevron-left'}} Causes of Gender Dysphoria</a>{{/is}}
-  {{#is step 17}}<a href="/gdb/chromosomes" class="btn btn-primary">{{icon 'chevron-left'}} Disorders of Sexual Development</a>{{/is}}
+<div class="pager {{className}}">
+  <div class="back">
+    {{#is meta.url '/gdb/what-is-gender'          }}<a href="/gdb/" class="btn btn-primary left">{{icon 'chevron-left'}} Introduction</a>{{/is}}
+    {{#is meta.url '/gdb/history'                 }}<a href="/gdb/what-is-gender" class="btn btn-primary left">{{icon 'chevron-left'}} What Is Gender?</a>{{/is}}
+    {{#is meta.url '/gdb/euphoria'                }}<a href="/gdb/history" class="btn btn-primary left">{{icon 'chevron-left'}} The History of Gender Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/physical-dysphoria'      }}<a href="/gdb/euphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Gender Euphoria</a>{{/is}}
+    {{#is meta.url '/gdb/biochemical-dysphoria'   }}<a href="/gdb/physical-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Physical Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/social-dysphoria'        }}<a href="/gdb/biochemical-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Biochemical Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/societal-dysphoria'      }}<a href="/gdb/social-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Social Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/sexual-dysphoria'        }}<a href="/gdb/societal-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Societal Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/presentational-dysphoria'}}<a href="/gdb/sexual-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Sexual Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/historical-dysphoria'    }}<a href="/gdb/presentational-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Presentational Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/managed-dysphoria'       }}<a href="/gdb/historical-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Historical Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/impostor-syndrome'       }}<a href="/gdb/managed-dysphoria" class="btn btn-primary left">{{icon 'chevron-left'}} Managed Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/diagnoses'               }}<a href="/gdb/impostor-syndrome" class="btn btn-primary left">{{icon 'chevron-left'}} Impostor Syndrome</a>{{/is}}
+    {{#is meta.url '/gdb/treatment'               }}<a href="/gdb/diagnoses" class="btn btn-primary left">{{icon 'chevron-left'}} Clinical Diagnoses</a>{{/is}}
+    {{#is meta.url '/gdb/causes'                  }}<a href="/gdb/treatment" class="btn btn-primary left">{{icon 'chevron-left'}} Treating Gender Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/chromosomes'             }}<a href="/gdb/causes" class="btn btn-primary left">{{icon 'chevron-left'}} Causes of Gender Dysphoria</a>{{/is}}
+    {{#is meta.url '/gdb/conclusion'              }}<a href="/gdb/chromosomes" class="btn btn-primary left">{{icon 'chevron-left'}} Disorders of Sexual Development</a>{{/is}}
+  </div>
 
-  {{#is step  0}}<a href="/gdb/what-is-gender" class="btn btn-primary">Continue Reading {{icon 'chevron-right'}}</a>{{/is}}
-  {{#is step  1}}<a href="/gdb/gd-history" class="btn btn-primary">{{icon 'chevron-left'}} The History of Gender Dysphoria</a>{{/is}}
-  {{#is step  2}}<a href="/gdb/euphoria" class="btn btn-primary">{{icon 'chevron-left'}} Gender Euphoria</a>{{/is}}
-  {{#is step  3}}<a href="/gdb/physical-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Physical Dysphoria</a>{{/is}}
-  {{#is step  4}}<a href="/gdb/biochemical-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Biochemical Dysphoria</a>{{/is}}
-  {{#is step  5}}<a href="/gdb/social-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Social Dysphoria</a>{{/is}}
-  {{#is step  6}}<a href="/gdb/societal-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Societal Dysphoria</a>{{/is}}
-  {{#is step  7}}<a href="/gdb/sexual-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Sexual Dysphoria</a>{{/is}}
-  {{#is step  8}}<a href="/gdb/presentational-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Presentational Dysphoria</a>{{/is}}
-  {{#is step  9}}<a href="/gdb/historical-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Historical Dysphoria</a>{{/is}}
-  {{#is step 10}}<a href="/gdb/managed-dysphoria" class="btn btn-primary">{{icon 'chevron-left'}} Managed Dysphoria</a>{{/is}}
-  {{#is step 11}}<a href="/gdb/impostor-syndrome" class="btn btn-primary">{{icon 'chevron-left'}} Impostor Syndrome</a>{{/is}}
-  {{#is step 12}}<a href="/gdb/diagnoses" class="btn btn-primary">{{icon 'chevron-left'}} Clinical Diagnoses</a>{{/is}}
-  {{#is step 13}}<a href="/gdb/treatment" class="btn btn-primary">{{icon 'chevron-left'}} Treating Gender Dysphoria</a>{{/is}}
-  {{#is step 14}}<a href="/gdb/causes" class="btn btn-primary">{{icon 'chevron-left'}} Causes of Gender Dysphoria</a>{{/is}}
-  {{#is step 15}}<a href="/gdb/chromosomes" class="btn btn-primary">{{icon 'chevron-left'}} Disorders of Sexual Development</a>{{/is}}
+  <div class="forward">
+    {{#is meta.url '/gdb' '/'                     }}<a href="/gdb/what-is-gender" class="btn btn-primary right">Continue Reading {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/what-is-gender'          }}<a href="/gdb/history" class="btn btn-primary right">The History of Gender Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/history'                 }}<a href="/gdb/euphoria" class="btn btn-primary right">Gender Euphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/euphoria'                }}<a href="/gdb/physical-dysphoria" class="btn btn-primary right">Physical Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/physical-dysphoria'      }}<a href="/gdb/biochemical-dysphoria" class="btn btn-primary right">Biochemical Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/biochemical-dysphoria'   }}<a href="/gdb/social-dysphoria" class="btn btn-primary right">Social Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/social-dysphoria'        }}<a href="/gdb/societal-dysphoria" class="btn btn-primary right">Societal Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/societal-dysphoria'      }}<a href="/gdb/sexual-dysphoria" class="btn btn-primary right">Sexual Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/sexual-dysphoria'        }}<a href="/gdb/presentational-dysphoria" class="btn btn-primary right">Presentational Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/presentational-dysphoria'}}<a href="/gdb/historical-dysphoria" class="btn btn-primary right">Historical Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/historical-dysphoria'    }}<a href="/gdb/managed-dysphoria" class="btn btn-primary right">Managed Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/managed-dysphoria'       }}<a href="/gdb/impostor-syndrome" class="btn btn-primary right">Impostor Syndrome {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/impostor-syndrome'       }}<a href="/gdb/diagnoses" class="btn btn-primary right">Clinical Diagnoses {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/diagnoses'               }}<a href="/gdb/treatment" class="btn btn-primary right">Treating Gender Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/treatment'               }}<a href="/gdb/causes" class="btn btn-primary right">Causes of Gender Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/causes'                  }}<a href="/gdb/chromosomes" class="btn btn-primary right">But... but... the chromosomes! {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb/chromosomes'             }}<a href="/gdb/conclusion" class="btn btn-primary right">Conclusion {{icon 'chevron-right'}}</a>{{/is}}
+  </div>
+
 </div>

@@ -1,35 +1,41 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "The Gender Dysphoria Bible"
-subtitle: "A Brief History of Gender Dysphoria"
+title: "A Brief History of Gender Dysphoria"
 description: "The origins of Gender Dysphoria and the current meaning today."
 
 ---
+
+# A Brief History of Gender Dysphoria
 
 In 1948 noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
 
 Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, the American Psychiatric Association opting for the term Gender Identity Disorder instead.
 
-{!{ {{inject '~/img' images.hbscale className="card sideline" caption="Harry Benjamin Diagnostic Scale"}} }!}
+{!{ <div class="gutter">{{inject '~/img' images.hbscale className="card sideline" caption="Harry Benjamin Diagnostic Scale"}}</div> }!}
 
 If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how Gender Dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transexual", you were usually rejected for treatment.
 
 The problem was, Tier 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals, and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that if you did not fit all the criteria, then you were not trans enough to transition.
 
-In 2011 the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
+In 2011 the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (SoC, version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
 
 This is why trans presence across the world has suddenly exploded in the last decade. With easier access comes larger numbers, with larger numbers comes more visibility, with more visibility comes more awareness, and with more awareness comes more people accessing treatment. [A study conducted in 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) showed 0.6% of adults and 0.7% of youth in the United States identified as transgender, [a study conducted in 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) showed 1.8% of high school age students identified as transgender, and [a survey conducted by GLAAD in 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) showed a whopping 12% of respondents 18 to 34 did not identify as cisgender.
 
 Transgender people are coming out of the woodwork, we are everywhere.
 
-#### So What Is Gender Dysphoria?
+## So What Is Gender Dysphoria?
 
-> **Dys·pho·ri·a** - *Noun*   
-> A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+{!{
+<div class="gutter">
+  <blockquote>
+    <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
+    A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+  </blockquote>
+  {{inject '~/img' images.glue className="card sideline"}}
+</div>
+}!}
 
-{!{ {{inject '~/img' images.glue className="card sideline" caption="What Dysphoria Feels Like"}} }!}
-
-There is a common misconception among both cisgender and transgender people that Gender Dysphoria refers exclusively to a physical discomfort with ones own body. Consequently, proponents of SoC 7 and DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
+There is a common misconception among both cisgender and transgender people that Gender Dysphoria refers exclusively to a physical discomfort with ones own body. Consequently, proponents of WPATH SoC 7 and DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
 
 However, this belief that body discomfort is central to Gender Dysphoria is in fact a misconception, and is not even a majority component of a Gender Dysphoria diagnosis. Gender Dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and yes, how you relate to your own body.
 
@@ -61,4 +67,4 @@ There is no one single trans experience, there is no standard set of feelings an
 
 Ok, that disclaimer out of the way, lets get to the meat and potatoes.
 
-{{inject '_pager' step=2}}
+{!{ {{inject '_pager'}} }!}

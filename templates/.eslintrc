@@ -1,0 +1,9 @@
+{
+  "extends": "twipped/browser",
+  "env": {"es6": true},
+  "parserOptions": {"ecmaVersion": 2018},
+  "rules": {
+    "prefer-rest-params": "off",
+    "eol-last": "off"
+  }
+}

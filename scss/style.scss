@@ -1,0 +1,104 @@
+
+
+
+$body-bg: #f8f9fa;
+$content-bg: white;
+$gutter-bg: #f0f0f0;
+$gutter-border: #e2e2e2;
+$font-primary: 'Lato', Arial, sans-serif;
+$font-secondary: 'Gothic A1', 'Helvetica Neue', Helvetica, serif;
+$font-brand: 'Sriracha', Geneva, monospace;
+$font-family-sans-serif: $font-primary;
+$font-family-base: $font-primary;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 500px,
+  md: 800px,
+  lg: 1000px,
+  xl: 1200px
+) !default;
+
+$line-height-base: 1.6;
+
+$headings-font-family:        'Roboto', 'Helvetica Neue', Helvetica, serif;
+$headings-font-weight:        300;
+
+$font-size-base: 1rem;
+$h1-font-size:                $font-size-base * 2.2;
+$h2-font-size:                $font-size-base * 1.8;
+$h3-font-size:                $font-size-base * 1.5;
+$h4-font-size:                $font-size-base * 1.2;
+$h5-font-size:                $font-size-base * 1.15;
+$h6-font-size:                $font-size-base;
+
+h1, h2, .h1, .h2 { font-weight: 300; }
+h3, .h3 { font-weight: 400; }
+h4, h5, .h4, .h5 { font-weight: 600; }
+
+$trans-white: #fff;
+$trans-pink: #F7A8B8;
+$trans-blue: #55CDFC;
+$trans-pink-light: #fde6eb;
+$trans-blue-light: #b9eafe;
+$trans-blue-lightest: #f0f8ff;
+$trans-pink-dark: #ee4b6c;
+$trans-blue-dark: #0377a4;
+$primary: #fc0a7e;
+
+$header-bg-1: #E81179;
+$header-bg-2: #281362;
+$header-bg-mid: mix($header-bg-1, $header-bg-2);
+$header-full-height: 100px;
+
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+
+
+@import "bootstrap/scss/root";
+@import "bootstrap/scss/reboot";
+@import "bootstrap/scss/type";
+// @import "bootstrap/scss/images";
+// @import "bootstrap/scss/code";
+// @import "bootstrap/scss/grid";
+// @import "bootstrap/scss/tables";
+// @import "bootstrap/scss/forms";
+@import "bootstrap/scss/buttons";
+// @import "bootstrap/scss/transitions";
+@import "bootstrap/scss/dropdown";
+// @import "bootstrap/scss/button-group";
+// @import "bootstrap/scss/input-group";
+// @import "bootstrap/scss/custom-forms";
+// @import "bootstrap/scss/nav";
+// @import "bootstrap/scss/navbar";
+@import "bootstrap/scss/card";
+// @import "bootstrap/scss/breadcrumb";
+// @import "bootstrap/scss/pagination";
+@import "bootstrap/scss/badge";
+// @import "bootstrap/scss/jumbotron";
+@import "bootstrap/scss/alert";
+// @import "bootstrap/scss/progress";
+// @import "bootstrap/scss/media";
+@import "bootstrap/scss/list-group";
+// @import "bootstrap/scss/close";
+// @import "bootstrap/scss/toasts";
+// @import "bootstrap/scss/modal";
+// @import "bootstrap/scss/tooltip";
+// @import "bootstrap/scss/popover";
+// @import "bootstrap/scss/carousel";
+// @import "bootstrap/scss/spinners";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/print";
+
+@import "./global";
+@import "./header";
+@import "./footer";
+@import "./tweet";
+@import "./index";
+@import "./post";
+@import "./card";
+@import "./grid-row";
+@import "./markup";
+@import "./pager";
+

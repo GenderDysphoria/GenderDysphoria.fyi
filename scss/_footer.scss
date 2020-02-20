@@ -1,0 +1,55 @@
+
+footer, .footer {
+  font-size: 10px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 0 20px;
+
+  p {
+    margin: 0 auto;
+  }
+
+  &, a { color: #ccc; }
+
+  a { text-decoration: underline; }
+
+  .cc-by-nc-sa {
+    line-height: 1;
+    display: inline-block;
+    vertical-align: bottom;
+
+    .svg-icon {
+      margin: 0 5px;
+    }
+  }
+}
+
+.patreon-support {
+  font-size: 12px;
+
+  strong {
+    margin-bottom: 5px;
+    display: block;
+  }
+
+  a {
+    color: #aaa;
+  }
+
+  ul {
+    padding: 0;
+
+    li {
+      display: inline;
+    }
+
+    li::after {
+      content: ", ";
+    }
+
+    li:last-child::after {
+        content: "";
+    }
+  }
+}

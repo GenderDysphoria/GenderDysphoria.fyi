@@ -1,0 +1,45 @@
+
+<div class="tweet{{#is ids.length 1}} single{{/is}} {{className}}" style="{{style}}">
+  {{#each ids}}
+  <div class="tweet-item" data-id="{{this}}">{{#with (lookup ../tweets this)}}
+    <a class="tweet-header" href="https://twitter.com/{{user.screen_name}}">
+      <b><img src="{{rev user.avatar.output}}" alt=""></b>
+      <strong>
+        {{{user.name_html}}}
+        {{#if user.verified}}<i class="tweet-verified">&nbsp;</i>{{/if}}
+        {{#if user.protected}}<svg viewBox="0 0 24 24" aria-label="Protected account" class="tweet-protected"><g><path fill="currentColor" d="M19.75 7.31h-1.88c-.19-3.08-2.746-5.526-5.87-5.526S6.32 4.232 6.13 7.31H4.25C3.01 7.31 2 8.317 2 9.56v10.23c0 1.24 1.01 2.25 2.25 2.25h15.5c1.24 0 2.25-1.01 2.25-2.25V9.56c0-1.242-1.01-2.25-2.25-2.25zm-7 8.377v1.396c0 .414-.336.75-.75.75s-.75-.336-.75-.75v-1.396c-.764-.3-1.307-1.04-1.307-1.91 0-1.137.92-2.058 2.057-2.058 1.136 0 2.057.92 2.057 2.056 0 .87-.543 1.61-1.307 1.91zM7.648 7.31C7.838 5.06 9.705 3.284 12 3.284s4.163 1.777 4.352 4.023H7.648z"></path></g></svg>{{/if}}
+      </strong>
+      <span>@{{user.screen_name}}</span>
+      <img src="/tweets/logo.svg" alt="Twitter Logo" class="tweet-logo">
+    </a>
+    <div class="tweet-text">{{{html}}}</div>
+    {{#if quoted_status}}<a class="tweet-quoted" href="https://twitter.com/{{quoted_status.user.screen_name}}/status/{{quoted_status.id_str}}">
+      <strong>{{{quoted_status.user.name_html}}}</strong>
+      <span>@{{quoted_status.user.screen_name}}</span>
+      <div class="tweet-quoted-text">{{{quoted_status.html}}}</div>
+    </a>{{/if}}
+    {{#any extended_entities.media entities.media}}
+    <div class="tweet-entities"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid count{{this.length}}">
+      {{#each this}}
+      <div class="tweet-entity">
+        {{#is type 'photo'}}<a class="tweet-photo" style="background-image: url({{media_url_https}}?name=medium);" href="{{media_url_https}}"></a>{{/is}}
+        {{#is type 'video'}}
+          <video controls poster="{{media_url}}" class="tweet-video">
+            {{#each video_info.variants}}
+            <source src="{{url}}" type="{{content_type}}">
+            {{/each}}
+          </video>
+        {{/is}}
+        {{#is type animated_gif}}
+
+        {{/is}}
+      </div>
+      {{/each}}
+    </div></div></div></div>
+    {{/any}}
+    <div class="tweet-footer">
+      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">{{date created_at "h:mm aa - LLL do, yyyy"}}</a>
+    </div>
+  {{else}}Missing tweet for {{this}}{{/with}}</div>
+  {{/each}}
+</div>

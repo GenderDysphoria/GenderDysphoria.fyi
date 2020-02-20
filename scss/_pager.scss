@@ -1,0 +1,35 @@
+
+.pager {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5px;
+  justify-content: center;
+  align-items: center;
+  margin: 1em 0;
+
+  &.top {
+    margin: 0 0 1em;
+  }
+
+  > div {
+    display: flex;
+  }
+
+  .btn {
+    font-size: 0.9em;
+    box-shadow: 0px 1px 5px rgba(#000, 0.5);
+    color: white;
+    white-space: nowrap;
+    // width: 100%;
+    min-width: 75%;
+    display: flex;
+  }
+
+  .back, .back .btn {
+    justify-content: flex-start;
+  }
+
+  .forward, .forward .btn {
+    justify-content: flex-end;
+  }
+}

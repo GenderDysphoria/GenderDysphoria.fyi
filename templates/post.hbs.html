@@ -1,0 +1,31 @@
+{{#extend "layout"}}
+
+  {{#content "meta"}}
+  <meta property="og:title" content="{{title}}{{#if subtitle}}, {{subtitle}}{{/if}}">
+  <meta property="og:description" content="{{description}}">
+  {{#if titlecard}}<meta property="og:image" content="https://{{page.domain}}{{rev titlecard}}">{{/if}}
+  <meta property="og:url" content="https://{{page.domain}}{{url}}">
+  <meta name="twitter:title" content="{{title}}{{#if subtitle}}, {{subtitle}}{{/if}}">
+  <meta name="twitter:description" content="{{description}}">
+  {{#if titlecard}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}">
+  {{/if}}
+  <link rel="canonical" href="https://{{page.domain}}{{url}}">{{/content}}
+
+  {{#append 'post-header'}}
+  <div class="disclaimer"><div>
+    <strong>The Gender Dysphoria Bible is a Living Document</strong>
+    <p>The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of Gender Dysphoria. In its current iteration it is severely lacking in AFAB narratives, non-binary, agender &amp; genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, <a href="https://github.com/GenderDysphoria/GenderDysphoria.fyi">content</a> and <a href="https://patreon.com/curvyandtrans">fiscal</a> contributions are extremely welcome.</p>
+  </div></div>
+  {{/append}}
+
+  {{#content "bodyClass"}}page{{/content}}
+
+  {{#content "body"}}
+  <article class="{{#each classes}}{{this}} {{/each}}markup">
+    <div class="post-content">{{{this.contents}}}</div>
+  </article>
+  {{/content}}
+
+{{/extend}}

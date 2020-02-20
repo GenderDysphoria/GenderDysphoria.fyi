@@ -1,0 +1,30 @@
+
+
+.grid-row {
+  clear: both;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-gap: 10px;
+  grid-template-columns: repeat( auto-fit, minmax( 250px, 1fr ) );
+
+  margin-bottom: 1rem;
+
+  @include media-breakpoint-up(md) {
+    .double { grid-column-end: span 2; }
+  }
+
+  &.by-two {
+    grid-template-columns: repeat( auto-fit, minmax( 420px, 1fr ) );
+  }
+
+  &.by-three {
+    grid-template-columns: repeat( auto-fit, minmax( 325px, 1fr ) );
+  }
+
+  &.by-three-forced {
+    @include media-breakpoint-up(md) {
+      grid-template-columns: repeat( auto-fit, minmax( 30%, 1fr ) );
+    }
+  }
+}
+
