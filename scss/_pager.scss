@@ -1,11 +1,15 @@
 
 .pager {
+
+  position: sticky;
+  bottom: 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 5px;
   justify-content: center;
   align-items: center;
-  margin: 1em 0;
+  padding: 1em 0;
+  margin-top: -1em;
 
   &.top {
     margin: 0 0 1em;

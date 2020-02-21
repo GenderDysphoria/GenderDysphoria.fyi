@@ -77,7 +77,7 @@ You may be unconcerned with the state of your body, perhaps not even fearing dea
   '1215736608055537670'
   '1215738145473474560'
   '1215740224325783553'
-) tweets=meta.tweets className="collapse" }}</div> }!}
+) tweets=meta.tweets className="oneblock" }}</div> }!}
 
 **Derealization** is a detachment from the world around you, a mental sense that everything you perceive is false.
 
