@@ -31,7 +31,7 @@ EOF
 
 resource "aws_cloudfront_distribution" "site" {
   origin {
-    domain_name = aws_s3_bucket.temp_redirect.bucket_regional_domain_name
+    domain_name = aws_s3_bucket.src.bucket_regional_domain_name
     origin_id   = "S3-Website-${aws_s3_bucket.src.website_endpoint}"
 
     custom_origin_config {
@@ -64,11 +64,11 @@ resource "aws_cloudfront_distribution" "site" {
       }
     }
 
-    # lambda_function_association {
-    #   event_type   = "origin-request"
-    #   lambda_arn   = aws_lambda_function.index_redirect.qualified_arn
-    #   include_body = false
-    # }
+    lambda_function_association {
+      event_type   = "origin-request"
+      lambda_arn   = aws_lambda_function.index_redirect.qualified_arn
+      include_body = false
+    }
 
     viewer_protocol_policy = "redirect-to-https"
     min_ttl                = 0
@@ -128,24 +128,25 @@ resource "aws_route53_record" "www" {
 # -----------------------------------------------------------------------------------------------------------
 # Lambda Subdirectory index.html Redirect
 
-# data "archive_file" "index_redirect" {
-#   type        = "zip"
-#   output_path = "${path.module}/files/index_redirect.js.zip"
-#   source_file = "${path.module}/files/index_redirect.js"
-# }
+data "archive_file" "index_redirect" {
+  type        = "zip"
+  output_path = "${path.module}/files/index_redirect.js.zip"
+  source_file = "${path.module}/files/index_redirect.js"
+}
 
-# resource "aws_lambda_function" "index_redirect" {
-#   description      = "index.html subdirectory redirect"
-#   filename         = "${path.module}/files/index_redirect.js.zip"
-#   function_name    = "folder-index-redirect"
-#   handler          = "index_redirect.handler"
-#   source_code_hash = data.archive_file.index_redirect.output_base64sha256
-#   publish          = true
-#   role             = aws_iam_role.lambda_redirect.arn
-#   runtime          = "nodejs12.x"
+resource "aws_lambda_function" "index_redirect" {
+  description      = "index.html subdirectory redirect"
+  filename         = "${path.module}/files/index_redirect.js.zip"
+  function_name    = "${var.site}-index-redirect"
+  handler          = "index_redirect.handler"
+  source_code_hash = data.archive_file.index_redirect.output_base64sha256
+  publish          = true
+  role             = aws_iam_role.lambda_redirect.arn
+  runtime          = "nodejs10.x"
 
-#   tags = {
-#     Name   = "${var.site}-index-redirect"
-#     Site = var.site
-#   }
-# }
+  tags = {
+    Name   = "${var.site}-index-redirect"
+    Site = var.site
+  }
+}
+

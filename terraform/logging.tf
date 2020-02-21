@@ -23,7 +23,7 @@ data "archive_file" "logs_parser" {
 
 resource "aws_lambda_function" "logs_parser" {
   filename      = data.archive_file.logs_parser.output_path
-  function_name = "${var.site}-lambda"
+  function_name = "${var.site}-logs-decorator"
   handler       = "index.handler"
   source_code_hash = data.archive_file.logs_parser.output_base64sha256
   runtime = "nodejs12.x"
