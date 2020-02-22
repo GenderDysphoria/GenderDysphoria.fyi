@@ -3,10 +3,10 @@ const { series, parallel, watch } = require('gulp');
 
 /** **************************************************************************************************************** **/
 
-var { loadLayout, pages } = require('./contents');
-var contentTask = series( loadLayout, pages );
-exports.pages = series( loadLayout, pages );
-exports.content = contentTask;
+var content = require('./content');
+exports.parse = content.parse;
+exports.pages = content.write;
+exports.content = series(content.parse, content.write);
 
 var images = require('./imgflow');
 exports.twimages = images.twitter;
@@ -40,17 +40,15 @@ exports.cloudfront = cloudfront;
 
 /** **************************************************************************************************************** **/
 
-exports.new = require('./new');
-
-var buildTask = series(
+var prodBuildTask = series(
   images.prod,
   images.favicon.prod,
   scssTask.prod,
   jsTask.prod,
   filesTask.prod,
-  loadLayout.prod,
-  pages.prod,
+  content.parse,
   images.twitter.prod,
+  content.write.prod,
 );
 
 var devBuildTask = series(
@@ -60,17 +58,17 @@ var devBuildTask = series(
     scssTask,
     jsTask,
     filesTask,
+    content.parse,
   ),
-  loadLayout,
-  pages,
+  content.write,
   images.twitter,
 );
 
 exports.dev = devBuildTask;
-exports.prod = buildTask;
+exports.prod = prodBuildTask;
 exports.publish = series(
   cleanTask,
-  buildTask,
+  prodBuildTask,
   pushToProd,
   cloudfront.prod,
 );
@@ -83,7 +81,7 @@ function watcher () {
   watch([
     'pages/**/*.{md,hbs,html}',
     'templates/*.{md,hbs,html}',
-  ], series(contentTask, images.twitter));
+  ], series(content.parse, images.twitter, content.write));
 
   watch('page/**/*.{jpeg,jpg,png,gif}', images);
 
@@ -105,8 +103,8 @@ function server () {
 
 }
 
-exports.watch = series(contentTask, watcher);
-exports.uat = series(cleanTask, buildTask, server);
+exports.watch = series(series(content.parse, images.twitter, content.write), watcher);
+exports.uat = series(cleanTask, prodBuildTask, server);
 
 /** **************************************************************************************************************** **/
 

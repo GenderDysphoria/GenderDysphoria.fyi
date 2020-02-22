@@ -6,8 +6,7 @@ node_modules
 /.awspublish-*
 /bs-manifest.json
 /bs-cache
-/posts.json
-/posts-sans.json
+/pages.json
 /if-*
 /twitter-cache.json
 /terraform/*.tfstate*
