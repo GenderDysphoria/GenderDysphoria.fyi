@@ -21,10 +21,10 @@ tweets:
 # But the Chromosomes!!!
 
 {!{ <div class="gutter">
-  {{inject '~/tweet' ids=(array
+  {{import '~/tweet' ids=(array
     '1223942625708761088'
   ) tweets=meta.tweets className="" }}
-  {{inject '~/tweet' ids=(array
+  {{import '~/tweet' ids=(array
     '1207834357639139328'
     '1207835110617309191'
     '1207835384358604802'
@@ -37,7 +37,7 @@ tweets:
     '1207838924263084033'
     '1207839452619522048'
   ) tweets=meta.tweets className="oneblock" }}
-  {{inject '~/tweet' ids=(array
+  {{import '~/tweet' ids=(array
     '1208181235593490433'
   ) tweets=meta.tweets className="" }}
 </div>}!}
@@ -81,6 +81,6 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
 
-{!{ {{inject '~/img' images.barbosa className="card borderless center" alt="The code is more what you'd call guidelines, than actual rules."}} }!}
+{!{ {{import '~/img' images.barbosa className="card borderless center" alt="The code is more what you'd call guidelines, than actual rules."}} }!}
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

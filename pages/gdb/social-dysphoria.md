@@ -15,7 +15,7 @@ tweets:
 
 # Social Dysphoria
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1215718003310039040'
   '1215720411788382210'
   '1215724301065891841'
@@ -47,7 +47,7 @@ It may also manifest as joy or embarrassment at being labeled as your true gende
 - An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
 - An AFAB person being called Sir, and feeling better for it.
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1219968711681040384'
 ) tweets=meta.tweets className="" }} </div> }!}
 
@@ -63,7 +63,7 @@ I, myself, have no direct physical dysphoria around my voice, I actually really 
 
 A very curious and surprisingly phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1137185510793678848'
 ) tweets=meta.tweets className="" }} </div> }!}
 
@@ -72,4 +72,4 @@ Trans people subconsciously tend to gravitate towards each others friendships, b
 Trans people often continue to self-select their groups post-transition as well, as we simply understand each other better than cis people can. There is an energy that occurs when a group of trans people get together in a location, the room becomes charged with camaraderie and commiseration. We all have so much in common in our histories, so many shared experiences, that short of personality conflicts we instantly bond together.
 
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

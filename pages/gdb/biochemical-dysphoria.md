@@ -72,7 +72,7 @@ You may put little care into your physical appearance, reaching for only the bas
 
 You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1215716438972993536'
   '1215736608055537670'
   '1215738145473474560'
@@ -113,7 +113,7 @@ All of this is valid, and just because you feel very dysphoric one day and not d
 
 ### This Happens Both Ways
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1222738910821978113'
   '1222739427312750594'
   '1222740261178105856'
@@ -132,4 +132,4 @@ Psychologist John Money oversaw David's case and was largely responsible for the
 
 This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (tho not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

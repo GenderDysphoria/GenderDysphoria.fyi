@@ -29,7 +29,7 @@ Eventually they realize that they don't want to go back into the hole any more. 
 
 This is what Gender Euphoria is like, it is brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1215716433210105856'
 ) tweets=meta.tweets className="hide-reply" }}</div> }!}
 
@@ -39,7 +39,7 @@ This is the most fundamental reason why we as a community say "you do not need d
 
 Anything that can be a source of dysphoria has an equal and opposite euphoria.
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1228141518386585607'
   '1228165207316287489'
   '1228165767264256003'
@@ -66,5 +66,5 @@ Even just being out in the world as yourself and being seen as yourself can be m
 That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely, it does not go away when they go back to their daily lives.
 
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}
 

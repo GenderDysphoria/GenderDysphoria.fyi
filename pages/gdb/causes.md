@@ -17,11 +17,11 @@ tweets:
 
 Here is what we know today. If you’ve seen Jurassic Park then you may remember this scene:
 
-{!{ {{inject '~/img' images.jurassicpark className="card borderless center span34" alt="All vertebrate embryos are inherently female anyway. They just require an extra hormone given at the right developmental stage to make them male."}} }!}
+{!{ {{import '~/img' images.jurassicpark className="card borderless center span34" alt="All vertebrate embryos are inherently female anyway. They just require an extra hormone given at the right developmental stage to make them male."}} }!}
 
 This isn't science fiction, tho it is very dumbed down. In human fetuses the gonads initially develop in a bi-potential state, meaning they can become either ovaries or testes. The SRY gene on the Y chromosome releases a protein called [Testis Determining Factor](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF). This protein then starts a chain reaction with SOX9 production (another protein), which causes the gonadal cells to form into the Sertoli and Leydig cells that make up the testes. If TDF is never produced or is interfered with then the gonad cells form into the Theca cells and follicles which comprise the ovaries.
 
-{!{ <div class="gutter flex" style="justify-content: center"> {{inject '~/img' images.fetalgenitals className="card" caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>" alt="Fetal development of internal sexual anatomy"}}</div> }!}
+{!{ <div class="gutter flex" style="justify-content: center"> {{import '~/img' images.fetalgenitals className="card" caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>" alt="Fetal development of internal sexual anatomy"}}</div> }!}
 
 Once formed, the testes then begin producing a testosterone surge which typically starts in the 8th week of gestation and continues until the 24th week. This surge, [combined with another hormone from the placenta](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), is responsible for the development of the penis and scrotum. Genitalia formation starts around week 9 and becomes identifiable by the 11th week. If the surge does not occur, or the body does not respond to it (such as in the case of Androgen Insensitivity Syndrome) then the genitalia form into the vulva, vagina and uterus instead.
 
@@ -33,7 +33,7 @@ The fact is, the vast majority of the population has never been tested for genet
 
 {!{ <div class="gutter">
   <strong style="display: block;text-align: center;">And it gets even weirder!</strong>
-{{inject '~/tweet' ids=(array
+{{import '~/tweet' ids=(array
   '1224039568971710464'
   '1224040716365524993'
   '1224041800513380352'
@@ -65,4 +65,4 @@ Yet, progress continues, and every few years we learn a little bit more.
 
 What we know for certain is that it is not a psychological condition, it is not something caused by trauma or by any external influence, nothing can make a person transgender. It happens in the womb, and is not something that a person can choose to be, any more than they could choose their race or their eye color. It has nothing to do with sexual orientation, it has nothing to do with kinks or fetishes, it has nothing to do with social influences from their parents or from their peers. [Transgender children are as firm in their identities as cisgender children are.](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

@@ -8,7 +8,7 @@ tweets:
 
 # What is Gender?
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1228717614630940672'
 ) tweets=meta.tweets className="hide-reply" }}</div> }!}
 
@@ -22,15 +22,15 @@ Human Sex (the adjective, not the verb) is broken down into three categories:
 
 Any of these three aspects can fall into a position on a range of values. Your elementary school health class probably taught you that Genotype is binary, either Female (XX) or Male (XY), when the reality is that there are a dozen other permutations that can occur within human beings.
 
-{!{ {{inject '~/img' images.bimodal className="card borderless center span34"}} }!}
+{!{ {{import '~/img' images.bimodal className="card borderless center span34"}} }!}
 
 Likewise, many people believe that Phenotype is also binary, but biology has recognized for hundreds of years that when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
 {!{
 <div class="gutter flex">
-{{inject '~/img' images.spectrum className="" link="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of" style="margin-bottom: 5px"}}
-{{inject '~/img' images.graph className="" style="margin-bottom: 5px"}}
-{{inject '~/img' images.gender_unicorn className="" link="http://www.transstudent.org/gender" style="margin-bottom: 5px"}}
+{{import '~/img' images.spectrum className="" link="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of" style="margin-bottom: 5px"}}
+{{import '~/img' images.graph className="" style="margin-bottom: 5px"}}
+{{import '~/img' images.gender_unicorn className="" link="http://www.transstudent.org/gender" style="margin-bottom: 5px"}}
 </div>
 }!}
 
@@ -54,5 +54,5 @@ What **Gender is *not*** is sexual orientation. We describe orientation using te
 
 In generalist terms this essay will be describing gender in a sense of binary identities (male/female) vs non-binary identities (agender, bigender, genderqueer, etc), but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}
 

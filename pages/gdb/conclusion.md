@@ -20,5 +20,5 @@ There is no such thing as parents "transing" their kids.
 These mentalities have to stop.
 
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}
 

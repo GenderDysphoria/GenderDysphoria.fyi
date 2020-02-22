@@ -32,4 +32,4 @@ The following changes that have been made to this document since release:
 - Moved History of GD and What Is GD into a new page.
 
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

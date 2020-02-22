@@ -16,7 +16,7 @@ tweets:
 
 # Impostor Syndrome
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1219963582063968258'
 ) tweets=meta.tweets className="hide-reply" }}</div> }!}
 
@@ -28,7 +28,7 @@ On top of this, messages saying that trans people hate their bodies or hate thei
 
 ***[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1221970265862811650'
 ) tweets=meta.tweets className="" }}</div> }!}
 
@@ -42,7 +42,7 @@ The world is *full* of influences put in place to fill us with doubt and keep us
 
 ### Autogynephilia
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1153300365355307008'
   '1153300366902960128'
   '1153300368974991361'
@@ -103,4 +103,4 @@ These people will stop at nothing to invalidate your existence. Do not give them
 
 GAs do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it. They're functionally the extreme leftist version of the Gender Critical movement.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

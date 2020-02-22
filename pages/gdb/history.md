@@ -11,7 +11,7 @@ In 1948 noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wiki
 
 Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, the American Psychiatric Association opting for the term Gender Identity Disorder instead.
 
-{!{ <div class="gutter">{{inject '~/img' images.hbscale className="card sideline" caption="Harry Benjamin Diagnostic Scale"}}</div> }!}
+{!{ <div class="gutter">{{import '~/img' images.hbscale className="card sideline" caption="Harry Benjamin Diagnostic Scale"}}</div> }!}
 
 If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how Gender Dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transexual", you were usually rejected for treatment.
 
@@ -31,7 +31,7 @@ Transgender people are coming out of the woodwork, we are everywhere.
     <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
     A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
   </blockquote>
-  {{inject '~/img' images.glue className="card sideline"}}
+  {{import '~/img' images.glue className="card sideline"}}
 </div>
 }!}
 
@@ -65,4 +65,4 @@ There is no one single trans experience, there is no standard set of feelings an
 
 Ok, that disclaimer out of the way, lets get to the meat and potatoes.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

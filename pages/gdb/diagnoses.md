@@ -58,4 +58,4 @@ So, it is literally impossible for a person to identify as trans and not experie
 
 Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra, than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

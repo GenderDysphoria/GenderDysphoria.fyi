@@ -16,4 +16,4 @@ Many trans people attempt to recapture some of these lost events, hosting or att
 
 This is one of many reasons why affirming trans youth is so important. Boys want to do common boy things and girls want to do common girl things, and when they miss out they will not forget.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

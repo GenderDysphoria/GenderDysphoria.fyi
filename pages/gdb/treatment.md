@@ -114,4 +114,4 @@ Other Trans Feminine Surgeries:
 - Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
 
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

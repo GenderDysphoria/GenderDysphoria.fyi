@@ -28,4 +28,4 @@ This experience of discontinuity between the internal and external self is what 
 
 The purpose of this site is to document the many ways that Gender Dysphoria manifests, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting, those already on their path, and those who simply wish to be better allies.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}

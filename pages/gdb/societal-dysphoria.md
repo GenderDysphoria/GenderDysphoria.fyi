@@ -31,7 +31,7 @@ Failure to live up to these roles can manifest *intensely* as shame and humiliat
 
 These kinds of situations can lead to bullying and abuse, pushing the trans person to feel isolated, alone, and out of place. This sense of division then creates feelings of shame for failing to be the person everyone expects them to be. This then manifests as depression on top of other dysphoria, compounding their pain.
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
     '1201138482569195526'
 ) tweets=meta.tweets className="" }}</div> }!}
 
@@ -45,7 +45,7 @@ Shame also tends to build up until it boils over into radical action. A very com
 
 ### Dating and Romantic Relationships
 
-{!{ <div class="gutter">{{inject '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1216109204093722630'
   '1216109206509694979'
   '1216109207671508992'
@@ -66,4 +66,4 @@ For example, I myself realized after coming out to my wife that all of my previo
 
 This all gets even more complex for non-binary people, some of whom can at best describe their dating style as Queer.
 
-{!{ {{inject '_pager'}} }!}
+{!{ {{import '_pager'}} }!}
