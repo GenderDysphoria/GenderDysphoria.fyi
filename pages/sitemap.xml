@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    {{#each posts.final}}
+    {{#each pages}}
     <url>
         <loc>https://{{page.domain}}{{this.url}}</loc>
-        <lastmod>{{date this.date "yyyy-MM-dd'T'HH:mm:ss.SSSxxx"}}</lastmod>
+        <lastmod>{{date this.dateModified "yyyy-MM-dd'T'HH:mm:ss.SSSxxx"}}</lastmod>
     </url>
     {{/each}}
-    <url>
-        <loc>https://{{page.domain}}/</loc>
-        <lastmod>{{#with posts.first}}{{date this.date "yyyy-MM-dd'T'HH:mm:ss.SSSxxx"}}{{/with}}</lastmod>
-    </url>
 </urlset>
