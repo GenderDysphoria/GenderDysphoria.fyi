@@ -1,6 +1,6 @@
 const path = require('path');
 const glob = require('../lib/glob');
-const { groupBy, sortBy, omitBy, uniqBy } = require('lodash');
+const { sortBy, uniqBy } = require('lodash');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
 const log = require('fancy-log');

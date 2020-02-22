@@ -9,6 +9,7 @@
     'node/no-unsupported-features/es-syntax': [ 'error' ],
     'node/no-unsupported-features/es-builtins': [ 'error' ],
     'node/no-unsupported-features/node-builtins': [ 'error' ],
-    'require-atomic-updates': 0
+    'require-atomic-updates': 0,
+    'block-scoped-var': 0,
 	}
 }
