@@ -17,11 +17,6 @@ const routes = {
     sharedCacheTime: 2592000, // 30 days on server
   },
 
-  '^(?:index|tags|drafts)\\.html$': {
-    cacheTime: 60, // one minute on client
-    sharedCacheTime: 60, // one minute on server
-  },
-
   '^(?:sitemap|atom)\\.xml$': {
     cacheTime: 3600, // one hour on client
     sharedCacheTime: 86400, // one day on server

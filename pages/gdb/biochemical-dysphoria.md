@@ -26,7 +26,7 @@ If your brain is wired for one gonadal hormones (such as testosterone) and your 
 <div class="gutter">
 <a class="card ig-card" href="https://www.instagram.com/p/B4fwhWAH2F-/">
   <div class="ig-header">
-    <div class="ig-avatar" style="background-image: url(theredgrrl.jpg);"></div>
+    <div class="ig-avatar" style="background-image: url({{images.theredgrrl.sizes.0.url}});"></div>
     <div class="ig-name">
       <strong>Brea</strong>
       <span>theredgrrl</span>

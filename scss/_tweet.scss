@@ -258,12 +258,6 @@
     }
   }
 
-  @include media-breakpoint-up(md) {
-    &.oneblock:not(.right) {
-      max-height: unset;
-    }
-  }
-
   &.hide-reply .tweet-text a.mention:first-child { display: none; }
 
   &.collapse:not(.grid-row) {

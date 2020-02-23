@@ -54,7 +54,7 @@ Shame also tends to build up until it boils over into radical action. A very com
   '1216110666626555904'
   '1216111083997605888'
   '1216112014411599877'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+) tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
 Societal Dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered, and AFABs may become uncomfortable with the amount of attention they receive from their prospective partners (beyond the discomfort that women experience, as this includes genuine attention, not just unwanted attention). The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons.
 
