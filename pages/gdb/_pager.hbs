@@ -1,4 +1,3 @@
-
 <div class="pager {{className}}">
   <div class="back">
     {{#is meta.url '/gdb/what-is-gender'          }}<a href="/gdb/" class="btn btn-primary left">{{icon 'chevron-left'}} Introduction</a>{{/is}}
@@ -21,7 +20,8 @@
   </div>
 
   <div class="forward">
-    {{#is meta.url '/gdb' '/'                     }}<a href="/gdb/what-is-gender" class="btn btn-primary right">Continue Reading {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/'                            }}<a href="/gdb/what-is-gender" class="btn btn-primary right">Continue Reading {{icon 'chevron-right'}}</a>{{/is}}
+    {{#is meta.url '/gdb'                         }}<a href="/gdb/what-is-gender" class="btn btn-primary right">What is Gender? {{icon 'chevron-right'}}</a>{{/is}}
     {{#is meta.url '/gdb/what-is-gender'          }}<a href="/gdb/history" class="btn btn-primary right">The History of Gender Dysphoria {{icon 'chevron-right'}}</a>{{/is}}
     {{#is meta.url '/gdb/history'                 }}<a href="/gdb/euphoria" class="btn btn-primary right">Gender Euphoria {{icon 'chevron-right'}}</a>{{/is}}
     {{#is meta.url '/gdb/euphoria'                }}<a href="/gdb/physical-dysphoria" class="btn btn-primary right">Physical Dysphoria {{icon 'chevron-right'}}</a>{{/is}}

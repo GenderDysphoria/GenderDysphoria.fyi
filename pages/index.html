@@ -1,14 +1,14 @@
 {{#extend "layout"}}
 
   {{#content "meta"}}
-  <meta property="og:title" content="{{page.title}}">
-  <meta property="og:description" content="{{page.description}}">
-  <!-- <meta property="og:image" content="https://{{page.domain}}{{rev '/images/titlecard.jpg'}}"> -->
+  <meta property="og:title" content="{{meta.title}}">
+  <meta property="og:description" content="{{meta.description}}">
+  {{!-- <meta property="og:image" content="https://{{page.domain}}{{rev '/images/titlecard.jpg'}}"> --}}
   <meta property="og:url" content="https://{{page.domain}}">
-  <meta name="twitter:title" content="{{page.title}}">
-  <meta name="twitter:description" content="{{page.description}}">
+  <meta name="twitter:title" content="{{meta.title}}">
+  <meta name="twitter:description" content="{{meta.description}}">
   <meta name="twitter:card" content="summary_large_image">
-  <!-- <meta name="twitter:image" content="https://{{page.domain}}{{rev '/images/titlecard.jpg'}}"> -->
+  {{!-- <meta name="twitter:image" content="https://{{page.domain}}{{rev '/images/titlecard.jpg'}}"> --}}
   {{/content}}
 
   {{#content "bodyClass"}}front-page{{/content}}
