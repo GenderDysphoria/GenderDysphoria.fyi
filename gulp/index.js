@@ -25,10 +25,6 @@ exports.scss = scssTask;
 var jsTask = require('./scripts');
 exports.js = jsTask;
 
-var jsRollupTask = require('./rollup');
-exports.jsr = jsRollupTask;
-
-
 var cleanTask = require('./clean');
 exports.clean = cleanTask;
 
