@@ -37,16 +37,27 @@ module.exports = exports = function () {
         dimensions.orientation = 'wide';
       }
 
-      if (basename[0] === '_') {
-        basename = basename.slice(1);
-      }
-
       const filetype = {
         '.jpeg': 'jpeg',
         '.jpg':  'jpeg',
         '.png':  'png',
         '.gif':  'gif',
       }[ext];
+
+      if (basename[0] === '_') {
+        basename = basename.slice(1);
+        return {
+          name: basename,
+          type: 'image',
+          sizes: [
+            {
+              url: path.join(siteDir, `${basename}${ext}`),
+              width: dimensions.width,
+              height: dimensions.height,
+            },
+          ],
+        };
+      }
 
       const sizes = [
         {
