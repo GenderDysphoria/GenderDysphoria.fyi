@@ -5,9 +5,9 @@ description: "A dive into the multitude of ways that gender dysphoria manifests 
 
 ---
 
-# The Gender Dysphoria Bible
 
 {!{
+{{import '~/img' images.titlecard srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px" alt="The Gender Dysphoria Bible" style="margin-bottom: 1em;"}}
 <div class="gutter"><blockquote>
   <strong>Trans·gen·der</strong> - <em>adjective</em><br>
   Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
@@ -27,5 +27,15 @@ Even more common is a perception that even tho they have feelings about being un
 This experience of discontinuity between the internal and external self is what we describe as Gender Dysphoria. Every trans person, regardless of their position within or outside of the gender binary, experiences some form of Gender Dysphoria. This is something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests, and what qualifies a person as being trans. By and large, however, this debate is feckless and fruitless, as the definition at the top of this page encompasses the beginning and the ending of how these terms intermingle.
 
 The purpose of this site is to document the many ways that Gender Dysphoria manifests, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting, those already on their path, and those who simply wish to be better allies.
+
+{!{
+<div class="gutter flex" style="justify-content: flex-end">
+<span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<div class="grid-row" style="grid-template-columns: 1fr 1fr">
+{{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
+{{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
+</div>
+</div>
+}!}
 
 {!{ {{import '_pager'}} }!}

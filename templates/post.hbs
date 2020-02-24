@@ -3,13 +3,13 @@
   {{#content "meta"}}
   <meta property="og:title" content="{{meta.title}}{{#if meta.subtitle}}, {{meta.subtitle}}{{/if}}">
   <meta property="og:description" content="{{meta.description}}">
-  {{!-- {{#if titlecard}}<meta property="og:image" content="https://{{page.domain}}{{rev titlecard}}">{{/if}} --}}
+  {{#if titlecard}}<meta property="og:image" content="https://{{page.domain}}{{rev titlecard}}">{{/if}}
   <meta property="og:url" content="https://{{page.domain}}{{url}}">
   <meta name="twitter:title" content="{{meta.title}}{{#if meta.subtitle}}, {{meta.subtitle}}{{/if}}">
   <meta name="twitter:description" content="{{meta.description}}">
   {{#if titlecard}}
   <meta name="twitter:card" content="summary_large_image">
-  {{!-- <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}"> --}}
+  <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}">
   {{/if}}
   <link rel="canonical" href="https://{{page.domain}}{{url}}">{{/content}}
 
