@@ -57,13 +57,20 @@ module.exports = exports = class Page  {
     // this is not a page file
     if (![ MD, HBS, HTML, XML ].includes(ext)) return false;
 
-    this.input = resolve(filepath);                     // /local/path/to/pages/folder/file.ext
-    this.cwd = resolve(file.dir);                       // /local/path/to/pages/, pages/folder, pages/folder/subfolder
-    this.base = file.dir.replace(/^pages\/?/, '');       // '', 'folder', 'folder/subfolder'
-    this.dir = file.dir.replace(/^pages\/?/, '/');       // /, /folder, /folder/subfolder
-    this.name = name;                                   // index, fileA, fileB
-    this.basename = basename;                           // index.ext, fileA.ext, fileB.ext
-    this.dest = file.dir.replace(/^pages\/?/, 'dist/');  // dist/, dist/folder, dist/folder/subfolder
+    // remove the pages root and any _images segment from the dir
+    const dir = file.dir.split('/');
+    if (dir[0] === 'pages') dir.shift();
+    const i = dir.indexOf('_images');
+    if (i > -1) dir.splice(i, 1);
+
+    this.input    = resolve(filepath);           // /local/path/to/pages/file.ext
+    this.cwd      = resolve(file.dir);           // /local/path/to/pages/, pages/folder, pages/folder/subfolder
+    this.base     = path.join(...dir);           // '', 'folder', 'folder/subfolder'
+    this.dir      = path.join('/', ...dir);      // /, /folder, /folder/subfolder
+    this.name     = name;                        // index, fileA, fileB
+    this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
+    this.dest     = path.join('dist/', ...dir);  // dist/, dist/folder, dist/folder/subfolder
+    this.ext      = file.ext;
 
     var isIndexPage = (name === 'index');
     var isCleanUrl = [ HBS, MD ].includes(ext);
@@ -102,12 +109,13 @@ module.exports = exports = class Page  {
 
   }
 
-  async load ({ artifactLoader }) {
-    const [ raw, { ctime, mtime }, { images, titlecard } ] = await Promise.all([
+  async load ({ Assets }) {
+    const [ raw, { ctime, mtime } ] = await Promise.all([
       fs.readFile(this.input).catch(() => null),
       fs.stat(this.input).catch(() => {}),
-      artifactLoader(this.cwd, this.dir),
     ]);
+
+    const { titlecard, assets } = Assets.for(this.dir);
 
     // empty file
     if (!raw || !ctime) {
@@ -124,7 +132,7 @@ module.exports = exports = class Page  {
 
     this.source = body;
     this.meta = meta;
-    this.images = images;
+    this.images = assets;
     this.titlecard = titlecard;
     this.tweets = (meta.tweets || []).map(parseTweetId);
     this.dateCreated = meta.date && new Date(meta.date) || ctime;
@@ -151,6 +159,7 @@ module.exports = exports = class Page  {
       'base',
       'dir',
       'name',
+      'ext',
       'basename',
       'dest',
       'out',
@@ -159,6 +168,7 @@ module.exports = exports = class Page  {
       'engine',
       'source',
       'images',
+      'assets',
       'titlecard',
       'tweets',
       'classes',

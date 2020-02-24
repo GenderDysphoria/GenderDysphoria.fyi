@@ -40,6 +40,7 @@
     "forever": "~2.0.0",
     "front-matter": "~3.1.0",
     "fs-extra": "~8.1.0",
+    "get-video-dimensions": "~1.0.0",
     "glob": "~7.1.6",
     "gm": "~1.23.1",
     "gulp": "~4.0.2",

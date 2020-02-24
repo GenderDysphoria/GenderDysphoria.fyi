@@ -8,28 +8,28 @@ const tweetparse = require('../lib/tweetparse');
 const getEngines = require('./renderers');
 const Twitter = require('twitter-lite');
 const Page = require('./page');
-const createFileLoader = require('./files');
+const createAssetLoader = require('./files');
 
 const ROOT = path.resolve(__dirname, '../..');
 
 exports.parse = async function parsePageContent () {
-  const [ files, twitter, twitterBackup, twitterCache ] = await Promise.all([
+  const [ files, twitter, twitterBackup, twitterCache, Assets ] = await Promise.all([
     glob('pages/**/*.{md,hbs,html,xml}', { cwd: ROOT }),
     fs.readJson(resolve('twitter-config.json')).catch(() => null)
       .then(getTwitterClient),
     fs.readJson(resolve('twitter-backup.json')).catch(() => ({})),
     fs.readJson(resolve('twitter-cache.json')).catch(() => ({})),
+    createAssetLoader(),
   ]);
 
 
   let tweetsNeeded = [];
   const tweetsPresent = Object.keys(twitterCache);
-  const artifactLoader = createFileLoader();
 
   let pages = await Promise.map(files, async (filepath) => {
     const page = new Page(filepath);
     if (!page.input) return;
-    await page.load({ artifactLoader });
+    await page.load({ Assets });
 
     if (page.tweets.length) {
       const missing = difference(page.tweets, tweetsPresent);
