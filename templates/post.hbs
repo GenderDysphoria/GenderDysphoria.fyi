@@ -11,7 +11,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}">
   {{/if}}
-  <link rel="canonical" href="https://{{page.domain}}{{url}}">{{/content}}
+  <link rel="canonical" href="{{#if canonical}}{{canonical}}{{else}}https://{{page.domain}}{{url}}{{/if}}">{{/content}}
 
   {{#append 'post-header'}}
   <div class="disclaimer"><div>

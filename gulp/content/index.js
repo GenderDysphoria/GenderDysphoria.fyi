@@ -117,6 +117,7 @@ exports.write = async function writePageContent ({ prod }) {
           : siteInfo.title,
         description: page.meta.description || siteInfo.description,
       },
+      site: siteInfo,
       local: {
         cwd: page.cwd,
         root: ROOT,
