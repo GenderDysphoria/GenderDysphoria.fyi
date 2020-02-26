@@ -1,7 +1,6 @@
 node_modules
 /dist
 /aws.json
-/twitter.json
 /rev-manifest.json
 /.awspublish-*
 /bs-manifest.json
@@ -9,7 +8,9 @@ node_modules
 /pages.json
 /if-*
 /twitter-cache.json
+/twitter-config.json
+/twitter-media.json
 /terraform/*.tfstate*
 /terraform/.terraform
 /terraform/files/*.zip
-/twitter-media.json
+

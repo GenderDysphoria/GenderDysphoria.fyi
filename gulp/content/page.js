@@ -6,8 +6,8 @@ const log = require('fancy-log');
 const frontmatter = require('front-matter');
 const { URL } = require('url');
 const { pick, omit } = require('lodash');
+const { resolve, readFile } = require('./resolve');
 
-const ROOT = path.resolve(__dirname, '../..');
 const pkg  = require(resolve('package.json'));
 
 
@@ -28,14 +28,6 @@ function parseTweetId (tweetid) {
   if (match) return match[1];
   if (tweetid.match(tweetidcheck)) return tweetid;
   return false;
-}
-
-function resolve (...args) {
-  args = args.filter(Boolean);
-  let fpath = args.shift();
-  if (!fpath) return ROOT;
-  if (fpath[0] === '/') fpath = fpath.slice(1);
-  return path.resolve(ROOT, fpath, ...args);
 }
 
 
@@ -63,37 +55,34 @@ module.exports = exports = class Page  {
     const i = dir.indexOf('_images');
     if (i > -1) dir.splice(i, 1);
 
-    this.input    = resolve(filepath);           // /local/path/to/pages/file.ext
-    this.cwd      = resolve(file.dir);           // /local/path/to/pages/, pages/folder, pages/folder/subfolder
+    this.input    = filepath;           // /local/path/to/pages/file.ext
+    this.cwd      = file.dir;           // /local/path/to/pages/, pages/folder, pages/folder/subfolder
     this.base     = path.join(...dir);           // '', 'folder', 'folder/subfolder'
     this.dir      = path.join('/', ...dir);      // /, /folder, /folder/subfolder
     this.name     = name;                        // index, fileA, fileB
     this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
-    this.dest     = path.join('dist/', ...dir);  // dist/, dist/folder, dist/folder/subfolder
     this.ext      = file.ext;
 
     var isIndexPage = (name === 'index');
     var isCleanUrl = [ HBS, MD ].includes(ext);
 
     if (isCleanUrl && isIndexPage) {
-      this.out  = path.join(this.dest, 'index.html');
-      this.json = path.join(this.dest, 'index.json');
-      this.url  = this.dir;
+      this.output  = path.join(this.base, 'index.html');
+      this.json    = path.join(this.base, 'index.json');
+      this.url     = this.dir;
     } else if (isCleanUrl) {
-      this.out  = path.join(this.dest, this.name, 'index.html');
-      this.json = path.join(this.dest, this.name + '.json');
-      this.url  = path.join(this.dir, this.name);
+      this.output  = path.join(this.base, this.name, 'index.html');
+      this.json    = path.join(this.base, this.name + '.json');
+      this.url     = path.join(this.dir, this.name);
     } else if (isIndexPage) {
-      this.out  = path.join(this.dest, 'index.html');
-      this.json = path.join(this.dest, this.name + '.json');
-      this.url  = this.dir;
+      this.output  = path.join(this.base, 'index.html');
+      this.json    = path.join(this.base, this.name + '.json');
+      this.url     = this.dir;
     } else {
-      this.out  = path.join(this.dest, this.basename);
-      this.json = path.join(this.dest, this.basename + '.json');
-      this.url  = path.join(this.dir, this.basename);
+      this.output  = path.join(this.base, this.basename);
+      this.json    = path.join(this.base, this.basename + '.json');
+      this.url     = path.join(this.dir, this.basename);
     }
-
-    this.output = resolve(this.out);
 
     const url = new URL(pkg.siteInfo.siteUrl);
     url.pathname = this.url;
@@ -111,8 +100,8 @@ module.exports = exports = class Page  {
 
   async load ({ Assets }) {
     const [ raw, { ctime, mtime } ] = await Promise.all([
-      fs.readFile(this.input).catch(() => null),
-      fs.stat(this.input).catch(() => {}),
+      readFile(this.input).catch(() => null),
+      fs.stat(this.input).catch(() => ({})),
     ]);
 
     const { titlecard, assets } = Assets.for(this.dir);

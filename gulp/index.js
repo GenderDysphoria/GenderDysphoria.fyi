@@ -4,16 +4,19 @@ const { series, parallel, watch } = require('gulp');
 /** **************************************************************************************************************** **/
 
 var content = require('./content');
-exports.parse = content.parse;
-exports.pages = content.write;
-exports.content = series(content.parse, content.write);
 
-var images = require('./imgflow');
-exports.twimages = images.twitter;
-exports.images = images;
-exports['images-prod'] = images.prod;
-exports['twimages-prod'] = images.twitter.prod;
-exports.favicon = images.favicon;
+const parse   = exports.parse   = content.task('parse');
+const pages   = exports.pages   = content.task('pages');
+exports.twitter = content.task('twitter');
+exports.favicon = content.task('favicon');
+exports.assets  = content.task('assets');
+
+exports.content = series(parse, pages);
+
+const everything = content.everything();
+everything.prod  = content.everything(true);
+
+
 
 const filesTask = require('./files');
 exports.files = filesTask;
@@ -36,31 +39,21 @@ exports.cloudfront = cloudfront;
 
 /** **************************************************************************************************************** **/
 
-var prodBuildTask = series(
-  images.prod,
-  images.favicon.prod,
+var prodBuildTask = parallel(
   scssTask.prod,
   jsTask.prod,
   filesTask.prod,
-  content.parse,
-  images.twitter.prod,
-  content.write.prod,
+  everything.prod,
 );
 
-var devBuildTask = series(
-  parallel(
-    images,
-    images.favicon,
-    scssTask,
-    jsTask,
-    filesTask,
-    content.parse,
-  ),
-  content.write,
-  images.twitter,
+var devBuildTask = parallel(
+  scssTask,
+  jsTask,
+  filesTask,
+  everything,
 );
 
-exports.dev = devBuildTask;
+exports.dev  = devBuildTask;
 exports.prod = prodBuildTask;
 exports.publish = series(
   cleanTask,
@@ -77,9 +70,9 @@ function watcher () {
   watch([
     'pages/**/*.{md,hbs,html}',
     'templates/*.{md,hbs,html}',
-  ], series(content.parse, images.twitter, content.write));
+  ], series(exports.parse, exports.twitter, exports.pages));
 
-  watch('page/**/*.{jpeg,jpg,png,gif}', images);
+  watch('page/**/*.{jpeg,jpg,png,gif}', series(exports.assets, exports.parse, exports.pages));
 
   watch('scss/*.scss', scssTask);
   watch('js/*.js', jsTask);
@@ -99,7 +92,7 @@ function server () {
 
 }
 
-exports.watch = series(series(content.parse, images.twitter, content.write), watcher);
+exports.watch = series(exports.parse, exports.pages, watcher);
 exports.uat = series(cleanTask, prodBuildTask, server);
 
 /** **************************************************************************************************************** **/

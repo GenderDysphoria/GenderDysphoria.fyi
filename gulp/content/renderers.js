@@ -1,10 +1,10 @@
 
 const path = require('path');
-const ROOT = path.resolve(__dirname, '../..');
 
 const fs = require('fs-extra');
 const log = require('fancy-log');
 const { minify } = require('html-minifier-terser');
+const { resolve, readFile } = require('./resolve');
 
 const handlebars = require('handlebars');
 const HandlebarsKit = require('hbs-kit');
@@ -93,15 +93,15 @@ const HANDLEBARS_PARTIALS = {
 module.exports = exports = async function (prod) {
   for (const [ name, file ] of Object.entries(HANDLEBARS_PARTIALS)) {
     try {
-      const contents = await fs.readFile(path.resolve(ROOT, file));
+      const contents = await readFile(file);
       const template = handlebars.compile(contents.toString('utf8'));
       handlebars.registerPartial(name, template);
     } catch (e) {
-      log.error('Could not execute load partial ' + path.relative(ROOT, file), e);
+      log.error('Could not execute load partial ' + file, e);
     }
   }
 
-  const pageTemplateRaw = await fs.readFile(path.join(ROOT, 'templates/post.hbs'));
+  const pageTemplateRaw = await readFile('templates/post.hbs');
   if (!pageTemplateRaw) throw new Error('Post template was empty?');
   try {
     var pageTemplate = handlebars.compile(pageTemplateRaw.toString('utf8'));
@@ -109,7 +109,7 @@ module.exports = exports = async function (prod) {
     log.error('Crash while loading post template', e);
   }
 
-  const revManifest = prod && await fs.readJson(path.join(ROOT, 'rev-manifest.json')).catch(() => {}).then((r) => r || {});
+  const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
 
   const helpers = new Injectables(prod, revManifest);
   handlebars.registerHelper('import', helpers.import());
@@ -145,8 +145,8 @@ class Injectables {
   }
 
   _parsePath (tpath, local, type) {
-    if (tpath[0] === '/') tpath = path.join(local.root, tpath);
-    else if (tpath[0] === '~') tpath = path.join(local.root, 'templates', tpath.slice(2));
+    if (tpath[0] === '/') tpath = resolve(tpath.slice(1));
+    else if (tpath[0] === '~') tpath = resolve('templates', tpath.slice(2));
     else tpath = path.resolve(local.cwd, tpath);
     if (type && !tpath.endsWith(type)) tpath += '.' + type;
     return tpath;
@@ -156,7 +156,7 @@ class Injectables {
     if (this.injections[tpath]) return this.injections[tpath];
 
     if (!fs.existsSync(tpath)) {
-      log.error('Injectable does not exist: ' + path.relative(ROOT, tpath));
+      log.error('Injectable does not exist: ' + tpath);
       return '';
     }
 
@@ -167,7 +167,7 @@ class Injectables {
       this.injections[tpath] = contents;
       return contents;
     } catch (e) {
-      log.error(e, 'An error occured while loading the injectable: ' + path.relative(ROOT, tpath));
+      log.error(e, 'An error occured while loading the injectable: ' + tpath);
     }
 
     return '';

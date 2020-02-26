@@ -4,38 +4,39 @@ const gm = require('gm');
 const Promise = require('bluebird');
 const fetch = require('make-fetch-happen');
 const ico = require('png-to-ico');
-
-const CWD = path.resolve(__dirname, '../..');
+const { resolve, readFile } = require('./resolve');
 
 const actions = {
   async copy ({ input, output }) {
-    await fs.copy(input, output);
-    return fs.readFile(input);
+    await fs.copy(resolve(input), resolve(output));
+    return readFile(input);
   },
 
-  async transcode ({ input, output, cache }) {
+  async transcode ({ input, output }) {
     const result = await actions.image({
       input,
       output,
       format: 'jpeg',
     });
-    await fs.writeFile(cache, result);
     return result;
   },
 
-  async fetch ({ input, output, cache }) {
+  async fetch ({ input, output }) {
     const res = await fetch(input);
+    if (res.status !== 200) {
+      throw new Error(`File could not be fetched (${res.status}): "${input}"`);
+    }
     const body = await res.buffer();
+    output = resolve(output);
+    await fs.ensureDir(path.dirname(output));
     await fs.writeFile(output, body);
-    await fs.writeFile(cache, body);
     return body;
   },
 
   async image (options) {
-    const input = path.resolve(CWD, options.input);
-    const output = path.resolve(CWD, options.output);
-    const contents = await fs.readFile(input);
-    let gmfile = gm(contents, input);
+    const output = resolve(options.output);
+    const contents = await readFile(options.input);
+    let gmfile = gm(contents, resolve(options.input));
 
     const size = await Promise.fromCallback((cb) => gmfile.size(cb));
 
@@ -146,7 +147,6 @@ const actions = {
     let result = await Promise.fromCallback((cb) => gmfile.toBuffer(cb));
     if (options.format === 'ico') result = await ico(result);
     await fs.writeFile(output, result);
-    if (options.cache) await fs.writeFile(options.cache, result);
 
     return result;
   },

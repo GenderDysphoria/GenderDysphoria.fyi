@@ -92,7 +92,7 @@ var entityProcessors = {
 };
 
 module.exports = exports = function (tweets) {
-  return Array.isArray(tweets) ? tweets.map(parseTweet) : parseTweet(tweets);
+  return tweets.length ? tweets.map(parseTweet) : parseTweet(tweets);
 
   function parseTweet (tweet) {
     // clone the tweet so we're not altering the original

@@ -1,60 +1,10 @@
+
+const { pick } = require('lodash');
+const actions = require('./actions');
+
 const path = require('path');
-const glob = require('../lib/glob');
 const getImageDimensions = require('../lib/dimensions');
 const getVideoDimensions = require('get-video-dimensions');
-const { keyBy, pick, filter, get, set, memoize } = require('lodash');
-const actions = require('../imgflow/actions');
-
-const ROOT = path.resolve(__dirname, '../..');
-
-function resolve (...args) {
-  args = args.filter(Boolean);
-  let fpath = args.shift();
-  if (!fpath) return ROOT;
-  if (fpath[0] === '/') fpath = fpath.slice(1);
-  return path.resolve(ROOT, fpath, ...args);
-}
-
-
-module.exports = exports = async function findAssets () {
-  const files = await glob('pages/**/*.{jpeg,jpg,png,gif,mp4}', { cwd: ROOT });
-  const map = {};
-  const assets = (await Promise.all(files.map(async (filepath) => {
-    const asset = new Asset(path.relative(ROOT, filepath));
-    await asset.load();
-    set(map, [ ...asset.base.split('/'), asset.name ], asset);
-    return asset;
-  }))).filter(Boolean);
-
-  Object.freeze(map);
-
-  function within (dir) {
-    const subset = filter(assets, { dir });
-    return {
-      get titlecard () {
-        return get(filter(subset, { name: 'titlecard' }), [ 0, 'url' ]);
-      },
-      get assets () {
-        return keyBy(subset.map((a) => a.webready()), 'name');
-      },
-      get all () {
-        return [ ...subset ];
-      },
-    };
-  }
-
-  return {
-    map,
-    for: memoize(within),
-    get tasks () {
-      return assets.map((a) => a.tasks()).flat(1);
-    },
-    get all () {
-      return [ ...assets ];
-    },
-  };
-};
-
 
 const JPG  = '.jpg';
 const JPEG = '.jpeg';
@@ -74,8 +24,7 @@ const FILETYPE = {
 
 const RESOLUTIONS = [ 2048, 1024, 768, 576, 300, 100 ];
 
-
-class Asset {
+module.exports = exports = class Asset {
 
   constructor (filepath) {
     const file = path.parse(filepath);
@@ -103,16 +52,14 @@ class Asset {
     const i = dir.indexOf('_images');
     if (i > -1) dir.splice(i, 1);
 
-    this.input    = resolve(filepath);           // /local/path/to/pages/file.ext
-    this.cwd      = resolve(file.dir);           // /local/path/to/pages/, pages/folder, pages/folder/subfolder
+    this.input    = filepath;                    // pages/file.ext
     this.base     = path.join(...dir);           // '', 'folder', 'folder/subfolder'
     this.dir      = path.join('/', ...dir);      // /, /folder, /folder/subfolder
     this.name     = name;                        // index, fileA, fileB
     this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
-    this.dest     = path.join('dist/', ...dir);  // dist/, dist/folder, dist/folder/subfolder
     this.ext      = file.ext;
 
-    this.out = path.join(this.dest, `${this.name}${this.preprocessed ? this.ext : '.' + this.type}`);
+    this.out = path.join(this.base, `${this.name}${this.preprocessed ? this.ext : '.' + this.type}`);
     this.url = path.join(this.dir,  `${this.name}${this.preprocessed ? this.ext : '.' + this.type}`);
   }
 
@@ -147,7 +94,7 @@ class Asset {
 
     if (this.preprocessed) {
       this.sizes = [ {
-        output: resolve(this.out),
+        output: this.out,
         url: this.url,
         width,
         height,
@@ -155,7 +102,7 @@ class Asset {
     } else {
       this.sizes = [
         {
-          output: resolve(this.out),
+          output: this.out,
           url: this.url,
           width,
           height,
@@ -164,9 +111,10 @@ class Asset {
 
       for (const w of RESOLUTIONS) {
         if (w > width) continue;
+        const name = `${this.name}.${w}w.${this.type}`;
         this.sizes.push({
-          output: resolve(this.dest, `${this.name}.${w}w.${this.type}`),
-          url: path.join(this.dir,  `${this.name}.${w}w.${this.type}`),
+          output: path.join(this.base, name),
+          url:    path.join(this.dir,  name),
           width: w,
           height: Math.ceil((w / width) * height),
         });
@@ -199,8 +147,8 @@ class Asset {
     };
 
     this.sizes = [ {
-      output: resolve(this.dest, this.basename),
-      url: path.join(this.dir, this.basename),
+      output: path.join(this.base, this.basename),
+      url:    path.join(this.dir,  this.basename),
       width,
       height,
     } ];
@@ -214,12 +162,10 @@ class Asset {
       'type',
       'kind',
       'input',
-      'cwd',
       'base',
       'dir',
       'name',
       'basename',
-      'dest',
       'ext',
       'dimensions',
     ]);
@@ -244,6 +190,13 @@ class Asset {
     }));
   }
 
-}
+};
 
-exports.Asset = Asset;
+exports.JPG         = JPG;
+exports.JPEG        = JPEG;
+exports.PNG         = PNG;
+exports.GIF         = GIF;
+exports.MP4         = MP4;
+exports.M4V         = M4V;
+exports.FILETYPE    = FILETYPE;
+exports.RESOLUTIONS = RESOLUTIONS;
