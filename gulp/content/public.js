@@ -38,6 +38,8 @@ module.exports = exports = async function loadPublicFiles () {
       [KIND.ASSET]: subassets,
     } = groupBy(subset, 'kind');
 
+    const webready = subassets && keyBy(subassets.map((a) => a.webready()), 'name');
+
     return {
       all: subset,
       get titlecard () { return getTitlecard; },
@@ -45,7 +47,7 @@ module.exports = exports = async function loadPublicFiles () {
         return subpages;
       },
       get assets () {
-        return keyBy(subassets, 'name');
+        return webready;
       },
     };
   }
