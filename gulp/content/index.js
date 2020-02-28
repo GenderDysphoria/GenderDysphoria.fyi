@@ -19,7 +19,8 @@ exports.everything = function (prod = false) {
     const PublicFiles = await loadPublicFiles();
 
     // load data for all the files in that folder
-    await Promise.map(PublicFiles.all, (p) => p.load(PublicFiles));
+    await Promise.map(PublicFiles.assets, (p) => p.load());
+    await Promise.map(PublicFiles.pages, (p) => p.load(PublicFiles));
 
     // prime tweet data for all pages
     const pages = await primeTweets(PublicFiles.pages);
