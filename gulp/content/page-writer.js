@@ -52,5 +52,5 @@ module.exports = exports = async function writePageContent (pages, prod) {
         prod ? JSON.stringify(json) : JSON.stringify(json, null, 2),
       )),
     ]);
-  }, { concurrency: 1 });
+  });
 };
