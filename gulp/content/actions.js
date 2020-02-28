@@ -33,6 +33,13 @@ const actions = {
     return body;
   },
 
+  async write ({ output, content }) {
+    output = resolve(output);
+    await fs.ensureDir(path.dirname(output));
+    await fs.writeFile(output, content);
+    return Buffer.from(content);
+  },
+
   async image (options) {
     const output = resolve(options.output);
     const contents = await readFile(options.input);

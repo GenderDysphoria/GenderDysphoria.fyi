@@ -34,6 +34,9 @@ const EXT = exports.EXT = {
   HBS:  '.hbs',
   HTML: '.html',
   XML:  '.xml',
+  CSS:  '.css',
+  SCSS: '.scss',
+  JS:   '.js',
 };
 
 const {
@@ -47,20 +50,10 @@ const {
   HBS,
   HTML,
   XML,
+  CSS,
+  SCSS,
+  JS,
 } = EXT;
-
-exports.RE = {
-  JPG:  re(/.jpg$/),
-  JPEG: re(/.jpeg$/),
-  PNG:  re(/.png$/),
-  GIF:  re(/.gif$/),
-  MP4:  re(/.mp4$/),
-  M4V:  re(/.m4v$/),
-  MD:   re(/.md$/),
-  HBS:  re(/.hbs$/),
-  HTML: re(/.html$/),
-  XML:  re(/.xml$/),
-};
 
 const NORMALIZE_EXT = {
   [JPG]:  JPEG,
@@ -79,6 +72,7 @@ const isHandlebars = exports.isHandlebars  = is(XML, HBS, HTML);
 const isMarkdown   = exports.isMarkdown    = is(MD);
 const isPage       = exports.isPage        = is(isHandlebars, isMarkdown);
 const isAsset      = exports.isAsset       = is(isImage, isVideo);
+const isArtifact   = exports.isArtifact    = is(CSS, SCSS, JS);
 exports.isCleanUrl = is(HBS, MD);
 
 
@@ -88,6 +82,8 @@ const TYPE = exports.TYPE = {
   VIDEO:      'VIDEO',
   HANDLEBARS: 'HANDLEBARS',
   MARKDOWN:   'MARKDOWN',
+  SCRIPT:     'SCRIPT',
+  STYLE:      'STYLE',
   OTHER:      'OTHER',
 };
 
@@ -96,19 +92,23 @@ exports.type = dictMatch({
   [TYPE.HANDLEBARS]: isHandlebars,
   [TYPE.MARKDOWN]:   isMarkdown,
   [TYPE.VIDEO]:      isVideo,
+  [TYPE.SCRIPT]:     is(JS),
+  [TYPE.STYLE]:      is(SCSS, CSS),
 }, TYPE.OTHER);
 
 
 
 const KIND = exports.KIND = {
-  PAGE:  'PAGE',
-  ASSET: 'ASSET',
-  OTHER: 'OTHER',
+  PAGE:     'PAGE',
+  ASSET:    'ASSET',
+  ARTIFACT: 'ARTIFACT',
+  OTHER:    'OTHER',
 };
 
 exports.kind = dictMatch({
-  [KIND.ASSET]: isAsset,
-  [KIND.PAGE]:  isPage,
+  [KIND.ASSET]:    isAsset,
+  [KIND.PAGE]:     isPage,
+  [KIND.ARTIFACT]: isArtifact,
 }, KIND.OTHER);
 
 
@@ -129,7 +129,7 @@ exports.engine = dictMatch({
 exports.readFile = function readFile (fpath) {
   fpath = exports.resolve(fpath);
   return fs.readFile(fpath).catch((err) => {
-    throw new Error(err.trace);
+    throw new Error(err.message);
   });
 };
 

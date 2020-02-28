@@ -10,6 +10,7 @@ const evaluate = require('./evaluate');
 const { resolve } = require('./resolve');
 
 const favicon = require('./favicon');
+const scss    = require('./scss');
 const svg     = require('./svg');
 
 exports.everything = function (prod = false) {
@@ -28,6 +29,7 @@ exports.everything = function (prod = false) {
     // compile all tasks to be completed
     const tasks = await Promise.all([
       PublicFiles.tasks,
+      scss(prod),
       svg(prod),
       favicon(prod),
     ]);

@@ -8,10 +8,7 @@ var content = require('./content');
 const everything = content.everything();
 everything.prod  = content.everything(true);
 
-exports.everything = everything;
-
-var scssTask = require('./scss');
-exports.scss = scssTask;
+exports.go = series(everything);
 
 var jsTask = require('./scripts');
 exports.js = jsTask;
@@ -28,13 +25,11 @@ exports.cloudfront = cloudfront;
 /** **************************************************************************************************************** **/
 
 var prodBuildTask = parallel(
-  scssTask.prod,
   jsTask.prod,
   everything.prod,
 );
 
 var devBuildTask = parallel(
-  scssTask,
   jsTask,
   everything,
 );
@@ -56,9 +51,9 @@ function watcher () {
   watch([
     'public/**/*',
     'templates/*.{md,hbs,html}',
+    'scss/*.scss',
   ], everything);
 
-  watch('scss/*.scss', scssTask);
   watch('js/*.js', jsTask);
 
   var forever = require('forever');
