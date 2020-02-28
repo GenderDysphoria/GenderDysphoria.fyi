@@ -3,6 +3,7 @@ const { resolve } = require('./resolve');
 const log = require('fancy-log');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
+const path = require('path');
 
 const LOG = {
   new:     true,
@@ -33,6 +34,7 @@ module.exports = exports = async function process (tasks, cache) {
 
     if (status.mode === 'cached') {
       result = status.cache;
+      await fs.ensureDir(path.dirname(resolve('dist', output)));
       await fs.writeFile(resolve('dist', output), result);
       await cache.touch(task, lastSeen);
     } else {
