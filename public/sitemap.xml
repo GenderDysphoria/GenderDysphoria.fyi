@@ -2,8 +2,8 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     {{#each pages}}
     <url>
-        <loc>https://{{page.domain}}{{this.url}}</loc>
-        <lastmod>{{date this.dateModified "yyyy-MM-dd'T'HH:mm:ss.SSSxxx"}}</lastmod>
+        <loc>https://{{../page.domain}}{{url}}</loc>
+        <lastmod>{{date dateModified "yyyy-MM-dd'T'HH:mm:ss.SSSxxx"}}</lastmod>
     </url>
     {{/each}}
 </urlset>
