@@ -79,7 +79,7 @@ const isHandlebars = exports.isHandlebars  = is(XML, HBS, HTML);
 const isMarkdown   = exports.isMarkdown    = is(MD);
 const isPage       = exports.isPage        = is(isHandlebars, isMarkdown);
 const isAsset      = exports.isAsset       = is(isImage, isVideo);
-exports.isCleanUrl = is(HBS, HTML, MD);
+exports.isCleanUrl = is(HBS, MD);
 
 
 
