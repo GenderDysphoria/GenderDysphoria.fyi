@@ -42,8 +42,7 @@ module.exports = exports = class File {
     this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
     this.ext      = file.ext;
 
-    this.out = path.join(this.base, `${this.name}${this.ext}`);
-    this.url = path.join(this.dir,  `${this.name}${this.ext}`);
+    this._out();
 
     this.serializable = [
       'kind',
@@ -67,6 +66,11 @@ module.exports = exports = class File {
     const i = dir.indexOf('_images');
     if (i > -1) dir.splice(i, 1);
     return dir;
+  }
+
+  _out () {
+    this.out = path.join(this.base, `${this.name}${this.ext}`);
+    this.url = path.join(this.dir,  `${this.name}${this.ext}`);
   }
 
   load () {}

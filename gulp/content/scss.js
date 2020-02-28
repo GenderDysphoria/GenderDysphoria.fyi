@@ -31,6 +31,12 @@ class Sass extends File {
     return dir;
   }
 
+
+  _out () {
+    this.ext = '.css';
+    super._out();
+  }
+
   async load (prod) {
     let contents = (await readFile(this.input).catch(() => null)).toString('utf8');
 
