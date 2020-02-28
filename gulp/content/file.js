@@ -29,10 +29,7 @@ module.exports = exports = class File {
     }
 
     // remove the public root and any _images segment from the dir
-    const dir = file.dir.split('/');
-    if (dir[0] === 'public') dir.shift();
-    const i = dir.indexOf('_images');
-    if (i > -1) dir.splice(i, 1);
+    const dir = this._dir(file.dir);
 
     this.kind     = kind(filepath);
     this.type     = type(filepath);
@@ -51,6 +48,7 @@ module.exports = exports = class File {
     this.serializable = [
       'kind',
       'type',
+      'cwd',
       'ext',
       'input',
       'base',
@@ -61,6 +59,14 @@ module.exports = exports = class File {
       'out',
       'url',
     ];
+  }
+
+  _dir (dir) {
+    dir = dir.split('/');
+    if (dir[0] === 'public') dir.shift();
+    const i = dir.indexOf('_images');
+    if (i > -1) dir.splice(i, 1);
+    return dir;
   }
 
   load () {}
@@ -75,18 +81,7 @@ module.exports = exports = class File {
   }
 
   toJson () {
-    return pick(this.serializable, [
-      'preprocessed',
-      'type',
-      'kind',
-      'input',
-      'base',
-      'dir',
-      'name',
-      'basename',
-      'ext',
-      'dimensions',
-    ]);
+    return pick(this, this.serializable);
   }
 
 };
