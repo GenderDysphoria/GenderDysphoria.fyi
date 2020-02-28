@@ -85,6 +85,11 @@ module.exports = exports = class Manifest {
       mode: 'new',
     };
 
+    if (task.nocache) {
+      result.mode = 'silent';
+      return result;
+    }
+
     const [ iTime, oTime, cTime, iRev ] = await Promise.all([
       local && this.stat(input),
       this.stat(output),
@@ -129,6 +134,9 @@ module.exports = exports = class Manifest {
   }
 
   async touch (task, lastSeen = new Date()) {
+
+    if (task.nocache || task.action.name) return null;
+
     const hash = this.hash(task);
     const { input, output } = task;
     const local = !task.input.includes('://');
@@ -159,6 +167,7 @@ module.exports = exports = class Manifest {
   async set (task, result, lastSeen = new Date()) {
     const hash = this.hash(task);
     const { input, output } = task;
+    const nocache = task.nocache || task.action.name === 'copy';
     const ext = path.extname(task.output);
     const local = !task.input.includes('://');
     const cached = path.join(CACHE, hash + ext);
@@ -167,7 +176,7 @@ module.exports = exports = class Manifest {
     const [ iTime, iRev ] = await Promise.all([
       local && this.stat(input),
       local && this.compareBy.inputRev && this.revFile(input),
-      result && fs.writeFile(resolve(cached), result),
+      result && !nocache && fs.writeFile(resolve(cached), result),
     ]);
 
     const record = {
@@ -184,8 +193,10 @@ module.exports = exports = class Manifest {
     };
 
     this.revManifest[output] = record.revPath;
-    this.manifest[hash] = record;
-    await this.writeManifest();
+    if (!nocache) {
+      this.manifest[hash] = record;
+      await this.writeManifest();
+    }
     return { ...record };
   }
 

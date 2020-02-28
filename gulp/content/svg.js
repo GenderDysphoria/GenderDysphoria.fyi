@@ -9,6 +9,7 @@ module.exports = exports = async function svgIcons () {
     input: f,
     output: 'images/' + f,
     action: actions.copy,
+    nocache: true,
   }));
 
   return tasks;

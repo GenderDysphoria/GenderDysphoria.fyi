@@ -70,6 +70,7 @@ module.exports = exports = class File {
       input: this.input,
       output: this.out,
       action: actions.copy,
+      nocache: true,
     } ];
   }
 

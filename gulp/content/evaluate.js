@@ -11,6 +11,7 @@ const LOG = {
   rebuild: true,
   cached:  false,
   copy:    false,
+  silent:  false,
 };
 
 module.exports = exports = async function process (tasks, cache) {
