@@ -1,4 +1,4 @@
-const glob = require('../lib/glob');
+const glob = require('./lib/glob');
 const { ROOT } = require('./resolve');
 const actions = require('./actions');
 

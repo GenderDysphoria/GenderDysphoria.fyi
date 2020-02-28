@@ -31,14 +31,14 @@ const markdownEngines = {
       permalinkSymbol: '<img src="/images/svg/paragraph.svg">',
       slugify,
     })
-    .use(require('../lib/markdown-raw-html')),
+    .use(require('./lib/markdown-raw-html')),
 
   preview: markdownIt({
     html: false,
     linkify: false,
     typographer: true,
   })
-    .use(require('../lib/markdown-token-filter')),
+    .use(require('./lib/markdown-token-filter')),
 };
 
 function markdown (mode, input, env) {

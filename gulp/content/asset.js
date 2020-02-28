@@ -4,7 +4,7 @@ const { pick } = require('lodash');
 const actions = require('./actions');
 const File = require('./file');
 const { TYPE } = require('./resolve');
-const getImageDimensions = require('../lib/dimensions');
+const getImageDimensions = require('./lib/dimensions');
 const getVideoDimensions = require('get-video-dimensions');
 
 const RESOLUTIONS = [ 2048, 1024, 768, 576, 300, 100 ];

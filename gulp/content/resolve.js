@@ -2,7 +2,7 @@
 const path = require('path');
 const ROOT = path.resolve(__dirname, '../..');
 const fs = require('fs-extra');
-const { is: _is } = require('../lib/util');
+const { is: _is } = require('./lib/util');
 
 function is (...args) {
   const fn = _is(...args);

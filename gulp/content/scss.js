@@ -1,4 +1,4 @@
-const glob = require('../lib/glob');
+const glob = require('./lib/glob');
 const { ROOT, readFile, resolve } = require('./resolve');
 const actions = require('./actions');
 const File = require('./file');

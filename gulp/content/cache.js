@@ -4,7 +4,7 @@ const fs = require('fs-extra');
 const { memoize: memoizeSync } = require('lodash');
 const memoizeAsync = require('memoizepromise');
 const { resolve, readFile } = require('./resolve');
-const { hasOwn, isFunction } = require('../lib/util');
+const { hasOwn, isFunction } = require('./lib/util');
 const revHash = require('rev-hash');
 const revPath = require('rev-path');
 

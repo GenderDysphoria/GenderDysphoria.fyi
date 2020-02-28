@@ -7,7 +7,7 @@ const File = require('./file');
 const actions = require('./actions');
 const { URL } = require('url');
 const { resolve, readFile, isCleanUrl, ENGINE } = require('./resolve');
-const { isObject } = require('../lib/util');
+const { isObject } = require('./lib/util');
 
 const pkg  = require(resolve('package.json'));
 const frontmatter = require('front-matter');

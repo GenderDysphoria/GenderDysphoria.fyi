@@ -1,4 +1,4 @@
-const glob = require('../lib/glob');
+const glob = require('./lib/glob');
 const { groupBy, keyBy, filter, find, get, memoize } = require('lodash');
 const { ROOT, kind, KIND } = require('./resolve');
 const File = require('./file');
