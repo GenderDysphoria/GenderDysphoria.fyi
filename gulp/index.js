@@ -1,17 +1,12 @@
 
-const { series, parallel, watch } = require('gulp');
+const { series, watch } = require('gulp');
 
 /** **************************************************************************************************************** **/
 
 var content = require('./content');
 
-const everything = content.everything();
-everything.prod  = content.everything(true);
-
-exports.go = series(everything);
-
-var jsTask = require('./scripts');
-exports.js = jsTask;
+const devBuildTask  = content.everything();
+const prodBuildTask = content.everything(true);
 
 var cleanTask = require('./clean');
 exports.clean = cleanTask;
@@ -24,18 +19,8 @@ exports.cloudfront = cloudfront;
 
 /** **************************************************************************************************************** **/
 
-var prodBuildTask = parallel(
-  jsTask.prod,
-  everything.prod,
-);
-
-var devBuildTask = parallel(
-  jsTask,
-  everything,
-);
-
-exports.dev  = devBuildTask;
-exports.prod = prodBuildTask;
+exports.dev  = series(devBuildTask);
+exports.prod = series(prodBuildTask);
 exports.publish = series(
   cleanTask,
   prodBuildTask,
@@ -52,14 +37,10 @@ function watcher () {
     'public/**/*',
     'templates/*.{md,hbs,html}',
     'scss/*.scss',
-  ], everything);
+    'js/*.js',
+  ], devBuildTask);
 
-  watch('js/*.js', jsTask);
-
-  var forever = require('forever');
-  var srv = new forever.Monitor('server.js');
-  srv.start();
-  forever.startServer(srv);
+  server();
 }
 
 function server () {
@@ -71,7 +52,7 @@ function server () {
 
 }
 
-exports.watch = series(everything, watcher);
+exports.watch = series(devBuildTask, watcher);
 exports.uat = series(cleanTask, prodBuildTask, server);
 
 /** **************************************************************************************************************** **/

@@ -2,7 +2,7 @@
 const path = require('path');
 const ROOT = path.resolve(__dirname, '../..');
 const fs = require('fs-extra');
-const { is: _is, re } = require('../lib/util');
+const { is: _is } = require('../lib/util');
 
 function is (...args) {
   const fn = _is(...args);
@@ -135,10 +135,8 @@ exports.readFile = function readFile (fpath) {
 
 exports.resolve = function resolve (...args) {
   args = args.filter(Boolean);
-  let fpath = args.shift();
+  const fpath = args.shift();
   if (!fpath) return ROOT;
-  if (fpath[0] === '/') throw new Error('Did you mean to resolve this? ' + fpath);
-  // if (fpath[0] === '/') fpath = fpath.slice(1);
   return path.resolve(ROOT, fpath, ...args);
 };
 

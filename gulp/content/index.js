@@ -12,6 +12,8 @@ const { resolve } = require('./resolve');
 const favicon = require('./favicon');
 const scss    = require('./scss');
 const svg     = require('./svg');
+const scripts = require('./scripts');
+
 
 exports.everything = function (prod = false) {
   const fn = async () => {
@@ -30,23 +32,20 @@ exports.everything = function (prod = false) {
     const tasks = await Promise.all([
       PublicFiles.tasks,
       scss(prod),
+      scripts(prod),
       svg(prod),
       favicon(prod),
     ]);
 
-    async function crankTasks () {
-      if (!tasks.length) return;
-      const cache = new Cache({ prod });
-      await cache.load();
-      await evaluate(tasks.flat(), cache);
-      await cache.save();
-    }
+    await fs.writeFile(resolve('pages.json'), JSON.stringify(pages.map((p) => p.toJson()),  null, 2));
 
-    await Promise.all([
-      fs.writeFile(resolve('pages.json'), JSON.stringify(pages.map((p) => p.toJson()),  null, 2)),
-      pageWriter(pages, prod),
-      crankTasks(),
-    ]);
+    await fs.ensureDir(resolve('dist'));
+    const cache = new Cache({ prod });
+    await cache.load();
+    await evaluate(tasks.flat(), cache);
+    await cache.save();
+
+    await pageWriter(pages, prod);
   };
 
   const ret = () => fn().catch((err) => { console.log(err.trace || err); throw err; });
