@@ -31,6 +31,35 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
+function equals (value) {
+	value = uc(value);
+	return (tok) => uc(tok) === value;
+}
+
+function re (pattern) {
+	if (isString(pattern)) pattern = new RegExp(pattern);
+	return (tok) => !!String(tok).match(pattern);
+}
+
+function anyOf (...args) {
+	args = args.flat().map(uc);
+	if (!anyBy(args, isFunction)) {
+		// arguments do not contain a function, so we can optimize
+		if (args.length === 1) return (tok) => uc(tok) === args[0];
+		return (tok) => args.includes(uc(tok));
+	}
+
+	args = args.map((a) => isFunction(a) && a || equals(a));
+	if (args.length === 1) return (tok) => args[0](tok);
+	return (tok) => anyBy(args, (check) => check(tok));
+}
+
+function allOf (...args) {
+	args = args.flat().map((a) => isFunction(a) && a || equals(a));
+	if (args.length === 1) return (tok) => args[0](tok);
+	return (tok) => allBy(args, (check) => check(tok));
+}
+
 function isNumber    (input) { return typeof input === 'number' && !isNaN(input); }
 function isString    (input) { return typeof input === 'string'; }
 function isBoolean   (input) { return typeof input === 'boolean'; }
@@ -38,6 +67,12 @@ function isFunction  (input) { return typeof input === 'function'; }
 function isUndefined (input) { return typeof input === 'undefined'; }
 function isMap       (input) { return input instanceof Map; }
 function isSet       (input) { return input instanceof Set; }
+function isDate      (input) { return input instanceof Date; }
+function isRegExp    (input) { return input instanceof RegExp; }
+function isTruthy    (input) { return !!input; }
+function isFalsey    (input) { return  !input; }
+function isNull      (input) { return input === null; }
+const isArray = Array.isArray;
 
 function isPrimitive (input) {
 	switch (typeof input) {
@@ -50,8 +85,6 @@ function isPrimitive (input) {
 	}
 }
 
-function isNull (input) { return input === null; }
-
 function isObject (input) {
 	if (!input) return false;
 	if (typeof input !== 'object') return false;
@@ -61,13 +94,72 @@ function isObject (input) {
 	return true;
 }
 
-const isArray = Array.isArray;
+
+const IS_LOOKUP = new Map([
+	[ Array,     isArray     ],
+	[ Number,    isNumber    ],
+	[ String,    isString    ],
+	[ Boolean,   isBoolean   ],
+	[ Map,       isMap       ],
+	[ Set,       isSet       ],
+	[ Function,  isFunction  ],
+	[ Date,      isDate      ],
+	[ undefined, isUndefined ],
+	[ true,      isTruthy    ],
+	[ false,     isFalsey    ],
+]);
+
+function is (...args) {
+	args = args.flat().map((a) =>
+		IS_LOOKUP.get(a)
+		|| (isFunction(a) && a)
+		|| (isRegExp(a) && re(a))
+		|| equals(a),
+	);
+	if (args.length === 1) return (tok) => args[0](tok);
+	return (tok) => anyBy(args, (check) => check(tok));
+}
+
+function isAll (...args) {
+	args = args.flat().map((a) =>
+		IS_LOOKUP.get(a)
+		|| (isFunction(a) && a)
+		|| (isRegExp(a) && re(a))
+		|| equals(a),
+	);
+	if (args.length === 1) return (tok) => args[0](tok);
+	return (tok) => allBy(args, (check) => check(tok));
+}
+
+function isArrayOf (...args) {
+	const predicate = is(...args);
+	return (tok) => (isArray(tok) ? allBy(tok, predicate) : predicate(tok));
+}
 function isArrayOfStrings    (input) { return allBy(input, isString); }
 function isArrayOfNumbers    (input) { return allBy(input, isNumber); }
 function isArrayOfBooleans   (input) { return allBy(input, isBoolean); }
 function isArrayOfObjects    (input) { return allBy(input, isObject); }
 function isArrayOfMappables  (input) { return allBy(input, isMappable); }
 function isArrayOfPrimatives (input) { return allBy(input, isPrimitive); }
+function isArrayOfFunctions  (input) { return allBy(input, isFunction); }
+function isArrayOfRegEx      (input) { return allBy(input, isRegExp); }
+function isArrayOfTruthy     (input) { return allBy(input, isTruthy); }
+function isArrayOfFalsey     (input) { return allBy(input, isFalsey); }
+
+function contains (...args) {
+	const predicate = is(...args);
+	return (tok) => (isArray(tok) ? anyBy(tok, predicate) : predicate(tok));
+}
+function containsStrings    (input) { return anyBy(input, isString); }
+function containsNumbers    (input) { return anyBy(input, isNumber); }
+function containsBooleans   (input) { return anyBy(input, isBoolean); }
+function containsObjects    (input) { return anyBy(input, isObject); }
+function containsMappables  (input) { return anyBy(input, isMappable); }
+function containsPrimatives (input) { return anyBy(input, isPrimitive); }
+function containsFunctions  (input) { return anyBy(input, isFunction); }
+function containsRegEx      (input) { return anyBy(input, isRegExp); }
+function containsTruthy     (input) { return anyBy(input, isTruthy); }
+function containsFalsey     (input) { return anyBy(input, isFalsey); }
 
 function truthy (value) {
 	if (isMappable(value)) return !!sizeOf(value);
@@ -76,6 +168,14 @@ function truthy (value) {
 
 function hasOwn (obj, key) {
 	return Object.prototype.hasOwnProperty.call(obj, key);
+}
+
+function lc (str) {
+	return isString(uc) ? str.toLowerCase() : str;
+}
+
+function uc (str) {
+	return isString(str) ? str.toUpperCase() : str;
 }
 
 function ucfirst (input) {
@@ -215,6 +315,31 @@ function arrayify (input) {
 	return [ input ];
 }
 
+function first (input, count = 1) {
+	if (count === 1) {
+		if (isArray(input) || isString(input)) return input[0];
+		if (isSet(input) || isObject(input)) for (const v of input) return v;
+		if (isMap(input)) for (const [ , v ] of input) return v;
+		return;
+	}
+
+	if (isArray(input) || isString(input)) return input.slice(0, count);
+	if (isSet(input)) return Array.from(input).slice(0, count);
+	if (isObject(input)) return Object.values(input).slice(0, count);
+	if (isMap(input)) return Array.from(input.values()).slice(0, count);
+}
+
+function last (input, count = 1) {
+	if (count === 1) {
+		if (isArray(input) || isString(input)) return input[input.length - 1];
+	}
+
+	if (isArray(input) || isString(input)) return input.slice(-count);
+	if (isSet(input)) return Array.from(input).slice(-count);
+	if (isObject(input)) return Object.values(input).slice(-count);
+	if (isMap(input)) return Array.from(input.values()).slice(-count);
+}
+
 function all (...args) {
 	let input;
 	if (args.length > 1) {
@@ -238,7 +363,7 @@ function allBy (collection, predicate = null) {
 	if (!collection) return false;
 	if (predicate === null) {
 		predicate = (v) => v;
-	} else {
+	} else if (!isFunction(predicate)) {
 		predicate = iteratee(predicate);
 	}
 
@@ -300,7 +425,7 @@ function anyBy (collection, predicate = null) {
 	if (!collection) return false;
 	if (predicate === null) {
 		predicate = (v) => v;
-	} else {
+	} else if (!isFunction(iteratee)) {
 		predicate = iteratee(predicate);
 	}
 
@@ -352,8 +477,7 @@ function iteratee (match) {
 			if (isObject(o)) return o[match];
 			if (isMap(o)) return o.get(match);
 			if (isSet(o)) return o.has(match);
-			if (isString(o)) return o === match;
-			if (isNumber(o)) return String(o) === match;
+			if (isPrimitive(o)) return o[match];
 			return o === match;
 		};
 	}
@@ -548,6 +672,22 @@ function uniq (collection, predicate = null) {
 	return collection;
 }
 
+function keyBy (collection, predicate) {
+	predicate = iteratee(predicate);
+	return mapReduce(collection, (value, key, index) =>
+		[ predicate(value, key, index), value ],
+	);
+}
+
+function groupBy (collection, predicate) {
+	predicate = iteratee(predicate);
+	return reduce(collection, (result, value, key, index) => {
+		const k = predicate(value, key, index);
+		(result[k] || (result[k] = [])).push(value);
+		return result;
+	}, {});
+}
+
 function filter (collection, predicate) {
 	predicate = iteratee(predicate);
 
@@ -722,19 +862,21 @@ function mapReduce (collection, cb) {
 	return result;
 }
 
-function reduce (collection, cb, init) {
-	if (isArray(collection)) return collection.reduce(cb, init);
+function reduce (collection, predicate, init) {
+	if (!isFunction(predicate)) throw new TypeError('Predicate must be a function');
+
+	if (isArray(collection)) return collection.reduce((r, v, i) => predicate(r, v, i, i), init);
 
 	if (isSet(collection)) {
-		return Array.from(collection).reduce(cb, init);
+		return Array.from(collection).reduce((r, v, i) => predicate(r, v, i, i), init);
 	}
 
 	if (isMap(collection)) {
-		return Array.from(collection.entries()).reduce((prev, [ key, value ], i) => cb(prev, value, key, i), init);
+		return Array.from(collection.entries()).reduce((prev, [ key, value ], i) => predicate(prev, value, key, i), init);
 	}
 
 	if (isObject(collection)) {
-		return Object.entries(collection).reduce((prev, [ key, value ], i) => cb(prev, value, key, i), init);
+		return Object.entries(collection).reduce((prev, [ key, value ], i) => predicate(prev, value, key, i), init);
 	}
 }
 
@@ -1428,24 +1570,49 @@ function slugify (input, delimiter = '-', separators = false) {
 
 exports.all = all;
 exports.allBy = allBy;
+exports.allOf = allOf;
 exports.any = any;
 exports.anyBy = anyBy;
+exports.anyOf = anyOf;
 exports.arrayify = arrayify;
+exports.contains = contains;
+exports.containsBooleans = containsBooleans;
+exports.containsFalsey = containsFalsey;
+exports.containsFunctions = containsFunctions;
+exports.containsMappables = containsMappables;
+exports.containsNumbers = containsNumbers;
+exports.containsObjects = containsObjects;
+exports.containsPrimatives = containsPrimatives;
+exports.containsRegEx = containsRegEx;
+exports.containsStrings = containsStrings;
+exports.containsTruthy = containsTruthy;
 exports.deepPick = deepPick;
+exports.equals = equals;
 exports.filter = filter;
+exports.first = first;
 exports.flatten = flatten;
 exports.fromPairs = fromPairs;
 exports.get = get;
+exports.groupBy = groupBy;
 exports.has = has;
 exports.hasOwn = hasOwn;
+exports.is = is;
+exports.isAll = isAll;
 exports.isArray = isArray;
+exports.isArrayOf = isArrayOf;
 exports.isArrayOfBooleans = isArrayOfBooleans;
+exports.isArrayOfFalsey = isArrayOfFalsey;
+exports.isArrayOfFunctions = isArrayOfFunctions;
 exports.isArrayOfMappables = isArrayOfMappables;
 exports.isArrayOfNumbers = isArrayOfNumbers;
 exports.isArrayOfObjects = isArrayOfObjects;
 exports.isArrayOfPrimatives = isArrayOfPrimatives;
+exports.isArrayOfRegEx = isArrayOfRegEx;
 exports.isArrayOfStrings = isArrayOfStrings;
+exports.isArrayOfTruthy = isArrayOfTruthy;
 exports.isBoolean = isBoolean;
+exports.isDate = isDate;
+exports.isFalsey = isFalsey;
 exports.isFunction = isFunction;
 exports.isMap = isMap;
 exports.isMappable = isMappable;
@@ -1453,17 +1620,23 @@ exports.isNull = isNull;
 exports.isNumber = isNumber;
 exports.isObject = isObject;
 exports.isPrimitive = isPrimitive;
+exports.isRegExp = isRegExp;
 exports.isSet = isSet;
 exports.isString = isString;
+exports.isTruthy = isTruthy;
 exports.isUndefined = isUndefined;
 exports.iteratee = iteratee;
+exports.keyBy = keyBy;
 exports.keys = keys;
+exports.last = last;
+exports.lc = lc;
 exports.map = map;
 exports.mapReduce = mapReduce;
 exports.merge = merge;
 exports.omit = omit;
 exports.pathinate = pathinate;
 exports.pick = pick;
+exports.re = re;
 exports.reduce = reduce;
 exports.set = set;
 exports.sizeOf = sizeOf;
@@ -1473,6 +1646,7 @@ exports.sort = sort;
 exports.sorter = sorter;
 exports.toPairs = toPairs;
 exports.truthy = truthy;
+exports.uc = uc;
 exports.ucfirst = ucfirst;
 exports.ucsentence = ucsentence;
 exports.ucwords = ucwords;

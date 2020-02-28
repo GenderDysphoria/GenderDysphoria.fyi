@@ -5,22 +5,10 @@ const { series, parallel, watch } = require('gulp');
 
 var content = require('./content');
 
-const parse   = exports.parse   = content.task('parse');
-const pages   = exports.pages   = content.task('pages');
-exports.twitter = content.task('twitter');
-exports.favicon = content.task('favicon');
-exports.assets  = content.task('assets');
-
-exports.content = series(parse, pages);
-
 const everything = content.everything();
 everything.prod  = content.everything(true);
 
-
-
-const filesTask = require('./files');
-exports.files = filesTask;
-exports['files-prod'] = filesTask.prod;
+exports.everything = everything;
 
 var scssTask = require('./scss');
 exports.scss = scssTask;
@@ -42,14 +30,12 @@ exports.cloudfront = cloudfront;
 var prodBuildTask = parallel(
   scssTask.prod,
   jsTask.prod,
-  filesTask.prod,
   everything.prod,
 );
 
 var devBuildTask = parallel(
   scssTask,
   jsTask,
-  filesTask,
   everything,
 );
 
@@ -68,11 +54,9 @@ exports.testpush = pushToProd.dryrun;
 function watcher () {
 
   watch([
-    'pages/**/*.{md,hbs,html}',
+    'public/**/*',
     'templates/*.{md,hbs,html}',
-  ], series(exports.parse, exports.twitter, exports.pages));
-
-  watch('page/**/*.{jpeg,jpg,png,gif}', series(exports.assets, exports.parse, exports.pages));
+  ], everything);
 
   watch('scss/*.scss', scssTask);
   watch('js/*.js', jsTask);
@@ -92,7 +76,7 @@ function server () {
 
 }
 
-exports.watch = series(exports.parse, exports.pages, watcher);
+exports.watch = series(everything, watcher);
 exports.uat = series(cleanTask, prodBuildTask, server);
 
 /** **************************************************************************************************************** **/

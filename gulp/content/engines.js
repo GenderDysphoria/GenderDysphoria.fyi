@@ -4,7 +4,7 @@ const path = require('path');
 const fs = require('fs-extra');
 const log = require('fancy-log');
 const { minify } = require('html-minifier-terser');
-const { resolve, readFile } = require('./resolve');
+const { resolve, readFile, ENGINE } = require('./resolve');
 
 const handlebars = require('handlebars');
 const HandlebarsKit = require('hbs-kit');
@@ -121,17 +121,14 @@ module.exports = exports = async function (prod) {
   const shrink = (input) => (prod ? minify(input, MINIFY_CONFIG) : input);
 
   const result = {
-    hbs: (source, env) => {
+    [ENGINE.HANDLEBARS]: (source, env) => {
       const template = handlebars.compile(source);
       return shrink(template(env));
     },
-    md: (source, env) => shrink(pageTemplate({ ...env, contents: markdown('full', source, env) })),
-    raw: (source) => shrink(source),
-    preview: (source, env) => markdown('preview', source, env),
+    [ENGINE.MARKDOWN]: (source, env) => shrink(pageTemplate({ ...env, contents: markdown('full', source, env) })),
+    [ENGINE.OTHER]: (source) => shrink(source),
+    PREVIEW: (source, env) => markdown('preview', source, env),
   };
-
-  // result.handlebars.engine = handlebars;
-  // result.markdown.engine = markdownEngines.full;
 
   return result;
 };
@@ -153,11 +150,11 @@ class Injectables {
   }
 
   _template (tpath, make) {
+    if (!tpath) throw new Error('Received an empty template path: ' + tpath);
     if (this.injections[tpath]) return this.injections[tpath];
 
     if (!fs.existsSync(tpath)) {
-      log.error('Injectable does not exist: ' + tpath);
-      return '';
+      throw new Error('Injectable does not exist: ' + tpath);
     }
 
     let contents;
@@ -226,7 +223,7 @@ class Injectables {
         const contents = self._template(tpath, handlebars.compile)(context);
         return new handlebars.SafeString(contents);
       } catch (e) {
-        log.error('Could not execute import template ' + path.relative(ROOT, tpath), e);
+        log.error('Could not execute import template ' + tpath, e);
         return '';
       }
     };
@@ -245,7 +242,7 @@ class Injectables {
 
         return new handlebars.SafeString(contents);
       } catch (e) {
-        log.error('Could not execute import template ' + path.relative(ROOT, tpath), e);
+        log.error('Could not execute import template ' + tpath, e);
         return '';
       }
     };

@@ -1,4 +1,4 @@
-const { sortBy } = require('lodash');
+const { sortBy, uniqBy } = require('lodash');
 const { resolve } = require('./resolve');
 const log = require('fancy-log');
 const Promise = require('bluebird');
@@ -16,7 +16,10 @@ const LOG = {
 module.exports = exports = async function process (tasks, cache) {
   const lastSeen = new Date();
 
-  await Promise.map(sortBy(tasks, [ 'input', 'output' ]), async (task) => {
+  tasks = uniqBy(tasks, 'output');
+  tasks = sortBy(tasks, [ 'input', 'output' ]);
+
+  await Promise.map(tasks, async (task) => {
     let result;
     let status = await cache.get(task);
     const { input, output } = task;

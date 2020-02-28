@@ -1,72 +1,29 @@
 
+const path = require('path');
 const { pick } = require('lodash');
 const actions = require('./actions');
-
-const path = require('path');
+const File = require('./file');
+const { TYPE } = require('./resolve');
 const getImageDimensions = require('../lib/dimensions');
 const getVideoDimensions = require('get-video-dimensions');
 
-const JPG  = '.jpg';
-const JPEG = '.jpeg';
-const PNG  = '.png';
-const GIF  = '.gif';
-const MP4  = '.mp4';
-const M4V  = '.m4v';
-
-const FILETYPE = {
-  [JPG]:  'jpeg',
-  [JPEG]: 'jpeg',
-  [PNG]:  'png',
-  [GIF]:  'gif',
-  [MP4]:  'mp4',
-  [M4V]:  'mp4',
-};
-
 const RESOLUTIONS = [ 2048, 1024, 768, 576, 300, 100 ];
 
-module.exports = exports = class Asset {
+module.exports = exports = class Asset extends File {
 
   constructor (filepath) {
-    const file = path.parse(filepath);
-    let { base: basename, name } = file;
+    super(filepath);
 
-    this.preprocessed = false;
-    if (name[0] === '_') {
-      this.preprocessed = true;
-      file.name = name = name.slice(1);
-      file.basename = basename = basename.slice(1);
-    }
-
-    this.type = FILETYPE[file.ext] || file.ext.slice(1);
-    if ([ JPG, JPEG, PNG, GIF ].includes(file.ext)) {
-      this.kind = 'image';
-    } else if ([ MP4, M4V ].includes(file.ext)) {
-      this.kind = 'video';
-    } else {
-      this.kind = 'raw';
-    }
-
-    // remove the pages root and any _images segment from the dir
-    const dir = file.dir.split('/');
-    if (dir[0] === 'pages') dir.shift();
-    const i = dir.indexOf('_images');
-    if (i > -1) dir.splice(i, 1);
-
-    this.input    = filepath;                    // pages/file.ext
-    this.base     = path.join(...dir);           // '', 'folder', 'folder/subfolder'
-    this.dir      = path.join('/', ...dir);      // /, /folder, /folder/subfolder
-    this.name     = name;                        // index, fileA, fileB
-    this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
-    this.ext      = file.ext;
-
-    this.out = path.join(this.base, `${this.name}${this.preprocessed ? this.ext : '.' + this.type}`);
-    this.url = path.join(this.dir,  `${this.name}${this.preprocessed ? this.ext : '.' + this.type}`);
+    this.serializable.push(
+      'dimensions',
+      'sizes',
+    );
   }
 
   load () {
-    switch (this.kind) {
-    case 'video': return this.loadVideo();
-    case 'image': return this.loadImage();
+    switch (this.type) {
+    case TYPE.VIDEO: return this.loadVideo();
+    case TYPE.IMAGE: return this.loadImage();
     default:
     }
   }
@@ -111,7 +68,7 @@ module.exports = exports = class Asset {
 
       for (const w of RESOLUTIONS) {
         if (w > width) continue;
-        const name = `${this.name}.${w}w.${this.type}`;
+        const name = `${this.name}.${w}w${this.ext}`;
         this.sizes.push({
           output: path.join(this.base, name),
           url:    path.join(this.dir,  name),
@@ -156,27 +113,12 @@ module.exports = exports = class Asset {
     return this;
   }
 
-  toJson () {
-    return pick(this, [
-      'preprocessed',
-      'type',
-      'kind',
-      'input',
-      'base',
-      'dir',
-      'name',
-      'basename',
-      'ext',
-      'dimensions',
-    ]);
-  }
-
   webready () {
-    const { kind, name } = this;
+    const { type, name, sizes } = this;
     return {
-      kind,
+      type,
       name,
-      sizes: this.sizes.map((s) => pick(s, [ 'url', 'width', 'height' ])),
+      sizes: sizes.map((s) => pick(s, [ 'url', 'width', 'height' ])),
     };
   }
 
@@ -184,19 +126,10 @@ module.exports = exports = class Asset {
     return this.sizes.map(({ output, width }) => ({
       input: this.input,
       output,
-      format: this.preprocessed ? undefined : this.type,
+      format: this.preprocessed ? undefined : this.ext.slice(1),
       width:  this.preprocessed ? undefined : width,
       action: this.preprocessed ? actions.copy : actions.image,
     }));
   }
 
 };
-
-exports.JPG         = JPG;
-exports.JPEG        = JPEG;
-exports.PNG         = PNG;
-exports.GIF         = GIF;
-exports.MP4         = MP4;
-exports.M4V         = M4V;
-exports.FILETYPE    = FILETYPE;
-exports.RESOLUTIONS = RESOLUTIONS;

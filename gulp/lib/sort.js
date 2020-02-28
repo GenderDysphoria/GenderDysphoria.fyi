@@ -22,6 +22,6 @@ module.exports = exports = function (iteratees) {
         stream.push(file);
         await sleep(100);
       }
-    }
+    },
   );
 };

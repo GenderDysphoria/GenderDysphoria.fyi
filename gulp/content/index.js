@@ -1,69 +1,52 @@
 
-const createAssetFinder = require('./assets');
+const loadPublicFiles = require('./public');
 const Cache = require('./cache');
+const Promise = require('bluebird');
+const fs = require('fs-extra');
 
+const primeTweets = require('./page-tweets');
+const pageWriter = require('./page-writer');
 const evaluate = require('./evaluate');
+const { resolve } = require('./resolve');
 
-const pages = require('./pages');
-
-const twitter = require('./twitter');
 const favicon = require('./favicon');
-const assets = () => createAssetFinder().then(({ tasks }) => tasks);
+const svg     = require('./svg');
 
 exports.everything = function (prod = false) {
   const fn = async () => {
 
-    const AssetFinder = await createAssetFinder();
+    // load a directory scan of the public folder
+    const PublicFiles = await loadPublicFiles();
 
-    await pages.parse(AssetFinder);
+    // load data for all the files in that folder
+    await Promise.map(PublicFiles.all, (p) => p.load(PublicFiles));
 
+    // prime tweet data for all pages
+    const pages = await primeTweets(PublicFiles.pages);
+
+    // compile all tasks to be completed
     const tasks = await Promise.all([
-      AssetFinder.tasks,
-      twitter(prod),
+      PublicFiles.tasks,
+      svg(prod),
       favicon(prod),
     ]);
 
-    if (!tasks.length) return;
+    async function crankTasks () {
+      if (!tasks.length) return;
+      const cache = new Cache({ prod });
+      await cache.load();
+      await evaluate(tasks.flat(), cache);
+      await cache.save();
+    }
 
-    const cache = new Cache({ prod });
-    await cache.load();
-    await evaluate(tasks.flat(), cache);
-    await cache.save();
-
-    await pages.write(prod);
+    await Promise.all([
+      fs.writeFile(resolve('pages.json'), JSON.stringify(pages.map((p) => p.toJson()),  null, 2)),
+      pageWriter(pages, prod),
+      crankTasks(),
+    ]);
   };
 
   const ret = () => fn().catch((err) => { console.log(err.trace || err); throw err; });
   ret.displayName = prod ? 'generateEverythingForProd' : 'generateEverything';
-  return ret;
-};
-
-exports.task = function (action, prod = false) {
-  let fn;
-
-  if (action === 'parse') {
-    fn = () => pages.parse();
-  } else if (action === 'pages') {
-    fn = () => pages.write(prod);
-  } else {
-    fn = async () => {
-      const tasks = await {
-        twitter,
-        favicon,
-        assets,
-      }[action](prod);
-
-      if (!tasks.length) return;
-
-      const cache = new Cache({ prod });
-      await cache.load();
-      await evaluate(tasks, cache);
-      await cache.save();
-    };
-  }
-
-  const ret = () => fn().catch((err) => { console.log(err.trace || err); throw err; });
-  ret.displayName = prod ? action + 'ForProd' : action;
-
   return ret;
 };
