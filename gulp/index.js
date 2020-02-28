@@ -3,10 +3,10 @@ const { series, watch } = require('gulp');
 
 /** **************************************************************************************************************** **/
 
-var content = require('./content');
+var build = require('../build');
 
-const devBuildTask  = content.everything();
-const prodBuildTask = content.everything(true);
+const devBuildTask  = build.everything();
+const prodBuildTask = build.everything(true);
 
 var cleanTask = require('./clean');
 exports.clean = cleanTask;
@@ -44,12 +44,10 @@ function watcher () {
 }
 
 function server () {
-
   var forever = require('forever');
   var srv = new forever.Monitor('server.js');
   srv.start();
   forever.startServer(srv);
-
 }
 
 exports.watch = series(devBuildTask, watcher);

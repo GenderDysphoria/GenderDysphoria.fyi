@@ -1,6 +1,6 @@
 
 const path = require('path');
-const ROOT = path.resolve(__dirname, '../..');
+const ROOT = path.resolve(__dirname, '..');
 const fs = require('fs-extra');
 const { is: _is } = require('./lib/util');
 
