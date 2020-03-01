@@ -101,12 +101,12 @@ module.exports = exports = async function (prod) {
     }
   }
 
-  const pageTemplateRaw = await readFile('templates/post.hbs');
+  const pageTemplateRaw = await readFile('templates/page.hbs');
   if (!pageTemplateRaw) throw new Error('Post template was empty?');
   try {
     var pageTemplate = handlebars.compile(pageTemplateRaw.toString('utf8'));
   } catch (e) {
-    log.error('Crash while loading post template', e);
+    log.error('Crash while loading page template', e);
   }
 
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
