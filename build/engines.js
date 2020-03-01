@@ -127,7 +127,8 @@ module.exports = exports = async function (prod) {
     },
     [ENGINE.MARKDOWN]: (source, env) => shrink(pageTemplate({ ...env, contents: markdown('full', source, env) })),
     [ENGINE.OTHER]: (source) => shrink(source),
-    PREVIEW: (source, env) => markdown('preview', source, env),
+    MARKDOWN_CONTENT: (source, env) => markdown('full', source, env),
+    MARKDOWN_PREVIEW: (source, env) => markdown('preview', source, env),
   };
 
   return result;

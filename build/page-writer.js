@@ -2,13 +2,17 @@ const path = require('path');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
 const getEngines = require('./engines');
-const { resolve, ROOT } = require('./resolve');
+const { resolve, ROOT, ENGINE } = require('./resolve');
 const { siteInfo }  = require(resolve('package.json'));
 
-module.exports = exports = async function writePageContent (pages, prod) {
+module.exports = exports = async function writePageContent (pages, posts, prod) {
   const engines = await getEngines(prod);
+  await processPages(engines, posts, null, prod);
+  await processPages(engines, pages, posts, prod);
+};
 
-  await Promise.map(pages, async (page) => {
+function processPages (engines, pages, posts, prod) {
+  return Promise.map(pages, async (page) => {
     // page = new Page(page);
 
     var data = {
@@ -27,11 +31,10 @@ module.exports = exports = async function writePageContent (pages, prod) {
         root: ROOT,
         basename: page.basename,
       },
-      pages,
+      posts,
     };
 
-    const html = String(engines[page.engine](data.source, data));
-    const json = page.json && {
+    const json = {
       url: page.fullurl,
       title: page.meta.title,
       subtitle: page.meta.subtitle,
@@ -41,16 +44,21 @@ module.exports = exports = async function writePageContent (pages, prod) {
       dateCreated: page.dateCreated,
       dateModified: page.dateModified,
       titlecard: page.titlecard,
-      preview: page.engine === 'md' && String(engines.preview(data.source, data)),
     };
+
+    const html = String(engines[page.engine](data.source, data));
+    if (page.engine === ENGINE.MARKDOWN) {
+      json.preview = String(engines.MARKDOWN_PREVIEW(data.source, data));
+      page.content = String(engines.MARKDOWN_CONTENT(data.source, data));
+    }
 
     const output = resolve('dist', page.out);
     await fs.ensureDir(path.dirname(output));
     await Promise.all([
       fs.writeFile(output, Buffer.from(html)),
-      json && fs.writeFile(resolve('dist', page.json), Buffer.from(
+      page.json && fs.writeFile(resolve('dist', page.json), Buffer.from(
         prod ? JSON.stringify(json) : JSON.stringify(json, null, 2),
       )),
     ]);
   });
-};
+}

@@ -59,7 +59,7 @@ exports.everything = function (prod = false) {
     await evaluate(tasks.flat(), cache);
     await cache.save();
 
-    await pageWriter([ ...pages, ...posts ], prod);
+    await pageWriter(pages, posts, prod);
   }
 
   fn.displayName = prod ? 'buildForProd' : 'build';
