@@ -19,7 +19,8 @@ body.page {
     border-bottom: 1px solid $gutter-border;
 
     max-width: 1200px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   article {

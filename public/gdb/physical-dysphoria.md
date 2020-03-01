@@ -2,6 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Physical Dysphoria"
 description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
+preBody: '_disclaimer'
 tweets:
   - '1220143004821938176'
   - '1184580976581775366'

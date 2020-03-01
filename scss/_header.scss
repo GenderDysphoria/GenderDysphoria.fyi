@@ -145,14 +145,16 @@ header {
 
 }
 
+header + * {
+  @media (min-width: 500px) {
+    margin-top: $header-full-height;
+  }
+}
+
 .disclaimer {
   $cwColor: darken($gray-100, 2%);
 
   border-bottom: 1px solid $gutter-border;
-
-  @media (min-width: 500px) {
-    margin-top: $header-full-height;
-  }
 
   > div {
     margin: 0 auto;
