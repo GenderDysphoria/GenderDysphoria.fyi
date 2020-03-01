@@ -17,6 +17,8 @@ exports.push = pushToProd;
 const cloudfront = require('./cloudfront');
 exports.cloudfront = cloudfront;
 
+exports.new = require('../build/new-post.js');
+
 /** **************************************************************************************************************** **/
 
 exports.dev  = series(devBuildTask);
