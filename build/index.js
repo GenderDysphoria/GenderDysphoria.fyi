@@ -1,5 +1,8 @@
 
+process.env.BLUEBIRD_DEBUG = true;
+
 const loadPublicFiles = require('./public');
+const loadPostFiles = require('./posts');
 const Cache = require('./cache');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
@@ -16,21 +19,31 @@ const scripts = require('./scripts');
 
 
 exports.everything = function (prod = false) {
-  const fn = async () => {
+  async function fn () {
 
-    // load a directory scan of the public folder
-    const PublicFiles = await loadPublicFiles();
+    // load a directory scan of the public and post folders
+    const [ PublicFiles, PostFiles ] = await Promise.all([
+      loadPublicFiles(),
+      loadPostFiles(),
+    ]);
 
     // load data for all the files in that folder
     await Promise.map(PublicFiles.assets, (p) => p.load());
     await Promise.map(PublicFiles.pages, (p) => p.load(PublicFiles));
 
+    await Promise.map(PostFiles.assets, (p) => p.load());
+    await Promise.map(PostFiles.pages, (p) => p.load(PostFiles));
+
+
     // prime tweet data for all pages
     const pages = await primeTweets(PublicFiles.pages);
+    const posts = await primeTweets(PostFiles.pages);
+
 
     // compile all tasks to be completed
     const tasks = await Promise.all([
       PublicFiles.tasks,
+      PostFiles.tasks,
       scss(prod),
       scripts(prod),
       svg(prod),
@@ -38,6 +51,7 @@ exports.everything = function (prod = false) {
     ]);
 
     await fs.writeFile(resolve('pages.json'), JSON.stringify(pages.map((p) => p.toJson()),  null, 2));
+    await fs.writeFile(resolve('posts.json'), JSON.stringify(posts.map((p) => p.toJson()),  null, 2));
 
     await fs.ensureDir(resolve('dist'));
     const cache = new Cache({ prod });
@@ -45,10 +59,9 @@ exports.everything = function (prod = false) {
     await evaluate(tasks.flat(), cache);
     await cache.save();
 
-    await pageWriter(pages, prod);
-  };
+    await pageWriter([ ...pages, ...posts ], prod);
+  }
 
-  const ret = () => fn().catch((err) => { console.log(err.trace || err); throw err; });
-  ret.displayName = prod ? 'generateEverythingForProd' : 'generateEverything';
-  return ret;
+  fn.displayName = prod ? 'buildForProd' : 'build';
+  return fn;
 };

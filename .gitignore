@@ -6,6 +6,7 @@ node_modules
 /bs-manifest.json
 /bs-cache
 /pages.json
+/posts.json
 /if-*
 /twitter-cache.json
 /twitter-config.json

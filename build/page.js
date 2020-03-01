@@ -31,23 +31,27 @@ module.exports = exports = class Page extends File {
       'flags',
     );
 
+    this.engine = ENGINE[this.type] || ENGINE.COPY;
+  }
+
+  _out () {
     var isIndexPage = (this.name === 'index');
     var isClean = isCleanUrl(this.ext);
 
     if (isClean && isIndexPage) {
-      this.output  = path.join(this.base, 'index.html');
+      this.out     = path.join(this.base, 'index.html');
       this.json    = path.join(this.base, 'index.json');
       this.url     = this.dir;
     } else if (isClean) {
-      this.output  = path.join(this.base, this.name, 'index.html');
+      this.out     = path.join(this.base, this.name, 'index.html');
       this.json    = path.join(this.base, this.name + '.json');
       this.url     = path.join(this.dir, this.name);
     } else if (isIndexPage) {
-      this.output  = path.join(this.base, 'index.html');
+      this.out     = path.join(this.base, 'index.html');
       this.json    = path.join(this.base, this.name + '.json');
       this.url     = this.dir;
     } else {
-      this.output  = path.join(this.base, this.basename);
+      this.out     = path.join(this.base, this.basename);
       this.json    = path.join(this.base, this.basename + '.json');
       this.url     = path.join(this.dir, this.basename);
     }
@@ -55,8 +59,6 @@ module.exports = exports = class Page extends File {
     const url = new URL(pkg.siteInfo.siteUrl);
     url.pathname = this.url;
     this.fullurl = url.href;
-
-    this.engine = ENGINE[this.type] || ENGINE.COPY;
   }
 
   async load (PublicFiles) {
@@ -64,8 +66,6 @@ module.exports = exports = class Page extends File {
       readFile(this.input).catch(() => null),
       fs.stat(this.input).catch(() => ({})),
     ]);
-
-    const { titlecard, assets } = PublicFiles.for(this.dir);
 
     // empty file
     if (!raw || !ctime) {
@@ -82,20 +82,28 @@ module.exports = exports = class Page extends File {
 
     this.source = body;
     this.meta = meta;
-    this.images = assets;
-    this.titlecard = titlecard;
-    this.tweets = (meta.tweets || []).map(parseTweetId);
     this.dateCreated = meta.date && new Date(meta.date) || ctime;
     this.dateModified = mtime;
 
-    this.classes = Array.from(new Set(meta.classes || []));
+    this._parse(PublicFiles);
+
+    return this;
+  }
+
+  _parse (PublicFiles) {
+    const { titlecard, webready } = PublicFiles.for(this.dir);
+
+    this.images = webready;
+    this.titlecard = titlecard;
+    this.tweets = (this.meta.tweets || []).map(parseTweetId);
+
+    this.classes = Array.from(new Set(this.meta.classes || []));
     this.flags = this.classes.reduce((res, item) => {
       var camelCased = item.replace(/-([a-z])/g, (g) => g[1].toUpperCase());
       res[camelCased] = true;
       return res;
     }, {});
 
-    return this;
   }
 
   tasks () {

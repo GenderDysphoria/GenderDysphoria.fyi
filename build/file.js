@@ -28,19 +28,19 @@ module.exports = exports = class File {
       file.basename = basename = basename.slice(1);
     }
 
-    // remove the public root and any _images segment from the dir
-    const dir = this._dir(file.dir);
-
     this.kind     = kind(filepath);
     this.type     = type(filepath);
+    this.input    = filepath;                    // public/file.ext
     this.cwd      = file.dir;
     this.ext      = this.preprocessed ? file.ext : normalizedExt(file.ext);
-    this.input    = filepath;                    // public/file.ext
-    this.base     = path.join(...dir);           // '', 'folder', 'folder/subfolder'
-    this.dir      = path.join('/', ...dir);      // /, /folder, /folder/subfolder
     this.name     = name;                        // index, fileA, fileB
     this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
-    this.ext      = file.ext;
+
+    const dir = this._dir(file.dir);
+    if (dir) {
+      this.base     = path.join(...dir);           // '', 'folder', 'folder/subfolder'
+      this.dir      = path.join('/', ...dir);      // /, /folder, /folder/subfolder
+    }
 
     this._out();
 

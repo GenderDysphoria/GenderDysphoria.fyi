@@ -44,7 +44,7 @@ module.exports = exports = async function writePageContent (pages, prod) {
       preview: page.engine === 'md' && String(engines.preview(data.source, data)),
     };
 
-    const output = resolve('dist', page.output);
+    const output = resolve('dist', page.out);
     await fs.ensureDir(path.dirname(output));
     await Promise.all([
       fs.writeFile(output, Buffer.from(html)),
