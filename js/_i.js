@@ -1,11 +1,11 @@
 
-(function (window, document, navigator) {
-  const me = document.currentScript;
+(function () {
+  const me = window.document.currentScript;
   const url = me.getAttribute('data-url');
-  const iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform);
+  const iOS = !!window.navigator.platform && /iPad|iPhone|iPod/.test(window.navigator.platform);
 
-  const vendor = navigator.vendor;
-  const doNotTrack = navigator.doNotTrack || navigator.msDoNotTrack || window.doNotTrack;
+  const vendor = window.navigator.vendor;
+  const doNotTrack = window.navigator.doNotTrack || window.navigator.msDoNotTrack || window.doNotTrack;
 
   let tid = !doNotTrack && window.localStorage.getItem('tid');
   if (!tid && !doNotTrack) {
@@ -13,17 +13,14 @@
     window.localStorage.setItem('tid', tid);
   }
 
-  const body = document.body;
-  const html = document.documentElement;
-
   const SESSION_DATA = {
     tid,
     start: Date.now(),
     end: null,
     max_scroll: 0,
-    language: navigator.userLanguage || navigator.language,
+    language: window.navigator.userLanguage || window.navigator.language,
     href: window.location.pathname,
-    referrer: document.referrer,
+    referrer: window.document.referrer,
   };
 
   // listen for all the exit events
@@ -38,14 +35,14 @@
   // scroll tracking
   window.addEventListener('scroll', function () {
     const page_height = Math.max(
-      body.scrollHeight,
-      body.offsetHeight,
-      html.clientHeight,
-      html.scrollHeight,
-      html.offsetHeight,
+      window.document.body.scrollHeight,
+      window.document.body.offsetHeight,
+      window.document.documentElement.clientHeight,
+      window.document.documentElement.scrollHeight,
+      window.document.documentElement.offsetHeight,
     );
 
-    const viewport_height = Math.max(html.clientHeight, window.innerHeight || 0);
+    const viewport_height = Math.max(window.document.documentElement.clientHeight, window.innerHeight || 0);
     const max_scroll = Math.max(SESSION_DATA.max_scroll, window.scrollY);
 
     const viewed = max_scroll === 0 ? 0 : Math.round(((max_scroll + viewport_height) / page_height) * 100);
@@ -89,4 +86,4 @@
       // a hack necessary for Firefox and Safari refresh / back button
     }
   }
-}(window, document, navigator));
+}());
