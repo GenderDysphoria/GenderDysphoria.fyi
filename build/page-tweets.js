@@ -28,17 +28,23 @@ module.exports = exports = async function tweets (pages) {
 
   /* Load Missing Tweets **************************************************/
 
-  if (tweetsNeeded.length) {
+  while (tweetsNeeded.length) {
     log('Fetching tweets: ' + tweetsNeeded.join(', '));
     const arriving = await Promise.all(chunk(tweetsNeeded, 99).map(twitter));
+    const tweetsRequested = tweetsNeeded;
+    tweetsNeeded = [];
     const loaded = [];
     for (const tweet of arriving.flat(1)) {
-      if (!twitterBackup[tweet.id_str]) twitterBackup[tweet.id_str] = tweet;
+      if (tweet.quoted_status_id_str && !twitterCache[tweet.quoted_status_id_str]) {
+        tweetsNeeded.push(tweet.quoted_status_id_str);
+      }
+      // if (!twitterBackup[tweet.id_str]) twitterBackup[tweet.id_str] = tweet;
+      twitterBackup[tweet.id_str] = tweet;
       twitterCache[tweet.id_str] = tweetparse(tweet);
       loaded.push(tweet.id_str);
     }
 
-    const absent = difference(tweetsNeeded, loaded);
+    const absent = difference(tweetsRequested, loaded);
     for (const id of absent) {
       if (twitterBackup[id]) {
         log('Pulled tweet from backup ' + id);
@@ -53,18 +59,24 @@ module.exports = exports = async function tweets (pages) {
 
   const twitterMedia = [];
 
+  function attachTweet (dict, tweetid) {
+    const tweet = twitterCache[tweetid];
+    if (!tweet) {
+      log.error(`Tweet ${tweetid} is missing from the cache.`);
+      return;
+    }
+    dict[tweetid] = tweet;
+    twitterMedia.push( ...tweet.media );
+
+    if (tweet.quoted_status_id_str) attachTweet(dict, tweet.quoted_status_id_str);
+  }
+
   // now loop through pages and substitute the tweet data for the ids
   for (const page of pages) {
     if (!page.tweets || !page.tweets.length) continue;
 
     page.tweets = page.tweets.reduce((dict, tweetid) => {
-      const tweet = twitterCache[tweetid];
-      if (!tweet) {
-        log.error(`Tweet ${tweetid} is missing from the cache.`);
-        return dict;
-      }
-      dict[tweetid] = tweet;
-      twitterMedia.push( ...tweet.media );
+      attachTweet(dict, tweetid);
       return dict;
     }, {});
   }

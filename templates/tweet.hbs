@@ -12,17 +12,30 @@
       <span>@{{user.screen_name}}</span>
       <img src="/tweets/logo.svg" alt="Twitter Logo" class="tweet-logo">
     </a>
+    {{#if quoted_status_id_str}}{{#with (lookup ../../tweets quoted_status_id_str)}}
+    <div class="tweet-quoted">
+      <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
+        <strong>{{{user.name_html}}}</strong>
+        <span>@{{user.screen_name}}</span>
+      </a>
+      {{#if quoted_status_id_str}}{{#with (lookup ../../../tweets quoted_status_id_str)}}
+      <div class="tweet-quoted">
+        <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
+          <strong>{{{user.name_html}}}</strong>
+          <span>@{{user.screen_name}}</span>
+        </a>
+        <div class="tweet-quoted-text">{{{html}}}</div>
+      </div>
+      {{/with}}{{/if}}
+      <div class="tweet-quoted-text">{{{html}}}</div>
+    </div>
+    {{/with}}{{/if}}
     <div class="tweet-text">{{{html}}}</div>
-    {{#if quoted_status}}<a class="tweet-quoted" href="https://twitter.com/{{quoted_status.user.screen_name}}/status/{{quoted_status.id_str}}">
-      <strong>{{{quoted_status.user.name_html}}}</strong>
-      <span>@{{quoted_status.user.screen_name}}</span>
-      <div class="tweet-quoted-text">{{{quoted_status.html}}}</div>
-    </a>{{/if}}
     {{#any extended_entities.media entities.media}}
-    <div class="tweet-entities"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid count{{this.length}}">
+    <div class="tweet-entities lightbox"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid count{{this.length}}">
       {{#each this}}
       <div class="tweet-entity">
-        {{#is type 'photo'}}<a class="tweet-photo" style="background-image: url({{media_url_https}}?name=medium);" href="{{media_url_https}}"></a>{{/is}}
+        {{#is type 'photo'}}<a class="tweet-photo lb" style="background-image: url({{media_url_https}}?name=medium);" href="{{media_url_https}}"></a>{{/is}}
         {{#is type 'video'}}
           <video controls poster="{{media_url}}" class="tweet-video">
             {{#each video_info.variants}}

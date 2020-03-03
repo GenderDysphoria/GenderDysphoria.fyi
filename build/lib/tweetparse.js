@@ -12,15 +12,7 @@ const schema = {
     protected: true,
   },
   html: true,
-  quoted_status: {
-    user: {
-      screen_name: true,
-      avatar: true,
-      name_html: true,
-      verified: true,
-      protected: true,
-    },
-  },
+  quoted_status_id_str: true,
   entities: { media: [ {
     type: true,
     media_url_https: true,
@@ -51,13 +43,9 @@ var entityProcessors = {
   },
 
   urls (urls, tweet) {
-    urls.forEach((urlObj) => {
-      var quotedTweetHtml = '';
-      var indices = urlObj.indices;
-      var urlToReplace = (tweet.full_text || tweet.text).substring(indices[0], indices[1]);
-
-      var finalText = quotedTweetHtml || urlObj.display_url.link(urlObj.expanded_url);
-      tweet.html = tweet.html.replace(urlToReplace, finalText);
+    urls.forEach(({ url, expanded_url, display_url }) => {
+      const className = (tweet.quoted_status_permalink && url === tweet.quoted_status_permalink.url) ? 'quoted-tweet' : 'url';
+      tweet.html = tweet.html.replace(url, `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
     });
   },
 

@@ -121,9 +121,10 @@
     }
   }
 
-  .tweet-text {
+  .tweet-text, .tweet-quoted-text {
     line-height: 1.5em;
     p { margin-bottom: 0.5em; }
+    p:last-child { margin-bottom: 0; }
     a { color: $textHover; }
   }
 
@@ -132,13 +133,21 @@
     border: 1px solid $borderColor;
     border-radius: .35em;
     padding: 10px;
-    display: block;
+    display: inline-block;
     color: $textDark;
-    font-size: 14px;
-    margin-top: 10px;
+    font-size: 0.95em;
+    margin-top: 0.4em;
+    margin-bottom: 0.75em;
+    background: rgba(#ddd, 0.1);
 
-    &:hover {
-      border-color: $borderHover;
+    > a {
+      color: inherit;
+      display: block;
+
+      &:hover {
+        color: $textHover;
+        text-decoration: none;
+      }
     }
 
     span {
@@ -147,6 +156,10 @@
 
     span, strong {
       line-height: 1;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
     }
   }
 
@@ -157,6 +170,7 @@
     overflow: hidden;
     max-width: 600px;
     max-height: 600px;
+    box-shadow: 0 0 3px rgba(#000, 0.3);
 
     .tweet-entities-inner {
       padding-bottom: 56.25%;
