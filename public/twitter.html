@@ -1,0 +1,40 @@
+---
+title: "Trans Twitter Topics"
+---
+{{#extend "layout"}}
+
+  {{#content "bodyClass"}}page ttt{{/content}}
+
+  {{#content "body"}}
+
+    <section class="ttt-grid">
+
+    {{#each posts}}
+    <div class="ttt-post {{#if flags.bordered}} bordered{{/if}}">
+      <a href="{{this.url}}" class="ttt-tab">{{icon 'link'}} Permalink</a>
+      <div class="ttt-wrap">{{{this.content}}}</div>
+    </div>
+    {{/each}}
+
+    </section>
+
+    <script>
+      function reheight () {
+        $('.ttt-wrap').each((i, el) => {
+          const $wrap = $(el);
+          const $cell = $wrap.closest('.ttt-post');
+
+          const span = Math.ceil($wrap.height() / 20) + 2;
+          $cell.css({ 'grid-row-end': 'span ' + span });
+        })
+      }
+      $(() => {
+        reheight();
+        // window.addEventListener('scroll', reheight);
+        window.addEventListener('resize', reheight);
+
+      })
+    </script>
+  {{/content}}
+
+{{/extend}}

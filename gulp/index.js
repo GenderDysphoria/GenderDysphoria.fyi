@@ -37,6 +37,7 @@ function watcher () {
 
   watch([
     'public/**/*',
+    'posts/**/*',
     'templates/*.{md,hbs,html}',
     'scss/*.scss',
     'js/*.js',

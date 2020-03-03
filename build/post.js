@@ -50,5 +50,11 @@ module.exports = exports = class Post extends Page {
     this.fullurl = url.href;
   }
 
+  _parse (...args) {
+    super._parse(...args);
+
+    this.classes.push('post');
+  }
+
 };
 

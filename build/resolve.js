@@ -100,6 +100,7 @@ exports.type = dictMatch({
 
 const KIND = exports.KIND = {
   PAGE:     'PAGE',
+  POST:     'POST',
   ASSET:    'ASSET',
   ARTIFACT: 'ARTIFACT',
   OTHER:    'OTHER',

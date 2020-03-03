@@ -39,6 +39,7 @@ exports.everything = function (prod = false) {
     const pages = await primeTweets(PublicFiles.pages);
     const posts = await primeTweets(PostFiles.pages);
 
+    posts.reverse();
 
     // compile all tasks to be completed
     const tasks = await Promise.all([
