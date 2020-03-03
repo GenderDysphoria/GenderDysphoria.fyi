@@ -192,19 +192,19 @@ class Injectables {
   markdown () {
     const self = this;
     return function (...args) {
-      const { fn } = args.pop();
+      const { fn, data } = args.pop();
       let contents;
 
       if (fn) {
-        contents = stripIndent(fn(this));
+        contents = stripIndent(fn(data));
       } else {
         let tpath = args.shift();
-        tpath = self._parsePath(tpath, this.local, 'md');
+        tpath = self._parsePath(tpath, data.root.local, 'md');
 
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', contents, this);
+      contents = markdown('full', contents, data);
 
       return new handlebars.SafeString(contents);
     };
@@ -213,12 +213,12 @@ class Injectables {
   import () {
     const self = this;
     return function (tpath, ...args) {
-      const { hash } = args.pop();
+      const { hash, data } = args.pop();
       const value = args.shift();
-      const context = handlebars.createFrame(value || this);
+      const context = handlebars.createFrame(value || data);
       Object.assign(context, hash || {});
 
-      tpath = self._parsePath(tpath, this.local, 'hbs');
+      tpath = self._parsePath(tpath, data.root.local, 'hbs');
 
       try {
         const contents = self._template(tpath, handlebars.compile)(context);
@@ -233,8 +233,8 @@ class Injectables {
   icon () {
     const self = this;
     return function (name, ...args) {
-      const { hash } = args.pop();
-      const tpath = path.join(this.local.root, 'svg', name + '.svg');
+      const { hash, data } = args.pop();
+      const tpath = path.join(data.root.local.root, 'svg', name + '.svg');
 
       try {
         const contents = self._template(tpath, (s) =>
