@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Sexual Dysphoria"
 description: "Sometimes a Cigar doesn't want to be smoked."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - '1137399651458519040'
 

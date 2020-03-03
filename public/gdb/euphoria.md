@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Euphoria"
 description: "In order for there to be shadow there must be light."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - '1215716433210105856'
   - https://twitter.com/ErinInTheMorn/status/1228141518386585607

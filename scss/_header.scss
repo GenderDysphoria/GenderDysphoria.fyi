@@ -145,8 +145,8 @@ header {
 
 }
 
-header + * {
-  @media (min-width: 500px) {
+@media (min-width: 500px) {
+  body:not(.front-page) header + * {
     margin-top: $header-full-height;
   }
 }

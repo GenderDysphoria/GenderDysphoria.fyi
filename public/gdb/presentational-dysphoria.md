@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Presentational Dysphoria"
 description: "Hoodies and sweatpants never go out of style."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - '1215716435068100611'
   - '1215716435974066176'

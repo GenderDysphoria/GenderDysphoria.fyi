@@ -17,10 +17,10 @@
     {{#if meta.preBody}}{{import meta.preBody}}{{/if}}
   {{/append}}
 
-  {{#content "bodyClass"}}page{{/content}}
+  {{#content "bodyClass"}}{{#each classes}}{{this}} {{/each}}page{{/content}}
 
   {{#content "body"}}
-  <article class="{{#each classes}}{{this}} {{/each}}markup">
+  <article class="markup">
     <div class="post-content">{{{contents}}}</div>
   </article>
   {{/content}}

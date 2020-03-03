@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Disorders of Sex Development: Gender is not Chromosomal"
 description: "DNA is more what you'd call guidelines, than actual rules."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191

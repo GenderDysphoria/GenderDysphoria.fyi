@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
 description: "The very real and biological factors of Gender Dysphoria that cause mental disturbance."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - '1215716438972993536'
   - '1215736608055537670'

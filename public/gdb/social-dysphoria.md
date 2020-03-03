@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Social Dysphoria"
 description: "Pronouns and Deadnames and Gendering, oh my."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - '1215718003310039040'
   - '1215720411788382210'

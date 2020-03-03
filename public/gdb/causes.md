@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "What is the Cause of Gender Incongruence"
 description: "It's the hormones, baby."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - https://twitter.com/LisaTMullin/status/1224039568971710464
   - https://twitter.com/LisaTMullin/status/1224040716365524993

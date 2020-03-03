@@ -3,6 +3,8 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Societal Dysphoria"
 description: "Because a Role is a Role, and a Toll is a Toll, and it's a heavy toll to live the wrong role."
 preBody: '_disclaimer'
+classes:
+  - gdb
 tweets:
   - '1201138482569195526'
   - '1216109204093722630'
