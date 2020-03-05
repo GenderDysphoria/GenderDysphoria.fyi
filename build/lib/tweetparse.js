@@ -16,6 +16,7 @@ const schema = {
   entities: { media: [ {
     type: true,
     media_url_https: true,
+    dimensions: true,
     video_info: { variants: [ {
       url: true,
       content_type: true,
@@ -50,31 +51,35 @@ var entityProcessors = {
   },
 
   media (media, tweet) {
-    media.forEach((mediaObj) => {
-      tweet.html = tweet.html.replace(mediaObj.url, '');
+    media.forEach((m) => {
+      tweet.html = tweet.html.replace(m.url, '');
+      let width, height;
+
+      if (has(m, 'video_info.aspect_ratio')) {
+        [ width, height ] = m.video_info.aspect_ratio;
+      } else if (has(m, 'sizes.medium')) {
+        ({ width, height } = m.sizes.medium);
+      }
+
+      if (width && height) {
+        const ratioH = Math.round((height / width) * 100);
+        const ratioW = Math.round((width / height) * 100);
+        let orientation = 'wide';
+        if (ratioH > 100) {
+          orientation = 'tall';
+        } else if (ratioH === 100) {
+          orientation = 'square';
+        }
+
+        m.dimensions = {
+          width,
+          height,
+          ratioH,
+          ratioW,
+          orientation,
+        };
+      }
       return;
-
-      // if (mediaObj.type === 'photo') {
-      //   // Use HTTPS if available
-      //   var src = mediaObj.media_url_https ? mediaObj.media_url_https : mediaObj.media_url;
-
-      //   if (options &&
-      //     options.photoSize &&
-      //     mediaObj.sizes &&
-      //     mediaObj.sizes[options.photoSize]) {
-      //     // If specified size is available, patch image src to use it
-      //     src = src + ':' + options.photoSize;
-      //   }
-
-      //   tweet.html = tweet.html.replace(mediaObj.url, `<img src="${src}" alt=""/>`);
-      // } else if (mediaObj.type === 'video') {
-      //   var source = '';
-      //   mediaObj.video_info.variants.forEach((info) => {
-      //     source += `<source src="${info.url}" type="${info.content_type}">`;
-      //   });
-      //   var video = `<video controls poster="${mediaObj.media_url}">${source}</video>`;
-      //   tweet.html = tweet.html.replace(mediaObj.url, video);
-      // }
     });
   },
 };

@@ -32,19 +32,27 @@
     {{/with}}{{/if}}
     <div class="tweet-text">{{{html}}}</div>
     {{#any extended_entities.media entities.media}}
-    <div class="tweet-entities lightbox"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid count{{this.length}}">
+    <div class="tweet-entities lightbox entity-count-{{this.length}} entity-type-{{this.0.type}}"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid">
       {{#each this}}
       <div class="tweet-entity">
-        {{#is type 'photo'}}<a class="tweet-photo lb" style="background-image: url({{media_url_https}}?name=medium);" href="{{media_url_https}}"></a>{{/is}}
-        {{#is type 'video'}}
-          <video controls poster="{{media_url}}" class="tweet-video">
-            {{#each video_info.variants}}
-            <source src="{{url}}" type="{{content_type}}">
-            {{/each}}
-          </video>
+        {{#is type 'photo'}}
+        <a class="tweet-photo lb" style="background-image: url({{media_url_https}}?name=medium);" href="{{media_url_https}}">
+          <img src="{{media_url_https}}?name=medium">
+        </a>
         {{/is}}
-        {{#is type animated_gif}}
-
+        {{#is type 'video'}}
+        <video controls poster="{{media_url_https}}" class="tweet-video">
+          {{#each video_info.variants}}
+          <source src="{{url}}" type="{{content_type}}">
+          {{/each}}
+        </video>
+        {{/is}}
+        {{#is type 'animated_gif'}}
+        <video controls muted loop poster="{{media_url_https}}" class="tweet-video">
+          {{#each video_info.variants}}
+          <source src="{{url}}" type="{{content_type}}">
+          {{/each}}
+        </video>
         {{/is}}
       </div>
       {{/each}}

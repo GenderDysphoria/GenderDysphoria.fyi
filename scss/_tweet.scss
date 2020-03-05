@@ -189,28 +189,43 @@
       grid-template: 1fr 1fr / 1fr 1fr;
       height: 100%;
 
-      &.count1 .tweet-entity {
-        grid-row-end: span 2;
-        grid-column-end: span 2;
-      }
-
-      &.count2 .tweet-entity {
-        grid-row-end: span 2;
-      }
-
-      &.count3 .tweet-entity:first-child {
-        grid-row-end: span 2;
-      }
-
       .tweet-entity {
         display: flex;
         align-items: stretch;
         justify-content: stretch;
+        img {
+          visibility: hidden;
+          max-width: 100%;
+        }
       }
 
       .tweet-entity > * {
         flex: 1;
       }
+    }
+
+    &.entity-count-1 {
+      .tweet-entities-inner {
+        padding-bottom: 0;
+        > div {position: relative;}
+      }
+
+      .tweet-entities-grid {
+        display: block;
+      }
+    }
+
+    &.entity-count-1 .tweet-entity {
+      grid-row-end: span 2;
+      grid-column-end: span 2;
+    }
+
+    &.entity-count-2 .tweet-entity {
+      grid-row-end: span 2;
+    }
+
+    &.entity-count-3 .tweet-entity:first-child {
+      grid-row-end: span 2;
     }
   }
 
