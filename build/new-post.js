@@ -34,5 +34,5 @@ module.exports = exports = async function newPost () {
 
   await fs.writeFile(target, contents);
 
-  log('Created new post at posts/' + fname);
+  log('Created new post at ' + target);
 };
