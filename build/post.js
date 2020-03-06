@@ -16,12 +16,12 @@ module.exports = exports = class Post extends Page {
     const match = this.name.match(postmatch);
 
     if (match) {
-      return [ 'p', match[2] ];
+      return [ 'tweets', match[2] ];
     }
 
     dir = dir.replace(postmatch, '$2').split('/');
     dir = without(dir, 'posts', '_images');
-    dir.unshift('p');
+    dir.unshift('tweets');
     return dir;
   }
 

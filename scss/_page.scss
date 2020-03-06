@@ -19,6 +19,11 @@ body.post {
 
     padding: 5px;
   }
+
+  .tweet {
+    max-width: 660px;
+    margin: 2em auto;
+  }
 }
 
 body.gdb {
@@ -126,30 +131,57 @@ body.ttt {
 
   .ttt-grid {
     padding: 1em;
-    display: grid;
-    grid-template-columns: repeat( auto-fill, minmax( 400px, 1fr ) );
-    grid-auto-rows: 10px;
-    grid-gap: 10px;
-    // grid-auto-flow: column dense;
+    max-width: 660px;
+    margin: 0 auto;
   }
 
-  .ttt-tab {
-    display: block;
-    background: white;
-    border: 1px solid $borderColor;
-    border-bottom: none;
-    font-size: 10px;
-    padding: 2px 5px;
-    border-top-left-radius: $borderRadius;
-    border-top-right-radius: $borderRadius;
-    margin: 0 $borderRadius * 2 0 auto;
-    width: 80px;
-    text-align: center;
+  .ttt-post {
+    background: $gutter-bg;
+    padding: 0.6em 1em;
+    margin: 0 0 2em 0;
+    border-radius: $borderRadius;
+    box-shadow: inset 0 1px 2px rgba($gray-600, 0.2);
+
+    .ttt-head {
+      display: flex;
+      margin-bottom: 0.5em;
+
+      .ttt-tags {
+        flex: 1;
+        display: flex;
+        align-items: stretch;
+      }
+    }
+
+    .tweet {
+      box-shadow: 0 1px 2px rgba($gray-600, 0.5);
+      border: none;
+    }
+  }
+
+  .ttt-tag {
+    margin-right: 0.5em;
+  }
+
+  .ttt-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 
     .svg-icon {
       height: 1em;
       width: 1em;
+      margin-right: 0.4em;
     }
+  }
+
+  .ttt-tag, .ttt-link {
+    background: white;
+    border: 1px solid $borderColor;
+    font-size: 10px;
+    padding: 2px 5px;
+    border-radius: $borderRadius;
+    box-shadow: 0 1px 1px rgba($gray-600, 0.2);
   }
 
 }

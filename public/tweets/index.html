@@ -1,0 +1,25 @@
+---
+title: "Trans Twitter Topics"
+---
+{{#extend "layout"}}
+
+  {{#content "bodyClass"}}page ttt{{/content}}
+
+  {{#content "body"}}
+
+    <section class="ttt-grid">
+
+    {{#each posts}}
+    <div class="ttt-post {{#if flags.bordered}} bordered{{/if}}">
+      <div class="ttt-head">
+        <div class="ttt-tags">{{#each meta.tags}}<a href="#{{@key}}" class="ttt-tag">{{this}}</a>{{/each}}</div>
+        <a href="{{this.url}}" class="ttt-link" title="{{date this.dateCreated 'MMMM do, yyyy'}}">{{icon 'link'}} Permalink</a>
+      </div>
+      <div class="ttt-wrap">{{{this.content}}}</div>
+    </div>
+    {{/each}}
+
+    </section>
+  {{/content}}
+
+{{/extend}}

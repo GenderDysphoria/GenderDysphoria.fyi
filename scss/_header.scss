@@ -109,6 +109,9 @@ header {
       border-bottom: 5px solid transparent;
       white-space: nowrap;
 
+      display: flex;
+      align-items: center;
+
       &:hover {
         border-bottom: 5px solid $primary;
       }
