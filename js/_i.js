@@ -1,7 +1,7 @@
 
 (function () {
   const me = window.document.currentScript;
-  const url = me.getAttribute('data-url');
+  const url = me.getAttribute('data-i-url');
   const iOS = !!window.navigator.platform && /iPad|iPhone|iPod/.test(window.navigator.platform);
 
   const vendor = window.navigator.vendor;
