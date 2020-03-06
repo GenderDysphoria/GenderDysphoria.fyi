@@ -6,11 +6,11 @@ preBody: '_disclaimer'
 classes:
   - gdb
 tweets:
-  - '1215716435068100611'
-  - '1215716435974066176'
-  - '1215716436980703233'
-  - '1215716438020849664'
-  - '1191555135756853249'
+  - https://twitter.com/NightlingBug/status/1215716435068100611
+  - https://twitter.com/NightlingBug/status/1215716435974066176
+  - https://twitter.com/NightlingBug/status/1215716436980703233
+  - https://twitter.com/NightlingBug/status/1215716438020849664
+  - https://twitter.com/DameKraft/status/1191555135756853249
 ---
 
 # Presentational Dysphoria
