@@ -7,7 +7,7 @@ const File = require('./file');
 const actions = require('./actions');
 const { URL } = require('url');
 const { resolve, readFile, isCleanUrl, ENGINE } = require('./resolve');
-const { isObject } = require('./lib/util');
+const { isObject, isString } = require('./lib/util');
 
 const pkg  = require(resolve('package.json'));
 const frontmatter = require('front-matter');
@@ -96,6 +96,7 @@ module.exports = exports = class Page extends File {
     this.ignore = this.meta.ignore;
     this.images = webready;
     this.titlecard = titlecard;
+    if (this.meta.tweets && isString(this.meta.tweets)) this.meta.tweets = this.meta.tweets.split(/\s/);
     this.tweets = (this.meta.tweets || []).map(parseTweetId);
 
     this.classes = Array.from(new Set(this.meta.classes || []));
