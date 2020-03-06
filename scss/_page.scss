@@ -149,8 +149,11 @@ body.ttt {
       .ttt-tags {
         flex: 1;
         display: flex;
+        flex-wrap: wrap;
         align-items: stretch;
       }
+
+      align-items: center;
     }
 
     .tweet {
@@ -160,7 +163,7 @@ body.ttt {
   }
 
   .ttt-tag {
-    margin-right: 0.5em;
+    margin: 0.25em 0.5em 0.25em 0;
   }
 
   .ttt-link {
