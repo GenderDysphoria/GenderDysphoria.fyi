@@ -196,7 +196,7 @@ class Injectables {
       let contents;
 
       if (fn) {
-        contents = stripIndent(fn(data));
+        contents = stripIndent(fn(data.root));
       } else {
         let tpath = args.shift();
         tpath = self._parsePath(tpath, data.root.local, 'md');
@@ -215,7 +215,7 @@ class Injectables {
     return function (tpath, ...args) {
       const { hash, data } = args.pop();
       const value = args.shift();
-      const context = handlebars.createFrame(value || data);
+      const context = handlebars.createFrame(value || data.root);
       Object.assign(context, hash || {});
 
       tpath = self._parsePath(tpath, data.root.local, 'hbs');
