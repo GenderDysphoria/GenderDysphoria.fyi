@@ -2,7 +2,8 @@
 <div class="tweet{{#is ids.length 1}} single{{/is}} {{className}}" style="{{style}}">
   {{#each ids}}
   <div class="tweet-item" data-id="{{this}}">{{#with (lookup ../tweets this)}}
-    <a class="tweet-header" href="https://twitter.com/{{user.screen_name}}">
+    <a class="tweet-link" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank">{{icon 'link'}}</a>
+    <a class="tweet-header" href="https://twitter.com/{{user.screen_name}}" target="_blank">
       <b><img src="{{rev user.avatar.output}}" alt=""></b>
       <strong>
         {{{user.name_html}}}
@@ -59,7 +60,7 @@
     </div></div></div></div>
     {{/any}}
     <div class="tweet-footer">
-      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">{{date created_at "h:mm aa - LLL do, yyyy"}}</a>
+      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank">{{date created_at "h:mm aa - LLL do, yyyy"}}</a>
     </div>
   {{else}}Missing tweet for {{this}}{{/with}}</div>
   {{/each}}

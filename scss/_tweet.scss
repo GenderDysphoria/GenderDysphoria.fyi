@@ -32,6 +32,7 @@
   .tweet-item {
     border-radius: $borderRadius;
     padding: 1em 1em 13px;
+    position: relative;
 
     .tweet-logo { display: none; }
   }
@@ -119,6 +120,10 @@
       height: 20px;
       width: 30px;
     }
+  }
+
+  .tweet-link {
+    display: none;
   }
 
   .tweet-text, .tweet-quoted-text {
@@ -270,6 +275,30 @@
     .tweet-item:last-child {
       .tweet-footer { display: block; }
     }
+
+    .tweet-item:not(:first-child):not(:last-child) {
+      .tweet-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 26px;
+        width: 30px;
+
+        font-size: 10px;
+        color: $gray-300;
+
+        &:hover {
+          color: $gray-700;
+        }
+      }
+
+      .tweet-text p:first-child {
+        padding-right: 30px;
+      }
+    }
   }
 
   &.oneblock {
@@ -285,9 +314,16 @@
     .tweet-item + .tweet-item {
       padding-top: 0.5em;
     }
+
+    .tweet-item:not(:first-child):not(:last-child) .tweet-link {
+      right: -15px;
+      // width: 20px;
+    }
   }
 
   &.hide-reply .tweet-text a.mention:first-child { display: none; }
+  &.hide-mentions .tweet-text a.mention { display: none; }
+  &.hide-hashtags .tweet-text a.hashtag { display: none; }
 
   &.collapse:not(.grid-row) {
     .tweet-item {
