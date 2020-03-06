@@ -68,3 +68,27 @@ exports.everything = function (prod = false) {
   fn.displayName = prod ? 'buildForProd' : 'build';
   return fn;
 };
+
+
+exports.task = function (action, prod = false) {
+  const fn = async () => {
+    const tasks = await {
+      scss,
+      favicon,
+      svg,
+      scripts,
+    }[action](prod);
+
+    if (!tasks.length) return;
+
+    await fs.ensureDir(resolve('dist'));
+    const cache = new Cache({ prod });
+    await cache.load();
+    await evaluate(tasks, cache);
+    await evaluate(tasks.flat(), cache);
+    await cache.save();
+  };
+
+  fn.displayName = prod ? action + 'ForProd' : action;
+  return fn;
+};

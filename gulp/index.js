@@ -8,6 +8,11 @@ var build = require('../build');
 const devBuildTask  = build.everything();
 const prodBuildTask = build.everything(true);
 
+const scss    = exports.scss    = build.task('scss');
+const favicon = exports.favicon = build.task('favicon');
+const svg     = exports.svg     = build.task('svg');
+const scripts = exports.scripts = build.task('scripts');
+
 var cleanTask = require('./clean');
 exports.clean = cleanTask;
 
@@ -39,9 +44,23 @@ function watcher () {
     'public/**/*',
     'posts/**/*',
     'templates/*.{md,hbs,html}',
-    'scss/*.scss',
-    'js/*.js',
   ], devBuildTask);
+
+  watch([
+    'scss/*.scss',
+  ], scss);
+
+  watch([
+    'js/*.js',
+  ], scripts);
+
+  watch([
+    'svg/**/*.svg',
+  ], svg);
+
+  watch([
+    'favicon.png',
+  ], favicon);
 
   server();
 }
