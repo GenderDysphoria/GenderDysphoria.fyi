@@ -93,6 +93,7 @@ module.exports = exports = class Page extends File {
   _parse (PublicFiles) {
     const { titlecard, webready } = PublicFiles.for(this.dir);
 
+    this.ignore = this.meta.ignore;
     this.images = webready;
     this.titlecard = titlecard;
     this.tweets = (this.meta.tweets || []).map(parseTweetId);

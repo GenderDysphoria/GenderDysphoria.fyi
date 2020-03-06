@@ -6,6 +6,7 @@ const loadPostFiles = require('./posts');
 const Cache = require('./cache');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
+const { sortBy } = require('lodash');
 
 const primeTweets = require('./page-tweets');
 const pageWriter = require('./page-writer');
@@ -36,9 +37,10 @@ exports.everything = function (prod = false) {
 
 
     // prime tweet data for all pages
-    const pages = await primeTweets(PublicFiles.pages);
-    const posts = await primeTweets(PostFiles.pages);
+    const pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
 
+    let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));
+    posts = sortBy(posts, 'date');
     posts.reverse();
 
     // compile all tasks to be completed
