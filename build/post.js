@@ -3,6 +3,8 @@ const path = require('path');
 const { without } = require('lodash');
 const { resolve, isCleanUrl } = require('./resolve');
 const Page = require('./page');
+const slugs = require('slugify');
+const slugify = (s) => slugs(s, { remove: /[*+~.,()'"!?:@/\\]/g }).toLowerCase();
 const pkg  = require(resolve('package.json'));
 
 const postmatch = /(\d{4}-\d\d-\d\d)\.\d{4}\.(\w+)/;
@@ -52,6 +54,11 @@ module.exports = exports = class Post extends Page {
 
   _parse (...args) {
     super._parse(...args);
+
+    this.meta.tags = (this.meta.tags || []).reduce((result, tag) => {
+      result[slugify(tag)] = tag;
+      return result;
+    }, {});
 
     this.classes.push('post');
   }
