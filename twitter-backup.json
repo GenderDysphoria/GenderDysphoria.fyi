@@ -31256,5 +31256,1849 @@
     "favorited": false,
     "retweeted": false,
     "lang": "en"
+  },
+  "1215468937959264256": {
+    "created_at": "Fri Jan 10 03:02:31 +0000 2020",
+    "id": 1215468937959264300,
+    "id_str": "1215468937959264256",
+    "full_text": "And for that to happen, those of us with a voice and skills that can entertain and educate need to stand up and do so.\n\nCurrently I can.  So I do.\n\nSo the person you see in this Twitter feed is that side of me.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      210
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215468551575765000,
+    "in_reply_to_status_id_str": "1215468551575764992",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 46,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215466178266533888": {
+    "created_at": "Fri Jan 10 02:51:33 +0000 2020",
+    "id": 1215466178266534000,
+    "id_str": "1215466178266533888",
+    "full_text": "It is a huge shock to the system.  It is hard.  Gruelling, and requires a massive shift in the way you think and deal with those challenges.\n\nYou are moving the challenge from interior, to exterior.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215465845108830200,
+    "in_reply_to_status_id_str": "1215465845108830208",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 58,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215467368370978818": {
+    "created_at": "Fri Jan 10 02:56:17 +0000 2020",
+    "id": 1215467368370978800,
+    "id_str": "1215467368370978818",
+    "full_text": "Income which one flowed easily for me dried up, contacts I relied on for work vanished, clients who loved me for years suddenly turned on me.\n\nFriends, former students, people I had helped in my pre transition years gave me beds, food drops, money, meals and hope.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      264
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215466789846405000,
+    "in_reply_to_status_id_str": "1215466789846405121",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215462304919064577": {
+    "created_at": "Fri Jan 10 02:36:10 +0000 2020",
+    "id": 1215462304919064600,
+    "id_str": "1215462304919064577",
+    "full_text": "Firstly, you must know that what you see on twitter is an edited, stylised, exaggerated image of a person.\n\nWe all have a public face and a real face.\n\nI am no different.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      170
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215461856334106600,
+    "in_reply_to_status_id_str": "1215461856334106624",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 114,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215468551575764992": {
+    "created_at": "Fri Jan 10 03:00:59 +0000 2020",
+    "id": 1215468551575765000,
+    "id_str": "1215468551575764992",
+    "full_text": "If we can fight for a better understanding of what transgender people actually are, tell our story and get the science out there as common knowledge, the painful trade of inner to outer conflict will no longer be a thing.\n\nWe need to stop the scapegoating, the propeganda campaign",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215468008014876700,
+    "in_reply_to_status_id_str": "1215468008014876673",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215468008014876673": {
+    "created_at": "Fri Jan 10 02:58:50 +0000 2020",
+    "id": 1215468008014876700,
+    "id_str": "1215468008014876673",
+    "full_text": "I cannot begin to list the people who helped me below but I remember it all.\n\nIt was them that made me who I am today.\n\nI am confident of two things.  I know my craft, and I know I have amazing friends.\n\nI am funny because my humor was forged to survive dark times.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      265
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215467368370978800,
+    "in_reply_to_status_id_str": "1215467368370978818",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 56,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215466789846405121": {
+    "created_at": "Fri Jan 10 02:53:59 +0000 2020",
+    "id": 1215466789846405000,
+    "id_str": "1215466789846405121",
+    "full_text": "An exterior challenge is an environmental one.  So your defenses need to be environment based.\n\nYour environment and the people in it need to be ready to help you make this change.\n\nI would have, and I am not exaggerating, been dead without my friends and fans.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215466178266534000,
+    "in_reply_to_status_id_str": "1215466178266533888",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 52,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215463250361368579": {
+    "created_at": "Fri Jan 10 02:39:55 +0000 2020",
+    "id": 1215463250361368600,
+    "id_str": "1215463250361368579",
+    "full_text": "Secondly, I want to acknowledge my privileges.  I am a well educated, white, l middle class, English woman living in places where access to services are (or once where) available.  I had a strong career before I transitioned.\n\nI am also intersex, so my transition was fast.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215462304919064600,
+    "in_reply_to_status_id_str": "1215462304919064577",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 63,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215469464273055745": {
+    "created_at": "Fri Jan 10 03:04:37 +0000 2020",
+    "id": 1215469464273055700,
+    "id_str": "1215469464273055745",
+    "full_text": "You don't get to see me snotty  nosed sobbing, or locking myself away when it gets too much.  Or the times I just stare at the wall thinking about everything and everyone I have lost.  Or how angry I get at how brutally unfair it all is.\n\nYou don't see my weak sides here.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215468937959264300,
+    "in_reply_to_status_id_str": "1215468937959264256",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 54,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215469892855402497": {
+    "created_at": "Fri Jan 10 03:06:19 +0000 2020",
+    "id": 1215469892855402500,
+    "id_str": "1215469892855402497",
+    "full_text": "So stand up.  Get on with it and focus on the future you.\n\nThey will have some stories to tell.  They will save lives.  They will be kinder, stronger, braver and tougher.\n\nAnd you get to be there one day if you just hold on for one breath at a time.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      249
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215469464273055700,
+    "in_reply_to_status_id_str": "1215469464273055745",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 57,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215463816097456130": {
+    "created_at": "Fri Jan 10 02:42:10 +0000 2020",
+    "id": 1215463816097456000,
+    "id_str": "1215463816097456130",
+    "full_text": "That said, my transition story features a lot of the traumatic experiences we go through.\n\nSexual assault, police brutality, police corruption, homophobia, harassment, death threats, transphobia in the workplace, systemic trans exclusion and homelessness.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      255
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215463250361368600,
+    "in_reply_to_status_id_str": "1215463250361368579",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 48,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215461856334106624": {
+    "created_at": "Fri Jan 10 02:34:23 +0000 2020",
+    "id": 1215461856334106600,
+    "id_str": "1215461856334106624",
+    "full_text": "So I got a DM from a trans woman asking advice about how to build the strength and confidence I display on Twitter in the face of the challenges we go through.  Violence, homelessness etc.\n\nOkay, so let me share this with you all.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 189,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215464516244230145": {
+    "created_at": "Fri Jan 10 02:44:57 +0000 2020",
+    "id": 1215464516244230100,
+    "id_str": "1215464516244230145",
+    "full_text": "I lost friends and family, my marriage, my job stability and, of course, I handed in my privilege card, so have all the bullshit that goes along with that.\n\nIt has been a six year ordeal.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      187
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215463816097456000,
+    "in_reply_to_status_id_str": "1215463816097456130",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 55,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215465210695151618": {
+    "created_at": "Fri Jan 10 02:47:43 +0000 2020",
+    "id": 1215465210695151600,
+    "id_str": "1215465210695151618",
+    "full_text": "But here is the thing.\n\nOrdeals shape you.\n\nYou get tougher, you get wiser, you get smarter and you get kinder.\n\nAnd I knew that even if I didn't think I could handle it, the woman I was going to be in a few years, well, she could.  She was awesome.  And she was coming to help.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215464516244230100,
+    "in_reply_to_status_id_str": "1215464516244230145",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 95,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215475823483871232": {
+    "created_at": "Fri Jan 10 03:29:53 +0000 2020",
+    "id": 1215475823483871200,
+    "id_str": "1215475823483871232",
+    "full_text": "Also you have fuckers to prove wrong.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      37
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215469892855402500,
+    "in_reply_to_status_id_str": "1215469892855402497",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 75,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1215465845108830208": {
+    "created_at": "Fri Jan 10 02:50:14 +0000 2020",
+    "id": 1215465845108830200,
+    "id_str": "1215465845108830208",
+    "full_text": "With transition, you make a trade.  \nYou trade in dysphoria and that zombie like unlife you are living.\nWhat you get back is a world that suddenly is against you.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      162
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1215465210695151600,
+    "in_reply_to_status_id_str": "1215465210695151618",
+    "in_reply_to_user_id": 3181676683,
+    "in_reply_to_user_id_str": "3181676683",
+    "in_reply_to_screen_name": "delaneykingrox",
+    "user": {
+      "id": 3181676683,
+      "id_str": "3181676683",
+      "name": "Delaney King 🏳️‍🌈",
+      "screen_name": "delaneykingrox",
+      "location": "Melbourne, Victoria",
+      "description": "Character / tech artist (Dragonage, Where The Wild Things Are, Unreal 04, Civ IV, Dungeons&Dragons Online, God Of War TVC, Stellaris HD) Writer. (She/Her/Bitch)",
+      "url": "https://t.co/2ZzmyfB7wV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2ZzmyfB7wV",
+              "expanded_url": "http://www.delaneyking.com",
+              "display_url": "delaneyking.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14215,
+      "friends_count": 1946,
+      "listed_count": 177,
+      "created_at": "Fri May 01 11:29:22 +0000 2015",
+      "favourites_count": 97777,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 65738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232855138345209856/_3H4qh9y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3181676683/1482606534",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1153443657178988544": {
+    "created_at": "Mon Jul 22 23:16:12 +0000 2019",
+    "id": 1153443657178988500,
+    "id_str": "1153443657178988544",
+    "full_text": "Excellent example, thank you! https://t.co/bzuzfUGwwl",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      53
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bzuzfUGwwl",
+          "expanded_url": "https://twitter.com/kalirainh2o/status/1153436314785726465?s=21",
+          "display_url": "twitter.com/kalirainh2o/st…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1153300374133981200,
+    "in_reply_to_status_id_str": "1153300374133981186",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 995,
+      "friends_count": 461,
+      "listed_count": 3,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 23388,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 20318,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1153436314785726500,
+    "quoted_status_id_str": "1153436314785726465",
+    "quoted_status_permalink": {
+      "url": "https://t.co/bzuzfUGwwl",
+      "expanded": "https://twitter.com/kalirainh2o/status/1153436314785726465?s=21",
+      "display": "twitter.com/kalirainh2o/st…"
+    },
+    "quoted_status": {
+      "created_at": "Mon Jul 22 22:47:01 +0000 2019",
+      "id": 1153436314785726500,
+      "id_str": "1153436314785726465",
+      "full_text": "@TwippingVanilla @Doctor_Hugs I'm non-binary (AFAB), mostly femme, I've gotten turned on looking at myself naked bc I am hawt. Also I often get turned on when wearing sexy lingerie, whether I'm looking at it or not.",
+      "truncated": false,
+      "display_text_range": [
+        30,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TwippingVanilla",
+            "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+            "id": 820322649456844800,
+            "id_str": "820322649456844800",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "Doctor_Hugs",
+            "name": "Io Angela💜💛💚❤️",
+            "id": 24094919,
+            "id_str": "24094919",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1153300365355307000,
+      "in_reply_to_status_id_str": "1153300365355307008",
+      "in_reply_to_user_id": 820322649456844800,
+      "in_reply_to_user_id_str": "820322649456844800",
+      "in_reply_to_screen_name": "TwippingVanilla",
+      "user": {
+        "id": 759155151986892800,
+        "id_str": "759155151986892800",
+        "name": "Kali 'Obstacle Smasher' Rainwater",
+        "screen_name": "KaliRainH2O",
+        "location": "",
+        "description": "Fantasy and paranormal romance author and Level 2 MtG judge. Linguist/translator. Bisensual demiromantic graysexual. Primary attribute: spite.\nPronouns: she/ou",
+        "url": "https://t.co/JliVGM3nXn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JliVGM3nXn",
+                "expanded_url": "http://amazon.com/author/kbrainwater",
+                "display_url": "amazon.com/author/kbrainw…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 453,
+        "friends_count": 258,
+        "listed_count": 14,
+        "created_at": "Fri Jul 29 22:34:27 +0000 2016",
+        "favourites_count": 58584,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11328,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/760314071451373568/V0fnIiRE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/760314071451373568/V0fnIiRE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1153436314785726465": {
+    "created_at": "Mon Jul 22 22:47:01 +0000 2019",
+    "id": 1153436314785726500,
+    "id_str": "1153436314785726465",
+    "full_text": "@TwippingVanilla @Doctor_Hugs I'm non-binary (AFAB), mostly femme, I've gotten turned on looking at myself naked bc I am hawt. Also I often get turned on when wearing sexy lingerie, whether I'm looking at it or not.",
+    "truncated": false,
+    "display_text_range": [
+      30,
+      215
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TwippingVanilla",
+          "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+          "id": 820322649456844800,
+          "id_str": "820322649456844800",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "Doctor_Hugs",
+          "name": "Io Angela💜💛💚❤️",
+          "id": 24094919,
+          "id_str": "24094919",
+          "indices": [
+            17,
+            29
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1153300365355307000,
+    "in_reply_to_status_id_str": "1153300365355307008",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 759155151986892800,
+      "id_str": "759155151986892800",
+      "name": "Kali 'Obstacle Smasher' Rainwater",
+      "screen_name": "KaliRainH2O",
+      "location": "",
+      "description": "Fantasy and paranormal romance author and Level 2 MtG judge. Linguist/translator. Bisensual demiromantic graysexual. Primary attribute: spite.\nPronouns: she/ou",
+      "url": "https://t.co/JliVGM3nXn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/JliVGM3nXn",
+              "expanded_url": "http://amazon.com/author/kbrainwater",
+              "display_url": "amazon.com/author/kbrainw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 453,
+      "friends_count": 258,
+      "listed_count": 14,
+      "created_at": "Fri Jul 29 22:34:27 +0000 2016",
+      "favourites_count": 58584,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 11328,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/760314071451373568/V0fnIiRE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/760314071451373568/V0fnIiRE_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
   }
 }
