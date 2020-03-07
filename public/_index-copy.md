@@ -2,7 +2,7 @@
 > **Trans·gen·der** - *adjective*   
 > Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
 
-|||<div class="copy markup">|||
+æææ<div class="copy markup">æææ
 
 For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal gender does not align with the physical features of their body. The Gala, a middle gender priest class of the Sumerian empire, exited over four thousand five hundred years ago. The indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital reconstruction surgery.
 
@@ -20,4 +20,4 @@ The purpose of this site is to document the many ways that Gender Dysphoria mani
 
 
 
-|||</div>|||
+æææ</div>æææ

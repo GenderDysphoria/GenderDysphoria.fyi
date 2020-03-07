@@ -31,7 +31,7 @@ const markdownEngines = {
       permalinkSymbol: '<img src="/images/svg/paragraph.svg">',
       slugify,
     })
-    .use(require('./lib/markdown-raw-html')),
+    .use(require('./lib/markdown-raw-html'), { debug: false }),
 
   preview: markdownIt({
     html: false,
@@ -45,7 +45,7 @@ function markdown (mode, input, env) {
   input = input.replace(/\{!\{([\s\S]*?)\}!\}/mg, (match, contents) => {
     try {
       const result = handlebars.compile(contents)(env);
-      return '|||' + result + '|||';
+      return 'æææ' + result + 'æææ';
     } catch (e) {
       log.error(e);
       return '';
@@ -55,7 +55,7 @@ function markdown (mode, input, env) {
   if (mode === 'preview') {
     input = striptags(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
-      .replace(/|||[\s\S]*?|||/gi, ''),
+      .replace(/æææ[\s\S]*?æææ/gi, ''),
     ).trim();
     if (input.length > 1000) input = input.slice(0, 1000) + '…';
     input = input ? markdownEngines[mode].render(input) : '';

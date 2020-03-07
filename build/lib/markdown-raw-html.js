@@ -2,7 +2,7 @@
 module.exports = exports = function (md, options) {
 
   options = {
-    fence: '|||',
+    fence: 'æææ',
     ...options,
   };
 
@@ -58,7 +58,8 @@ module.exports = exports = function (md, options) {
     }
 
     if (startLine > state.discreteHtmlScan.line) {
-      // we dun fucked up
+      // we dun fucked up, rescan
+      scanAhead(state, startLine, pos);
       debug('We somehow got ahead of ourselves', { startLine, line: state.discreteHtmlScan.line, lastLine, pos, endOfLine, tokens: state.tokens });
       throw new Error('markdown-it-discrete-html encountered a parsing error.');
     }
