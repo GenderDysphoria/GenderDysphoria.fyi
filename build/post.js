@@ -9,6 +9,12 @@ const pkg  = require(resolve('package.json'));
 
 const postmatch = /(\d{4}-\d\d-\d\d)\.\d{4}\.(\w+)/;
 
+function arrayify (input) {
+  if (!input) return [];
+  if (!Array.isArray(input)) return [ input ];
+  return input;
+}
+
 module.exports = exports = class Post extends Page {
 
   _dir (dir) {
@@ -59,6 +65,8 @@ module.exports = exports = class Post extends Page {
       result[slugify(tag)] = tag;
       return result;
     }, {});
+
+    this.meta.author = this.meta.author && arrayify(this.meta.author) || [];
 
     this.classes.push('post');
   }

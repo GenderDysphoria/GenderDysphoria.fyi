@@ -18,6 +18,10 @@ const scss    = require('./scss');
 const svg     = require('./svg');
 const scripts = require('./scripts');
 
+function writeIndex (destination, files, compressed) {
+  files = files.map((p) => !p.draft && (p.toJson ? p.toJson() : p));
+  return fs.writeFile(resolve(destination), compressed ? JSON.stringify(files) : JSON.stringify(files, null, 2));
+}
 
 exports.everything = function (prod = false) {
   async function fn () {
@@ -43,6 +47,8 @@ exports.everything = function (prod = false) {
     posts = sortBy(posts, 'date');
     posts.reverse();
 
+    const assets = [ ...PostFiles.assets, ...PublicFiles.assets ];
+
     // compile all tasks to be completed
     const tasks = await Promise.all([
       PublicFiles.tasks,
@@ -53,16 +59,20 @@ exports.everything = function (prod = false) {
       favicon(prod),
     ]);
 
-    await fs.writeFile(resolve('pages.json'), JSON.stringify(pages.map((p) => p.toJson()),  null, 2));
-    await fs.writeFile(resolve('posts.json'), JSON.stringify(posts.map((p) => p.toJson()),  null, 2));
+    await Promise.all([
+      fs.ensureDir(resolve('dist')),
+      writeIndex('pages.json',  pages),
+      writeIndex('posts.json', posts),
+      writeIndex('assets.json', assets),
+    ]);
 
-    await fs.ensureDir(resolve('dist'));
     const cache = new Cache({ prod });
     await cache.load();
     await evaluate(tasks.flat(), cache);
     await cache.save();
 
-    await pageWriter(pages, posts, prod);
+    posts = await pageWriter(pages, posts, prod);
+    await writeIndex('dist/tweets/index.json',  posts.filter(Boolean), true);
   }
 
   fn.displayName = prod ? 'buildForProd' : 'build';

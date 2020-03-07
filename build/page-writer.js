@@ -7,8 +7,9 @@ const { siteInfo }  = require(resolve('package.json'));
 
 module.exports = exports = async function writePageContent (pages, posts, prod) {
   const engines = await getEngines(prod);
-  await processPages(engines, posts, null, prod);
+  const postIndex = await processPages(engines, posts, null, prod);
   await processPages(engines, pages, posts, prod);
+  return postIndex;
 };
 
 function processPages (engines, pages, posts, prod) {
@@ -35,21 +36,22 @@ function processPages (engines, pages, posts, prod) {
     };
 
     const json = {
-      url: page.fullurl,
+      url: page.url,
+      fullurl: page.fullurl,
       title: page.meta.title,
       subtitle: page.meta.subtitle,
       description: page.meta.description,
-      tweets: page.tweets,
-      images: page.images,
-      dateCreated: page.dateCreated,
-      dateModified: page.dateModified,
+      date: page.dateCreated,
       titlecard: page.titlecard,
+      tags: page.meta.tags,
+      author: page.meta.author,
     };
 
     const html = String(engines[page.engine](data.source, data));
     if (page.engine === ENGINE.MARKDOWN) {
       json.preview = String(engines.MARKDOWN_PREVIEW(data.source, data));
       page.content = String(engines.MARKDOWN_CONTENT(data.source, data));
+      json.content = page.content;
     }
 
     const output = resolve('dist', page.out);
@@ -60,5 +62,16 @@ function processPages (engines, pages, posts, prod) {
         prod ? JSON.stringify(json) : JSON.stringify(json, null, 2),
       )),
     ]);
+
+    return !page.draft && {
+      url: page.url,
+      json: page.json,
+      title: page.meta.title,
+      subtitle: page.meta.subtitle,
+      description: page.meta.description,
+      date: page.dateCreated,
+      tags: page.meta.tags,
+      author: page.meta.author,
+    };
   });
 }
