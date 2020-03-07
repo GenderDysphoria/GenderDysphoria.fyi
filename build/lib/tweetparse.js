@@ -45,8 +45,9 @@ var entityProcessors = {
 
   urls (urls, tweet) {
     urls.forEach(({ url, expanded_url, display_url }) => {
-      const className = (tweet.quoted_status_permalink && url === tweet.quoted_status_permalink.url) ? 'quoted-tweet' : 'url';
-      tweet.html = tweet.html.replace(url, `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+      const isQT = tweet.quoted_status_permalink && url === tweet.quoted_status_permalink.url;
+      const className = isQT ? 'quoted-tweet' : 'url';
+      tweet.html = tweet.html.replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
     });
   },
 
