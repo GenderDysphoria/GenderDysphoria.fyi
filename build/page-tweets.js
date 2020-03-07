@@ -4,6 +4,7 @@ const { resolve } = require('./resolve');
 const log = require('fancy-log');
 const tweetparse = require('./lib/tweetparse');
 const Twitter = require('twitter-lite');
+const { hasOwn } = require('./lib/util');
 
 
 module.exports = exports = async function tweets (pages) {
@@ -46,12 +47,18 @@ module.exports = exports = async function tweets (pages) {
 
     const absent = difference(tweetsRequested, loaded);
     for (const id of absent) {
-      if (twitterBackup[id]) {
-        log('Pulled tweet from backup ' + id);
-        twitterCache[id] = tweetparse(twitterBackup[id]);
+      if (!hasOwn(twitterBackup, id)) {
+        log.error('Could not find tweet ' + id);
         continue;
       }
-      log.error('Could not find tweet ' + id);
+      const tweet = twitterBackup[id];
+
+      if (tweet) {
+        log('Pulled tweet from backup ' + id);
+        twitterCache[id] = tweetparse(twitterBackup[id]);
+      } else {
+        twitterCache[id] = false;
+      }
     }
   }
 
@@ -60,11 +67,12 @@ module.exports = exports = async function tweets (pages) {
   const twitterMedia = [];
 
   function attachTweet (dict, tweetid) {
-    const tweet = twitterCache[tweetid];
-    if (!tweet) {
+    if (!hasOwn(twitterCache, tweetid) && twitterBackup[tweetid]) {
       log.error(`Tweet ${tweetid} is missing from the cache.`);
       return;
     }
+    const tweet = twitterCache[tweetid];
+    if (!tweet) return;
     dict[tweetid] = tweet;
     twitterMedia.push( ...tweet.media );
 
