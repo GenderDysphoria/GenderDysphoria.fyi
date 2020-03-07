@@ -99,6 +99,13 @@ module.exports = exports = class Manifest {
 
     if (local && !iTime) throw new Error('Input file does not exist: ' + input);
 
+    if (!local && !cTime) {
+      // This is a remote file and we don't have a cached copy, run it
+      return result;
+    } else if (local && !iTime) {
+      // we've never seen this file before, build new
+      return result;
+    }
 
     result.outputExists = !!oTime;
 
@@ -108,15 +115,22 @@ module.exports = exports = class Manifest {
       return result;
     }
 
-    if (this.compareBy.time && iTime <= result.iTime) {
-      result.inputDiffers = false;
-    } else if (local && this.compareBy.inputRev && iRev !== result.iRev) {
+    if (local && this.compareBy.time && iTime > result.iTime) {
+      result.inputDiffers = true;
+      result.iRev = iRev;
+      result.mode = 'update';
+      result.why = 'input-time';
+      return result;
+    }
+
+    if (local && this.compareBy.inputRev && iRev !== result.iRev) {
       // either we aren't checking time, or the time has changed
       // check if the contents changed
 
       result.inputDiffers = true;
       result.iRev = iRev;
       result.mode = 'update';
+      result.why = 'input-rev';
       return result;
     }
 
@@ -125,6 +139,7 @@ module.exports = exports = class Manifest {
       result.inputDiffers = true;
       result.oRev = null;
       result.mode = 'rebuild';
+      result.why = 'cache-missing';
       return result;
     }
 
