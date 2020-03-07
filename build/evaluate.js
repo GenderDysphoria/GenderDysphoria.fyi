@@ -25,7 +25,7 @@ module.exports = exports = async function process (tasks, cache) {
     let result;
     let status = await cache.get(task);
     const { input, output } = task;
-    const taskLog = [ status.mode, status.input, status.output ];
+    const taskLog = [ status.mode + (status.why ? '-' + status.why : ''), status.input, status.output ];
     if (status.mode === 'skip') {
       await cache.touch(task, lastSeen);
       if (taskLog && LOG[taskLog[0]]) log.info(...taskLog);
