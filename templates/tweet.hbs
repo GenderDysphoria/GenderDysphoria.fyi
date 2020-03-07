@@ -27,9 +27,13 @@
         </a>
         <div class="tweet-quoted-text">{{{html}}}</div>
       </div>
+      {{else}}
+      <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
       {{/with}}{{/if}}
       <div class="tweet-quoted-text">{{{html}}}</div>
     </div>
+    {{else}}
+    <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
     {{/with}}{{/if}}
     <div class="tweet-text">{{{html}}}</div>
     {{#any extended_entities.media entities.media}}

@@ -1,15 +1,37 @@
 ---
 title: "Trans Twitter Topics"
+description: "A collection of the best twitter threads on transgender and gender dysphoria topics."
 ---
 {{#extend "layout"}}
+
+  {{#content "meta"}}
+  <meta property="og:title" content="{{meta.title}}{{#if meta.subtitle}}, {{meta.subtitle}}{{/if}}">
+  <meta property="og:description" content="{{meta.description}}">
+  {{#if titlecard}}<meta property="og:image" content="https://{{page.domain}}{{rev titlecard}}">{{/if}}
+  <meta property="og:url" content="https://{{page.domain}}{{url}}">
+  <meta name="twitter:title" content="{{meta.title}}{{#if meta.subtitle}}, {{meta.subtitle}}{{/if}}">
+  <meta name="twitter:description" content="{{meta.description}}">
+  {{#if titlecard}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}">
+  {{/if}}
+  <link rel="canonical" href="{{#if canonical}}{{canonical}}{{else}}https://{{page.domain}}{{url}}{{/if}}">
+  {{/content}}
 
   {{#content "bodyClass"}}page ttt{{/content}}
 
   {{#content "body"}}
 
+    <!-- <h1>Trans Twitter Topics</h1> -->
+    <div class="disclaimer"><div class="container" style="text-align: center">
+      <h1>Trans Twitter Topics</h1>
+      <strong>A collection of the best Twitter threads on transgender and gender dysphoria topics.</strong>
+      <p>Have a thread that you think belongs here? <a href="https://twitter.com/TwippingVanilla">Send it my way</a>.</p>
+    </div></div>
+
     <section class="ttt-grid">
 
-    {{#each posts}}
+    {{#each posts}}{{#unless draft}}
     <div class="ttt-post {{#if flags.bordered}} bordered{{/if}}">
       <div class="ttt-head">
         <div class="ttt-tags">{{#each meta.tags}}<a href="#{{@key}}" class="ttt-tag">{{this}}</a>{{/each}}</div>
@@ -17,7 +39,7 @@ title: "Trans Twitter Topics"
       </div>
       <div class="ttt-wrap">{{{this.content}}}</div>
     </div>
-    {{/each}}
+    {{/unless}}{{/each}}
 
     </section>
   {{/content}}

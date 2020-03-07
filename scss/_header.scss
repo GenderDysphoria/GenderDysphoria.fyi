@@ -173,6 +173,10 @@ header {
   font-size: 0.8rem;
   font-weight: 300;
 
+  .container {
+    max-width: 600px;
+  }
+
   .strong {
     display: block;
     font-weight: 600;
