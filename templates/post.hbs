@@ -1,0 +1,47 @@
+{{#extend "layout"}}
+
+  {{#content "meta"}}
+  <meta property="og:title" content="{{meta.title}}{{#if meta.subtitle}}, {{meta.subtitle}}{{/if}}">
+  <meta property="og:description" content="{{meta.description}}">
+  {{#if titlecard}}<meta property="og:image" content="https://{{page.domain}}{{rev titlecard}}">{{/if}}
+  <meta property="og:url" content="https://{{page.domain}}{{url}}">
+  <meta name="twitter:title" content="{{meta.title}}{{#if meta.subtitle}}, {{meta.subtitle}}{{/if}}">
+  <meta name="twitter:description" content="{{meta.description}}">
+  {{#if titlecard}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}">
+  {{/if}}
+  <link rel="canonical" href="{{#if canonical}}{{canonical}}{{else}}https://{{page.domain}}{{url}}{{/if}}">
+  {{/content}}
+
+  {{#append 'post-header'}}
+    {{#if meta.preBody}}{{import meta.preBody}}{{/if}}
+  {{/append}}
+
+  {{#content "bodyClass"}}{{#each classes}}{{this}} {{/each}}post{{/content}}
+
+  {{#content "body"}}
+  <div class="disclaimer"><div class="container" style="text-align: center">
+    <h1>Trans Twitter Topics</h1>
+    <strong>A collection of the best Twitter threads on transgender and gender dysphoria topics.</strong>
+    <p>Have a thread that you think belongs here? <a href="https://twitter.com/TwippingVanilla">Send it my way</a>.</p>
+  </div></div>
+  <article>
+    <div class="post-head">
+      <div class="post-tags">
+        {{#each meta.tags}}<a href="/tweets/#tag={{@key}}" class="post-link tag">{{this}}</a>{{/each}}
+        {{#each meta.author}}<a href="/tweets/#author={{this}}" class="post-link author">{{this}}</a>{{/each}}
+      </div>
+      <a href="{{url}}" class="post-link" title="{{date dateCreated 'MMMM do, yyyy'}}">{{icon 'link'}} Permalink</a>
+    </div>
+    <div class="post-content markup">{{{contents}}}</div>
+    <div class="pager">
+      <div class="prev">{{#if siblings.prev}}<a href="{{siblings.prev}}" class="btn btn-primary left">{{icon 'angle-left'}} Back</a>{{/if}}</div>
+      <div class="first">{{#if siblings.first}}<a href="{{siblings.first}}" class="btn btn-primary left">{{icon 'angle-double-left'}} Newest</a>{{/if}}</div>
+      <div class="last">{{#if siblings.last}}<a href="{{siblings.last}}" class="btn btn-primary right">Oldest {{icon 'angle-double-right'}}</a>{{/if}}</div>
+      <div class="next">{{#if siblings.next}}<a href="{{siblings.next}}" class="btn btn-primary right">Next {{icon 'angle-right'}}</a>{{/if}}</div>
+    </div>
+  </article>
+  {{/content}}
+
+{{/extend}}

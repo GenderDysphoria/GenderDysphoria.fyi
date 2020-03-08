@@ -18,30 +18,54 @@ description: "A collection of the best twitter threads on transgender and gender
   <link rel="canonical" href="{{#if canonical}}{{canonical}}{{else}}https://{{page.domain}}{{url}}{{/if}}">
   {{/content}}
 
-  {{#content "bodyClass"}}page ttt{{/content}}
+  {{#content "bodyClass"}}post{{/content}}
+
+  {{#content "post-header"}}
+  <div class="disclaimer"><div class="container" style="text-align: center">
+    <h1>Trans Twitter Topics</h1>
+    <strong>A collection of the best Twitter threads on transgender and gender dysphoria topics.</strong>
+    <p>Have a thread that you think belongs here? <a href="https://twitter.com/TwippingVanilla">Send it my way</a>.</p>
+  </div></div>
+  {{/content}}
+
+  {{#append "postscripts"}}
+  <script type="text/javascript" src="{{rev '/js/tweets.js'}}"></script>
+  {{/append}}
 
   {{#content "body"}}
 
-    <!-- <h1>Trans Twitter Topics</h1> -->
-    <div class="disclaimer"><div class="container" style="text-align: center">
-      <h1>Trans Twitter Topics</h1>
-      <strong>A collection of the best Twitter threads on transgender and gender dysphoria topics.</strong>
-      <p>Have a thread that you think belongs here? <a href="https://twitter.com/TwippingVanilla">Send it my way</a>.</p>
-    </div></div>
+    <div class="post-index">
+      <section>
+      {{#with posts.latest}}
+        <article>
+          <div class="post-head">
+            <div class="post-tags">
+              {{#each meta.tags}}<a href="#tag={{@key}}" class="post-link tag">{{this}}</a>{{/each}}
+              {{#each meta.author}}<a href="#author={{this}}" class="post-link author">{{this}}</a>{{/each}}
+            </div>
+            <a href="{{this.url}}" class="post-link" title="{{date this.date 'MMMM do, yyyy'}}">{{icon 'link'}} Permalink</a>
+          </div>
+          <div class="post-content">{{{this.content}}}</div>
+          <div class="pager">
+            <div class="prev">{{#if siblings.prev}}<a href="{{siblings.prev}}" class="btn btn-primary left">{{icon 'angle-left'}} Back</a>{{/if}}</div>
+            <div class="first">{{#if siblings.first}}<a href="{{siblings.first}}" class="btn btn-primary left">{{icon 'angle-double-left'}} Newest</a>{{/if}}</div>
+            <div class="last">{{#if siblings.last}}<a href="{{siblings.last}}" class="btn btn-primary right">Oldest {{icon 'angle-double-right'}}</a>{{/if}}</div>
+            <div class="next">{{#if siblings.next}}<a href="{{siblings.next}}" class="btn btn-primary right">Next {{icon 'angle-right'}}</a>{{/if}}</div>
+          </div>
+        </article>
+      {{/with}}
+      </section>
 
-    <section class="ttt-grid">
-
-    {{#each posts}}{{#unless draft}}
-    <div class="ttt-post {{#if flags.bordered}} bordered{{/if}}">
-      <div class="ttt-head">
-        <div class="ttt-tags">{{#each meta.tags}}<a href="#{{@key}}" class="ttt-tag">{{this}}</a>{{/each}}</div>
-        <a href="{{this.url}}" class="ttt-link" title="{{date this.dateCreated 'MMMM do, yyyy'}}">{{icon 'link'}} Permalink</a>
-      </div>
-      <div class="ttt-wrap">{{{this.content}}}</div>
+      <aside class="tags">
+        <h4>Topics</h4>
+        <div class="post-tags">{{#each posts.tags}}<a href="#tag={{@key}}" class="post-link tag">{{this}}</a>{{/each}}</div>
+      </aside>
+      <aside class="authors">
+        <h4>Authors</h4>
+        <div class="post-tags">{{#each posts.authors}}<a href="#author={{this}}" class="post-link author">{{this}}</a>{{/each}}</div>
+      </aside>
     </div>
-    {{/unless}}{{/each}}
 
-    </section>
   {{/content}}
 
 {{/extend}}

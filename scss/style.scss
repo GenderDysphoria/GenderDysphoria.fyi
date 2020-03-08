@@ -39,11 +39,14 @@ h4, h5, .h4, .h5 { font-weight: 600; }
 $trans-white: #fff;
 $trans-pink: #F7A8B8;
 $trans-blue: #55CDFC;
+$trans-pink-lightest: #fef6f7;
 $trans-pink-light: #fde6eb;
 $trans-blue-light: #b9eafe;
 $trans-blue-lightest: #f0f8ff;
 $trans-pink-dark: #ee4b6c;
 $trans-blue-dark: #0377a4;
+$trans-pink-darkest: #ea1c46;
+$trans-blue-darkest: #025372;
 $primary: #fc0a7e;
 
 $header-bg-1: #E81179;
@@ -87,7 +90,7 @@ $header-full-height: 100px;
 // @import "bootstrap/scss/tooltip";
 // @import "bootstrap/scss/popover";
 // @import "bootstrap/scss/carousel";
-// @import "bootstrap/scss/spinners";
+@import "bootstrap/scss/spinners";
 @import "bootstrap/scss/utilities";
 @import "bootstrap/scss/print";
 

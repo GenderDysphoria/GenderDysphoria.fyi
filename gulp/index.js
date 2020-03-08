@@ -51,7 +51,7 @@ function watcher () {
   ], scss);
 
   watch([
-    'js/*.js',
+    'js/*.{js,jsx}',
   ], scripts);
 
   watch([

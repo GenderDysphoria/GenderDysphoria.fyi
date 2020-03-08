@@ -1,5 +1,5 @@
 
-body.page {
+body.page, body.post {
   @media (max-width: 500px) {
     font-size: 0.9em;
   }
@@ -123,33 +123,49 @@ body.gdb {
   }
 }
 
-body.ttt {
+body.post {
   $borderColor: #e1e8ed;
   $borderHover: #ccd6dd;
   $textLight: #697882;
   $textDark: #1c2022;
   $textHover: #3b94d9;
   $borderRadius: .35em;
+  $articleWidth: 660px;
+  $sidebarWidth: 220px;
 
-
-  .ttt-grid {
-    padding: 1em;
-    max-width: 660px;
-    margin: 0 auto;
+  .disclaimer {
+    margin-bottom: 1em;
   }
 
-  .ttt-post {
+  .loading {
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // background: red;
+    color: $gray-400;
+
+    svg {
+      width: 80px;
+      height: 80px;
+      animation: spinner-border 1s linear infinite;
+    }
+  }
+
+  article {
+    max-width: $articleWidth;
+    margin: 0 auto 1em;
+
     background: $gutter-bg;
     padding: 0.6em 1em;
-    margin: 0 0 2em 0;
     border-radius: $borderRadius;
     box-shadow: inset 0 1px 2px rgba($gray-600, 0.2);
 
-    .ttt-head {
+    .post-head {
       display: flex;
       margin-bottom: 0.5em;
 
-      .ttt-tags {
+      .post-tags {
         flex: 1;
         display: flex;
         flex-wrap: wrap;
@@ -163,31 +179,118 @@ body.ttt {
       box-shadow: 0 1px 2px rgba($gray-600, 0.5);
       border: none;
     }
+
+    .tweet:first-child {
+      margin-top: 0;
+    }
   }
 
-  .ttt-tag {
-    margin: 0.25em 0.5em 0.25em 0;
-  }
-
-  .ttt-link {
+  .post-link {
     display: flex;
     flex-direction: row;
     align-items: center;
+    text-align: center;
+    justify-content: center;
 
     .svg-icon {
       height: 1em;
       width: 1em;
       margin-right: 0.4em;
     }
-  }
 
-  .ttt-tag, .ttt-link {
     background: white;
+    color: $gray-700;
     border: 1px solid $borderColor;
     font-size: 10px;
     padding: 2px 5px;
     border-radius: $borderRadius;
     box-shadow: 0 1px 1px rgba($gray-600, 0.2);
+
+    margin: 0.25em 0.5em 0.25em 0;
+  }
+
+  .post-link.tag {
+    color: $trans-pink-darkest;
+    border-color: $trans-pink;
+  }
+
+  .post-link.author {
+    color: $trans-blue-dark;
+    border-color: $trans-blue;
+  }
+
+  .post-index {
+    max-width: 1200px;
+    display: grid;
+
+    section { grid-area: articles; }
+    aside {
+
+      h4 { text-align: center; }
+
+      .post-tags {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: stretch;
+
+        .post-link {
+          flex: 1;
+          flex-basis: $sidebarWidth / 2;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          text-align: center;
+        }
+      }
+
+      &.authors {
+        grid-area: authors;
+      }
+
+      &.tags {
+        grid-area: tags;
+      }
+    }
+
+    @media (max-width: $articleWidth + $sidebarWidth) {
+      grid-template-columns: 100%;
+      grid-row-gap: 1em;
+      grid-template-areas:
+        'articles'
+        'tags'
+        'authors'
+      ;
+
+      aside {
+        max-width: $articleWidth;
+        margin: 0 auto;
+      }
+    }
+
+    @media (min-width: $articleWidth + $sidebarWidth) {
+      grid-template-columns: $articleWidth 1fr;
+      grid-column-gap: 1em;
+      grid-template-areas:
+        'articles tags'
+        'articles authors'
+      ;
+
+      aside {
+        position: relative;
+        .post-tags {
+          display: grid;
+          grid-template-columns: repeat( auto-fill, minmax( $sidebarWidth / 2 - 15, 1fr ) );
+        }
+      }
+    }
+
+    @media (min-width: $sidebarWidth + $articleWidth + $sidebarWidth) {
+      grid-template-columns: 1fr $articleWidth 1fr;
+      grid-column-gap: 1em;
+      grid-template-areas:
+        'tags articles authors'
+      ;
+    }
   }
 
 }

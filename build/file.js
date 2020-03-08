@@ -20,7 +20,7 @@ module.exports = exports = class File {
 
     const file = path.parse(filepath);
 
-    this._basename();
+    this._basename(file);
 
     this.kind     = kind(filepath);
     this.type     = type(filepath);
@@ -28,7 +28,7 @@ module.exports = exports = class File {
     this.cwd      = file.dir;
     this.ext      = this.preprocessed ? file.ext : normalizedExt(file.ext);
     this.name     = file.name;                        // index, fileA, fileB
-    this.basename = file.basename;               // index.ext, fileA.ext, fileB.ext
+    this.basename = file.base;               // index.ext, fileA.ext, fileB.ext
 
     const dir = this._dir(file.dir);
     if (dir) {
@@ -59,7 +59,7 @@ module.exports = exports = class File {
     if (file.name[0] === '_') {
       this.preprocessed = true;
       file.name = file.name.slice(1);
-      file.basename = file.basename.slice(1);
+      file.base = file.base.slice(1);
     }
   }
 

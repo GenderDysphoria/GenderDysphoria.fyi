@@ -37,6 +37,7 @@ const EXT = exports.EXT = {
   CSS:  '.css',
   SCSS: '.scss',
   JS:   '.js',
+  JSX:  '.jsx',
 };
 
 const {
@@ -53,12 +54,14 @@ const {
   CSS,
   SCSS,
   JS,
+  JSX,
 } = EXT;
 
 const NORMALIZE_EXT = {
   [JPG]:  JPEG,
   [M4V]:  MP4,
   [HBS]:  HTML,
+  [JSX]:  JS,
 };
 
 const normalizedExt = exports.normalizedExt = (ext) => {
@@ -72,7 +75,7 @@ const isHandlebars = exports.isHandlebars  = is(XML, HBS, HTML);
 const isMarkdown   = exports.isMarkdown    = is(MD);
 const isPage       = exports.isPage        = is(isHandlebars, isMarkdown);
 const isAsset      = exports.isAsset       = is(isImage, isVideo);
-const isArtifact   = exports.isArtifact    = is(CSS, SCSS, JS);
+const isArtifact   = exports.isArtifact    = is(CSS, SCSS, JS, JSX);
 exports.isCleanUrl = is(HBS, MD);
 
 
@@ -92,7 +95,7 @@ exports.type = dictMatch({
   [TYPE.HANDLEBARS]: isHandlebars,
   [TYPE.MARKDOWN]:   isMarkdown,
   [TYPE.VIDEO]:      isVideo,
-  [TYPE.SCRIPT]:     is(JS),
+  [TYPE.SCRIPT]:     is(JS, JSX),
   [TYPE.STYLE]:      is(SCSS, CSS),
 }, TYPE.OTHER);
 

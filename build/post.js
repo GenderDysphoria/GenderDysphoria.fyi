@@ -72,6 +72,8 @@ module.exports = exports = class Post extends Page {
   _parse (...args) {
     super._parse(...args);
 
+    this.id = this.meta.id;
+
     if (!this.titlecard) this.titlecard = '/tweets/titlecard.png';
 
     this.meta.tags = (this.meta.tags || []).reduce((result, tag) => {

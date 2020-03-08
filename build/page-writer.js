@@ -8,6 +8,7 @@ const { siteInfo }  = require(resolve('package.json'));
 module.exports = exports = async function writePageContent (engines, pages, posts, prod) {
   const postIndex = index(posts, engines);
   await processPages(engines, [ ...posts, ...pages ], postIndex, prod);
+  postIndex.latest = { ...pageJSON(postIndex.latest), content: postIndex.latest.content };
   return postIndex;
 };
 
@@ -78,6 +79,7 @@ function pageState (page, posts) {
 
 function pageJSON (post) {
   return {
+    id: post.id,
     url: post.url,
     fullurl: post.fullurl,
     json: '/' + post.json,
