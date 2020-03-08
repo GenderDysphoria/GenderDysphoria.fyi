@@ -6,7 +6,7 @@ const log = require('fancy-log');
 const File = require('./file');
 const actions = require('./actions');
 const { URL } = require('url');
-const { resolve, readFile, isCleanUrl, ENGINE } = require('./resolve');
+const { resolve, readFile, isCleanUrl, TYPE, ENGINE } = require('./resolve');
 const { isObject, isString } = require('./lib/util');
 
 const pkg  = require(resolve('package.json'));
@@ -29,9 +29,21 @@ module.exports = exports = class Page extends File {
       'dateModified',
       'classes',
       'flags',
+      'siblings',
     );
 
-    this.engine = ENGINE[this.type] || ENGINE.COPY;
+    this.engine = this._engine();
+  }
+
+  _engine () {
+    switch (this.type) {
+    case TYPE.HANDLEBARS:
+      return TYPE.HANDLEBARS;
+    case TYPE.MARKDOWN:
+      return ENGINE.PAGE;
+    default:
+      return ENGINE.OTHER;
+    }
   }
 
   _out () {

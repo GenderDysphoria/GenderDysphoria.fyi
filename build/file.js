@@ -19,22 +19,16 @@ module.exports = exports = class File {
     }
 
     const file = path.parse(filepath);
-    let { base: basename, name } = file;
 
-    this.preprocessed = false;
-    if (name[0] === '_') {
-      this.preprocessed = true;
-      file.name = name = name.slice(1);
-      file.basename = basename = basename.slice(1);
-    }
+    this._basename();
 
     this.kind     = kind(filepath);
     this.type     = type(filepath);
     this.input    = filepath;                    // public/file.ext
     this.cwd      = file.dir;
     this.ext      = this.preprocessed ? file.ext : normalizedExt(file.ext);
-    this.name     = name;                        // index, fileA, fileB
-    this.basename = basename;                    // index.ext, fileA.ext, fileB.ext
+    this.name     = file.name;                        // index, fileA, fileB
+    this.basename = file.basename;               // index.ext, fileA.ext, fileB.ext
 
     const dir = this._dir(file.dir);
     if (dir) {
@@ -58,6 +52,15 @@ module.exports = exports = class File {
       'out',
       'url',
     ];
+  }
+
+  _basename (file) {
+    this.preprocessed = false;
+    if (file.name[0] === '_') {
+      this.preprocessed = true;
+      file.name = file.name.slice(1);
+      file.basename = file.basename.slice(1);
+    }
   }
 
   _dir (dir) {

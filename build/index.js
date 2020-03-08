@@ -8,6 +8,7 @@ const Promise = require('bluebird');
 const fs = require('fs-extra');
 const { sortBy } = require('lodash');
 
+const getEngines = require('./engines');
 const primeTweets = require('./page-tweets');
 const pageWriter = require('./page-writer');
 const evaluate = require('./evaluate');
@@ -27,9 +28,10 @@ exports.everything = function (prod = false) {
   async function fn () {
 
     // load a directory scan of the public and post folders
-    const [ PublicFiles, PostFiles ] = await Promise.all([
+    const [ PublicFiles, PostFiles, engines ] = await Promise.all([
       loadPublicFiles(),
       loadPostFiles(),
+      getEngines(prod),
     ]);
 
     // load data for all the files in that folder
@@ -71,8 +73,8 @@ exports.everything = function (prod = false) {
     await evaluate(tasks.flat(), cache);
     await cache.save();
 
-    posts = await pageWriter(pages, posts, prod);
-    await writeIndex('dist/tweets/index.json',  posts.filter(Boolean), true);
+    const postIndex = await pageWriter(engines, pages, posts, prod);
+    await fs.writeFile(resolve('dist/tweets/index.json'), prod ? JSON.stringify(postIndex) : JSON.stringify(postIndex, null, 2));
   }
 
   fn.displayName = prod ? 'buildForProd' : 'build';

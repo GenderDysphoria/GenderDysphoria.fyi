@@ -1,7 +1,7 @@
 
 const path = require('path');
 const { without } = require('lodash');
-const { resolve, isCleanUrl } = require('./resolve');
+const { resolve, isCleanUrl, TYPE, ENGINE } = require('./resolve');
 const Page = require('./page');
 const slugs = require('slugify');
 const slugify = (s) => slugs(s, { remove: /[*+~.,()'"!?:@/\\]/g }).toLowerCase();
@@ -16,6 +16,17 @@ function arrayify (input) {
 }
 
 module.exports = exports = class Post extends Page {
+
+  _engine () {
+    switch (this.type) {
+    case TYPE.HANDLEBARS:
+      return TYPE.HANDLEBARS;
+    case TYPE.MARKDOWN:
+      return ENGINE.POST;
+    default:
+      return ENGINE.OTHER;
+    }
+  }
 
   _dir (dir) {
     // if the file name matches the postmatch pattern, then this needs to be /p/ file
@@ -60,6 +71,8 @@ module.exports = exports = class Post extends Page {
 
   _parse (...args) {
     super._parse(...args);
+
+    if (!this.titlecard) this.titlecard = '/tweets/titlecard.png';
 
     this.meta.tags = (this.meta.tags || []).reduce((result, tag) => {
       result[slugify(tag)] = tag;

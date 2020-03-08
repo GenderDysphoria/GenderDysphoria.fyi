@@ -4,11 +4,11 @@ const path = require('path');
 const fs = require('fs-extra');
 const log = require('fancy-log');
 const { minify } = require('html-minifier-terser');
-const { resolve, readFile, ENGINE } = require('./resolve');
+const { resolve, readFile, ENGINE, TYPE } = require('./resolve');
 
-const handlebars = require('handlebars');
+const Handlebars = require('handlebars');
 const HandlebarsKit = require('hbs-kit');
-HandlebarsKit.load(handlebars);
+HandlebarsKit.load(Handlebars);
 
 const slugs = require('slugify');
 const slugify = (s) => slugs(s, { remove: /[*+~.,()'"!?:@/\\]/g }).toLowerCase();
@@ -44,7 +44,7 @@ const markdownEngines = {
 function markdown (mode, input, env) {
   input = input.replace(/\{!\{([\s\S]*?)\}!\}/mg, (match, contents) => {
     try {
-      const result = handlebars.compile(contents)(env);
+      const result = Handlebars.compile(contents)(env);
       return 'æææ' + result + 'æææ';
     } catch (e) {
       log.error(e);
@@ -64,6 +64,11 @@ function markdown (mode, input, env) {
   }
 
   return input ? markdownEngines[mode].render(input, env) : '';
+}
+
+function handlebars (input, env) {
+  const template = Handlebars.compile(input);
+  return template(env);
 }
 
 function stripIndent (input) {
@@ -88,47 +93,45 @@ const MINIFY_CONFIG = {
 
 const HANDLEBARS_PARTIALS = {
   layout:    'templates/layout.hbs',
+  page:      'templates/page.hbs',
+  post:      'templates/post.hbs',
 };
 
 module.exports = exports = async function (prod) {
+  const templates = {};
   for (const [ name, file ] of Object.entries(HANDLEBARS_PARTIALS)) {
     try {
       const contents = await readFile(file);
-      const template = handlebars.compile(contents.toString('utf8'));
-      handlebars.registerPartial(name, template);
+      const template = Handlebars.compile(contents.toString('utf8'));
+      templates[name] = template;
+      Handlebars.registerPartial(name, template);
     } catch (e) {
       log.error('Could not execute load partial ' + file, e);
     }
   }
 
-  const pageTemplateRaw = await readFile('templates/page.hbs');
-  if (!pageTemplateRaw) throw new Error('Post template was empty?');
-  try {
-    var pageTemplate = handlebars.compile(pageTemplateRaw.toString('utf8'));
-  } catch (e) {
-    log.error('Crash while loading page template', e);
-  }
-
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
 
   const helpers = new Injectables(prod, revManifest);
-  handlebars.registerHelper('import', helpers.import());
-  handlebars.registerHelper('markdown', helpers.markdown());
-  handlebars.registerHelper('icon', helpers.icon());
-  handlebars.registerHelper('prod', helpers.production());
-  handlebars.registerHelper('rev', helpers.rev());
+  Handlebars.registerHelper('import', helpers.import());
+  Handlebars.registerHelper('markdown', helpers.markdown());
+  Handlebars.registerHelper('icon', helpers.icon());
+  Handlebars.registerHelper('prod', helpers.production());
+  Handlebars.registerHelper('rev', helpers.rev());
 
   const shrink = (input) => (prod ? minify(input, MINIFY_CONFIG) : input);
 
   const result = {
-    [ENGINE.HANDLEBARS]: (source, env) => {
-      const template = handlebars.compile(source);
-      return shrink(template(env));
-    },
-    [ENGINE.MARKDOWN]: (source, env) => shrink(pageTemplate({ ...env, contents: markdown('full', source, env) })),
-    [ENGINE.OTHER]: (source) => shrink(source),
-    MARKDOWN_CONTENT: (source, env) => markdown('full', source, env),
-    MARKDOWN_PREVIEW: (source, env) => markdown('preview', source, env),
+    [TYPE.HANDLEBARS]: handlebars,
+    [TYPE.MARKDOWN]:   (source, env) => markdown('full', source, env),
+    [TYPE.OTHER]:      (source) => source,
+
+    [ENGINE.PAGE]:     (source, env) => shrink(templates.page({ ...env, contents: markdown('full', source, env) })),
+    [ENGINE.POST]:     (source, env) => shrink(templates.post({ ...env, contents: markdown('full', source, env) })),
+    [ENGINE.HTML]:     (source) => shrink(source),
+    [ENGINE.OTHER]:    (source) => source,
+
+    preview: (source, env) => markdown('preview', source, env),
   };
 
   return result;
@@ -206,7 +209,7 @@ class Injectables {
 
       contents = markdown('full', contents, data);
 
-      return new handlebars.SafeString(contents);
+      return new Handlebars.SafeString(contents);
     };
   }
 
@@ -215,14 +218,14 @@ class Injectables {
     return function (tpath, ...args) {
       const { hash, data } = args.pop();
       const value = args.shift();
-      const context = handlebars.createFrame(value || data.root);
+      const context = Handlebars.createFrame(value || data.root);
       Object.assign(context, hash || {});
 
       tpath = self._parsePath(tpath, data.root.local, 'hbs');
 
       try {
-        const contents = self._template(tpath, handlebars.compile)(context);
-        return new handlebars.SafeString(contents);
+        const contents = self._template(tpath, Handlebars.compile)(context);
+        return new Handlebars.SafeString(contents);
       } catch (e) {
         log.error('Could not execute import template ' + tpath, e);
         return '';
@@ -238,10 +241,10 @@ class Injectables {
 
       try {
         const contents = self._template(tpath, (s) =>
-          handlebars.compile(`<span class="svg-icon" {{#if size}}style="width:{{size}}px;height:{{size}}px"{{/if}}>${s}</span>`),
+          Handlebars.compile(`<span class="svg-icon" {{#if size}}style="width:{{size}}px;height:{{size}}px"{{/if}}>${s}</span>`),
         )({ size: hash && hash.size });
 
-        return new handlebars.SafeString(contents);
+        return new Handlebars.SafeString(contents);
       } catch (e) {
         log.error('Could not execute import template ' + tpath, e);
         return '';

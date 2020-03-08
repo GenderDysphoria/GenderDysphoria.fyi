@@ -78,13 +78,13 @@ exports.isCleanUrl = is(HBS, MD);
 
 
 const TYPE = exports.TYPE = {
-  IMAGE:      'IMAGE',
-  VIDEO:      'VIDEO',
-  HANDLEBARS: 'HANDLEBARS',
-  MARKDOWN:   'MARKDOWN',
-  SCRIPT:     'SCRIPT',
-  STYLE:      'STYLE',
-  OTHER:      'OTHER',
+  IMAGE:      'TYPE_IMAGE',
+  VIDEO:      'TYPE_VIDEO',
+  HANDLEBARS: 'TYPE_HANDLEBARS',
+  MARKDOWN:   'TYPE_MARKDOWN',
+  SCRIPT:     'TYPE_SCRIPT',
+  STYLE:      'TYPE_STYLE',
+  OTHER:      'TYPE_OTHER',
 };
 
 exports.type = dictMatch({
@@ -99,11 +99,11 @@ exports.type = dictMatch({
 
 
 const KIND = exports.KIND = {
-  PAGE:     'PAGE',
-  POST:     'POST',
-  ASSET:    'ASSET',
-  ARTIFACT: 'ARTIFACT',
-  OTHER:    'OTHER',
+  PAGE:     'KIND_PAGE',
+  POST:     'KIND_POST',
+  ASSET:    'KIND_ASSET',
+  ARTIFACT: 'KIND_ARTIFACT',
+  OTHER:    'KIND_OTHER',
 };
 
 exports.kind = dictMatch({
@@ -114,18 +114,12 @@ exports.kind = dictMatch({
 
 
 
-const ENGINE = exports.ENGINE = {
-  HANDLEBARS: 'HANDLEBARS',
-  MARKDOWN:   'MARKDOWN',
-  COPY:       'COPY',
+exports.ENGINE = {
+  HTML:    'ENGINE_HTML',
+  PAGE:    'ENGINE_PAGE',
+  POST:    'ENGINE_POST',
+  OTHER:   'ENGINE_OTHER',
 };
-
-exports.engine = dictMatch({
-  [ENGINE.HANDLEBARS]: is(XML, HBS, HTML),
-  [ENGINE.MARKDOWN]:   is(MD),
-}, ENGINE.COPY);
-
-
 
 exports.readFile = function readFile (fpath) {
   fpath = exports.resolve(fpath);
