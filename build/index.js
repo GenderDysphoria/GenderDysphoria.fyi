@@ -28,10 +28,9 @@ exports.everything = function (prod = false) {
   async function fn () {
 
     // load a directory scan of the public and post folders
-    const [ PublicFiles, PostFiles, engines ] = await Promise.all([
+    const [ PublicFiles, PostFiles ] = await Promise.all([
       loadPublicFiles(),
       loadPostFiles(),
-      getEngines(prod),
     ]);
 
     // load data for all the files in that folder
@@ -51,17 +50,15 @@ exports.everything = function (prod = false) {
 
     const assets = [ ...PostFiles.assets, ...PublicFiles.assets ];
 
-    // compile all tasks to be completed
-    const tasks = await Promise.all([
-      PublicFiles.tasks,
-      PostFiles.tasks,
-      scss(prod),
-      scripts(prod),
-      svg(prod),
-      favicon(prod),
-    ]);
-
-    await Promise.all([
+    const [ tasks ] = await Promise.all([
+      await Promise.all([
+        PublicFiles.tasks,
+        PostFiles.tasks,
+        scss(prod),
+        scripts(prod),
+        svg(prod),
+        favicon(prod),
+      ]),
       fs.ensureDir(resolve('dist')),
       writeIndex('pages.json',  pages),
       writeIndex('posts.json', posts),
@@ -73,6 +70,7 @@ exports.everything = function (prod = false) {
     await evaluate(tasks.flat(), cache);
     await cache.save();
 
+    const engines = await getEngines(prod);
     const postIndex = await pageWriter(engines, pages, posts, prod);
     await fs.writeFile(resolve('dist/tweets/index.json'), prod ? JSON.stringify(postIndex) : JSON.stringify(postIndex, null, 2));
   }

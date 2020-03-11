@@ -2,8 +2,11 @@
 module.exports = exports = ({ id, date }) => `---
 id: "${id}"
 date: "${date.toISOString()}"
+title:
+description:
 tags:
   - Transgender
+author:
 tweets:
 
 ---

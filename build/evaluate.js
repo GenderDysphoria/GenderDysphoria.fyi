@@ -55,7 +55,7 @@ module.exports = exports = async function process (tasks, cache) {
     if (taskLog && LOG[taskLog[0]]) log.info(...taskLog);
 
     if (cache.isProd) {
-      fs.writeFile(resolve('dist', status.revPath), result);
+      await fs.writeFile(resolve('dist', status.revPath), result);
     }
 
   }, { concurrency: 1 });

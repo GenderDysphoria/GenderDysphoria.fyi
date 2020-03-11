@@ -85,17 +85,18 @@ module.exports = exports = class Manifest {
       mode: 'new',
     };
 
-    if (task.nocache) {
-      result.mode = 'silent';
-      return result;
-    }
-
     const [ iTime, oTime, cTime, iRev ] = await Promise.all([
       local && this.stat(input),
       this.stat(output),
       this.stat(cached),
       local && this.compareBy.inputRev && this.revFile(input),
     ]);
+
+    if (task.nocache) {
+      result.iRev = iRev;
+      result.mode = 'silent';
+      return result;
+    }
 
     if (local && !iTime) throw new Error('Input file does not exist: ' + input);
 
@@ -150,7 +151,7 @@ module.exports = exports = class Manifest {
 
   async touch (task, lastSeen = new Date()) {
 
-    if (task.nocache || task.action.name) return null;
+    if (task.nocache || !task.action.name) return null;
 
     const hash = this.hash(task);
     const { input, output } = task;
