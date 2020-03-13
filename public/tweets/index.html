@@ -35,8 +35,8 @@ description: "A collection of the best twitter threads on transgender and gender
   {{#content "body"}}
 
     <div class="post-index">
-      <section>
       {{#with posts.latest}}
+      <section>
         <article>
           <div class="post-head">
             <div class="post-tags">
@@ -46,13 +46,13 @@ description: "A collection of the best twitter threads on transgender and gender
             <a href="{{this.url}}" class="post-link" title="{{date this.date 'MMMM do, yyyy'}}">{{icon 'link'}} Permalink</a>
           </div>
           <div class="post-content">{{{this.content}}}</div>
-          <div class="pager">
-            <div class="prev">{{#if siblings.prev}}<a href="{{siblings.prev}}" class="btn btn-primary left">{{icon 'angle-left'}} Back</a>{{/if}}</div>
-            <div class="first">{{#if siblings.first}}<a href="{{siblings.first}}" class="btn btn-primary left">{{icon 'angle-double-left'}} Newest</a>{{/if}}</div>
-            <div class="last">{{#if siblings.last}}<a href="{{siblings.last}}" class="btn btn-primary right">Oldest {{icon 'angle-double-right'}}</a>{{/if}}</div>
-            <div class="next">{{#if siblings.next}}<a href="{{siblings.next}}" class="btn btn-primary right">Next {{icon 'angle-right'}}</a>{{/if}}</div>
-          </div>
         </article>
+        <div class="pager">
+          <div class="prev">{{#if siblings.prev}}<a href="{{siblings.prev}}" class="btn btn-primary left">{{icon 'angle-left'}} Back</a>{{/if}}</div>
+          <div class="first">{{#if siblings.first}}<a href="{{siblings.first}}" class="btn btn-primary left">{{icon 'angle-double-left'}} Newest</a>{{/if}}</div>
+          <div class="last">{{#if siblings.last}}<a href="{{siblings.last}}" class="btn btn-primary right">Oldest {{icon 'angle-double-right'}}</a>{{/if}}</div>
+          <div class="next">{{#if siblings.next}}<a href="{{siblings.next}}" class="btn btn-primary right">Next {{icon 'angle-right'}}</a>{{/if}}</div>
+        </div>
       {{/with}}
       </section>
 

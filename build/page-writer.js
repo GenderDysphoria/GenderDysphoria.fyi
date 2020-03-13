@@ -90,7 +90,7 @@ function pageJSON (post) {
     titlecard: post.titlecard,
     tags: post.meta.tags,
     author: post.meta.author,
-    siblings: post.sibling,
+    siblings: post.siblings,
   };
 }
 

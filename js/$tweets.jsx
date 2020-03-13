@@ -6,6 +6,10 @@ import map from 'lodash/map';
 import { format } from 'date-fns';
 import Sync from 'svg/sync-alt.svg';
 import Link from 'svg/link.svg';
+import AngleLeft from 'svg/angle-left.svg';
+import AngleRight from 'svg/angle-right.svg';
+import AngleDoubleLeft from 'svg/angle-double-left.svg';
+import AngleDoubleRight from 'svg/angle-double-right.svg';
 
 // const If = ({t,children}) => (!!t && <Fragment>{children}</Fragment>)
 
@@ -24,27 +28,59 @@ const Post = ({ post }) => (
   </article>
 );
 
+const Pagination = ({ post }) => (
+  <div class="pager">
+    <div class="prev" >{post.siblings && post.siblings.prev  && <a href={'/tweets/#id=' + post.siblings.prev.replace('/tweets/', '')} class="btn btn-primary left"><span class="svg-icon"><AngleLeft /></span> Back</a>}</div>
+    <div class="first">{post.siblings && post.siblings.first && <a href={'/tweets/#id=' + post.siblings.first.replace('/tweets/', '')} class="btn btn-primary left"><span class="svg-icon"><AngleDoubleLeft /></span> Newest</a>}</div>
+    <div class="last" >{post.siblings && post.siblings.last  && <a href={'/tweets/#id=' + post.siblings.last.replace('/tweets/', '')} class="btn btn-primary right">Oldest <span class="svg-icon"><AngleDoubleRight /></span></a>}</div>
+    <div class="next" >{post.siblings && post.siblings.next  && <a href={'/tweets/#id=' + post.siblings.next.replace('/tweets/', '')} class="btn btn-primary right">Next <span class="svg-icon"><AngleRight /></span></a>}</div>
+  </div>
+);
+
 class App extends Component {
 
   constructor (props) {
     super(props);
 
-    const index = this.props.index;
     const hash = window.location.hash.slice(1);
-    this.state = {
-      hash,
-      loading: false,
-      posts: Object.fromEntries(index.posts.map((post) => [ post.id, post ])),
-      tags: index.tags,
-      authors: index.authors,
-      latest: index.latest,
-    };
+    const index = this.props.index;
+    if (index) {
+      this.state = {
+        hash,
+        loading: false,
+        posts: Object.fromEntries(index.posts.map((post) => [ post.id, post ])),
+        tags: index.tags,
+        authors: index.authors,
+        latest: index.latest,
+      };
+    } else {
+      this.state = {
+        hash,
+        loading: true,
+        posts: {},
+        tags: {},
+        authors: [],
+        latest: null,
+      };
+      this.loadContent().catch(console.error); // eslint-disable-line no-console
+    }
 
     this.loading = new Map();
 
     this.onChange = this.onChange.bind(this);
     this.hashedPosts = this.hashedPosts.bind(this);
     this.ensurePost = this.ensurePost.bind(this);
+  }
+
+  async loadContent () {
+    const index = await fetch('/tweets/index.json').then((res) => res.json());
+    this.setState({
+      loading: false,
+      posts: Object.fromEntries(index.posts.map((post) => [ post.id, post ])),
+      tags: index.tags,
+      authors: index.authors,
+      latest: index.latest,
+    });
   }
 
   componentDidMount () {
@@ -94,7 +130,14 @@ class App extends Component {
 
   render () {
     const [ target, value ] = this.parseHash();
-    const posts = this.hashedPosts(target, value);
+    let posts = [ this.state.latest ];
+    let paginate = true;
+    if (target === 'id' && this.state.posts[value]) {
+      posts = [ this.state.posts[value] ];
+    } else if (target) {
+      posts = this.hashedPosts(target, value);
+      paginate = false;
+    }
 
     if (this.state.loading) {
       return <div class="loading"><Sync /></div>;
@@ -112,6 +155,7 @@ class App extends Component {
         {map(posts, (post, i) =>
           <Post post={post} key={i} />,
         )}
+        {paginate && <Pagination post={posts[0]} />}
       </Fragment>
     );
   }
@@ -119,13 +163,14 @@ class App extends Component {
 
 
 async function run () {
-  const index = await fetch('/tweets/index.json').then((res) => res.json());
-
-
   const target = document.querySelector('.post-index section');
-  while (target.firstChild) {
-    target.removeChild(target.firstChild);
+
+  let index = null;
+  if (window.location.hash.length <= 1) {
+    index = await fetch('/tweets/index.json').then((res) => res.json());
   }
+
+  while (target.firstChild) target.removeChild(target.firstChild);
   render(<App index={index} />, target);
 }
 
