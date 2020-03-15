@@ -4,6 +4,8 @@ const fs = require('fs-extra');
 const { map, uniq } = require('lodash');
 const { resolve, ROOT } = require('./resolve');
 const { siteInfo }  = require(resolve('package.json'));
+const log = require('fancy-log');
+
 
 module.exports = exports = async function writePageContent (engines, pages, posts, prod) {
   const postIndex = index(posts, engines);
@@ -99,7 +101,12 @@ function processPages (engines, pages, posts, prod) {
 
     const state = pageState(page, posts);
     const json = pageJSON(page);
-    const html = String(engines[page.engine](page.source, state));
+
+    try {
+      var html = String(engines[page.engine](page.source, state));
+    } catch (e) {
+      throw new Error(`Error while processing page "${page.input}": ${e.message}`);
+    }
 
     json.content = page.content;
 

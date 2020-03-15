@@ -106,6 +106,7 @@ module.exports = exports = class Page extends File {
     const { titlecard, webready } = PublicFiles.for(this.dir);
     this.ignore = this.meta.ignore;
     this.draft = this.meta.draft;
+    this.siblings = this.meta.siblings;
     this.images = webready;
     this.titlecard = titlecard;
     if (this.meta.tweets && isString(this.meta.tweets)) this.meta.tweets = this.meta.tweets.split(/\s/);

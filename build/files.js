@@ -1,5 +1,5 @@
 const path = require('path');
-const { groupBy, keyBy, filter, find, get, memoize } = require('lodash');
+const { groupBy, keyBy, filter, find, memoize } = require('lodash');
 const { kind, KIND } = require('./resolve');
 const File = require('./file');
 const Asset = require('./asset');
@@ -22,7 +22,7 @@ module.exports = exports = class Files {
     this.assets = assets || [];
 
     this._getTitlecard = memoize(() =>
-      find(assets, { name: 'titlecard', dir: this.base })
+      find(assets, { name: 'titlecard', dir: this.base }),
     );
 
     this._getWebReady = memoize(() => assets && keyBy(assets.map((a) => a.webready()), 'name'));

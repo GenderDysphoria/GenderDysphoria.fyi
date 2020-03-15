@@ -73,7 +73,7 @@ module.exports = exports = function (md, options) {
       let token, closeIndex;
       const tokens = [];
       const preBlock = openIndex > pos && state.src.slice(pos, openIndex);
-      debug({ l: 75, preBlock, startLine, lastLine });
+      debug({ l: 76, preBlock, startLine, lastLine });
       openIndex += fenceLen;
       pos = openIndex;
 
@@ -90,11 +90,11 @@ module.exports = exports = function (md, options) {
         }
       }
 
-      debug({ l: 92, tokens });
+      debug({ l: 93, tokens });
 
       // find terminating fence
       if (!scanAhead(state, startLine, pos)) {
-        debug({ l: 96, remaining: state.src.slice(pos) });
+        debug({ l: 97, remaining: state.src.slice(pos) });
         // console.error(state.src)
         throw new Error(`Could not find terminating "${options.fence}" for a raw html block.`);
       }
@@ -163,8 +163,8 @@ module.exports = exports = function (md, options) {
       startLine = nextLine + 1;
       endOfLine = state.eMarks[startLine];
 
-      debug({ l: 164, pos, startLine, endOfLine, remaining: state.src.slice(pos) });
-    } while (pos + fenceLen < endOfLine);
+      debug({ l: 164, pos, startLine, endOfLine, remaining: state.src.slice(pos), scan: state.discreteHtmlScan });
+    } while (pos < endOfLine && state.discreteHtmlScan.present);
 
     if (closer) {
       state.tokens.push(closer);

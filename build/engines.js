@@ -63,7 +63,12 @@ function markdown (mode, input, env) {
     input = input.replace(/<!--[[\]]-->/g, '');
   }
 
-  return input ? markdownEngines[mode].render(input, env) : '';
+  try {
+    return input ? markdownEngines[mode].render(input, env) : '';
+  } catch (e) {
+    log(input);
+    throw e;
+  }
 }
 
 function handlebars (input, env) {
