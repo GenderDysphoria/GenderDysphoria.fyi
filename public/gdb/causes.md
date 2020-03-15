@@ -13,6 +13,11 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224042620164296705
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
+siblings:
+  prev: /gdb/treatment
+  prevCaption: Treating Gender Dysphoria
+  next: /gdb/chromosomes
+  nextCaption: But... but... the chromosomes!
 ---
 
 #What is the Cause of Gender Incongruence?
@@ -65,5 +70,3 @@ Sadly, western society has actively prevented a deeper understanding of gender. 
 Yet, progress continues, and every few years we learn a little bit more.
 
 What we know for certain is that it is not a psychological condition, it is not something caused by trauma or by any external influence, nothing can make a person transgender. It happens in the womb, and is not something that a person can choose to be, any more than they could choose their race or their eye color. It has nothing to do with sexual orientation, it has nothing to do with kinks or fetishes, it has nothing to do with social influences from their parents or from their peers. [Transgender children are as firm in their identities as cisgender children are.](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
-
-{!{ {{import '_pager'}} }!}

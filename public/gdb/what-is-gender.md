@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "What is Gender?"
 description: "How do we define the concept of Gender, and how does it differ from Sex?"
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/
+  prevCaption: Introduction
+  next: /gdb/history
+  nextCaption: The History of Gender Dysphoria
 classes:
   - gdb
 tweets:
@@ -56,6 +61,3 @@ These negative symptoms (depression, derealization, social discomfort) are the s
 What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual), but gender itself does not affect sexuality and sexuality has no role in gender.
 
 In generalist terms this essay will be describing gender in a sense of binary identities (male/female) vs non-binary identities (agender, bigender, genderqueer, etc), but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
-
-{!{ {{import '_pager'}} }!}
-

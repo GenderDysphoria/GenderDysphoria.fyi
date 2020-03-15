@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Sexual Dysphoria"
 description: "Sometimes a Cigar doesn't want to be smoked."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/societal-dysphoria
+  prevCaption: Societal Dysphoria
+  next: /gdb/presentational-dysphoria
+  nextCaption: Presentational Dysphoria
 classes:
   - gdb
 tweets:
@@ -29,5 +34,3 @@ This can lead to one feeling less enthusiastic or even disinterested in sex, as 
 This dysphoria may be so significant that they find themselves taking a sexual identity that they don't actually connect with. It is not unheard of for a trans person to realize after coming out that they never actually felt a connection to the sexual orientation that they had identified with previously, but were rather using it as a way to feel less dysphoric in their sex lives.
 
 Some trans women, for example, identified as gay men pre-transition out of a desire to have a partner that treats them like women during sex, but find themselves to actually be lesbians once that demand is lifted. Others may attempt to live as gay men, but find that the role doesn't fulfill them because they know their partners see them as men.
-
-{!{ {{import '_pager'}} }!}

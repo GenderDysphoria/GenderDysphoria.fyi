@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Social Dysphoria"
 description: "Pronouns and Deadnames and Gendering, oh my."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/biochemical-dysphoria
+  prevCaption: Biochemical Dysphoria
+  next: /gdb/societal-dysphoria
+  nextCaption: Societal Dysphoria
 classes:
   - gdb
 tweets:
@@ -73,6 +78,3 @@ A very curious and surprisingly phenomenon is that closeted trans people have a 
 Trans people subconsciously tend to gravitate towards each others friendships, both out of a need for peers who think and act the same as us without judgments, and due to a kinship of social ostracization. This is not exclusive to trans people, of course, the same happens for all types of queers, but the way it has a rippled effect is quite powerful. It's very similar to the way an entire friend group will get married and have kids all in response to one member of the group initiating.
 
 Trans people often continue to self-select their groups post-transition as well, as we simply understand each other better than cis people can. There is an energy that occurs when a group of trans people get together in a location, the room becomes charged with camaraderie and commiseration. We all have so much in common in our histories, so many shared experiences, that short of personality conflicts we instantly bond together.
-
-
-{!{ {{import '_pager'}} }!}

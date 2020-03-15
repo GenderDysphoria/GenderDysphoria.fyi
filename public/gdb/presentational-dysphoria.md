@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Presentational Dysphoria"
 description: "Hoodies and sweatpants never go out of style."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/sexual-dysphoria
+  prevCaption: Sexual Dysphoria
+  next: /gdb/historical-dysphoria
+  nextCaption: Historical Dysphoria
 classes:
   - gdb
 tweets:
@@ -60,5 +65,3 @@ Presentation can be important for avoiding misgendering, especially early in tra
 Performative Presentation was practically required prior to the reformation of WPATH in 2011; anyone who showed up to a doctors appointment without extreme feminine or masculine presentation risked be labeled a fake and losing their treatment under the Harry Benjamin Scale. Trans women actually would lost their estrogen simply for wearing jeans and a blouse instead of a dress, or for not putting on enough makeup. This is one of the reasons why transmedicalist ideology is so dangerous, it would see us returning to this system, labeling anyone who doesn't meet stereotypical views of femininity and masculinity as not actually transgender.
 
 Presentation is especially important among pre-pubescent children, as they lack any significant secondary sexual characteristics. Clothing and hair are the only ways we have to show the gender of a child, so much so that if a baby simply wears a pink shirt, strangers assume it is a girl. Even unisex clothing for kids is strongly gendered by way of colors and graphics. For trans children it can be extremely distressing to be either forced to cut their hair, or required to grow it out. Denying a young trans girl access to dresses, or forcing them onto a trans boy, can be debilitating to their morale.
-
-{!{ {{import '_pager'}} }!}

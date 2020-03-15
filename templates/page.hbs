@@ -25,6 +25,15 @@
     <div class="post-content">
     {{{contents}}}
     </div>
+
+    {{#if siblings}}
+    <div class="pager">
+      <div class="prev">{{#if siblings.prev}}<a href="{{siblings.prev}}" class="btn btn-primary left">{{icon 'angle-left'}} {{#if siblings.prevCaption}}{{siblings.prevCaption}}{{else}}Back{{/if}}</a>{{/if}}</div>
+      <div class="first">{{#if siblings.first}}<a href="{{siblings.first}}" class="btn btn-primary left">{{icon 'angle-double-left'}} {{#if siblings.firstCaption}}{{siblings.firstCaption}}{{else}}Newest{{/if}}</a>{{/if}}</div>
+      <div class="last">{{#if siblings.last}}<a href="{{siblings.last}}" class="btn btn-primary right">{{#if siblings.lastCaption}}{{siblings.lastCaption}}{{else}}Oldest{{/if}} {{icon 'angle-double-right'}}</a>{{/if}}</div>
+      <div class="next">{{#if siblings.next}}<a href="{{siblings.next}}" class="btn btn-primary right">{{#if siblings.nextCaption}}{{siblings.nextCaption}}{{else}}Next{{/if}} {{icon 'angle-right'}}</a>{{/if}}</div>
+    </div>
+    {{/if}}
   </article>
   {{/content}}
 

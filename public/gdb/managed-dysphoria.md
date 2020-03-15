@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Managed Dysphoria: Gender in Disguise"
 description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/historical-dysphoria
+  prevCaption: Historical Dysphoria
+  next: /gdb/impostor-syndrome
+  nextCaption: Impostor Syndrome
 classes:
   - gdb
 tweets:
@@ -77,6 +82,3 @@ Finally, another very common coping mechanism is to find means of escapement or 
 - Obsessively cleaning ones living space
 
 - Sleeping. Lots and lots of sleeping.
-
-
-{!{ {{import '_pager'}} }!}

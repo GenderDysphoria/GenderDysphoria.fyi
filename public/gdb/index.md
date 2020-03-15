@@ -5,7 +5,9 @@ description: "A dive into the multitude of ways that gender dysphoria manifests 
 preBody: '_disclaimer'
 classes:
   - gdb
-
+siblings:
+  next: /gdb/what-is-gender
+  nextCaption: What is Gender?
 ---
 
 
@@ -40,5 +42,3 @@ The purpose of this site is to document the many ways that Gender Dysphoria mani
 </div>
 </div>
 }!}
-
-{!{ {{import '_pager'}} }!}

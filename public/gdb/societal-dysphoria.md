@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Societal Dysphoria"
 description: "Because a Role is a Role, and a Toll is a Toll, and it's a heavy toll to live the wrong role."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/social-dysphoria
+  prevCaption: Social Dysphoria
+  next: /gdb/sexual-dysphoria
+  nextCaption: Sexual Dysphoria
 classes:
   - gdb
 tweets:
@@ -68,5 +73,3 @@ Beyond discomfort, many trans people realize that the dynamics of relationships 
 For example, I myself realized after coming out to my wife that all of my previous dating attempts had absolutely been sapphic in nature. My first order had always been to become good friends with them. Dates would never be labeled as dates because we would just sit and talk somewhere, hanging out together. Consequently, several of my relationships ended simply because I was too scared to make the first move out of destroying the friendship. I would spend half my waking day thinking about them and wanting to be around them, not out of sexual lust, but out of personal infatuation. My first girlfriend straight up told me on our first date that I was unlike any man she'd ever dated because I enjoyed talking instead of just trying to get physical. She broke up with me two months later because I wasn't as assertive as she wanted from a partner.
 
 This all gets even more complex for non-binary people, some of whom can at best describe their dating style as Queer.
-
-{!{ {{import '_pager'}} }!}

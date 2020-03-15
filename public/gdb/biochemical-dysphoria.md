@@ -17,6 +17,11 @@ tweets:
   - '1222742135067303937'
   - '1222743360034758656'
   - '1222743749920464896'
+siblings:
+  prev: /gdb/physical-dysphoria
+  prevCaption: Physical Dysphoria
+  next: /gdb/social-dysphoria
+  nextCaption: Social Dysphoria
 ---
 
 # Biochemical Dysphoria
@@ -134,5 +139,3 @@ People know when they're living the wrong gender.
 Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender, and it will stick.
 
 This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (tho not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.
-
-{!{ {{import '_pager'}} }!}

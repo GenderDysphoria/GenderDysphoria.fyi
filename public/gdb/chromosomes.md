@@ -5,6 +5,11 @@ description: "DNA is more what you'd call guidelines, than actual rules."
 preBody: '_disclaimer'
 classes:
   - gdb
+siblings:
+  prev: /gdb/causes
+  prevCaption: Causes of Gender Dysphoria
+  next: /gdb/conclusion
+  nextCaption: Conclusion
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191
@@ -19,6 +24,7 @@ tweets:
   - https://twitter.com/RebeccaRHelm/status/1207839986801922048
   - https://twitter.com/alicemiriel/status/1208181235593490433
   - https://twitter.com/TransEthics/status/1223942625708761088
+
 ---
 
 # But the Chromosomes!!!
@@ -85,5 +91,3 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 - [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
 
 {!{ {{import '~/img' images.barbosa className="card borderless center" alt="The code is more what you'd call guidelines, than actual rules."}} }!}
-
-{!{ {{import '_pager'}} }!}

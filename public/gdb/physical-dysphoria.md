@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Physical Dysphoria"
 description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/euphoria
+  prevCaption: Gender Euphoria
+  next: /gdb/biochemical-dysphoria
+  nextCaption: Biochemical Dysphoria
 classes:
   - gdb
 tweets:
@@ -147,5 +152,3 @@ What is the end result of this? Kathryn said it best:
   '947522372315369472'
   '947523244948680705'
 ) tweets=meta.tweets className="grid-row" }} }!}
-
-{!{ {{import '_pager'}} }!}

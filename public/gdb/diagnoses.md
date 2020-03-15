@@ -5,6 +5,11 @@ description: "It's clinical."
 preBody: '_disclaimer'
 classes:
   - gdb
+siblings:
+  prev: /gdb/impostor-syndrome
+  prevCaption: Impostor Syndrome
+  next: /gdb/treatment
+  nextCaption: Treating Gender Dysphoria
 ---
 
 # How is Gender Dysphoria Diagnosed?
@@ -59,5 +64,3 @@ Now, here is the kicker. If you identify as transgender, meaning that your gende
 So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement "you do not have to have dysphoria to be transgender" is a logical paradox.
 
 Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra, than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
-
-{!{ {{import '_pager'}} }!}

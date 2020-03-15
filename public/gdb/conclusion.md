@@ -2,6 +2,9 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "In Conclusion"
 description: "Enough with the gatekeeping already."
+siblings:
+  prev: /gdb/chromosomes
+  prevCaption: Disorders of Sexual Development
 classes:
   - gdb
 preBody: '_disclaimer'
@@ -20,7 +23,4 @@ There is no such thing as "Rapid Onset Gender Dysphoria".
 There is no such thing as parents "transing" their kids.
 
 These mentalities have to stop.
-
-
-{!{ {{import '_pager'}} }!}
 

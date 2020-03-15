@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Treating Gender Dysphoria"
 description: "Transition is the cure."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/diagnoses
+  prevCaption: Clinical Diagnoses
+  next: /gdb/causes
+  nextCaption: Causes of Gender Dysphoria
 classes:
   - gdb
 ---
@@ -114,6 +119,3 @@ Other Trans Feminine Surgeries:
 - Voice Feminisation Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
 - Cinderella Surgery. Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
 - Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
-
-
-{!{ {{import '_pager'}} }!}

@@ -3,6 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Euphoria"
 description: "In order for there to be shadow there must be light."
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/history
+  prevCaption: The History of Gender Dysphoria
+  next: /gdb/physical-dysphoria
+  nextCaption: Physical Dysphoria
 classes:
   - gdb
 tweets:
@@ -67,7 +72,3 @@ Even just being out in the world as yourself and being seen as yourself can be m
 **What euphoria is NOT** is a sexual high, turn on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
 
 That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely, it does not go away when they go back to their daily lives.
-
-
-{!{ {{import '_pager'}} }!}
-

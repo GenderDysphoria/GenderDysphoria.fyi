@@ -5,6 +5,11 @@ description: "The origins of Gender Dysphoria and the current meaning today."
 classes:
   - gdb
 preBody: '_disclaimer'
+siblings:
+  prev: /gdb/what-is-gender
+  prevCaption: What Is Gender?
+  next: /gdb/euphoria
+  nextCaption: Gender Euphoria
 ---
 
 # A Brief History of Gender Dysphoria
@@ -66,5 +71,3 @@ However, first I must stress something very important. So important that I am pu
 There is no one single trans experience, there is no standard set of feelings and discomforts, there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
 
 Ok, that disclaimer out of the way, lets get to the meat and potatoes.
-
-{!{ {{import '_pager'}} }!}
