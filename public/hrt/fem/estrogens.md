@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "Transfeminine HRT - Estrogens"
-description: Titty Skittles, Stickers and Girl Juice, oh my!
+description: Titty Skittles, Trans Stamps and Girl Juice, oh my!
 classes:
   - hrt
 siblings:

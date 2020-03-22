@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Transfeminine HRT - Introduction"
+title: "Transfeminine HRT"
 description: "An introduction to feminizing hormone replacement therapy."
 classes:
   - hrt
@@ -41,3 +41,4 @@ Right, now that we've covered that, lets move on.
 
 4. [What to Expect When You're Expecting Boobs](/hrt/fem/what-to-expect)
 
+For further reading beyond this guide, I recommend the [University of California, San Francisco's Feminizing Hormone Therapy Guidelines.](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy).

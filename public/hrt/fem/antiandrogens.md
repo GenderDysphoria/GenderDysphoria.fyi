@@ -26,6 +26,8 @@ The three most common anti-androgens are **Spironolactone**, **Cyproterone Aceta
 
 ### Spironolactone (Brand Name: Aldactone):
 
+[GoodRx Price Lookup](https://www.goodrx.com/spironolactone?dosage=100mg&form=tablet&label_override=spironolactone&quantity=30)
+
 Spironolactone (commonly shortened to "spiro") is the most commonly used AA in the United States, largely because it is extremely cheap, is manufactured by a lot of companies, and because Cypro isn’t available in the US due to an FDA ban. The official on-label use for spiro is as a potassium-sparing diuretic; spiro causes your body to release more water, washing away sodium and other minerals, but keeping potassium. In short, the drug makes you pee… a lot. It’s meant to be used to treat high blood pressure and cirrhosis of the liver. [The fact that it suppresses testosterone production is considered a side-effect](https://howwegettonext.com/how-the-worst-blood-pressure-medication-became-the-best-testosterone-blocker-9afec005ede0). Spiro is often also prescribed for severe androgen related acne, heart conditions, and is given to cis women with PCOS.
 
 How does spiro work? Well if receptors are locks, spiro is a master key. It fits into a bunch of steroid receptors, androgen, progesterone, and cortisol. For some it binds exceptionally well (aldosterone and dexamethasone), and some just ok (testosterone). For aldosterone it functions as a powerful antagonist, preventing the kidneys from receiving aldosterone from the adrenal glands. Aldosterone slows down kidney function so that body retains water, and spiro blocks that message, causing them to release the water instead.
@@ -34,9 +36,9 @@ In androgen and progesterone receptors it is a partial argonist, turning the key
 
 The other way that spiro works is that it prevents the formation of various enzymes that the body needs in order to produce testosterone. Without these enzymes, the testes and adrenal glands literally cannot form testosterone molecules.
 
-Both of these functions are very weak, however, and require pretty large doses of spiro to be effective (relative to the diuretic affect). Spiro only actually works well as an anti-androgen in about 20% of subjects, and doesn’t work at all in another 20%.
+Both of these functions are very weak, however, and require pretty large doses of spiro to be effective (relative to the diuretic affect). Spiro only actually works well as an anti-androgen in about 20% of subjects, and [doesn’t work at all in another 30%](https://www.liebertpub.com/doi/10.1089/trgh.2017.0035?utm_source=sfmc&utm_medium=email&utm_campaign=TRGH+FP+May+17+2018&d=5%2F17%2F2018&mcid=511450069&#B17).
 
-I mentioned above that the third receptor spiro fits into is the cortisol receptor (technically, the glucocorticoid receptor), and it fits in REALLY well, binding 3x better than actual cortisol. Cortisol is released by the adrenal glands in response to stress. It causes your body to raise its blood sugar, suppresses the immune system, and increases the metabolism of glucose and lipids (fat). The problem is, spiro doesn’t *activate* the cortisol receptor, [it blocks it](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277847/), preventing your body from receiving the cortisone it produces.
+I mentioned above that the third receptor spiro fits into is the cortisol receptor (technically, the glucocorticoid receptor), and it fits in REALLY well, binding just as well as actual cortisol. Cortisol is released by the adrenal glands in response to stress, it causes your body to raise its blood sugar, suppresses the immune system, and increases the metabolism of glucose and lipids (fat). The problem is, spiro doesn’t *activate* the cortisol receptor, [it blocks it](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277847/), preventing your body from receiving the cortisone it produces.
 
 Without cortisol, the body resists releasing fats for consumption, it just retains it. This not only makes it easier to put weight on, and harder to lose the weight you have, but it hinders fat redistribution for feminization. New fats go on in estrogenic ways, but the old masculine fats struggle to release. For late transitioners this can result in the dreaded “grandma” effect, where the combined masculine and feminine fats make one look much older than they are. There is also a community term “spiro belly” which refers to the way the drug causes fats to pool in the abdomen.
 
@@ -59,20 +61,28 @@ The common dosage for cypro in trans HRT is 25mg, with a maximum dose of 100mg. 
 
 ### Bicalutamide (Brand Name: Casodex):
 
+[GoodRx Price Lookup](https://www.goodrx.com/bicalutamide)
+
 Bicalutamide (commonly shortened to "bical") is also a receptor antagonist, much like spiro and cypro. It is actually a very good androgen blocker, competing quite strongly for androgen receptors, and does a fantastic job of suspending androgens within the body. However, as bical does not activate the receptors it blocks, and does not activate any other sex hormone receptors, there is no feedback to the body to tell it to halt testosterone production. Quite the opposite, the hypothalamus thinks there is *no* T in the body and cranks up production to compensate.
 
 This makes it extremely difficult to determine if the drug is actually working. Eventually, as estrogen levels rise, T production drops off due to the overall total sex hormones present in the body, but this takes time. It does have one benefit, however, that the high levels of T also mean that some of the testosterone will aromatase into estrogen.
 
 Bical has the same high liver risks as spiro and cypro, and for this reason many doctors are reluctant to prescribe it, especially in older patients. Aside from this, it has relatively few negative side-effects for transfemmes.
 
-### Finesteride / Dutasteride:
+### Finasteride / Dutasteride:
 
-Finesteride (brand name Propecia) and Dutasteride (brand name Avodart) are 5-alpha reductase (5a-R) inhibitors. 5a-R is an enzyme that is critical to the body’s metabolism of androgens and estrogens from other compounds. Note, this is an *inhibitor*, not a blocker. Finesteride does not prevent 5a-R production, it merely lowers the potency of the 5a-R chemical reactions that causes testosterone to convert into DHT.
+[GoodRx Price Lookup](https://www.goodrx.com/finasteride?dosage=5mg&form=tablet&label_override=finasteride&quantity=30)
 
-The on-label use of Finesteride is for fighting prostate cancer and preventing male pattern hair loss. **It does not have any anti-androgenic affects, and should not be prescribed as an AA**. It is, however, useful to prescribe to Transmascs who are concerned about hair loss.
+Finasteride (brand name Propecia) and Dutasteride (brand name Avodart) are 5-alpha reductase (5a-R) inhibitors. 5a-R is an enzyme that is critical to the body’s metabolism of androgens and estrogens from other compounds. Note, this is an *inhibitor*, not a blocker. Finasteride does not prevent 5a-R production, it merely lowers the potency of the 5a-R chemical reactions that causes testosterone to convert into DHT.
+
+The on-label use of Finasteride is for fighting prostate cancer and preventing male pattern hair loss. **It does not have any anti-androgenic affects, and should not be prescribed as an AA**. It is, however, useful to prescribe to Transmascs who are concerned about hair loss.
+
+Tip: Insurance companies are more likely to fully cover the cost of the 5mg dose, rather than the 1mg, as the larger dose is usually prescribed for prostate cancer, where the smaller is just for hair loss.
 
 
 ### GnRH Argonists (Leuprolide Acetate / Goserelin / Histrelin Acetate):
+
+GoodRx Price Lookups: [Leuprolide](https://www.goodrx.com/leuprolide), [Goserelin](https://www.goodrx.com/goserelin)
 
 Gonadotropin-Releasing Hormone (GnRH) is the hormone that the hypothalamus produces in order to control the release of other sex hormones. It releases GnRH in controlled pulses as a sort of morse-code for the pituitary gland, which then reacts to those pulses by secreting either [Luteinizing Hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) (LH) or [Follicle Stimulating Hormone](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) (FSH), based upon [the frequency of the pulses](https://web.archive.org/web/20150923190449/http://www.biolreprod.org/content/56/4/1012.full.pdf). The intensity of the pulse tells the pituitary how much to produce.
 
@@ -82,7 +92,7 @@ GnRH Agonists, as the name implies, interface with GnRH receptors on the pituita
 
 GnRH Argonists are extremely effective and have very minimal side-effects and are the preferred method for blocking puberty in adolescents of both sexes. Unfortunately, GnRH Argonists are extremely expensive (upwards of $1000 per dose, or more) and are rarely covered by insurance for use in adults.
 
-The three most common GnRH Argonists are Leuprolide Acetate (brand name Lupron), Goserelin (brand name Zoladex), and Histrelin Acetate (brand names Vantas and Supprelin). Leuprolide and Goserelin are a shots delivered every 2-3 months. Histrelin is an annual implant, typically placed under the skin of a forearm.
+The three most common GnRH Argonists are Leuprolide Acetate (brand name Lupron), Goserelin (brand name Zoladex), and Histrelin Acetate (brand names Vantas and Supprelin). Leuprolide is a shot delivered every 2-3 months. Goserelin and Histrelin are annual implants, typically placed under the skin of a forearm.
 
 
 ## How do I know if it is working?
