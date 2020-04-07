@@ -91,7 +91,6 @@ function stripIndent (input) {
 
 const HANDLEBARS_PARTIALS = {
   layout:    'templates/layout.hbs',
-  list:      'templates/list.hbs',
   page:      'templates/page.hbs',
   post:      'templates/post.hbs',
 };
@@ -123,7 +122,6 @@ module.exports = exports = async function (prod) {
     [TYPE.MARKDOWN]:   (source, env) => markdown('full', source, env),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.LIST]:     (source, env) => templates.list({ ...env, contents: markdown('full', source, env) }),
     [ENGINE.PAGE]:     (source, env) => templates.page({ ...env, contents: markdown('full', source, env) }),
     [ENGINE.POST]:     (source, env) => templates.post({ ...env, contents: markdown('full', source, env) }),
     [ENGINE.HTML]:     (source) => source,

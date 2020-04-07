@@ -82,7 +82,7 @@ exports.everything = function (prod = false) {
   return fn;
 };
 
-exports.posts = function () {
+exports.pages = function () {
   async function fn () {
     const prod = false;
     // load a directory scan of the public and post folders
