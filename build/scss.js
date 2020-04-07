@@ -40,7 +40,7 @@ class Sass extends File {
   async load (prod) {
     let contents = (await readFile(this.input).catch(() => null)).toString('utf8');
 
-    for (const [ match, fpath ] of contents.matchAll(/\|(.+?)\|/)) {
+    for (const [ match, fpath ] of contents.matchAll(/\|(.+?)\|/g)) {
       const insert = await readFile(fpath);
       contents = contents.replace(match, insert);
     }
