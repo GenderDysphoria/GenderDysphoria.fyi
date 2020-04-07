@@ -42354,5 +42354,1129 @@
     "favorited": false,
     "retweeted": false,
     "lang": "en"
+  },
+  "1238275264771022848": {
+    "created_at": "Fri Mar 13 01:26:43 +0000 2020",
+    "id": 1238275264771022800,
+    "id_str": "1238275264771022848",
+    "full_text": "@CrypticGoblin This thread has some pretty amazing insight into this mentality. https://t.co/Sviu12sJVF",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      103
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Sviu12sJVF",
+          "expanded_url": "https://twitter.com/LisaTMullin/status/1090398290611322881",
+          "display_url": "twitter.com/LisaTMullin/st…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238275070369263600,
+    "in_reply_to_status_id_str": "1238275070369263616",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1090398290611322900,
+    "quoted_status_id_str": "1090398290611322881",
+    "quoted_status_permalink": {
+      "url": "https://t.co/Sviu12sJVF",
+      "expanded": "https://twitter.com/LisaTMullin/status/1090398290611322881",
+      "display": "twitter.com/LisaTMullin/st…"
+    },
+    "quoted_status": {
+      "created_at": "Tue Jan 29 23:56:25 +0000 2019",
+      "id": 1090398290611322900,
+      "id_str": "1090398290611322881",
+      "full_text": "For an unrelated reason I had to check up some things from Raymond's Transsexual Empire and had a quick re-read.\nIt is so bleak and anti-feminist it is not funny. It offers no hope of change for women, in fact women have to fight endlessly to maintain their existing position",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3613704678,
+        "id_str": "3613704678",
+        "name": "Lisa T Mullin",
+        "screen_name": "LisaTMullin",
+        "location": "",
+        "description": "Trans| 🏳️‍⚧️. |🏳️‍🌈| 🏴󠁧󠁢󠁳󠁣󠁴󠁿|🇦🇺| Pronouns: She/Her.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1186,
+        "friends_count": 1207,
+        "listed_count": 2,
+        "created_at": "Sat Sep 19 07:51:06 +0000 2015",
+        "favourites_count": 86260,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35921,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053779298467770368/hg77RTIq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053779298467770368/hg77RTIq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 68,
+      "favorite_count": 289,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1238278390290890754": {
+    "created_at": "Fri Mar 13 01:39:09 +0000 2020",
+    "id": 1238278390290890800,
+    "id_str": "1238278390290890754",
+    "full_text": "@CrypticGoblin Cis male transphobes see trans men like defectors to their own side. Aside from some weirdness factor, they don't care that trans men are in their spaces, if they even know trans men exist. Male by default, you know, \"why wouldn't a woman want to be a man.\"",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238277967635042300,
+    "in_reply_to_status_id_str": "1238277967635042304",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238277967635042304": {
+    "created_at": "Fri Mar 13 01:37:28 +0000 2020",
+    "id": 1238277967635042300,
+    "id_str": "1238277967635042304",
+    "full_text": "@CrypticGoblin Red Fem Lesbians view trans men as \"sex traitors\", women who went to the other side, so they cast them out of wlw spaces. They kicked bi-women out for the same reason, so they don't actually care about trans men's existence.",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      239
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238277330809712600,
+    "in_reply_to_status_id_str": "1238277330809712641",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238275070369263616": {
+    "created_at": "Fri Mar 13 01:25:57 +0000 2020",
+    "id": 1238275070369263600,
+    "id_str": "1238275070369263616",
+    "full_text": "@CrypticGoblin In their world view, trans women are adding to that pool, and since many (not all) of us are more feminine than they are, that makes us prime competitors. Especially since we can not breed. In their world view, we're just \"taking\" men from them. (Never mind 2/3 of us are sapphic)",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      295
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238274534223962000,
+    "in_reply_to_status_id_str": "1238274534223962113",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238278859205652480": {
+    "created_at": "Fri Mar 13 01:41:00 +0000 2020",
+    "id": 1238278859205652500,
+    "id_str": "1238278859205652480",
+    "full_text": "@CrypticGoblin Ok, I think I'm done. I wish twitter let me do threaded replies, but I get why they don't.",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      105
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238278390290890800,
+    "in_reply_to_status_id_str": "1238278390290890754",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238274534223962113": {
+    "created_at": "Fri Mar 13 01:23:49 +0000 2020",
+    "id": 1238274534223962000,
+    "id_str": "1238274534223962113",
+    "full_text": "@CrypticGoblin In the case of many women it comes from patriarchal trauma. They have been raised to believe that other women are their competition, and as such they are motivated to reduce their peer pool by invalidating as many women as possible. Put down the competition to lift themselves up.",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      295
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238267239985381400,
+    "in_reply_to_status_id_str": "1238267239985381376",
+    "in_reply_to_user_id": 1576701751,
+    "in_reply_to_user_id_str": "1576701751",
+    "in_reply_to_screen_name": "CrypticGoblin",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238267239985381376": {
+    "created_at": "Fri Mar 13 00:54:50 +0000 2020",
+    "id": 1238267239985381400,
+    "id_str": "1238267239985381376",
+    "full_text": "What is it about trans people that drives people into an obsessive rage? What happened to these people, TERFs in particular, that makes them so invested in our lives?",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      166
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1576701751,
+      "id_str": "1576701751",
+      "name": "Dana, goblin princess",
+      "screen_name": "CrypticGoblin",
+      "location": "",
+      "description": "🔞 she/they for friends; she/her for cis people and babies that cry about pronouns in bio Partners: @DevourerRose @crazylittlebee1 @tamzinblake",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1752,
+      "friends_count": 1816,
+      "listed_count": 1,
+      "created_at": "Mon Jul 08 03:55:38 +0000 2013",
+      "favourites_count": 69610,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 11357,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180968591945977856/1vRehKPo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180968591945977856/1vRehKPo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576701751/1584426198",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 46,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238277330809712641": {
+    "created_at": "Fri Mar 13 01:34:56 +0000 2020",
+    "id": 1238277330809712600,
+    "id_str": "1238277330809712641",
+    "full_text": "@CrypticGoblin The reason I'm focusing on trans women here is because, by comparison, trans men largely get ignored. Transphobic women see trans men as \"super lesbians\", and thus actually reducing their competition. They're ok with that.",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      237
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238276296666300400,
+    "in_reply_to_status_id_str": "1238276296666300416",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238276090801487872": {
+    "created_at": "Fri Mar 13 01:30:00 +0000 2020",
+    "id": 1238276090801488000,
+    "id_str": "1238276090801487872",
+    "full_text": "@CrypticGoblin As for men... well that's just good old misogyny and toxic masculinity. Trans women are a category of women that is socially acceptable to be sexist towards. Then there's the stigma that we're out here just trying to \"trick\" men (again, 2/3, wtf).",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      262
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238275264771022800,
+    "in_reply_to_status_id_str": "1238275264771022848",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1238276296666300416": {
+    "created_at": "Fri Mar 13 01:30:49 +0000 2020",
+    "id": 1238276296666300400,
+    "id_str": "1238276296666300416",
+    "full_text": "@CrypticGoblin Plus, straight men have been conditioned to think that 1) homosexuality is harmful to their masculinity, and 2) trans women are men, so 3) being attracted to trans women is gay, ergo 4) we are a threat.",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      217
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrypticGoblin",
+          "name": "Dana, goblin princess",
+          "id": 1576701751,
+          "id_str": "1576701751",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1238276090801488000,
+    "in_reply_to_status_id_str": "1238276090801487872",
+    "in_reply_to_user_id": 820322649456844800,
+    "in_reply_to_user_id_str": "820322649456844800",
+    "in_reply_to_screen_name": "TwippingVanilla",
+    "user": {
+      "id": 820322649456844800,
+      "id_str": "820322649456844800",
+      "name": "𝓙𝓸𝓬𝓮𝓵𝔂𝓷",
+      "screen_name": "TwippingVanilla",
+      "location": "San Diego, CA",
+      "description": "AKA @CurvyAndTrans. Annihilating nature, one chromosome at a time. 🏳️‍🌈👰🚺🤱🏻👩‍👩‍👧‍👦♀⚧ ⚢ Techie tweets @TwippedTech. Avatar by @Kiwiboncafe",
+      "url": "https://t.co/wQ7PJKfWxp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wQ7PJKfWxp",
+              "expanded_url": "http://genderdysphoria.fyi",
+              "display_url": "genderdysphoria.fyi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 494,
+      "listed_count": 4,
+      "created_at": "Sat Jan 14 17:32:15 +0000 2017",
+      "favourites_count": 26041,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951596282061008896/YkOLvE0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820322649456844800/1499228480",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
   }
 }
