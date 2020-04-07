@@ -23,7 +23,7 @@ const plugins = [
   babel({
     exclude: 'node_modules/**',
   }),
-  nodeResolve(),
+  nodeResolve({
     extensions: [ '.mjs', '.js', '.jsx', '.json' ],
   }),
   commonjs({
