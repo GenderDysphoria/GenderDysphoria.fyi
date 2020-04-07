@@ -1,13 +1,13 @@
 
 const path = require('path');
-const { pick } = require('lodash');
+const { pick, each } = require('lodash');
 const actions = require('./actions');
 const File = require('./file');
 const { TYPE } = require('./resolve');
 const getImageDimensions = require('./lib/dimensions');
 const getVideoDimensions = require('get-video-dimensions');
 
-const RESOLUTIONS = [ 2048, 1024, 768, 576, 300, 100 ];
+const WIDTHS = [ 2048, 1024, 768, 576, 300, 100 ];
 
 module.exports = exports = class Asset extends File {
 
@@ -25,6 +25,7 @@ module.exports = exports = class Asset extends File {
     case TYPE.VIDEO: return this.loadVideo();
     case TYPE.IMAGE: return this.loadImage();
     default:
+      return this.loadOther();
     }
   }
 
@@ -49,36 +50,53 @@ module.exports = exports = class Asset extends File {
       orientation,
     };
 
+    this.sizes = [ {
+      url: this.url,
+      width,
+      height,
+    } ];
+
     if (this.preprocessed) {
-      this.sizes = [ {
+      this._tasks = [ {
         output: this.out,
-        url: this.url,
+        input: this.input,
+        action: actions.copy,
+        nocache: true,
+      } ];
+      return;
+    }
+
+    this._tasks = [
+      {
+        output: this.out,
+        input: this.input,
         width,
         height,
-      } ];
-    } else {
-      this.sizes = [
-        {
-          output: this.out,
-          url: this.url,
-          width,
-          height,
-        },
-      ];
+        format: 'jpeg',
+        action: actions.image,
+      },
+    ];
 
-      for (const w of RESOLUTIONS) {
-        if (w > width) continue;
-        const name = `${this.name}.${w}w${this.ext}`;
-        this.sizes.push({
-          output: path.join(this.base, name),
-          url:    path.join(this.dir,  name),
-          width: w,
-          height: Math.ceil((w / width) * height),
-        });
-      }
-
-      this.sizes.reverse();
+    for (const w of WIDTHS) {
+      if (w > width) continue;
+      const name = `${this.name}.${w}w${this.ext}`;
+      this.sizes.push({
+        url:    path.join(this.dir,  name),
+        width:  w,
+        height: Math.ceil((w / width) * height),
+      });
+      this._tasks.push({
+        output: path.join(this.base, name),
+        input: this.input,
+        width: w,
+        format: 'jpeg',
+        fill: 'contain',
+        quality: 85,
+        action: actions.image,
+      });
     }
+
+    this.sizes.reverse();
 
     return this;
   }
@@ -104,11 +122,19 @@ module.exports = exports = class Asset extends File {
     };
 
     this.sizes = [ {
-      output: path.join(this.base, this.basename),
       url:    path.join(this.dir,  this.basename),
       width,
       height,
     } ];
+
+    this._tasks = [
+      {
+        output: this.out,
+        input: this.input,
+        action: actions.copy,
+        nocache: true,
+      },
+    ];
 
     return this;
   }
@@ -124,13 +150,7 @@ module.exports = exports = class Asset extends File {
   }
 
   tasks () {
-    return this.sizes.map(({ output, width }) => ({
-      input: this.input,
-      output,
-      format: this.preprocessed ? undefined : this.ext.slice(1),
-      width:  this.preprocessed ? undefined : width,
-      action: this.preprocessed ? actions.copy : actions.image,
-    }));
+    return this._tasks;
   }
 
 };
