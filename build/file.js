@@ -28,7 +28,7 @@ module.exports = exports = class File {
     this.cwd      = file.dir;
     this.ext      = this.preprocessed ? file.ext : normalizedExt(file.ext);
     this.name     = file.name;                        // index, fileA, fileB
-    this.basename = file.base;               // index.ext, fileA.ext, fileB.ext
+    this.basename = this.name + this.ext;               // index.ext, fileA.ext, fileB.ext
 
     const dir = this._dir(file.dir);
     if (dir) {
