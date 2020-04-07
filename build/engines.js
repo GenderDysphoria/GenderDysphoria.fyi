@@ -10,8 +10,7 @@ const Handlebars = require('handlebars');
 const HandlebarsKit = require('hbs-kit');
 HandlebarsKit.load(Handlebars);
 
-const slugs = require('slugify');
-const slugify = (s) => slugs(s, { remove: /[*+~.,()'"!?:@/\\]/g }).toLowerCase();
+const slugify = require('./lib/slugify');
 const striptags = require('string-strip-html');
 
 const markdownIt = require('markdown-it');

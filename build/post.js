@@ -3,8 +3,7 @@ const path = require('path');
 const { without } = require('lodash');
 const { resolve, isCleanUrl, TYPE, ENGINE } = require('./resolve');
 const Page = require('./page');
-const slugs = require('slugify');
-const slugify = (s) => slugs(s, { remove: /[*+~.,()'"!?:@/\\]/g }).toLowerCase();
+const slugify = require('./lib/slugify');
 const pkg  = require(resolve('package.json'));
 
 const postmatch = /(\d{4}-\d\d-\d\d)\.\d{4}\.(\w+)/;
