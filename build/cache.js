@@ -47,7 +47,10 @@ module.exports = exports = class Manifest {
   }
 
   hash ({ action, input, output, ...task }) {
-    if (!isFunction(action)) throw new Error('Task action is not a task action (function).');
+    if (!isFunction(action)) {
+      console.error({ action, input, output });
+      throw new Error('Task action is not a task action (function).');
+    }
 
     const name = action.name;
     const hash = [
@@ -57,9 +60,9 @@ module.exports = exports = class Manifest {
     ];
 
     // if this is an image operation, include the format and width in the hash
-    if (name === 'image') hash.splice(1, 0, [ task.width, task.format ]);
+    if (name === 'image') hash.splice(1, 0, task.width, task.format);
 
-    return hash.join('.');
+    return hash.filter(Boolean).join('.');
   }
 
   has (task) {
@@ -103,7 +106,7 @@ module.exports = exports = class Manifest {
     if (!local && !cTime) {
       // This is a remote file and we don't have a cached copy, run it
       return result;
-    } else if (local && !iTime) {
+    } else if (local && !result.iTime) {
       // we've never seen this file before, build new
       return result;
     }
