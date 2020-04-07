@@ -119,16 +119,20 @@ module.exports = exports = class Page extends File {
       res[camelCased] = true;
       return res;
     }, {});
-
   }
 
   tasks () {
-    if (!isObject(this.tweets)) return [];
-
-    return Object.values(this.tweets)
-      .map((t) => t.media)
-      .flat()
-      .map((m) => ({ ...m, action: actions.fetch, output: m.output }));
+    const tasks = [];
+    if (isObject(this.tweets)) {
+      tasks.push(...(
+        Object.values(this.tweets)
+          .map((t) => t.media)
+          .flat()
+          .map((m) => ({ ...m, action: actions.fetch, output: m.output }))
+      ));
+    }
+    if (this._tasks) tasks.push(...this._tasks);
+    return tasks;
   }
 
 };
