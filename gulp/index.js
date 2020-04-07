@@ -7,6 +7,8 @@ var build = require('../build');
 
 const devBuildTask  = build.everything();
 const prodBuildTask = build.everything(true);
+const pagesTask = build.pages();
+exports.pages = () => pagesTask();
 
 const scss    = exports.scss    = build.task('scss');
 const favicon = exports.favicon = build.task('favicon');
@@ -41,10 +43,10 @@ exports.testpush = pushToProd.dryrun;
 function watcher () {
 
   watch([
-    'public/**/*',
-    'posts/**/*',
+    'public/**/*.{md,hbs,html}',
+    'posts/**/*.{md,hbs,html}',
     'templates/*.{md,hbs,html}',
-  ], devBuildTask);
+  ], pagesTask);
 
   watch([
     'scss/*.scss',

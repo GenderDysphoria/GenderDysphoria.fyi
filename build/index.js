@@ -82,6 +82,37 @@ exports.everything = function (prod = false) {
   return fn;
 };
 
+exports.posts = function () {
+  async function fn () {
+    const prod = false;
+    // load a directory scan of the public and post folders
+    const [ PublicFiles, PostFiles ] = await Promise.all([
+      loadPublicFiles(),
+      loadPostFiles(),
+    ]);
+
+    // load data for all the files in that folder
+    await Promise.map(PublicFiles.assets, (p) => p.load());
+    await Promise.map(PublicFiles.pages, (p) => p.load(PublicFiles));
+
+    await Promise.map(PostFiles.assets, (p) => p.load());
+    await Promise.map(PostFiles.pages, (p) => p.load(PostFiles));
+
+    // prime tweet data for all pages
+    const pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
+
+    let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));
+    posts = sortBy(posts, 'date');
+    posts.reverse();
+
+    const engines = await getEngines(prod);
+    const postIndex = await pageWriter(prod, engines, pages, posts);
+    await fs.writeFile(resolve('dist/tweets/index.json'), prod ? JSON.stringify(postIndex) : JSON.stringify(postIndex, null, 2));
+  }
+
+  fn.displayName = 'buildPages';
+  return fn;
+};
 
 exports.task = function (action, prod = false) {
   const fn = async () => {
