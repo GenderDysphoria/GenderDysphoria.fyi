@@ -94,7 +94,7 @@ module.exports = exports = class Page extends File {
     }
 
     this.source = body;
-    this.meta = meta;
+    this.meta = meta || {};
     this.dateCreated = meta.date && new Date(meta.date) || ctime;
     this.dateModified = mtime;
 
@@ -104,13 +104,13 @@ module.exports = exports = class Page extends File {
   }
 
   _parse (PublicFiles) {
-    const { titlecard, webready } = PublicFiles.for(this.dir);
+    const { titlecard, webready } = this.files = PublicFiles.for(this.dir);
     this.ignore = this.meta.ignore;
     this.draft = this.meta.draft;
     this.siblings = this.meta.siblings;
     this.images = webready;
     this.titlecard = titlecard;
-    if (this.meta.tweets && isString(this.meta.tweets)) this.meta.tweets = this.meta.tweets.split(/\s/);
+    if (this.meta.tweets && isString(this.meta.tweets)) this.meta.tweets = this.meta.tweets.split(/\s/).filter(Boolean);
     this.tweets = (this.meta.tweets || []).map(parseTweetId);
 
     this.classes = Array.from(new Set(this.meta.classes || []));
