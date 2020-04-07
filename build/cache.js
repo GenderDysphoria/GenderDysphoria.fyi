@@ -239,6 +239,8 @@ module.exports = exports = class Manifest {
       revManifest && fs.writeFile(resolve(REV_MANIFEST), JSON.stringify(revManifest, null, 2)),
       this.writeManifest(true),
     ]);
+
+    return { revManifest: revManifest || {}, manifest: this.manifest };
   }
 
 };

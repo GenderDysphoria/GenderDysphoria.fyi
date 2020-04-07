@@ -42,9 +42,11 @@ exports.everything = function (prod = false) {
 
 
     // prime tweet data for all pages
-    const pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
+    let pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
+    pages = pages.filter(Boolean);
 
     let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));
+    posts = posts.filter(Boolean);
     posts = sortBy(posts, 'date');
     posts.reverse();
 
@@ -68,10 +70,11 @@ exports.everything = function (prod = false) {
     const cache = new Cache({ prod });
     await cache.load();
     await evaluate(tasks.flat(), cache);
-    await cache.save();
+    const { revManifest } = await cache.save();
 
     const engines = await getEngines(prod);
-    const postIndex = await pageWriter(engines, pages, posts, prod);
+    const postIndex = await pageWriter(prod, engines, pages, posts);
+    postIndex.rev = revManifest;
     await fs.writeFile(resolve('dist/tweets/index.json'), prod ? JSON.stringify(postIndex) : JSON.stringify(postIndex, null, 2));
   }
 
