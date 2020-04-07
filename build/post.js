@@ -6,7 +6,7 @@ const Page = require('./page');
 const slugify = require('./lib/slugify');
 const pkg  = require(resolve('package.json'));
 
-const postmatch = /(\d{4}-\d\d-\d\d)\.\d{4}\.(\w+)/;
+const POSTMATCH = /(\d{4}-\d\d-\d\d)\.\d{4}\.(\w+)/;
 
 function arrayify (input) {
   if (!input) return [];
@@ -28,21 +28,21 @@ module.exports = exports = class Post extends Page {
   }
 
   _dir (dir) {
-    // if the file name matches the postmatch pattern, then this needs to be /p/ file
-    const match = this.name.match(postmatch);
+    // if the file name matches the POSTMATCH pattern, then this needs to be /p/ file
+    const match = this.name.match(POSTMATCH);
 
     if (match) {
       return [ 'tweets', match[2] ];
     }
 
-    dir = dir.replace(postmatch, '$2').split('/');
+    dir = dir.replace(POSTMATCH, '$2').split('/');
     dir = without(dir, 'posts', '_images');
     dir.unshift('tweets');
     return dir;
   }
 
   _out () {
-    var isIndexPage = (this.name === 'index' || this.name.match(postmatch));
+    var isIndexPage = (this.name === 'index' || this.name.match(POSTMATCH));
     var isClean = isCleanUrl(this.ext);
 
     if (isClean && isIndexPage) {
