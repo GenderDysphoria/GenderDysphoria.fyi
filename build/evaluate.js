@@ -57,6 +57,6 @@ module.exports = exports = async function process (tasks, cache) {
       await fs.writeFile(resolve('dist', status.revPath), result);
     }
 
-  }, { concurrency: 1 });
+  }, { concurrency: 20 });
 
 };
