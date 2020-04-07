@@ -24,6 +24,8 @@ const plugins = [
     exclude: 'node_modules/**',
   }),
   nodeResolve(),
+    extensions: [ '.mjs', '.js', '.jsx', '.json' ],
+  }),
   commonjs({
     include: 'node_modules/**',
   }),
