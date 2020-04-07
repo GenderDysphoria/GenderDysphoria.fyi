@@ -8,6 +8,7 @@ const actions = require('./actions');
 const { URL } = require('url');
 const { resolve, readFile, isCleanUrl, TYPE, ENGINE } = require('./resolve');
 const { isObject, isString } = require('./lib/util');
+const { parseTweetId } = require('./page-tweets');
 
 const pkg  = require(resolve('package.json'));
 const frontmatter = require('front-matter');
@@ -131,17 +132,3 @@ module.exports = exports = class Page extends File {
   }
 
 };
-
-/* Utility Functions **************************************************/
-
-const tweeturl = /https?:\/\/twitter\.com\/(?:#!\/)?(?:\w+)\/status(?:es)?\/(\d+)/i;
-const tweetidcheck = /^\d+$/;
-function parseTweetId (tweetid) {
-  // we can't trust an id that isn't a string
-  if (typeof tweetid !== 'string') return false;
-
-  const match = tweetid.match(tweeturl);
-  if (match) return match[1];
-  if (tweetid.match(tweetidcheck)) return tweetid;
-  return false;
-}

@@ -107,3 +107,32 @@ function getTwitterClient (config) {
     .get('statuses/lookup', { id: tweetids.join(','), tweet_mode: 'extended' })
     .catch((e) => { log.error(e); return []; });
 }
+
+const tweeturl = /https?:\/\/twitter\.com\/(?:#!\/)?(?:\w+)\/status(?:es)?\/(\d+)/i;
+const tweetidcheck = /^\d+$/;
+function parseTweetId (tweetid) {
+  // we can't trust an id that isn't a string
+  if (typeof tweetid !== 'string') return false;
+
+  const match = tweetid.match(tweeturl);
+  if (match) return match[1];
+  if (tweetid.match(tweetidcheck)) return tweetid;
+  return false;
+}
+
+exports.parseTweetId = parseTweetId;
+
+exports.attachTweets = function (tweetids, tweets) {
+  function attachTweet (dict, tweetid) {
+    const tweet = tweets[tweetid];
+    if (!tweet) return;
+    dict[tweetid] = tweet;
+
+    if (tweet.quoted_status_id_str) attachTweet(dict, tweet.quoted_status_id_str);
+  }
+
+  return tweetids.reduce((dict, tweetid) => {
+    attachTweet(dict, tweetid);
+    return dict;
+  }, {});
+};
