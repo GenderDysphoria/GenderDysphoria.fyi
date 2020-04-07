@@ -25,7 +25,7 @@ module.exports = exports = class Files {
       find(assets, { name: 'titlecard', dir: this.base }),
     );
 
-    this._getWebReady = memoize(() => assets && keyBy(assets.map((a) => a.webready()), 'name'));
+    this._getWebReady = memoize(() => assets && keyBy(assets.map((a) => a.webready), 'name'));
 
     this.for = memoize(this.for);
   }
@@ -63,8 +63,10 @@ module.exports = exports = class Files {
 
   _parsePath (filepath) {
     if (typeof filepath === 'object') return filepath;
+    if (filepath.includes('#')) return false;
     const k = kind(filepath);
     const F = this.KIND_MAP[k];
+    if (!F) return false;
     const f = new F(filepath);
     if (f.kind === KIND.PAGE && f.preprocessed) return false;
     return f;

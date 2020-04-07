@@ -113,11 +113,12 @@ module.exports = exports = class Asset extends File {
     return this;
   }
 
-  webready () {
-    const { type, name, sizes } = this;
+  get webready () {
+    const { type, name, url, sizes } = this;
     return {
       type,
       name,
+      url,
       sizes: sizes.map((s) => pick(s, [ 'url', 'width', 'height' ])),
     };
   }
