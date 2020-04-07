@@ -19,7 +19,7 @@ module.exports = exports = async function newPost () {
   }
 
   // console.log(date);return;
-  var id = random.id(6).toUpperCase();
+  var id = random.id(10).toUpperCase();
   var fname = format(date, 'yyyy-MM-dd.HHmm.') + id;
 
   var target = resolve('posts', fname);
@@ -29,7 +29,7 @@ module.exports = exports = async function newPost () {
     target += '.md';
   } else {
     await fs.ensureDir(target);
-    target += path.join(target, 'index.md');
+    target = path.join(target, 'index.md');
   }
 
   await fs.writeFile(target, contents);
