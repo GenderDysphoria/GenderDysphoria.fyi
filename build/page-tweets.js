@@ -19,9 +19,10 @@ module.exports = exports = async function tweets (pages) {
   const tweetsPresent = Object.keys(twitterCache);
 
   for (const page of pages) {
-    if (!page.tweets || !page.tweets.length) continue;
+    const tweetids = [ ...page.tweets ];
+    if (!tweetids.length) continue;
 
-    const missing = difference(page.tweets, tweetsPresent);
+    const missing = difference(uniq(tweetids), tweetsPresent);
     tweetsNeeded.push(...missing);
   }
 
@@ -81,9 +82,10 @@ module.exports = exports = async function tweets (pages) {
 
   // now loop through pages and substitute the tweet data for the ids
   for (const page of pages) {
-    if (!page.tweets || !page.tweets.length) continue;
+    const tweetids = [ ...page.tweets ];
+    if (!tweetids.length) continue;
 
-    page.tweets = page.tweets.reduce((dict, tweetid) => {
+    page.tweets = tweetids.reduce((dict, tweetid) => {
       attachTweet(dict, tweetid);
       return dict;
     }, {});
