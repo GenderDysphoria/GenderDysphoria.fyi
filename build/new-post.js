@@ -19,7 +19,7 @@ module.exports = exports = async function newPost () {
   }
 
   // console.log(date);return;
-  var id = random.id().substr(-10).toUpperCase();
+  var id = random.id(6).toUpperCase();
   var fname = format(date, 'yyyy-MM-dd.HHmm.') + id;
 
   var target = resolve('posts', fname);
