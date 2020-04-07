@@ -2,12 +2,19 @@ const path = require('path');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
 const { map, uniq } = require('lodash');
-const { resolve, ROOT } = require('./resolve');
+const { resolve, ROOT, TYPE } = require('./resolve');
 const { siteInfo }  = require(resolve('package.json'));
-const log = require('fancy-log');
+const { minify } = require('html-minifier-terser');
 
+const MINIFY_CONFIG = {
+  conservativeCollapse: true,
+  collapseWhitespace: true,
+  minifyCSS: true,
+  removeComments: true,
+  removeRedundantAttributes: true,
+};
 
-module.exports = exports = async function writePageContent (engines, pages, posts, prod) {
+module.exports = exports = async function writePageContent (prod, engines, pages, posts) {
   const postIndex = index(posts, engines);
   await processPages(engines, [ ...posts, ...pages ], postIndex, prod);
   postIndex.latest = { ...pageJSON(postIndex.latest), content: postIndex.latest.content };
@@ -20,7 +27,14 @@ function index (posts, engines) {
   siblings(posts);
 
   // fill in post content
-  posts.forEach((p) => { p.content = engines[p.type](p.source, pageState(p)); });
+  posts.forEach((p) => {
+    if (p.type === TYPE.MARKDOWN) {
+      p.preview = engines.preview(p.source, pageState(p));
+      p.classes.push(p.preview.trim() ? 'has-preview' : 'no-preview');
+      p.flags[ p.preview.trim() ? 'has-preview' : 'no-preview' ] = true;
+    }
+    p.content = engines[p.type](p.source, pageState(p));
+  });
 
   const reducedPosts = posts.map(pageJSON);
 
@@ -88,7 +102,9 @@ function pageJSON (post) {
     title: post.meta.title,
     subtitle: post.meta.subtitle,
     description: post.meta.description,
+    preview: post.preview,
     date: post.dateCreated,
+    modified: post.dateModified,
     titlecard: post.titlecard,
     tags: post.meta.tags,
     author: post.meta.author,
@@ -97,15 +113,25 @@ function pageJSON (post) {
 }
 
 function processPages (engines, pages, posts, prod) {
+  const shrink = (input) => (prod ? minify(input, MINIFY_CONFIG) : input);
+
   return Promise.map(pages, async (page) => {
 
-    const state = pageState(page, posts);
+    const state = pageState(page.toJson(), posts);
     const json = pageJSON(page);
 
     try {
       var html = String(engines[page.engine](page.source, state));
     } catch (e) {
-      throw new Error(`Error while processing page "${page.input}": ${e.message}`);
+      e.message = `Error while processing page "${page.input}": ${e.message}`;
+      throw e;
+    }
+
+    try {
+      html = shrink(html);
+    } catch (e) {
+      e.message = `Error while minifying page "${page.input}": ${e.message.slice(0, 50)}`;
+      throw e;
     }
 
     json.content = page.content;

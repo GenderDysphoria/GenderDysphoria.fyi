@@ -3,7 +3,6 @@ const path = require('path');
 
 const fs = require('fs-extra');
 const log = require('fancy-log');
-const { minify } = require('html-minifier-terser');
 const { resolve, readFile, ENGINE, TYPE } = require('./resolve');
 
 const Handlebars = require('handlebars');
@@ -41,24 +40,27 @@ const markdownEngines = {
 };
 
 function markdown (mode, input, env) {
-  input = input.replace(/\{!\{([\s\S]*?)\}!\}/mg, (match, contents) => {
-    try {
-      const result = Handlebars.compile(contents)(env);
-      return 'æææ' + result + 'æææ';
-    } catch (e) {
-      log.error(e);
-      return '';
-    }
-  });
 
   if (mode === 'preview') {
     input = striptags(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
-      .replace(/æææ[\s\S]*?æææ/gi, ''),
+      .replace(/æææ[\s\S]*?æææ/gi, '')
+      .replace(/\{!\{([\s\S]*?)\}!\}/mg, ''),
     ).trim();
     if (input.length > 1000) input = input.slice(0, 1000) + '…';
-    input = input ? markdownEngines[mode].render(input) : '';
+
   } else {
+
+    input = input.replace(/\{!\{([\s\S]*?)\}!\}/mg, (match, contents) => {
+      try {
+        const result = Handlebars.compile(contents)(env);
+        return 'æææ' + result + 'æææ';
+      } catch (e) {
+        log.error(e);
+        return '';
+      }
+    });
+
     input = input.replace(/<!--[[\]]-->/g, '');
   }
 
@@ -87,16 +89,9 @@ function stripIndent (input) {
   return input;
 }
 
-const MINIFY_CONFIG = {
-  conservativeCollapse: true,
-  collapseWhitespace: true,
-  minifyCSS: true,
-  removeComments: true,
-  removeRedundantAttributes: true,
-};
-
 const HANDLEBARS_PARTIALS = {
   layout:    'templates/layout.hbs',
+  list:      'templates/list.hbs',
   page:      'templates/page.hbs',
   post:      'templates/post.hbs',
 };
@@ -123,16 +118,15 @@ module.exports = exports = async function (prod) {
   Handlebars.registerHelper('prod', helpers.production());
   Handlebars.registerHelper('rev', helpers.rev());
 
-  const shrink = (input) => (prod ? minify(input, MINIFY_CONFIG) : input);
-
   const result = {
     [TYPE.HANDLEBARS]: handlebars,
     [TYPE.MARKDOWN]:   (source, env) => markdown('full', source, env),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.PAGE]:     (source, env) => shrink(templates.page({ ...env, contents: markdown('full', source, env) })),
-    [ENGINE.POST]:     (source, env) => shrink(templates.post({ ...env, contents: markdown('full', source, env) })),
-    [ENGINE.HTML]:     (source) => shrink(source),
+    [ENGINE.LIST]:     (source, env) => templates.list({ ...env, contents: markdown('full', source, env) }),
+    [ENGINE.PAGE]:     (source, env) => templates.page({ ...env, contents: markdown('full', source, env) }),
+    [ENGINE.POST]:     (source, env) => templates.post({ ...env, contents: markdown('full', source, env) }),
+    [ENGINE.HTML]:     (source) => source,
     [ENGINE.OTHER]:    (source) => source,
 
     preview: (source, env) => markdown('preview', source, env),
@@ -221,14 +215,16 @@ class Injectables {
     const self = this;
     return function (tpath, ...args) {
       const { hash, data } = args.pop();
-      const value = args.shift();
-      const context = Handlebars.createFrame(value || data.root);
-      Object.assign(context, hash || {});
+      const value = args.shift() || this;
+      const frame = Handlebars.createFrame(data);
+      const context = (typeof value === 'object')
+        ? { ...value, ...(hash || {}), _parent: this }
+        : value;
 
       tpath = self._parsePath(tpath, data.root.local, 'hbs');
 
       try {
-        const contents = self._template(tpath, Handlebars.compile)(context);
+        const contents = self._template(tpath, Handlebars.compile)(context, { data: frame });
         return new Handlebars.SafeString(contents);
       } catch (e) {
         log.error('Could not execute import template ' + tpath, e);
