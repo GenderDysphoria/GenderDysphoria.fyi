@@ -1,14 +1,14 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Euphoria"
-description: "In order for there to be shadow there must be light."
-preBody: '_disclaimer'
-siblings:
-  prev: /gdb/es/history
-  prevCaption: The History of Gender Dysphoria
-  next: /gdb/es/physical-dysphoria
-  nextCaption: Physical Dysphoria
-classes:
+fecha: "2020-01-26T20:41:55.827Z"
+título: "Cómo se manifiesta la Disforia de Género: Euforia"
+descripción: "Para que haya sombras, debe de haber luz."
+Cuerpo previo: '_declaración'
+hermanos:
+  prev: /gdb/es/historia
+  prevCaption: Historia de la Disforia de Género
+  next: /gdb/es/disforia-física
+  nextCaption: Disforia Física
+clases:
   - gdb
 tweets:
   - '1215716433210105856'
@@ -21,8 +21,8 @@ tweets:
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Eu·pho·ri·a</strong> - <em>Noun</em><br>
-  A feeling or state of intense excitement and happiness. Elation, joy, glee.
+  <strong>Eu·fo·ria</strong> - <em>Sustantivo</em><br>
+  Un sentimiento o estado de intensa emoción y felicidad. Júbilo, alegría, optimismo.
 </blockquote></div>
 }!}
 
