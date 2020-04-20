@@ -1,13 +1,13 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "The Gender Dysphoria Bible"
-description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
-preBody: '_disclaimer'
-classes:
+fecha: "2020-01-26T20:41:55.827Z"
+título: "La Biblia de la Disforia de Género"
+descripción: "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero."
+Cuerpo previo: '_declaración'
+clases:
   - gdb
-siblings:
-  next: /gdb/what-is-gender
-  nextCaption: What is Gender?
+hermanos:
+  siguiente: /gdb/¿qué es el género?
+  próximaLínea: ¿Qué es el Género?
 ---
 
 
