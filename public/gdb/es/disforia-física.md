@@ -1,14 +1,14 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Physical Dysphoria"
-description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
-preBody: '_disclaimer'
-siblings:
-  prev: /gdb/es/euphoria
-  prevCaption: Gender Euphoria
-  next: /gdb/es/biochemical-dysphoria
-  nextCaption: Biochemical Dysphoria
-classes:
+fecha: "2020-01-26T20:41:55.827Z"
+título: "Cómo se manifiesta la Disforia de Género: Disforia Física"
+descripción: "La incomodidad corporal es solo una de las muchas formas en las que se manifiesta la Disforia de Género."
+Cuerpo previo: '_declaración'
+hermanos:
+  prev: /gdb/es/euforia
+  prevCaption: Euforia de Género
+  next: /gdb/es/disforia-bioquímica
+  nextCaption: Disforia Bioquímica
+clases:
   - gdb
 tweets:
   - '1220143004821938176'
