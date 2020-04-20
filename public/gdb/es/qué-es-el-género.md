@@ -1,14 +1,14 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "What is Gender?"
-description: "How do we define the concept of Gender, and how does it differ from Sex?"
-preBody: '_disclaimer'
-siblings:
+fecha: "2020-01-26T20:41:55.827Z"
+título: "¿Qué es el Género?"
+descripción: "¿Cómo definimos el concepto de Género, y como se diferencia del sexo?"
+Cuerpo previo: '_declaración'
+hermanos:
   prev: /gdb/es/
-  prevCaption: Introduction
-  next: /gdb/es/history
-  nextCaption: The History of Gender Dysphoria
-classes:
+  prevCaption: Introducción
+  next: /gdb/es/historia
+  nextCaption: La Historia de la Disforia de Género
+clases:
   - gdb
 tweets:
   - https://twitter.com/CognitiveSoc/status/1228717614630940672
@@ -19,8 +19,6 @@ tweets:
 {!{ <div class="gutter">{{import '~/tweet' ids=(array
   '1228717614630940672'
 ) tweets=meta.tweets className="hide-reply" }}</div> }!}
-
-If you trace the etymology of the word to its Latin roots, gender simply means "type". Historically the word was used in literature to refer to masculine, feminine and neutral nouns. In 1955 psychologist John Money proposed using the term to differentiate mental sex from physical sex, but he was not the first to do so.
 
 Si trazas la etimología de la palabra a sus raíces latinas, género simplemente significa “tipo”. Históricamente, la palabra fue utilizada en literatura para referirse a los sustantivos masculinos, femeninos y neutros. En 1955 el psicólogo John Money propuso usar el término para diferenciar al sexo mental del sexo físico, pero no fue el primero en hacerlo.
 
