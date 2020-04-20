@@ -1,15 +1,15 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "A Brief History of Gender Dysphoria"
-description: "The origins of Gender Dysphoria and the current meaning today."
-classes:
+fecha: "2020-01-26T20:41:55.827Z"
+título: "Una Breve Historia de la Disforia de Género"
+descripción: "Los orígenes de la Disforia de Género y su significado actual."
+clases:
   - gdb
-preBody: '_disclaimer'
-siblings:
-  prev: /gdb/es/what-is-gender
-  prevCaption: What Is Gender?
-  next: /gdb/es/euphoria
-  nextCaption: Gender Euphoria
+Cuerpo previo: '_declaración'
+hermanos:
+  prev: /gdb/es/qué-es-el-género
+  prevCaption: ¿Qué es el Género?
+  next: /gdb/es/euforia
+  nextCaption: Euforia de Género
 ---
 
 # Una Breve Historia de la Disforia de Género
