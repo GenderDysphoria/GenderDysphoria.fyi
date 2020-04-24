@@ -4,7 +4,7 @@ título: "¿Qué es el Género?"
 descripción: "¿Cómo definimos el concepto de Género, y como se diferencia del sexo?"
 Cuerpo previo: '_declaración'
 hermanos:
-  prev: /gdb/es/
+  prev: /gdb/es/introducción
   prevCaption: Introducción
   next: /gdb/es/historia
   nextCaption: La Historia de la Disforia de Género
