@@ -6,7 +6,7 @@ Cuerpo previo: '_declaración'
 clases:
   - gdb
 hermanos:
-  next: /gdb/¿qué es el género?
+  next: /gdb/es/¿qué es el género?
   nextCaption: ¿Qué es el Género?
 ---
 
