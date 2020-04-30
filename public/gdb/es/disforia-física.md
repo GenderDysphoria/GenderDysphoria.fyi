@@ -127,7 +127,7 @@ Puede sentirse como horror o repulsión al mirar o tocar los genitales externos,
 
 Se puede manifestar como una compulsión de deshacerse de ciertos rasgos corporales, como afeitarse el vello facial y corporal obsesivamente. Esto también se puede manifestar en la compulsión opuesta, llevando a un cuidado meticuloso de esos rasgos con el objetivo de intentar controlarlos, como mantener una barba perfecta, mantener persistentemente las uñas con manicura y pulidas, o pasar horas en el gimnasio intentando moldear la figura.
 
-Las características físicas indeseables pueden provocar que una persona experimente envidia de aquellas personas que han sido forzadas a remover esas características debido a enfermedades, tal como el cáncer testicular o de mama. Las personas AMAB (acrónimo en inglés de persona asignada del sexo masculino al nacer; assigend male at birth) con disforia genital severa, tienden a desear tener alguna clase de accidente que pudiera ocasionar la pérdida de su pene.
+Las características físicas indeseables pueden provocar que una persona experimente envidia de aquellas personas que han sido forzadas a remover esas características debido a enfermedades, tal como el cáncer testicular o de mama. Las personas AMAN (persona asignada masculino al nacer) con disforia genital severa, tienden a desear tener alguna clase de accidente que pudiera ocasionar la pérdida de su pene.
 
 Algunas veces puede simplemente ser un sentimiento de estar mal, que ni siquiera puede atribuirse al género o sexo. Durante la mayor parte de mi vida creía que la razón de que odiara mi cuerpo era por ser gorda. No fue hasta que empecé mi transición que me di cuenta de que no odio mi grasa en lo absoluto, odiaba tener grasa masculina. Las curvas femeninas que la TRH me dio me hizo sentir en mucha más sintonía con mi cuerpo.
 
@@ -146,7 +146,7 @@ Está bien si no odias nada sobre tu cuerpo y solo deseas lucir más femenina o 
 
 Está bien si no necesitas una transición médica en lo absoluto. Los sentimientos sobre el cuerpo no son el fin último de una transición.
 
-**Tener disforia física total no es un requerimiento para ser transgénero. AFABs no tienen que odiar su pecho, AMABs no tienen que odiar su pene. La experiencia de cada persona trans es diferente. Todas son válidas.**
+**Tener disforia física total no es un requerimiento para ser transgénero. AFAN's no tienen que odiar su pecho, AMAN's no tienen que odiar su pene. La experiencia de cada persona trans es diferente. Todas son válidas.**
 
 ### Problemas de Imagen Corporal Internalizados
 
