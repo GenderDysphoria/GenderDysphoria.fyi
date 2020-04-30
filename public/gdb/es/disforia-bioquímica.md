@@ -109,8 +109,8 @@ La intensidad de la disforia física y bioquímica está altamente influenciada 
 - Si tu glucosa en sangre está fuera de control, o tienes una condición tiroidea, podría causar que tu disforia se dispare.
 - Si estás experimentando síndrome de abstinencia al terminar de tomar estimulantes, puede empeorar.
 - Si empiezas a tomar Antidepresivos ISRS y tus niveles de serotonina aumentan, puede hacerse menos intensa
-- AMABs (personas asignadas masculinas al nacer) transfemeninas con testículos, experimentan aumentos repentinos de testosterona en relación con la atracción y el deseo, que pueden hacerlas sentir más disfóricas.
-- AFABs (personas asignadas femeninas al nacer) transmasculinos con ovarios no suprimidos, experimentan aumentos y caídas de estrógeno y progesterona en el curso de su ciclo menstrual, haciendo que su disforia empore o disminuya basado en el día del ciclo en que se encuentren.
+- AMAN's (asignados masculinos al nacer) transfemeninas con testículos, experimentan aumentos repentinos de testosterona en relación con la atracción y el deseo, que pueden hacerlas sentir más disfóricas.
+- AFAN's (asignadas femeninas al nacer) transmasculinos con ovarios no suprimidos, experimentan aumentos y caídas de estrógeno y progesterona en el curso de su ciclo menstrual, haciendo que su disforia empore o disminuya basado en el día del ciclo en que se encuentren.
 
 Hay docenas de sistemas en el cuerpo que funcionan en conjunto y fluctúan día a día, manipulando el estado mental general. Esta disforia generalizada puede afectar todas las otras formas de disforia. Un día puedes sacudirte la malgenerización como si no fuera nada, y al día siguiente te duele como una puñalada en el corazón. Un día puedes reconocerte en el espejo, y al siguiente estás mirando al anterior tú.
 
