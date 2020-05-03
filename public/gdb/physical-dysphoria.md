@@ -130,7 +130,7 @@ Sometimes it may just simply be a feeling of being incorrect, which you may not 
   '1184837108919230464'
 ) tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-The dysphoria one feels about their body can and will change over time, for better and worse. Many trans women today enter into transition feeling no disconnect with their genitals, for example, but later find that changes as the other more in your face sources melt away, stimulation differs, and their genitalia itself changes shape and function. Some may assume that they will absolutely need facial feminisation surgery, but then 2 years in realize they're actually ok with how they look. I used to be terribly sensitive about my widows peak, but now that my hair has grown in I find I'm completely ok with my hair line.
+The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminisation surgery, but then 2 years in to transition, realize they're actually ok with how they look.
 
 It's ok for you to realize you need more or less than when you started.
 
