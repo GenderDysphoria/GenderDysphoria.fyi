@@ -48,8 +48,6 @@ De forma singular, también pueden ser usados maliciosamente cuando un individuo
 
 TLo mismo aplica para los nombres. Ser llamado por su nombre asignado (deadname o “nombre muerto”) en lugar del nombre que eligieron, puede sentirse invalidante cuando se hace ignorantemente, y completamente desdeñoso cuando se hace intencionalmente.
 
-La disforia social se puede manifiestar, previo a la transición, en sentimientos de aislamiento o extravío cuando se interactúa con otrxs. Por ejemplo, una persona trans AMAN (asignada masculino al nacer), puede encontrarse muy incómoda cuando socializa en un grupo de hombres, como que simplemente no encaja. Puede sentirse profundamente heridx cuando las mujeres se intimidan por ellx en público, y frustrarse de que no es capaz de formar relaciones platónicas con mujeres debido a las expectativas heterosexuales.
-
 También puede manifestarse como alegría o pena al ser etiquetado en tu verdadero género mientras aún se está viviendo en el género asignado. Ejemplos:
 
 -	Una persona AMAB siendo etiquetadx como una chica, con la intención de insultarlx, pero le provoca sonrojarse en lugar de enojarse.
