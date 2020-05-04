@@ -3,7 +3,7 @@ fecha: "2020-01-26T20:41:55.827Z"
 title: "La Biblia de la Disforia de Género"
 description: "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero."
 preBody: '_declaracion'
-clases:
+classes:
   - gdb
 siblings:
   next: /gdb/es/qur-es-el-genero
@@ -12,7 +12,7 @@ siblings:
 
 
 {!{
-{{import '~/img' images.titlecard srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px" alt="The Gender Dysphoria Bible" style="margin-bottom: 1em;"}}
+{{import '~/img' images.titlecard srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px" alt="La Biblia de la Disforia de Género" style="margin-bottom: 1em;"}}
 <div class="gutter"><blockquote>
   <strong>Trans·ge·ne·ro</strong> - <em>adjetivo</em><br>
   Denota o se relaciona a una persona cuyo sentido personal de identidad y género no corresponde con el sexo asignado al nacer.
