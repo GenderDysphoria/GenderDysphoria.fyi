@@ -1,9 +1,9 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
-título: "Como se manifiesta la Disforia de Género: Disforia Societal"
-descripción: "Porque un rol es un rol, una carga es una carga, y es una pesada carga vivir en el rol equivocado."
-Cuerpo previo: '_declaración'
-hermanos:
+title: "Como se manifiesta la Disforia de Género: Disforia Societal"
+description: "Porque un rol es un rol, una carga es una carga, y es una pesada carga vivir en el rol equivocado."
+preBody: '_declaracion'
+siblings:
   prev: /gdb/es/disforia-social
   prevCaption: Disforia Social
   next: /gdb/es/disforia-sexual

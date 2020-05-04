@@ -1,10 +1,10 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
-título: "¿Qué es el Género?"
-descripción: "¿Cómo definimos el concepto de Género, y como se diferencia del sexo?"
-Cuerpo previo: '_declaración'
-hermanos:
-  prev: /gdb/es/introducción
+title: "¿Qué es el Género?"
+description: "¿Cómo definimos el concepto de Género, y como se diferencia del sexo?"
+preBody: '_declaracion'
+siblings:
+  prev: /gdb/es/introduccion
   prevCaption: Introducción
   next: /gdb/es/historia
   nextCaption: La Historia de la Disforia de Género

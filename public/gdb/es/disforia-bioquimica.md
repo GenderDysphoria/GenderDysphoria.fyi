@@ -1,8 +1,8 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
-título: "Cómo se manifiesta la Disforia de Género: Disforia Bioquímica"
-descripción: "Los muy reales factores biológicos de la Disforia de Género que causan perturbación mental."
-Cuerpo previo: '_declaración'
+title: "Cómo se manifiesta la Disforia de Género: Disforia Bioquímica"
+description: "Los muy reales factores biológicos de la Disforia de Género que causan perturbación mental."
+preBody: '_declaracion'
 clases:
   - gdb
 tweets:
@@ -17,7 +17,7 @@ tweets:
   - '1222742135067303937'
   - '1222743360034758656'
   - '1222743749920464896'
-hermanos:
+siblings:
   prev: /gdb/es/disforia-física
   prevCaption: Disforia Física
   next: /gdb/es/disforia-social
@@ -61,7 +61,7 @@ Si tus conexiones cerebrales esperan una hormona gonadal (tal como la testostero
 
 La **Despersonalización** es una desconexión de tu propio cuerpo, inhabilidad de creer que la persona que ves en el espejo eres realmente tú. Sientes que estás viendo a alguien más en tu cuerpo. Puedes sentir que no te importa lo que le pase a tu cuerpo, tener desinterés por cambios en tu peso o en mejorar tu condición física, porque no eres dueñx de ese vehículo carnoso que te transporta por tu vida.
 
-Zinnia Jones [da la mejor descripción de la Despersonalización](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
+Zinnia Jones [da la mejor description de la Despersonalización](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
 - Un sentimiento de desapego o alienación de tus propios pensamientos, sentimientos, o cuerpo: “Sé que tengo sentimientos, pero yo no los siento”
 - Sentirse divididx en dos partes, con una moviéndose y participando en el mundo, y la otra observando quietamente: “Está este cuerpo que camina y alguien que solo mira”

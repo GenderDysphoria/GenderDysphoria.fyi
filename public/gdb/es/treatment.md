@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Treating Gender Dysphoria"
 description: "Transition is the cure."
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /gdb/diagnoses
   prevCaption: Clinical Diagnoses

@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Managed Dysphoria: Gender in Disguise"
 description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /gdb/historical-dysphoria
   prevCaption: Historical Dysphoria

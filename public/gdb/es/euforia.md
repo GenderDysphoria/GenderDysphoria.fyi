@@ -1,12 +1,12 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
-título: "Cómo se manifiesta la Disforia de Género: Euforia"
-descripción: "Para que haya sombras, debe de haber luz."
-Cuerpo previo: '_declaración'
-hermanos:
+title: "Cómo se manifiesta la Disforia de Género: Euforia"
+description: "Para que haya sombras, debe de haber luz."
+preBody: '_declaracion'
+siblings:
   prev: /gdb/es/historia
   prevCaption: Historia de la Disforia de Género
-  next: /gdb/es/disforia-física
+  next: /gdb/es/disforia-fisica
   nextCaption: Disforia Física
 clases:
   - gdb

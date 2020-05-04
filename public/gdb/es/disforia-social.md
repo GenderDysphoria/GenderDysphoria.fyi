@@ -1,9 +1,9 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
-título: "Como se manifiesta la Disforia de Género: Disforia Social"
-descripción: "Pronombres y nombre muerto y generización, oh vaya."
-Cuerpo previo: '_declaración'
-hermanos:
+title: "Como se manifiesta la Disforia de Género: Disforia Social"
+description: "Pronombres y nombre muerto y generización, oh vaya."
+preBody: '_declaracion'
+siblings:
   prev: /gdb/es/disforia-bioquímica
   prevCaption: Disforia Bioquímica
   next: /gdb/es/disforia-societal

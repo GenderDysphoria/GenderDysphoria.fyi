@@ -7,7 +7,7 @@ siblings:
   prevCaption: Disorders of Sexual Development
 classes:
   - gdb
-preBody: '_disclaimer'
+preBody: '_declaracion'
 ---
 
 # Conclusion

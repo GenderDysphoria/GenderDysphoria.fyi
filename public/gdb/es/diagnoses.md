@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Diagnosing Gender Dysphoria"
 description: "It's clinical."
-preBody: '_disclaimer'
+preBody: '_declaracion'
 classes:
   - gdb
 siblings:

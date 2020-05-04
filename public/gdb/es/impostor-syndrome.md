@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Impostor Syndrome, but make it Trans"
 description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /gdb/managed-dysphoria
   prevCaption: Managed Dysphoria

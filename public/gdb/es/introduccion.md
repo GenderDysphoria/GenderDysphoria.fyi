@@ -1,12 +1,12 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
-título: "La Biblia de la Disforia de Género"
-descripción: "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero."
-Cuerpo previo: '_declaración'
+title: "La Biblia de la Disforia de Género"
+description: "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero."
+preBody: '_declaracion'
 clases:
   - gdb
-hermanos:
-  next: /gdb/es/¿qué es el género?
+siblings:
+  next: /gdb/es/qur-es-el-genero
   nextCaption: ¿Qué es el Género?
 ---
 
