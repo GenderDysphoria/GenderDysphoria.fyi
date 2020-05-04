@@ -98,3 +98,27 @@
   ul { padding-left: 2em; }
 }
 
+.cw {
+  $cwColor: darken($gray-100, 2%);
+  margin: 0 -1rem 1em;
+
+  padding: 10px 20px;
+  background-color: $cwColor;
+
+  font-size: 0.8rem;
+  font-weight: 300;
+
+  .cw-header {
+    font-weight: 500;
+    margin: 5px -10px;
+    padding: 0px 10px 5px;
+    font-size: 1.2rem;
+    font-family: $font-secondary;
+
+    p { margin: 0; }
+  }
+
+  > p:last-child {
+    margin-bottom: 0;
+  }
+}
