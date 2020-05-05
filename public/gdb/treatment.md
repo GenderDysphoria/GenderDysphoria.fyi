@@ -18,7 +18,7 @@ Treatment options vary significantly depending on the individual person's needs.
 
 ## Social Transition
 
-In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender and that you wish to use a new name and/or new pronouns. Or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
+In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
 
 A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones self.
 

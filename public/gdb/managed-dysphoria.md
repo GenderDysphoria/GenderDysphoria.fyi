@@ -19,7 +19,7 @@ tweets:
 
 Growing up in the closet, even when you don't know you're in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways in which a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives.
 
-- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare a guy's butt for hours."
+- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare at a guy's butt for hours."
 
 - A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women)
 

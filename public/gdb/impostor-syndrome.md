@@ -45,7 +45,7 @@ Furthermore, due to a history of transphobic abuse, many trans people suffer fro
 
 But here's the thing... only trans people are worried about if they are actually transgender! A cisgender person does not have this obsession with their identity, they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
 
-The world is *full* of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These
+The world is *full* of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate trans people and keep us from self-actualizing.
 
 ### Autogynephilia
 
@@ -74,7 +74,7 @@ You are not a fetishist, the feeling you get from thinking of yourself as a woma
 
 ### Patriarchal Oppression
 
-A common source for invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self doubt. Yes, being seen as a woman can really suck, but that has absolutely nothing to do with one's gender.
+A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self doubt. Yes, being seen as a woman can really suck, but that has absolutely nothing to do with one's gender.
 
 Radical Feminism's messaging of abandoning female gender roles can also conflate ones own feelings. "Am I actually non-binary, or am I just a feminist?" "Am I actually a man, or am I just a very butch lesbian?" These kinds of doubts sneak in and fester like weeds.
 

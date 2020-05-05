@@ -41,7 +41,7 @@ Some trans women, for example, identified as gay men pre-transition out of a des
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" style="margin-bottom: 5px" caption="\"Swole Mom\" - How Baby, by Lindsay Ishihiro"}}
+{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-bottom: 5px" caption="\"Swole Mom\" - How Baby, by Lindsay Ishihiro"}}
 </div>
 }!}
 
