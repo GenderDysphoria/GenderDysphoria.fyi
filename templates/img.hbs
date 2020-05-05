@@ -1,6 +1,6 @@
 {{#if sizes}}
 <div class="{{className}}" {{#if style}}style="{{style}}"{{/if}} target="_break">
-  <a href="{{#if link}}{{link}}{{else}}{{rev (lookup (last sizes) 'url')}}{{/if}}" class="lb"><img
+  <a href="{{#if link}}{{link}}{{else}}{{rev (lookup (last sizes) 'url')}}{{/if}}" {{#unless external}}class="lb"{{/unless}}><img
     src="{{rev url}}"
     alt="{{alt}}"
     srcset="{{#join sizes}}{{rev url}} {{width}}w{{/join}}"
