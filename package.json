@@ -59,7 +59,7 @@
     "gulp-awspublish": "4.0.1",
     "gulp-awspublish-router": "~0.2.0",
     "gulp-clean": "~0.4.0",
-    "handlebars": "~4.7.6",
+    "handybars": "~0.1.0",
     "hbs-kit": "~1.2.0",
     "html-minifier-terser": "~5.0.5",
     "image-size": "~0.8.3",
