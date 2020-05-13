@@ -71,7 +71,7 @@ const normalizedExt = exports.normalizedExt = (ext) => {
 
 const isVideo      = exports.isVideo       = is(MP4, M4V);
 const isImage      = exports.isImage       = is(JPG, JPEG, PNG, GIF);
-const isHandybars = exports.isHandybars  = is(XML, HBS, HTML);
+const isHandybars  = exports.isHandybars   = is(XML, HBS, HTML);
 const isMarkdown   = exports.isMarkdown    = is(MD);
 const isPage       = exports.isPage        = is(isHandybars, isMarkdown);
 const isAsset      = exports.isAsset       = is(isImage, isVideo);
@@ -83,7 +83,7 @@ exports.isCleanUrl = is(HBS, MD);
 const TYPE = exports.TYPE = {
   IMAGE:      'TYPE_IMAGE',
   VIDEO:      'TYPE_VIDEO',
-  HANDYBARS: 'TYPE_HANDYBARS',
+  HANDYBARS:  'TYPE_HANDYBARS',
   MARKDOWN:   'TYPE_MARKDOWN',
   SCRIPT:     'TYPE_SCRIPT',
   STYLE:      'TYPE_STYLE',

@@ -51,13 +51,8 @@ function markdown (mode, input, data, hbs) {
   } else {
 
     input = input.replace(/\{!\{([\s\S]*?)\}!\}/mg, (match, contents) => {
-      try {
-        const result = hbs(contents, data);
-        return 'æææ' + result + 'æææ';
-      } catch (e) {
-        log.error(e);
-        return '';
-      }
+      const result = hbs(contents, data);
+      return 'æææ' + result + 'æææ';
     });
 
     input = input.replace(/<!--[[\]]-->/g, '');
@@ -114,14 +109,14 @@ module.exports = exports = async function (prod) {
       const contents = await readFile(file);
       templates[name] = handybars(contents.toString('utf8'), env);
     } catch (e) {
-      log.error('Could not load partial ' + file, e);
+      log.error('Could not load template ' + file, e);
     }
   }
 
   const hbs = (source, data) => handybars(source, env)(data);
 
   const result = {
-    [TYPE.HANDYBARS]: hbs,
+    [TYPE.HANDYBARS]:  hbs,
     [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs),
     [TYPE.OTHER]:      (source) => source,
 
