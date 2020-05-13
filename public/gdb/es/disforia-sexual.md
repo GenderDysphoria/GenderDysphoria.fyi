@@ -1,9 +1,9 @@
 ---
-fecha: "2020-01-26T20:41:55.827Z"
-título: "Como se Manifiesta la Disforia de Género: Disforia Sexual"
-descripción: "Algunas veces un Cigarro no quiere ser fumado."
-Cuerpo previo: '_declaracion'
-hermanos:
+date: "2020-01-26T20:41:55.827Z"
+title: "Como se Manifiesta la Disforia de Género: Disforia Sexual"
+description: "Algunas veces un Cigarro no quiere ser fumado."
+preBody: '_declaracion'
+siblings:
   prev: /gdb/es/disforia-societal
   prevCaption: Disforia Societal
   next: /gdb/es/disforia-presentacional
