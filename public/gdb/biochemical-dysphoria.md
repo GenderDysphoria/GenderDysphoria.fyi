@@ -80,12 +80,12 @@ You may put little care into your physical appearance, reaching for only the bas
 
 You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716438972993536'
   '1215736608055537670'
   '1215738145473474560'
   '1215740224325783553'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}</div> }!}
 
 **Derealization** is a detachment from the world around you, a mental sense that everything you perceive is false.
 
@@ -121,14 +121,14 @@ All of this is valid, and just because you feel very dysphoric one day and not d
 
 ### This Happens Both Ways
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1222738910821978113'
   '1222739427312750594'
   '1222740261178105856'
   '1222742135067303937'
   '1222743360034758656'
   '1222743749920464896'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}</div> }!}
 
 Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. "Estrogen makes everyone happier." This is flat out false. When cis people are put on cross hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from Polycystic Ovarian Syndrome (PCOS), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an ear full.
 

@@ -40,14 +40,14 @@ The fact is, the vast majority of the population has never been tested for genet
 
 {!{ <div class="gutter">
   <strong style="display: block;text-align: center;">And it gets even weirder!</strong>
-{{import '~/tweet' ids=(array
+{{import '~/tweet' ids=[
   '1224039568971710464'
   '1224040716365524993'
   '1224041800513380352'
   '1224042620164296705'
   '1224043995413639168'
   '1224044949160611840'
-) tweets=meta.tweets className="oneblock hide-reply" }}</div> }!}
+] tweets=meta.tweets className="oneblock hide-reply" }}</div> }!}
 
 #### Brain Split
 

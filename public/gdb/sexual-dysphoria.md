@@ -25,9 +25,9 @@ Cisgender gay relationships shirk this by virtue of necessity, opening the doors
 
 What does all this mean? Trans people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect. In extreme cases it can feel completely wrong and trigger panic. The sensations may feel pleasurable, but the experience is out of place, and the act itself feels forced.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
     '1137399651458519040'
-) tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}</div> }!}
 
 This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as asexual due to how severely their dysphoria has shutdown all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
 

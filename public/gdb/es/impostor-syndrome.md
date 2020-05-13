@@ -23,9 +23,9 @@ tweets:
 
 # Impostor Syndrome
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219963582063968258'
-) tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
 > [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud".
 
@@ -35,9 +35,9 @@ On top of this, messages saying that trans people hate their bodies or hate thei
 
 ***[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
-) tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}</div> }!}
 
 On top of this, the constant messaging from transphobic media that trans people are not actually their true genders and are simply trying to trick people into believing otherwise gets internalized like a virus. This creates a lot of self doubt about the authenticity of one's gender, especially in the face of so many gender stereotypes. Seeing ones self fail to meet those stereotypes can make it very easy to convince yourself that you do not live up to your own gender (note, cis men and women get this too, far too often).
 
@@ -49,14 +49,14 @@ The world is *full* of influences put in place to fill us with doubt and keep us
 
 ### Autogynephilia
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1153300365355307008'
   '1153300366902960128'
   '1153300368974991361'
   '1153300370631741440'
   '1153300372468801536'
   '1153300374133981186'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}</div> }!}
 
 This pattern was strongly reinforced during the late 1980s when the Autogynephelia (AGP) theory of Ray Blanchard gained a lot of traction as trans awareness was just starting to escalate. AGP is a pseudo-scientific explanation intended to "explain" the source of trans women's identities using [paraphilias](https://en.wikipedia.org/wiki/Paraphilia). Blanchard separated trans women according to if they were attracted to men or to women, while simultaneously invalidating their womanhood. His work completely ignored transgender men, and he dismisses non-binary identities outright.
 

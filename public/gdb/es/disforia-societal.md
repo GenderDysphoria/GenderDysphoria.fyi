@@ -39,9 +39,9 @@ El fracaso para alcanzar estos roles se manifiesta *intensamente* como vergüenz
 
 TEste tipo de situaciones puede llevar a abuso y acoso, empujando a la persona trans a sentirse aislada, sola, y fuera de lugar. Esta sensación de división luego crea sentimientos de vergüenza por fallar en ser la persona que se esperaba que fuera. Después se manifiesta como depresión, encima de otros tipos de disforia, combinándose a su dolor.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
     '1201138482569195526'
-) tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}</div> }!}
 
 La vergüenza se vuelve especialmente intensa al momento de revelarse así mismxs como trans. Amigxs y familia transfóbica teniendo una reacción negativa, a veces incluso violenta, a una persona trans saliendo del clóset, convierten esa vergüenza en una sensación de extrema culpa y deshonra. Un adulto trans en un matrimonio puede sentir una enorme cantidad de remordimiento de volcar la vida de su pareja al revelar su identidad. Pueden esperar reproches de sus vecinxs y pares, y miedo de como afectará a su pareja y/o hijxs.
 
@@ -53,7 +53,7 @@ La vergüenza se suele acumular hasta que se desborda en acciones radicales. Un 
 
 ### Citas y relaciones románticas
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1216109204093722630'
   '1216109206509694979'
   '1216109207671508992'
@@ -62,7 +62,7 @@ La vergüenza se suele acumular hasta que se desborda en acciones radicales. Un 
   '1216110666626555904'
   '1216111083997605888'
   '1216112014411599877'
-) tweets=meta.tweets className="oneblock capped" }}</div> }!}
+] tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
 La Disforia Societal tiene un *fuerte* rol en los rituales de cortejo. Ser forzadx a ser el novio o novia, cuando no eres un chico o una chica, es en extremo desorientador y usualmente se siente injusto. Las personas AMAN pueden encontrarse deseando que fuesen ellxs quienes recibieran los mimos, y las AFAN pueden sentirse sumamente incómodas con la cantidad de atención que reciben de sus prospectos (más allá de la incomodidad que experimenta una mujer, pues se incluye la atención genuina y no solo la atención indeseada). Las expectativas que se vierten en ellxs por sus parejas para llenar estos ritos de cortejo puede sentirse como una pesada carga que sostener. En contraste, tener citas y relacionarte en tu verdadero género se vuelve eufórico. Cómprale flores a una chica trans, y verás como se desmaya de la emoción.
 

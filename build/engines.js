@@ -5,9 +5,8 @@ const fs = require('fs-extra');
 const log = require('fancy-log');
 const { resolve, readFile, ENGINE, TYPE } = require('./resolve');
 
-const Handlebars = require('handlebars');
-const HandlebarsKit = require('hbs-kit');
-HandlebarsKit.load(Handlebars);
+const handybars = require('handybars');
+const Kit = require('handybars/kit');
 
 const slugify = require('./lib/slugify');
 const striptags = require('string-strip-html');
@@ -39,7 +38,7 @@ const markdownEngines = {
     .use(require('./lib/markdown-token-filter')),
 };
 
-function markdown (mode, input, env) {
+function markdown (mode, input, data, hbs) {
 
   if (mode === 'preview') {
     input = striptags(input
@@ -53,7 +52,7 @@ function markdown (mode, input, env) {
 
     input = input.replace(/\{!\{([\s\S]*?)\}!\}/mg, (match, contents) => {
       try {
-        const result = Handlebars.compile(contents)(env);
+        const result = hbs(contents, data);
         return 'æææ' + result + 'æææ';
       } catch (e) {
         log.error(e);
@@ -65,16 +64,11 @@ function markdown (mode, input, env) {
   }
 
   try {
-    return input ? markdownEngines[mode].render(input, env) : '';
+    return input ? markdownEngines[mode].render(input, data) : '';
   } catch (e) {
     log(input);
     throw e;
   }
-}
-
-function handlebars (input, env) {
-  const template = Handlebars.compile(input);
-  return template(env);
 }
 
 function stripIndent (input) {
@@ -89,45 +83,54 @@ function stripIndent (input) {
   return input;
 }
 
-const HANDLEBARS_PARTIALS = {
+const HANDYBARS_PARTIALS = {
   layout:    'templates/layout.hbs',
+};
+
+const HANDYBARS_TEMPLATES = {
   page:      'templates/page.hbs',
   post:      'templates/post.hbs',
 };
 
 module.exports = exports = async function (prod) {
-  const templates = {};
-  for (const [ name, file ] of Object.entries(HANDLEBARS_PARTIALS)) {
+
+  const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
+  const injectables = new Injectables(prod, revManifest);
+
+  const env = {  ...Kit, ...injectables.helpers() };
+
+  for (const [ name, file ] of Object.entries(HANDYBARS_PARTIALS)) {
     try {
       const contents = await readFile(file);
-      const template = Handlebars.compile(contents.toString('utf8'));
-      templates[name] = template;
-      Handlebars.registerPartial(name, template);
+      env[name] = handybars.partial(contents.toString('utf8'));
     } catch (e) {
-      log.error('Could not execute load partial ' + file, e);
+      log.error('Could not load partial ' + file, e);
     }
   }
 
-  const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
+  const templates = {};
+  for (const [ name, file ] of Object.entries(HANDYBARS_TEMPLATES)) {
+    try {
+      const contents = await readFile(file);
+      templates[name] = handybars(contents.toString('utf8'), env);
+    } catch (e) {
+      log.error('Could not load partial ' + file, e);
+    }
+  }
 
-  const helpers = new Injectables(prod, revManifest);
-  Handlebars.registerHelper('import', helpers.import());
-  Handlebars.registerHelper('markdown', helpers.markdown());
-  Handlebars.registerHelper('icon', helpers.icon());
-  Handlebars.registerHelper('prod', helpers.production());
-  Handlebars.registerHelper('rev', helpers.rev());
+  const hbs = (source, data) => handybars(source, env)(data);
 
   const result = {
-    [TYPE.HANDLEBARS]: handlebars,
-    [TYPE.MARKDOWN]:   (source, env) => markdown('full', source, env),
+    [TYPE.HANDYBARS]: hbs,
+    [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.PAGE]:     (source, env) => templates.page({ ...env, contents: markdown('full', source, env) }),
-    [ENGINE.POST]:     (source, env) => templates.post({ ...env, contents: markdown('full', source, env) }),
+    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs) }),
+    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs) }),
     [ENGINE.HTML]:     (source) => source,
     [ENGINE.OTHER]:    (source) => source,
 
-    preview: (source, env) => markdown('preview', source, env),
+    preview: (source, data) => markdown('preview', source, data, hbs),
   };
 
   return result;
@@ -170,6 +173,16 @@ class Injectables {
     return '';
   }
 
+  helpers () {
+    return {
+      import:   this.import(),
+      markdown: this.markdown(),
+      icon:     this.icon(),
+      prod:     this.production(),
+      rev:      this.rev(),
+    };
+  }
+
   rev () {
     const self = this;
     return function (url) {
@@ -182,48 +195,47 @@ class Injectables {
 
   production () {
     const self = this;
-    return function (options) {
-      if (!options.fn) return self.prod;
-      return self.prod ? options.fn(this) : options.inverse(this);
+    return function ({ fn, inverse }) {
+      if (!fn) return self.prod;
+      return self.prod ? fn(this) : inverse && inverse(this);
     };
   }
 
   markdown () {
     const self = this;
     return function (...args) {
-      const { fn, data } = args.pop();
+      const { fn, data, resolve: rval } = args.pop();
+      const local = rval('@root.this.local');
       let contents;
 
       if (fn) {
         contents = stripIndent(fn(data.root));
       } else {
         let tpath = args.shift();
-        tpath = self._parsePath(tpath, data.root.local, 'md');
+        tpath = self._parsePath(tpath, local, 'md');
 
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', contents, data);
+      contents = markdown('full', contents, data, () => { throw new Error('You went too deep!'); });
 
-      return new Handlebars.SafeString(contents);
+      return { value: contents };
     };
   }
 
   import () {
     const self = this;
     return function (tpath, ...args) {
-      const { hash, data } = args.pop();
+      const { hash, env, resolve: rval } = args.pop();
       const value = args.shift() || this;
-      const frame = Handlebars.createFrame(data);
-      const context = (typeof value === 'object')
-        ? { ...value, ...(hash || {}), _parent: this }
-        : value;
+      const frame = handybars.makeContext(value, env, { hash });
+      const local = rval('@root.this.local');
 
-      tpath = self._parsePath(tpath, data.root.local, 'hbs');
+      tpath = self._parsePath(tpath, local, 'hbs');
 
       try {
-        const contents = self._template(tpath, Handlebars.compile)(context, { data: frame });
-        return new Handlebars.SafeString(contents);
+        const contents = self._template(tpath, handybars.parse).evaluate(value, frame);
+        return handybars.safe(contents);
       } catch (e) {
         log.error('Could not execute import template ' + tpath, e);
         return '';
@@ -234,15 +246,17 @@ class Injectables {
   icon () {
     const self = this;
     return function (name, ...args) {
-      const { hash, data } = args.pop();
-      const tpath = path.join(data.root.local.root, 'svg', name + '.svg');
+      const { hash, env, resolve: rval } = args.pop();
+      const local = rval('@root.this.local');
+      const tpath = path.join(local.root, 'svg', name + '.svg');
+      const frame = handybars.makeContext(hash, env);
 
       try {
         const contents = self._template(tpath, (s) =>
-          Handlebars.compile(`<span class="svg-icon" {{#if size}}style="width:{{size}}px;height:{{size}}px"{{/if}}>${s}</span>`),
-        )({ size: hash && hash.size });
+          handybars(`<span class="svg-icon" {{#if size}}style="width:{{size}}px;height:{{size}}px"{{/if}}>${s}</span>`),
+        )(frame);
 
-        return new Handlebars.SafeString(contents);
+        return handybars.safe(contents);
       } catch (e) {
         log.error('Could not execute import template ' + tpath, e);
         return '';

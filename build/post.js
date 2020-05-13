@@ -18,8 +18,8 @@ module.exports = exports = class Post extends Page {
 
   _engine () {
     switch (this.type) {
-    case TYPE.HANDLEBARS:
-      return TYPE.HANDLEBARS;
+    case TYPE.HANDYBARS:
+      return TYPE.HANDYBARS;
     case TYPE.MARKDOWN:
       return ENGINE.POST;
     default:

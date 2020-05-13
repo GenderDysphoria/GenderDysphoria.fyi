@@ -39,9 +39,9 @@ Failure to live up to these roles can manifest *intensely* as shame and humiliat
 
 These kinds of situations can lead to bullying and abuse, pushing the trans person to feel isolated, alone, and out of place. This sense of division then creates feelings of shame for failing to be the person everyone expects them to be. This then manifests as depression on top of other dysphoria, compounding their pain.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
     '1201138482569195526'
-) tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}</div> }!}
 
 The shame becomes especially intense at the moment of revealing themselves to be trans. Transphobic friends and family having negative, sometimes even violent reactions to a trans person coming out of the closet converts that shame into extreme guilt and disgrace. An adult trans person in a marriage may feel a tremendous amount of remorse at upending their spouse's life by revealing themselves. They may expect reproach from their neighbors and peers, and fear how that will affect their spouse and/or children.
 
@@ -53,7 +53,7 @@ Shame also tends to build up until it boils over into radical action. A very com
 
 ### Dating and Romantic Relationships
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1216109204093722630'
   '1216109206509694979'
   '1216109207671508992'
@@ -62,7 +62,7 @@ Shame also tends to build up until it boils over into radical action. A very com
   '1216110666626555904'
   '1216111083997605888'
   '1216112014411599877'
-) tweets=meta.tweets className="oneblock capped" }}</div> }!}
+] tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
 Societal Dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered, and AFABs may become uncomfortable with the amount of attention they receive from their prospective partners (beyond the discomfort that women experience, as this includes genuine attention, not just unwanted attention). The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons.
 

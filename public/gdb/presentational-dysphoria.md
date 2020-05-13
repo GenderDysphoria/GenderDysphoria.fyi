@@ -36,12 +36,12 @@ Post-transition presentational dysphoria is usually simply a case of high discom
 
 ### Presentation's Affect on Physical Dysphoria.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716435068100611'
   '1215716435974066176'
   '1215716436980703233'
   '1215716438020849664'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}</div> }!}
 
 Clothing can also play a major role in the level of physical dysphoria a person experiences. Mens clothing always cut very boxy, straight up and down on the vertical and very square in the horizontal. Women's clothing is cut for more curves, accentuating waistlines and hip shape. Men's pants feature a lower crotch to make room for external genitals, and no fitting for curves, where womens bottoms are the opposite. Women's clothing is often form fitting, where Male clothing is rarely form fitting at all. Men's clothing is often made of sturdier and thicker materials, meant to be worn as a single layer. Women's clothing is often made of thinner and stretchier materials, expected to be layered together.
 
@@ -51,9 +51,9 @@ I, myself am very feminine in my preferred presentation, and I had a longing to 
 
 What does this look like? Well, it looks a lot like other common body image issues. A tendency to avoid anything form fitting, leaning towards softer fabrics and baggier clothes. A classic gender dysphoria trope is the kid who wears nothing but sweatpants and hoodies. Clothes will be oversized in order to keep them from hugging the body. AFABs may prefer to wear compressing sports bras in order to minimize their chests, and avoid anything with a tight waistline.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1191555135756853249'
-) tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}</div> }!}
 
 Internally it most often manifests as intense jealousy of the people you wish you could be. Jealousy over an influencer's body shape, a strong desire for the outfit of a person on the street, and most especially envy of other trans people. This feeling often persists well into transition, because this sensation of wanting to be other people of your gender is actually completely natural, even for cis people.
 

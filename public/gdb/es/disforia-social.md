@@ -23,14 +23,14 @@ tweets:
 
 # Disforia Social
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215718003310039040'
   '1215720411788382210'
   '1215724301065891841'
   '1215727546387648517'
   '1215727547780096000'
   '1215731319973523456'
-) tweets=meta.tweets className="oneblock" }} </div> }!}
+] tweets=meta.tweets className="oneblock" }} </div> }!}
 
 Toda la disforia de género social orbita alrededor de un concepto central: ¿En qué Género cree la gente que estoy? La Disforia Social es acerca de cómo te percibe el mundo externo, cómo otros se dirigen a ti, y cómo se espera que tú te dirijas a ellos. Esto aplica de forma distinta en las personas trans antes de reconocerse a sí mismxs en su género, en comparación con cómo se experimenta la Disforia Social tras el despertar trans (saliendo del caparazón).
 
@@ -53,9 +53,9 @@ También puede manifestarse como alegría o pena al ser etiquetado en tu verdade
 -	Una persona AMAB siendo etiquetadx como una chica, con la intención de insultarlx, pero le provoca sonrojarse en lugar de enojarse.
 -	Una persona AFAB siendo llamadx señor, y sintiéndose mucho mejor por ello.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
-) tweets=meta.tweets className="" }} </div> }!}
+] tweets=meta.tweets className="" }} </div> }!}
 
 La incomodidad que causa la disforia social puede presionar a una persona trans a actuar y presentarse de una forma exagerada, con el propósito de intentar convencer al resto del mundo de que realmente son lo que dicen ser. Las personas trans femeninas pueden concentrarse en el maquillaje y las ropas femeninas, en volverse más tranquilas para lucir más recatadas y hablando con una entonación más alta. Las personas trans masculinas se inclinarán a un estilo de ropa masculina, a pararse más erguidos, a suprimir las muestras de emociones, empezarán a hablar más fuerte, y a hacer sonar sus voces intencionalmente más graves.
 
@@ -69,9 +69,9 @@ Yo misma no tengo una disforia física directa sobre de mi voz, y en realidad di
 
 Un fenómeno muy curioso y sorprendente, es que las personas trans que están en el clóset tienen una tendencia a encontrarse mutuamente sin siquiera saber que lo han hecho. Hay un patrón divertido que he escuchado que se replica una y otra vez, en donde una persona en un grupo de amigxs se da cuenta de que es transgénero, empieza la transición, y eso inspira a otros miembros del grupo a darse cuenta de que también son trans y salir del clóset.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
-) tweets=meta.tweets className="" }} </div> }!}
+] tweets=meta.tweets className="" }} </div> }!}
 
 Subconscientemente, las personas trans tendemos a gravitar entre nosotrxs y nuestras amistades, tanto por una necesidad de pares que piensen y actúen igual que nosotrxs sin que nos juzguen, como por una especie de marginalización social. Esto no es exclusivo de las personas trans, por supuesto, lo mismo pasa para toda clase de personas queer, pero la forma en que tiene un efecto domino es bastante poderosa. Es muy similar a la forma en que en un grupo de amigxs, todos empezarán a casarse y tener hijxs después de que el primero lo haga.
 

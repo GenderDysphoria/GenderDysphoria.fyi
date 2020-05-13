@@ -16,9 +16,9 @@ tweets:
 
 # ¿Qué es el Género?
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1228717614630940672'
-) tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
 Si trazas la etimología de la palabra a sus raíces latinas, género simplemente significa “tipo”. Históricamente, la palabra fue utilizada en literatura para referirse a los sustantivos masculinos, femeninos y neutros. En 1955 el psicólogo John Money propuso usar el término para diferenciar al sexo mental del sexo físico, pero no fue el primero en hacerlo.
 

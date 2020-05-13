@@ -16,9 +16,9 @@ tweets:
 
 # What is Gender?
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1228717614630940672'
-) tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
 If you trace the etymology of the word to its Latin roots, gender simply means "type". Historically the word was used in literature to refer to masculine, feminine and neutral nouns. In 1955 psychologist John Money proposed using the term to differentiate mental sex from physical sex, but he was not the first to do so.
 

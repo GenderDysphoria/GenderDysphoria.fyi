@@ -36,9 +36,9 @@ Eventualmente, se da cuenta que ya no quiere regresar a la cueva. Tiene que volv
 
 Así es la Euforia de Género, son breves destellos de luz que pueden ser muy luminosos para manejar al inicio, muy confusos de entender, pero que conforme el tiempo pasa, te acostumbras más a ellos y te das cuenta de que ahí es a donde perteneces, y la oscuridad se vuelve la disforia.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
-) tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
 Muchas personas trans no tienen idea de en cuánto dolor se encuentran hasta que hallan un poco de alivio. Cosplay, actuación en escenarios, drag, juegos de rol, videojuegos; pequeñas incursiones a un género diferente del que han vivido. Encuentran que se siente un poco más cómodo. Hacen excusas del porqué (“Si voy a estarle viendo el trasero a este personaje, mejor que sea el trasero de una chica.”), se tratan de convencer a sí mismxs de que todo es por diversión, o una expresión artística. Se pueden decir a sí mismxs que los momentos de alegría que sienten escuchando un pronombre diferente son solo por novedad. Pero pronto se encuentran buscando razones para hacer con mayor frecuencia. Más y más seguido juegan con personajes de un sexo diferente, realizan más disfraces, compran más ropa, actúan más seguido. Te encuentras a ti mismx deseando hacer eso todo el tiempo, porque se siente mejor que tu vida real, y ser “tú” empieza a doler. Eventualmente, el viejo tú se convierte en el disfraz.
 
@@ -46,11 +46,11 @@ Esta es la razón más fundamental por la que en nuestra comunidad decimos “no
 
 Cualquier cosa que puede ser una fuente de disforia tiene su contraparte de euforia.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1228141518386585607'
   '1228165207316287489'
   '1228165767264256003'
-) tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
 Ejemplos:
 

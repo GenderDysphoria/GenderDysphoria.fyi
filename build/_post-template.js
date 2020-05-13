@@ -11,9 +11,9 @@ tweets:
 
 ---
 {!{
-  {{import '~/tweet' ids=(array
+  {{import '~/tweet' ids=[
     'TWEETIDGOESHERE'
-  ) tweets=meta.tweets className="" }}
+  ] tweets=meta.tweets className="" }}
 }!}
 
 `;

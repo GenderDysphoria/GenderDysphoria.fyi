@@ -71,9 +71,9 @@ const normalizedExt = exports.normalizedExt = (ext) => {
 
 const isVideo      = exports.isVideo       = is(MP4, M4V);
 const isImage      = exports.isImage       = is(JPG, JPEG, PNG, GIF);
-const isHandlebars = exports.isHandlebars  = is(XML, HBS, HTML);
+const isHandybars = exports.isHandybars  = is(XML, HBS, HTML);
 const isMarkdown   = exports.isMarkdown    = is(MD);
-const isPage       = exports.isPage        = is(isHandlebars, isMarkdown);
+const isPage       = exports.isPage        = is(isHandybars, isMarkdown);
 const isAsset      = exports.isAsset       = is(isImage, isVideo);
 const isArtifact   = exports.isArtifact    = is(CSS, SCSS, JS, JSX);
 exports.isCleanUrl = is(HBS, MD);
@@ -83,7 +83,7 @@ exports.isCleanUrl = is(HBS, MD);
 const TYPE = exports.TYPE = {
   IMAGE:      'TYPE_IMAGE',
   VIDEO:      'TYPE_VIDEO',
-  HANDLEBARS: 'TYPE_HANDLEBARS',
+  HANDYBARS: 'TYPE_HANDYBARS',
   MARKDOWN:   'TYPE_MARKDOWN',
   SCRIPT:     'TYPE_SCRIPT',
   STYLE:      'TYPE_STYLE',
@@ -92,7 +92,7 @@ const TYPE = exports.TYPE = {
 
 exports.type = dictMatch({
   [TYPE.IMAGE]:      isImage,
-  [TYPE.HANDLEBARS]: isHandlebars,
+  [TYPE.HANDYBARS]: isHandybars,
   [TYPE.MARKDOWN]:   isMarkdown,
   [TYPE.VIDEO]:      isVideo,
   [TYPE.SCRIPT]:     is(JS, JSX),

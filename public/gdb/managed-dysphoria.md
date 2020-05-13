@@ -41,10 +41,10 @@ Growing up in the closet, even when you don't know you're in the closet, becomes
 
 - Helping cis partners to shop in order to live vicariously through their presentation.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215746083487461379'
   '1215749725456125952'
-) tweets=meta.tweets className="collapse" }}</div> }!}
+] tweets=meta.tweets className="collapse" }}</div> }!}
 
 Because so much abuse is handed down on to gender non-conforming children, many trans people grow up learning to hide their natural personalities out of sheer necessity. Many trans people speak about having a phase of life where they attempted to "buy-in" on their assigned gender, performing masculinity or femininity to extremes in order to try to "fix" themselves. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
 

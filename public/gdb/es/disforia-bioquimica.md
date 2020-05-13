@@ -79,12 +79,12 @@ Puedes poner poca atención a tu apariencia física, aspirando únicamente a cub
 
 Puede que no te interese el estado de tu cuerpo, tal vez ni siquiera le temas a la muerte porque tienes tan poco apego con tu vida.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716438972993536'
   '1215736608055537670'
   '1215738145473474560'
   '1215740224325783553'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}</div> }!}
 
 La **Desrealización** es un desapego con el mundo alrededor tuyo, un estado mental de que todo lo que percibes es falso.
 
@@ -120,14 +120,14 @@ Todo esto es válido, y solo porque un día te sientes muy disfóricx y no te si
 
 ### Esto Pasa en Ambos Sentidos
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1222738910821978113'
   '1222739427312750594'
   '1222740261178105856'
   '1222742135067303937'
   '1222743360034758656'
   '1222743749920464896'
-) tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}</div> }!}
 
 Algunas veces escucharás a detractores sugiriendo que entrar en terapia de hormonas siempre mejora la salud mental. Yo misma he escuchado esto de mi madre. “Los estrógenos alegran a todos”. Esto es simplemente falso. Cuando las personas cis son puestas en una terapia cruzada de hormonas, siempre resulta en disforia. Esta es una de las razones por las que la Espironolactona rara vez es prescrita en hombres, porque el factor antiandrógeno les causa inestabilidad mental. Del cinco al diez por ciento de las mujeres cis sufren Síndrome de Ovario Poliquístico (SOP), una condición que causa que los ovarios produzcan testosterona en lugar de estrógeno. Pregúntale a cualquiera de ellas como ha estado su salud mental y te reventarán los oídos.
 

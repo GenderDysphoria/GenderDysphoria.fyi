@@ -30,10 +30,10 @@ tweets:
 # But the Chromosomes!!!
 
 {!{ <div class="gutter">
-  {{import '~/tweet' ids=(array
+  {{import '~/tweet' ids=[
     '1223942625708761088'
-  ) tweets=meta.tweets className="" }}
-  {{import '~/tweet' ids=(array
+  ] tweets=meta.tweets className="" }}
+  {{import '~/tweet' ids=[
     '1207834357639139328'
     '1207835110617309191'
     '1207835384358604802'
@@ -45,10 +45,10 @@ tweets:
     '1207839986801922048'
     '1207838924263084033'
     '1207839452619522048'
-  ) tweets=meta.tweets className="oneblock" }}
-  {{import '~/tweet' ids=(array
+  ] tweets=meta.tweets className="oneblock" }}
+  {{import '~/tweet' ids=[
     '1208181235593490433'
-  ) tweets=meta.tweets className="" }}
+  ] tweets=meta.tweets className="" }}
 </div>}!}
 
 

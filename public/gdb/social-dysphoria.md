@@ -23,14 +23,14 @@ tweets:
 
 # Social Dysphoria
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215718003310039040'
   '1215720411788382210'
   '1215724301065891841'
   '1215727546387648517'
   '1215727547780096000'
   '1215731319973523456'
-) tweets=meta.tweets className="oneblock" }} </div> }!}
+] tweets=meta.tweets className="oneblock" }} </div> }!}
 
 All social gender dysphoria orbit around one central concept: What Gender do people believe me to be? Social Dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender, versus how Social Dysphoria is experienced after a trans awakening (cracking one's shell).
 
@@ -53,9 +53,9 @@ It may also manifest as joy or embarrassment at being labeled as your true gende
 - An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
 - An AFAB person being called Sir, and feeling better for it.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
-) tweets=meta.tweets className="" }} </div> }!}
+] tweets=meta.tweets className="" }} </div> }!}
 
 The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Trans feminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Trans masculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper.
 
@@ -69,9 +69,9 @@ I, myself, have no direct physical dysphoria around my voice, I actually really 
 
 A very curious and surprisingly phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
-) tweets=meta.tweets className="" }} </div> }!}
+] tweets=meta.tweets className="" }} </div> }!}
 
 Trans people subconsciously tend to gravitate towards each others friendships, both out of a need for peers who think and act the same as us without judgments, and due to a kinship of social ostracization. This is not exclusive to trans people, of course, the same happens for all types of queers, but the way it has a rippled effect is quite powerful. It's very similar to the way an entire friend group will get married and have kids all in response to one member of the group initiating.
 

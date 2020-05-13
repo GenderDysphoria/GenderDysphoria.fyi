@@ -120,9 +120,9 @@ Se puede sentir como una clase de efecto fantasma inverso, cuando la persona est
 Puede sentirse como horror o repulsión al mirar o tocar los genitales externos, disparando estallidos emocionales o un fuerte deseo de remover el órgano ofensor. Las personas trans AFAB (acrónimo en inglés de persona asignada del sexo femenino al nacer; assigend female at birth) pueden experimentar sentimientos de incongruencia durante la menstruación, o sentir una extraña desconexión de sus ciclos hormonales.
 
 {!{
-  <div class="gutter">{{import '~/tweet' ids=(array
+  <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
-) tweets=meta.tweets className="hide-reply" }}</div>
+] tweets=meta.tweets className="hide-reply" }}</div>
 }!}
 
 Se puede manifestar como una compulsión de deshacerse de ciertos rasgos corporales, como afeitarse el vello facial y corporal obsesivamente. Esto también se puede manifestar en la compulsión opuesta, llevando a un cuidado meticuloso de esos rasgos con el objetivo de intentar controlarlos, como mantener una barba perfecta, mantener persistentemente las uñas con manicura y pulidas, o pasar horas en el gimnasio intentando moldear la figura.
@@ -132,10 +132,10 @@ Las características físicas indeseables pueden provocar que una persona experi
 Algunas veces puede simplemente ser un sentimiento de estar mal, que ni siquiera puede atribuirse al género o sexo. Durante la mayor parte de mi vida creía que la razón de que odiara mi cuerpo era por ser gorda. No fue hasta que empecé mi transición que me di cuenta de que no odio mi grasa en lo absoluto, odiaba tener grasa masculina. Las curvas femeninas que la TRH me dio me hizo sentir en mucha más sintonía con mi cuerpo.
 
 {!{
-  <div class="gutter">{{import '~/tweet' ids=(array
+  <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
   '1184837108919230464'
-) tweets=meta.tweets className="hide-reply" }}</div>
+] tweets=meta.tweets className="hide-reply" }}</div>
 }!}
 
 La disforia que unx siente respecto a su cuerpo puede y cambiará a lo largo del tiempo, para mejor o para peor. Las mujeres trans, por ejemplo, pueden iniciar hoy una transición sin sentir ninguna desconexión con sus genitales, pero después encontrar que eso cambia conforme el resto de las fuentes de disforia más prominentes desaparecen, la estimulación cambia, y sus genitales mismos cambian su forma y función. Algunxs pueden asumir que definitivamente necesitarán una cirugía de feminización facial, pero luego de 2 años se dan cuenta de que en realidad están bien con su aspecto. Yo solía ser terriblemente sensible sobre mi pico de viuda, pero ahora que mi cabello ha crecido me encuentro totalmente bien con mi línea de cabello.
@@ -156,7 +156,7 @@ Todxs absorben estos mensajes, y las personas trans internalizan los factores qu
 
 ¿Cuál es el resultado de todo esto? Kathryn lo expresó perfectamente:
 
-{!{ {{import '~/tweet' ids=(array
+{!{ {{import '~/tweet' ids=[
   '947522372315369472'
   '947523244948680705'
-) tweets=meta.tweets className="grid-row" }} }!}
+] tweets=meta.tweets className="grid-row" }} }!}
