@@ -6,8 +6,8 @@ preBody: '_declaracion'
 siblings:
   prev: /gdb/es/disforia-societal
   prevCaption: Disforia Societal
-  next: /gdb/es/disforia-presentacional
-  nextCaption: Disforia Presentacional
+  next: /gdb/es/disforia-de-presentacion
+  nextCaption: Disforia de Presentación
 classes:
   - gdb
 tweets:
