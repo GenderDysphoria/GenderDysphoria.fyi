@@ -25,9 +25,9 @@ Las relaciones gays cisgénero lo evaden en virtud de la necesidad, abriéndoles
 
 ¿Qué significa todo esto? Que las personas trans que entran en relaciones percibidas como heterosexuales antes de la transición, algunas veces se encuentran perdiendo interés en el coito, dado que los actos penetrativos no les producen la satisfacción que esperarían. En casos extremos, puede sentirse completamente incorrecto e inducir pánico. Las sensaciones pueden percibirse como placenteras, pero la experiencia está fuera de lugar, y el acto mismo se siente forzado.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=(array
+{!{ <div class="gutter">{{import '~/tweet' ids=[
     '1137399651458519040'
-) tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}</div> }!}
 
 Esto puede llevar a unx a sentirse menos entusiasta o incluso desinteresadx en el sexo, pues la mitad de lo que lleva al deseo sexual es la conexión mental con la situación. Muchas personas trans nunca tienen sexo hasta la adultez, operando funcionalmente como asexuales debido a la severidad con la que su disforia ha apagado todo deseo sexual. Puede que aún lo desempeñen pensando en sus parejas, pero no obtienen el disfrute que podrían, e incluso terminan desconectándose de la realidad alrededor suyo con el fin de completar la tarea.
 
