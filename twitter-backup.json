@@ -43478,5 +43478,2397 @@
     "favorited": false,
     "retweeted": false,
     "lang": "en"
+  },
+  "1271269407440941063": {
+    "created_at": "Fri Jun 12 02:33:40 +0000 2020",
+    "id": 1271269407440941000,
+    "id_str": "1271269407440941063",
+    "full_text": "But you wish you were a diamond. But why? Diamonds have it rougher, don't they? Who wants to be a diamond your fellow squares said. Good thing we're squares, right?\n\nBut one day you realize, no, \"I've tried for years to be a square. It's never worked.\"",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269406144954400,
+    "in_reply_to_status_id_str": "1271269406144954369",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269401459855361": {
+    "created_at": "Fri Jun 12 02:33:39 +0000 2020",
+    "id": 1271269401459855400,
+    "id_str": "1271269401459855361",
+    "full_text": "You look like a square, you're told. Even before your points are truly aligned perpendicular.  So you do what everyone says is the right thing. You be the square that'd make your parents proudest. But you don't feel like a square. It feels off. You don't quite know why.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      270
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269399849205800,
+    "in_reply_to_status_id_str": "1271269399849205765",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269408439222275": {
+    "created_at": "Fri Jun 12 02:33:40 +0000 2020",
+    "id": 1271269408439222300,
+    "id_str": "1271269408439222275",
+    "full_text": "In fact, you can't imagine being a square your while life. The prospect of going your while life as a square, never living as a diamond, until the great eraser comes for you fills you with dread.\n\nBut if one shape gets it rougher than diamonds it's diamonds who grew up square.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269407440941000,
+    "in_reply_to_status_id_str": "1271269407440941063",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269402281984002": {
+    "created_at": "Fri Jun 12 02:33:39 +0000 2020",
+    "id": 1271269402281984000,
+    "id_str": "1271269402281984002",
+    "full_text": "There are parts of those you're told are diamonds that seem neat, you wonder what it's like to be a diamond. But you know you're a square. You're told you're a square. Besides, squares are cool, right?\n\nBut diamonds.... Something about diamonds. Like not in that icky way...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269401459855400,
+    "in_reply_to_status_id_str": "1271269401459855361",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269411102625793": {
+    "created_at": "Fri Jun 12 02:33:41 +0000 2020",
+    "id": 1271269411102625800,
+    "id_str": "1271269411102625793",
+    "full_text": "...become diamonds in shape. They never felt like a shape that wasn't their shape so they can't fathom how important this is. That to be forced back into a square would tear you to shreds.\n\nSome shapes will attribute bad things to you. And every year you worry that...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      268
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269410096001000,
+    "in_reply_to_status_id_str": "1271269410096001025",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269398188306432": {
+    "created_at": "Fri Jun 12 02:33:38 +0000 2020",
+    "id": 1271269398188306400,
+    "id_str": "1271269398188306432",
+    "full_text": "So, first, let's remove the concept of gender. We'll say diamonds and squares. Both shapes have 4 points. But the arrangement is different. However, given four points you can create either a diamond or a square. You can consider a fetus a generic polygon.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      255
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269397403967500,
+    "in_reply_to_status_id_str": "1271269397403967488",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269399849205765": {
+    "created_at": "Fri Jun 12 02:33:38 +0000 2020",
+    "id": 1271269399849205800,
+    "id_str": "1271269399849205765",
+    "full_text": "So with that, you go through life, everyone says you're a square. The doctor who...erm...drew(?) you said so on a piece of paper indicating your birth.\n\nSquares and diamonds go through life with different expectations in society.\n\nEveryone treats you like a square.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      265
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269398188306400,
+    "in_reply_to_status_id_str": "1271269398188306432",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269403129188352": {
+    "created_at": "Fri Jun 12 02:33:39 +0000 2020",
+    "id": 1271269403129188400,
+    "id_str": "1271269403129188352",
+    "full_text": "...you see the adult diamonds and squares refer to each other. But... Something.\n\nYou start noticing the diamonds become more diamond like one year. You're told every diamond goes through this. Your told it's pretty tough and you should be glad you're a square.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269402281984000,
+    "in_reply_to_status_id_str": "1271269402281984002",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269410096001025": {
+    "created_at": "Fri Jun 12 02:33:41 +0000 2020",
+    "id": 1271269410096001000,
+    "id_str": "1271269410096001025",
+    "full_text": "Who'd give up being a square? Such a weird shape you are, they'd say.\n\nThey won't understand or care about the effort or time or personal sacrifice it took to become a diamond. They'll look for flaws in your point configuration because they can't accept that squares can...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269409303265300,
+    "in_reply_to_status_id_str": "1271269409303265280",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269406144954369": {
+    "created_at": "Fri Jun 12 02:33:40 +0000 2020",
+    "id": 1271269406144954400,
+    "id_str": "1271269406144954369",
+    "full_text": "I mean, it doesn't sound the same? But you don't know what else to call this. Maybe you're broken? Like, every other square gets to look at diamonds and just think they're pretty but you look at them and wanna BE one. But you're not. You're a square. You firmly believe that.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      275
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269404991512600,
+    "in_reply_to_status_id_str": "1271269404991512576",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269409303265280": {
+    "created_at": "Fri Jun 12 02:33:40 +0000 2020",
+    "id": 1271269409303265300,
+    "id_str": "1271269409303265280",
+    "full_text": "You know this. You know that be telling people you're a diamond, and rearranging your four points as best you can into a diamond shape some people are gonna look at you like some kinda pseudo-diamond. They're gonna think you were foolish for messing with your points that way.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269408439222300,
+    "in_reply_to_status_id_str": "1271269408439222275",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269412176363521": {
+    "created_at": "Fri Jun 12 02:33:41 +0000 2020",
+    "id": 1271269412176363500,
+    "id_str": "1271269412176363521",
+    "full_text": "... the wrong people will get into power and you might be erased. The other shapes, the ones that are just what the original certificate said, can't fathom that and assume it's as bad or valid as having their taxes go up. Because they never feared those politicians would...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269411102625800,
+    "in_reply_to_status_id_str": "1271269411102625793",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269403934498817": {
+    "created_at": "Fri Jun 12 02:33:39 +0000 2020",
+    "id": 1271269403934498800,
+    "id_str": "1271269403934498817",
+    "full_text": "And, like, you guess? But you also kinda wish you would change that way too. Meanwhile, you're becoming more square and you don't like it. It feels...wrong. in fact, it grosses you out. The other squares show off their metamorphosis proudly, gloat about it.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269403129188400,
+    "in_reply_to_status_id_str": "1271269403129188352",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269404991512576": {
+    "created_at": "Fri Jun 12 02:33:39 +0000 2020",
+    "id": 1271269404991512600,
+    "id_str": "1271269404991512576",
+    "full_text": "You figure you have to as well, you lie, but it's awkward. You're not proud of any of this. It feels wrong. It feels gross and you want it to stop.\n\nBut you're wondering if this envy for diamonds you're experiencing is the same as what you're told attraction is.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269403934498800,
+    "in_reply_to_status_id_str": "1271269403934498817",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102911,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269420317519872": {
+    "created_at": "Fri Jun 12 02:33:43 +0000 2020",
+    "id": 1271269420317520000,
+    "id_str": "1271269420317519872",
+    "full_text": "Your weren't \"born into\" the wrong shape either. Your shape was mostly fine, but weren't allowed to align your points when started squaring off. That'll will haunt you. Yet yr in control now.\n\nBut it's still exhausting. Not cuz of ur configuration, but because of those around u.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269419503755300,
+    "in_reply_to_status_id_str": "1271269419503755266",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269417880608769": {
+    "created_at": "Fri Jun 12 02:33:42 +0000 2020",
+    "id": 1271269417880608800,
+    "id_str": "1271269417880608769",
+    "full_text": "Others don't even care how well aligned they are.\n\nThat you grew up a square makes you irredeemable to them because it complicates their simple view of things.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      159
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269417092092000,
+    "in_reply_to_status_id_str": "1271269417092091904",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269418690056192": {
+    "created_at": "Fri Jun 12 02:33:43 +0000 2020",
+    "id": 1271269418690056200,
+    "id_str": "1271269418690056192",
+    "full_text": "And anytime you've had enough and try to make things better for yourself or others like you, you're branded an \"activist\" or \"radical\" with some kind of selfish agenda.\n\nIt takes so much out of your day to deal with all this and they get frustrated for the 5 seconds they hear...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269417880608800,
+    "in_reply_to_status_id_str": "1271269417880608769",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269419503755266": {
+    "created_at": "Fri Jun 12 02:33:43 +0000 2020",
+    "id": 1271269419503755300,
+    "id_str": "1271269419503755266",
+    "full_text": "...you say anything about it.\n\nMeanwhile, you can't NOT talk about it. Because you're always either asked about it, or have to justify it, or have to explain to someone why you need something because of it.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      206
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269418690056200,
+    "in_reply_to_status_id_str": "1271269418690056192",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269417092091904": {
+    "created_at": "Fri Jun 12 02:33:42 +0000 2020",
+    "id": 1271269417092092000,
+    "id_str": "1271269417092091904",
+    "full_text": "But it's _hard_ and society makes it hard to get help. Much of it is prohibitively expensive, and some of it may be impossible with your points as they are.\n\nYou don't want them to be this way, but some shapes think you do. And treat you badly for it.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      251
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269416114798600,
+    "in_reply_to_status_id_str": "1271269416114798593",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269414302875648": {
+    "created_at": "Fri Jun 12 02:33:42 +0000 2020",
+    "id": 1271269414302875600,
+    "id_str": "1271269414302875648",
+    "full_text": "...whole LIFE has been until now. In fact, it's only now that it's LESS confusing for you. But they don't get that.\n\nThey also don't get that every time you're in a room full of diamonds, you're constantly worried that every diamond in there just sees you as a square.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      268
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269413103325200,
+    "in_reply_to_status_id_str": "1271269413103325186",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269413103325186": {
+    "created_at": "Fri Jun 12 02:33:41 +0000 2020",
+    "id": 1271269413103325200,
+    "id_str": "1271269413103325186",
+    "full_text": "...literally erase anyone. \n\nOther shapes seem to be annoyed you complicate what they thought was a nice and simple square/diamond existence. Like, they already worry about so much and here you are confusing them and stuff. Because they can't grasp how confused your...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269412176363500,
+    "in_reply_to_status_id_str": "1271269412176363521",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269416114798593": {
+    "created_at": "Fri Jun 12 02:33:42 +0000 2020",
+    "id": 1271269416114798600,
+    "id_str": "1271269416114798593",
+    "full_text": "...they seem dramatically off. And you don't like that. It reminds you of your square days where you were so lost and confused and frustrated and grossed out at yourself.\n\nBut do THEY see it as dramatically as you do?\n\nAnd you wanna do a better job with those alignements.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269415175291000,
+    "in_reply_to_status_id_str": "1271269415175290881",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1271269415175290881": {
+    "created_at": "Fri Jun 12 02:33:42 +0000 2020",
+    "id": 1271269415175291000,
+    "id_str": "1271269415175290881",
+    "full_text": "Even when they're being nice. Are they being nice because they want to be friendly to the scared square with its points rotated?\n\nOr do they see you as a diamond, even with the slightly misaligned points?\n\nHow obvious are those point alignements? When you look in the mirror...",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1271269414302875600,
+    "in_reply_to_status_id_str": "1271269414302875648",
+    "in_reply_to_user_id": 132378897,
+    "in_reply_to_user_id_str": "132378897",
+    "in_reply_to_screen_name": "RaeGun2k",
+    "user": {
+      "id": 132378897,
+      "id_str": "132378897",
+      "name": "Neovagina Evangelion 20.20 #BIPOCLivesMatter",
+      "screen_name": "RaeGun2k",
+      "location": "Halifax, NS (she/her) 🏳️‍⚧️",
+      "description": "Hfx, Acadian, IT, cosplayer, Lady RaeGun, activist, hugger. MacGyver as a loud queer intersectional feminist. My DMs are a safe space.\n\nhttps://t.co/urwsAlu67u",
+      "url": "https://t.co/q7npdajIAl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q7npdajIAl",
+              "expanded_url": "https://www.gofundme.com/f/raeface",
+              "display_url": "gofundme.com/f/raeface",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/urwsAlu67u",
+              "expanded_url": "https://gammarae.design",
+              "display_url": "gammarae.design",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2567,
+      "friends_count": 2390,
+      "listed_count": 40,
+      "created_at": "Tue Apr 13 02:30:15 +0000 2010",
+      "favourites_count": 135785,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 102915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263540556921286657/heIp5LYv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/132378897/1575820848",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
   }
 }
