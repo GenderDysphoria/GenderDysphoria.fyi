@@ -64,7 +64,7 @@
     "html-minifier-terser": "~5.1.1",
     "image-size": "~0.8.3",
     "jquery": "~3.5.1",
-    "lodash": "~4.17.15",
+    "lodash": "~4.17.19",
     "magnific-popup": "~1.1.0",
     "make-fetch-happen": "~8.0.7",
     "markdown-it": "~11.0.0",
