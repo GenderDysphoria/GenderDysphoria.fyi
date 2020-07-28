@@ -1,13 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Managed Dysphoria: Gender in Disguise"
-description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
+title: "Disforia Gestionada: Disforia disfrazada"
+description: "No me arrepiento de las cosas que he hecho, I regret the things I didn't do when I had the chance."
 preBody: '_declaracion'
 siblings:
-  prev: /gdb/historical-dysphoria
-  prevCaption: Historical Dysphoria
-  next: /gdb/impostor-syndrome
-  nextCaption: Impostor Syndrome
+  prev: /gdb/es/disforia-historica
+  prevCaption: Disforia Histórica
+  next: /gdb/es/sindrome-del-impostor
+  nextCaption: Síndrome del Impostor
 classes:
   - gdb
 tweets:
@@ -15,70 +15,70 @@ tweets:
   - '1215749725456125952'
 ---
 
-# Managed Dysphoria
+# Disforia Gestionada
 
-Growing up in the closet, even when you don't know you're in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways in which a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives.
+Crecer estando en el clóset, aún si tú no sabes que lo estás, se vuelve una existencia creada sobre estrategias de afrontamiento destinadas a aliviar la disforia. Estas son algunas formas en las que una persona trans en el closet puede encontrar alivio a la disforia que experimentan en su vida diaria.
 
-- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare a guy's butt for hours."
+- Cuando un videojuego te da la opción de escoger tu género, sueles escogerlo diferente a tu género asignado. Esto puede ser acompañado por excusas para defender esa elección. “Estaba como hombre por defecto y no me interesó cambiarlo.” “No quiero estar viendo el trasero de un tipo por horas.”
 
-- A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women)
+- Preferencia por literatura y cine con personajes de tu verdadero género, o con personajes que rompen con las normas de género (Mulán, Mujercitas).
 
-- Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
+- Encontrar escape con pornografía que satisface fuertes deseos o con la que te identificas más, como preferir porno gay/lésbico, o secuencias de transformación.
 
-- Crossdressing or performing drag
+- Travestirse o hacer drag performativo.
 
-- Finding excuses to cut hair short, or to grow it out.
+- Encontrar excusas para cortarse el cabello, o para dejarlo crecer.
 
-- Shaving of body hair, or a refusal to shave hair you're expected to.
+- Depilar el vello corporal, o rehusarse a hacerlo cuando se esperaría.
 
-- Wearing loose and baggy clothing that hides the shape of your body.
+- Usar ropa suelta y grande que esconda las formas de tu cuerpo.
 
-- Avoiding social gatherings whenever possible, seeking isolation.
+- Evitar eventos sociales cuando es posible, buscando al aislamiento.
 
-- Becoming intimately educated about some gender associated topic, such as men's or women's clothing design
+- Familiarizarse íntimamente con algún tema asociado al género, tal como el diseño de ropa de hombre o de mujer.
 
-- Obsessively working out (AFABs)
+- Ejercitarse obsesivamente (AFANs)
 
-- Helping cis partners to shop in order to live vicariously through their presentation.
+- Ayudar a parejas cis en sus compras para experimentar  indirectamente a través de su presentación.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215746083487461379'
   '1215749725456125952'
 ] tweets=meta.tweets className="collapse" }}</div> }!}
 
-Because so much abuse is handed down on to gender non-conforming children, many trans people grow up learning to hide their natural personalities out of sheer necessity. Many trans people speak about having a phase of life where they attempted to "buy-in" on their assigned gender, performing masculinity or femininity to extremes in order to try to "fix" themselves. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
+Debido a todo el abuso que se vierte sobre niñxs que no se acomodan a su género, muchas personas trans crecen aprendiendo a esconder su personalidad natural por necesidad. Muchas personas trans hablan sobre haber tenido una etapa de su vida en la que intentaron “encajar” en su género asignado, actuando una masculinidad o feminidad extrema con el objetivo de “arreglarse” a sí mismxs. Esto lleva a tendencias de represión que superficialmente pueden parecer tóxicas, pero son simplemente el resultado de intentar esconder todo rastro de su verdadero ser.
 
-- Growing and meticulously grooming facial hair (the so called "denial beard")
+- Dejar crecer y cuidar meticulosamente el bello facial (la llamada “barba de negación”)
 
-- Taking up makeup artistry in order to perfect a high femme look.
+- Adquirir destreza con el maquillaje para perfeccionar un aspecto muy femenino.
 
-- Presenting extremely masculine or hyper feminine.
+- Presentarse de forma extremadamente masculina o hiper femenina.
 
-- Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
+- Evitar cualquier conversación sobre moda para cualquier género. Disociarse cada que ocurren actividades o conversaciones relacionadas a la moda.
 
-- Obsessively working out (AMABs)
+- Ejercitarse obsesivamente (AMANs).
 
-- Assuming a strongly stereotyped gender role in a relationship (eg, the dutifully modest housewife)
+- Asumir un rol de género fuertemente estereotipado en una relación (ejem., la modesta ama de casa)
 
-- Marrying and having kids in anticipation that it will "fix" what's wrong with you.
+- Casarse y tener hijos con la anticipación de que “arreglará” lo que está mal contigo.
 
-- Buying in to ultra-conservative attitudes towards gender and sexuality
+- Gastarse en actitudes ultra conservadoras respecto al género y la sexualidad.
 
-- Homophobia and Transphobia expressed in self defense to ward off suspicion.
+- Expresiones de homofobia y transfobia en defensa propia para alejar sospechas.
 
-- Aggressively passive engagement in anything connected to ones true gender.
+- Llevar una relación pasivo-agresiva con cualquier cosa conectada al verdadero género.
 
 
-Finally, another very common coping mechanism is to find means of escapement or mental engagement in order to forget your own feelings.
+Finalmente, otra estrategia de afrontamiento que es muy común, es encontrar medios de escape para intentar olvidar tus propios sentimientos.
 
-- Intensely investing large amounts of time into hobbies
+- Invertir grandes cantidades de tiempo en pasatiempos.
 
-- Long hours spent at work
+- Largas horas gastadas en el trabajo.
 
-- Chain binging movies, tv shows or books.
+- Encadenarse con películas, series de televisión o libros.
 
-- Spending all idle time in video games or on social media
+- Usar todo el tiempo de dispersión en videojuegos o redes sociales.
 
-- Obsessively cleaning ones living space
+- Limpieza obsesiva de los espacios.
 
-- Sleeping. Lots and lots of sleeping.
+- Dormir mucho. Pasar horas y horas durmiendo.
