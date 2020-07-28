@@ -8,8 +8,8 @@ preBody: '_disclaimer'
 siblings:
   prev: /gdb/es/disforia-presentacional
   prevCaption: Disforia Presentacional
-  next: /gdb/es/disforia-manejada
-  nextCaption: Disforia Manejada
+  next: /gdb/es/disforia-gestionada
+  nextCaption: Disforia Gestionada
 ---
 
 # Disforia Histórica
