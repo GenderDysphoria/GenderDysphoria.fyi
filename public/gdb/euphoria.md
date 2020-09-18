@@ -29,7 +29,7 @@ tweets:
 
 Before I can talk about discomfort, I have to talk about relief. Gender Euphoria is itself a sign of Gender Dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
 
-Imagine a person who was born in a cave, who spent their entire life living underground, their only source of illumination being candles and oil lamps. Imagine they've never been above ground, they don't even know the surface exists. Then one day a cavein happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later they return to the opening, and as the person's eyes adjust they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
+Imagine a person who was born in a cave, who spent their entire life living underground, their only source of illumination being candles and oil lamps. Imagine they've never been above ground, they don't even know the surface exists. Then one day a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later they return to the opening, and as the person's eyes adjust they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
 
 That world is scary, it's huge and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually they peek out more and more frequently, and further and further from the opening. They start to want that light, they find reasons to visit it more often.
 
@@ -64,7 +64,7 @@ Examples:
 - Getting a haircut in a masculine / feminine / androgynous manner
 - Shaving your legs
 - NOT shaving your legs
-- Being included in something you wouldn't otherwise because of your assigned gender (eg, bridal party or bachelor shower)
+- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal party or bachelor shower)
 - Feeling sexy / having sex in a way that aligns with your gender and sexuality.
 
 Even just being out in the world as yourself and being seen as yourself can be massively euphoric.

@@ -17,7 +17,7 @@ tweets:
 
 # Sexual Dysphoria
 
-Closely related to Societal Dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography (the bulk of trans/cis pornography involves the trans woman topping, when in reality a majority of trans women are submissive). Deviations from these roles often result in shame, both from partners and from peers.
+Closely related to Societal Dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography (the bulk of trans/cis pornography involves the trans woman topping). Deviations from these roles often result in shame, both from partners and from peers.
 
 Of course, this is not an absolute, by any means, and many heterosexual cis couples do find ways out of these molds, finding a new dynamic in their relationship, or engaging in kinks to satisfy desires. Some couples find they aren't sexually compatible at all and seek other partners. However, there are many many external pressures discouraging this kind of self-awareness and discovery, and breaking away from those demands can be extremely difficult, even traumatic. This is particularly true when there is a background of conservatism or religious virtuism.
 
@@ -29,7 +29,7 @@ What does all this mean? Trans people who enter into perceptually heterosexual r
     '1137399651458519040'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as asexual due to how severely their dysphoria has shutdown all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
+This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as sex-averse due to how severely their dysphoria has shutdown all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
 
 This dysphoria may be so significant that they find themselves taking a sexual identity that they don't actually connect with. It is not unheard of for a trans person to realize after coming out that they never actually felt a connection to the sexual orientation that they had identified with previously, but were rather using it as a way to feel less dysphoric in their sex lives.
 
@@ -37,17 +37,17 @@ Some trans women, for example, identified as gay men pre-transition out of a des
 
 # The Coercive Male Gaze
 
-æææ<div class="cw"><p><strong>Authors Note</strong>: This specific type of sexual dysphoria is difficult to explain in generalist terms, so I am going to take a departure here and write about this from my own personal experience. The following is presented from my perspective as a binary trans woman. As such, this may not be completely relatable to all trans people. My apologies.</p></div>æææ
+æææ<div class="cw"><p><strong>Author's Note</strong>: This specific type of sexual dysphoria is difficult to explain in generalist terms, so I am going to take a departure here and write about this from my own personal experience. The following is presented from my perspective as a binary trans woman. As such, this may not be completely relatable to all trans people. My apologies.</p></div>æææ
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-bottom: 5px" caption="\"Swole Mom\" - How Baby, by Lindsay Ishihiro"}}
+{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-bottom: 5px" caption="&quot;Swole Mom&quot; - How Baby, by Lindsay Ishihiro"}}
 </div>
 }!}
 
 There is a saying that is very well known in sapphic circles: "Do I want to be her, or be with her?"
 
-It can be hard to tell the difference between sexual attraction and envy, especially when you're a closeted trans teenager. Our entire society is built upon heterosexuality, it is simply the cultural default, to the point that even pre-pubescent children are barraged with messages about male to female attraction. Consequently, interest in aspects of the lives of the "opposite" sex is almost always immediately perceived as being sexual attraction.
+It can be hard to tell the difference between sexual attraction and envy, especially when you're a closeted trans teenager. Our entire society is built upon heterosexuality; it is simply the cultural default, to the point that even prepubescent children are barraged with messages about male to female attraction. Consequently, interest in aspects of the lives of the "opposite" sex is almost always immediately perceived as being sexual attraction.
 
 What is the result of this? Usually... shame. Trans children often internalize their view of their peers based on their true gender, and one does not objectify their equals. Thus the child is motivated to hide those interests out of a desire to not be seen engaging in that kind of sexual objectification. This is even further compounded if the child has been raised in a setting with very strict moral codes, such as in a conservative religious upbringing.
 
@@ -59,7 +59,7 @@ Out of shame and fear, I did everything I could to hide this passion, because I 
 
 When you see the world through a duck shaped lens, everything looks vaguely like a duck. The only framework I had been given to understand my interest in women was through sexual desire, and thus every feminine interest I had became warped into a sexual desire. My wish to be a bride morphed into a bridal kink, my desire to have a child warped into an interest in pregnancy porn, and my own need to be a girl was redirected into a transformation fetish.
 
-But on top of all of this, I was *terrified* to be seen expressing legitimate sexual interest in other women. I had male friends who were notorious rubberneckers and slack jawed gawkers; one of my former employers had an awful habit of leering at attractive women when we were out to lunch, which made me very uncomfortable to be seen with him.
+But on top of all of this, I was *terrified* to be seen expressing legitimate sexual interest in other women. I had male friends who were notorious rubberneckers and slack-jawed gawkers; one of my former employers had an awful habit of leering at attractive women when we were out to lunch, which made me very uncomfortable to be seen with him.
 
 I could not stand to be associated with that male gaze. Even around the most beautiful women, I would avoid even looking at them, because I did not want to be seen as the kind of person that stares at women. I did not want to be seen as a predator.
 
@@ -67,4 +67,4 @@ This is the coercive male gaze: [compulsory heterosexuality](https://en.wikipedi
 
 Once you remove this male framework – once one is able to perceive themselves as female and accept these interests and observations are valid – that shame and guilt completely evaporates. Even when the interest is sapphic in nature and genuinely includes sexual desire, it is no longer tainted with this layer of objectification. I am able to appreciate the femininity and the beauty of my female peers without judgments, I can compliment them without fearing being perceived as a creep, or having my intentions misinterpreted.
 
-It was a dysphoria I could not possibly have put into words until after it had finally been relieved. I was even more relieved as I began to integrate into queer womens spaces and came to realize that _women are exactly as thirsty as men are_, we're just (usually) much more respectful about it. It was a release of guilt that I didn't even know I was carrying.
+It was a dysphoria I could not possibly have put into words until after it had finally been relieved. I was even more relieved as I began to integrate into queer women's spaces and came to realize that _women are exactly as thirsty as men are_, we're just (usually) much more respectful about it. It was a release of guilt that I didn't even know I was carrying.

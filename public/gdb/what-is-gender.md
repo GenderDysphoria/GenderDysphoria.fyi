@@ -54,7 +54,7 @@ Gender also affects the expectations that the brain has for the environment it r
 
 On the social side, gender involves presentation, how we communicate, what our expectations are from life, and the roles that we fulfill as we walk through life. These are all cultural factors, things which have developed within the population over time, but regardless of being essentially "made up", they are still connected to a gender identity. A person tends to connect to the social aspects of their internal gender, without even realizing they are doing it, and when they are denied access to those social aspects, this results in discomfort with their social position in life.
 
-John Money's experiments attempted to confirm his belief that gender is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Bio-Chemical Dysphoria section). Gender does not change, every human is the same gender at 40 that they were at 4. What changes is our own personal understanding of our gender as we mature as individuals.
+John Money's experiments attempted to confirm his belief that gender is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). Gender does not change, every human is the same gender at 40 that they were at 4. What changes is our own personal understanding of our gender as we mature as individuals.
 
 These negative symptoms (depression, derealization, social discomfort) are the symptoms of Gender Dysphoria.
 
