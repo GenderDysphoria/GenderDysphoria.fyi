@@ -1,0 +1,23 @@
+{
+  "name": "decorate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "aws s3 sync s3://gdbible-analytics/RAW ./RAW",
+    "combine": "find RAW -name '*.gz' -exec cat '{}' ';'| zcat | sed '/^#/ d' > combined.log"
+  },
+  "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cloudfront-log-parser": "~1.1.0",
+    "date-fns": "~2.9.0",
+    "split2": "~3.2.2",
+    "through2": "~4.0.2",
+    "ua-parser-js": "~0.7.21"
+  },
+  "engines": {
+    "node": ">=12.14.0"
+  },
+  "devDependencies": {}
+}
