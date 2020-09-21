@@ -4,7 +4,7 @@ title: "Como se Manifiesta la Disforia de Género: Disforia Histórica"
 description: "No me arrepiento de las cosas que hice, me arrepiento de las cosas que no hice cuando tuve la oportunidad."
 classes:
   - gdb
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /gdb/es/disforia-presentacional
   prevCaption: Disforia Presentacional
