@@ -22,7 +22,7 @@ Or to put it bluntly, WPATH says that if you think you're trans, you're trans. T
 
 {!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
-Diagnoses of Gender Dysphoria in pre-pubescent children requires the child must have a documented six month history of meeting 6 of these criteria, as well as demonstrated distress or impairment in function.
+Diagnosis of Gender Dysphoria in prepubescent children requires the child must have a documented six month history of meeting six of these criteria, as well as demonstrated distress or impairment in function.
 
 1. A strong desire to be of the other gender or an insistence that one is the other gender
 2. A strong preference for wearing clothes typical of the opposite gender
@@ -35,18 +35,18 @@ Diagnoses of Gender Dysphoria in pre-pubescent children requires the child must 
 
 {!{ </div></div></div> }!}
 
-**Note** These are the criteria for adolescents and adults. Children have a different set of criteria, which [you can find here](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). I have also changed the wording slightly, here, as the official criteria are binary centric.
+**Note** These are the criteria for adolescents and adults. Children have a different set of criteria, which [you can find here](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). I have also changed the wording slightly, here, as the official criteria are binary-centric.
 
 For an adult to be diagnosed with Gender Dysphoria by a licensed mental health professional they must meet two of these six criteria, and have experienced those criteria for longer than six months.
 
 - **A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**
 
-  The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the gender they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what genders they relate to more.
+  The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the gender they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what gender(s) they relate to more.
 
 - **A strong desire to be rid of one’s primary and/or secondary sex characteristics**
 - **A strong desire for the primary and/or secondary sex characteristics of another gender**
   
-  These two are pretty well paired, this is physical dysphoria as I defined it above. The person finds discomfort with aspects of their body which are a result of their sex at birth, or may even be their sex at birth.
+  These two are pretty well paired. This is physical dysphoria as previously defined. The person finds discomfort with aspects of their body which are a result of their sex at birth.
 
 - **A strong desire to be of another gender**
 - **A strong desire to be treated as another gender**
@@ -57,10 +57,10 @@ For an adult to be diagnosed with Gender Dysphoria by a licensed mental health p
 
   This is pretty self explanatory.
 
-As I said, only two of these conditions need be met for a formal diagnoses. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing Gender Dysphoria without actually hating any part of their body, or wanting to change any part of their body. Physical Dysphoria is only one fraction of the many ways that lead to being trans.
+As I said, only two of these conditions need be met for a formal diagnosis. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing Gender Dysphoria without actually hating any part of their body, or wanting to change any part of their body. Physical Dysphoria is only one fraction of the many ways that lead to being trans.
 
 Now, here is the kicker. If you identify as transgender, meaning that your gender does not align with the binary sex you were assigned at birth, you already meet two of these criteria! You have a strong enough desire to be of another gender that you are identifying that you *are* another gender, and you have a strong conviction of what your gender feels like, and it isn't what you were given at birth.
 
 So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement "you do not have to have dysphoria to be transgender" is a logical paradox.
 
-Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra, than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
+Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.

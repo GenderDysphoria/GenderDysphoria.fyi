@@ -88,6 +88,6 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [Aromatase Deficiency](https://en.wikipedia.org/wiki/Aromatase_deficiency) causes masculinization of an otherwise female child due to excess levels of testosterone (and can bleed-over into the mother during gestation).
 
-- [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
+- [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
 
 {!{ {{import '~/img' images.barbosa className="card borderless center" alt="The code is more what you'd call guidelines, than actual rules."}} }!}

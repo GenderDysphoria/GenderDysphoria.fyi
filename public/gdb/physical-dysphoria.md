@@ -66,7 +66,7 @@ The core reproductive features which develop during pregnancy
 {!{ </div>  <h4>Secondary Sexual Characteristics</h4>
 <div class="two-col"> }!}
 
-All sexually dimorphic features which develop during and after puberty as a result of hormone exposure. In general, these features are all nearly identical for both male and female pre-pubescent children.
+All sexually dimorphic features which develop during and after puberty as a result of hormone exposure. In general, these features are all nearly identical for both male and female prepubescent children.
 
 - Fat Distribution
   - Waist, Hips, Butt Shape
@@ -130,13 +130,15 @@ Sometimes it may just simply be a feeling of being incorrect, which you may not 
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminisation surgery, but then 2 years in to transition, realize they're actually ok with how they look.
+The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they're actually okay with how they look.
 
-It's ok for you to realize you need more or less than when you started.
+It's okay for you to realize you need more or less than when you started.
 
-It's ok if you don't hate anything about your body, and just wish you looked more feminine or masculine.
+It's okay if you don't hate anything about your body, and just wish you looked more feminine or masculine.
 
-It's ok if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
+It's okay if you only hate some aspects of your body, and don't wish to change all of its sexual characteristics.
+
+It's okay if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
 
 **Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.**
 

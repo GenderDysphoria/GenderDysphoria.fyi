@@ -32,7 +32,7 @@ These are changes to how you style yourself, be it your clothes, your hair, or t
 
 ## Medical Transition
 
-For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For pre-pubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
+For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
 
 ***PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION***.
 
@@ -44,7 +44,7 @@ Furthermore, no surgeon in the United States will perform a gender altering surg
 
 **Trans Masculine Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
 
-**Trans Feminine Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolacotone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**Trans Feminine Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
 
 **In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
 
@@ -64,6 +64,8 @@ Transgender surgeries are typically divided into three separate categories:
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
 A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
+
+An additional option for non-binary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
 
 {!{ </div></div></div> }!}
 
@@ -87,7 +89,7 @@ A newly developing area of bottom surgery is in AMAB non-binary operations which
 
   - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
 
-**Facial Feminizing / Masculinizing Surgery** (modifications to the skull, cartilage and skin on the face).
+**Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
 
   The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
 
@@ -116,6 +118,6 @@ A newly developing area of bottom surgery is in AMAB non-binary operations which
 Other Trans Feminine Surgeries:
 
 - Brazilian Butt Lift. Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
-- Voice Feminisation Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
+- Voice Feminization Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
 - Cinderella Surgery. Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
 - Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY

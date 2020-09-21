@@ -26,7 +26,7 @@ siblings:
 
 # Biochemical Dysphoria
 
-The primary sexual features of the body begin development during the 8th week of human gestation. Typically by week 11 it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms itself in [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the infant's bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
+The primary sexual features of the body begin development during the 8th week of human gestation. Typically by week 11 it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the infant's bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
 
 If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, Depersonalization and Derealization (DPDR).
 
@@ -101,17 +101,17 @@ If you found yourself strongly relating to The Matrix or The Truman Show, you mi
 
 DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it. This can also go in the opposite direction, where the person is under so much anxiety that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
 
-It's important to note that DPDR is not exclusive to Gender Dysphoria. This condition is co-morbid with several other mental health issues, including chronic depression, obsessive compulsive disorder and borderline personality disorder. DPDR should not be taken as a sign of Gender Dysphoria purely on its own, it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
+It's important to note that DPDR is not exclusive to Gender Dysphoria. This condition is co-morbid with several other mental health issues, including chronic depression, obsessive compulsive disorder, and borderline personality disorder. DPDR should not be taken as a sign of Gender Dysphoria purely on its own, it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
 
 ### The Ebb and Flow
 
 The intensity of physical and biochemical dysphoria is highly influenced by other factors in the body. Because it is a function of endocrine balance, it is also manipulated by those balances. This means that it can rise and fall from day to day. For example:
 
 - If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
-- If you are having dopamine withdrawl because of ceasing stimulants, that can make it worse.
+- If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.
 - If you start on an SSRI Antidepressant and start running with more serotonin, that can make it less intense.
 - Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
-- Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria worsen and lessen based on what day of the cycle they are on.
+- Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 
