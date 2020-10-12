@@ -72,7 +72,7 @@ class ClientScript extends File {
     let contents = await Promise.map(files, readFile);
     contents = contents.join('\n\n');
     if (prod) {
-      const { code, error } = minify(contents, { output: { comments: false } });
+      const { code, error } = await minify(contents, { output: { comments: false } });
       if (error) throw new Error(error);
       contents = code;
     }

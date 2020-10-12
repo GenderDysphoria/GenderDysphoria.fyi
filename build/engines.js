@@ -45,7 +45,7 @@ function markdown (mode, input, data, hbs) {
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
       .replace(/æææ[\s\S]*?æææ/gi, '')
       .replace(/\{!\{([\s\S]*?)\}!\}/mg, ''),
-    ).trim();
+    ).result.trim();
     if (input.length > 1000) input = input.slice(0, 1000) + '…';
 
   } else {
