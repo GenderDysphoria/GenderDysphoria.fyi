@@ -11,3 +11,8 @@ exports.dev = function cleanDistributionForDev () {
   return src([ 'dist/**.{js|json|jsx}', 'rev-manifest.json', 'pages.json', 'assets.json'  ], { read: false, allowEmpty: true })
     .pipe(clean());
 };
+
+exports.prodBackup = function cleanProdCopy () {
+  return src([ 'published' ], { read: false, allowEmpty: true })
+    .pipe(clean());
+};

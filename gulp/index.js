@@ -1,5 +1,5 @@
 
-const { series, watch } = require('gulp');
+const { series, watch, src, dest } = require('gulp');
 
 /** **************************************************************************************************************** **/
 
@@ -26,6 +26,10 @@ exports.cloudfront = cloudfront;
 
 exports.new = require('../build/new-post.js');
 
+function copyProd () {
+  return src('dist/**/*').pipe(dest('published'));
+}
+
 /** **************************************************************************************************************** **/
 
 exports.dev  = series(devBuildTask);
@@ -34,6 +38,8 @@ exports.publish = series(
   cleanTask,
   prodBuildTask,
   pushToProd,
+  cleanTask.prodBackup,
+  copyProd,
   cloudfront.prod,
 );
 exports.testpush = pushToProd.dryrun;
