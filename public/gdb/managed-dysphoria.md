@@ -5,7 +5,7 @@ description: "I don't regret the things I have done, I regret the things I didn'
 preBody: '_disclaimer'
 siblings:
   prev: /gdb/historical-dysphoria
-  prevCaption: Historical Dysphoria
+  prevCaption: Existential Dysphoria
   next: /gdb/impostor-syndrome
   nextCaption: Impostor Syndrome
 classes:

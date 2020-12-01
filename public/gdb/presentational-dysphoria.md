@@ -7,7 +7,7 @@ siblings:
   prev: /gdb/sexual-dysphoria
   prevCaption: Sexual Dysphoria
   next: /gdb/historical-dysphoria
-  nextCaption: Historical Dysphoria
+  nextCaption: Existential Dysphoria
 classes:
   - gdb
 tweets:
