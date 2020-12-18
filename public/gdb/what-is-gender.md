@@ -20,7 +20,15 @@ tweets:
   '1228717614630940672'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-If you trace the etymology of the word to its Latin roots, gender simply means "type". Historically the word was used in literature to refer to masculine, feminine and neutral nouns. In 1955 psychologist John Money proposed using the term to differentiate mental sex from physical sex, but he was not the first to do so.
+If you trace the etymology of the word to its Latin roots, gender simply means "type". The Norman French term **gendre** was in use in the 12th century to describe "the quality of being male or female."
+
+Many people attribute the term to psychologist John Money, who proposed using "gender" in 1955 to differentiate mental sex from physical sex. However, Money was not the first to do so. Cultural Anthropologist [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) used the term in 1949 in her book "Male and Female" to distinguish gendered behaviors and roles from biological sex. The American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) described the book thusly:
+
+> A book, moreover, which gives beyond its premise; for it informs the reader upon **'gender' as well as upon 'sex,'** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
+>
+> Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
+
+---
 
 Human Sex (the adjective, not the verb) is broken down into three categories:
 
