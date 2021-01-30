@@ -45870,5 +45870,5509 @@
     "favorited": false,
     "retweeted": false,
     "lang": "en"
+  },
+  "1351352502810271751": {
+    "created_at": "Tue Jan 19 02:15:18 +0000 2021",
+    "id": 1351352502810271700,
+    "id_str": "1351352502810271751",
+    "full_text": "Affirmation and transition support was a last ditch effort to deal with the fact that we couldn't be normalised into cissexism.\n\nThey tried. Some trans people even willingly tried to be converted. Some still do.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      211
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351352097179107300,
+    "in_reply_to_status_id_str": "1351352097179107330",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 114,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351393515767476226": {
+    "created_at": "Tue Jan 19 04:58:16 +0000 2021",
+    "id": 1351393515767476200,
+    "id_str": "1351393515767476226",
+    "full_text": "There are millions of ways for shrinks to extract money from desperate people one way or another.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      97
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351393124975841300,
+    "in_reply_to_status_id_str": "1351393124975841280",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 49,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351373041280937985": {
+    "created_at": "Tue Jan 19 03:36:54 +0000 2021",
+    "id": 1351373041280938000,
+    "id_str": "1351373041280937985",
+    "full_text": "(and we know for an absolute fact you can not cure homosexuality with psychotherapy also)",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      89
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351372918522077200,
+    "in_reply_to_status_id_str": "1351372918522077184",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 54,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351355625779961858": {
+    "created_at": "Tue Jan 19 02:27:42 +0000 2021",
+    "id": 1351355625779961900,
+    "id_str": "1351355625779961858",
+    "full_text": "PS there was detransition and surgical regret back then too. That's life, and it doesn't change the fact that there wasn't a \"cure\" for being trans. https://t.co/8B8s7ndFiG",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      148
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351355621975720000,
+          "id_str": "1351355621975719942",
+          "indices": [
+            149,
+            172
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD6x0UXAAYTGpw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD6x0UXAAYTGpw.jpg",
+          "url": "https://t.co/8B8s7ndFiG",
+          "display_url": "pic.twitter.com/8B8s7ndFiG",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351355625779961858/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1053,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1053,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 663,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351355621975720000,
+          "id_str": "1351355621975719942",
+          "indices": [
+            149,
+            172
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD6x0UXAAYTGpw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD6x0UXAAYTGpw.jpg",
+          "url": "https://t.co/8B8s7ndFiG",
+          "display_url": "pic.twitter.com/8B8s7ndFiG",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351355625779961858/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1053,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1053,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 663,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351354176178188300,
+    "in_reply_to_status_id_str": "1351354176178188288",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 103,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351393124975841280": {
+    "created_at": "Tue Jan 19 04:56:43 +0000 2021",
+    "id": 1351393124975841300,
+    "id_str": "1351393124975841280",
+    "full_text": "In fact the current crop of Gender Critical Therapists are quite happily advertising themselves for business to transphobic parents groups to repeat the same thing 50-60 years later. There's money to be made in hate and anxiety.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351392909833236500,
+    "in_reply_to_status_id_str": "1351392909833236480",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 59,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351373290946891777": {
+    "created_at": "Tue Jan 19 03:37:54 +0000 2021",
+    "id": 1351373290946891800,
+    "id_str": "1351373290946891777",
+    "full_text": "Further in that study above with the 50% gay conversion therapy rate they fail to \"cure\" either of the two transsexuals in their patient cohort. https://t.co/JXswMtbudo",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      144
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351373288732299300,
+          "id_str": "1351373288732299267",
+          "indices": [
+            145,
+            168
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEK2KHXEAMJxST.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEK2KHXEAMJxST.jpg",
+          "url": "https://t.co/JXswMtbudo",
+          "display_url": "pic.twitter.com/JXswMtbudo",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351373290946891777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 596,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 375,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 596,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351373288732299300,
+          "id_str": "1351373288732299267",
+          "indices": [
+            145,
+            168
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEK2KHXEAMJxST.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEK2KHXEAMJxST.jpg",
+          "url": "https://t.co/JXswMtbudo",
+          "display_url": "pic.twitter.com/JXswMtbudo",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351373290946891777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 596,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 375,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 596,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351373041280938000,
+    "in_reply_to_status_id_str": "1351373041280937985",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351392909833236480": {
+    "created_at": "Tue Jan 19 04:55:52 +0000 2021",
+    "id": 1351392909833236500,
+    "id_str": "1351392909833236480",
+    "full_text": "Commercially they would have done just fine carrying on with the stigma model and putting trans people on cocktails of pentothal, tranquillisers, Acid and whatever else seemed to tickle their fancy, along with the hypnotherapy, electroshock and behavioural therapy.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      265
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351392544698065000,
+    "in_reply_to_status_id_str": "1351392544698064896",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 51,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351374347613696001": {
+    "created_at": "Tue Jan 19 03:42:06 +0000 2021",
+    "id": 1351374347613696000,
+    "id_str": "1351374347613696001",
+    "full_text": "https://t.co/owZayIa4BA\n\nNoone studying transsexuals in the 60s or 70s seriously held on to the idea that conversion therapy on trans people worked for very long. https://t.co/7cRACiNm45",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      162
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/owZayIa4BA",
+          "expanded_url": "https://link.springer.com/article/10.1007/BF01873871",
+          "display_url": "link.springer.com/article/10.100…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1351374344761593900,
+          "id_str": "1351374344761593856",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsELzoIXUAA4BnY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsELzoIXUAA4BnY.jpg",
+          "url": "https://t.co/7cRACiNm45",
+          "display_url": "pic.twitter.com/7cRACiNm45",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351374347613696001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 835,
+              "h": 236,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 835,
+              "h": 236,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351374344761593900,
+          "id_str": "1351374344761593856",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsELzoIXUAA4BnY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsELzoIXUAA4BnY.jpg",
+          "url": "https://t.co/7cRACiNm45",
+          "display_url": "pic.twitter.com/7cRACiNm45",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351374347613696001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 835,
+              "h": 236,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 835,
+              "h": 236,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351373607344210000,
+    "in_reply_to_status_id_str": "1351373607344209922",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 57,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351392544698064896": {
+    "created_at": "Tue Jan 19 04:54:24 +0000 2021",
+    "id": 1351392544698065000,
+    "id_str": "1351392544698064896",
+    "full_text": "Another worthwhile takeaway point is that the idea that shrinks created trans people in order to have a captive population to sell prescription drugs to is utter bullshit. They were very happy drugging trans people up to try and prevent trans people being trans before that.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351391874314088400,
+    "in_reply_to_status_id_str": "1351391874314088449",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351391874314088449": {
+    "created_at": "Tue Jan 19 04:51:45 +0000 2021",
+    "id": 1351391874314088400,
+    "id_str": "1351391874314088449",
+    "full_text": "Also for science philosophy folks this feels like an object lesson in the problem of people not publishing negative results.\n\nCountless notes in articles about Transsexuals saying \"we've never successfully converted one to a cis person\", and no actual data.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351389137602044000,
+    "in_reply_to_status_id_str": "1351389137602043905",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 57,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351385708779499522": {
+    "created_at": "Tue Jan 19 04:27:15 +0000 2021",
+    "id": 1351385708779499500,
+    "id_str": "1351385708779499522",
+    "full_text": "After 1964 when Harry Benjamin publishes on transsexuality you search for psychotherapy +Transsexual.\n\nBefore 1964, you search for \"sex role inversion\" to find Transsexual people. \n\nAnyway, here in 1960, recording the failure so far to cure transsexuals with psychotherapy. https://t.co/r17SqCNrCe",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351385705260445700,
+          "id_str": "1351385705260445699",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEWI5SW8AMgd6r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEWI5SW8AMgd6r.jpg",
+          "url": "https://t.co/r17SqCNrCe",
+          "display_url": "pic.twitter.com/r17SqCNrCe",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351385708779499522/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 828,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 469,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1565,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351385705260445700,
+          "id_str": "1351385705260445699",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEWI5SW8AMgd6r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEWI5SW8AMgd6r.jpg",
+          "url": "https://t.co/r17SqCNrCe",
+          "display_url": "pic.twitter.com/r17SqCNrCe",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351385708779499522/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 828,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 469,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1565,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351376225894334500,
+    "in_reply_to_status_id_str": "1351376225894334466",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 55,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351362265031835651": {
+    "created_at": "Tue Jan 19 02:54:05 +0000 2021",
+    "id": 1351362265031835600,
+    "id_str": "1351362265031835651",
+    "full_text": "I'm searching through this stuff because I feel like it's important that our predecessors suffering is not forgotten and repeated on our youngers.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      146
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351361678257041400,
+    "in_reply_to_status_id_str": "1351361678257041410",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 100,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351350531701301254": {
+    "created_at": "Tue Jan 19 02:07:28 +0000 2021",
+    "id": 1351350531701301200,
+    "id_str": "1351350531701301254",
+    "full_text": "The lesson that psychotherapy won't fix \"Transgenderism\" (transsexuality, whatever) was hard learned, and it was learned to the cost of countless trans lives being subjected to hubristic psychiatric experiments aimed at correcting trans ppl towards a cissexist patriarchal ideal.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351350026900033500,
+    "in_reply_to_status_id_str": "1351350026900033536",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 128,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351347830854737922": {
+    "created_at": "Tue Jan 19 01:56:44 +0000 2021",
+    "id": 1351347830854738000,
+    "id_str": "1351347830854737922",
+    "full_text": "I'm not a big fan of psych, but credit where credit is due, some of them stopped trying to fry the transsexuality out of us as early as the 70s.\n\nCitation here if you want to read the article on sci Hub dot se.\nhttps://t.co/SLbzSZKCzR",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      234
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SLbzSZKCzR",
+          "expanded_url": "https://psycnet.apa.org/record/2013-42023-007",
+          "display_url": "psycnet.apa.org/record/2013-42…",
+          "indices": [
+            211,
+            234
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351347418332278800,
+    "in_reply_to_status_id_str": "1351347418332278785",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 116,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351349705071087616": {
+    "created_at": "Tue Jan 19 02:04:11 +0000 2021",
+    "id": 1351349705071087600,
+    "id_str": "1351349705071087616",
+    "full_text": "Only 4 years earlier this study had been published.\n\nThey managed to show that if you subject a17 year old trans girl to electric shocks while trying to get her to imagine having sex with women and stop being effeminate, she will eventually butch up to stop the shocks. https://t.co/XE75o9te8d",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351349701820481500,
+          "id_str": "1351349701820481539",
+          "indices": [
+            270,
+            293
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD1ZOBXAAM3N4L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD1ZOBXAAM3N4L.jpg",
+          "url": "https://t.co/XE75o9te8d",
+          "display_url": "pic.twitter.com/XE75o9te8d",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351349705071087616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 940,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 533,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1379,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351349701820481500,
+          "id_str": "1351349701820481539",
+          "indices": [
+            270,
+            293
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD1ZOBXAAM3N4L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD1ZOBXAAM3N4L.jpg",
+          "url": "https://t.co/XE75o9te8d",
+          "display_url": "pic.twitter.com/XE75o9te8d",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351349705071087616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 940,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 533,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1379,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351347830854738000,
+    "in_reply_to_status_id_str": "1351347830854737922",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 98,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351375108233957377": {
+    "created_at": "Tue Jan 19 03:45:07 +0000 2021",
+    "id": 1351375108233957400,
+    "id_str": "1351375108233957377",
+    "full_text": "https://t.co/jP1ycrE1c1\n\nNew Zealand shrinks gave LSD and behavioural therapy to transsexuals in 1968 but only succeeded in making them unhappily tolerate not transitioning, rather than making them reconciled with their assigned sex. https://t.co/rUW6ILWzFs",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      233
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jP1ycrE1c1",
+          "expanded_url": "https://journals.sagepub.com/doi/abs/10.3109/00048676809159204",
+          "display_url": "journals.sagepub.com/doi/abs/10.310…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1351375104933044200,
+          "id_str": "1351375104933044225",
+          "indices": [
+            234,
+            257
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEMf3_XIAELzru.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEMf3_XIAELzru.jpg",
+          "url": "https://t.co/rUW6ILWzFs",
+          "display_url": "pic.twitter.com/rUW6ILWzFs",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351375108233957377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 322,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 970,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 568,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351375104933044200,
+          "id_str": "1351375104933044225",
+          "indices": [
+            234,
+            257
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEMf3_XIAELzru.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEMf3_XIAELzru.jpg",
+          "url": "https://t.co/rUW6ILWzFs",
+          "display_url": "pic.twitter.com/rUW6ILWzFs",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351375108233957377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 322,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 970,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 568,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351374347613696000,
+    "in_reply_to_status_id_str": "1351374347613696001",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 52,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351356232112734208": {
+    "created_at": "Tue Jan 19 02:30:07 +0000 2021",
+    "id": 1351356232112734200,
+    "id_str": "1351356232112734208",
+    "full_text": "Yes this. Even the most supportive and benevolent psychiatrists and psychologists were bastards who abused their patients, or wished they could.\n\nI'm pretty psych skeptical and my use of this historic clinical evidence isn't intended as an endorsement.\nhttps://t.co/nrgWF6kvXq",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nrgWF6kvXq",
+          "expanded_url": "https://twitter.com/two_n_minus_one/status/1351355676992290816?s=19",
+          "display_url": "twitter.com/two_n_minus_on…",
+          "indices": [
+            253,
+            276
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351355625779961900,
+    "in_reply_to_status_id_str": "1351355625779961858",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1351355676992290800,
+    "quoted_status_id_str": "1351355676992290816",
+    "quoted_status_permalink": {
+      "url": "https://t.co/nrgWF6kvXq",
+      "expanded": "https://twitter.com/two_n_minus_one/status/1351355676992290816?s=19",
+      "display": "twitter.com/two_n_minus_on…"
+    },
+    "quoted_status": {
+      "created_at": "Tue Jan 19 02:27:55 +0000 2021",
+      "id": 1351355676992290800,
+      "id_str": "1351355676992290816",
+      "full_text": "@Chican3ry i know intellectually that this flavor of wording is probably more or less typical for the time, but i still can't help reading a malevolence here. \"what we really need is a sweet new way to do lobotomies\" https://t.co/k6XKea7qNl",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chican3ry",
+            "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+            "id": 410151321,
+            "id_str": "410151321",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1351355050690441200,
+            "id_str": "1351355050690441216",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+            "url": "https://t.co/k6XKea7qNl",
+            "display_url": "pic.twitter.com/k6XKea7qNl",
+            "expanded_url": "https://twitter.com/two_n_minus_one/status/1351355676992290816/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 150,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 85,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1773,
+                "h": 222,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1351355050690441200,
+            "id_str": "1351355050690441216",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+            "url": "https://t.co/k6XKea7qNl",
+            "display_url": "pic.twitter.com/k6XKea7qNl",
+            "expanded_url": "https://twitter.com/two_n_minus_one/status/1351355676992290816/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 150,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 85,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1773,
+                "h": 222,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1351354176178188300,
+      "in_reply_to_status_id_str": "1351354176178188288",
+      "in_reply_to_user_id": 410151321,
+      "in_reply_to_user_id_str": "410151321",
+      "in_reply_to_screen_name": "Chican3ry",
+      "user": {
+        "id": 488142405,
+        "id_str": "488142405",
+        "name": "odds",
+        "screen_name": "two_n_minus_one",
+        "location": "Treaty 7 Lands (Calgary, AB)",
+        "description": "30. autistic intersectional commie transbian. on land of the Blackfoot Confederacy. i used to play bowser. banner: @theaaronschmit\n\nBlack lives matter.\n\nshe/her",
+        "url": "https://t.co/sCbBx99g3o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sCbBx99g3o",
+                "expanded_url": "https://melissadahn.substack.com/",
+                "display_url": "melissadahn.substack.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1030,
+        "friends_count": 1489,
+        "listed_count": 3,
+        "created_at": "Fri Feb 10 04:01:07 +0000 2012",
+        "favourites_count": 29160,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9858,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1308523945860034560/bdwlyJVz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308523945860034560/bdwlyJVz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/488142405/1610518790",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 6,
+    "favorite_count": 90,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351389137602043905": {
+    "created_at": "Tue Jan 19 04:40:52 +0000 2021",
+    "id": 1351389137602044000,
+    "id_str": "1351389137602043905",
+    "full_text": "But we have evidence that for nearly the entire history of (English speaking) psychotherapy as an academic research field, there have been psychotherapists very candidly discussing the fact that they can not successfully cure being trans.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      238
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351389136180154400,
+    "in_reply_to_status_id_str": "1351389136180154369",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 59,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351365306703355904": {
+    "created_at": "Tue Jan 19 03:06:10 +0000 2021",
+    "id": 1351365306703356000,
+    "id_str": "1351365306703355904",
+    "full_text": "To be honest I'm willing to bet that the transvestites and so on were just better equipped to lie about carrying on doing what they do because I'm not sure there's a great history of therapy stopping people being transvestites either.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      234
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351362749008326700,
+    "in_reply_to_status_id_str": "1351362749008326656",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 76,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351356701379854338": {
+    "created_at": "Tue Jan 19 02:31:59 +0000 2021",
+    "id": 1351356701379854300,
+    "id_str": "1351356701379854338",
+    "full_text": "These people wanted us not to exist as trans people. None of them wanted trans people to be part of the fabric of humanity. Some recognised it wasn't in their power to stop us existing and would try to enable us so far as trans ppl were under an obligation to hide their transness",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351356232112734200,
+    "in_reply_to_status_id_str": "1351356232112734208",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 94,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351371644145721344": {
+    "created_at": "Tue Jan 19 03:31:21 +0000 2021",
+    "id": 1351371644145721300,
+    "id_str": "1351371644145721344",
+    "full_text": "1964, Harry Benjamin, back when they were injecting trans women with (poisonous) DES as an hrt.\n\n\"Formal psychotherapy is resisted very strongly and whenever attempted has failed at reversing the psychological trend\". https://t.co/m2lhbDhi35",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      217
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351371641436188700,
+          "id_str": "1351371641436188672",
+          "indices": [
+            218,
+            241
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEJWRdXMAAOtzb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEJWRdXMAAOtzb.jpg",
+          "url": "https://t.co/m2lhbDhi35",
+          "display_url": "pic.twitter.com/m2lhbDhi35",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351371644145721344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 623,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 392,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 623,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351371641436188700,
+          "id_str": "1351371641436188672",
+          "indices": [
+            218,
+            241
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEJWRdXMAAOtzb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEJWRdXMAAOtzb.jpg",
+          "url": "https://t.co/m2lhbDhi35",
+          "display_url": "pic.twitter.com/m2lhbDhi35",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351371644145721344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 623,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 392,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 623,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351370831226679300,
+    "in_reply_to_status_id_str": "1351370831226679299",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351362749008326656": {
+    "created_at": "Tue Jan 19 02:56:01 +0000 2021",
+    "id": 1351362749008326700,
+    "id_str": "1351362749008326656",
+    "full_text": "Here's a chart showing the efficacy of attempts at aversion therapy. Everyone reduces their \"deviant\" behaviours in the first few months of it. The therapy looks like it's working. And then many of them return to average (most of all the transsexuals). https://t.co/GJi8XevCzj",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351362746449854500,
+          "id_str": "1351362746449854465",
+          "indices": [
+            253,
+            276
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEBQhDXAAECUBf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEBQhDXAAECUBf.jpg",
+          "url": "https://t.co/GJi8XevCzj",
+          "display_url": "pic.twitter.com/GJi8XevCzj",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351362749008326656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 970,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 322,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351362746449854500,
+          "id_str": "1351362746449854465",
+          "indices": [
+            253,
+            276
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEBQhDXAAECUBf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEBQhDXAAECUBf.jpg",
+          "url": "https://t.co/GJi8XevCzj",
+          "display_url": "pic.twitter.com/GJi8XevCzj",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351362749008326656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 970,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 322,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351362265031835600,
+    "in_reply_to_status_id_str": "1351362265031835651",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351358737513123844": {
+    "created_at": "Tue Jan 19 02:40:04 +0000 2021",
+    "id": 1351358737513123800,
+    "id_str": "1351358737513123844",
+    "full_text": "Shout out to my psych skeptical trans activist ancestors from 1969 https://t.co/WDGVkLb5v1",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      66
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351358732828082200,
+          "id_str": "1351358732828082179",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD9m5JXAAMxDRR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD9m5JXAAMxDRR.jpg",
+          "url": "https://t.co/WDGVkLb5v1",
+          "display_url": "pic.twitter.com/WDGVkLb5v1",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351358737513123844/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1080,
+              "h": 1592,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 814,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 461,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351358732828082200,
+          "id_str": "1351358732828082179",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD9m5JXAAMxDRR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD9m5JXAAMxDRR.jpg",
+          "url": "https://t.co/WDGVkLb5v1",
+          "display_url": "pic.twitter.com/WDGVkLb5v1",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351358737513123844/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1080,
+              "h": 1592,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 814,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 461,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351356701379854300,
+    "in_reply_to_status_id_str": "1351356701379854338",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 89,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351354176178188288": {
+    "created_at": "Tue Jan 19 02:21:57 +0000 2021",
+    "id": 1351354176178188300,
+    "id_str": "1351354176178188288",
+    "full_text": "Here's Harry Benjamin in 1969 talking about the failure to cure transsexuals through psychotherapy.\n\nThe \"lady brain\" hypothesis may be bullshit, but it is if nothing else, rooted in a history of trying to invent a biological account for the ineffectiveness of conversion therapy. https://t.co/WgR9JnA8vC",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351354172256485400,
+          "id_str": "1351354172256485377",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD5dbsXAAE09up.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD5dbsXAAE09up.jpg",
+          "url": "https://t.co/WgR9JnA8vC",
+          "display_url": "pic.twitter.com/WgR9JnA8vC",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351354176178188288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 326,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 517,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351354172256485400,
+          "id_str": "1351354172256485377",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD5dbsXAAE09up.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD5dbsXAAE09up.jpg",
+          "url": "https://t.co/WgR9JnA8vC",
+          "display_url": "pic.twitter.com/WgR9JnA8vC",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351354176178188288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 326,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 517,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351352502810271700,
+    "in_reply_to_status_id_str": "1351352502810271751",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 113,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351389136180154369": {
+    "created_at": "Tue Jan 19 04:40:52 +0000 2021",
+    "id": 1351389136180154400,
+    "id_str": "1351389136180154369",
+    "full_text": "The earliest psychotherapeutic discussion of \"sex role inversion\" I can find is in the 1950s though, I think possibly because psychotherapy hadn't taken off in the English speaking world until then.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351385708779499500,
+    "in_reply_to_status_id_str": "1351385708779499522",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 49,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351352097179107330": {
+    "created_at": "Tue Jan 19 02:13:41 +0000 2021",
+    "id": 1351352097179107300,
+    "id_str": "1351352097179107330",
+    "full_text": "American journal of Psychiatry, 1969.\n\n\"Traditional psychotherapies have been unsuccessful in altering gender identity once it is established\"\n\nThey spent literally years trying though.\n\nThat's the power of cissexism. There are still people, after all these years, still trying. https://t.co/vv4GwL2KX9",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351352093530083300,
+          "id_str": "1351352093530083333",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD3kb1XUAU0Awa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD3kb1XUAU0Awa.jpg",
+          "url": "https://t.co/vv4GwL2KX9",
+          "display_url": "pic.twitter.com/vv4GwL2KX9",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351352097179107330/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1448,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 895,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 507,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351352093530083300,
+          "id_str": "1351352093530083333",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD3kb1XUAU0Awa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD3kb1XUAU0Awa.jpg",
+          "url": "https://t.co/vv4GwL2KX9",
+          "display_url": "pic.twitter.com/vv4GwL2KX9",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351352097179107330/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1448,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 895,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 507,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351350531701301200,
+    "in_reply_to_status_id_str": "1351350531701301254",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 148,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351361678257041410": {
+    "created_at": "Tue Jan 19 02:51:45 +0000 2021",
+    "id": 1351361678257041400,
+    "id_str": "1351361678257041410",
+    "full_text": "Here's the results table from a cohort of British transvestites and transsexuals who were strapped to fucking electrodes to fry their transness out in 1970.\n\nThe transsexuals all stayed Transsexual. https://t.co/vyjLCR6wAA",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351361675325280300,
+          "id_str": "1351361675325280261",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEASKzXEAUqrPV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEASKzXEAUqrPV.jpg",
+          "url": "https://t.co/vyjLCR6wAA",
+          "display_url": "pic.twitter.com/vyjLCR6wAA",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351361678257041410/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1780,
+              "h": 943,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 636,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351361675325280300,
+          "id_str": "1351361675325280261",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEASKzXEAUqrPV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEASKzXEAUqrPV.jpg",
+          "url": "https://t.co/vyjLCR6wAA",
+          "display_url": "pic.twitter.com/vyjLCR6wAA",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351361678257041410/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1780,
+              "h": 943,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 636,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351358737513123800,
+    "in_reply_to_status_id_str": "1351358737513123844",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 121,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351373607344209922": {
+    "created_at": "Tue Jan 19 03:39:09 +0000 2021",
+    "id": 1351373607344210000,
+    "id_str": "1351373607344209922",
+    "full_text": "1967, psychotherapy didn't work on trans men either. https://t.co/vCE2LbORL8",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      52
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351373604726984700,
+          "id_str": "1351373604726984704",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsELIjSXUAA23-6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsELIjSXUAA23-6.jpg",
+          "url": "https://t.co/vCE2LbORL8",
+          "display_url": "pic.twitter.com/vCE2LbORL8",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351373607344209922/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1073,
+              "h": 539,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1073,
+              "h": 539,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351373604726984700,
+          "id_str": "1351373604726984704",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsELIjSXUAA23-6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsELIjSXUAA23-6.jpg",
+          "url": "https://t.co/vCE2LbORL8",
+          "display_url": "pic.twitter.com/vCE2LbORL8",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351373607344209922/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1073,
+              "h": 539,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1073,
+              "h": 539,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351373290946891800,
+    "in_reply_to_status_id_str": "1351373290946891777",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351372035641978884": {
+    "created_at": "Tue Jan 19 03:32:55 +0000 2021",
+    "id": 1351372035641979000,
+    "id_str": "1351372035641978884",
+    "full_text": "I'm not even cherry picking these for evidence by the way, I posted that supposed positive result for a single 17yo trans girl being \"cured\" above because her story is an outlier (one with horrific implications, around the medicalised abuse of a minor).",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      253
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351371644145721300,
+    "in_reply_to_status_id_str": "1351371644145721344",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 65,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351350026900033536": {
+    "created_at": "Tue Jan 19 02:05:27 +0000 2021",
+    "id": 1351350026900033500,
+    "id_str": "1351350026900033536",
+    "full_text": "The thing is, the only way, in the long run, to suppress trans existence, is violence. Frequently in the past until they realised it did not get the results they wanted, this meant institutionalised sexual violence against minors.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351349705071087600,
+    "in_reply_to_status_id_str": "1351349705071087616",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 125,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351376225894334466": {
+    "created_at": "Tue Jan 19 03:49:34 +0000 2021",
+    "id": 1351376225894334500,
+    "id_str": "1351376225894334466",
+    "full_text": "Anyway it's nearly 4am here and I have work in the morning and I'm unable to sleep because of my absolute rage that people are still trying to push conversion therapy on trans people some 50 years after all this was published.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      226
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351375108233957400,
+    "in_reply_to_status_id_str": "1351375108233957377",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 68,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351370831226679299": {
+    "created_at": "Tue Jan 19 03:28:08 +0000 2021",
+    "id": 1351370831226679300,
+    "id_str": "1351370831226679299",
+    "full_text": "1968\n\n1) trans people didn't want to be cured\n2) psychiatrists and psychotherapists working on ways to cure trans people were unsuccessful https://t.co/RF8jOEMMcP",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      138
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351370827833495600,
+          "id_str": "1351370827833495554",
+          "indices": [
+            139,
+            162
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEIm6jXUAInGWh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEIm6jXUAInGWh.jpg",
+          "url": "https://t.co/RF8jOEMMcP",
+          "display_url": "pic.twitter.com/RF8jOEMMcP",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351370831226679299/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 613,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1199,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1199,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351370827833495600,
+          "id_str": "1351370827833495554",
+          "indices": [
+            139,
+            162
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEIm6jXUAInGWh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEIm6jXUAInGWh.jpg",
+          "url": "https://t.co/RF8jOEMMcP",
+          "display_url": "pic.twitter.com/RF8jOEMMcP",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351370831226679299/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 613,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1199,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1199,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351365540330266600,
+    "in_reply_to_status_id_str": "1351365540330266624",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351347418332278785": {
+    "created_at": "Tue Jan 19 01:55:06 +0000 2021",
+    "id": 1351347418332278800,
+    "id_str": "1351347418332278785",
+    "full_text": "Re the claims by Gender Critical Therapists to use psychotherapy to help people \"reconcile with their bodies\", this is from back in 1977\n\nYoung trans ppl have existed through the history of trans psych care.\n\nConversion therapy has been *known to be pointless* since at least 1977 https://t.co/ZZ3mxRrmHf",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351347413592776700,
+          "id_str": "1351347413592776704",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsDzUBtXIAANJUQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsDzUBtXIAANJUQ.jpg",
+          "url": "https://t.co/ZZ3mxRrmHf",
+          "display_url": "pic.twitter.com/ZZ3mxRrmHf",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351347418332278785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 893,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 506,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1452,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351347413592776700,
+          "id_str": "1351347413592776704",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsDzUBtXIAANJUQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsDzUBtXIAANJUQ.jpg",
+          "url": "https://t.co/ZZ3mxRrmHf",
+          "display_url": "pic.twitter.com/ZZ3mxRrmHf",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351347418332278785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 893,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 506,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1452,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 185,
+    "favorite_count": 455,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351372433828294668": {
+    "created_at": "Tue Jan 19 03:34:30 +0000 2021",
+    "id": 1351372433828294700,
+    "id_str": "1351372433828294668",
+    "full_text": "\"The volume under discussion takes a dismal view of psychotherapy for the transsexual. Although some transvestites may, under certain circumstances, profit from therapy, the transsexual \"drive\" is critical, and the disturbance may precipitate self-mutilation and suicide …\" https://t.co/ajLgZcdccA",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351372430426710000,
+          "id_str": "1351372430426710016",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEKEMrXIAAqI9p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEKEMrXIAAqI9p.jpg",
+          "url": "https://t.co/ajLgZcdccA",
+          "display_url": "pic.twitter.com/ajLgZcdccA",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351372433828294668/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 298,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 473,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351372430426710000,
+          "id_str": "1351372430426710016",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEKEMrXIAAqI9p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEKEMrXIAAqI9p.jpg",
+          "url": "https://t.co/ajLgZcdccA",
+          "display_url": "pic.twitter.com/ajLgZcdccA",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351372433828294668/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 298,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 473,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351372035641979000,
+    "in_reply_to_status_id_str": "1351372035641978884",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 53,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351365540330266624": {
+    "created_at": "Tue Jan 19 03:07:06 +0000 2021",
+    "id": 1351365540330266600,
+    "id_str": "1351365540330266624",
+    "full_text": "Unfortunately being transsexual creates the specific vulnerability of being forcibly visible in ways that transvestism and other things aren't.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      143
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351365306703356000,
+    "in_reply_to_status_id_str": "1351365306703355904",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 70,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1351372918522077184": {
+    "created_at": "Tue Jan 19 03:36:25 +0000 2021",
+    "id": 1351372918522077200,
+    "id_str": "1351372918522077184",
+    "full_text": "This is bearing in mind this was also an era when people were claiming 50% success rates in turning homosexuals into heterosexuals https://t.co/reEwckejay",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      130
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351372915879665700,
+          "id_str": "1351372915879665665",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEKgdIXYAES7Dm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEKgdIXYAES7Dm.jpg",
+          "url": "https://t.co/reEwckejay",
+          "display_url": "pic.twitter.com/reEwckejay",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351372918522077184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1552,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 835,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 473,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351372915879665700,
+          "id_str": "1351372915879665665",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsEKgdIXYAES7Dm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsEKgdIXYAES7Dm.jpg",
+          "url": "https://t.co/reEwckejay",
+          "display_url": "pic.twitter.com/reEwckejay",
+          "expanded_url": "https://twitter.com/Chican3ry/status/1351372918522077184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1552,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 835,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 473,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1351372433828294700,
+    "in_reply_to_status_id_str": "1351372433828294668",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 410151321,
+      "id_str": "410151321",
+      "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+      "screen_name": "Chican3ry",
+      "location": "MCR",
+      "description": "Bold enough to be queer.\n\nAs in fuck you.\n\nhttps://t.co/f66ZJVqttq",
+      "url": "https://t.co/AQoBvpsMYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AQoBvpsMYO",
+              "expanded_url": "https://medium.com/@Chican3ry/ground-rules-for-trans-transantagonistic-discourse-286ffbc94c14",
+              "display_url": "medium.com/@Chican3ry/gro…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/f66ZJVqttq",
+              "expanded_url": "http://letter.wiki/MalloryMoore/",
+              "display_url": "letter.wiki/MalloryMoore/",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4460,
+      "friends_count": 1760,
+      "listed_count": 37,
+      "created_at": "Fri Nov 11 18:18:36 +0000 2011",
+      "favourites_count": 180651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D4D4D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336822365385338884/mpbYIwwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/410151321/1603932047",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 58,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1351355676992290816": {
+    "created_at": "Tue Jan 19 02:27:55 +0000 2021",
+    "id": 1351355676992290800,
+    "id_str": "1351355676992290816",
+    "full_text": "@Chican3ry i know intellectually that this flavor of wording is probably more or less typical for the time, but i still can't help reading a malevolence here. \"what we really need is a sweet new way to do lobotomies\" https://t.co/k6XKea7qNl",
+    "truncated": false,
+    "display_text_range": [
+      11,
+      216
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Chican3ry",
+          "name": "Mallory Moore (3 A-levels, licensed radio ham)",
+          "id": 410151321,
+          "id_str": "410151321",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1351355050690441200,
+          "id_str": "1351355050690441216",
+          "indices": [
+            217,
+            240
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+          "url": "https://t.co/k6XKea7qNl",
+          "display_url": "pic.twitter.com/k6XKea7qNl",
+          "expanded_url": "https://twitter.com/two_n_minus_one/status/1351355676992290816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 150,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 85,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1773,
+              "h": 222,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351355050690441200,
+          "id_str": "1351355050690441216",
+          "indices": [
+            217,
+            240
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsD6QkHVcAAEUIN.jpg",
+          "url": "https://t.co/k6XKea7qNl",
+          "display_url": "pic.twitter.com/k6XKea7qNl",
+          "expanded_url": "https://twitter.com/two_n_minus_one/status/1351355676992290816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 150,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 85,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1773,
+              "h": 222,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1351354176178188300,
+    "in_reply_to_status_id_str": "1351354176178188288",
+    "in_reply_to_user_id": 410151321,
+    "in_reply_to_user_id_str": "410151321",
+    "in_reply_to_screen_name": "Chican3ry",
+    "user": {
+      "id": 488142405,
+      "id_str": "488142405",
+      "name": "odds",
+      "screen_name": "two_n_minus_one",
+      "location": "Treaty 7 Lands (Calgary, AB)",
+      "description": "30. autistic intersectional commie transbian. on land of the Blackfoot Confederacy. i used to play bowser. banner: @theaaronschmit\n\nBlack lives matter.\n\nshe/her",
+      "url": "https://t.co/sCbBx99g3o",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sCbBx99g3o",
+              "expanded_url": "https://melissadahn.substack.com/",
+              "display_url": "melissadahn.substack.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1030,
+      "friends_count": 1489,
+      "listed_count": 3,
+      "created_at": "Fri Feb 10 04:01:07 +0000 2012",
+      "favourites_count": 29160,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9858,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1308523945860034560/bdwlyJVz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308523945860034560/bdwlyJVz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/488142405/1610518790",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
   }
 }

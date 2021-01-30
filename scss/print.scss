@@ -1,7 +1,7 @@
 
 
 
-$body-bg: #f8f9fa;
+$body-bg: white;
 $content-bg: white;
 $gutter-bg: #f0f0f0;
 $gutter-border: #e2e2e2;
@@ -67,9 +67,9 @@ $header-full-height: 100px;
 // @import "bootstrap/scss/grid";
 // @import "bootstrap/scss/tables";
 // @import "bootstrap/scss/forms";
-@import "bootstrap/scss/buttons";
+// @import "bootstrap/scss/buttons";
 // @import "bootstrap/scss/transitions";
-@import "bootstrap/scss/dropdown";
+// @import "bootstrap/scss/dropdown";
 // @import "bootstrap/scss/button-group";
 // @import "bootstrap/scss/input-group";
 // @import "bootstrap/scss/custom-forms";
@@ -78,31 +78,110 @@ $header-full-height: 100px;
 @import "bootstrap/scss/card";
 // @import "bootstrap/scss/breadcrumb";
 // @import "bootstrap/scss/pagination";
-@import "bootstrap/scss/badge";
+// @import "bootstrap/scss/badge";
 // @import "bootstrap/scss/jumbotron";
-@import "bootstrap/scss/alert";
+// @import "bootstrap/scss/alert";
 // @import "bootstrap/scss/progress";
 // @import "bootstrap/scss/media";
-@import "bootstrap/scss/list-group";
+// @import "bootstrap/scss/list-group";
 // @import "bootstrap/scss/close";
 // @import "bootstrap/scss/toasts";
 // @import "bootstrap/scss/modal";
 // @import "bootstrap/scss/tooltip";
 // @import "bootstrap/scss/popover";
 // @import "bootstrap/scss/carousel";
-@import "bootstrap/scss/spinners";
+// @import "bootstrap/scss/spinners";
 @import "bootstrap/scss/utilities";
 // @import "bootstrap/scss/print";
 
 @import "./global";
-@import "./header";
+// @import "./header";
 @import "./footer";
 @import "./tweet";
-@import "./index";
+// @import "./index";
 @import "./page";
 @import "./card";
 @import "./grid-row";
 @import "./markup";
-@import "./pager";
+// @import "./pager";
 
-|node_modules/magnific-popup/dist/magnific-popup.css|
+header {
+  .top-nav { display: none; }
+  .top-brand {
+    display: block;
+    font-size: $h2-font-size;
+    text-align: center;
+  }
+}
+
+
+body.page, body.post {
+
+
+  header {
+    background: white;
+  }
+
+  .disclaimer { display: none; }
+
+  #body {
+    background: unset;
+    max-width: unset;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 5px;
+  }
+
+  .tweet {
+    max-width: 660px;
+    margin: 2em auto;
+  }
+
+  article {
+    border: 0;
+  }
+
+  .card {
+    &.span34 {
+      width: 50vw;
+      margin: 1em auto;
+    }
+  }
+}
+
+.header-link { display: none; }
+
+.front-page {
+  blockquote {
+    max-width: 600px;
+    margin: 1em auto;
+
+    padding: 1em;
+    border-radius: 0.5em;
+
+    background: $gray-200;
+    border: 1px solid $gray-600;
+    color: $gray-800;
+
+    color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+
+    p {
+      margin: 0;
+    }
+
+    span {
+      font-weight: 300;
+    }
+  }
+}
+
+#body {
+  padding: 0 1em;
+}
+
+.pager { display: none; }
+footer .patreon-support { display: none; }
+footer .foot-nav { display: none; }

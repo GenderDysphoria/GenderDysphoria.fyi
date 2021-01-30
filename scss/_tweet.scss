@@ -99,6 +99,10 @@
         background-position: center center;
         background-size: contain;
         background-repeat: no-repeat;
+
+        color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
       }
 
       .tweet-protected {
@@ -144,6 +148,10 @@
     margin-top: 0.4em;
     margin-bottom: 0.75em;
     background: rgba($gray-500, 0.1);
+
+    color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
 
     > a {
       color: inherit;
@@ -245,6 +253,9 @@
   .tweet-photo {
     background-size: cover;
     background-position: center center;
+    color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 
   .tweet-video {

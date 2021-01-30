@@ -34,6 +34,10 @@
     padding: 15px;
     color: black;
 
+    color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+
     position: relative;
     overflow: hidden;
 
@@ -104,6 +108,9 @@
 
   padding: 10px 20px;
   background-color: $cwColor;
+  color-adjust: exact;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 
   font-size: 0.8rem;
   font-weight: 300;

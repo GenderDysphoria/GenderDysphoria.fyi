@@ -7,6 +7,15 @@
     border: none;
   }
 
+  .card-img, .card-img-top {
+    width: unset;
+  }
+
+  .card-img-top {
+    page-break-before: avoid;
+    page-break-after: avoid;
+  }
+
   .card-img-top + .card-img-top {
     border-top: 1px solid $card-border-color;
     border-radius: 0
@@ -36,6 +45,10 @@
     &.active + .active {
       border-bottom: 1px solid lighten($list-group-active-bg, 15%);
       background-color: lighten($list-group-active-bg, 10%);
+
+      color-adjust: exact;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
     }
   }
 
@@ -49,6 +62,8 @@
     &.right {
       float: right;
       margin-left: 10px;
+      page-break-inside: always;
+
     }
 
     &.center {
@@ -124,6 +139,10 @@
         height: 40px;
         width: 40px;
         margin: 0 10px 0 0;
+
+        color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
       }
 
       .ig-name {

@@ -46,7 +46,7 @@ body.gdb, body.hrt {
   }
 
   article {
-    @media (min-width: 800px) {
+    @media screen and (min-width: 800px) {
       margin-right: 400px;
 
       @media (max-width: 1000px) {
@@ -77,7 +77,10 @@ body.gdb, body.hrt {
     } }
 
     .gutter {
-      @media (min-width: 800px) {
+      // page-break-inside: avoid;
+      // page-break-before: avoid;
+
+      @media screen and (min-width: 800px) {
         position: relative;
         height: 0;
         left: calc(100% + 1em);
@@ -89,7 +92,7 @@ body.gdb, body.hrt {
         }
       }
 
-      @media (min-width: 500px) and (max-width: 800px) {
+      @media print, screen and (min-width: 500px) and (max-width: 800px) {
         float: right;
         width: 300px;
         margin-left: 1em;
