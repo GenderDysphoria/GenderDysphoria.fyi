@@ -33,22 +33,6 @@ tweets:
   {{import '~/tweet' ids=[
     '1223942625708761088'
   ] tweets=meta.tweets className="" }}
-  {{import '~/tweet' ids=[
-    '1207834357639139328'
-    '1207835110617309191'
-    '1207835384358604802'
-    '1207835597206937600'
-    '1207835815071473664'
-    '1207835999130259456'
-    '1207837155667718145'
-    '1207838570276372480'
-    '1207839986801922048'
-    '1207838924263084033'
-    '1207839452619522048'
-  ] tweets=meta.tweets className="oneblock" }}
-  {{import '~/tweet' ids=[
-    '1208181235593490433'
-  ] tweets=meta.tweets className="" }}
 </div>}!}
 
 
@@ -90,4 +74,21 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
 
-{!{ {{import '~/img' images.barbosa className="card borderless center" alt="The code is more what you'd call guidelines, than actual rules."}} }!}
+{!{ <div class="span34 center">
+  {{import '~/tweet' ids=[
+    '1207834357639139328'
+    '1207835110617309191'
+    '1207835384358604802'
+    '1207835597206937600'
+    '1207835815071473664'
+    '1207835999130259456'
+    '1207837155667718145'
+    '1207838570276372480'
+    '1207839986801922048'
+    '1207838924263084033'
+    '1207839452619522048'
+  ] tweets=meta.tweets className="oneblock" }}
+  {{import '~/tweet' ids=[
+    '1208181235593490433'
+  ] tweets=meta.tweets className="" }}
+</div>}!}
