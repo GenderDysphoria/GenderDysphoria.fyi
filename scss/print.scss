@@ -104,6 +104,7 @@ $header-full-height: 100px;
 @import "./grid-row";
 @import "./markup";
 // @import "./pager";
+@import "./longform";
 
 header {
   .top-nav { display: none; }
@@ -178,10 +179,8 @@ body.page, body.post {
   }
 }
 
-#body {
-  padding: 0 1em;
-}
-
 .pager { display: none; }
 footer .patreon-support { display: none; }
 footer .foot-nav { display: none; }
+
+article hr { page-break-after: always; }

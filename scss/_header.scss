@@ -149,7 +149,7 @@ header {
 }
 
 @media (min-width: 500px) {
-  body:not(.front-page) header + * {
+  body:not(.front-page):not(.longform) header + * {
     margin-top: $header-full-height;
   }
 }

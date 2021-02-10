@@ -105,6 +105,14 @@ body.gdb, body.hrt {
         display: flex;
         flex-direction: column;
         align-items: center;
+
+        &.flex-end {
+          justify-content: flex-end;
+        }
+
+        &.flex-center {
+          justify-content: center;
+        }
       }
 
       > a > img:not(.card-img-top), > img {

@@ -52,54 +52,6 @@
     }
   }
 
-  @include media-breakpoint-up(md) {
-
-    &.left {
-      float: left;
-      margin-right: 10px;
-    }
-
-    &.right {
-      float: right;
-      margin-left: 10px;
-      page-break-inside: always;
-
-    }
-
-    &.center {
-      margin-left: auto;
-      margin-right: auto;
-      margin-bottom: 1em;
-    }
-
-    &.natural {
-      .card-img-top {
-        width: unset;
-        max-height: 50vh;
-        margin: 0 auto;
-      }
-    }
-
-    &.span2, &.span3, &.span4, &.span5, &.span6, &.span34 {
-
-      &.left { clear: left; }
-      &.right { clear: right; }
-
-      &:first-child {
-        margin-top: 0.5em;
-      }
-    }
-
-    &.hero  { width: 35%; }
-    &.span1 { width: 100%; }
-    &.span2 { width:  50%; }
-    &.span3 { width:  33%; }
-    &.span4 { width:  25%; }
-    &.span5 { width:  20%; }
-    &.span6 { width:  15%; }
-    &.span34 { width: 75%; }
-  }
-
   @include media-breakpoint-down(sm) {
     margin-top: 0 !important;
     margin-bottom: 5px;
@@ -184,4 +136,57 @@
       text-transform: uppercase;
     }
   }
+}
+
+@include media-breakpoint-up(md) {
+
+  .left {
+    float: left;
+    margin-right: 10px;
+  }
+
+  .right {
+    float: right;
+    margin-left: 10px;
+    page-break-inside: always;
+
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+  }
+
+  .natural {
+    .card-img-top {
+      width: unset;
+      max-height: 50vh;
+      margin: 0 auto;
+    }
+  }
+
+  .span2,
+  .span3,
+  .span4,
+  .span5,
+  .span6,
+  .span34 {
+
+    &.left { clear: left; }
+    &.right { clear: right; }
+
+    &:first-child {
+      margin-top: 0.5em;
+    }
+  }
+
+  .hero  { width: 35%; }
+  .span1 { width: 100%; }
+  .span2 { width:  50%; }
+  .span3 { width:  33%; }
+  .span4 { width:  25%; }
+  .span5 { width:  20%; }
+  .span6 { width:  15%; }
+  .span34 { width: 75%; }
 }

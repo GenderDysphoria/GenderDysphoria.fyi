@@ -1,0 +1,55 @@
+
+
+body.longform {
+
+  #body {
+    background: unset;
+
+    @media screen {
+      padding: 0 1em;
+    }
+  }
+
+  header {
+    display: none;
+  }
+
+  h1, h2 {
+    clear: both;
+    page-break-before: always;
+  }
+
+  .header-link { display: none; }
+
+  article hr {
+    page-break-after: always;
+    opacity: 0;
+  }
+
+
+  .gutter {
+    float: right;
+    width: 40vw;
+    margin-left: 1em;
+    zoom: 0.9;
+
+    page-break-inside: avoid;
+
+    &.print-center {
+      float: none;
+      margin: 1em auto;
+    }
+  }
+
+  &.flex, .flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  > a > img:not(.card-img-top), > img {
+    max-width: 100%;
+    margin-bottom: 5px;
+  }
+}
+
