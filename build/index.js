@@ -11,6 +11,7 @@ const { sortBy } = require('lodash');
 const getEngines = require('./engines');
 const primeTweets = require('./page-tweets');
 const pageWriter = require('./page-writer');
+const pageConcatinator = require('./page-concatinator');
 const evaluate = require('./evaluate');
 const { resolve } = require('./resolve');
 
@@ -18,6 +19,7 @@ const favicon = require('./favicon');
 const scss    = require('./scss');
 const svg     = require('./svg');
 const scripts = require('./scripts');
+const concats = require('./_concats');
 
 function writeIndex (destination, files, compressed) {
   files = files.map((p) => !p.draft && (p.toJson ? p.toJson() : p));
@@ -72,6 +74,11 @@ exports.everything = function (prod = false) {
     await evaluate(tasks.flat(), cache);
     const { revManifest } = await cache.save();
 
+    for (const cset of concats) {
+      const cpage = pageConcatinator(pages, cset.output, cset.sources, cset.meta);
+      pages.push(cpage);
+    }
+
     const engines = await getEngines(prod);
     const postIndex = await pageWriter(prod, engines, pages, posts);
     postIndex.rev = revManifest;
@@ -100,6 +107,11 @@ exports.pages = function () {
 
     // prime tweet data for all pages
     const pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
+
+    for (const cset of concats) {
+      const cpage = pageConcatinator(pages, cset.output, cset.sources, cset.meta);
+      pages.push(cpage);
+    }
 
     let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));
     posts = sortBy(posts, 'date');
