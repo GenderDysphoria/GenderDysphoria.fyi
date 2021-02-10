@@ -12,7 +12,63 @@ siblings:
 
 
 {!{
-{{import '~/img' images.titlecard srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px" alt="The Gender Dysphoria Bible" style="margin-bottom: 1em;" imgStyle="width: 100%"}}
+{{import
+  '~/img'
+  images.titlecard
+  srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
+  alt="The Gender Dysphoria Bible"
+  style="margin-bottom: 1em;"
+  imgStyle="width: 100%"
+}}
+}!}
+
+### Table of Contents:
+
+{!{ <div style="columns: 2"> }!}
+
+1. [Introduction](#introduction)
+
+2. [What is Gender?](/gdb/what-is-gender)
+
+3. [The History of Gender Dysphoria](/gdb/history)
+
+4. [Gender Euphoria](/gdb/euphoria)
+
+5. [Physical Dysphoria](/gdb/physical-dysphoria)
+
+6. [Biochemical Dysphoria](/gdb/biochemical-dysphoria)
+
+7. [Social Dysphoria](/gdb/social-dysphoria)
+
+8. [Societal Dysphoria](/gdb/societal-dysphoria)
+
+9. [Sexual Dysphoria](/gdb/sexual-dysphoria)
+
+10. [Presentational Dysphoria](/gdb/presentational-dysphoria)
+
+11. [Existential Dysphoria](/gdb/historical-dysphoria)
+
+12. [Managed Dysphoria](/gdb/managed-dysphoria)
+
+13. [Impostor Syndrome](/gdb/impostor-syndrome)
+
+14. [Clinical Diagnoses](/gdb/diagnoses)
+
+15. [Treating Gender Dysphoria](/gdb/treatment)
+
+16. [Causes of Gender Dysphoria](/gdb/causes)
+
+17. [Chromosomes](/gdb/chromosomes)
+
+18. [Conclusion](/gdb/conclusion)
+
+{!{ </div> }!}
+
+---
+
+## Introduction
+
+{!{
 <div class="gutter"><blockquote>
   <strong>Trans·gen·der</strong> - <em>adjective</em><br>
   Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
@@ -34,7 +90,7 @@ This experience of discontinuity between the internal and external self is what 
 The purpose of this site is to document the many ways that Gender Dysphoria manifests, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting, those already on their path, and those who simply wish to be better allies.
 
 {!{
-<div class="gutter flex" style="justify-content: flex-end">
+<div class="gutter flex flex-end print-center">
 <span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
