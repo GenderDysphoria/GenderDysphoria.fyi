@@ -16,21 +16,21 @@ classes:
 
 Treatment options vary significantly depending on the individual person's needs. Every single transition is unique, and there is no one way to transition. This section is a list of possible pathways.
 
-## Social Transition
+### Social Transition
 
 In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
 
 A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones self.
 
-## Legal Transition
+### Legal Transition
 
 This is the process of changing your legal documents to reflect your true gender. This may be through a legal name and gender change issued by a court, through a change of gender marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
 
-## Presentational Transition
+### Presentational Transition
 
 These are changes to how you style yourself, be it your clothes, your hair, or the use of makeup. Our society heavily genders all of these things, and switching presentation is both affirming to one's self and also sends cues to those around them about how they wish to be addressed.
 
-## Medical Transition
+### Medical Transition
 
 For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
 
@@ -40,7 +40,7 @@ While the American Academy of Pediatrics [strongly encourages the validation and
 
 Furthermore, no surgeon in the United States will perform a gender altering surgery on a minor (excluding intersex "corrections", which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
 
-## Hormonal Transition
+### Hormonal Transition
 
 **Trans Masculine Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
 
@@ -48,7 +48,7 @@ Furthermore, no surgeon in the United States will perform a gender altering surg
 
 **In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
 
-## Surgical Transition
+### Surgical Transition
 
 Transgender surgeries are typically divided into three separate categories:
 
