@@ -104,6 +104,15 @@
   </div>
 
   {{block "postscripts"}}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-N3C6NFB2MK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag () { window.dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-N3C6NFB2MK');
+  </script>
   <noscript><img src="{{#prod}}//t.{{page.domain}}{{/prod}}/i?stage=noscript" style="display: none"></noscript>
 </body>
 </html>
