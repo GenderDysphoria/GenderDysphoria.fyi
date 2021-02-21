@@ -50,7 +50,7 @@ Likewise, many people believe that Phenotype is also binary, but biology has rec
 </div>
 }!}
 
-Gender, however, is a lot more... wibbly wobbly timey wimey type stuff. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
+Gender, however, is a lot more difficult to pin down. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 
 The short of it is, some people are very male, some people are very female, some people feel no gender at all, some people feel both, some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender, no one else can dictate it for them.
 
