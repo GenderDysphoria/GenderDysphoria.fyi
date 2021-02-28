@@ -9,7 +9,7 @@ const handybars = require('handybars');
 const Kit = require('handybars/kit');
 
 const slugify = require('./lib/slugify');
-const striptags = require('string-strip-html');
+const { stripHtml } = require('string-strip-html');
 
 const markdownIt = require('markdown-it');
 
@@ -41,7 +41,7 @@ const markdownEngines = {
 function markdown (mode, input, data, hbs) {
 
   if (mode === 'preview') {
-    input = striptags(input
+    input = stripHtml(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
       .replace(/æææ[\s\S]*?æææ/gi, '')
       .replace(/\{!\{([\s\S]*?)\}!\}/mg, ''),
