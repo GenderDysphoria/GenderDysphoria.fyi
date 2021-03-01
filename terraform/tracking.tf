@@ -30,7 +30,7 @@ resource "aws_s3_bucket_object" "ipixel" {
   content_type = "image/gif"
 }
 
-resource "aws_s3_bucket" "logs" {
+resource "aws_s3_bucket" "ipixel_logs" {
   bucket = "${var.site}-analytics"
 
   tags = {
@@ -54,7 +54,7 @@ resource "aws_cloudfront_distribution" "tracking" {
 
   logging_config {
     include_cookies = true
-    bucket          = aws_s3_bucket.logs.bucket_regional_domain_name
+    bucket          = aws_s3_bucket.ipixel_logs.bucket_regional_domain_name
     prefix          = "RAW"
   }
 
@@ -115,3 +115,4 @@ resource "aws_route53_record" "tracking" {
     evaluate_target_health = false
   }
 }
+

@@ -130,7 +130,7 @@ resource "aws_route53_record" "www" {
 
 data "archive_file" "index_redirect" {
   type        = "zip"
-  output_path = "${path.module}/files/index_redirect.js.zip"
+  output_path = ".terraform/tmp/lambda/index_redirect.zip"
   source_file = "${path.module}/files/index_redirect.js"
 }
 

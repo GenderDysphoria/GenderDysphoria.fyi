@@ -1,0 +1,15 @@
+{
+  "name": "cloudfront-logs",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "*"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-plugin-import": "*"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}

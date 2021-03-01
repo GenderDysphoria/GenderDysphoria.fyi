@@ -3,79 +3,59 @@
 # -----------------------------------------------------------------------------------------------------------
 # Grant the log parsing lambda access to the logs bucket
 
-# resource "aws_lambda_permission" "allow_bucket" {
-#   statement_id  = "AllowExecutionFromS3Bucket"
-#   action        = "lambda:InvokeFunction"
-#   function_name = aws_lambda_function.logs_parser.arn
-#   principal     = "s3.amazonaws.com"
-#   source_arn    = aws_s3_bucket.logs.arn
-# }
+resource "aws_lambda_permission" "allow_bucket" {
+  statement_id  = "AllowExecutionFromS3Bucket"
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.ipixel_parser.arn
+  principal     = "s3.amazonaws.com"
+  source_arn    = aws_s3_bucket.ipixel_logs.arn
+}
 
 
 # -----------------------------------------------------------------------------------------------------------
 # Log Parsing Lambda
 
-# data "archive_file" "logs_parser" {
-#   type        = "zip"
-#   source_dir  = "${path.module}/files/decorate"
-#   output_path = "${path.module}/files/decorate.zip"
-# }
 
-# resource "aws_lambda_function" "logs_parser" {
-#   filename      = data.archive_file.logs_parser.output_path
-#   function_name = "${var.site}-logs-decorator"
-#   handler       = "index.handler"
-#   source_code_hash = data.archive_file.logs_parser.output_base64sha256
-#   runtime = "nodejs12.x"
-#   memory_size = "128"
-#   timeout = "5"
-#   role = aws_iam_role.lambda.arn
+resource "aws_s3_bucket_notification" "ipixel_logs" {
+  bucket = aws_s3_bucket.ipixel_logs.bucket
 
-#   tags = {
-#     Name   = "${var.site}-log-dist"
-#     Site = var.site
-#   }
-# }
+  lambda_function {
+    lambda_function_arn = aws_lambda_function.ipixel_parser.arn
+    events              = ["s3:ObjectCreated:*"]
+  }
 
-# resource "aws_s3_bucket_notification" "bucket_notification" {
-#   bucket = aws_s3_bucket.logs.id
+  depends_on = [aws_lambda_permission.s3_bucket_invoke_function]
+}
 
-#   lambda_function {
-#     lambda_function_arn = aws_lambda_function.logs_parser.arn
-#     events              = ["s3:ObjectCreated:*"]
-#     filter_prefix       = "RAW/"
-#     filter_suffix       = ".gz"
-#   }
-# }
+data "archive_file" "ipixel_parser" {
+  type        = "zip"
+  source_dir  = "${path.module}/lambda/src"
+  output_path = ".terraform/tmp/lambda/ipixel_parser.zip"
+}
 
-# Reduce log retention to two weeks
-# resource "aws_cloudwatch_log_group" "logs_parser" {
-#   name              = "/aws/lambda/${aws_lambda_function.logs_parser.function_name}"
-#   retention_in_days = 14
-# }
+resource "aws_lambda_function" "ipixel_parser" {
+  function_name = "ipixel-parser-${var.site}"
 
+  runtime                        = "nodejs12.x"
+  handler                        = "index.handler"
+  timeout                        = 5
+  reserved_concurrent_executions = 3
 
-# -----------------------------------------------------------------------------------------------------------
-# Athena Configuration
+  environment {
+    variables = {
+      CLOUDWATCH_LOGS_GROUP_ARN = aws_cloudwatch_log_group.ipixel_results.arn
+    }
+  }
 
-# resource "aws_s3_bucket" "athena" {
-#   bucket = "${var.site}-athena"
-#   acl = "private"
-#   tags = {
-#     Name = "${var.site}-athena"
-#     Site = var.site
-#   }
-# }
+  role = aws_iam_role.ipixel_parser.arn
 
-# resource "aws_athena_workgroup" "wg" {
-#   name = "${var.site}-wg"
-#   tags = {
-#     Name = "${var.site}-wg"
-#     Site = var.site
-#   }
-# }
+  filename         = data.archive_file.ipixel_parser.output_path
+  source_code_hash = data.archive_file.ipixel_parser.output_base64sha256
 
-# resource "aws_athena_database" "db" {
-#   name = var.site
-#   bucket = aws_s3_bucket.athena.id
-# }
+  tags = {
+    Site = var.site,
+    Role = "ipixel"
+  }
+
+  depends_on = [aws_cloudwatch_log_group.ipixel_parser_logs]
+}
