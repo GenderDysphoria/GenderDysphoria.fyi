@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sync": "aws s3 sync s3://gdbible-analytics/RAW ./RAW",
+    "empty": "aws s3 rm s3://gdbible-analytics/RAW --recursive",
     "combine": "find RAW -name '*.gz' -exec cat '{}' ';'| zcat | sed '/^#/ d' > combined.log"
   },
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
@@ -12,7 +13,12 @@
   "dependencies": {
     "cloudfront-log-parser": "~1.1.0",
     "date-fns": "~2.9.0",
+    "glob-stream": "~6.1.0",
+    "named-placeholders": "~1.1.2",
     "split2": "~3.2.2",
+    "sqlite": "~4.0.19",
+    "sqlite3": "~5.0.2",
+    "stream-chain": "~2.2.4",
     "through2": "~4.0.2",
     "ua-parser-js": "~0.7.21"
   },

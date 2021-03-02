@@ -44,10 +44,11 @@
 
     const viewport_height = Math.max(window.document.documentElement.clientHeight, window.innerHeight || 0);
     const max_scroll = Math.max(SESSION_DATA.max_scroll, window.scrollY);
+    const density = window.devicePixelRatio || 1;
 
     const viewed = max_scroll === 0 ? 0 : Math.round(((max_scroll + viewport_height) / page_height) * 100);
 
-    Object.assign(SESSION_DATA, { page_height, viewport_height, max_scroll, viewed });
+    Object.assign(SESSION_DATA, { page_height, viewport_height, max_scroll, viewed, density });
   });
 
 
