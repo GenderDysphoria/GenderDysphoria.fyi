@@ -6,10 +6,7 @@ body.page, body.post {
 
   header {
     background: $gray-800;
-
-    @media (min-width: 500px) {
-      &.active { background: white; }
-    }
+    &.active { background: white; }
   }
 
 }

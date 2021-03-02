@@ -28,7 +28,7 @@ header {
 
   @media (max-width: 500px) {
     padding: 0.5rem 1rem 0;
-    position: static;
+    // position: static;
   }
 
   transition-property: min-height, background, box-shadow;
@@ -57,20 +57,26 @@ header {
     font-family: $font-brand;
     font-size: 2em;
     white-space: nowrap;
+    transition: max-height 0.5s ease-out;
+    overflow: hidden;
 
     @media (max-width: 500px) {
       font-size: 1.8em;
     }
   }
 
-  @media (min-width: 500px) {
-    &.active {
-      @include header--active;
+  &.active {
+    @include header--active;
+
+    @media (max-width: 500px) {
+      .top-brand {
+        max-height: 0;
+      }
     }
   }
 
-  nav {
 
+  nav {
     flex: 1;
     max-width: 1200px;
 
@@ -95,6 +101,10 @@ header {
     list-style: none;
     margin: 0 0 0 1em;
     padding: 0;
+
+    @media (max-width: 800px) {
+      margin: 0;
+    }
 
 
     .top-nav-item {
@@ -135,24 +145,32 @@ header {
     }
 
     @media (max-width: 400px) {
-      flex-wrap: wrap;
-      justify-content: center;
-
-      .break { display: block; }
-
-      .top-nav-item {
-        padding: 0.25rem 0.5rem;
+      .disposable {
+        display: none;
       }
+    }
+  }
+
+  @media (max-width: 500px) {
+
+    .top-nav-inner .disposable {
+      transition: max-width 0.5s ease-out;
+      max-width: 50px;
+    }
+
+    &.active .top-nav-inner .disposable {
+      max-width: 0;
+      overflow: hidden;
     }
   }
 
 }
 
-@media (min-width: 500px) {
+// @media (min-width: 500px) {
   body:not(.front-page):not(.longform) header + * {
     margin-top: $header-full-height;
   }
-}
+// }
 
 .disclaimer {
   $cwColor: darken($gray-100, 2%);
