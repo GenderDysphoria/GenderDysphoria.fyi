@@ -33,8 +33,29 @@ resource "aws_s3_bucket_object" "ipixel" {
 resource "aws_s3_bucket" "ipixel_logs" {
   bucket = "${var.site}-analytics"
 
+  lifecycle_rule {
+    id      = "logfiles"
+    enabled = true
+
+    prefix = "RAW/"
+
+    transition {
+      days          = 30
+      storage_class = "STANDARD_IA" # or "ONEZONE_IA"
+    }
+
+    # transition {
+    #   days          = 30
+    #   storage_class = "GLACIER"
+    # }
+
+    # expiration {
+    #   days = 90
+    # }
+  }
+
   tags = {
-    Name = "Logs Storage"
+    Name = "iPixel Logs Storage"
     Site = var.site
   }
 }

@@ -91,12 +91,3 @@ resource "aws_iam_role_policy" "lambda_s3_bucket_readonly" {
   role   = aws_iam_role.ipixel_parser.name
   policy = data.aws_iam_policy_document.s3_bucket_readonly.json
 }
-
-resource "aws_lambda_permission" "s3_bucket_invoke_function" {
-  function_name = aws_lambda_function.ipixel_parser.arn
-  action        = "lambda:InvokeFunction"
-
-  principal  = "s3.amazonaws.com"
-  source_arn = aws_s3_bucket.ipixel_logs.arn
-}
-

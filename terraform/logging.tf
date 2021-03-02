@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------------------------------------
 # Grant the log parsing lambda access to the logs bucket
 
-resource "aws_lambda_permission" "allow_bucket" {
+resource "aws_lambda_permission" "s3_bucket_invoke_function" {
   statement_id  = "AllowExecutionFromS3Bucket"
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.ipixel_parser.arn
@@ -22,6 +22,8 @@ resource "aws_s3_bucket_notification" "ipixel_logs" {
   lambda_function {
     lambda_function_arn = aws_lambda_function.ipixel_parser.arn
     events              = ["s3:ObjectCreated:*"]
+    filter_prefix       = "RAW/"
+    filter_suffix       = ".gz"
   }
 
   depends_on = [aws_lambda_permission.s3_bucket_invoke_function]
@@ -38,7 +40,8 @@ resource "aws_lambda_function" "ipixel_parser" {
 
   runtime                        = "nodejs12.x"
   handler                        = "index.handler"
-  timeout                        = 5
+  timeout                        = "24"
+  memory_size                    = "512"
   reserved_concurrent_executions = 3
 
   environment {
