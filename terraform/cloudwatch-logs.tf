@@ -5,7 +5,7 @@ data "aws_region" "current" {}
 resource "aws_cloudwatch_log_group" "ipixel_results" {
   name = "/aws/ipixel/${var.site}"
 
-  retention_in_days = 30
+  retention_in_days = 90
 
   tags = {
     Site = var.site,

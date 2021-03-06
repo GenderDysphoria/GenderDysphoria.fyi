@@ -129,15 +129,14 @@ async function* loadFiles () {
       readableObjectMode: true,
       writableObjectMode: true,
       transform (row, encoding, done) {
-        console.log(row);
         // filter out OPTIONS calls
-        if (row['cs-method'] === 'OPTIONS') return null;
+        if (row['cs-method'] === 'OPTIONS') return done();
 
         // I only care about the pixel hits, nothing else.
-        if (row['cs-uri-stem'] !== '/i') return null;
+        if (row['cs-uri-stem'] !== '/i') return done();
 
         // this isn't an analytics event
-        if (row['cs-referer'] === '-') return null;
+        if (row['cs-referer'] === '-') return done();
 
         row = Object.fromEntries(Object.entries(row).map(([ k, v ]) => [ k.replace(/-/g, '_'), v ]));
 
@@ -147,7 +146,7 @@ async function* loadFiles () {
         ;
 
         // we didn't get analytics data from this load, ignore it
-        if (!query.start) return null;
+        if (!query.start) return done();
 
         const useragent = parseUA(row.cs_user_agent);
 

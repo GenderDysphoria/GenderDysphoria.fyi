@@ -31,7 +31,7 @@ resource "aws_s3_bucket_notification" "ipixel_logs" {
 
 data "archive_file" "ipixel_parser" {
   type        = "zip"
-  source_dir  = "${path.module}/lambda/src"
+  source_dir  = "${path.module}/lambda"
   output_path = ".terraform/tmp/lambda/ipixel_parser.zip"
 }
 
@@ -40,8 +40,7 @@ resource "aws_lambda_function" "ipixel_parser" {
 
   runtime                        = "nodejs12.x"
   handler                        = "index.handler"
-  timeout                        = "24"
-  memory_size                    = "512"
+  timeout                        = 5
   reserved_concurrent_executions = 3
 
   environment {
@@ -60,5 +59,8 @@ resource "aws_lambda_function" "ipixel_parser" {
     Role = "ipixel"
   }
 
-  depends_on = [aws_cloudwatch_log_group.ipixel_parser_logs]
+  depends_on = [
+    aws_cloudwatch_log_group.ipixel_parser_logs,
+    aws_cloudwatch_log_group.ipixel_results,
+  ]
 }
