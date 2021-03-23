@@ -42,9 +42,9 @@ Furthermore, no surgeon in the United States will perform a gender altering surg
 
 ### Hormonal Transition
 
-**Trans Masculine Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
+**Masculinizing Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
 
-**Trans Feminine Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**Femininizing Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
 
 **In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
 
@@ -54,7 +54,7 @@ Transgender surgeries are typically divided into three separate categories:
 
 **Bottom Surgery** (modifications to genitals).
 
-- Trans Feminine:
+- Femininizing:
 
   - Orchiectomy (removal of the testicles)
   - Scrotectomy (removal of scrotal tissue, following orchiectomy)
@@ -69,7 +69,7 @@ An additional option for non-binary bottom surgery is genital nullification surg
 
 {!{ </div></div></div> }!}
 
-- Trans Masculine:
+- Masculinizing:
 
   - Hysterectomy (removal of uterus and cervix)
   - Oophorectomy (removal of one or both ovaries)
@@ -81,11 +81,11 @@ An additional option for non-binary bottom surgery is genital nullification surg
 
 **Top Surgery** (modifications to the chest)
 
-- Trans Feminine:
+- Feminizing:
   
   - Breast Augmentation via fat transfer or implants.
 
-- Trans Masculine:
+- Masculinizing:
 
   - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
 
@@ -93,7 +93,7 @@ An additional option for non-binary bottom surgery is genital nullification surg
 
   The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
 
-- Trans Feminine:
+- Feminizing:
 
   - Forehead recontouring
   - Eye socket recontouring
@@ -108,7 +108,7 @@ An additional option for non-binary bottom surgery is genital nullification surg
   - Tracheal shave (adam's apple reduction)
   - Rhytidectomy (face lift)
 
-- Trans Masculine:
+- Masculinizing:
 
   - Forehead augmentation
   - Jaw augmentation

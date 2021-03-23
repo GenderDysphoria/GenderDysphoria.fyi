@@ -140,25 +140,25 @@
 
 @include media-breakpoint-up(md) {
 
-  .left {
+  .card.left {
     float: left;
     margin-right: 10px;
   }
 
-  .right {
+  .card.right {
     float: right;
     margin-left: 10px;
     page-break-inside: always;
 
   }
 
-  .center {
+  .card.center {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1em;
   }
 
-  .natural {
+  .card.natural {
     .card-img-top {
       width: unset;
       max-height: 50vh;

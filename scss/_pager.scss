@@ -30,15 +30,16 @@
     max-width: calc(50vw - 10px);
 
     .caption {
-      overflow-x: hidden;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
   }
 
-  .btn.left .caption {
+  .btn.left {
     justify-content: flex-start;
   }
 
-  .btn.right .caption {
+  .btn.right {
     justify-content: flex-end;
   }
 
