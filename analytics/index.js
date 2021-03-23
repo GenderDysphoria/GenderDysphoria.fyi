@@ -98,6 +98,8 @@ async function* loadFiles () {
     );
   `);
 
+  await db.run('PRAGMA busy_timeout = 6000');
+
   const stmt = await db.prepare(sql`
     REPLACE INTO records VALUES (
       :dts,
@@ -121,6 +123,8 @@ async function* loadFiles () {
       :device
     );
   `);
+
+  let counter = 0;
 
   await pipeline(
     Readable.from(loadFiles()),
@@ -180,7 +184,7 @@ async function* loadFiles () {
           client_end: sessionEnd ? format(new Date(sessionStart), 'yyyy-MM-dd HH:mm:ss') : null,
           duration,
           language,
-          viewed,
+          scrolled: viewed,
           max_scroll,
           page_height,
           viewport_height,
@@ -202,15 +206,24 @@ async function* loadFiles () {
       write (record, encoding, done) {
         (async () => {
           const params = Object.fromEntries(
-            Object.entries(record).map(([ k, v ]) => [ ':' + k, v ]),
+            Object.entries(record).map(([ k, v ]) => [ ':' + k, v || null ]),
           );
-          await stmt.run(params);
-          process.stdout.write('.');
+          while (true) {
+            try {
+              await stmt.run(params);
+              break;
+            } catch (err) {
+              if (err.code !== 'SQLITE_BUSY') throw err;
+            }
+          }
+          counter++;
+          if (!(counter % 10)) process.stdout.write('.');
         })().then(() => done(), done);
       },
     }),
   );
 
+  await stmt.finalize();
   await db.close();
 
 })().then(
