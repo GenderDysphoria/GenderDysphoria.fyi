@@ -88,6 +88,7 @@
     "serve-index": "~1.9.1",
     "slugify": "~1.4.7",
     "string-strip-html": "~8.2.3",
+    "svg-dimensions": "~1.0.2",
     "terser": "~5.6.0",
     "twemoji": "~13.0.1",
     "twitter-lite": "~1.1.0",
