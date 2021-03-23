@@ -10,7 +10,12 @@ const svg = require('rollup-plugin-react-svg');
 const { terser } = require('rollup-plugin-terser');
 
 const plugins = [
-  replace({ 'process.env.NODE_ENV': '"production"' }),
+  replace({
+    preventAssignment: true,
+    values: {
+      'process.env.NODE_ENV': '"production"',
+    },
+  }),
   alias({
     entries: [
       { find: 'react', replacement: 'preact/compat' },
