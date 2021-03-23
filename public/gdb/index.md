@@ -24,7 +24,7 @@ siblings:
 
 ### Table of Contents:
 
-{!{ <div style="columns: 2"> }!}
+{!{ <div class="two-column-list"> }!}
 
 1. [Introduction](#introduction)
 

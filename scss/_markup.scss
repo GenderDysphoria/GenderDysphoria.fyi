@@ -150,3 +150,14 @@
     margin-bottom: 0;
   }
 }
+
+.two-column-list {
+  ol, ul {
+    @media (min-width: 500px) {
+      columns: 2;
+    }
+
+    li { margin-bottom: 0.5em; }
+    p { margin: 0; }
+  }
+}
