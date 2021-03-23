@@ -28,6 +28,7 @@ const EXT = exports.EXT = {
   JPEG: '.jpeg',
   PNG:  '.png',
   GIF:  '.gif',
+  SVG:  '.svg',
   MP4:  '.mp4',
   M4V:  '.m4v',
   MD:   '.md',
@@ -45,6 +46,7 @@ const {
   JPEG,
   PNG,
   GIF,
+  SVG,
   MP4,
   M4V,
   MD,
@@ -70,7 +72,7 @@ const normalizedExt = exports.normalizedExt = (ext) => {
 };
 
 const isVideo      = exports.isVideo       = is(MP4, M4V);
-const isImage      = exports.isImage       = is(JPG, JPEG, PNG, GIF);
+const isImage      = exports.isImage       = is(JPG, JPEG, PNG, GIF, SVG);
 const isHandybars  = exports.isHandybars   = is(XML, HBS, HTML);
 const isMarkdown   = exports.isMarkdown    = is(MD);
 const isPage       = exports.isPage        = is(isHandybars, isMarkdown);

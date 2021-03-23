@@ -22,7 +22,7 @@ Unfortunately, it is not very common for this to be possible with the cis female
 
 {!{ </div></div></div> }!}
 
-The three most common anti-androgens are **Spironolactone**, **Cyproterone Acetate** and **Bicalutamide**. A fourth method often used is a Gonadotropin-Releasing Hormone (GnRH) argonist, such as **Leuprolide** (Lupron) or **Goserelin** (Zoladex) which works by overloading GnRH receptors until they stop responding.
+The three most common anti-androgens are **Spironolactone**, **Cyproterone Acetate** and **Bicalutamide**. A fourth method often used is a Gonadotropin-Releasing Hormone (GnRH) agonist, such as **Leuprolide** (Lupron) or **Goserelin** (Zoladex) which works by overloading GnRH receptors until they stop responding.
 
 ### Spironolactone (Brand Name: Aldactone):
 
@@ -32,7 +32,7 @@ Spironolactone (commonly shortened to "spiro") is the most commonly used AA in t
 
 How does spiro work? Well if receptors are locks, spiro is a master key. It fits into a bunch of steroid receptors, androgen, progesterone, and cortisol. For some it binds exceptionally well (aldosterone and dexamethasone), and some just ok (testosterone). For aldosterone it functions as a powerful antagonist, preventing the kidneys from receiving aldosterone from the adrenal glands. Aldosterone slows down kidney function so that body retains water, and spiro blocks that message, causing them to release the water instead.
 
-In androgen and progesterone receptors it is a partial argonist, turning the key just a little bit, just enough to make the radio turn on, but not strongly activating the cell’s response to those chemicals. It is only enough to tell the hypothalamus that there are androgens and progestins present in the blood stream, so it slows down testosterone production.
+In androgen and progesterone receptors it is a partial agonist, turning the key just a little bit, just enough to make the radio turn on, but not strongly activating the cell’s response to those chemicals. It is only enough to tell the hypothalamus that there are androgens and progestins present in the blood stream, so it slows down testosterone production.
 
 The other way that spiro works is that it prevents the formation of various enzymes that the body needs in order to produce testosterone. Without these enzymes, the testes and adrenal glands literally cannot form testosterone molecules.
 
@@ -54,7 +54,7 @@ Another common sign of low sodium is muscle spasms and leg cramps (charley-horse
 
 Cyproterone Acetate (commonly shortened to "cypro") is probably the most commonly used transgender anti-androgen outside of the United States, where it was never approved by the FDA for sale to patients. This is mainly because no company has ever found it profitable to undergo the complicated process necessary for FDA approval. Additionally, the the drug has a troublesome history, with early studies finding it connected to high liver cancer risks. It also picked up a stigma of causing blood clots due to its pairing with ethinyl-estradiol in the contraceptive Diane-35.
 
-Cypro works in two ways, first by functioning as a powerful receptor antagonist, competing with testosterone for androgen receptors. Additionally, cypro functions as a mild progesterone argonist with poor transactional ability, just enough to convince the hypothalamus that the body is flush with progesterone and thus reducing hormone production. Unfortunately, this means that cypro competes with progesterone, and can hindering its effectiveness, but it does make it quite affective at lowering testosterone levels in the blood stream.
+Cypro works in two ways, first by functioning as a powerful receptor antagonist, competing with testosterone for androgen receptors. Additionally, cypro functions as a mild progesterone agonist with poor transactional ability, just enough to convince the hypothalamus that the body is flush with progesterone and thus reducing hormone production. Unfortunately, this means that cypro competes with progesterone, and can hindering its effectiveness, but it does make it quite affective at lowering testosterone levels in the blood stream.
 
 The common dosage for cypro in trans HRT is 25mg, with a maximum dose of 100mg. Because the drug is so hard on the liver, staying below 50mg is recommended.
 
@@ -80,7 +80,7 @@ The on-label use of Finasteride is for fighting prostate cancer and preventing m
 Tip: Insurance companies are more likely to fully cover the cost of the 5mg dose, rather than the 1mg, as the larger dose is usually prescribed for prostate cancer, where the smaller is just for hair loss.
 
 
-### GnRH Argonists (Leuprolide Acetate / Goserelin / Histrelin Acetate):
+### GnRH Agonists (Leuprolide Acetate / Goserelin / Histrelin Acetate):
 
 GoodRx Price Lookups: [Leuprolide](https://www.goodrx.com/leuprolide), [Goserelin](https://www.goodrx.com/goserelin)
 
@@ -90,9 +90,9 @@ LH causes the production of testosterone in both the testes and the ovaries, but
 
 GnRH Agonists, as the name implies, interface with GnRH receptors on the pituitary gland and trigger a constant stream of LH, which initially causes the testes and ovaries to crank up production. However, because the drug doesn’t pulse, the receptors eventually become overloaded and stop listening, causing LH levels to plummet, and shutting down both testicle and ovarian function.
 
-GnRH Argonists are extremely effective and have very minimal side-effects and are the preferred method for blocking puberty in adolescents of both sexes. Unfortunately, GnRH Argonists are extremely expensive (upwards of $1000 per dose, or more) and are rarely covered by insurance for use in adults.
+GnRH Agonists are extremely effective and have very minimal side-effects and are the preferred method for blocking puberty in adolescents of both sexes. Unfortunately, GnRH Agonists are extremely expensive (upwards of $1000 per dose, or more) and are rarely covered by insurance for use in adults.
 
-The three most common GnRH Argonists are Leuprolide Acetate (brand name Lupron), Goserelin (brand name Zoladex), and Histrelin Acetate (brand names Vantas and Supprelin). Leuprolide is a shot delivered every 2-3 months. Goserelin and Histrelin are annual implants, typically placed under the skin of a forearm.
+The three most common GnRH Agonists are Leuprolide Acetate (brand name Lupron), Goserelin (brand name Zoladex), and Histrelin Acetate (brand names Vantas and Supprelin). Leuprolide is a shot delivered every 2-3 months. Goserelin and Histrelin are annual implants, typically placed under the skin of a forearm.
 
 
 ## How do I know if it is working?

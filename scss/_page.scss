@@ -74,8 +74,6 @@ body.gdb, body.hrt {
     } }
 
     .gutter {
-      // page-break-inside: avoid;
-      // page-break-before: avoid;
 
       @media screen and (min-width: 800px) {
         position: relative;
@@ -102,6 +100,10 @@ body.gdb, body.hrt {
         display: flex;
         flex-direction: column;
         align-items: center;
+
+        .tweet {
+          flex: none;
+        }
 
         &.flex-end {
           justify-content: flex-end;

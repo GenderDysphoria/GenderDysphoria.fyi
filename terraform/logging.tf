@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------------------------------------
 # Grant the log parsing lambda access to the logs bucket
 
-resource "aws_lambda_permission" "allow_bucket" {
+resource "aws_lambda_permission" "s3_bucket_invoke_function" {
   statement_id  = "AllowExecutionFromS3Bucket"
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.ipixel_parser.arn
@@ -22,6 +22,8 @@ resource "aws_s3_bucket_notification" "ipixel_logs" {
   lambda_function {
     lambda_function_arn = aws_lambda_function.ipixel_parser.arn
     events              = ["s3:ObjectCreated:*"]
+    filter_prefix       = "RAW/"
+    filter_suffix       = ".gz"
   }
 
   depends_on = [aws_lambda_permission.s3_bucket_invoke_function]
@@ -29,7 +31,7 @@ resource "aws_s3_bucket_notification" "ipixel_logs" {
 
 data "archive_file" "ipixel_parser" {
   type        = "zip"
-  source_dir  = "${path.module}/lambda/src"
+  source_dir  = "${path.module}/lambda"
   output_path = ".terraform/tmp/lambda/ipixel_parser.zip"
 }
 
@@ -57,5 +59,8 @@ resource "aws_lambda_function" "ipixel_parser" {
     Role = "ipixel"
   }
 
-  depends_on = [aws_cloudwatch_log_group.ipixel_parser_logs]
+  depends_on = [
+    aws_cloudwatch_log_group.ipixel_parser_logs,
+    aws_cloudwatch_log_group.ipixel_results,
+  ]
 }

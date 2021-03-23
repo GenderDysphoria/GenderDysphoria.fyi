@@ -88,6 +88,27 @@
         height: 1em;
       }
     }
+
+    + {
+      h1, h2, h3, h4, h5 {
+        .header-link {
+          display: none;
+        }
+      }
+    }
+
+    &:first-child {
+      .header-link {
+        display: none;
+      }
+    }
+  }
+
+  h5 {
+    font-weight: 600;
+    font-family: $font-primary;
+    margin-bottom: 0.2rem;
+    font-size: 1.05em;
   }
 
   li p {

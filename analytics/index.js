@@ -98,6 +98,8 @@ async function* loadFiles () {
     );
   `);
 
+  await db.run('PRAGMA busy_timeout = 6000');
+
   const stmt = await db.prepare(sql`
     REPLACE INTO records VALUES (
       :dts,
@@ -122,6 +124,8 @@ async function* loadFiles () {
     );
   `);
 
+  let counter = 0;
+
   await pipeline(
     Readable.from(loadFiles()),
     parser,
@@ -129,15 +133,14 @@ async function* loadFiles () {
       readableObjectMode: true,
       writableObjectMode: true,
       transform (row, encoding, done) {
-        console.log(row);
         // filter out OPTIONS calls
-        if (row['cs-method'] === 'OPTIONS') return null;
+        if (row['cs-method'] === 'OPTIONS') return done();
 
         // I only care about the pixel hits, nothing else.
-        if (row['cs-uri-stem'] !== '/i') return null;
+        if (row['cs-uri-stem'] !== '/i') return done();
 
         // this isn't an analytics event
-        if (row['cs-referer'] === '-') return null;
+        if (row['cs-referer'] === '-') return done();
 
         row = Object.fromEntries(Object.entries(row).map(([ k, v ]) => [ k.replace(/-/g, '_'), v ]));
 
@@ -147,7 +150,7 @@ async function* loadFiles () {
         ;
 
         // we didn't get analytics data from this load, ignore it
-        if (!query.start) return null;
+        if (!query.start) return done();
 
         const useragent = parseUA(row.cs_user_agent);
 
@@ -181,7 +184,7 @@ async function* loadFiles () {
           client_end: sessionEnd ? format(new Date(sessionStart), 'yyyy-MM-dd HH:mm:ss') : null,
           duration,
           language,
-          viewed,
+          scrolled: viewed,
           max_scroll,
           page_height,
           viewport_height,
@@ -203,15 +206,24 @@ async function* loadFiles () {
       write (record, encoding, done) {
         (async () => {
           const params = Object.fromEntries(
-            Object.entries(record).map(([ k, v ]) => [ ':' + k, v ]),
+            Object.entries(record).map(([ k, v ]) => [ ':' + k, v || null ]),
           );
-          await stmt.run(params);
-          process.stdout.write('.');
+          while (true) {
+            try {
+              await stmt.run(params);
+              break;
+            } catch (err) {
+              if (err.code !== 'SQLITE_BUSY') throw err;
+            }
+          }
+          counter++;
+          if (!(counter % 10)) process.stdout.write('.');
         })().then(() => done(), done);
       },
     }),
   );
 
+  await stmt.finalize();
   await db.close();
 
 })().then(

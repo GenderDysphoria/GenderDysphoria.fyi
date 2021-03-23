@@ -15,7 +15,7 @@ const groupBy = (array, key) => (
     if (result[item[key]]) {
       result[item[key]].push(item);
     } else if (item[key]) {
-      result[item[key]] = [item];
+      result[item[key]] = [ item ];
     }
     return result;
   }, {})
@@ -54,7 +54,7 @@ const describeLogStream = async (logStreamName) => {
 // Extend the original record with some additional fields
 // and encapsule records into CloudWatch Logs event.
 //
-const buildlogEvents = records => (
+const buildlogEvents = (records) => (
   records.map((record) => {
     const payload = record;
     payload.name = 'logs:cloudfront';

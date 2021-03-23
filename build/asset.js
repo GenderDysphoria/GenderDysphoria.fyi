@@ -1,6 +1,6 @@
 
 const path = require('path');
-const { pick, each } = require('lodash');
+const { pick } = require('lodash');
 const actions = require('./actions');
 const File = require('./file');
 const { TYPE } = require('./resolve');
@@ -56,7 +56,7 @@ module.exports = exports = class Asset extends File {
       height,
     } ];
 
-    if (this.preprocessed) {
+    if (this.preprocessed || this.ext === '.svg') {
       this._tasks = [ {
         output: this.out,
         input: this.input,
