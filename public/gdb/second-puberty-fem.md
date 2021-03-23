@@ -18,7 +18,7 @@ classes:
 
 This is a compilation of reported medical transition changes collected from testimonials of AMAB trans people taking estrogen based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness, every body is different, and some things can take years to appear.**
+**Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
 
 ### Breast Growth
 
@@ -98,7 +98,7 @@ This is an extremely subtle and slow moving process that takes years, and it is 
 
 With the removal of androgens, blood flow to the scalp increases. Follicles that had been lost to male pattern baldness may reactivate, causing some return of the hair line and a filling in of bald spots. Scalp hair becomes thicker and follicles grow stronger, allowing hair to grow to longer lengths.
 
-With this thickening, curliness may become more pronounced, and a change in hair color may also occur. You may come to have your mother's hair more than your fathers.
+With this thickening, curliness may become more pronounced, and a change in hair color may also occur. You might find your hair taking on a texture more like your mother's than your father's.
 
 ### [Anterior Pelvic Tilt](http://en.wikipedia.org/wiki/Pelvic_tilt)
 
@@ -178,13 +178,13 @@ People have also reported a tendency to be less prone to start arguments, an a d
 </div>
 }!}
 
-All genitalia are constructed from the same tissues, they are merely organized differently during pregnancy. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start acting like they are in the shape of a vulva, even though they aren't.
+All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start acting like they are in the shape of a vulva, even though they aren't.
 
 ##### Increased Sensitivity
 
 The skin on the glans and shaft becomes much thinner and fragile, more prone to tearing and irritation, while also becoming *significantly* more sensitive to touch. The entire organ also becomes much more sensitive to pressure, and vibration becomes a better form of stimulation over stroking, which may become painful.
 
-#### Moisture and Feminine Odor**
+#### Moisture and Feminine Odor
 
 The skin along the shaft begins to secret the same fluids as the vaginal canal, particularly during arousal (yes, trans girls get wet). These fluids encourage the development of the same microbiome that develops within the vaginal canal. The combination of these factors means that odor (and taste) of the penis changes to align more to that of a vulva. 
 
@@ -234,7 +234,7 @@ The entire body becomes more responsive to touch, and with that unlocks stronger
 
 ##### Orgasm
 
-Orgasm changes significantly, both in the way it builds and how it is experienced (see link above), but additionally if one is lucky they will gain the ability to become multi-orgasmic with no refractory period. The cost of this is that orgasm may become harder to achieve, and one has to re-learn how to reach it. It also becomes easier to reach with a partner, which may have been the opposite before.
+Orgasm changes significantly, both in the way it builds and how it is experienced (see link above), but additionally, if one is lucky, they will gain the ability to become multi-orgasmic with no refractory period. The cost of this is that orgasm may become harder to achieve, and one has to re-learn how to reach it. It also becomes easier to reach with a partner, which may have been the opposite before.
 
 ##### Attraction
 
@@ -242,11 +242,11 @@ It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-
 
 ### Cyclical Period-like Symptoms
 
-Obviously we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (tho some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
+Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
 
 - Cramping in the intestine and abdominal muscles, ranging from a slight flutter in the gut to strong painful spasms.
 - Bloating and water retention
-- Gas, Diarrhea and other intestinal issues.
+- Gas, diarrhea and other intestinal issues.
 - Emotional instability, mood swings and irrational thoughts
   - Heightened depression and dysmorphia
   - Depersonalization or dissociation.

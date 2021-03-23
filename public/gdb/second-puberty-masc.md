@@ -28,7 +28,7 @@ tweets:
 
 This is a compilation of reported medical transition changes collected from testimonials of AFAB trans people taking testosterone hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness, every body is different, and some things can take years to appear.**
+**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
 
 ### Voice Drop
 
@@ -50,7 +50,7 @@ With the above shift in temperature distribution, this also results in a signifi
 
 ### Body Odor
 
-Often once of the first things to change: Sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
+Often onc of the first things to change: sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
 
 ### Body Hair, Everywhere
 
@@ -60,13 +60,13 @@ Androgens significantly increase the presence of body hair on the legs, groin, b
 
 MPD is caused by [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), an androgen which metabolizes from Testosterone. Having more T in your body means more DHT can form, and the gene that contributes to MPD causes the hair follicles on the scalp to receive less blood, choking them out until the follicles die. There will likely be *some* loss of hair line eventually, no matter what, but if there is a history of baldness among the men in your family, then you can expect to see that as well. Again, Rogaine can help with this.
 
-The synthetic androgen [Nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct Testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double edged sword.
+The synthetic androgen [Nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct Testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double-edged sword.
 
 ### Thicker and Oilier Skin
 
-Testosterone promotes the thickening and toughening of the epidermis, causing skin to become more coarse. As estrogen levels fall the body will produce less collagen. This causes the skin to become tougher and drier (especially in the knees and elbows). Veins on the hands, arms, and legs may become more pronounced, but not varicose.
+Testosterone promotes the thickening and toughening of the epidermis, causing skin to become coarser. As estrogen levels fall, the body will produce less collagen. This causes the skin to become tougher and drier (especially in the knees and elbows). Veins on the hands, arms, and legs may become more pronounced, but not varicose.
 
-Expect your face and scalp to become oilier. Acne *will* be a problem, and not just on the face. This tends to be worst immediately after dosing.
+Expect your face and scalp to become oilier. Acne is likely to be a problem, and not just on the face. This tends to be worst immediately after dosing.
 
 ### Larger Hands / Feet
 
@@ -150,7 +150,7 @@ It's extremely common for trans people of all types to find themselves much more
 </div>
 }!}
 
-All genitalia are constructed from the same tissues, they are merely organized differently during pregnancy. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you and add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
+All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
 
 ##### Bottom Growth
 
