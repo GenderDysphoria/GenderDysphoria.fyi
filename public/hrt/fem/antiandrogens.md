@@ -42,7 +42,7 @@ I mentioned above that the third receptor spiro fits into is the cortisol recept
 
 Without cortisol, the body resists releasing fats for consumption, it just retains it. This not only makes it easier to put weight on, and harder to lose the weight you have, but it hinders fat redistribution for feminization. New fats go on in estrogenic ways, but the old masculine fats struggle to release. For late transitioners this can result in the dreaded “grandma” effect, where the combined masculine and feminine fats make one look much older than they are. There is also a community term “spiro belly” which refers to the way the drug causes fats to pool in the abdomen.
 
-Reduced cortisol function also affects working memory within the brain, causing one to be more distracted and have greater difficulty working on tasks. This is effectively the same as ADHD symptoms, and some transfemmes notice their ADHD getting much worse on the drug. Personally I found the drug made it harder to drive a vehicle, I could tell my road awareness was hindered. Many people report coming off of spiro to feel like walking out of a mental fog.
+Reduced cortisol function also affects working memory within the brain, causing one to be more distracted and have greater difficulty working on tasks. This is effectively the same as ADHD symptoms, and some transfems notice their ADHD getting much worse on the drug. Personally I found the drug made it harder to drive a vehicle, I could tell my road awareness was hindered. Many people report coming off of spiro to feel like walking out of a mental fog.
 
 Spironolactone is typically prescribed in doses of 100 or 200mg for HRT, and can be taken as high as 400mg, but is not recommended due to all the other side-effects. The drug can also be very hard on the liver and kidneys in high doses, and dehydration is a common risk. Potassium overdose is also a possibility, and it is recommended that you avoid eating foods rich with potassium like bananas, avocados and even potatoes.
 
@@ -67,7 +67,7 @@ Bicalutamide (commonly shortened to "bical") is also a receptor antagonist, much
 
 This makes it extremely difficult to determine if the drug is actually working. Eventually, as estrogen levels rise, T production drops off due to the overall total sex hormones present in the body, but this takes time. It does have one benefit, however, that the high levels of T also mean that some of the testosterone will aromatase into estrogen.
 
-Bical has the same high liver risks as spiro and cypro, and for this reason many doctors are reluctant to prescribe it, especially in older patients. Aside from this, it has relatively few negative side-effects for transfemmes.
+Bical has the same high liver risks as spiro and cypro, and for this reason many doctors are reluctant to prescribe it, especially in older patients. Aside from this, it has relatively few negative side-effects for transfems.
 
 ### Finasteride / Dutasteride:
 
