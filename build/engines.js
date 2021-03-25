@@ -251,11 +251,13 @@ class Injectables {
       const { hash, env, resolve: rval } = args.pop();
       const local = rval('@root.this.local');
       const tpath = path.join(local.root, 'svg', name + '.svg');
+      if (hash.size && String(hash.size).match(/^\d+$/)) {
+        hash.size = hash.size + 'px';
+      }
       const frame = handybars.makeContext(hash, env);
-
       try {
         const contents = self._template(tpath, (s) =>
-          handybars(`<span class="svg-icon" {{#if size}}style="width:{{size}}px;height:{{size}}px"{{/if}}>${s}</span>`),
+          handybars(`<span class="svg-icon" style="{{#if this.size}}width:{{this.size}};height:{{this.size}};{{/if}}{{this.style}}">${s}</span>`),
         )(frame);
 
         return handybars.safe(contents);
