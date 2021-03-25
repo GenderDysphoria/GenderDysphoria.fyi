@@ -140,6 +140,10 @@ exports.resolve = function resolve (...args) {
   return path.resolve(ROOT, fpath, ...args);
 };
 
+exports.resolveDir = function resolveDir (...args) {
+  return path.dirname(exports.resolve(...args));
+};
+
 exports.relative = function relative (fpath) {
   return path.relative(ROOT, fpath);
 };

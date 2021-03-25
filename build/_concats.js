@@ -1,7 +1,7 @@
 
 module.exports = exports = [
   {
-    output: '/gdb/printable.md',
+    output: 'public/gdb/printable.md',
     sources: [
       'public/gdb/index.md',
       'public/gdb/what-is-gender.md',
@@ -25,7 +25,8 @@ module.exports = exports = [
     meta: {
       title: 'The Gender Dysphoria Bible',
       description: 'A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender.',
-      classes: [ 'longform' ],
+      classes: [ 'gdb', 'longform' ],
+      preBody: '_disclaimer',
     },
   },
 ];

@@ -1,5 +1,6 @@
 
 const Page = require('./page');
+const { resolveDir } = require('./resolve');
 
 function isDate (input) { return input instanceof Date; }
 
@@ -20,6 +21,7 @@ module.exports = exports = function (pages, target, paths, meta) {
   }
 
   const result = new CombinedPage(target);
+  result.cwd = resolveDir(target);
   result.source = '';
   result.meta = {};
   result.dateCreated = new Date();
