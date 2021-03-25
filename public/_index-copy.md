@@ -19,5 +19,48 @@ This experience of discontinuity between the internal and external self is what 
 The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
 
 
+æææ<div class="two-column-list">æææ
 
-æææ</div>æææ
+### Table of Contents
+
+1. [What is Gender?](/gdb/what-is-gender)
+
+3. [The History of Gender Dysphoria](/gdb/history)
+
+4. [Gender Euphoria](/gdb/euphoria)
+
+5. [Physical Dysphoria](/gdb/physical-dysphoria)
+
+6. [Biochemical Dysphoria](/gdb/biochemical-dysphoria)
+
+7. [Social Dysphoria](/gdb/social-dysphoria)
+
+8. [Societal Dysphoria](/gdb/societal-dysphoria)
+
+9. [Sexual Dysphoria](/gdb/sexual-dysphoria)
+
+10. [Presentational Dysphoria](/gdb/presentational-dysphoria)
+
+11. [Existential Dysphoria](/gdb/historical-dysphoria)
+
+12. [Managed Dysphoria](/gdb/managed-dysphoria)
+
+13. [Impostor Syndrome](/gdb/impostor-syndrome)
+
+14. [Clinical Diagnoses](/gdb/diagnoses)
+
+15. [Treating Gender Dysphoria](/gdb/treatment)
+
+16. [Causes of Gender Dysphoria](/gdb/causes)
+
+17. [Chromosomes](/gdb/chromosomes)
+
+18. [How Hormones Work](/gdb/hormones)
+
+19. [Androgenic Second Puberty 101](/gdb/second-puberty-masc)
+
+20. [Estrogenic Second Puberty 101](/gdb/second-puberty-fem)
+
+21. [Conclusion](/gdb/conclusion)
+
+æææ</div></div>æææ
