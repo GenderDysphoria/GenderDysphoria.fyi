@@ -22,6 +22,13 @@ const markdownEngines = {
     typographer: true,
   })
     .enable('image')
+    .use(require('markdown-it-link-attributes'), {
+      pattern: /^https?:/,
+      attrs: {
+        target: '_blank',
+        rel: 'noopener',
+      },
+    })
     .use(require('markdown-it-anchor'), {
       permalink: true,
       permalinkClass: 'header-link',
