@@ -70,7 +70,7 @@ siblings:
 
 {!{ </div> }!}
 
----
+<hr class="print-break-after print-hidden">
 
 ## Introduction
 
@@ -96,7 +96,7 @@ This experience of discontinuity between the internal and external self is what 
 The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
 
 {!{
-<div class="gutter flex flex-end print-center">
+<div class="gutter flex flex-end print-inline print-span2 print-center">
 <span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}

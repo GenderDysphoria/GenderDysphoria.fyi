@@ -18,7 +18,14 @@ In 1948, noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wik
 
 Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term Gender Identity Disorder instead.
 
-{!{ <div class="gutter">{{import '~/img' images.hbscale className="card sideline" caption="Harry Benjamin Diagnostic Scale"}}</div> }!}
+{!{
+<div class="gutter print-inline">
+  {{import '~/img' images.hbscale
+    className="card print-span34 print-center"
+    caption="Harry Benjamin Diagnostic Scale"
+  }}
+</div>
+}!}
 
 If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how Gender Dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transsexual", you were usually rejected for treatment.
 
@@ -38,7 +45,9 @@ Transgender people are coming out of the woodwork; we are everywhere.
     <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
     A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
   </blockquote>
-  {{import '~/img' images.glue className="card sideline"}}
+</div>
+<div class="gutter print-span4">
+  {{import '~/img' images.glue className="card print-span4"}}
 </div>
 }!}
 
@@ -46,7 +55,9 @@ There is a common misconception among both cisgender and transgender people that
 
 In principle, Gender Dysphoria is a feeling of wrongness intrinsic to the self. There is no logical backing to this wrongness, there is nothing which explains it, you can not describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things *are* incorrect can be hard to properly identify.
 
-Evey Winters described it extremely aptly [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
+
+Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
 
 > Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
 >
@@ -55,8 +66,6 @@ Evey Winters described it extremely aptly [in her Dysphoria post](https://eveywi
 > It’s the feeling you get when you ask for a crisp refreshing Diet Coke and the server says, “Is Pepsi ok?”
 >
 > It is knowing that something is wrong and not being able to do a damn thing about it.
-
-The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
 
 Gender Dysphoria is, at its core, simply emotional reactions to the brain knowing that something does not fit. This incongruence is so deep inside the brain's subsystems that there is no obvious message of what the problem is. The only way we have to identify it is via the emotions that it triggers. Our consciousness receives either positive (euphoria) or negative (dysphoria) feedback according to how well our current environment aligns with our internal sense of self. Part of transition is learning to recognize those signals.
 

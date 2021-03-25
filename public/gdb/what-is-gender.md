@@ -28,8 +28,6 @@ Many people attribute the term to psychologist John Money, who proposed using "g
 >
 > Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
 
----
-
 Human Sex (the adjective, not the verb) is broken down into three categories:
 
 - **Genotype**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
@@ -38,14 +36,14 @@ Human Sex (the adjective, not the verb) is broken down into three categories:
 
 Any of these three aspects can fall into a position on a range of values. Your elementary school health class probably taught you that Genotype is binary, either Female (XX) or Male (XY), when the reality is that there are a dozen other permutations that can occur within human beings.
 
-{!{ {{import '~/img' images.bimodal className="card borderless center span34"}} }!}
+{!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
 Likewise, many people believe that Phenotype is also binary, but biology has recognized for hundreds of years that when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
 Gender, however, is a lot more... esoteric. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 
 {!{
-<div class="gutter flex">
+<div class="gutter flex print-span34 print-row print-inline print-break-before">
 {{import '~/img' images.spectrum className="" link="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of" style="margin-bottom: 5px"}}
 {{import '~/img' images.graph className="" style="margin-bottom: 5px"}}
 {{import '~/img' images.gender_unicorn className="" link="http://www.transstudent.org/gender" style="margin-bottom: 5px"}}

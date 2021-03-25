@@ -2,54 +2,40 @@
 
 body.longform {
 
-  #body {
-    background: unset;
-
-    @media screen {
-      padding: 0 1em;
-    }
-  }
-
+@media print {
   header {
     display: none;
   }
+}
 
-  h1, h2 {
-    clear: both;
-    page-break-before: always;
-  }
+//   #body {
+//     // background: unset;
 
-  .header-link { display: none; }
+//     @media screen {
+//       padding: 0 1em;
+//     }
+//   }
 
-  article hr {
-    page-break-after: always;
-    opacity: 0;
-  }
+//   header {
+//     display: none;
+//   }
 
+//   h1, h2 {
+//     clear: both;
+//     page-break-before: always;
+//   }
 
-  .gutter {
-    float: right;
-    width: 40vw;
-    margin-left: 1em;
-    zoom: 0.9;
+//   .header-link { display: none; }
 
-    page-break-inside: avoid;
+//   article hr {
+//     page-break-after: always;
+//     opacity: 0;
+//   }
 
-    &.print-center {
-      float: none;
-      margin: 1em auto;
-    }
-  }
+//   > a > img:not(.card-img-top), > img {
+//     max-width: 100%;
+//     margin-bottom: 5px;
+//   }
 
-  &.flex, .flex {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  > a > img:not(.card-img-top), > img {
-    max-width: 100%;
-    margin-bottom: 5px;
-  }
 }
 

@@ -1,14 +1,21 @@
 {{#if sizes}}
-<div class="{{className}}" {{#if style}}style="{{style}}"{{/if}} target="_break">
-  <a href="{{#if link}}{{link}}{{else}}{{rev (get (last sizes) 'url')}}{{/if}}" class="{{#includes className "card"}}card-img-top{{/includes}} {{#unless external}}lb{{/unless}}"><img
+<div class="{{className}}" {{#if style}}style="{{style}}"{{/if}}>
+  <a
+    href="{{#if link}}{{link}}{{else}}{{rev (get (last sizes) 'url')}}{{/if}}"
+    class="{{#includes className "card"}}card-img-top{{/includes}} {{#unless external}}lb{{/unless}}"
+    {{#if external}}target="_break" rel="noopener"{{/if}}
+  >
+    <img
     src="{{rev url}}"
     alt="{{alt}}"
     srcset="{{#join sizes}}{{rev url}} {{width}}w{{/join}}"
     sizes="{{#if srcSizes}}{{srcSizes}}{{else}}(max-width: 576px) 100vw, 576px{{/if}}"
-    {{#includes className "card"}}class="card-img-top"{{/includes}}
+    {{#includes className "card"}}
+      class="card-img-top"
+    {{/includes}}
     {{#if imgStyle}}style="{{imgStyle}}"{{/if}}
-  ></a>
-
+    >
+  </a>
   {{#if caption}}<span class="card-body">{{{caption}}}</span>{{/if}}
 </div>
 {{/if}}

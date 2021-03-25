@@ -107,8 +107,6 @@ Primary characteristics can only be altered through surgical intervention. Some 
 
 Some secondary traits can be surgically enhanced (Breast Augmentation, body contouring, facial masculinization / feminization), and some cannot be changed at all.
 
----
-
 Physical dysphoria manifests in several different ways. Sometimes this is felt in a sort of phantom limb phenomenon, where the person can feel sensations from a penis or vagina that is not there, an ache in a uterus that does not exist, or a sense of absence on the chest from breasts that have not grown in.
 
 It can be felt as a sort of *reverse* phantom effect, where the person is persistently aware of something that should *not* be there. The brain is receiving sensory input that it does not expect, such as the weight of breasts, or the presence of testicles or a uterus, and this input takes priority because it isn't expected.

@@ -40,10 +40,11 @@ There are four main kinds of hormones:
 - [Eicosanoids](https://en.wikipedia.org/wiki/Eicosanoid) that are formed from lipids and fatty acids and predominantly affect the immune system
 - [Steroids](https://en.wikipedia.org/wiki/Steroid) are signaling molecules produced by various internal organs in order to pass messages to other organs within the body.
 
-{!{ <div class="gutter">{{import '~/img' images.steroidogenesis
-  className="card sideline"
+{!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
+  className="card"
   link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
   external=1
+  alt="Chart of steroid metabolism flow"
   caption="All steroids are formed from cholesterols (top left) and are derived from other steroids. Progestins form into Androgens which form into Estrogens. This is a one-way exchange, and does not reverse, so don't believe it when someone tells you that too much estrogen will turn it into testosterone."
 }}</div> }!}
 

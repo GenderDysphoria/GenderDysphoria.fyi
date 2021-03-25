@@ -101,6 +101,7 @@ $header-full-height: 100px;
 // @import "./index";
 @import "./page";
 @import "./card";
+@import "./gutter";
 @import "./grid-row";
 @import "./markup";
 // @import "./pager";
@@ -141,13 +142,57 @@ body.page, body.post {
 
   article {
     border: 0;
+
+    blockquote {
+      page-break-inside: avoid;
+    }
+
+    h1 {
+      // clear: both;
+      page-break-before: always;
+    }
   }
 
-  .card {
-    &.span34 {
-      width: 50vw;
+  .print-break-before {
+    page-break-before: always;
+  }
+
+  .print-break-after {
+    page-break-after: always;
+  }
+
+  .print-hidden {
+    opacity: 0;
+  }
+
+  .card, .gutter {
+    &.print-span1  { width: 100vw !important; }
+    &.print-span34 { width:  75vw !important; }
+    &.print-span2  { width:  50vw !important; }
+    &.print-span3  { width:  33vw !important; }
+    &.print-span4  { width:  25vw !important; }
+    &.print-span5  { width:  20vw !important; }
+    &.print-span6  { width:  15vw !important; }
+
+    &.print-span1,
+    &.print-span34,
+    &.print-span2 {
+      &.print-inline, &.print-center {
+        margin: 1em auto;
+      }
+    }
+
+    &.print-center {
       margin: 1em auto;
     }
+
+    &.print-right {
+      float: right;
+    }
+  }
+
+  .card img.card-img-top {
+    page-break-inside: avoid;
   }
 }
 
@@ -183,4 +228,3 @@ body.page, body.post {
 footer .patreon-support { display: none; }
 footer .foot-nav { display: none; }
 
-article hr { page-break-after: always; }

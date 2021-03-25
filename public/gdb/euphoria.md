@@ -47,6 +47,8 @@ This is the most fundamental reason why we as a community say "you do not need d
 
 Anything that can be a source of dysphoria has an equal and opposite euphoria.
 
+{!{ <div class="print-break-before"></div> }!}
+
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1228141518386585607'
   '1228165207316287489'

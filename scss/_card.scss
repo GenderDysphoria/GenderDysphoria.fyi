@@ -8,12 +8,7 @@
   }
 
   .card-img, .card-img-top {
-    width: unset;
-  }
-
-  .card-img-top {
-    page-break-before: avoid;
-    page-break-after: avoid;
+    // width: unset;
   }
 
   .card-img-top + .card-img-top {
@@ -148,8 +143,6 @@
   .card.right {
     float: right;
     margin-left: 10px;
-    page-break-inside: always;
-
   }
 
   .card.center {

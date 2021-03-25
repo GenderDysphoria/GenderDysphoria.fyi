@@ -36,7 +36,16 @@ If you've seen Jurassic Park then you may remember this scene:
   }}
 }!}
 
-{!{ <div class="gutter flex" style="justify-content: center"> {{import '~/img' images.fetalgenitals className="card" caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>" alt="Fetal development of internal sexual anatomy"}}</div> }!}
+{!{
+<div class="gutter flex flex-center print-span3">
+  {{import '~/img' images.fetalgenitals
+    className="card"
+    caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>"
+    alt="Fetal development of internal sexual anatomy"
+  }}
+</div>
+}!}
+
 The gonads in human fetuses initially develop in a bi-potential state, meaning they can become either ovaries or testes. The SRY gene on the Y chromosome releases a protein called [Testis Determining Factor](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF). This protein then starts a chain reaction with SOX9 production (another protein), which causes the gonadal cells to form into the Sertoli and Leydig cells that make up the testes. If TDF is never produced or is interfered with then the gonad cells form into the Theca cells and Follicles which comprise the ovaries.
 
 
@@ -48,16 +57,19 @@ This is known as Swyer Syndrome, and an unknown number of women may have this co
 
 The fact is, the vast majority of the population has never been tested for genetic karyotype, so we don’t know how common these cases actually are. Where does this come into affect for gender identity? Well, the exact same process that causes the external genitals to differentiate also occurs for the brain.
 
-{!{ <div class="gutter">
+{!{
+<div class="gutter">
   <strong style="display: block;text-align: center;">And it gets even weirder!</strong>
-{{import '~/tweet' ids=[
-  '1224039568971710464'
-  '1224040716365524993'
-  '1224041800513380352'
-  '1224042620164296705'
-  '1224043995413639168'
-  '1224044949160611840'
-] tweets=meta.tweets className="oneblock hide-reply" }}</div> }!}
+  {{import '~/tweet' ids=[
+    '1224039568971710464'
+    '1224040716365524993'
+    '1224041800513380352'
+    '1224042620164296705'
+    '1224043995413639168'
+    '1224044949160611840'
+  ] tweets=meta.tweets className="oneblock hide-reply" }}
+</div>
+}!}
 
 #### Brain Split
 

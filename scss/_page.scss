@@ -26,7 +26,7 @@ body.post {
   }
 }
 
-body.gdb, body.hrt {
+body.gdb {
 
   #body {
     background-color: $gutter-bg;
@@ -72,53 +72,6 @@ body.gdb, body.hrt {
       color: inherit;
       overflow: hidden;
     } }
-
-    .gutter {
-
-      @media screen and (min-width: 800px) {
-        position: relative;
-        height: 0;
-        left: calc(100% + 1em);
-        width: 400px;
-        padding: 0 1em;
-
-        @media (max-width: 1000px) {
-          width: 300px;
-        }
-      }
-
-      @media print, screen and (min-width: 500px) and (max-width: 800px) {
-        float: right;
-        width: 300px;
-        margin-left: 1em;
-        zoom: 0.9;
-      }
-
-      // outline: 1px solid red;
-
-      &.flex, .flex {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-
-        .tweet {
-          flex: none;
-        }
-
-        &.flex-end {
-          justify-content: flex-end;
-        }
-
-        &.flex-center {
-          justify-content: center;
-        }
-      }
-
-      > a > img:not(.card-img-top), > img {
-        max-width: 100%;
-        margin-bottom: 5px;
-      }
-    }
 
     .full-wide {
       width: calc(100vw - 4em);

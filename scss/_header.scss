@@ -149,6 +149,11 @@ header {
         display: none;
       }
     }
+
+    .dropdown-menu {
+      max-height: 90vh;
+      overflow: auto;
+    }
   }
 
   @media (max-width: 500px) {
@@ -167,7 +172,7 @@ header {
 }
 
 // @media (min-width: 500px) {
-  body:not(.front-page):not(.longform) header + * {
+  body:not(.front-page) header + * {
     margin-top: $header-full-height;
   }
 // }

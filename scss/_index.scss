@@ -1,11 +1,5 @@
 .front-page {
 
-  header {
-    @media (max-width: 500px) {
-      position: absolute;
-    }
-  }
-
   .top-fold {
     min-height: 100vh;
     background-color: $header-bg-mid;
