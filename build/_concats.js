@@ -20,6 +20,9 @@ module.exports = exports = [
       'public/gdb/treatment.md',
       'public/gdb/causes.md',
       'public/gdb/chromosomes.md',
+      'public/gdb/hormones.md',
+      'public/gdb/second-puberty-masc.md',
+      'public/gdb/second-puberty-fem.md',
       'public/gdb/conclusion.md',
     ],
     meta: {

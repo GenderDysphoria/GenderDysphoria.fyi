@@ -60,7 +60,13 @@ siblings:
 
 17. [Chromosomes](/gdb/chromosomes)
 
-18. [Conclusion](/gdb/conclusion)
+18. [How Hormones Work](/gdb/hormones)
+
+19. [Androgenic Second Puberty 101](/gdb/second-puberty-masc)
+
+20. [Estrogenic Second Puberty 101](/gdb/second-puberty-fem)
+
+21. [Conclusion](/gdb/conclusion)
 
 {!{ </div> }!}
 

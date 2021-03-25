@@ -8,8 +8,8 @@ classes:
 siblings:
   prev: /gdb/causes
   prevCaption: Causes of Gender Dysphoria
-  next: /gdb/conclusion
-  nextCaption: Conclusion
+  next: /gdb/hormones
+  nextCaption: How Hormones Work
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191
@@ -74,7 +74,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
 
-{!{ <div class="span34 center">
+{!{ <div class="span34 center print-span2">
   {{import '~/tweet' ids=[
     '1207834357639139328'
     '1207835110617309191'
