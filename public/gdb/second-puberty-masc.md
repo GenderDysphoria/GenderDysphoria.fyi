@@ -32,7 +32,9 @@ This is a compilation of reported medical transition changes collected from test
 
 ### Voice Drop
 
-Androgens cause the tissue that comprises the vocal chords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but is incremental over the first year or two. This does *not* mean that you will automatically become read as having a male voice, however, as pitch is only piece of how people gender voice. Vocal training will be needed to amplify resonance and change speaking style.
+Androgens cause the tissue that comprises the vocal chords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic, if you are a soprano you are not going to become a bass, but it could bring you down to a contralto or tenor.
+
+This does *not* mean that your voice will automatically become read as male. Pitch is only a piece of how people gender voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
 
 ### Changes in Body Temperature Placement
 
@@ -40,7 +42,7 @@ Androgens cause the tissue that comprises the vocal chords to thicken and harden
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Androgens encourage extra blood flow to extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase.  The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
+Androgens encourage extra blood flow to the extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase.  The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
 
 This change often comes fairly early on; expect night sweats while your system gets used to it.
 
@@ -50,7 +52,7 @@ With the above shift in temperature distribution, this also results in a signifi
 
 ### Body Odor
 
-Often onc of the first things to change: sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
+Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
 
 ### Body Hair, Everywhere
 
@@ -66,7 +68,7 @@ The synthetic androgen [Nandrolone](https://en.wikipedia.org/wiki/Nandrolone) do
 
 Testosterone promotes the thickening and toughening of the epidermis, causing skin to become coarser. As estrogen levels fall, the body will produce less collagen. This causes the skin to become tougher and drier (especially in the knees and elbows). Veins on the hands, arms, and legs may become more pronounced, but not varicose.
 
-Expect your face and scalp to become oilier. Acne is likely to be a problem, and not just on the face. This tends to be worst immediately after dosing.
+Expect your face and scalp to become oilier. Acne is likely to be a problem, and not just on the face. This tends to be worst immediately after dosing. This will generally improve after the first few years.
 
 ### Larger Hands / Feet
 
@@ -172,7 +174,7 @@ Erogenous stimulation may become more focused on the head of the clitoris and in
 
 ##### Atrophy
 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse.
+Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
 
 ##### Increased Sex Drive
 
