@@ -6,7 +6,7 @@ classes:
   - gdb
 preBody: '_declaracion'
 siblings:
-  prev: /gdb/es/disforia-presentacional
+  prev: /gdb/es/disforia-de-presentacion
   prevCaption: Disforia Presentacional
   next: /gdb/es/disforia-gestionada
   nextCaption: Disforia Gestionada

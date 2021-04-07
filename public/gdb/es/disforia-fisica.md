@@ -6,7 +6,7 @@ preBody: '_declaracion'
 siblings:
   prev: /gdb/es/euforia
   prevCaption: Euforia de Género
-  next: /gdb/es/disforia-bioquímica
+  next: /gdb/es/disforia-bioquimica
   nextCaption: Disforia Bioquímica
 clases:
   - gdb

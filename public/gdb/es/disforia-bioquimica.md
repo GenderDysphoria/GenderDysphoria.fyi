@@ -18,7 +18,7 @@ tweets:
   - '1222743360034758656'
   - '1222743749920464896'
 siblings:
-  prev: /gdb/es/disforia-física
+  prev: /gdb/es/disforia-fisica
   prevCaption: Disforia Física
   next: /gdb/es/disforia-social
   nextCaption: Disforia Social
