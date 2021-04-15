@@ -72,7 +72,7 @@ Gender Dysphoria is, at its core, simply emotional reactions to the brain knowin
 
 Cisgender people receive them as well, but since the signals usually align with their environment, they take them for granted. There have been a few notable occasions, however, when a cisgender person has been [put into a situation](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) where they experience gender dysphoria. Attempts to raise cisgender children [as the opposite sex](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Content warning: suicide) have always met with failure when the child inevitably declares themselves differently.
 
-These impulses of euphoria and dysphoria, arousal and aversion, they all manifest in many different ways, some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this essay is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them. This is a very lengthy essay, so I have separated it into multiple pages.
+These impulses of euphoria and dysphoria, arousal and aversion, they all manifest in many different ways, some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this book is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them.
 
 However, first I must stress something very important, so important that I am putting it into big bold letters:
 
