@@ -9,6 +9,11 @@
   $avatarSize: 36px;
 
   font-size: 12px;
+  body.post & {
+    font-size: 15px;
+  }
+
+
   border: 1px solid $borderColor;
   border-radius: .35em;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
