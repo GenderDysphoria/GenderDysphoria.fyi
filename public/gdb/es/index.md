@@ -6,7 +6,7 @@ preBody: '_declaracion'
 classes:
   - gdb
 siblings:
-  next: /gdb/es/qur-es-el-genero
+  next: /gdb/es/que-es-el-genero
   nextCaption: ¿Qué es el Género?
 ---
 
@@ -19,7 +19,7 @@ siblings:
 </blockquote></div>
 }!}
 
-Desde que la civilización humana ha existido, [ha habido personas](https://en.wikipedia.org/wiki/Transgender_history) cuya experiencia interna de género no se alinea con las características físicas de su cuerpo. La Gala, una clase sacerdotal de género intermedio en el imperio Sumerio, existió hacer cuatro mil quinientos años. Las culturas indígenas de Norte América reconocían ]un tercer género](https://es.wikipedia.org/wiki/Tercer_sexo) mucho antes de la colonización europea, y lo hacen hasta nuestros días. El emperador romano Elagabalus (218 A.C.) insistió en ser nombrado como Señora en lugar de Señor, e incluso presentó una recompensa a cualquiera que pudiera llevar a cabo una cirugía de reconstrucción genital.
+Desde que la civilización humana ha existido, [ha habido personas](https://en.wikipedia.org/wiki/Transgender_history) cuya experiencia interna de género no se alinea con las características físicas de su cuerpo. La Gala, una clase sacerdotal de género intermedio en el imperio Sumerio, existió hacer cuatro mil quinientos años. Las culturas indígenas de Norte América reconocían [un tercer género](https://es.wikipedia.org/wiki/Tercer_sexo) mucho antes de la colonización europea, y lo hacen hasta nuestros días. El emperador romano Elagabalus (218 A.C.) insistió en ser nombrado como Señora en lugar de Señor, e incluso presentó una recompensa a cualquiera que pudiera llevar a cabo una cirugía de reconstrucción genital.
 
 Sin embargo, y a pesar de esto, el entendimiento moderno de la experiencia transgénero tiene apenas 130 años aproximadamente. Incluso la palabra “transgénero” solo se remonta al año 1965 cuando John Oliven la propuso como una alternativa más precisa al término “transexual” de David Cauldwell (acuñado en 1949), que en sí mismo reemplazó al término “travesti” de Magnus Hirschflied.
 

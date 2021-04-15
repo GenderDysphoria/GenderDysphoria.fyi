@@ -4,7 +4,7 @@ title: "Como se manifiesta la Disforia de Género: Disforia Social"
 description: "Pronombres y nombre muerto y generización, oh vaya."
 preBody: '_declaracion'
 siblings:
-  prev: /gdb/es/disforia-bioquímica
+  prev: /gdb/es/disforia-bioquimica
   prevCaption: Disforia Bioquímica
   next: /gdb/es/disforia-societal
   nextCaption: Disforia Societal
