@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 siblings:
   prev: /gdb/sexual-dysphoria
   prevCaption: Sexual Dysphoria
-  next: /gdb/historical-dysphoria
+  next: /gdb/existential-dysphoria
   nextCaption: Existential Dysphoria
 classes:
   - gdb

@@ -13,7 +13,7 @@ module.exports = exports = [
       'public/gdb/societal-dysphoria.md',
       'public/gdb/sexual-dysphoria.md',
       'public/gdb/presentational-dysphoria.md',
-      'public/gdb/historical-dysphoria.md',
+      'public/gdb/existential-dysphoria.md',
       'public/gdb/managed-dysphoria.md',
       'public/gdb/impostor-syndrome.md',
       'public/gdb/diagnoses.md',

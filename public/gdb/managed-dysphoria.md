@@ -5,7 +5,7 @@ linkTitle: "Managed Dysphoria"
 description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
 preBody: '_disclaimer'
 siblings:
-  prev: /gdb/historical-dysphoria
+  prev: /gdb/existential-dysphoria
   prevCaption: Existential Dysphoria
   next: /gdb/impostor-syndrome
   nextCaption: Impostor Syndrome

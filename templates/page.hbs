@@ -12,6 +12,10 @@
   <meta name="twitter:image" content="https://{{page.domain}}{{rev titlecard}}">
   {{/if}}
   <link rel="canonical" href="{{#if canonical}}{{canonical}}{{else}}https://{{page.domain}}{{url}}{{/if}}">
+  {{#if meta.redirect}}
+  <meta http-equiv="refresh" content="0;url={{meta.redirect}}" />
+  <script>href.location = '{{meta.redirect}}';</script>
+  {{/if}}
   {{/content}}
 
   {{#append 'post-header'}}

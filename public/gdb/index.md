@@ -46,7 +46,7 @@ siblings:
 
 10. [Presentational Dysphoria](/gdb/presentational-dysphoria)
 
-11. [Existential Dysphoria](/gdb/historical-dysphoria)
+11. [Existential Dysphoria](/gdb/existential-dysphoria)
 
 12. [Managed Dysphoria](/gdb/managed-dysphoria)
 
