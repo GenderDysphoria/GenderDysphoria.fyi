@@ -8,8 +8,8 @@ preBody: '_disclaimer'
 siblings:
   prev: /gdb/presentational-dysphoria
   prevCaption: Presentational Dysphoria
-  next: /gdb/habitus
-  nextCaption: Habitus
+  next: /gdb/managed-dysphoria
+  nextCaption: Managed Dysphoria
 ---
 
 # Existential Dysphoria
