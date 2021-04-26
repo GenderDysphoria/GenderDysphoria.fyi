@@ -63,3 +63,12 @@ resource "aws_route53_record" "dkim" {
     "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwwirvGkh1h1vMmlK1IEHgs6tlfvkGPv7OLT2yz8hppjTe+sIov8DcBsj3NwotlywotXXgibO5fRJfLHgz0t0eTGeY15c/3K75VnVtKTm4QQ80COU/dCQ1ZbdSmfthEA7w2r0rAEXf20/2J+s8JzCwUidPQfCoYDH+QfSSw\"\"LjOwzSrjBPn+gg2Weh75DxmPHvw1mxA1WD0s+QjZlrLs4hgv41LMJr68Jh5zy+FVRNJAFX1HHVumZDS0StbaDU6r7CvARODQjv+0YMHQRvhDN9LXPp+RGRIegF6ApUM4nEDhDAiM8a/ubUXacX3jMMrSuHgxwhKAk6l0m/LctiNZ943QIDAQAB"
   ]
 }
+
+
+resource "aws_route53_record" "github_validation" {
+  zone_id = aws_route53_zone.zone.zone_id
+  name = "_github-challenge-GenderDysphoria.genderdysphoria.fyi"
+  type = "TXT"
+  ttl = 300
+  records = ["9321b5e6e7"]
+}
