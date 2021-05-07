@@ -14,7 +14,7 @@ node_modules
 /terraform/*.tfstate*
 /terraform/.terraform
 /terraform/files/*.zip
-/analytics/RAW*
+/analytics/*.gz
 /analytics/combined.log
 /analytics/database*
 /assets.json

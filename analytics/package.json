@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "sync": "aws s3 sync s3://gdbible-analytics/RAW ./RAW",
     "empty": "aws s3 rm s3://gdbible-analytics/RAW --recursive",
-    "combine": "find RAW -name '*.gz' -exec cat '{}' ';'| zcat | sed '/^#/ d' > combined.log"
+    "combine": "find RAW_ -name '*.gz' -exec cat '{}' ';' > combined.log"
   },
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "license": "MIT",
@@ -15,6 +16,7 @@
     "date-fns": "~2.9.0",
     "glob-stream": "~6.1.0",
     "named-placeholders": "~1.1.2",
+    "readable-stream": "~3.6.0",
     "split2": "~3.2.2",
     "sqlite": "~4.0.19",
     "sqlite3": "~5.0.2",
