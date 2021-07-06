@@ -67,7 +67,7 @@ Examples:
 - Getting a haircut in a masculine / feminine / androgynous manner
 - Shaving your legs
 - NOT shaving your legs
-- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal party or bachelor shower)
+- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal shower or bachelor party)
 - Feeling sexy / having sex in a way that aligns with your gender and sexuality.
 
 Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
