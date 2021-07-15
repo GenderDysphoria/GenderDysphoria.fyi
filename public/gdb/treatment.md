@@ -87,7 +87,8 @@ An additional option for non-binary bottom surgery is genital nullification surg
 
 - Masculinizing:
 
-  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
+  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction
+  - Breast reduction (some fat and breast tissue removal)
 
 **Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
 
