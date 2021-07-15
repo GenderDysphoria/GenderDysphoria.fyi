@@ -74,10 +74,12 @@ An additional option for non-binary bottom surgery is genital nullification surg
   - Hysterectomy (removal of uterus and cervix)
   - Oophorectomy (removal of one or both ovaries)
   - Vaginectomy (removal of vaginal cavity)
-  - Metoidioplasty (a process which increases the size of the clitorus into a penis)
+  - Metoidioplasty (a process which turns the enlarged clitoris after hormone therapy into a penis)
   - Phalloplasty (construction of a penis from skin grafting)
   - Urethroplasty (extension of the urethral canal through the phallus)
   - Scrotoplasty (use of labia majora and false testicles to construct a scrotum).
+
+Phalloplasty does not necessarily require previous hormone therapy, and while it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, some surgeons can perform phalloplasty without vaginectomy or phalloplasty without urethroplasty.  
 
 **Top Surgery** (modifications to the chest)
 
