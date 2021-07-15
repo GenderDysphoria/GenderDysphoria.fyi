@@ -89,7 +89,8 @@ Phalloplasty does not necessarily require previous hormone therapy, and while it
 
 - Masculinizing:
 
-  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
+  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction
+  - Breast reduction (some fat and breast tissue removal)
 
 **Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
 
