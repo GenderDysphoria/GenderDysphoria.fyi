@@ -15,9 +15,9 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
-  prev: /gdb/treatment
+  prev: /gdb/es/tratamiento
   prevCaption: Treating Gender Dysphoria
-  next: /gdb/chromosomes
+  next: /gdb/es/chromosomas
   nextCaption: But... but... the chromosomes!
 ---
 

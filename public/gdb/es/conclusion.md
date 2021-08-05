@@ -4,7 +4,7 @@ lang: "es"
 title: "In Conclusion"
 description: "Enough with the gatekeeping already."
 siblings:
-  prev: /gdb/chromosomes
+  prev: /gdb/es/chromosomas
   prevCaption: Disorders of Sexual Development
 classes:
   - gdb
