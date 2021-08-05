@@ -1,5 +1,6 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Cómo se manifiesta la Disforia de Género: Disforia Bioquímica"
 description: "Los muy reales factores biológicos de la Disforia de Género que causan perturbación mental."
 preBody: '_declaracion'

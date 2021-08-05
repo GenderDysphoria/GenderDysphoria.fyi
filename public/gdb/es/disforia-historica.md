@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Como se Manifiesta la Disforia de Género: Disforia Histórica"
 description: "No me arrepiento de las cosas que hice, me arrepiento de las cosas que no hice cuando tuve la oportunidad."
 classes:

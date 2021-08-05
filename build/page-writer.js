@@ -78,6 +78,8 @@ function pageState (page, posts) {
     meta: { ...page.meta, ...page },
     page: {
       domain: siteInfo.domain,
+      lang: page.meta.lang || siteInfo.lang || "",
+      date: page.meta.date || "",
       title: page.meta.title
         ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + siteInfo.title)
         : siteInfo.title,

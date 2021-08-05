@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Síndrome del Impostor, pero hazlo Trans"
 description: "No me arrepiento de lo que he hecho, me arrepiendo de las cosas que no hice cuando tenía la oportunidad."
 preBody: '_declaracion'

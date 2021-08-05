@@ -1,5 +1,6 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "¿Qué es el Género?"
 description: "¿Cómo definimos el concepto de Género, y como se diferencia del sexo?"
 preBody: '_declaracion'

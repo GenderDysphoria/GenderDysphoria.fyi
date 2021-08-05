@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Como se Manifiesta la Disforia de Género: Disforia de Presentación"
 description: "Las sudaderas y los pantalones holgados nunca están fuera de moda."
 preBody: '_declaracion'

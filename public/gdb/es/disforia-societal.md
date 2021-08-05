@@ -1,5 +1,6 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Como se manifiesta la Disforia de Género: Disforia Societal"
 description: "Porque un rol es un rol, una carga es una carga, y es una pesada carga vivir en el rol equivocado."
 preBody: '_declaracion'

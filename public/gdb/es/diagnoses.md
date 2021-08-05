@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Diagnosing Gender Dysphoria"
 description: "It's clinical."
 preBody: '_declaracion'

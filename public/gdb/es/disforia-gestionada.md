@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Disforia Gestionada: Disforia disfrazada"
 description: "No me arrepiento de las cosas que he hecho, I regret the things I didn't do when I had the chance."
 preBody: '_declaracion'

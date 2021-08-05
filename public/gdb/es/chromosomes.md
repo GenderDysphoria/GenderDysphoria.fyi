@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Disorders of Sex Development: Gender is not Chromosomal"
 description: "DNA is more what you'd call guidelines, than actual rules."
 preBody: '_declaracion'

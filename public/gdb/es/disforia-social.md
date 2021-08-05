@@ -1,5 +1,6 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Como se manifiesta la Disforia de Género: Disforia Social"
 description: "Pronombres y nombre muerto y generización, oh vaya."
 preBody: '_declaracion'
