@@ -59,7 +59,15 @@
   <div class="root">
     <header>
       <nav>
-        <a href="/" class="top-brand" >That's Gender Dysphoria, FYI</a>
+        {{#is page.lang "es"}}
+        <a href="/gdb/es/" class="top-brand">Eso es disforia de género, <abbr title="Para Su Información">PSI</abbr></a>
+        {{else}}
+        {{#is page.lang "pt-BR"}}
+        <a href="/gdb/pt/" class="top-brand">Isso é Disforia de Gênero, <abbr title="Para Sua Informação">PSI</abbr></a>
+        {{else}}
+        <a href="/" class="top-brand">That's Gender Dysphoria, <abbr title="For Your Information">FYI</abbr></a>
+        {{/is}}
+        {{/is}}
 
         <div class="top-nav">
           <ul class="top-nav-inner">

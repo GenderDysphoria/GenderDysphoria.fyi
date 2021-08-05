@@ -65,4 +65,38 @@ module.exports = exports = [
       preBody: '_declaracion',
     },
   },
+  {
+    output: 'public/gdb/pt/imprimivel.md',
+    sources: [
+      'public/gdb/pt/index.md',
+      'public/gdb/pt/que-e-genero.md',
+      'public/gdb/pt/historia.md',
+      'public/gdb/pt/euforia.md',
+      'public/gdb/pt/disforia-fisica.md',
+      'public/gdb/pt/disforia-bioquimica.md',
+      'public/gdb/pt/disforia-social.md',
+      'public/gdb/pt/disforia-societal.md',
+      'public/gdb/pt/disforia-sexual.md',
+      'public/gdb/pt/disforia-apresentacional.md',
+      'public/gdb/pt/disforia-existencial.md',
+      'public/gdb/pt/disforia-gerenciada.md',
+      'public/gdb/pt/sindrome-de-impostor.md',
+      'public/gdb/pt/diagnosticos.md',
+      'public/gdb/pt/tratamento.md',
+      'public/gdb/pt/causas.md',
+      'public/gdb/pt/cromossomos.md',
+      'public/gdb/pt/hormonios.md',
+      'public/gdb/pt/segunda-puberdade-masc.md',
+      'public/gdb/pt/segunda-puberdade-fem.md',
+      'public/gdb/pt/conclusao.md',
+    ],
+    meta: {
+      title: 'A Bíblia da Disforia de Gênero',
+      lang: 'pt-BR',
+      description: 'Um mergulho na multitude de formas que a disforia de gênero se manifesta e o que significa ser transgênero.',
+      classes: [ 'gdb', 'longform' ],
+      preBody: '_aviso_doc_vivo',
+    },
+  }
 ];
+
