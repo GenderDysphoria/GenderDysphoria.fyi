@@ -9,7 +9,7 @@ siblings:
   prevCaption: Disforia Bioquímica
   next: /gdb/es/disforia-societal
   nextCaption: Disforia Societal
-clases:
+classes:
   - gdb
 tweets:
   - '1215718003310039040'

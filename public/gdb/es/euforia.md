@@ -9,7 +9,7 @@ siblings:
   prevCaption: Historia de la Disforia de Género
   next: /gdb/es/disforia-fisica
   nextCaption: Disforia Física
-clases:
+classes:
   - gdb
 tweets:
   - '1215716433210105856'

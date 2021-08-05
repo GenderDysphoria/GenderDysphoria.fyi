@@ -7,9 +7,9 @@ preBody: '_declaracion'
 classes:
   - gdb
 siblings:
-  prev: /gdb/impostor-syndrome
+  prev: /gdb/es/sindrome-del-impostor
   prevCaption: Impostor Syndrome
-  next: /gdb/treatment
+  next: /gdb/es/tratamiento
   nextCaption: Treating Gender Dysphoria
 ---
 

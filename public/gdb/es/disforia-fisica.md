@@ -9,7 +9,7 @@ siblings:
   prevCaption: Euforia de Género
   next: /gdb/es/disforia-bioquimica
   nextCaption: Disforia Bioquímica
-clases:
+classes:
   - gdb
 tweets:
   - '1220143004821938176'

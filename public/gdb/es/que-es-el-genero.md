@@ -9,7 +9,7 @@ siblings:
   prevCaption: Introducción
   next: /gdb/es/historia
   nextCaption: La Historia de la Disforia de Género
-clases:
+classes:
   - gdb
 tweets:
   - https://twitter.com/CognitiveSoc/status/1228717614630940672

@@ -9,7 +9,7 @@ siblings:
   prevCaption: Disforia Social
   next: /gdb/es/disforia-sexual
   nextCaption: Disforia Sexual
-clases:
+classes:
   - gdb
 tweets:
   - '1201138482569195526'
