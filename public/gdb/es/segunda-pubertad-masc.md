@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Androgenic Second Puberty 101"
 description: "What to expect from masculinizing HRT"
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /gdb/es/hormonas
   prevCaption: How Hormones Work

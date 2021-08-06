@@ -3,7 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Hormones: How do they work"
 linkTitle: "How Hormones Work"
 description: "It's nothing like magnets."
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /gdb/es/chromosomas
   prevCaption: Chromosomes
