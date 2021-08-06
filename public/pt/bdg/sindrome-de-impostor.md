@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Síndrome de Impostor, mas a faça Trans"
 linkTitle: "Síndrome de Impostor"
 description: "Eu sou realmente trans?"

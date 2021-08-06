@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Diagnosticando Disforia de Gênero"
 linkTitle: "Diagnósticos Clínicos"
 description: "É clínico."

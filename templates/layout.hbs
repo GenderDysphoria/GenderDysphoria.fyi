@@ -61,12 +61,12 @@
       <nav>
         {{#is page.lang "es"}}
         <a href="/es/" class="top-brand">Eso es disforia de género, <abbr title="Para Su Información">PSI</abbr></a>
-        {{else}}
-        {{#is page.lang "pt-BR"}}
-        <a href="/pt/" class="top-brand">Isso é Disforia de Gênero, <abbr title="Para Sua Informação">PSI</abbr></a>
-        {{else}}
-        <a href="/en/" class="top-brand">That's Gender Dysphoria, <abbr title="For Your Information">FYI</abbr></a>
         {{/is}}
+        {{#is page.lang "pt"}}
+        <a href="/pt/" class="top-brand">Isso é Disforia de Gênero, <abbr title="Para Sua Informação">PSI</abbr></a>
+        {{/is}}
+        {{#is page.lang "en"}}
+        <a href="/en/" class="top-brand">That's Gender Dysphoria, <abbr title="For Your Information">FYI</abbr></a>
         {{/is}}
 
         <div class="top-nav">

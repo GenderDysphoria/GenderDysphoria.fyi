@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "O que é gênero?"
 description: "Como definimos o conceito de Gênero e como ele difere de Sexo?"
 preBody: '_aviso_doc_vivo'

@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Intro. Segunda Puberdade Estrogênica"
 description: "O que esperar da TH feminizante"
 preBody: '_aviso_doc_vivo'

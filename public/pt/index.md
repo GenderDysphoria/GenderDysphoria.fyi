@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Isso é Disforia de Gênero"
 description: "Um mergulho na multitude de formas que a disforia de gênero se manifesta e o que significa ser transgênero."
 classes:

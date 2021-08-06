@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Tratando Disforia de Gênero"
 description: "Transição é a cura."
 preBody: '_aviso_doc_vivo'

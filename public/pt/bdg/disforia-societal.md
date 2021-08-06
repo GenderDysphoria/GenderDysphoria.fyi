@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Societal"
 linkTitle: "Disforia Societal"
 description: "Porque um Papel é um Papel, um Ônus é um Ônus e é um grande ônus viver no papel errado."

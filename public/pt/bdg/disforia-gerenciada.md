@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Disforia Gerenciada: Gênero em Disfarce"
 linkTitle: "Disforia Gerenciada"
 description: "Eu não me arrependo das coisas que fiz, eu me arrependo das coisas que não fiz quando tive a chance."

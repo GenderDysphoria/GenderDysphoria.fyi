@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Física"
 linkTitle: "Disforia Física"
 description: "Desconforto corpóreo é apenas umas das várias formas com as quais a Disforia de Gênero se manifesta."

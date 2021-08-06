@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Hormônios: Como eles funcionam"
 linkTitle: "Como Hormônios Funcionam"
 description: "Não é nada como imãs."

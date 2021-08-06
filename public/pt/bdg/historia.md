@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Uma Breve História da Disforia de Gênero"
 linkTitle: "A História da Disforia de Gênero"
 description: "As origens da Disforia de Gênero e do significado atual."

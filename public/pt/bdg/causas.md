@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Qual é a Causa da Incongruência de Gênero"
 linkTitle: "Causas de Disforia de Gênero"
 description: "São os hormônios, baby."

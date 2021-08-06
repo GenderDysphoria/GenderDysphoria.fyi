@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "pt-BR"
+lang: "pt"
 title: "Anomalias da Diferenciação Sexual: Gênero não é cromossomal"
 linkTitle: "Cromossomos"
 description: "DNA é mais o que você chamaria de linhas-guia do que regras de verdade."
