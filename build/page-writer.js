@@ -125,6 +125,9 @@ function processPages (engines, pages, posts, prod) {
     const json = pageJSON(page);
 
     try {
+      let classes = page.meta.classes || [];
+      let is_front_page = classes.includes("front-page");
+      page.engine = is_front_page ? 'ENGINE_FRONT' : page.engine;
       var html = String(engines[page.engine](page.source, state));
     } catch (e) {
       e.message = `Error while processing page "${page.input}": ${e.message}`;

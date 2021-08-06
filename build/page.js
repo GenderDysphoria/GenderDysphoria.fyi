@@ -25,6 +25,7 @@ module.exports = exports = class Page extends File {
       'meta',
       'images',
       'titlecard',
+      'lang',
       'tweets',
       'dateCreated',
       'dateModified',
@@ -107,6 +108,7 @@ module.exports = exports = class Page extends File {
     const { titlecard, webready } = this.files = PublicFiles.for(this.dir);
     this.ignore = this.meta.ignore;
     this.draft = this.meta.draft;
+    this.lang = this.lang || "en-US";
     this.siblings = this.meta.siblings;
     this.images = webready;
     this.titlecard = titlecard;

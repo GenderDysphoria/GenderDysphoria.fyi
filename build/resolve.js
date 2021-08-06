@@ -122,6 +122,7 @@ exports.kind = dictMatch({
 exports.ENGINE = {
   HTML:    'ENGINE_HTML',
   PAGE:    'ENGINE_PAGE',
+  FRONT:   'ENGINE_FRONT',
   POST:    'ENGINE_POST',
   OTHER:   'ENGINE_OTHER',
 };

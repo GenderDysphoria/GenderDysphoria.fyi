@@ -91,6 +91,7 @@ const HANDYBARS_PARTIALS = {
 
 const HANDYBARS_TEMPLATES = {
   page:      'templates/page.hbs',
+  front:     'templates/front.hbs',
   post:      'templates/post.hbs',
 };
 
@@ -127,6 +128,7 @@ module.exports = exports = async function (prod) {
     [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs),
     [TYPE.OTHER]:      (source) => source,
 
+    [ENGINE.FRONT]:    (source, data) => templates.front({ ...data, contents: markdown('full', source, data, hbs) }),
     [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs) }),
     [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs) }),
     [ENGINE.HTML]:     (source) => source,

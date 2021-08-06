@@ -1,0 +1,35 @@
+{{#extend "layout"}}
+
+  {{#content "meta"}}
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{page.description}}">
+  <meta property="og:image" content="https://{{page.domain}}{{rev '/images/titlecard.png'}}">
+  <meta property="og:url" content="https://{{page.domain}}">
+  <meta name="twitter:title" content="{{page.title}}">
+  <meta name="twitter:description" content="{{page.description}}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://{{page.domain}}{{rev '/images/titlecard.png'}}">
+  {{/content}}
+
+  {{#content "bodyClass"}}front-page{{/content}}
+
+  {{#content "body"}}
+
+    <section class="top-fold"><div class="container">
+
+      {{{contents}}}
+
+      {{#if siblings}}
+      <div class="pager">
+        <div class="prev">{{#if siblings.prev}}<a href="{{siblings.prev}}" class="btn btn-primary left">{{icon 'angle-left'}}<span class="caption">{{#if siblings.prevCaption}}{{siblings.prevCaption}}{{else}}Back{{/if}}</a>{{/if}}</span></div>
+        <div class="first">{{#if siblings.first}}<a href="{{siblings.first}}" class="btn btn-primary left">{{icon 'angle-double-left'}}<span class="caption">{{#if siblings.firstCaption}}{{siblings.firstCaption}}{{else}}Newest{{/if}}</a>{{/if}}</span></div>
+        <div class="last">{{#if siblings.last}}<a href="{{siblings.last}}" class="btn btn-primary right"><span class="caption">{{#if siblings.lastCaption}}{{siblings.lastCaption}}{{else}}Oldest{{/if}}</span>{{icon 'angle-double-right'}}</a>{{/if}}</div>
+        <div class="next">{{#if siblings.next}}<a href="{{siblings.next}}" class="btn btn-primary right"><span class="caption">{{#if siblings.nextCaption}}{{siblings.nextCaption}}{{else}}Next{{/if}}</span>{{icon 'angle-right'}}</a>{{/if}}</div>
+      </div>
+      {{/if}}
+
+    </div></section>
+
+  {{/content}}
+
+{{/extend}}
