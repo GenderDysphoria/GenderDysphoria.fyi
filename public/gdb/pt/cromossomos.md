@@ -11,7 +11,7 @@ siblings:
   prev: /gdb/pt/causas
   prevCaption: Causas de Disforia de Gênero
   next: /gdb/pt/hormonios
-  nextCaption: Como Hormônios Funcionam"
+  nextCaption: Como Hormônios Funcionam
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191
