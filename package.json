@@ -10,11 +10,19 @@
   },
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "siteInfo": {
-    "title": "That's Gender Dysphoria, FYI",
+    "title": {
+      "en-US": "That's Gender Dysphoria, FYI",
+      "pt-BR": "Isso é Disforia de Gênero, PSI",
+      "es": "Eso es disforia de género, PSI"
+    },
     "domain": "genderdysphoria.fyi",
     "lang": "en-US",
     "siteUrl": "https://genderdysphoria.fyi",
-    "description": "A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.",
+    "description": {
+      "en-US": "A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.",
+      "pt-BR": "Um recurso para quem questiona seu gênero, ou já está em uma jornada de gênero, ou simplesmente quer aprender mais sobre o que é ser transgênero.",
+      "es": "Un recurso para aquellos que cuestionan su género, o que ya están en un viaje de género o simplemente quieren aprender más sobre lo que es ser transgénero."
+    },
     "creator": "TwippingVanilla",
     "author": "Jocelyn Badgley",
     "rss": {

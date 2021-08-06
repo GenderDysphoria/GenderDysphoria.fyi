@@ -73,16 +73,17 @@ function siblings (posts) {
 }
 
 function pageState (page, posts) {
+  let lang = page.meta.lang || siteInfo.lang;
   return {
     ...page,
     meta: { ...page.meta, ...page },
     page: {
       domain: siteInfo.domain,
-      lang: page.meta.lang || siteInfo.lang || "",
+      lang: lang,
       date: page.meta.date || "",
       title: page.meta.title
-        ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + siteInfo.title)
-        : siteInfo.title,
+        ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + siteInfo.title[lang])
+        : siteInfo.title[lang],
       description: page.meta.description || siteInfo.description,
     },
     site: siteInfo,
@@ -102,6 +103,7 @@ function pageJSON (post) {
     fullurl: post.fullurl,
     json: '/' + post.json,
     title: post.meta.title,
+    lang: post.meta.lang || siteInfo.lang,
     subtitle: post.meta.subtitle,
     description: post.meta.description,
     preview: post.preview,
