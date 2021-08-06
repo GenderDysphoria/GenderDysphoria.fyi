@@ -17,7 +17,7 @@ siblings:
   '~/img'
   images.titlecard
   srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
-  alt="The Gender Dysphoria Bible"
+  alt="A Bíbilia da Disforia de Gênero"
   style="margin-bottom: 1em;"
   imgStyle="width: 100%"
 }}
