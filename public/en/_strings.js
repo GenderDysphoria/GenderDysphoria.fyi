@@ -7,5 +7,8 @@ module.exports = exports = {
   PATREON_FOOTER_BODY: 'This site is made possible thanks to contributions from the community. If you have found this site invaluable, please consider <a href="https://www.patreon.com/curvyandtrans">making a pledge on patreon</a> or a <a href="https://ko-fi.com/curvyandtrans">donation via Ko-fi</a>.',
   PATREON_FOOTER_THANKS: 'Special thanks to the following patreon supporters:',
   FOOTER_COPYRIGHT: 'Site text, website code and original graphics are <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed CC BY-NC-SA.</a>',
+  FOOTER_COPYRIGHT2: 'and Other Contributors',
+
+  'TRANS_TWITTER_TOPICS': 'Trans Twitter Topics',
 };
 
