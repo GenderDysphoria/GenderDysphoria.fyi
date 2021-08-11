@@ -31,7 +31,7 @@ const markdownEngines = {
       },
     })
     .use(mAnchor, {
-      permalink: mAnchor.permalink.headerLink({
+      permalink: mAnchor.permalink.ariaHidden({
         class: 'header-link',
         symbol: '<img src="/images/svg/paragraph.svg">',
         renderHref: slugify,
