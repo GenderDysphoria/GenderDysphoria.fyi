@@ -85,7 +85,7 @@ function pageState (page, posts) {
       title: page.meta.title
         ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + i18n(lang, 'SITE_TITLE'))
         : i18n(lang, 'SITE_TITLE'),
-      description: page.meta.description || i18n('SITE_DESCRIPTION'),
+      description: page.meta.description || i18n(lang, 'SITE_DESCRIPTION'),
     },
     site: siteInfo,
     local: {
