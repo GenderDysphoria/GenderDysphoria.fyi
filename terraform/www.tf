@@ -1,31 +1,4 @@
 
-resource "aws_s3_bucket" "temp_redirect" {
-  bucket = "${var.site}-redirect"
-  acl    = "public-read"
-
-  website {
-    index_document = "index.html"
-    error_document = "index.html"
-    # redirect_all_requests_to = "https://curvyandtrans.com/p/740D5B/gender-dysphoria/"
-  }
-}
-
-resource "aws_s3_bucket_object" "redirect_page" {
-  bucket       = aws_s3_bucket.temp_redirect.bucket
-  key          = "index.html"
-  acl          = "public-read"
-  content_type = "text/html"
-
-  metadata = {
-    "website-redirect-location" = "https://curvyandtrans.com/p/740D5B/gender-dysphoria/"
-  }
-  content = <<EOF
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <meta http-equiv="refresh" content="0;URL='https://curvyandtrans.com/p/740D5B/gender-dysphoria/'" />
-</head><body></body></html>
-EOF
-}
-
 # -----------------------------------------------------------------------------------------------------------
 # Cloudfront Configuration
 

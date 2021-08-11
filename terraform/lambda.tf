@@ -3,26 +3,23 @@
 # -----------------------------------------------------------------------------------------------------------
 # IAM Role for Redirect Lambda
 
+data "aws_iam_policy_document" "lambda_redirect" {
+  statement {
+    actions = ["sts:AssumeRole"]
+
+    principals {
+      type        = "Service"
+      identifiers = [
+        "edgelambda.amazonaws.com",
+        "lambda.amazonaws.com"
+      ]
+    }
+  }
+}
+
 resource "aws_iam_role" "lambda_redirect" {
   name = "${var.site}-lambda-redirect-role"
-  assume_role_policy = <<EOF
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Action": "sts:AssumeRole",
-      "Principal": {
-        "Service": [
-          "edgelambda.amazonaws.com",
-          "lambda.amazonaws.com"
-        ]
-      },
-      "Effect": "Allow",
-      "Sid": ""
-    }
-  ]
-}
-EOF
+  assume_role_policy = data.aws_iam_policy_document.lambda_redirect.json
 
   tags = {
     Site = var.site
@@ -59,9 +56,6 @@ data "aws_iam_policy_document" "lambda_assume_role" {
     }
   }
 }
-
-
-
 
 resource "aws_iam_role" "ipixel_parser" {
   name = "lambda-${var.site}-ipixel"
