@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Diagnosing Gender Dysphoria"
 description: "It's clinical."
 preBody: '_declaracion'
 classes:
   - gdb
 siblings:
-  prev: /gdb/impostor-syndrome
+  prev: /gdb/es/sindrome-del-impostor
   prevCaption: Impostor Syndrome
-  next: /gdb/treatment
+  next: /gdb/es/tratamiento
   nextCaption: Treating Gender Dysphoria
 ---
 

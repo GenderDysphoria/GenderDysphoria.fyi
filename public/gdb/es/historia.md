@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Una Breve Historia de la Disforia de Género"
 description: "Los orígenes de la Disforia de Género y su significado actual."
 classes:

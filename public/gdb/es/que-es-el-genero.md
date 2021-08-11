@@ -1,5 +1,6 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "¿Qué es el Género?"
 description: "¿Cómo definimos el concepto de Género, y como se diferencia del sexo?"
 preBody: '_declaracion'
@@ -8,7 +9,7 @@ siblings:
   prevCaption: Introducción
   next: /gdb/es/historia
   nextCaption: La Historia de la Disforia de Género
-clases:
+classes:
   - gdb
 tweets:
   - https://twitter.com/CognitiveSoc/status/1228717614630940672

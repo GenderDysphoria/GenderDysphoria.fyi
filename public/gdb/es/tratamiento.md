@@ -1,12 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Treating Gender Dysphoria"
 description: "Transition is the cure."
 preBody: '_declaracion'
 siblings:
-  prev: /gdb/diagnoses
+  prev: /gdb/es/diagnosticos
   prevCaption: Clinical Diagnoses
-  next: /gdb/causes
+  next: /gdb/es/causas
   nextCaption: Causes of Gender Dysphoria
 classes:
   - gdb

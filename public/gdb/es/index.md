@@ -1,5 +1,6 @@
 ---
 fecha: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "La Biblia de la Disforia de Género"
 description: "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero."
 preBody: '_declaracion'

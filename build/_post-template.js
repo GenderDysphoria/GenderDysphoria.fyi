@@ -3,6 +3,7 @@ module.exports = exports = ({ id, date }) => `---
 id: "${id}"
 date: "${date.toISOString()}"
 title:
+lang: en
 description:
 tags:
   - Transgender

@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "What is the Cause of Gender Incongruence"
 description: "It's the hormones, baby."
 preBody: '_declaracion'
@@ -14,9 +15,9 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
-  prev: /gdb/treatment
+  prev: /gdb/es/tratamiento
   prevCaption: Treating Gender Dysphoria
-  next: /gdb/chromosomes
+  next: /gdb/es/chromosomas
   nextCaption: But... but... the chromosomes!
 ---
 

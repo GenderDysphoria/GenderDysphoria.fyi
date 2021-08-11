@@ -1,6 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "Disorders of Sex Development: Gender is not Chromosomal"
+linkTitle: "Chromosomes"
 description: "DNA is more what you'd call guidelines, than actual rules."
 preBody: '_declaracion'
 classes:
@@ -8,8 +9,8 @@ classes:
 siblings:
   prev: /gdb/causes
   prevCaption: Causes of Gender Dysphoria
-  next: /gdb/conclusion
-  nextCaption: Conclusion
+  next: /gdb/hormones
+  nextCaption: How Hormones Work
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191
@@ -32,22 +33,6 @@ tweets:
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
     '1223942625708761088'
-  ] tweets=meta.tweets className="" }}
-  {{import '~/tweet' ids=[
-    '1207834357639139328'
-    '1207835110617309191'
-    '1207835384358604802'
-    '1207835597206937600'
-    '1207835815071473664'
-    '1207835999130259456'
-    '1207837155667718145'
-    '1207838570276372480'
-    '1207839986801922048'
-    '1207838924263084033'
-    '1207839452619522048'
-  ] tweets=meta.tweets className="oneblock" }}
-  {{import '~/tweet' ids=[
-    '1208181235593490433'
   ] tweets=meta.tweets className="" }}
 </div>}!}
 
@@ -88,6 +73,23 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [Aromatase Deficiency](https://en.wikipedia.org/wiki/Aromatase_deficiency) causes masculinization of an otherwise female child due to excess levels of testosterone (and can bleed-over into the mother during gestation).
 
-- [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
+- [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
 
-{!{ {{import '~/img' images.barbosa className="card borderless center" alt="The code is more what you'd call guidelines, than actual rules."}} }!}
+{!{ <div class="span34 center print-span2">
+  {{import '~/tweet' ids=[
+    '1207834357639139328'
+    '1207835110617309191'
+    '1207835384358604802'
+    '1207835597206937600'
+    '1207835815071473664'
+    '1207835999130259456'
+    '1207837155667718145'
+    '1207838570276372480'
+    '1207839986801922048'
+    '1207838924263084033'
+    '1207839452619522048'
+  ] tweets=meta.tweets className="oneblock" }}
+  {{import '~/tweet' ids=[
+    '1208181235593490433'
+  ] tweets=meta.tweets className="" }}
+</div>}!}
