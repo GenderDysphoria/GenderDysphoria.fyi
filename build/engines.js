@@ -12,7 +12,7 @@ const slugify = require('./lib/slugify');
 const { stripHtml } = require('string-strip-html');
 
 const markdownIt = require('markdown-it');
-const i18n = require('../lang');
+const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
 

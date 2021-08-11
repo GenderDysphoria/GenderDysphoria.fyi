@@ -5,7 +5,7 @@ const { map, uniq } = require('lodash');
 const { resolve, ROOT, TYPE } = require('./resolve');
 const { siteInfo }  = require(resolve('package.json'));
 const { minify } = require('html-minifier-terser');
-const i18n = require('../lang');
+const i18n = require('./lang');
 
 const MINIFY_CONFIG = {
   conservativeCollapse: true,
