@@ -23,44 +23,44 @@ The purpose of this site is to document the many ways that Gender Dysphoria can 
 
 ### Table of Contents
 
-1. [What is Gender?](/gdb/what-is-gender)
+1. [What is Gender?](/en/what-is-gender)
 
-3. [The History of Gender Dysphoria](/gdb/history)
+3. [The History of Gender Dysphoria](/en/history)
 
-4. [Gender Euphoria](/gdb/euphoria)
+4. [Gender Euphoria](/en/euphoria)
 
-5. [Physical Dysphoria](/gdb/physical-dysphoria)
+5. [Physical Dysphoria](/en/physical-dysphoria)
 
-6. [Biochemical Dysphoria](/gdb/biochemical-dysphoria)
+6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
 
-7. [Social Dysphoria](/gdb/social-dysphoria)
+7. [Social Dysphoria](/en/social-dysphoria)
 
-8. [Societal Dysphoria](/gdb/societal-dysphoria)
+8. [Societal Dysphoria](/en/societal-dysphoria)
 
-9. [Sexual Dysphoria](/gdb/sexual-dysphoria)
+9. [Sexual Dysphoria](/en/sexual-dysphoria)
 
-10. [Presentational Dysphoria](/gdb/presentational-dysphoria)
+10. [Presentational Dysphoria](/en/presentational-dysphoria)
 
-11. [Existential Dysphoria](/gdb/existential-dysphoria)
+11. [Existential Dysphoria](/en/existential-dysphoria)
 
-12. [Managed Dysphoria](/gdb/managed-dysphoria)
+12. [Managed Dysphoria](/en/managed-dysphoria)
 
-13. [Impostor Syndrome](/gdb/impostor-syndrome)
+13. [Impostor Syndrome](/en/impostor-syndrome)
 
-14. [Clinical Diagnoses](/gdb/diagnoses)
+14. [Clinical Diagnoses](/en/diagnoses)
 
-15. [Treating Gender Dysphoria](/gdb/treatment)
+15. [Treating Gender Dysphoria](/en/treatment)
 
-16. [Causes of Gender Dysphoria](/gdb/causes)
+16. [Causes of Gender Dysphoria](/en/causes)
 
-17. [Chromosomes](/gdb/chromosomes)
+17. [Chromosomes](/en/chromosomes)
 
-18. [How Hormones Work](/gdb/hormones)
+18. [How Hormones Work](/en/hormones)
 
-19. [Androgenic Second Puberty 101](/gdb/second-puberty-masc)
+19. [Androgenic Second Puberty 101](/en/second-puberty-masc)
 
-20. [Estrogenic Second Puberty 101](/gdb/second-puberty-fem)
+20. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
 
-21. [Conclusion](/gdb/conclusion)
+21. [Conclusion](/en/conclusion)
 
 æææ</div></div>æææ

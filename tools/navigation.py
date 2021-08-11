@@ -78,7 +78,7 @@ def overwrite_navbar(pages, start):
           create_navbar(pages, start, file=new)
         if not found:
           new.write(line)
-        if '="/gdb/"' in line:
+        if '="/en/"' in line:
           found = True
   os.rename(new_name, old_name)
 
