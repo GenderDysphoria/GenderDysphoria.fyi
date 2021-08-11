@@ -5,6 +5,7 @@ const { map, uniq } = require('lodash');
 const { resolve, ROOT, TYPE } = require('./resolve');
 const { siteInfo }  = require(resolve('package.json'));
 const { minify } = require('html-minifier-terser');
+const i18n = require('../lang');
 
 const MINIFY_CONFIG = {
   conservativeCollapse: true,
@@ -73,17 +74,18 @@ function siblings (posts) {
 }
 
 function pageState (page, posts) {
+  const lang = page.meta.lang || siteInfo.lang || 'en';
   return {
     ...page,
     meta: { ...page.meta, ...page },
     page: {
       domain: siteInfo.domain,
-      lang: page.meta.lang || siteInfo.lang || "",
-      date: page.meta.date || "",
+      lang,
+      date: page.meta.date || '',
       title: page.meta.title
-        ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + siteInfo.title)
-        : siteInfo.title,
-      description: page.meta.description || siteInfo.description,
+        ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + i18n(lang, 'SITE_TITLE'))
+        : i18n(lang, 'SITE_TITLE'),
+      description: page.meta.description || i18n('SITE_DESCRIPTION'),
     },
     site: siteInfo,
     local: {

@@ -12,7 +12,7 @@ const slugify = require('./lib/slugify');
 const { stripHtml } = require('string-strip-html');
 
 const markdownIt = require('markdown-it');
-
+const i18n = require('../lang');
 
 
 const markdownEngines = {
@@ -144,6 +144,7 @@ class Injectables {
     this.prod = prod;
     this.revManifest = revManifest;
     this.injections = {};
+    this.languages = {};
   }
 
   _parsePath (tpath, local, type) {
@@ -182,6 +183,7 @@ class Injectables {
       icon:     this.icon(),
       prod:     this.production(),
       rev:      this.rev(),
+      lang:     this.lang(),
     };
   }
 
@@ -265,6 +267,14 @@ class Injectables {
         log.error('Could not execute import template ' + tpath, e);
         return '';
       }
+    };
+  }
+
+  lang () {
+    return function (key, ...args) {
+      const { resolve: rval } = args.pop();
+      const lang = rval('@root.this.page.lang').split('-')[0];
+      return i18n(lang, key, ...args);
     };
   }
 
