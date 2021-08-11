@@ -34,6 +34,9 @@ const actions = {
   },
 
   async write ({ output, content }) {
+    if (!content) {
+      throw new TypeError('Got an empty write?' + output);
+    }
     output = resolve(output);
     await fs.ensureDir(path.dirname(output));
     await fs.writeFile(output, content);
