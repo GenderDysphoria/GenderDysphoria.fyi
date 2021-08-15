@@ -10,24 +10,24 @@ siblings:
   nextCaption: Continue lendo
 ---
 
-> **Trans·gen·der** - *adjective*   
-> Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+> **Trans·gê·ne·ro** - *adjetivo*   
+> Denotando ou relacionando a uma pessoa cuja sensação de identidade e gênero não corresponde ao sexo designado ao nascer.
 
 æææ<div class="copy markup">æææ
 
-For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal gender does not align with the physical features of their body. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital reconstruction surgery.
+Desde que a civilização humana existiu, [houve pessoas](https://en.wikipedia.org/wiki/Transgender_history) cujas experiências internas de gênero não se alinham às características físicas de seus corpos. As [Gala](https://en.wikipedia.org/wiki/Gala_\(priests\)), uma classe de sacerdotes de Império Sumério, existiram há mais de 4'500 anos. As culturas indígenas da América do Norte reconheciam um [terceiro gênero](https://en.wikipedia.org/wiki/Third_gender) bem antes do colonialismo europeu e ainda o reconhecem até hoje. O imperador romano [Elagabalus](https://en.wikipedia.org/wiki/Elagabalus#Marriages,_sexuality_and_gender) (218 DC) insistia em ser referido como Senhora ao invés de Senhor, e até ofereceu uma recompensa para qualquer um que pudesse fazer cirurgia de de reconstrução genital.
 
-In spite of this, however, the modern understanding of the transgender experience has only existed for approximately 130 years. Even the word "transgender" only dates back to 1965, when John Oliven proposed it as a more accurate alternative to David Cauldwell's term "transsexual" (coined in 1949), which itself replaced Magnus Hirschfield's term "transvestite" (1910).
+Apesar disso, porém, o entendimento moderno da experiência transgênero só tem existido há aproximadamente 130 anos. Mesmo a palavra "transgênero" remonta apenas a 1965, quando John Oliven a propôs como uma alternativa mais exata ao termo "transsexual" cunhado por David Cauldwell em 1949, o qual se substituiu o termo alemão "Transvestitismus" de Magnus Hirschfield de 1910.
 
-To be transgender is to have a gender identity which does not match the gender you were presumed to have based on the genitalia you were born with. This can mean a person born with a penis is actually a girl, that a person born with a vulva is actually a boy, or that a person with either genital configuration may not wholly fit either side of that spectrum and is non-binary.
+Uma pessoa ser transgênero é ela ter uma identidade de gênero que não corresponde ao que lhe foi presumido que ela tivesse com base na genitália com a qual ela nasceu. Isso significa que a pessoa nascida com um pênis é na verdade uma menina, que a pessoa nascida com uma vulva é na verdade um menino, ou que uma pessoa nascida com qualquer configuração genital pode não se encaixar totalmente em qualquer lado do espectro de gênero e que é não-binária.
 
-A trans person can come to recognize this at *any point* in their life. Some children identify it at as soon as they are able to grasp the concept of the differences between the sexes, others don't start to feel anything until the onset of puberty, and still others do not realize that anything is wrong at all until they are fully adults. Many people are simply never exposed to the idea that their gender could mismatch their birth sex, or what that feels like, and thus simply accepted their fate.
+Uma pessoa trans pode vira reconhecer isso em *qualquer ponto* de sua vida. Algumas crianças identificam isso tão logo são capazes de compreender o conceito das diferenças entre os sexos, outros não sentem nada até o início da puberdade, e outros podem não perceber que qualquer coisa está errado até serem adultos. Muitas pessoas simplesmente nunca foram expostas a ideia de que seu gênero poderia não corresponder ao seu sexo de nascimento, ou como é essa sensação, e portanto simplesmente aceitaram seu destino.
 
-Even more common is a perception that even though they have feelings about being unhappy with the gender they were assigned at birth, they believe that this is not the same as what transgender people experience. Some may feel that a wish to be transgender and have transition available is some kind of disrespect towards "real" trans people who knew they were actually boys or girls "born in the wrong body." These narratives of the transgender experience that have been spread by popular media create a very false impression of just what it means to be transgender and what growing up transgender feels like.
+Ainda mais comum é a percepção de que embora tivessem sentimentos sobre serem infelizes com o gênero que lhes foi designado ao nascer, eles acreditam que isso não é o mesmo que as pessoas transgênero sentem. Alguns sentem que um desejo de ser transgênero e ter a transição disponível é algum tipo de desrespeito às "verdadeiras" pessoas transgênero que sabiam que eram na verdade meninos ou meninas "nascidos no corpo errado". Essas narrativas da experiência transgênero que foram espalhadas pela mídia popular criam uma impressão bem falsa do que significa ser transgênero e qual é a sensação de crescer sendo transgênero.
 
-This experience of discontinuity between the internal and external self is what we describe as Gender Dysphoria. Every trans person, regardless of their position within or outside of the gender binary, experiences some form of Gender Dysphoria. This is something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests itself, and what qualifies a person as being trans. By and large, however, this debate is feckless and fruitless, as the definition at the top of this page encompasses the beginning and the ending of how these terms intermingle.
+Essa experiência de descontinuidade entre o eu interno e externo é o que descrevemos como Disforia de Gênero. Toda pessoa trans, independentemente de sua posição dentro ou fora do binário de gênero, experimenta alguma forma de disforia de gênero. Isso é meio que um tópico político nas comunidades trans, já que diferentes grupos tem suas próprias ideias do que Disforia de Gênero é, como ela se manifesta, e o que qualifica alguém para ser trans. Em geral, porém, esse debate é fútil e inútil, já que a definição ao topo desta página já engloba o começo e o fim de como esses termos se misturam.
 
-The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
+O propósito deste site é documentar as várias formas em que a Disforia de Gênero pode se manifestar, bem como outros aspectos da transição de gênero para servir de guia aqueles que estão questionando, aqueles que estão começando a sua jornada transgênera, aqueles já em suas trilhas e aqueles que simplesmente querem ser melhores aliados.
 
 
 æææ<div class="two-column-list">æææ
@@ -52,7 +52,7 @@ The purpose of this site is to document the many ways that Gender Dysphoria can 
 
 10. [Disforia Apresentacional](/pt/bdg/disforia-apresentacional)
 
-11. [Disforia Existential](/pt/bdg/disforia-existencial)
+11. [Disforia Existencial](/pt/bdg/disforia-existencial)
 
 12. [Disforia Gerenciada](/pt/bdg/disforia-gerenciada)
 

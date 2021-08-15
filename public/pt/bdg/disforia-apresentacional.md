@@ -9,7 +9,7 @@ siblings:
   prev: /pt/bdg/disforia-sexual
   prevCaption: Disforia Sexual
   next: /pt/bdg/disforia-existencial
-  nextCaption: Disforia Existential
+  nextCaption: Disforia Existencial
 classes:
   - gdb
 tweets:

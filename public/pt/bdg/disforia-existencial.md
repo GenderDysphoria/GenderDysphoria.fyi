@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Existential"
-linkTitle: "Disforia Existential"
+linkTitle: "Disforia Existencial"
 description: "Eu não me arrependo das coisas que fiz, eu me arrependo das coisas que não fiz quando tive a chance."
 classes:
   - gdb
