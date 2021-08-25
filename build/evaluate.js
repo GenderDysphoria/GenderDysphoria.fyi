@@ -4,6 +4,7 @@ const log = require('fancy-log');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
 const path = require('path');
+const actions = require('./actions');
 
 const LOG = {
   new:     true,
@@ -45,8 +46,21 @@ module.exports = exports = async function process (tasks, cache) {
           output: 'dist/' + output,
         });
       } catch (err) {
-        log.error(`Task (${task.action.name}) failed for file ${output}.\n`, err);
-        return false;
+        if (status.duplicate && await fs.pathExists(status.duplicate)) {
+          try {
+            result = await actions.copy({
+              input: status.duplicate,
+              output: 'dist/' + output,
+            });
+            log.info(`Task (${task.action.name}) failed for file ${output}, fell back to saved duplicate ${status.duplicate}`);
+          } catch (err2) {
+            log.error(`Task (${task.action.name}) failed for file ${output}.\n`, err);
+            return false;
+          }
+        } else {
+          log.error(`Task (${task.action.name}) failed for file ${output}.\n`, err);
+          return false;
+        }
       }
 
       status = await cache.set(task, result, lastSeen);
