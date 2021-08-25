@@ -1,4 +1,4 @@
-const { chunk, uniq, difference } = require('lodash');
+const { chunk, uniq, uniqBy, difference } = require('lodash');
 const fs = require('fs-extra');
 const { resolve } = require('./resolve');
 const log = require('fancy-log');
@@ -65,7 +65,7 @@ module.exports = exports = async function tweets (pages) {
 
   /* Apply Tweets to Pages **************************************************/
 
-  const twitterMedia = [];
+  var twitterMedia = [];
 
   function attachTweet (dict, tweetid) {
     if (!hasOwn(twitterCache, tweetid) && twitterBackup[tweetid]) {
@@ -90,6 +90,8 @@ module.exports = exports = async function tweets (pages) {
       return dict;
     }, {});
   }
+
+  twitterMedia = uniqBy(twitterMedia, 'output');
 
   await Promise.all([
     fs.writeFile(resolve('twitter-media.json'),  JSON.stringify(twitterMedia,  null, 2)),
