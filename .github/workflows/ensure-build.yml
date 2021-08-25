@@ -15,6 +15,13 @@ jobs:
         with:
           node-version: '14'
           cache: 'npm'
+      - name: Restore Asset Caches
+        uses: actions/cache@v2
+        with:
+          key: if-cache
+          path: |
+            ./if-cache
+            ./twitter-cache.json
       - run: npm ci
       - run: npm test
       - run: npm run build
