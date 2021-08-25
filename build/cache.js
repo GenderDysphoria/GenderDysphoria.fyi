@@ -48,7 +48,7 @@ module.exports = exports = class Manifest {
 
   hash ({ action, input, output, ...task }) {
     if (!isFunction(action)) {
-      console.error({ action, input, output });
+      console.error({ action, input, output }); // eslint-disable-line
       throw new Error('Task action is not a task action (function).');
     }
 

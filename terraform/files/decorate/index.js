@@ -1,11 +1,10 @@
 /* eslint no-console:0 */
-/* global URLSearchParams */
 
 const AWS = require('aws-sdk');
 const zlib = require('zlib');
 const util = require('util');
 const path = require('path');
-const {URL} = require('url');
+const { URL } = require('url');
 const s3 = new AWS.S3();
 const { parse: parseLog } = require('cloudfront-log-parser');
 const parseUA = require('ua-parser-js');
@@ -56,7 +55,6 @@ exports.handler = async (event) => {
     if (!query.start) return null;
 
     const useragent = parseUA(row.cs_user_agent);
-    const { referer } = query;
 
     const sessionStart = Number(query.start);
     const sessionEnd = query.end === 'null' ? 0 : Number(query.end);

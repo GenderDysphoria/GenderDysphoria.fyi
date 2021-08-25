@@ -1,7 +1,7 @@
 const { CloudWatchLogs } = require('aws-sdk');
 
 // Split up ARN like "arn:aws:logs:eu-west-1:123456789012:log-group:example-group:*"
-const [,,, region,,, logGroupName] = process.env.CLOUDWATCH_LOGS_GROUP_ARN.split(':');
+const [ ,,, region,,, logGroupName ] = process.env.CLOUDWATCH_LOGS_GROUP_ARN.split(':');
 
 const cloudwatchlogs = new CloudWatchLogs({ region });
 
