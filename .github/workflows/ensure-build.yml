@@ -17,6 +17,13 @@ jobs:
         with:
           node-version: '14'
           cache: 'npm'
+      - name: Restore node_modulescache
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node_modules
       - name: Restore Asset Caches
         uses: actions/cache@v2
         with:
@@ -24,6 +31,6 @@ jobs:
           path: |
             ./if-cache
             ./twitter-cache.json
-      - run: npm ci
+      - run: npm i
       - run: npm test
       - run: npm run build
