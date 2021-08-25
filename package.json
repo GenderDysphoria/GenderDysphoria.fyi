@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Code for construction of the GenderDysphoria.fyi website",
   "scripts": {
-    "test": "eslint 'build/**/*.js' 'js/**/*.{js,jsx}' 'terraform/**/*.js' --fix",
+    "test": "eslint 'build/**/*.js' 'js/**/*.{js,jsx}' --fix",
     "build": "gulp prod"
   },
   "engines": {
