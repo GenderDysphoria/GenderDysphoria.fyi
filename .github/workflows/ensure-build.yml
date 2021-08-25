@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '14'
           cache: 'npm'
-      - name: Restore node_modulescache
+      - name: Restore node_modules cache
         uses: actions/cache@v2
         with:
           path: node_modules

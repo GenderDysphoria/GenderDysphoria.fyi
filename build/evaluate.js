@@ -54,7 +54,7 @@ module.exports = exports = async function process (tasks, cache) {
             });
             log.info(`Task (${task.action.name}) failed for file ${output}, fell back to saved duplicate ${status.duplicate}`);
           } catch (err2) {
-            log.error(`Task (${task.action.name}) failed for file ${output}.\n`, err);
+            log.error(`Task (${task.action.name}) failed for file ${output}, ${status.duplicate} could not be copied.\n`, err);
             return false;
           }
         } else {

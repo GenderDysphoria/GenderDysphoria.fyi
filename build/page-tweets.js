@@ -73,7 +73,8 @@ module.exports = exports = async function tweets (pages) {
 
   function attachTweet (dict, tweetid) {
     if (!hasOwn(twitterCache, tweetid) && twitterBackup[tweetid]) {
-      log.error(`Tweet ${tweetid} is missing from the cache.`);
+      log.error(`Tweet ${tweetid} is missing from the cache but exists in backup? How did we get here?`);
+      twitterCache[tweetid] = tweetparse(twitterBackup[tweetid]);
       return;
     }
     const tweet = twitterCache[tweetid];
