@@ -54,6 +54,10 @@ module.exports = exports = async function tweets (pages) {
       }
       const tweet = twitterBackup[id];
 
+      if (tweet.quoted_status_id_str && !twitterCache[tweet.quoted_status_id_str]) {
+        tweetsNeeded.push(tweet.quoted_status_id_str);
+      }
+
       if (tweet) {
         log('Pulled tweet from backup ' + id);
         twitterCache[id] = tweetparse(twitterBackup[id]);
