@@ -20,3 +20,4 @@ node_modules
 /assets.json
 /published
 /analytics/database.sqlite
+/analytics/RAW
