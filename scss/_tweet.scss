@@ -272,7 +272,9 @@
   }
 
   .tweet-footer {
-    display: block;
+    display: flex;
+    flex: 1 1 auto;
+    align-items: flex-end;
     color: $textLight;
     font-size: 1em;
     margin-top: 10px;

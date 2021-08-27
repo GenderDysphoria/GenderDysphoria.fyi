@@ -52,7 +52,7 @@
         </video>
         {{/is}}
         {{#is type 'animated_gif'}}
-        <video controls muted loop poster="{{media_url_https}}" class="tweet-video">
+        <video controls autoplay muted loop poster="{{media_url_https}}" class="tweet-video">
           {{#each video_info.variants}}
           <source src="{{url}}" type="{{content_type}}">
           {{/each}}
