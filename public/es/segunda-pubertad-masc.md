@@ -20,6 +20,8 @@ tweets:
   - '1374048251180027920'
   - '1374076480985128970'
   - '1374094470753423360'
+  - '1374060995778318347'
+  - '1374070062236246022'
 ---
 
 # Androgenic Second Puberty 101
@@ -163,6 +165,11 @@ DHT (mentioned above) plays a critical role in the development of the erectile t
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
 The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+
+{!{ {{import '~/tweet' ids=[
+  '1431244822044622848'
+  '1431244926214356993'
+] tweets=meta.tweets className="grid-row" }} }!}
 
 ##### Increased Emissions During Climax
 
