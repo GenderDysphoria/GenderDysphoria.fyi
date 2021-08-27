@@ -131,12 +131,13 @@ module.exports = exports = function (tweets) {
 
         if (media.video_info && media.video_info.variants) {
           media.video_info.variants = media.video_info.variants.map((variant) => {
-            if (!variant.url) return variant;
+            if (!variant.url || !variant.bitrate) return variant;
 
+            const fname = path.basename(variant.url).split('?')[0];
             const mediaItem = {
               input: variant.url,
-              output: `tweets/${tweet.id_str}/${path.basename(variant.url)}`,
-              cache: `twitter-entities/${tweet.id_str}/${path.basename(variant.url)}`,
+              output: `tweets/${tweet.id_str}/${fname}`,
+              cache: `twitter-entities/${tweet.id_str}/${fname}`,
             };
             tweet.media.push(mediaItem);
             variant.url = '/' + mediaItem.output;
