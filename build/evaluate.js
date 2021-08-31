@@ -26,7 +26,8 @@ module.exports = exports = async function process (tasks, cache) {
     let result;
     let status = await cache.get(task);
     const { input, output } = task;
-    const taskLog = [ status.mode, (status.why ? status.why : ''), status.input, status.output ];
+    const taskLog = [ status.mode, (status.why ? status.why : ''), status.action, status.input, status.output ];
+
     if (status.mode === 'skip') {
       await cache.touch(task, lastSeen);
       if (taskLog && LOG[taskLog[0]]) log.info(...taskLog);
@@ -52,9 +53,9 @@ module.exports = exports = async function process (tasks, cache) {
               input: status.duplicate,
               output: 'dist/' + output,
             });
-            log.info(`Task (${task.action.name}) failed for file ${output}, fell back to saved duplicate ${status.duplicate}`);
+            log.info(...taskLog, `Task (${task.action.name}) failed for file ${output}, fell back to saved duplicate ${status.duplicate}`);
           } catch (err2) {
-            log.error(`Task (${task.action.name}) failed for file ${output}, ${status.duplicate} could not be copied.\n`, err);
+            log.error(...taskLog, `Task (${task.action.name}) failed for file ${output}, ${status.duplicate} could not be copied.\n\t${err.message}`);
             return false;
           }
         } else {
