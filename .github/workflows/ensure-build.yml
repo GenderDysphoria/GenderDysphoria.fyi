@@ -30,6 +30,7 @@ jobs:
           key: if-cache
           path: |
             ./if-cache
+            ./if-cache.json
             ./twitter-cache.json
       - run: npm i
       - run: npm test
