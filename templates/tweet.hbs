@@ -24,17 +24,29 @@
           <strong>{{{user.name_html}}}</strong>
           <span>@{{user.screen_name}}</span>
         </a>
+        {{#if html_i18n[page.lang]}}
+        <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
+        {{else}}
         <div class="tweet-quoted-text">{{{html}}}</div>
+        {{/if}}
       </div>
       {{else}}
       <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
       {{/with}}{{/if}}
+      {{#if html_i18n[page.lang]}}
+      <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
+      {{else}}
       <div class="tweet-quoted-text">{{{html}}}</div>
+      {{/if}}
     </div>
     {{else}}
     <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
     {{/with}}{{/if}}
+    {{#if html_i18n[page.lang]}}
+    <div class="tweet-text">{{{html_i18n[page.lang]}}}</div>
+    {{else}}
     <div class="tweet-text">{{{html}}}</div>
+    {{/if}}
     {{#any extended_entities.media entities.media}}
     <div class="tweet-entities lightbox entity-count-{{this.length}} entity-type-{{this.0.type}}"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid">
       {{#each this}}

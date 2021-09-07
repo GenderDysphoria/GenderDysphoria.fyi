@@ -12,6 +12,9 @@ const schema = {
     protected: true,
   },
   html: true,
+  html_i18n: true,
+  full_text: true,
+  full_text_i18n: true,
   quoted_status_id_str: true,
   entities: { media: [ {
     type: true,
@@ -23,12 +26,17 @@ const schema = {
     } ] },
   } ] },
   media: true,
+  lang: true,
 };
 
 var entityProcessors = {
   hashtags (tags, tweet) {
     tags.forEach((tagObj) => {
       tweet.html = tweet.html.replace('#' + tagObj.text, `<a href="https://twitter.com/hashtag/{tagObj.text}" class="hashtag">#${tagObj.text}</a>`);
+      const langs = Object.keys(tweet.html_i18n);
+      for (const lang of langs) {
+        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace('#' + tagObj.text, `<a href="https://twitter.com/hashtag/{tagObj.text}" class="hashtag">#${tagObj.text}</a>`);
+      }
     });
   },
 
@@ -40,6 +48,10 @@ var entityProcessors = {
     users.forEach((userObj) => {
       var regex = new RegExp('@' + userObj.screen_name, 'gi' );
       tweet.html = tweet.html.replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
+      const langs = Object.keys(tweet.html_i18n);
+      for (const lang of langs) {
+        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
+      }
     });
   },
 
@@ -48,12 +60,20 @@ var entityProcessors = {
       const isQT = tweet.quoted_status_permalink && url === tweet.quoted_status_permalink.url;
       const className = isQT ? 'quoted-tweet' : 'url';
       tweet.html = tweet.html.replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+      const langs = Object.keys(tweet.html_i18n);
+      for (const lang of langs) {
+        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+      }
     });
   },
 
   media (media, tweet) {
     media.forEach((m) => {
       tweet.html = tweet.html.replace(m.url, '');
+      const langs = Object.keys(tweet.html_i18n);
+      for (const lang of langs) {
+        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(m.url, '');
+      }
       let width, height;
 
       if (has(m, 'video_info.aspect_ratio')) {
@@ -88,6 +108,13 @@ var entityProcessors = {
 module.exports = exports = function (tweets) {
   return tweets.length ? tweets.map(parseTweet) : parseTweet(tweets);
 
+  function parseStep1 (text) {
+    return text.split(/(\r\n|\n\r|\r|\n)+/)
+      .map((s) => s.trim() && '<p>' + s + '</p>')
+      .filter(Boolean)
+      .join('');
+  }
+
   function parseTweet (tweet) {
     // clone the tweet so we're not altering the original
     tweet = JSON.parse(JSON.stringify(tweet));
@@ -102,11 +129,20 @@ module.exports = exports = function (tweets) {
     ];
 
     // Copying text value to a new property html. The final output will be set to this property
-    tweet.html = (tweet.full_text || tweet.text)
-      .split(/(\r\n|\n\r|\r|\n)+/)
-      .map((s) => s.trim() && '<p>' + s + '</p>')
-      .filter(Boolean)
-      .join('');
+    if (tweet.full_text !== undefined || tweet.text !== undefined) {
+      tweet.html = parseStep1(tweet.full_text || tweet.text);
+    }
+    if (tweet.html_i18n === undefined) {
+      tweet.html_i18n = {};
+    }
+    if (tweet.full_text_i18n === undefined) {
+      tweet.full_text_i18n = {};
+    }
+
+    const langs = Object.keys(tweet.full_text_i18n);
+    for (const lang of langs) {
+      tweet.html_i18n[lang] = parseStep1(tweet.full_text_i18n[lang] || tweet.text_i18n[lang]);
+    }
 
     if (tweet.quoted_status) {
       tweet.quoted_status = parseTweet(tweet.quoted_status);
@@ -125,9 +161,18 @@ module.exports = exports = function (tweets) {
     }
 
     // Process Emoji's
-    tweet.html = twemoji.parse(tweet.html);
-    tweet.user.name_html = twemoji.parse(tweet.user.name);
+    if (tweet.html) {
+      tweet.html = twemoji.parse(tweet.html);
+    }
+    for (const lang of langs) {
+      tweet.html_i18n[lang] = twemoji.parse(tweet.html_i18n[lang]);
+    }
+    if (tweet.user !== undefined && tweet.user.name !== undefined) {
+      tweet.user.name_html = twemoji.parse(tweet.user.name);
+    }
 
+    // const ans = deepPick(tweet, schema);
+    // console.log(ans);
     return deepPick(tweet, schema);
   }
 

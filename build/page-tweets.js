@@ -5,14 +5,34 @@ const log = require('fancy-log');
 const tweetparse = require('./lib/tweetparse');
 const Twitter = require('twitter-lite');
 const { hasOwn } = require('./lib/util');
+var twemoji = require('twemoji' );
 
+function tweetText2Html(tweet_text) {
+  let answer = tweet_text.split(/(\r\n|\n\r|\r|\n)+/)
+      .map((s) => s.trim() && '<p>' + s + '</p>')
+      .filter(Boolean)
+      .join('');
+  answer = twemoji.parse(answer);
+  return answer;
+}
+
+function applyI18N(tweet, twitter_i18n) {
+  const id = tweet.id_str;
+  if (twitter_i18n[id] !== undefined) {
+    const originalLang = tweet["lang"] || "x-original";
+    tweet.full_text_i18n = twitter_i18n[id].full_text_i18n;
+    tweet.full_text_i18n[originalLang] = tweet.full_text;
+  }
+  return tweet;
+}
 
 module.exports = exports = async function tweets (pages) {
-  const [ twitter, twitterBackup, twitterCache ] = await Promise.all([
+  const [ twitter, twitterBackup, twitterCache, twitterI18N ] = await Promise.all([
     fs.readJson(resolve('twitter-config.json')).catch(() => null)
       .then(getTwitterClient),
     fs.readJson(resolve('twitter-backup.json')).catch(() => ({})),
     fs.readJson(resolve('twitter-cache.json')).catch(() => ({})),
+    fs.readJson(resolve('twitter-i18n.json')).catch(() => ({})),
   ]);
 
   let tweetsNeeded = [];
@@ -40,8 +60,8 @@ module.exports = exports = async function tweets (pages) {
       if (tweet.quoted_status_id_str && !twitterCache[tweet.quoted_status_id_str]) {
         tweetsNeeded.push(tweet.quoted_status_id_str);
       }
-      // if (!twitterBackup[tweet.id_str]) twitterBackup[tweet.id_str] = tweet;
       twitterBackup[tweet.id_str] = tweet;
+      tweet = applyI18N(tweet, twitterI18N);
       twitterCache[tweet.id_str] = tweetparse(tweet);
       loaded.push(tweet.id_str);
     }
@@ -56,7 +76,8 @@ module.exports = exports = async function tweets (pages) {
 
       if (tweet) {
         log('Pulled tweet from backup ' + id);
-        twitterCache[id] = tweetparse(twitterBackup[id]);
+        twitterCache[id] = applyI18N(twitterBackup[id], twitterI18N);
+        twitterCache[id] = tweetparse(twitterCache[id]);
       } else {
         twitterCache[id] = false;
       }
