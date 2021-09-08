@@ -20,53 +20,54 @@ tweets:
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Gen·der</strong> - <em>Noun</em><br>
-    The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or gender identity (the personal sense of one's own gender).
+    <strong>Gê·ne·ro</strong> - <em>Substantivo</em><br>
+    O leque de características pertencente a, e diferenciando entre, feminidade e masculinidade. Dependendo do contexto, essas características incluem sexo biológico, estruturas sociais baseadas em sexo (ex. papéis de gênero), ou identidade de gênero (o senso pessoal do gênero de alguém).
   </blockquote>
 </div>
 }!}
 
-If you trace the etymology of the word to its Latin roots, gender simply means "type". The Norman French term **gendre** was in use in the 12th century to describe "the quality of being male or female."
+Se você traçar a etimologia da palavra a suas raízes latinas, gênero simplesmente significa "tipo".
 
-Many people attribute the term to psychologist John Money, who proposed using "gender" in 1955 to differentiate mental sex from physical sex. However, Money was not the first to do so. Cultural Anthropologist [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) used the term in 1949 in her book "Male and Female" to distinguish gendered behaviors and roles from biological sex. The American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) described the book thusly:
+Muitas pessoas atribuem o termo ao psicólogo John Money, que propôs usar "gênero" em 1955 para diferenciar o sexo mental do sexo físico. Entretanto, John Money não foi o primeiro a fazê-lo. A antropóloga cultura [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) usou o termo em 1949 no seu livro "<span lang="en">Male and Female</span>" (em português: *Masculino e Feminino* ou *Homem e Mulher*) para distinguir entre comportamentos e papéis de gênero  e sexo biológico. O Jornal Americano de Psicologia ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) assim descreve o livro:
 
-> A book, moreover, which gives beyond its premise; for it informs the reader upon **'gender' as well as upon 'sex,'** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
->
-> Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
+> Um livro que dá além de sua premissa; pois ele informa o leitor sobre **"gênero" tanto quando sobre "sexo"**, sobre papéis masculinos e femininos, bem como sobre macho e fêmea e suas funções reprodutivas.
+> 
+> A Margaret Mead move além da delineação específica para um comparação mais geral entre homem e mulher em várias comunidades, finalmente chegando a uma análise de padrões de sexo em nosso próprio meio para nosso próprio tempo.
 
 {!{
-<div class="gutter">
+<div class="gutter">  
   {{import '~/tweet' ids=[
     '1228717614630940672'
   ] tweets=meta.tweets className="hide-reply" }}
 </div>
 }!}
 
-Human Sex (the adjective, not the verb) is broken down into three categories:
+O sexo humano é dividido em três categorias:
 
-- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
-- **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
-- **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person's own sex and the way that they express it.
+- **[Genótipo](https://en.wikipedia.org/wiki/Genotype)**: O cariótipo geneticamente definido de um organismo (XX, XY, [e todos os seus variantes](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+- **[Fenótipo](https://en.wikipedia.org/wiki/Phenotype)**: As observáveis características sexuais primárias e secundárias (genitais, distribuição de músculos e gordura, estrutura óssea, etc)
+- **[Gênero](https://en.wikipedia.org/wiki/Gender)**: As características sexuais **não**-observáveis, o modelo mental interno do sexo de uma pessoa e a forma como ela o expressa.
 
-Any of these three aspects can fall into a position on a range of values. Your elementary school health class probably taught you that Genotype is binary, either Female (XX) or Male (XY), when the reality is that there are a dozen other permutations that can occur within human beings.
+Qualquer desses três aspectos pode cair em uma posição em um intervalo de valores. Suas aulas de ciências no fundamental provavelmente te ensinaram que o genótipo é binário, ou fêmea (XX) ou macho (XY), quando a realidade é que existem uma dúzia de outras permutações que podem ocorrer em seres humanos.
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Likewise, many people believe that Phenotype is also binary, but biology has recognized for hundreds of years that when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
-Gender, however, is a lot more... esoteric. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
+Da mesma forma, muitas pessoas acreditam que o fenótipo também é binário, mas a biologia já reconheceu por centenas de anos que quando você faz um gráfico com as características sexuais de uma população, você acaba com uma distribuição bimodal na qual a maioria da população cai dentro de um percentil de dois grupos. Isso significa que algumas pessoas irão, simplesmente por natureza de como a vida funciona, cair fora das duas pilhas típicas. Muitas pessoas caem no meio, com características de ambos os sexos.
+
+Gênero, entretanto, é bem mais ... esotérico. Há muitas formas diferentes pelas quais as pessoas tentaram ilustrar o espectro de gênero, mas nenhuma conseguiu capturá-lo bem minuciosamente, porque o espectro em si é um conceito bem abstrato.
 
 {!{
 <div class="gutter flex flex-center print-span34 print-row print-inline print-break-before">
   <div class="card">
-    <div class="card-header">Some of the methods used to describe gender</div>
+    <div class="card-header">Alguns dos métodos usados para descrever gênero</div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
       {{import '~/img' images.gender_unicorn className="" }}
     </div>
     <div class="card-body">
-      <em>Sources:</em>
+      <em>Fontes:</em>
       [<a href="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of">Tumblr</a>]
       [<a href="http://www.transstudent.org/gender">TransStudent.org</a>]
     </div>
@@ -74,37 +75,38 @@ Gender, however, is a lot more... esoteric. There are a lot of different ways th
 </div>
 }!}
 
-The short of it is, some people are very male, some people are very female, some people feel no gender at all, some people feel both, some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender, no one else can dictate it for them.
+O resumo disso é, algumas pessoas são bem macho, outras bem fêmea, algumas pessoas não sentem gênero algum, algumas sentem ambos, algumas estão cravadas no meio, algumas caem nas fronteiras. Algumas pessoas oscilam por todo o espectro de formas imprevisíveis, mudando como o vento. Apenas um indivíduo pode identificar seu próprio gênero, ninguém pode ditá-lo por ele.
 
-Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
+Gênero é parte construção social, parte comportamentos aprendidos, e parte processos biológicos que se formam bem cedo na vida.
 
-Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
+As evidências atuais parecem sugerir que o gênero de uma pessoa é estabelecido durante a gestação enquanto o córtex cerebral é formado (mais sobre isso na seção de [Causas da Disforia de Gênero](/pt/bdg/causas)). Esse modelo mental então informa, em um nível subconsciente, quais a quais aspectos do espectro de gênero uma pessoa tenderá. Isso afeta comportamento, percepções de mundo, a forma como nós experienciamos atração (separada da orientação sexual e das influências hormonais) e como nós nos vinculamos aos outros.
 
-Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
+Gênero também afeta as expectativas de que o cérebro tem para o ambiente no qual reside (o seu corpo), e quando o ambiente não cumpre essas expectativas, o cérebro envia sinais de alerta na forma de depressão, despersonalização, desrealização e dissociação. Essas são as formas subconscientes do cérebro de nos informar de que algo está bem errado.
+
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Hab·i·tus</strong> - <em>Noun</em><br>
-  Socially ingrained habits, skills, and dispositions. The way a person perceives and reacts to the world.
+  <strong>Hab·i·tus</strong> - <em>Substantivo</em><br>
+  Hábitos, habilidades e disposições socialmente arraigados. A forma como uma pessoa percebe e reage ao mundo.
 </blockquote></div>
 }!}
 
-On the social side, gender involves our [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology)): our presentation, our mannerisms and behaviors, how we communicate, how we react, what our expectations are from life, and the roles that we fulfill as we walk through life. The author Susan Stryker described habitus it in her book [Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X):
+No lado social, gênero envolve o nosso [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology)): nossa apresentação, nossos maneirismos e comportamentos, como comunicamos, como reagimos, quais são nossas expectativas da vida, e quais papéis que podemos cumprir enquanto andamos pela vida. A autora Susan Stryker descreveu habitus em seu livro [<span lang="en">Transgender History</span>](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X) (em português: _História Transgênera_):
 
-> A lot of habitus involves manipulating our secondary sex characteristics to communicate to others our own sense of who we feel we are---whether we sway our hips, talk with our hands, bulk up at the gym, grow out our hair, wearclothing with a neckline that emphasizes our cleavage, shave our armpits, allow stubble to be visible on our faces, or speak with a rising or falling inflection at the end of sentences. Often these ways of moving and styling have become so internalize that we think of them as natural even though---given that they are all things we've learned through observation and practice---they can be better understood as culturally acquired "second nature."
+> Muito do habitus envolve manipular nossas características sexuais secundárias para comunicar aos outros nosso senso de quem sentimos ser --- seja com o balanço dos quadris, falar com as nossas mãos, ganhar músculos na academia, crescer o cabelo, vestir roupas que enfatizam nosso decote, depilar nossas axilas, permitir restolho de barba visível em nossas faces, ou falar com inflecção crescente ou cadente no fim de nossas frases. Geralmente essas formas de movimento e estilização se tornaram tão internalizadas que pensamos nelas como naturais muito embora --- dados que elas são todas coisas que aprendemos por observação e prática --- elas possam ser melhor entendidas como uma "segunda natureza" culturalmente adquirida.
 
-Indeed, these are all cultural factors; things which have developed within the population over time. Regardless of being essentially "made up", they are still strongly gendered and a person tends to connect to the gendered habitus of their internal self, without even realizing they are doing it. When we are denied access to those social aspects, this results in discomfort with one's social position in life.
+De fato, esses são todos fatores culturais; coisas que foram desenvolvidas dentro da população ao longo do tempo. Independentemente de serem essencialmente "inventadas", elas ainda são fortemente generizadas e uma pessoa tende a se conectar com os habitus generizados de seu eu interior, mesmo sem perceber que está fazendo isso. Quando nós somos negados acesso a esses aspectos sociais, isso resulta em desconforto com a nossa posição social na vida.
 
-John Money's experiments attempted to confirm his belief that gender is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). Gender does not change, every human is the same gender at 40 that they were at 4. What changes is our own personal understanding of our gender as we mature as individuals.
+Os experimentos de John Money tentaram confirmar sua crença de que gênero é inteiramente construção social, e que qualquer criança pode ser criada a crerem ser qualquer gênero que lhes fosse ensinado. Seu experimento foi um a falha massiva (veja na seção de [Disforia Bioquímica](/pt/bdg/disforia-bioquimica)). Gênero não muda, todo ser humano é o mesmo gênero aos 40 que eram aos 4. O que muda é o nosso entendimento pessoal de nosso gênero conforme maturamos enquanto indivíduos.
 
-These negative symptoms (depression, derealization, social discomfort) are the symptoms of Gender Dysphoria.
+Esses sintomas negativos (depressão, desrealização, desconforto social) são sintomas de Disforia de Gênero.
 
-What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual, etc), but gender itself does not affect sexuality and sexuality has no role in gender.
+O que **gênero *não* é** é orientação sexual. Nós descrevemos a orientação usando termos relativos ao gênero do indivíduo (homossexual/bissexual, etc), mas o gênero em si não afeta a sexualidade e sexualidade não tem papel em gênero.
 
-## What does it mean to be Non-Binary?
+## O que significa ser Não-Binárie?
 
-Non-Binary can basically be simplified as a lack of exclusive affinity to Male or Female. This may be a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), a total affinity to both ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), a balanced affinity to both (androgyne), an affinity that changes from day to day ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.wikia.org/wiki/Pangender)).
+Não-Binárie pode ser basicamente simplificado como uma ausência de afinidade exclusiva para macho ou fêmea. Isso pode ser uma falta de afinidade a ambas as identidades ([agênero](https://gender.wikia.org/wiki/Agender)), uma total afinidade a ambos ([bi-gender](https://gender.wikia.org/wiki/Bigender)), uma afinidade balanceada a ambos (andrógeno), uma afinidade que varia de dia para dia ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), uma afinidade parcial ([demigender](https://gender.wikia.org/wiki/Demigender)), ou até mesmo uma afinidade simultânea com o inteiro espectro de gênero ([pangender](https://gender.wikia.org/wiki/Pangender)).
 
-It could be an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.wikia.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
+Pode ser uma afinidade com alguns aspectos de gênero mas não outros. Por exemplo, uma [demigirl](https://gender.wikia.org/wiki/Demigirl) (<em lang="en">demi-</em> = semi, <em lang="en">girl</em> = menina, <em lang="en">demigirl</em> = semi-menina) pode ser alguém designada fêmea ao nascer que só sente conexão parcial com a mulheridade e feminidade, ou pode ser alguém designado homem ao nascer que está tomando terapia hormonal para aliviar a disforia física, e que tem um fenótipo feminino, mas não experiencia uma forte conexão aos aspectos sociais da mulheridade.
 
-In generalist terms this book will be describing gender in a sense of binary identities (male/female) vs non-binary identities, but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
+Em termos generalistas, esse livro ira descrever gênero no senso de identidades binárias (macho/fêmea) vs identidades não-binárias, mas isso pé puramente pela facilidade de escrita. Por favor saiba que a profundidade da experiência e expressão de gênero é bem, bem mais complicada do que essa simples divisão.
