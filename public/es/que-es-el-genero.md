@@ -38,10 +38,20 @@ Cualquiera de estos aspectos puede caer en una posición o en un rango de valore
 De la misma forma, muchas personas creen que el Fenotipo también es binario, pero la biología ha reconocido por cientos de años que cuando trazas todas las características sexuales a lo largo de una población, en realidad terminas con una distribución bimodal donde la mayoría de la población cae dentro de un percentil de dos grupos. Esto significa que algunas personas, simplemente por la naturaleza de cómo funciona la vida, caen fuera de los dos montones típicos. Mucha gente cae en el medio, con características de ambos sexos.
 
 {!{
-<div class="gutter flex">
-{{import '~/img' images.spectrum className="" link="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of" style="margin-bottom: 5px"}}
-{{import '~/img' images.graph className="" style="margin-bottom: 5px"}}
-{{import '~/img' images.gender_unicorn className="" link="http://www.transstudent.org/gender" style="margin-bottom: 5px"}}
+<div class="">
+  <div class="card">
+    <div class="card-header"><strong>Algunos de los métodos utilizados para describir el género</strong></div>
+    <div class="card-body flex flex-row">
+      {{import '~/img' images.spectrum }}
+      {{import '~/img' images.graph }}
+      {{import '~/img' images.gender_unicorn className="" }}
+    </div>
+    <div class="card-body">
+      <em>Sources:</em>
+      [<a href="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of">Tumblr</a>]
+      [<a href="http://www.transstudent.org/gender">TransStudent.org</a>]
+    </div>
+  </div>
 </div>
 }!}
 

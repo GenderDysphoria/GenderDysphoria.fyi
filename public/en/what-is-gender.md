@@ -11,7 +11,8 @@ siblings:
 classes:
   - gdb
 tweets:
-  - https://twitter.com/CognitiveSoc/status/1228717614630940672
+  - '1228717614630940672'
+  - '1439225913623781377'
 ---
 
 # What is Gender?
@@ -37,6 +38,7 @@ Many people attribute the term to psychologist John Money, who proposed using "g
 <div class="gutter">
   {{import '~/tweet' ids=[
     '1228717614630940672'
+    '1439225913623781377'
   ] tweets=meta.tweets className="hide-reply" }}
 </div>
 }!}
@@ -56,9 +58,9 @@ Likewise, many people believe that Phenotype is also binary, but biology has rec
 Gender, however, is a lot more... esoteric. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 
 {!{
-<div class="gutter flex flex-center print-span34 print-row print-inline print-break-before">
+<div class="">
   <div class="card">
-    <div class="card-header">Some of the methods used to describe gender</div>
+    <div class="card-header"><strong>Some of the methods used to describe gender</strong></div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
