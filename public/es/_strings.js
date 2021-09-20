@@ -4,5 +4,6 @@ module.exports = exports = {
 
   HEADER_TITLE: 'Eso es Disforia de Género, <abbr title="Para Su Información">PSI</abbr>',
 
+  MENU_LANGUAGE: 'Español (ES)',
 };
 

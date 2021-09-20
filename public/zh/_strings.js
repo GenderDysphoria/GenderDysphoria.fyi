@@ -10,5 +10,7 @@ module.exports = exports = {
   FOOTER_COPYRIGHT2: 'and Other Contributors',
 
   'TRANS_TWITTER_TOPICS': 'Trans Twitter Topics',
+
+  MENU_LANGUAGE: '中文 (ZH)',
 };
 

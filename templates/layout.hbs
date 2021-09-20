@@ -64,6 +64,13 @@
         <div class="top-nav">
           <ul class="top-nav-inner">
             <li>{{import (join [ '/public/' page.lang '/_menu' ] "")}}</li>
+            <li>
+              <a href="/en/" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE'}}</a>
+              <div class="dropdown-menu" aria-labelledby="nav-gdb">
+                <a href="/en/" class="{{#is page.lang 'en'}}active {{/is}}dropdown-item">English</a>
+                <a href="/zh/" class="{{#is page.lang 'zh'}}active {{/is}}dropdown-item">中文 (Chinese)</a>
+              </div>
+            </li>
             <li><a href="/tweets/" class="top-nav-item" title="{{{lang 'TRANS_TWITTER_TOPICS'}}}"><img src="/images/transtwitter.png" width="24" height="24" alt=""></a></li>
             <li class="disposable"><a href="https://github.com/GenderDysphoria/GenderDysphoria.fyi" class="top-nav-item">{{icon 'brands/github'}}</a></li>
             <li class="disposable"><a href="https://patreon.com/curvyandtrans" class="top-nav-item" title="Patreon">{{icon 'brands/patreon'}}</a></li>
