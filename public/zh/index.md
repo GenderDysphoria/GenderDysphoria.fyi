@@ -4,6 +4,7 @@ title: "性别烦躁指南"
 linkTitle: 简介
 description: "深入性别烦躁的表现及跨性别概念。"
 preBody: '_disclaimer'
+lang: zh
 classes:
   - gdb
 siblings:
@@ -28,7 +29,7 @@ siblings:
 
 1. [简介](#简介)
 
-2. [什么是性别？](/zh/what-is-gzhder)
+2. [什么是性别？](/zh/什么是性别)
 
 3. [性别烦躁简史](/zh/历史)
 
