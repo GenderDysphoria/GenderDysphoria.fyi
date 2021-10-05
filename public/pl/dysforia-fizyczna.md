@@ -104,3 +104,53 @@ Genitalia osób transpłciowych przechodzących terapię hormonalną zachowują 
 
 {!{ </div></div></div> }!}
 
+
+Pierwszorzędowe cechy płciowe mogą być zmienione tylko poprzez interwencję chirurgiczną. Niektóre z drugorzędowych cech również są wycieczką w jedną stronę i wymagają udziału medyków w celu cofnięcia zmian: wzrost tkanki piersiowej oraz powiększenie się kości strun głosowych. Estrogen nie uczyni głosu bardziej kobiecym, testosteron nie sprawi, że piersi się skurczą (poza redukcją tkanki tłuszczowej). Zmiany w strukturze szkieletu (takie jak wzrost od testosteronu czy poszerzenie się bioder od estrogenu) może zajść tylko kiedy ciało wciąż jeszcze rośnie, to jest do wieku około 25 lat.
+
+Pewne drugorzędowe cechy mogą zostać operacyjnie poprawione (przykładowe operacje to powiększanie piersi, konturowanie ciała, maskulinizacja/feminizacja twarzy), niektóre nie mogą być zmienione w żadnym stopniu.
+
+Fizyczna dysforia objawia się na wiele sposobów. Niekiedy jako pewien rodzaj kończyny fantomowej, kiedy możesz odczuwać sygnały z penisa bądź pochwy, których tam nie ma; ból w nieistniejącej macicy czy też wrażenie pustki na klatce piersiowej od piersi, które nie urosły.
+
+Czasami jest to *odwrotność* poprzedniego zjawiska, kiedy jesteś nieustannie świadomy_a obecności czegoś, czego być *nie* powinno. Mózg otrzymuje sygnały, których się nie spodziewa, jak na przykład ciężar piersi, obecność jąder bądź macicy, i ta nieoczekiwaność nadaje im priorytet względem innych sygnałów.
+
+Może być to uczucie przerażenia lub odrazy podczas dotykania czy nawet patrzenia na genitalia, łączące się z emocjonalnymi wybuchami bądź silną potrzebą pozbycia się przeszkadzającego organu. Transpłciowe osoby o żeńskiej płci urodzeniowej mogą odczuwać niezgodność podczas okresu, jak również wrażenie obcości względem cyklu miesiączkowego.
+
+{!{ <div class="gutter">{{import '~/tweet' ids=[
+  '1220143004821938176'
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
+
+Fizyczna dysforia może także objawiać się jako kompulsywne pragnienie pozbycia się pewnych cech ciała, na przykład obsesyjne golenie ciała lub zarostu. Może również pragnieniem zgoła przeciwnym, prowadzącym do drobiazgowej pielęgnacji tych cech w próbie ich kontroli. Przykładowo, utrzymywanie perfekcyjnej brody, regularny manicure i polerowanie paznokci lub spędzanie godzin w siłowni na doskonaleniu sylwetki.
+
+Niechciane cechy fizyczne mogą przyczyniać się do odczuwania zazdrości względem ludzi, którzy zmuszeni zostali do usunięcia tych cech z powodu choroby, np. raka jąder czy piersi. Osoby o męskiej płci urodzeniowej z silną dysforią genitalną mają tendencję do marzenia o jakiegoś rodzaju dziwnym wypadku, który spowodowałby utratę penisa.
+
+Czasami może to być po prostu uczucie niewłaściwości, którego możesz nawet nie przypisywać do płci. Przez większość życia uważałam, że nienawidzę mojego ciała, ponieważ jestem gruba. Dopiero kiedy rozpoczęłam tranzycję, odkryłam, że nie nienawidzę swojego tłuszczu, ja nienawidziłam *męskiego* tłuszczu. Kobiece krągłości, które dała mi terapia hormonalna, sprawiają, że czuję się o wiele bardziej dopasowana do własnego ciała.
+
+{!{ <div class="gutter">{{import '~/tweet' ids=[
+  '1184580976581775366'
+  '1184837108919230464'
+] tweets=meta.tweets className="hide-reply" }}</div> }!}
+
+Dysforia, którą odczuwasz względem swojego ciała może i będzie zmieniać się z czasem, na lepsze i na gorsze. Dla przykładu, wiele trans kobiet zaczyna tranzycję, nie odczuwając niezgodności genitaliów, by później, gdy rozprawią się z większymi źródłami dysforii, odkryć, że czują się mniej komfortowo z oryginalną konfiguracją. Alternatywnie, niektórzy mogą zakładać, że **absolutnie** potrzebują operacji feminizacji twarzy, by po dwóch latach tranzycji stwierdzić, że właściwie to pasuje im ich wygląd.
+
+To jest w porządku, jeśli odkryjesz, że potrzebujesz mniej lub więcej niż w chwili startu.
+
+To jest w porządku, jeśli nie nienawidzisz niczego w swoim ciele i pragniesz po prostu wyglądać bardziej kobieco bądź męsko.
+
+To jest w porządku, jeśli nienawidzisz tylko części aspektów swojego ciała i nie chcesz zmienić wszystkich jego cech płciowych.
+
+To jest w porządku, jeśli *w zupełności* nie potrzebujesz tranzycji medycznej; odczucia względem własnego ciała to nie wszystko w tranzycji.
+
+**Dysforia fizyczna obejmująca całe ciało nie jest warunkiem koniecznym bycia trans. Nie musisz nienawidzić swoich piersi, nie musisz nienawidzić swojego penisa. Doświadczenia każdej osoby trans są inne. Wszystkie są ważne.**
+
+### Zinternalizowane problemy z obrazem ciała
+
+Świat jest pełen podświadomych przekazów na temat tego, jak powinny wyglądać męskie i żeńskie ciała. Jesteśmy bombardowani reklamami, które wraz z mediami kreują narrację, co jest, a co nie jest piękne. Nie bądź zbyt gruby_a, zbyt chudy_a, zbyt wysoki_a, zbyt krótki_a, nie miej zbyt szerokiej szczęki, zbyt dużego nosa, noś makijaż, ale nie za dużo, nie wychódź z domu bez stanika, ale nie pokazuj go ludziom. Musisz, nie możesz, musisz, nie możesz, tak powtarzają wszechobecne oczekiwania wyglądu zgodnego z którąś płcią.
+
+Nikt nie jest odporny na ten przekaz; osoby trans internalizują nakazy i zakazy stawiane płci, z którą się identyfikują. Transpłciowe dziewczyny dorastają, przykładając do siebie standardy stawiane kobietom; transpłciowi chłopcy przykładają standardy stawiane mężczyznom; osoby niebinarne często uwewnętrzniają wstyd otaczający androgynię. To wszystko *na domiar* wstydu, jakim są obarczeni_one, nie spełniając standardów stawianych ich płci urodzeniowej.
+
+Jaki jest rezultat? Kathryn ujęła to najlepiej:
+
+{!{ {{import '~/tweet' ids=[
+  '947522372315369472'
+  '947523244948680705'
+] tweets=meta.tweets className="grid-row" }} }!}
