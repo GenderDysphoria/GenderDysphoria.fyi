@@ -4,6 +4,7 @@ title: "Objawy dysforii: euforia płciowa"
 linkTitle: "Euforia płciowa"
 description: "Nie ma cienia bez światła"
 preBody: '_disclaimer'
+lang: pl
 siblings:
   prev: /pl/historia
   prevCaption: Historia dysforii płciowej
