@@ -130,7 +130,7 @@ Jeśli transmedykalizm jest pierwszym kontaktem z transpłciowością dla pewnej
 
 **Nie słuchaj ich.** To ty i tylko ty możesz z całą pewnością stwierdzić, że jesteś bądź nie jesteś trans. Nie ludzie, których celem jest manipulacja i pomniejszanie czyjegoś cierpienia dla własnej satysfakcji.
 
-### Trans-wykluczający radykalny feminizm (TERF) / ruch *gender critical* / esencjalizm płciowy
+### Trans-wykluczający radykalny feminizm (TERF) / ruch gender critical / esencjalizm płciowy
 
 Esencjalizm płciowy jest przekonaniem, że istnieją pewne wrodzone cechy ludzkiej egzystencji zależne od organów płciowych, z którymi dana osoba się urodziła. Ideologia TERF i *gender critical* narodziła się z separatystycznego ruchu lesbijskiego feminizmu drugiej fali. Odrzuca ona całkowicie istnienie transpłciowej biologii i niebinarnych tożsamości. W większości przejęta została przez prawicowych reakcjonistów, rasistów i homofobów, wspierana przez ewangelickie organizacje chrześcijańskie.
 
