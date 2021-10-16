@@ -24,9 +24,15 @@ tweets:
 
 # Syndrom oszusta
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1219963582063968258'
-] tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}
+{{import '~/tweet-translation' text=[
+  '@TorgHacker Nie potrzebujesz dysforii, aby być trans!'
+  'Ale też spotkałam się z opisywaniem "obawy, że ma się za mało dysforii" jako rodzaju meta-dysforii? Ponieważ jest to niepokój doświadczany, gdy obawia się, że nie jest się wystarczająco _____, aby być swojej płci.'
+]}}
+</div> }!}
 
 > [Syndrom oszusta](https://pl.wikipedia.org/wiki/Syndrom_oszusta) (także *syndrom oszustki*) – zjawisko psychologiczne powodujące brak wiary we własne osiągnięcia. Pomimo zewnętrznych dowodów własnej kompetencji osoby cierpiące z powodu tego syndromu pozostają przekonane, że są oszustami i nie zasługują na sukces, który osiągnęły.
 
@@ -36,9 +42,17 @@ Na domiar złego, wiadomości powtarzające motyw osoby trans nienawidzącej swo
 
 ***[TAK, JESTEŚ WYSTARCZAJĄCO TRANS](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1221970265862811650'
-] tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}
+{{import '~/tweet-translation' text=[
+  'Osoby homoseksualne 2 dekady temu: *istnieją*'
+  'Homofoby: "Oni próbują zrobić z naszych dzieci gejów! Musimy chronić nasze dzieci!"'
+  'Osoby transpłciowe teraz: *istnieją*'
+  'Transfoby: "Oni próbują przekonać nasze homoseksualne dzieci, że są złej płci! Musimy chronić nasze homoseksualne dzieci!"'
+]}}
+</div> }!}
 
 Oprócz tego, nieustanne bombardowanie ze strony transfobicznych mediów, krzyczących, że osoby trans nie są tak naprawdę swojej płci i że chcą jedynie wmówić innym, że są; to wszystko wchłania się jak woda w gąbkę. Przyczynia się to do wielu wątpliwości co do autentyczności własnej tożsamości płciowej, szczególnie w obliczu tak wielu stereotypów płciowych. Bardzo łatwo jest wmówić sobie, że nie spełnia się oczekiwań swojej własnej płci, nie potrafiąc wpasować się w ramych tych stereotypów (na marginesie, cis mężczyźni i kobiety również tak mają, o wiele za często).
 
@@ -50,14 +64,29 @@ Tylko że... tylko osoby trans martwią się o to, czy naprawdę są transpłcio
 
 ### Autogynefilia
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1153300365355307008'
   '1153300366902960128'
   '1153300368974991361'
   '1153300370631741440'
   '1153300372468801536'
   '1153300374133981186'
-] tweets=meta.tweets className="oneblock" }}</div> }!}
+] tweets=meta.tweets className="oneblock" }}
+{{import '~/tweet-translation' text=[
+  'Moja przyjaciółka, która właśnie zaczęła swoją tranzycję w tym tygodniu, zapytała mnie wczoraj, czy kiedykolwiek czuję się podniecona, patrząc na siebie. Od razu wiedziałam, o co pyta, więc będzie to taka rada dla wszystkich transfemów, które czują się fałszywe przez swoje ciała.'
+  'Będę bezpośrednia: twoja tożsamość płciowa nie staje się nieprawdziwa od tego, że dostaniesz erekcji, widząc siebie ubraną kobieco. Wszystkie to miałyśmy. To nie znaczy, że fetyszyzujesz. To nie znaczy, że jednak nie jesteś trans.'
+  'Jedyne, co ma znaczenie, to że czujesz się dobrze z tym, jak wyglądasz.'
+  'Euforia płciowa jest sexy. Bycie komfortową we własnych ciuchach jest sexy. Sexy jest też lubienie swojego wyglądu. *Czucie się sexy jest sexy!!*'
+  'To wywołuje podniecenie, ciało reaguje na seksowne rzeczy.'
+  'I tu jest haczyk: cis kobiety też tak mają!!! To dosłownie kobiecy wzwód!'
+  'Z czasem ta reakcja przychodzi rzadziej, kiedy przyzwyczajasz się do prezentowania się jako ty. Ostatecznie większość ciuchów to tylko ciuchy, stają się po prostu nową normą dla ciebie.'
+  'Ale ten jeden outfit, który sprawia, że czujesz się naprawdę niezłą laską? Ta nowa sukienka, którą przymierzyłaś pierwszy raz i poczułaś się totalnie uroczo? Ta bielizna, którą kupiłaś specjalnie, aby czuć się seksownie?'
+  'Tak, to wywołuje ekscytację. I znaczy jedynie, że jesteś szczęśliwa.'
+  'Powiem ci coś, tę ogromną ulgę mojej przyjaciółki, gdy dowiedziała się, że to normalne, dało się zobaczyć gołym okiem. Ta biedna dziewczyna stresowała się tym tak bardzo.'
+  'Nawet nie słyszała o AGP, ale znała stereotypy i była przerażona, że oznacza to, że jest fałszywa.'
+]}}
+</div> }!}
 
 Ten wzorzec został silnie wzmocniony w późnych latach osiemdziesiątych XX wieku, kiedy teoria autogynefilii (AGP) Raya Blancharda zyskała popularność, podczas gdy świadomość istnienia osób trans dopiero zaczynała rosnąć. AGP to pseudo-naukowa teoria mająca na celu "wytłumaczyć" źródło tożsamości transpłciowych kobiet poprzez [parafilie](https://pl.wikipedia.org/wiki/Parafilia). Blanchard podzielił trans kobiety według tego, czy odczuwały pociąg do mężczyzn czy kobiet, jednocześnie negując ich kobiecość. Jego prace całkowicie ignorowały transpłciowych mężczyzn, a on sam odrzuca tożsamości niebinarne.
 
