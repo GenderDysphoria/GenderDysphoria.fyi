@@ -1,0 +1,29 @@
+
+.tweet-translation {
+  $borderColor: #cdfc55;
+  $backColor: #f8fff0;
+  $textHover: #3b94d9;
+  
+  font-size: 12px;
+  
+  border: 1px solid $borderColor;
+  border-radius: .35em;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin-top: -0.75em;
+  margin-bottom: 1em;
+  background-color: $backColor;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  page-break-inside: avoid;
+
+  @include media-breakpoint-up(md) {
+    &.capped { max-height: 700px; }
+  }
+  
+  padding: 0.5em 1em 0.5em 1em;
+  line-height: 1.2em;
+  p { margin-bottom: 0.5em; }
+  p:last-child { margin-bottom: 0; }
+  a { color: $textHover; }
+}
