@@ -38,9 +38,16 @@ W końcu zdaje sobie sprawę, że już nie chce wracać do swojej dziury. Musi w
 
 Tak właśnie wygląda euforia płciowa - nagłe blaski światła które mogą się na początku wydawać zbyt przytłaczające, zbyt dezorientujące aby je zrozumieć ale z biegiem czasu zaczynasz się do nich przyzwyczajać i zdajesz sobie sprawe że to tutaj przynależysz, a ciemność staje się dysforią.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1215716433210105856'
-] tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}
+{{import '~/tweet-translation' text=[
+  'Ryby nie dostrzegają wody. Jest dookoła nich. Większość ryb nigdy z niej nie wyszła.'
+  'I często osoby trans w fazie wyparcia nie dostrzegają dysforii płciowej, która zatruwa ich życia.'
+  'Wypiszę tylko parę dziwactw i dyskomfortów, których nie podejrzewałam o bycie dysforią:'
+]}}
+</div> }!}
 
 Wiele osób transpłciowych nie zdaje sobie sprawy w jak wielkim bólu są dopóki nie znajdą tych maleńkich kawałków ulgi. Cosplay, aktorstwo, drag, gry fabularne, gry wideo; maleńkie wyprawy w głąb płci innej niż ta, jako która dotąd żyli. Odkrywają, że czują się przy tym dobrze. Wymyślają wymówki, dlaczego ("Jeśli będę się patrzeć na tyłek tej postaci przez kilkadziesiąt godzin, to równie dobrze może to być tyłek dziewczyny."), będą robili wszystko żeby przekonać samych siebie że to tylko zabawa lub ekspresja artystyczna. Mogą sobie wmawiać że te małe przebłyski szczęścia które czują kiedy ktoś uzyje wobec nich innego rodzaju gramatycznego są tylko spowodowane niezwykłością takiej sytuacji. Jednakże nie upłynie tak dużo czasu zanim zaczną szukać powodów aby czuć je częściej. Częściej i częściej "roleplayują" postaci innej płci, tworząc więcej kostiumów, kupując więcej ubrań. Okaże się że będziesz chcieć robić to cały czas, ponieważ wydaje Ci się to lepsze niż Twoje prawdziwe życie, i bycie "tobą" zaczyna boleć. Prędzej czy później, to Twoje stare "ja" staje się kostiumem.
 
@@ -50,11 +57,21 @@ Wszystko co może być źródłem dysforii ma swoją, odpowiadającą mu eufori�
 
 {!{ <div class="print-break-before"></div> }!}
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1228141518386585607'
   '1228165207316287489'
   '1228165767264256003'
-] tweets=meta.tweets className="hide-reply" }}</div> }!}
+] tweets=meta.tweets className="hide-reply" }}
+{{import '~/tweet-translation' text=[
+  'Właśnie skończyłam robić 22 walentynki dla klasy przedszkolnej mojego syna. Włóczyliśmy się po Targecie, aby kupić parę słodyczy. Super jest po prostu istnieć, będąc sobą, z synem i żyjąc, będąc postrzegana jako osoba, którą naprawdę jestem.'
+  'Nawet wszyscy jego przyjaciele z przedszkola mówią "twoja mama tu jest!" :)'
+  '———'
+  'Naprawdę jest. Po prostu... istnieć. Żadnej maski, żadnych filtrów, żadnych nieporozumień. W pełni aktualna. To błogostan. Cis osoby uważają to za tak oczywiste.'
+  '———'
+  'Oj tak!'
+]}}
+</div> }!}
 
 Przykłady:
 
