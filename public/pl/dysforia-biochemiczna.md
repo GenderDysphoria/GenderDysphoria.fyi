@@ -19,7 +19,7 @@ tweets:
   - '1222743360034758656'
   - '1222743749920464896'
 siblings:
-  prev: /pl/dyforia-fizyczna
+  prev: /pl/dysforia-fizyczna
   prevCaption: Dysforia fizyczna
   next: /pl/dysforia-spoleczna
   nextCaption: Dysforia społeczna
