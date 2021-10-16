@@ -4,6 +4,7 @@ title: "Objawy dysforii: dysforia biochemiczna"
 linkTitle: "Dysforia biochemiczna"
 description: "Biologiczne czynniki dysforii płciowej, które powodują niepokój psychiczny."
 preBody: '_disclaimer'
+lang: pl
 classes:
   - gdb
 tweets:

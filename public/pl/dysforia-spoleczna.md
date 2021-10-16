@@ -4,6 +4,7 @@ title: "Objawy dysforii: dysforia społeczna"
 linkTitle: "Dysforia społeczna"
 description: "Zaimki, nekronimy, misgendering... czyli o relacjach ze społeczeństwem"
 preBody: '_disclaimer'
+lang: pl
 siblings:
   prev: /pl/dysforia-biochemiczna
   prevCaption: Dysforia biochemiczna

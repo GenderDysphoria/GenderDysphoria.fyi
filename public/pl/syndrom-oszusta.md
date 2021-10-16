@@ -4,6 +4,7 @@ title: "Syndrom oszusta w wersji trans"
 linkTitle: "Syndrom oszusta"
 description: "Czy aby naprawdę jestem trans?"
 preBody: '_disclaimer'
+lang: pl
 siblings:
   prev: /pl/tlumienie-dysforii
   prevCaption: Tłumienie dysforii

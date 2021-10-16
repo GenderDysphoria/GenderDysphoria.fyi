@@ -4,6 +4,7 @@ title: "Objawy dysforii: dysforia fizyczna"
 linkTitle: "Dysforia fizyczna"
 description: "Dyskomfort w stosunku do własnego ciała jest tylko jednym z licznych objawów dysforii."
 preBody: '_disclaimer'
+lang: pl
 siblings:
   prev: /pl/euforia
   prevCaption: Euforia płciowa
