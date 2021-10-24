@@ -59,8 +59,6 @@ Em princípio, a Disforia de Gênero é uma sensação de algo intrínseca erron
 
 A forma como costumo a descrever é como usar uma luva de adulto quando você é criança. Você pode por a sua mão na luva, e seus dedos podem entrar nos dedos da luva, mas a sua desteridade com a luva é severamente debilitada. Você também pode ser capaz de pegar algo, mas ser incapaz de manipulá-lo como um adulto conseguiria. As coisas simplesmente não estão bem certas.
 
-Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
-
 <span lang="en">Evey Winters</span> descreve assim [em seu post Disforia](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
 
 > Você já estava sentado em algum lugar público ou formal e do nada a sola do seu sapato coça? Você não pode remover seus sapatos ali e coçar o seu pé, então você aguenta a sensação morrendo dentro de você enquanto essa coceira cresce e cresce até que você está pronto para matar a próxima pessoa que falar com você.
@@ -76,7 +74,6 @@ A Disforia de Gênero é, em sua essência, simplesmente as reações emocionais
 Pessoas cisgêneras também recebem esses sinais, como esses sinais geralmente se alinham com seus ambientes, elas os tomam por garantidos. Entretanto, existiram algumas ocasiões notáveis em que pessoas cisgêneras foram [colocadas em uma situação](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) em que elas experimentaram disforia de gênero. Tentativas de criar crianças cisgêneras [como o sexo oposto](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (aviso de gatilho: suicídio) sempre caíram em fracasso quando essas crianças, invariavelmente, se declaravam diferentemente.
 
 Esses impulsos de euforia e disforia, excitação e aversão, eles sempre se manifestam em muitas formas diferentes, algumas óbvias, algumas muito mais sutis. Disforia muda com o tempo também, tomando novas formas conforme o indivíduo move de pre-consciência rumo a entendimento e através da transição. A meta desse livro é desmontar essas manifestações em suas distintas categorias e descrevê-las para que outros possam aprender a reconhecê-las.
-rs:
 
 Entretanto, primeiro eu quero destacar algo muito importante, tão importante que estou colocando em negrito:
 
