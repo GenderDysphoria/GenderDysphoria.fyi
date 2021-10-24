@@ -27,7 +27,6 @@ module.exports = exports = [
     ],
     meta: {
       title: 'The Gender Dysphoria Bible',
-      lang: 'en',
       description: 'A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender.',
       classes: [ 'gdb', 'longform' ],
       preBody: '_disclaimer',

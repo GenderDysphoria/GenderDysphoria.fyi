@@ -25,7 +25,6 @@ module.exports = exports = class Page extends File {
       'meta',
       'images',
       'titlecard',
-      'lang',
       'tweets',
       'dateCreated',
       'dateModified',
