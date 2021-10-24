@@ -6,9 +6,9 @@ linkTitle: "Como Hormônios Funcionam"
 description: "Não é nada como imãs."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/cromossomos
+  prev: /pt/cromossomos
   prevCaption: Cromossomos
-  next: /pt/bdg/segunda-puberdade-masc
+  next: /pt/segunda-puberdade-masc
   nextCaption: Segunda Puberdade Androgênica
 classes:
   - gdb

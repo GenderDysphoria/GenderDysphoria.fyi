@@ -8,9 +8,9 @@ classes:
   - gdb
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/que-e-genero
+  prev: /pt/que-e-genero
   prevCaption: O que é Gênero?
-  next: /pt/bdg/euforia
+  next: /pt/euforia
   nextCaption: Euforia de Gênero
 ---
 

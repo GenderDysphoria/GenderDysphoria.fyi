@@ -5,9 +5,9 @@ title: "Tratando Disforia de Gênero"
 description: "Transição é a cura."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/diagnosticos
+  prev: /pt/diagnosticos
   prevCaption: Diagnósticos Clínicos
-  next: /pt/bdg/causas
+  next: /pt/causas
   nextCaption: Causas de Disforia de Gênero
 classes:
   - gdb

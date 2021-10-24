@@ -5,9 +5,9 @@ title: "Intro. Segunda Puberdade Androgênica"
 description: "O que esperar da TH masculinizante"
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/hormonios
+  prev: /pt/hormonios
   prevCaption: Como Hormônios Funcionam
-  next: /pt/bdg/segunda-puberdade-fem
+  next: /pt/segunda-puberdade-fem
   nextCaption: Segunda Puberdade Estrogênica
 classes:
   - gdb

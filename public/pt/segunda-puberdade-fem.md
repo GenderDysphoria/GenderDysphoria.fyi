@@ -5,9 +5,9 @@ title: "Intro. Segunda Puberdade Estrogênica"
 description: "O que esperar da TH feminizante"
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/segunda-puberdade-masc
+  prev: /pt/segunda-puberdade-masc
   prevCaption: Segunda Puberdade Androgênica
-  next: /pt/bdg/conclusao
+  next: /pt/conclusao
   nextCaption: Conclusão
 classes:
   - gdb

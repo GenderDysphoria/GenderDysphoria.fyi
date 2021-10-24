@@ -6,9 +6,9 @@ linkTitle: "Disforia Societal"
 description: "Porque um Papel é um Papel, um Ônus é um Ônus e é um grande ônus viver no papel errado."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-social
+  prev: /pt/disforia-social
   prevCaption: Disforia Social
-  next: /pt/bdg/disforia-sexual
+  next: /pt/disforia-sexual
   nextCaption: Disforia Sexual
 classes:
   - gdb

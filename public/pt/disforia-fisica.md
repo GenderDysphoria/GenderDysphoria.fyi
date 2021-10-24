@@ -6,9 +6,9 @@ linkTitle: "Disforia Física"
 description: "Desconforto corpóreo é apenas umas das várias formas com as quais a Disforia de Gênero se manifesta."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/euforia
+  prev: /pt/euforia
   prevCaption: Euforia de Gênero
-  next: /pt/bdg/disforia-bioquimica
+  next: /pt/disforia-bioquimica
   nextCaption: Disforia Bioquímica
 classes:
   - gdb

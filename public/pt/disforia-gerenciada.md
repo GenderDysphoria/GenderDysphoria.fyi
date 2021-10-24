@@ -6,9 +6,9 @@ linkTitle: "Disforia Gerenciada"
 description: "Eu não me arrependo das coisas que fiz, eu me arrependo das coisas que não fiz quando tive a chance."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-existencial
+  prev: /pt/disforia-existencial
   prevCaption: Disforia Existencial
-  next: /pt/bdg/sindrome-de-impostor
+  next: /pt/sindrome-de-impostor
   nextCaption: Síndrome de Impostor
 classes:
   - gdb

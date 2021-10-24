@@ -5,7 +5,7 @@ title: "Em Conclusão"
 linkTitle: "Conclusão"
 description: "Basta de obstrução (gatekeeping)."
 siblings:
-  prev: /pt/bdg/segunda-puberdade-fem
+  prev: /pt/segunda-puberdade-fem
   prevCaption: Segunda Puberdade Estrogênica
 classes:
   - gdb

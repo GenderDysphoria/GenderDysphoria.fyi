@@ -6,9 +6,9 @@ linkTitle: "Síndrome de Impostor"
 description: "Eu sou realmente trans?"
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-gerenciada
+  prev: /pt/disforia-gerenciada
   prevCaption: Disforia Gerenciada
-  next: /pt/bdg/diagnosticos
+  next: /pt/diagnosticos
   nextCaption: Diagnósticos Clínicos
 classes:
   - gdb

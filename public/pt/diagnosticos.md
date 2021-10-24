@@ -8,9 +8,9 @@ preBody: '_aviso_doc_vivo'
 classes:
   - gdb
 siblings:
-  prev: /pt/bdg/sindrome-de-impostor
+  prev: /pt/sindrome-de-impostor
   prevCaption: Síndrome de Impostor
-  next: /pt/bdg/tratamento
+  next: /pt/tratamento
   nextCaption: Tratando Disforia de Gênero
 ---
 

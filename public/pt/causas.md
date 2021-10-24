@@ -16,9 +16,9 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
-  prev: /pt/bdg/tratamento
+  prev: /pt/tratamento
   prevCaption: Tratando Disforia de Gênero
-  next: /pt/bdg/cromossomos
+  next: /pt/cromossomos
   nextCaption: Mas... mas... os cromossomos!
 ---
 

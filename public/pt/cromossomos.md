@@ -8,9 +8,9 @@ preBody: '_aviso_doc_vivo'
 classes:
   - gdb
 siblings:
-  prev: /pt/bdg/causas
+  prev: /pt/causas
   prevCaption: Causas de Disforia de Gênero
-  next: /pt/bdg/hormonios
+  next: /pt/hormonios
   nextCaption: Como Hormônios Funcionam
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328

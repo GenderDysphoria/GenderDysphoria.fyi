@@ -6,9 +6,9 @@ linkTitle: "Euforia de Gênero"
 description: "Para que haja sombra há de haver luz."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/historia
+  prev: /pt/historia
   prevCaption: A História da Disforia de Gênero
-  next: /pt/bdg/disforia-fisica
+  next: /pt/disforia-fisica
   nextCaption: Disforia Física
 classes:
   - gdb

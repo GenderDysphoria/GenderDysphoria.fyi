@@ -6,9 +6,9 @@ linkTitle: "Disforia Sexual"
 description: "Às vezes um Mastro não quer ser hasteado."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-societal
+  prev: /pt/disforia-societal
   prevCaption: Disforia Societal
-  next: /pt/bdg/disforia-apresentacional
+  next: /pt/disforia-apresentacional
   nextCaption: Disforia Apresentacional
 classes:
   - gdb

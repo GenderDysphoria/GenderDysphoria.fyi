@@ -8,9 +8,9 @@ classes:
   - gdb
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-apresentacional
+  prev: /pt/disforia-apresentacional
   prevCaption: Disforia Apresentacional
-  next: /pt/bdg/disforia-gerenciada
+  next: /pt/disforia-gerenciada
   nextCaption: Disforia Gerenciada
 ---
 

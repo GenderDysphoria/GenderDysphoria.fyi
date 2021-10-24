@@ -6,9 +6,9 @@ linkTitle: "Disforia Apresentacional"
 description: "Casacos-capuz e motelons nunca saem de estilo."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-sexual
+  prev: /pt/disforia-sexual
   prevCaption: Disforia Sexual
-  next: /pt/bdg/disforia-existencial
+  next: /pt/disforia-existencial
   nextCaption: Disforia Existencial
 classes:
   - gdb

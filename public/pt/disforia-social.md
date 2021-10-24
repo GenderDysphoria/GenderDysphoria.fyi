@@ -6,9 +6,9 @@ linkTitle: "Disforia Social"
 description: "Pronomes, Nomes-mortos e Generização, meu Deus."
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/disforia-bioquimica
+  prev: /pt/disforia-bioquimica
   prevCaption: Disforia Bioquímica
-  next: /pt/bdg/disforia-societal
+  next: /pt/disforia-societal
   nextCaption: Disforia Societal
 classes:
   - gdb

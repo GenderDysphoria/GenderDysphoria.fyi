@@ -5,9 +5,9 @@ title: "O que é gênero?"
 description: "Como definimos o conceito de Gênero e como ele difere de Sexo?"
 preBody: '_aviso_doc_vivo'
 siblings:
-  prev: /pt/bdg/
+  prev: /pt/
   prevCaption: Introdução
-  next: /pt/bdg/historia
+  next: /pt/historia
   nextCaption: A História da Disforia de Gênero
 classes:
   - gdb
@@ -79,7 +79,7 @@ O resumo disso é, algumas pessoas são bem macho, outras bem fêmea, algumas pe
 
 Gênero é parte construção social, parte comportamentos aprendidos, e parte processos biológicos que se formam bem cedo na vida.
 
-As evidências atuais parecem sugerir que o gênero de uma pessoa é estabelecido durante a gestação enquanto o córtex cerebral é formado (mais sobre isso na seção de [Causas da Disforia de Gênero](/pt/bdg/causas)). Esse modelo mental então informa, em um nível subconsciente, quais a quais aspectos do espectro de gênero uma pessoa tenderá. Isso afeta comportamento, percepções de mundo, a forma como nós experienciamos atração (separada da orientação sexual e das influências hormonais) e como nós nos vinculamos aos outros.
+As evidências atuais parecem sugerir que o gênero de uma pessoa é estabelecido durante a gestação enquanto o córtex cerebral é formado (mais sobre isso na seção de [Causas da Disforia de Gênero](/pt/causas)). Esse modelo mental então informa, em um nível subconsciente, quais a quais aspectos do espectro de gênero uma pessoa tenderá. Isso afeta comportamento, percepções de mundo, a forma como nós experienciamos atração (separada da orientação sexual e das influências hormonais) e como nós nos vinculamos aos outros.
 
 Gênero também afeta as expectativas de que o cérebro tem para o ambiente no qual reside (o seu corpo), e quando o ambiente não cumpre essas expectativas, o cérebro envia sinais de alerta na forma de depressão, despersonalização, desrealização e dissociação. Essas são as formas subconscientes do cérebro de nos informar de que algo está bem errado.
 
@@ -97,7 +97,7 @@ No lado social, gênero envolve o nosso [habitus](https://en.wikipedia.org/wiki/
 
 De fato, esses são todos fatores culturais; coisas que foram desenvolvidas dentro da população ao longo do tempo. Independentemente de serem essencialmente "inventadas", elas ainda são fortemente generizadas e uma pessoa tende a se conectar com os habitus generizados de seu eu interior, mesmo sem perceber que está fazendo isso. Quando nós somos negados acesso a esses aspectos sociais, isso resulta em desconforto com a nossa posição social na vida.
 
-Os experimentos de John Money tentaram confirmar sua crença de que gênero é inteiramente construção social, e que qualquer criança pode ser criada a crerem ser qualquer gênero que lhes fosse ensinado. Seu experimento foi um a falha massiva (veja na seção de [Disforia Bioquímica](/pt/bdg/disforia-bioquimica)). Gênero não muda, todo ser humano é o mesmo gênero aos 40 que eram aos 4. O que muda é o nosso entendimento pessoal de nosso gênero conforme maturamos enquanto indivíduos.
+Os experimentos de John Money tentaram confirmar sua crença de que gênero é inteiramente construção social, e que qualquer criança pode ser criada a crerem ser qualquer gênero que lhes fosse ensinado. Seu experimento foi um a falha massiva (veja na seção de [Disforia Bioquímica](/pt/disforia-bioquimica)). Gênero não muda, todo ser humano é o mesmo gênero aos 40 que eram aos 4. O que muda é o nosso entendimento pessoal de nosso gênero conforme maturamos enquanto indivíduos.
 
 Esses sintomas negativos (depressão, desrealização, desconforto social) são sintomas de Disforia de Gênero.
 
