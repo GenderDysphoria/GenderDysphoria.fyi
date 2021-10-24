@@ -12,7 +12,8 @@ siblings:
 classes:
   - gdb
 tweets:
-  - https://twitter.com/CognitiveSoc/status/1228717614630940672
+  - '1228717614630940672'
+  - '1439225913623781377'
 ---
 
 # O que é gênero?
@@ -35,12 +36,14 @@ Muitas pessoas atribuem o termo ao psicólogo John Money, que propôs usar "gên
 > A Margaret Mead move além da delineação específica para um comparação mais geral entre homem e mulher em várias comunidades, finalmente chegando a uma análise de padrões de sexo em nosso próprio meio para nosso próprio tempo.
 
 {!{
-<div class="gutter">  
+<div class="gutter">
   {{import '~/tweet' ids=[
     '1228717614630940672'
+    '1439225913623781377'
   ] tweets=meta.tweets className="hide-reply" }}
 </div>
 }!}
+
 
 O sexo humano é dividido em três categorias:
 
@@ -58,7 +61,7 @@ Da mesma forma, muitas pessoas acreditam que o fenótipo também é binário, ma
 Gênero, entretanto, é bem mais ... esotérico. Há muitas formas diferentes pelas quais as pessoas tentaram ilustrar o espectro de gênero, mas nenhuma conseguiu capturá-lo bem minuciosamente, porque o espectro em si é um conceito bem abstrato.
 
 {!{
-<div class="gutter flex flex-center print-span34 print-row print-inline print-break-before">
+<div class="">
   <div class="card">
     <div class="card-header">Alguns dos métodos usados para descrever gênero</div>
     <div class="card-body flex flex-row">
@@ -107,6 +110,6 @@ O que **gênero *não* é** é orientação sexual. Nós descrevemos a orientaç
 
 Não-Binárie pode ser basicamente simplificado como uma ausência de afinidade exclusiva para macho ou fêmea. Isso pode ser uma falta de afinidade a ambas as identidades ([agênero](https://gender.wikia.org/wiki/Agender)), uma total afinidade a ambos ([bigênero](https://gender.wikia.org/wiki/Bigender)), uma afinidade balanceada a ambos (andrógeno), uma afinidade que varia de dia para dia ([gênero-fluido](https://gender.wikia.org/wiki/Genderfluid)), uma afinidade parcial ([demigênero](https://gender.wikia.org/wiki/Demigender)), ou até mesmo uma afinidade simultânea com o inteiro espectro de gênero ([pangênero](https://gender.wikia.org/wiki/Pangender)).
 
-Pode ser uma afinidade com alguns aspectos de gênero mas não outros. Por exemplo, uma [demigirl](https://gender.wikia.org/wiki/Demigirl) (<em lang="en">demi-</em> = semi, <em lang="en">girl</em> = menina, <em lang="en">demigirl</em> = semi-menina) pode ser alguém designada fêmea ao nascer que só sente conexão parcial com a mulheridade e feminidade, ou pode ser alguém designado homem ao nascer que está tomando terapia hormonal para aliviar a disforia física, e que tem um fenótipo feminino, mas não experiencia uma forte conexão aos aspectos sociais da mulheridade.
+Pode ser uma afinidade com alguns aspectos de gênero mas não outros. Por exemplo, uma [demigirl](https://gender.wikia.org/wiki/Demigirl) (<em lang="en">demi-</em> = semi ou meio, <em lang="en">girl</em> = menina, <em lang="en">demigirl</em> = semi-menina ou meio-menina) pode ser alguém designada fêmea ao nascer que só sente conexão parcial com a mulheridade e feminidade, ou pode ser alguém designado homem ao nascer que está tomando terapia hormonal para aliviar a disforia física, e que tem um fenótipo feminino, mas não experiencia uma forte conexão aos aspectos sociais da mulheridade.
 
 Em termos generalistas, esse livro ira descrever gênero no senso de identidades binárias (macho/fêmea) vs identidades não-binárias, mas isso pé puramente pela facilidade de escrita. Por favor saiba que a profundidade da experiência e expressão de gênero é bem, bem mais complicada do que essa simples divisão.

@@ -16,36 +16,36 @@ siblings:
 
 # Uma Breve História da Disforia de Gênero
 
-In 1948, noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
+Em 1948, o notório sexólogo Dr. Alfred Kinsey (sim, [*aquele* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) foi contatado por uma mulher cujo filho homem inflexivelmente insistia que ele era na verdade uma menina e que algo ocorrera bem errado. A mãe, ao invés de tentar reprimir sua filha, desejou ajudá-la a se tornar quem ela sabia ser. Kinsey entrou em contato com um endocrinologista alemão [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) para ver se ele poderia ajudar a criança. Dr. Benjamin desenvolveu um protocolo de terapia de estrogênio para a adolescente, e trabalhou com a família para encontrar ajuda cirúrgica.
 
-Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term Gender Identity Disorder instead.
+Benjamin foi então, ao longo de sua carreira, refinar o seu protocolo e tratar milhares de pacientes com sentimentos similares. Ele se recusou a receber pagamento por seu trabalho, tomando satisfação no alívio que deu a esses pacientes, e usando seu tratamento para melhor entender seu entendimento da condição. Ele cunhou um termo para essa sensação de incongruência em 1973: Disforia de Gênero. Infelizmente, esse termos não foi usado nos Estados Unidos até 2013, com a Associação Americana de Psiquiatria optando ao invés pelo termo Desordem de Identidade de Gênero.
 
 {!{
 <div class="gutter print-inline">
   {{import '~/img' images.hbscale
     className="card print-span34 print-center"
-    caption="Harry Benjamin Diagnostic Scale"
+    caption="Escala Diagnóstica de Harry Benjamin"
   }}
 </div>
 }!}
 
-If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how Gender Dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transsexual", you were usually rejected for treatment.
+Se você for uma pessoa trans lendo isso, você talvez já tenha ouvido o nome Harry Benjamin antes, mas provavelmente não em um contexto favorável. Em 1979 seu nome foi usado (com permissão) para formar a Associação Internacional de Disforia de Gênero Harry Benjamin (HBIGDA), que publicou o <emph lang="en">Standards of Care</emph> (sigla: SoC, literalmente: Normas de Cuidado) para pessoas trans. Esse SoC acabou conhecido como Regras de Harry Benjamin, e eram infamas por limitar como a Disforia de Gênero poderia ser diagnosticada. Pacientes eram colocados em uma escada de seis níveis baseada no seu nível de miséria e disfunção sexual. E se você não estivesse no nível 5 ou acima, classificado como "Verdadeiro(a) Transexual", você era geralmente rejeitado para tratamento.
 
-The problem was, Tier 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals, and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that if you did not fit all the criteria, then you were not trans enough to transition.
+O problema era que os níveis 5 e 6 exigiam que você fosse exclusivamente atraído ao seu próprio sexo de nascimento. A transição *precisava* te fazer hétero, não gay, e e bissexuais não eram permitidos. Você também precisava estar experimentando severo desconforto com o seu corpo e genitais, e já estar vivendo como seu verdadeiro gênero sem tratamento. Muitas pessoas trans evadiam essas limitações através de instruções comunitárias e apresentações performativas, mas para muitas pessoas (eu inclusa) se acreditava que se você não se encaixasse em todos os critérios, você não era trans o bastante para transicionar.
 
-In 2011 the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (SoC, version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
+Em 2011, a HBIGDA se reorganizou e respondeu às montantes pressões no entendimento e aceitação de pessoas trans, tomando o novo nome Associação Profissional Mundial para Saúde Transgênera (WPATH). Sob a liderança de pessoas trans (algo inédito na organização), a WPATH então procedeu a publicar uma versão inteiramente nova do <emph lang="en">Standards of Care</emph> (SoC, versão 7, a primeira em dez anos) que abandonou a Escala de Benjamin, focando em sintomas específicos do indivíduo e inteiramente desconectando gênero de sexualidade. Dois anos depois, em 2013, a Associação Americana de Psiquiatria (APA) mudou seus critérios diagnósticos para corresponder ao SoC da WPATH. Na 5ª versão do seu Manual Diagnóstico e Estatístico (DSM), a APA substituiu Desordem de Identidade de Gênero com Disforia de Gênero. Com essa mudança, a transição médica se tornou disponível a todas as pessoas trans nos Estados Unidos.
 
-This is why trans presence across the world has suddenly exploded in the last decade. With easier access comes larger numbers, with larger numbers comes more visibility, with more visibility comes more awareness, and with more awareness comes more people accessing treatment. [A study conducted in 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) showed 0.6% of adults and 0.7% of youth in the United States identified as transgender, [a study conducted in 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) showed 1.8% of high school age students identified as transgender, and [a survey conducted by GLAAD in 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) showed a whopping 12% of respondents 18 to 34 did not identify as cisgender.
+Esse é o porquê a presença de pessoas trans tem subitamente explodido ao redor do mundo. Com acesso mais fácil, vem maiores números e com eles bem maior visibilidade que traz mais com conscientização e com isso vem mais pessoas acessando o tratamento. [Um estudo conduzido em 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) mostrou que 0,6% dos adultos e 0,7% dos jovens nos Estados Unidos se identificam como transgênero, e [uma pesquisa conduzida pela Associação de Gays e Lésbicas Contra a Discriminação (GLAAD) em 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) mostrou que surpreendentes 12% dos respondentes entre 18 e 34 não se identificam como cisgênero.
 
-Transgender people are coming out of the woodwork; we are everywhere.
+Pessoas trans estão saindo do armário; nós estamos em todos os lugares.
 
-## So What Is Gender Dysphoria?
+## Mas o que é Disforia de Gênero?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
-    A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+    <strong>Dis·fo·ri·a</strong> - <em>Substantivo</em><br>
+    Um estado de inquietação ou generalizada dessatisfação com a vida. O oposto de euforia.
   </blockquote>
 </div>
 <div class="gutter print-span4">
@@ -53,32 +53,35 @@ Transgender people are coming out of the woodwork; we are everywhere.
 </div>
 }!}
 
-There is a common misconception among both cisgender and transgender people that Gender Dysphoria refers exclusively to a physical discomfort with ones own body. However, this belief that body discomfort is central to Gender Dysphoria is in fact a misconception, and is not even a majority component of a Gender Dysphoria diagnosis. Gender Dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and yes, how you relate to your own body. Consequently, proponents of the WPATH SoC 7 and the DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
+Existe um comum equívoco tanto entre pessoas cisgêneras quanto transgêneras que Disforia de Gênero refere-se exclusivamente ao desconforto físico com o próprio corpo. Entretanto, essa crença de que desconforto corpóreo é central a Disforia de Gênero é na verdade um equívoco, e não é nem um componente majoritário do diagnóstico da Disforia de Gênero. A Disforia de Gênero cruza um grande número de aspectos da vida, incluindo como você interage com os outros, como você se veste, como você se comporta, como você se encaixa na sociedade, como você percebe o mundo ao seu redor, e sim, como você se relaciona com o próprio corpo. Consequentemente, proponentes do SoC 7 da WPATH e do DSM-5 tomaram o hábito de dizer que você não precisa de disforia para ser transgênero. Essa afirmação é geralmente repetida como um mantra, pois ele informa as pessoas que não sentem significativo desconforto com o corpo que elas talvez sejam trans também.
 
-In principle, Gender Dysphoria is a feeling of wrongness intrinsic to the self. There is no logical backing to this wrongness, there is nothing which explains it, you can not describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things *are* incorrect can be hard to properly identify.
+Em princípio, a Disforia de Gênero é uma sensação de algo intrínseca erroneidade com si mesmo. Não há lastro lógico para essa erroneidade, não há nada que a explica, você não consegue descrever o porque você se sente assim, ela simplesmente está lá. Coisas na sua existência estão erradas e mesmo sabendo quais coisas *são* incorretas pode ser difícil identificá-las apropriadamente.
 
-The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
+A forma como costumo a descrever é como usar uma luva de adulto quando você é criança. Você pode por a sua mão na luva, e seus dedos podem entrar nos dedos da luva, mas a sua desteridade com a luva é severamente debilitada. Você também pode ser capaz de pegar algo, mas ser incapaz de manipulá-lo como um adulto conseguiria. As coisas simplesmente não estão bem certas.
 
 Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
 
-> Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
+<span lang="en">Evey Winters</span> descreve assim [em seu post Disforia](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+
+> Você já estava sentado em algum lugar público ou formal e do nada a sola do seu sapato coça? Você não pode remover seus sapatos ali e coçar o seu pé, então você aguenta a sensação morrendo dentro de você enquanto essa coceira cresce e cresce até que você está pronto para matar a próxima pessoa que falar com você.
 >
-> Or when I was younger I used to watch cable TV in the mornings before school. Because it was cable TV in rural WV in the early 90’s, every so often I’d turn on my favorite channel to watch my shows while I ate my maple oatmeal and I’d be seeing Power Rangers — but the audio would be from another station (usually the weather channel). The video was fine. The audio was fine. But the mismatch between them? That’s the kind of frustration that sits with you all day as a child.
->
-> It’s the feeling you get when you ask for a crisp refreshing Diet Coke and the server says, “Is Pepsi ok?”
->
-> It is knowing that something is wrong and not being able to do a damn thing about it.
+> Ou quando eu era mais jovem e costumava assistir TV à cabo nas manhãs antes da escola. Como era TV à cabo na parte rural da Virgínia Ocidental (estado dos EUA) no começo dos anos 90, de tempos em tempos eu ligava o meu canal favorito e assistiria meus shows enquanto eu comia *maple oatmeal* de café da manhã e assistia Power Rangers — mas o áudio vinha de outra estação (geralmente do canal de tempo meterológico). O vídeo estava okay. O áudio estava okay. Mas o desencontro entre eles? Esse era o tipo de frustração que ficava com você o dia inteiro quando criança.
+> 
+> É a sensação de que você tem quando você pede uma refrescante Coca Diet e o garçom responde: “Pode ser Pepsi?”
+> 
+> É saber que algo está errado e não ser capaz de fazer coisa nenhuma sobre isso.
 
-Gender Dysphoria is, at its core, simply emotional reactions to the brain knowing that something does not fit. This incongruence is so deep inside the brain's subsystems that there is no obvious message of what the problem is. The only way we have to identify it is via the emotions that it triggers. Our consciousness receives either positive (euphoria) or negative (dysphoria) feedback according to how well our current environment aligns with our internal sense of self. Part of transition is learning to recognize those signals.
+A Disforia de Gênero é, em sua essência, simplesmente as reações emocionais ao cérebro sabendo que algo não encaixa. Essa incongruência é tão profunda dentro dos subsistemas do cérebro que não há óbvia mensagem de qual é o problema. A única forma que temos para identificá-lo é através das emoções que ele dispara. Nosso consciente ou recebe feedbacks positivos (euforia) ou negativos (disforia) de acordo com quão bem o nosso ambiente se alinha à nossa sensação interna de si mesmo. Parte da transição é aprender a reconhecer esses sinais.
 
-Cisgender people receive them as well, but since the signals usually align with their environment, they take them for granted. There have been a few notable occasions, however, when a cisgender person has been [put into a situation](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) where they experience gender dysphoria. Attempts to raise cisgender children [as the opposite sex](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Content warning: suicide) have always met with failure when the child inevitably declares themselves differently.
+Pessoas cisgêneras também recebem esses sinais, como esses sinais geralmente se alinham com seus ambientes, elas os tomam por garantidos. Entretanto, existiram algumas ocasiões notáveis em que pessoas cisgêneras foram [colocadas em uma situação](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) em que elas experimentaram disforia de gênero. Tentativas de criar crianças cisgêneras [como o sexo oposto](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (aviso de gatilho: suicídio) sempre caíram em fracasso quando essas crianças, invariavelmente, se declaravam diferentemente.
 
-These impulses of euphoria and dysphoria, arousal and aversion, they all manifest in many different ways, some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this book is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them.
+Esses impulsos de euforia e disforia, excitação e aversão, eles sempre se manifestam em muitas formas diferentes, algumas óbvias, algumas muito mais sutis. Disforia muda com o tempo também, tomando novas formas conforme o indivíduo move de pre-consciência rumo a entendimento e através da transição. A meta desse livro é desmontar essas manifestações em suas distintas categorias e descrevê-las para que outros possam aprender a reconhecê-las.
+rs:
 
-However, first I must stress something very important, so important that I am putting it into big bold letters:
+Entretanto, primeiro eu quero destacar algo muito importante, tão importante que estou colocando em negrito:
 
-**EVERY SINGLE TRANS PERSON EXPERIENCES A DIFFERENT SET OF DYSPHORIA SOURCES AND INTENSITIES**
+**TODA PESSOA TRANS EXPERIMENTA UM CONJUNTO DIFERENTE DE FONTES E INTENSIDADES DE DISFORIA**
 
-There is no one single trans experience, there is no standard set of feelings and discomforts, there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
+Não há uma única experiência trans, não um conjunto padrão de sensações e desconfortos, *não existe a uma narrativa transgênera verdadeira*.
 
-Ok, that disclaimer out of the way, let's get to the meat and potatoes.
+Ok, com esse aviso fora do caminho, vamos para os pontos cernes.
