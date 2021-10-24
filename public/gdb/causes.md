@@ -5,12 +5,7 @@ linkTitle: "Causes of Gender Dysphoria"
 description: "It's the hormones, baby."
 classes:
   - gdb
-siblings:
-  prev: /en/gdb/treatment
-  prevCaption: Treating Gender Dysphoria
-  next: /en/gdb/chromosomes
-  nextCaption: But... but... the chromosomes!
-redirect: /en/gdb/causes
+redirect: /en/causes
 ---
 
 Redirecting...

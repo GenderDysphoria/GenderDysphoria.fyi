@@ -9,6 +9,7 @@
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "~2.975.0",
     "cloudfront-log-parser": "~1.1.0",
     "date-fns": "~2.9.0",
     "ua-parser-js": "~0.7.21"

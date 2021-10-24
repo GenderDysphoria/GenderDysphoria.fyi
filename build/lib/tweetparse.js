@@ -1,5 +1,6 @@
 var twemoji = require('twemoji' );
 const { deepPick, has } = require('./util');
+const path = require('path');
 
 const schema = {
   id_str: true,
@@ -26,7 +27,7 @@ const schema = {
     } ] },
   } ] },
   media: true,
-  lang: true,
+  in_reply_to_status_id_str: true,
 };
 
 var entityProcessors = {
@@ -121,7 +122,8 @@ module.exports = exports = function (tweets) {
 
     tweet.user.avatar = {
       input: tweet.user.profile_image_url_https,
-      output: 'tweets/' + tweet.user.screen_name + '.jpg',
+      output: `tweets/${tweet.user.screen_name}.jpg`,
+      cache: `twitter-avatars/${tweet.user.screen_name}.jpg`,
     };
 
     tweet.media = [
@@ -149,7 +151,39 @@ module.exports = exports = function (tweets) {
     }
 
     if (has(tweet, 'entities.media') && has(tweet, 'extended_entities.media')) {
-      tweet.entities.media = tweet.extended_entities.media;
+      tweet.entities.media = tweet.extended_entities.media.map((media) => {
+        media = { ...media };
+        if (media.media_url_https) {
+          const mediaItem = {
+            input: media.media_url_https,
+            output: `tweets/${tweet.id_str}/${path.basename(media.media_url_https)}`,
+            cache: `twitter-entities/${tweet.id_str}/${path.basename(media.media_url_https)}`,
+          };
+          if (media.type === 'photo') mediaItem.input += '?name=medium';
+          tweet.media.push(mediaItem);
+          media.media_url_https = '/' + mediaItem.output;
+        }
+
+        if (media.video_info && media.video_info.variants) {
+          media.video_info.variants = media.video_info.variants.map((variant) => {
+            if (!variant.url || !variant.bitrate) return variant;
+
+            const fname = path.basename(variant.url).split('?')[0];
+            const mediaItem = {
+              input: variant.url,
+              output: `tweets/${tweet.id_str}/${fname}`,
+              cache: `twitter-entities/${tweet.id_str}/${fname}`,
+            };
+            tweet.media.push(mediaItem);
+            variant.url = '/' + mediaItem.output;
+
+            return variant;
+          });
+        }
+
+        return media;
+      });
+
       delete tweet.extended_entities;
     }
 

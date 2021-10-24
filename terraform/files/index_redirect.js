@@ -3,7 +3,7 @@
 // This should be deployed as a Lambda@Edge connected to the CloudFront Distribution
 // Only Node.js 10.x Runtime supports Lambda@Edge for right now, we have to wait for AWS to support 12x and beyond
 
-exports.handler = async (event, context) => {
+exports.handler = async (event) => {
   /*
    * Expand S3 request to have index.html if it ends in /
    */

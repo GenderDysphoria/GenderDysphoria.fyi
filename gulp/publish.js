@@ -3,7 +3,12 @@ const awspublish  = require('gulp-awspublish');
 const awsrouter   = require('gulp-awspublish-router');
 const parallelize = require('concurrent-transform');
 
-var credentials = require('../aws.json');
+var credentials;
+try {
+  credentials = require('../aws.json');
+} catch (e) {
+  credentials = null;
+}
 
 const routes = {
   'p\\/.*\\.(?:jpeg|jpg|png|gif)$': {
@@ -36,6 +41,10 @@ const routes = {
 };
 
 module.exports = exports = function s3deploy () {
+  if (!credentials) {
+    console.error('Cannot publish without AWS credentials present.'); // eslint-disable-line
+    return false;
+  }
   var publisher = awspublish.create(credentials);
 
   return src('dist/**/*')

@@ -1,19 +1,86 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-lang: "en"
 title: "The Gender Dysphoria Bible"
+linkTitle: Introduction
 description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
+preBody: '_disclaimer'
 classes:
-  - front-page
+  - gdb
 siblings:
-  next: /en/gdb/what-is-gender
-  nextCaption: Continue Reading
+  next: /en/what-is-gender
+  nextCaption: What is Gender?
 ---
 
-> **Trans·gen·der** - *adjective*   
-> Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
 
-æææ<div class="copy markup">æææ
+{!{
+{{import
+  '~/img'
+  images.titlecard
+  srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
+  alt="The Gender Dysphoria Bible"
+  style="margin-bottom: 1em;"
+  imgStyle="width: 100%"
+}}
+}!}
+
+### Table of Contents:
+
+{!{ <div class="two-column-list"> }!}
+
+1. [Introduction](#introduction)
+
+2. [What is Gender?](/en/what-is-gender)
+
+3. [The History of Gender Dysphoria](/en/history)
+
+4. [Gender Euphoria](/en/euphoria)
+
+5. [Physical Dysphoria](/en/physical-dysphoria)
+
+6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
+
+7. [Social Dysphoria](/en/social-dysphoria)
+
+8. [Societal Dysphoria](/en/societal-dysphoria)
+
+9. [Sexual Dysphoria](/en/sexual-dysphoria)
+
+10. [Presentational Dysphoria](/en/presentational-dysphoria)
+
+11. [Existential Dysphoria](/en/existential-dysphoria)
+
+12. [Managed Dysphoria](/en/managed-dysphoria)
+
+13. [Impostor Syndrome](/en/impostor-syndrome)
+
+14. [Clinical Diagnoses](/en/diagnoses)
+
+15. [Treating Gender Dysphoria](/en/treatment)
+
+16. [Causes of Gender Dysphoria](/en/causes)
+
+17. [Chromosomes](/en/chromosomes)
+
+18. [How Hormones Work](/en/hormones)
+
+19. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+
+20. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+
+21. [Conclusion](/en/conclusion)
+
+{!{ </div> }!}
+
+<hr class="print-break-after print-hidden">
+
+## Introduction
+
+{!{
+<div class="gutter"><blockquote>
+  <strong>Trans·gen·der</strong> - <em>adjective</em><br>
+  Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+</blockquote></div>
+}!}
 
 For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal gender does not align with the physical features of their body. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital reconstruction surgery.
 
@@ -29,49 +96,12 @@ This experience of discontinuity between the internal and external self is what 
 
 The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
 
-
-æææ<div class="two-column-list">æææ
-
-### Table of Contents
-
-1. [What is Gender?](/en/gdb/what-is-gender)
-
-3. [The History of Gender Dysphoria](/en/gdb/history)
-
-4. [Gender Euphoria](/en/gdb/euphoria)
-
-5. [Physical Dysphoria](/en/gdb/physical-dysphoria)
-
-6. [Biochemical Dysphoria](/en/gdb/biochemical-dysphoria)
-
-7. [Social Dysphoria](/en/gdb/social-dysphoria)
-
-8. [Societal Dysphoria](/en/gdb/societal-dysphoria)
-
-9. [Sexual Dysphoria](/en/gdb/sexual-dysphoria)
-
-10. [Presentational Dysphoria](/en/gdb/presentational-dysphoria)
-
-11. [Existential Dysphoria](/en/gdb/existential-dysphoria)
-
-12. [Managed Dysphoria](/en/gdb/managed-dysphoria)
-
-13. [Impostor Syndrome](/en/gdb/impostor-syndrome)
-
-14. [Clinical Diagnoses](/en/gdb/diagnoses)
-
-15. [Treating Gender Dysphoria](/en/gdb/treatment)
-
-16. [Causes of Gender Dysphoria](/en/gdb/causes)
-
-17. [Chromosomes](/en/gdb/chromosomes)
-
-18. [How Hormones Work](/en/gdb/hormones)
-
-19. [Androgenic Second Puberty 101](/en/gdb/second-puberty-masc)
-
-20. [Estrogenic Second Puberty 101](/en/gdb/second-puberty-fem)
-
-21. [Conclusion](/en/gdb/conclusion)
-
-æææ</div></div>æææ
+{!{
+<div class="gutter flex flex-end print-inline print-span2 print-center">
+<span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<div class="grid-row" style="grid-template-columns: 1fr 1fr">
+{{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
+{{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
+</div>
+</div>
+}!}

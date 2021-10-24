@@ -94,7 +94,7 @@ const TYPE = exports.TYPE = {
 
 exports.type = dictMatch({
   [TYPE.IMAGE]:      isImage,
-  [TYPE.HANDYBARS]: isHandybars,
+  [TYPE.HANDYBARS]:  isHandybars,
   [TYPE.MARKDOWN]:   isMarkdown,
   [TYPE.VIDEO]:      isVideo,
   [TYPE.SCRIPT]:     is(JS, JSX),

@@ -12,16 +12,17 @@ const actions = {
     return readFile(input);
   },
 
-  async transcode ({ input, output }) {
+  async transcode ({ input, output, duplicate }) {
     const result = await actions.image({
       input,
       output,
+      duplicate,
       format: 'jpeg',
     });
     return result;
   },
 
-  async fetch ({ input, output }) {
+  async fetch ({ input, output, duplicate }) {
     const res = await fetch(input);
     if (res.status !== 200) {
       throw new Error(`File could not be fetched (${res.status}): "${input}"`);
@@ -30,13 +31,24 @@ const actions = {
     output = resolve(output);
     await fs.ensureDir(path.dirname(output));
     await fs.writeFile(output, body);
+    if (duplicate) {
+      await fs.ensureDir(resolve(path.dirname(duplicate)));
+      await fs.writeFile(duplicate, body);
+    }
     return body;
   },
 
-  async write ({ output, content }) {
+  async write ({ output, content, duplicate }) {
+    if (!content) {
+      throw new TypeError('Got an empty write?' + output);
+    }
     output = resolve(output);
     await fs.ensureDir(path.dirname(output));
     await fs.writeFile(output, content);
+    if (duplicate) {
+      await fs.ensureDir(resolve(path.dirname(duplicate)));
+      await fs.writeFile(duplicate, content);
+    }
     return Buffer.from(content);
   },
 
@@ -154,6 +166,10 @@ const actions = {
     let result = await Promise.fromCallback((cb) => gmfile.toBuffer(cb));
     if (options.format === 'ico') result = await ico(result);
     await fs.writeFile(output, result);
+    if (options.duplicate) {
+      await fs.ensureDir(resolve(path.dirname(options.duplicate)));
+      await fs.writeFile(options.duplicate, result);
+    }
 
     return result;
   },

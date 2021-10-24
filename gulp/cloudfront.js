@@ -1,9 +1,20 @@
 const log = require('fancy-log');
 const aws = require('aws-sdk');
-var credentials = require('../aws.json');
 var Promise = require('bluebird');
 
+var credentials;
+try {
+  credentials = require('../aws.json');
+} catch (e) {
+  credentials = null;
+}
+
 async function invalidate (wait) {
+  if (!credentials) {
+    console.error('Cannot access cloudfront without AWS credentials present.'); // eslint-disable-line
+    return false;
+  }
+
   var cloudfront = new aws.CloudFront();
   cloudfront.config.update({ credentials });
 

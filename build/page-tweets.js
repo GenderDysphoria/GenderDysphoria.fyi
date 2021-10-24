@@ -1,4 +1,4 @@
-const { chunk, uniq, difference } = require('lodash');
+const { chunk, uniq, uniqBy, difference } = require('lodash');
 const fs = require('fs-extra');
 const { resolve } = require('./resolve');
 const log = require('fancy-log');
@@ -74,6 +74,10 @@ module.exports = exports = async function tweets (pages) {
       }
       const tweet = twitterBackup[id];
 
+      if (tweet.quoted_status_id_str && !twitterCache[tweet.quoted_status_id_str]) {
+        tweetsNeeded.push(tweet.quoted_status_id_str);
+      }
+
       if (tweet) {
         log('Pulled tweet from backup ' + id);
         twitterCache[id] = applyI18N(twitterBackup[id], twitterI18N);
@@ -86,11 +90,12 @@ module.exports = exports = async function tweets (pages) {
 
   /* Apply Tweets to Pages **************************************************/
 
-  const twitterMedia = [];
+  var twitterMedia = [];
 
   function attachTweet (dict, tweetid) {
     if (!hasOwn(twitterCache, tweetid) && twitterBackup[tweetid]) {
-      log.error(`Tweet ${tweetid} is missing from the cache.`);
+      log.error(`Tweet ${tweetid} is missing from the cache but exists in backup? How did we get here?`);
+      twitterCache[tweetid] = tweetparse(twitterBackup[tweetid]);
       return;
     }
     const tweet = twitterCache[tweetid];
@@ -111,6 +116,8 @@ module.exports = exports = async function tweets (pages) {
       return dict;
     }, {});
   }
+
+  twitterMedia = uniqBy(twitterMedia, 'output');
 
   await Promise.all([
     fs.writeFile(resolve('twitter-media.json'),  JSON.stringify(twitterMedia,  null, 2)),

@@ -1,3 +1,5 @@
+/* eslint no-console: 0 */
+
 const { gunzip } = require('zlib');
 const { promisify } = require('util');
 const { S3 } = require('aws-sdk');

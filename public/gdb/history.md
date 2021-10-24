@@ -5,12 +5,7 @@ linkTitle: "The History of Gender Dysphoria"
 description: "The origins of Gender Dysphoria and the current meaning today."
 classes:
   - gdb
-siblings:
-  prev: /en/gdb/what-is-gender
-  prevCaption: What Is Gender?
-  next: /en/gdb/euphoria
-  nextCaption: Gender Euphoria
-redirect: /en/gdb/history
+redirect: /en/history
 ---
 
 Redirecting...

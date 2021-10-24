@@ -5,12 +5,7 @@ linkTitle: "Clinical Diagnoses"
 description: "It's clinical."
 classes:
   - gdb
-siblings:
-  prev: /en/gdb/impostor-syndrome
-  prevCaption: Impostor Syndrome
-  next: /en/gdb/treatment
-  nextCaption: Treating Gender Dysphoria
-redirect: /en/gdb/diagnoses
+redirect: /en/diagnoses
 ---
 
 Redirecting...

@@ -12,8 +12,9 @@ const slugify = require('./lib/slugify');
 const { stripHtml } = require('string-strip-html');
 
 const markdownIt = require('markdown-it');
+const i18n = require('./lang');
 
-
+const mAnchor = require('markdown-it-anchor');
 
 const markdownEngines = {
   full: markdownIt({
@@ -29,11 +30,13 @@ const markdownEngines = {
         rel: 'noopener',
       },
     })
-    .use(require('markdown-it-anchor'), {
-      permalink: true,
-      permalinkClass: 'header-link',
-      permalinkSymbol: '<img src="/images/svg/paragraph.svg">',
-      slugify,
+    .use(mAnchor, {
+      permalink: mAnchor.permalink.linkInsideHeader({
+        class: 'header-link',
+        symbol: '<img src="/images/svg/paragraph.svg">',
+        renderHref: (input) => '#' + slugify(decodeURIComponent(input)),
+        ariaHidden: true,
+      }),
     })
     .use(require('./lib/markdown-raw-html'), { debug: false }),
 
@@ -146,6 +149,7 @@ class Injectables {
     this.prod = prod;
     this.revManifest = revManifest;
     this.injections = {};
+    this.languages = {};
   }
 
   _parsePath (tpath, local, type) {
@@ -184,6 +188,7 @@ class Injectables {
       icon:     this.icon(),
       prod:     this.production(),
       rev:      this.rev(),
+      lang:     this.lang(),
     };
   }
 
@@ -267,6 +272,14 @@ class Injectables {
         log.error('Could not execute import template ' + tpath, e);
         return '';
       }
+    };
+  }
+
+  lang () {
+    return function (key, ...args) {
+      const { resolve: rval } = args.pop();
+      const lang = rval('@root.this.page.lang').split('-')[0];
+      return i18n(lang, key, ...args);
     };
   }
 

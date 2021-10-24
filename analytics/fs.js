@@ -1,9 +1,9 @@
 /**
- * 
+ *
  * @twipped/utils
- * 
+ *
  * Copyright (c) 2020, Jocelyn Badgley
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining
  * a copy of this software and associated documentation files (the
  * "Software"), to deal in the Software without restriction, including
@@ -11,10 +11,10 @@
  * distribute, sublicense, and/or sell copies of the Software, and to
  * permit persons to whom the Software is furnished to do so, subject to
  * the following conditions:
- * 
+ *
  * The above copyright notice and this permission notice shall be
  * included in all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
  * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
  * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -22,9 +22,8 @@
  * LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- * 
+ *
  */
-
 'use strict';
 
 Object.defineProperty(exports, '__esModule', { value: true });
@@ -36,16 +35,16 @@ var util = require('util');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 
-var stream__default = /*#__PURE__*/_interopDefaultLegacy(stream);
+var stream__default = /* #__PURE__*/_interopDefaultLegacy(stream);
 
-const pipeline = util.promisify(stream__default['default'].pipeline);
+const pipeline = util.promisify(stream__default.default.pipeline);
 const mkdir = (f, recursive = true) => fs.promises.mkdir(f, {
-  recursive
+  recursive,
 });
-const exists = f => fs.promises.access(f).then(() => true, () => false);
-const stat = f => fs.promises.stat(f).catch(() => null);
-const linkStat = f => fs.promises.lstat(f).catch(() => null);
-async function isWritable(file) {
+const exists = (f) => fs.promises.access(f).then(() => true, () => false);
+const stat = (f) => fs.promises.stat(f).catch(() => null);
+const linkStat = (f) => fs.promises.lstat(f).catch(() => null);
+async function isWritable (file) {
   try {
     await fs.promises.access(file, fs.constants.F_OK | fs.constants.W_OK);
     return true;
@@ -57,7 +56,7 @@ async function isWritable(file) {
     return false;
   }
 }
-async function touch(file) {
+async function touch (file) {
   const stats = await linkStat(file);
 
   if (stats) {
@@ -69,34 +68,36 @@ async function touch(file) {
   if (!(await exists(path.dirname(file)))) await mkdir(path.dirname(file));
   await fs.promises.writeFile(file, '');
 }
-async function remove(file) {
+async function remove (file) {
   const stats = await linkStat(file);
   if (!stats) return;
-  if (stats.isDirectory()) return fs.promises.rmdir(file, {
-    recursive: true
-  });
+  if (stats.isDirectory()) {
+    return fs.promises.rmdir(file, {
+      recursive: true,
+    });
+  }
   return fs.promises.unlink(file);
 }
-async function writeJson(file, object, options) {
+async function writeJson (file, object, options) {
   const {
     replacer,
     spaces,
     ...ops
   } = {
     encoding: 'utf8',
-    ...options
+    ...options,
   };
   await fs.promises.writeFile(file, `${JSON.stringify(object, replacer, spaces)}\n`, ops);
 }
 const writeJSON = writeJson;
-async function readJson(file, options) {
+async function readJson (file, options) {
   const {
     reviver,
     quiet,
     ...ops
   } = {
     encoding: 'utf8',
-    ...options
+    ...options,
   };
   const content = await fs.promises.readFile(file, ops);
 
@@ -109,7 +110,7 @@ async function readJson(file, options) {
 }
 const readJSON = readJson;
 
-function stripBom(content) {
+function stripBom (content) {
   if (Buffer.isBuffer(content)) {
     content = content.toString('utf8');
   }

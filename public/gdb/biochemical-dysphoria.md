@@ -5,12 +5,7 @@ linkTitle: "Biochemical Dysphoria"
 description: "The very real and biological factors of Gender Dysphoria that cause mental disturbance."
 classes:
   - gdb
-siblings:
-  prev: /en/gdb/physical-dysphoria
-  prevCaption: Physical Dysphoria
-  next: /en/gdb/social-dysphoria
-  nextCaption: Social Dysphoria
-redirect: /en/gdb/biochemical-dysphoria
+redirect: /en/biochemical-dysphoria
 ---
 
 Redirecting...

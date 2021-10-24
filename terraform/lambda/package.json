@@ -2,14 +2,14 @@
   "name": "cloudfront-logs",
   "version": "0.0.1",
   "dependencies": {
-    "aws-sdk": "*",
-    "date-fns": "~2.18.0",
-    "ua-parser-js": "~0.7.24"
+    "aws-sdk": "~2.966.0",
+    "date-fns": "~2.23.0",
+    "ua-parser-js": "~0.7.28"
   },
   "devDependencies": {
-    "eslint": "*",
+    "eslint": "~7.32.0",
     "eslint-config-airbnb-base": "*",
-    "eslint-plugin-import": "*"
+    "eslint-plugin-import": "~2.24.0"
   },
   "scripts": {
     "lint": "eslint ."
