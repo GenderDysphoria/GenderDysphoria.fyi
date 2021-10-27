@@ -34,9 +34,11 @@ var entityProcessors = {
   hashtags (tags, tweet) {
     tags.forEach((tagObj) => {
       tweet.html = tweet.html.replace('#' + tagObj.text, `<a href="https://twitter.com/hashtag/{tagObj.text}" class="hashtag">#${tagObj.text}</a>`);
-      const langs = Object.keys(tweet.html_i18n);
-      for (const lang of langs) {
-        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace('#' + tagObj.text, `<a href="https://twitter.com/hashtag/{tagObj.text}" class="hashtag">#${tagObj.text}</a>`);
+      if (tweet.html_i18n !== undefined) {
+        const langs = Object.keys(tweet.html_i18n);
+        for (const lang of langs) {
+          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace('#' + tagObj.text, `<a href="https://twitter.com/hashtag/{tagObj.text}" class="hashtag">#${tagObj.text}</a>`);
+        }
       }
     });
   },
@@ -49,9 +51,11 @@ var entityProcessors = {
     users.forEach((userObj) => {
       var regex = new RegExp('@' + userObj.screen_name, 'gi' );
       tweet.html = tweet.html.replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
-      const langs = Object.keys(tweet.html_i18n);
-      for (const lang of langs) {
-        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
+      if (tweet.html_i18n !== undefined) {
+        const langs = Object.keys(tweet.html_i18n);
+        for (const lang of langs) {
+          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
+        }
       }
     });
   },
@@ -61,9 +65,11 @@ var entityProcessors = {
       const isQT = tweet.quoted_status_permalink && url === tweet.quoted_status_permalink.url;
       const className = isQT ? 'quoted-tweet' : 'url';
       tweet.html = tweet.html.replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
-      const langs = Object.keys(tweet.html_i18n);
-      for (const lang of langs) {
-        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+      if (tweet.html_i18n !== undefined) {
+        const langs = Object.keys(tweet.html_i18n);
+        for (const lang of langs) {
+          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+        }
       }
     });
   },
@@ -71,9 +77,11 @@ var entityProcessors = {
   media (media, tweet) {
     media.forEach((m) => {
       tweet.html = tweet.html.replace(m.url, '');
-      const langs = Object.keys(tweet.html_i18n);
-      for (const lang of langs) {
-        tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(m.url, '');
+      if (tweet.html_i18n !== undefined) {
+        const langs = Object.keys(tweet.html_i18n);
+        for (const lang of langs) {
+          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(m.url, '');
+        }
       }
       let width, height;
 
