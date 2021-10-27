@@ -5,6 +5,6 @@ linkTitle: "Conclusion"
 description: "Enough with the gatekeeping already."
 classes:
   - gdb
-  redirect: /en/conclusion
+redirect: /en/conclusion
 ---
 Redirecting...
