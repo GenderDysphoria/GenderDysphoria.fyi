@@ -142,6 +142,10 @@
   $cwColor: darken($gray-100, 2%);
   margin: 0 -1rem 1em;
 
+  &:first-child {
+    margin-top: -1rem;
+  }
+
   padding: 10px 20px;
   background-color: $cwColor;
   color-adjust: exact;
