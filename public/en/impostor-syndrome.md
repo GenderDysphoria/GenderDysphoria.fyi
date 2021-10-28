@@ -7,8 +7,8 @@ preBody: '_disclaimer'
 siblings:
   prev: /en/managed-dysphoria
   prevCaption: Managed Dysphoria
-  next: /en/diagnoses
-  nextCaption: Clinical Diagnoses
+  next: /en/am-i-trans
+  nextCaption: Am I Trans?
 classes:
   - gdb
 tweets:
