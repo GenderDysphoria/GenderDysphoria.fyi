@@ -23,8 +23,8 @@ tweets:
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Eu·pho·ri·a</strong> - <em>Noun</em><br>
-  A feeling or state of intense excitement and happiness. Elation, joy, glee.
+  <strong>Eu·fo·ri·a</strong> - <em>Substantivo</em><br>
+  Uma sensação ou estado de intenso entusiasmo e felicidade. Exaltação, alegria.
 </blockquote></div>
 }!}
 

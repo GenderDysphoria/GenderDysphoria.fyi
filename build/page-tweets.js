@@ -16,16 +16,24 @@ function tweetText2Html(tweet_text) {
   return answer;
 }
 
-function applyI18N(tweet, twitter_i18n) {
-  const id = tweet.id_str;
+function applyI18N(original_tweet, twitter_i18n) {
+  const id = original_tweet.id_str;
+  // Make a shallow copy
+  let tweet = Object.assign({}, original_tweet);
+
+  // Do we have a trnslation for this tweet?
   if (twitter_i18n[id] === undefined) {
+    // If not, delete any translation fields just in case
     delete tweet.html_i18n;
     delete tweet.full_text_i18n;
   } else {
+    // If yes, add the translations
     const originalLang = tweet["lang"] || "x-original";
     tweet.full_text_i18n = twitter_i18n[id].full_text_i18n;
     tweet.full_text_i18n[originalLang] = tweet.full_text;
   }
+
+  // Return the tweet with the translations
   return tweet;
 }
 
@@ -63,7 +71,7 @@ module.exports = exports = async function tweets (pages) {
       if (tweet.quoted_status_id_str && !twitterCache[tweet.quoted_status_id_str]) {
         tweetsNeeded.push(tweet.quoted_status_id_str);
       }
-      twitterBackup[tweet.id_str] = JSON.parse(JSON.stringify(tweet)); // this create a deep copy
+      twitterBackup[tweet.id_str] = tweet;
       tweet = applyI18N(tweet, twitterI18N);
       twitterCache[tweet.id_str] = tweetparse(tweet);
       loaded.push(tweet.id_str);
@@ -89,11 +97,6 @@ module.exports = exports = async function tweets (pages) {
         twitterCache[id] = false;
       }
     }
-  }
-
-  for (let [id, tweet] of Object.entries(twitterBackup)) {
-    delete tweet.html_i18n;
-    delete tweet.full_text_i18n;
   }
 
   /* Apply Tweets to Pages **************************************************/

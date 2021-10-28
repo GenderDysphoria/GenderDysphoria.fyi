@@ -16,6 +16,15 @@ const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
 
+const dateFNS = require('date-fns');
+const dateFNSLocales = require('date-fns/locale');
+const str2locale = {
+  'en': dateFNSLocales.enUS,
+  'pt': dateFNSLocales.ptBR,
+  'zh': dateFNSLocales.zhCN,
+  'es': dateFNSLocales.es
+};
+
 const markdownEngines = {
   full: markdownIt({
     html: true,
@@ -187,6 +196,7 @@ class Injectables {
       prod:     this.production(),
       rev:      this.rev(),
       lang:     this.lang(),
+      date:     this.date(),
     };
   }
 
@@ -278,6 +288,84 @@ class Injectables {
       const { resolve: rval } = args.pop();
       const lang = rval('@root.this.page.lang').split('-')[0];
       return i18n(lang, key, ...args);
+    };
+  }
+
+  date () {
+    return function (...args) {
+      let extra = args.pop();
+      let datestr, dateobj, datefmt, lang;
+
+
+      const { resolve: rval } = extra;
+      const filename = rval('@value.input');
+      lang = (rval('@root.this.page.lang') || 'en').split('-')[0];
+
+      switch (args.length) {
+      case 0:
+        dateobj = new Date();
+        break;
+      case 1:
+        datestr = args[0];
+        dateobj = new Date(datestr);
+        break;
+      case 2:
+        datestr = args[0];
+        dateobj = new Date(datestr);
+        datefmt = args[1];
+        break;
+      case 3:
+        datestr = args[0];
+        dateobj = new Date(datestr);
+        datefmt = args[1];
+        lang = args[2];
+        break;
+      default:
+        throw new Exception('wrong number of arguments for {{date}}, got '+args.length+' maximum is 3');
+      }
+
+      if (datestr === "now") {
+        datestr = undefined;
+        dateobj = new Date();
+      }
+
+      if (!dateFNS.isValid(dateobj)) {
+        console.trace('Invalid input for date: ', { datestr, filename, args, extra });
+        return datestr.toString();
+      }
+
+      if (lang === undefined) {
+        return dateobj.toISOString();
+      }
+
+      const locale = str2locale[lang];
+
+      if (datefmt === undefined || locale === undefined) {
+        const options = {
+          weekday: 'short',
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric',
+          timeZone: 'UTC',
+          timeZoneName: 'short',
+          hour: '2-digit',
+          minute: '2-digit',
+          second: '2-digit'
+        };
+        try {
+          return dateobj.toLocaleString(lang, options);
+        } catch (error) {
+          console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
+          return datestr.toString();
+        }
+      }
+
+      try {
+        return dateFNS.format(dateobj, datefmt, {locale: locale});
+      } catch (error) {
+        console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
+        return datestr.toString();
+      }
     };
   }
 

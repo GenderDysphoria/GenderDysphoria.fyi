@@ -7,8 +7,8 @@
   <meta name="referrer" content="origin-when-cross-origin">
   <meta name="author" content="{{site.author}}">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:site_name" content="{{site.title[page.lang]}}">
-  <meta name="twitter:site" content="{{site.title[page.lang]}}">
+  <meta property="og:site_name" content="{{{lang 'SITE_TITLE'}}}">
+  <meta name="twitter:site" content="{{{lang 'SITE_TITLE'}}}">
   <meta name="twitter:creator" content="{{site.creator}}">
   {{block "meta"}}
   <title>{{page.title}}</title>
@@ -112,7 +112,7 @@
         </ul>
         <hr>
       </div>
-      <p class="copyright">{{{lang 'FOOTER_COPYRIGHT'}}}<span class="cc-by-nc-sa">{{icon 'symbols/cc'}}{{icon 'symbols/cc-by'}}{{icon 'symbols/cc-nc'}}{{icon 'symbols/cc-sa'}}</span><br>&copy; {{date "yyyy"}} <a href="https://curvyandtrans.com">Jocelyn Badgley</a> {{lang 'FOOTER_COPYRIGHT2'}}</p>
+      <p class="copyright">{{{lang 'FOOTER_COPYRIGHT'}}}<span class="cc-by-nc-sa">{{icon 'symbols/cc'}}{{icon 'symbols/cc-by'}}{{icon 'symbols/cc-nc'}}{{icon 'symbols/cc-sa'}}</span><br>&copy; {{date "now" "yyyy"}} <a href="https://curvyandtrans.com">Jocelyn Badgley</a> {{lang 'FOOTER_COPYRIGHT2'}}</p>
       <p class="foot-nav"><a href="/privacy.html">{{lang 'Privacy Policy'}}</a></p>
 
     </footer>
