@@ -53159,5 +53159,3616 @@
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en"
+  },
+  "1453731745145131012": {
+    "created_at": "Thu Oct 28 14:33:51 +0000 2021",
+    "id": 1453731745145131000,
+    "id_str": "1453731745145131012",
+    "full_text": "TL;DR - Nothing is real so calm the fuck down.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      46
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453729760765350000,
+    "in_reply_to_status_id_str": "1453729760765349897",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 162,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453729760765349897": {
+    "created_at": "Thu Oct 28 14:25:58 +0000 2021",
+    "id": 1453729760765350000,
+    "id_str": "1453729760765349897",
+    "full_text": "Whether or not these are all the same color or not depends entirely on who's looking. https://t.co/6Y8A7fRpoO",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      85
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1453729642829865000,
+          "id_str": "1453729642829864973",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyvaHBUYA0ft23.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyvaHBUYA0ft23.jpg",
+          "url": "https://t.co/6Y8A7fRpoO",
+          "display_url": "pic.twitter.com/6Y8A7fRpoO",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453729760765349897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453729642829865000,
+          "id_str": "1453729642829864973",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyvaHBUYA0ft23.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyvaHBUYA0ft23.jpg",
+          "url": "https://t.co/6Y8A7fRpoO",
+          "display_url": "pic.twitter.com/6Y8A7fRpoO",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453729760765349897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1453729642766999600,
+          "id_str": "1453729642766999565",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyvaGyVIA0lacB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyvaGyVIA0lacB.jpg",
+          "url": "https://t.co/6Y8A7fRpoO",
+          "display_url": "pic.twitter.com/6Y8A7fRpoO",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453729760765349897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1453729642850910200,
+          "id_str": "1453729642850910214",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyvaHGVgAYpWEp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyvaHGVgAYpWEp.jpg",
+          "url": "https://t.co/6Y8A7fRpoO",
+          "display_url": "pic.twitter.com/6Y8A7fRpoO",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453729760765349897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453729553956802600,
+    "in_reply_to_status_id_str": "1453729553956802568",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 113,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1453729553956802568": {
+    "created_at": "Thu Oct 28 14:25:09 +0000 2021",
+    "id": 1453729553956802600,
+    "id_str": "1453729553956802568",
+    "full_text": "We didn't have a word for airplane until we had the means to build one. We didn't have a word for book until we started writing. We live in our heads, in imagined worlds of forms and concepts and categories -- cognitive shortcuts to making reasonable judgments.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453729085956386800,
+    "in_reply_to_status_id_str": "1453729085956386827",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 116,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453729085956386827": {
+    "created_at": "Thu Oct 28 14:23:17 +0000 2021",
+    "id": 1453729085956386800,
+    "id_str": "1453729085956386827",
+    "full_text": "The way we articulate, understand, and define our bodies and identities in relation to the world is ever shifting, ever growing, ever reacting to new discoveries.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      162
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453728719177064400,
+    "in_reply_to_status_id_str": "1453728719177064454",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 97,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453728719177064454": {
+    "created_at": "Thu Oct 28 14:21:50 +0000 2021",
+    "id": 1453728719177064400,
+    "id_str": "1453728719177064454",
+    "full_text": "But as we try to broaden the definition of woman, others are *also* participating in changing it.\n\nWe didn't know about XX or XY chromosomes until we did; we've been using that as a symbolic gender signifier for less than a century.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453728215072067600,
+    "in_reply_to_status_id_str": "1453728215072067584",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 109,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453728215072067584": {
+    "created_at": "Thu Oct 28 14:19:50 +0000 2021",
+    "id": 1453728215072067600,
+    "id_str": "1453728215072067584",
+    "full_text": "And we have the means now that someone assigned one gender at birth can not only decide they *want* to be the other, they *can* be -- even according to our socially conditioned definitions!",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      189
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453727952512827400,
+    "in_reply_to_status_id_str": "1453727952512827397",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 107,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453727952512827397": {
+    "created_at": "Thu Oct 28 14:18:47 +0000 2021",
+    "id": 1453727952512827400,
+    "id_str": "1453727952512827397",
+    "full_text": "We do not need to reproduce to survive; there's billions of us. We don't need kids to till our fields. We don't lock women away in towers or gynaeceums, or proscribe them from public life. So the need for a hard, immutable distinction isn't there to quite the same degree.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453727419257344000,
+    "in_reply_to_status_id_str": "1453727419257344002",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 125,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453727419257344002": {
+    "created_at": "Thu Oct 28 14:16:40 +0000 2021",
+    "id": 1453727419257344000,
+    "id_str": "1453727419257344002",
+    "full_text": "Here's the fact: go to any time and place in human history bringing hormones and surgeries and you will have people LINING UP to make the switch. The reason we need words for this now is because we have the means to make it.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      224
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453726907770368000,
+    "in_reply_to_status_id_str": "1453726907770368007",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 153,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453726907770368007": {
+    "created_at": "Thu Oct 28 14:14:38 +0000 2021",
+    "id": 1453726907770368000,
+    "id_str": "1453726907770368007",
+    "full_text": "\"Man\" and \"woman\" are just black and white. They did their job for a long, long time, but now human society is sufficiently distanced from \"we must have babies right now\" and of sufficient medical expertise that it's not enough.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453726301152432000,
+    "in_reply_to_status_id_str": "1453726301152432131",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 134,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453726301152432131": {
+    "created_at": "Thu Oct 28 14:12:13 +0000 2021",
+    "id": 1453726301152432000,
+    "id_str": "1453726301152432131",
+    "full_text": "You can see the world in black and white or you can see it in color with the exact same eyes. How the system runs depends on its operating system.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      146
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453725551441571800,
+    "in_reply_to_status_id_str": "1453725551441571846",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 111,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453725551441571846": {
+    "created_at": "Thu Oct 28 14:09:15 +0000 2021",
+    "id": 1453725551441571800,
+    "id_str": "1453725551441571846",
+    "full_text": "I'm not saying gender doesn't exist. I'm saying it's an invention, a technology, the same way as this laptop, as this couch, as Twitter. It's *real.* It's just not immutable.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      174
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453725273199808500,
+    "in_reply_to_status_id_str": "1453725273199808517",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 193,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453725273199808517": {
+    "created_at": "Thu Oct 28 14:08:08 +0000 2021",
+    "id": 1453725273199808500,
+    "id_str": "1453725273199808517",
+    "full_text": "None of this was inevitable. We are contingent beings living contingent lives in contingent societies that are the result of *twelve-thousand years* of increasing organizational and conceptual complexity. How we organize ourselves by gender is just as contingent.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453724939782029300,
+    "in_reply_to_status_id_str": "1453724939782029325",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 137,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453724939782029325": {
+    "created_at": "Thu Oct 28 14:06:49 +0000 2021",
+    "id": 1453724939782029300,
+    "id_str": "1453724939782029325",
+    "full_text": "We just ACCEPT these divisions, these categories, because we LIVE them. Our brains use these structures to anticipate the world we live in and navigate it.\n\nRace, too, is an invention, and our modern conception of it originated precisely to justify and perpetuate slavery.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453724394782556200,
+    "in_reply_to_status_id_str": "1453724394782556167",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 142,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453724394782556167": {
+    "created_at": "Thu Oct 28 14:04:39 +0000 2021",
+    "id": 1453724394782556200,
+    "id_str": "1453724394782556167",
+    "full_text": "And YES, there were people going around saying \"What the fuck is a 'teen-ager'?? Kids these days!\"",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      98
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453724275756585000,
+    "in_reply_to_status_id_str": "1453724275756584973",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 129,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453724275756584973": {
+    "created_at": "Thu Oct 28 14:04:10 +0000 2021",
+    "id": 1453724275756585000,
+    "id_str": "1453724275756584973",
+    "full_text": "The same shit happened with tweens.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      35
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453724226163122200,
+    "in_reply_to_status_id_str": "1453724226163122180",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 121,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453724226163122180": {
+    "created_at": "Thu Oct 28 14:03:59 +0000 2021",
+    "id": 1453724226163122200,
+    "id_str": "1453724226163122180",
+    "full_text": "BUT, in the twentieth century, it became necessary in Western society to identify this set of adolescents in a LARGER CULTURAL WAY: by recognizing them as a distinct group that was developing its own culture *and* to more effectively market to them.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      249
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453723831202242600,
+    "in_reply_to_status_id_str": "1453723831202242560",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 129,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453723831202242560": {
+    "created_at": "Thu Oct 28 14:02:24 +0000 2021",
+    "id": 1453723831202242600,
+    "id_str": "1453723831202242560",
+    "full_text": "We didn't used to distinguish teenagers as a group; there were children, and there were adults.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      95
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453723692135956500,
+    "in_reply_to_status_id_str": "1453723692135956487",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 136,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453723692135956487": {
+    "created_at": "Thu Oct 28 14:01:51 +0000 2021",
+    "id": 1453723692135956500,
+    "id_str": "1453723692135956487",
+    "full_text": "But this bifurcation of human *society* and *psychology* was not inevitable; we could just as easily have invented \"genders\" based on fertility. And in a cultural (non-developmental!) sense, even *age* is a kind of gender.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      222
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453723367152906200,
+    "in_reply_to_status_id_str": "1453723367152906245",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 135,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453723367152906245": {
+    "created_at": "Thu Oct 28 14:00:34 +0000 2021",
+    "id": 1453723367152906200,
+    "id_str": "1453723367152906245",
+    "full_text": "It's why we invented uniforms, btw, and gender is a sort of uniform. You'll notice, for example, all of the things that get wrapped up in gender -- expectations of behavior, of dress, of interest, of hierarchy.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      210
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453723007315165200,
+    "in_reply_to_status_id_str": "1453723007315165211",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 148,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453723007315165211": {
+    "created_at": "Thu Oct 28 13:59:08 +0000 2021",
+    "id": 1453723007315165200,
+    "id_str": "1453723007315165211",
+    "full_text": "In THE SECOND SEX, Simone de Beauvoir (SdB) talks about how womanhood was constructed in prehistory as a form of property; consequently, it became necessary for the human brain to be able to distinguish at a glance what *social function* someone had.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      250
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453722590837555200,
+    "in_reply_to_status_id_str": "1453722590837555215",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 146,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453722590837555215": {
+    "created_at": "Thu Oct 28 13:57:29 +0000 2021",
+    "id": 1453722590837555200,
+    "id_str": "1453722590837555215",
+    "full_text": "The human brain is GREAT at prediction. It's the main thing it's designed to do; to help us see reasonably into the future based own the past. And gender -- as distinguished from physical sex!! -- is another predictive tool.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      224
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453722273987190800,
+    "in_reply_to_status_id_str": "1453722273987190794",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 148,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453722273987190794": {
+    "created_at": "Thu Oct 28 13:56:13 +0000 2021",
+    "id": 1453722273987190800,
+    "id_str": "1453722273987190794",
+    "full_text": "Gender, like language and like color, is an invention. It's a way to conceptualize and understand sense data in a way that is broadly predictive.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      145
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453722033179660300,
+    "in_reply_to_status_id_str": "1453722033179660311",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 180,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453722033179660311": {
+    "created_at": "Thu Oct 28 13:55:16 +0000 2021",
+    "id": 1453722033179660300,
+    "id_str": "1453722033179660311",
+    "full_text": "If I had no word for blue, yes, I would still see things that I would call blue, but I wouldn't have any reason to conceptualize it as a category. The sky is black, in that imagination; dark at night, light in day, but always black.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453721697987612700,
+    "in_reply_to_status_id_str": "1453721697987612688",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 155,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453721697987612688": {
+    "created_at": "Thu Oct 28 13:53:56 +0000 2021",
+    "id": 1453721697987612700,
+    "id_str": "1453721697987612688",
+    "full_text": "Well, one, we take colors as givens of the world, but they're linguistic and conceptual structures designed to help us *navigate* the world. They're IDEAS associated with light frequencies.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      189
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453721510514880500,
+    "in_reply_to_status_id_str": "1453721510514880521",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 183,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453721510514880521": {
+    "created_at": "Thu Oct 28 13:53:11 +0000 2021",
+    "id": 1453721510514880500,
+    "id_str": "1453721510514880521",
+    "full_text": "So what does this have to do with gender?",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      41
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453721453099053000,
+    "in_reply_to_status_id_str": "1453721453099053059",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 132,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453721453099053059": {
+    "created_at": "Thu Oct 28 13:52:57 +0000 2021",
+    "id": 1453721453099053000,
+    "id_str": "1453721453099053059",
+    "full_text": "Blue only shows up as a color at the same time blue paints and dyes start to show up, and suddenly there's a need to distinguish black from blue. And what's wilder, some cultures have a \"light blue\" cardinal color the same way we have pink.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      240
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453721164409303000,
+    "in_reply_to_status_id_str": "1453721164409303041",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 170,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453721164409303041": {
+    "created_at": "Thu Oct 28 13:51:49 +0000 2021",
+    "id": 1453721164409303000,
+    "id_str": "1453721164409303041",
+    "full_text": "Society names colors as we need.\n\nBlack and white to distinguish dark from light.\nRed to describe blood and injury.\nYellow and green help identify ripe and unripe fruit.\nBut blue?\n\nMost people don't encounter a ton of blue day to day in nature.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      244
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453720784610807800,
+    "in_reply_to_status_id_str": "1453720784610807817",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 182,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453720784610807817": {
+    "created_at": "Thu Oct 28 13:50:18 +0000 2021",
+    "id": 1453720784610807800,
+    "id_str": "1453720784610807817",
+    "full_text": "This isn't just a fun fact; my brain is conceptually primed to *distinguish* pink objects from red objects, but not bright red from dark red.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      141
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453720487008288800,
+    "in_reply_to_status_id_str": "1453720487008288768",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 201,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453720487008288768": {
+    "created_at": "Thu Oct 28 13:49:07 +0000 2021",
+    "id": 1453720487008288800,
+    "id_str": "1453720487008288768",
+    "full_text": "But these? THESE are two *different* color categories, even though pink is just light red. https://t.co/G4ETiSMj0U",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      90
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1453720374294683600,
+          "id_str": "1453720374294683649",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCym-nCVIAEPZUC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCym-nCVIAEPZUC.jpg",
+          "url": "https://t.co/G4ETiSMj0U",
+          "display_url": "pic.twitter.com/G4ETiSMj0U",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453720487008288768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453720374294683600,
+          "id_str": "1453720374294683649",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCym-nCVIAEPZUC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCym-nCVIAEPZUC.jpg",
+          "url": "https://t.co/G4ETiSMj0U",
+          "display_url": "pic.twitter.com/G4ETiSMj0U",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453720487008288768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1453720383257931800,
+          "id_str": "1453720383257931782",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCym_IbVcAYW6v9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCym_IbVcAYW6v9.jpg",
+          "url": "https://t.co/G4ETiSMj0U",
+          "display_url": "pic.twitter.com/G4ETiSMj0U",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453720487008288768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453720319445852200,
+    "in_reply_to_status_id_str": "1453720319445852161",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 207,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1453720319445852161": {
+    "created_at": "Thu Oct 28 13:48:27 +0000 2021",
+    "id": 1453720319445852200,
+    "id_str": "1453720319445852161",
+    "full_text": "These colors are both identifiable as \"red,\" yes? Even though they're different shades, wildly different shades, we recognize them as a single color category https://t.co/pf5k9NWbAg",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      157
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1453720154408423400,
+          "id_str": "1453720154408423424",
+          "indices": [
+            158,
+            181
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCymxz5XEAAI1dI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCymxz5XEAAI1dI.jpg",
+          "url": "https://t.co/pf5k9NWbAg",
+          "display_url": "pic.twitter.com/pf5k9NWbAg",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453720319445852161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453720154408423400,
+          "id_str": "1453720154408423424",
+          "indices": [
+            158,
+            181
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCymxz5XEAAI1dI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCymxz5XEAAI1dI.jpg",
+          "url": "https://t.co/pf5k9NWbAg",
+          "display_url": "pic.twitter.com/pf5k9NWbAg",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453720319445852161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1453720154550911000,
+          "id_str": "1453720154550910987",
+          "indices": [
+            158,
+            181
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCymx0bVQAsgyii.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCymx0bVQAsgyii.jpg",
+          "url": "https://t.co/pf5k9NWbAg",
+          "display_url": "pic.twitter.com/pf5k9NWbAg",
+          "expanded_url": "https://twitter.com/MagsVisaggs/status/1453720319445852161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 499,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453719905212113000,
+    "in_reply_to_status_id_str": "1453719905212112898",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 207,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1453719905212112898": {
+    "created_at": "Thu Oct 28 13:46:48 +0000 2021",
+    "id": 1453719905212113000,
+    "id_str": "1453719905212112898",
+    "full_text": "Black and white are the first, but really all they mean is \"dark\" and \"not dark.\" Then red. Then green and yellow. Then blue. So what's the point of saying this?\n\nNaming colors creates color categories.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      202
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453719535295484000,
+    "in_reply_to_status_id_str": "1453719535295483904",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 207,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453719535295483904": {
+    "created_at": "Thu Oct 28 13:45:20 +0000 2021",
+    "id": 1453719535295484000,
+    "id_str": "1453719535295483904",
+    "full_text": "You see this across ancient literature. The ocean is called \"dark,\" the sky \"black.\" There's no CONCEPT of blue whatsoever. \n\nIt turns out colors get named according to pretty predictable pattern as language develops over thousands of years.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      241
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453719254398763000,
+    "in_reply_to_status_id_str": "1453719254398763009",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 218,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453719254398763009": {
+    "created_at": "Thu Oct 28 13:44:13 +0000 2021",
+    "id": 1453719254398763000,
+    "id_str": "1453719254398763009",
+    "full_text": "You might be thinking \"color doesn't objectively exist? Just look up and see that blue sky!\" But here's the thing. Go back in time to the Bronze Age Levant, for example, and nobody would agree with you.\n\nThey didn't even have a *word* for blue.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      244
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1453718935040237600,
+    "in_reply_to_status_id_str": "1453718935040237580",
+    "in_reply_to_user_id": 2319062221,
+    "in_reply_to_user_id_str": "2319062221",
+    "in_reply_to_screen_name": "MagsVisaggs",
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 219,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1453718935040237580": {
+    "created_at": "Thu Oct 28 13:42:57 +0000 2021",
+    "id": 1453718935040237600,
+    "id_str": "1453718935040237580",
+    "full_text": "Gender exists the way color exists: in our minds, entirely subjectively, and culturally conditioned.\n\nLet me explain.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      117
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2319062221,
+      "id_str": "2319062221",
+      "name": "Lesbian Frankenstein 🧙‍♀️💀🎃",
+      "screen_name": "MagsVisaggs",
+      "location": "New York City",
+      "description": "anti-fascist comics writer, guitarist, and tarot reader - repped by @comicsispeople",
+      "url": "https://t.co/0IaIXpVHXI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0IaIXpVHXI",
+              "expanded_url": "http://magsvisaggio.com",
+              "display_url": "magsvisaggio.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40361,
+      "friends_count": 2147,
+      "listed_count": 415,
+      "created_at": "Thu Jan 30 15:07:37 +0000 2014",
+      "favourites_count": 133641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 223995,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445770188285116420/fxxoVlGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319062221/1589214690",
+      "profile_link_color": "48D1CC",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 346,
+    "favorite_count": 1059,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
   }
 }
