@@ -292,10 +292,22 @@ class Injectables {
   }
 
   date () {
+    // {{date}} -> prints current date
+    // {{date datestr}} -> prints date in datestr
+    // {{date datestr datefmt}} -> prints date in datestr in format datefmt
+    // {{date datestr datefmt lang}} -> prints date in datestr in format datefmt according to conventions for language lang
+    // 
+    // If lang is not specified, it will be extracted from the page metadata. If that is not available, English
+    // will be assumed.
+    // 
+    // In case of errors, the date will be returned as an ISO string if possible and its raw datestr input otherwise.
+    // 
+    // Datestr can be the string "now", `undefined`, and anything parsable by `new Date()`.
+    // 
+    // Datefmt format is available at https://date-fns.org/v2.25.0/docs/format
     return function (...args) {
       let extra = args.pop();
       let datestr, dateobj, datefmt, lang;
-
 
       const { resolve: rval } = extra;
       const filename = rval('@value.input');
@@ -303,20 +315,17 @@ class Injectables {
 
       switch (args.length) {
       case 0:
-        dateobj = new Date();
+        datestr = "now";
         break;
       case 1:
         datestr = args[0];
-        dateobj = new Date(datestr);
         break;
       case 2:
         datestr = args[0];
-        dateobj = new Date(datestr);
         datefmt = args[1];
         break;
       case 3:
         datestr = args[0];
-        dateobj = new Date(datestr);
         datefmt = args[1];
         lang = args[2];
         break;
@@ -324,9 +333,10 @@ class Injectables {
         throw new Exception('wrong number of arguments for {{date}}, got '+args.length+' maximum is 3');
       }
 
-      if (datestr === "now") {
-        datestr = undefined;
+      if (datestr === "now" || datestr === undefined) {
         dateobj = new Date();
+      } else {
+        dateobj = new Date(datestr);
       }
 
       if (!dateFNS.isValid(dateobj)) {
@@ -339,6 +349,9 @@ class Injectables {
       }
 
       const locale = str2locale[lang];
+      if (locale === undefined) {
+        console.warn('Locale not found: '+lang);
+      }
 
       if (datefmt === undefined || locale === undefined) {
         const options = {
@@ -356,7 +369,7 @@ class Injectables {
           return dateobj.toLocaleString(lang, options);
         } catch (error) {
           console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
-          return datestr.toString();
+          return dateobj.toISOString();
         }
       }
 
@@ -364,7 +377,7 @@ class Injectables {
         return dateFNS.format(dateobj, datefmt, {locale: locale});
       } catch (error) {
         console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
-        return datestr.toString();
+        return dateobj.toISOString();
       }
     };
   }
