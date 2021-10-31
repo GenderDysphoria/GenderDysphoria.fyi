@@ -47,20 +47,22 @@ The purpose of this site is to document the many ways that Gender Dysphoria can 
 
 13. [Impostor Syndrome](/en/impostor-syndrome)
 
-14. [Clinical Diagnoses](/en/diagnoses)
+14. [Am I Trans?](/en/am-i-trans)
 
-15. [Treating Gender Dysphoria](/en/treatment)
+15. [Clinical Diagnoses](/en/diagnoses)
 
-16. [Causes of Gender Dysphoria](/en/causes)
+16. [Treating Gender Dysphoria](/en/treatment)
 
-17. [Chromosomes](/en/chromosomes)
+17. [Causes of Gender Dysphoria](/en/causes)
 
-18. [How Hormones Work](/en/hormones)
+18. [Chromosomes](/en/chromosomes)
 
-19. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+19. [How Hormones Work](/en/hormones)
 
-20. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+20. [Androgenic Second Puberty 101](/en/second-puberty-masc)
 
-21. [Conclusion](/en/conclusion)
+21. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+
+22. [Conclusion](/en/conclusion)
 
 æææ</div></div>æææ

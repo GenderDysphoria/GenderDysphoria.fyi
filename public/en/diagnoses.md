@@ -7,8 +7,8 @@ preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  prev: /en/impostor-syndrome
-  prevCaption: Impostor Syndrome
+  prev: /en/am-i-trans
+  prevCaption: Am I Trans?
   next: /en/treatment
   nextCaption: Treating Gender Dysphoria
 ---

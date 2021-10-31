@@ -16,6 +16,7 @@ module.exports = exports = [
       'public/en/existential-dysphoria.md',
       'public/en/managed-dysphoria.md',
       'public/en/impostor-syndrome.md',
+      'public/en/am-i-trans.md',
       'public/en/diagnoses.md',
       'public/en/treatment.md',
       'public/en/causes.md',
