@@ -36,13 +36,13 @@ classes:
 
 4. [Gender Euphorie](/de/euphorie)
 
-5. [Physical Dysphoria](/en/physical-dysphoria)
+5. [Körperliche Dysphorie](/de/körperliche-dysphorie)
 
-6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
+6. [Biochemische Dysphorie](/de/biochemische-dysphorie)
 
-7. [Social Dysphoria](/en/social-dysphoria)
+7. [Soziale Dysphorie](/de/soziale-dysphorie)
 
-8. [Societal Dysphoria](/en/societal-dysphoria)
+8. [Gesellschaftliche Dysphorie](/de/gesellschaftliche-dysphorie)
 
 9. [Sexual Dysphoria](/en/sexual-dysphoria)
 
