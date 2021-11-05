@@ -21,7 +21,7 @@ tweets:
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Gen·der</strong> - <em>Substantiv, *n*</em><br>
+    <strong>Gen·der</strong> - <em>Substantiv, n</em><br>
     Die Bandbreite der Merkmale, welche sich auf Weiblichkeit und Männlichkeit beziehen und zwischen ihnen unterscheiden. Dazu kann je nach Kontext das biologische Geschlecht, geschlechtsbasierte soziale Strukturen (d.h. Geschlechterrollen) oder die Geschlechtsidentität (das persönliche Empfinden des eigenen Geschlechts) gehören.
   </blockquote>
 </div>
@@ -86,7 +86,7 @@ Gender beeinflusst auch die Erwartungen, die das Gehirn an die Umgebung hat, in 
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Ha·bi·tus</strong> - <em>Substantiv, *m*</em><br>
+  <strong>Ha·bi·tus</strong> - <em>Substantiv, m</em><br>
   Sozial verwurzelte Gewohnheiten, Fähigkeiten und Dispositionen. Die Art und Weise, wie ein Mensch die Welt wahrnimmt und darauf reagiert.
 </blockquote></div>
 }!}
