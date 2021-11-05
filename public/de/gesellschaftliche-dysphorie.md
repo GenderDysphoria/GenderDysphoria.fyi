@@ -8,8 +8,8 @@ lang: de
 siblings:
   prev: /de/soziale-dysphorie
   prevCaption: Soziale Dysphorie
-  next: /en/sexual-dysphoria
-  nextCaption: Sexual Dysphoria
+  next: /de/sexuelle-dysphorie
+  nextCaption: Sexuelle Dysphorie
 classes:
   - gdb
 tweets:

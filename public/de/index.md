@@ -44,11 +44,11 @@ classes:
 
 8. [Gesellschaftliche Dysphorie](/de/gesellschaftliche-dysphorie)
 
-9. [Sexual Dysphoria](/en/sexual-dysphoria)
+9. [Sexuelle Dysphorie](/de/sexuelle-dysphorie)
 
-10. [Presentational Dysphoria](/en/presentational-dysphoria)
+10. [Präsentationsdysphorie](/de/präsentationsdysphorie)
 
-11. [Existential Dysphoria](/en/existential-dysphoria)
+11. [Existentielle Dysphorie](/de/existentielle-dysphorie)
 
 12. [Managed Dysphoria](/en/managed-dysphoria)
 
