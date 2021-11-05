@@ -8,8 +8,8 @@ lang: de
 siblings:
   prev: /de/präsentationsdysphorie
   prevCaption: Präsentationsdysphorie
-  next: /en/managed-dysphoria
-  nextCaption: Managed Dysphoria
+  next: /de/gemanagte-dysphorie
+  nextCaption: Gemanagte Dysphorie
 classes:
   - gdb
 ---

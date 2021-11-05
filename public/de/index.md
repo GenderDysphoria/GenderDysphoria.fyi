@@ -50,15 +50,15 @@ classes:
 
 11. [Existentielle Dysphorie](/de/existentielle-dysphorie)
 
-12. [Managed Dysphoria](/en/managed-dysphoria)
+12. [Gemanagte Dysphorie](/de/gemanagte-dysphorie)
 
-13. [Impostor Syndrome](/en/impostor-syndrome)
+13. [Impostor Syndrom](/de/impostor-syndrom)
 
-14. [Am I Trans?](/en/am-i-trans)
+14. [Bin ich Trans?](/de/bin-ich-trans)
 
-15. [Clinical Diagnoses](/en/diagnoses)
+15. [Klinische Diagnosen](/de/diagnose)
 
-16. [Treating Gender Dysphoria](/en/treatment)
+16. [Die Behandlung von Gender Dysphorie](/de/behandlung)
 
 17. [Causes of Gender Dysphoria](/en/causes)
 
