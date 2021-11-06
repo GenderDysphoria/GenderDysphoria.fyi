@@ -7,8 +7,8 @@ lang: de
 siblings:
   prev: /de/diagnose
   prevCaption: Klinische Diagnosen
-  next: /en/causes
-  nextCaption: Causes of Gender Dysphoria
+  next: /de/ursache
+  nextCaption: Die Ursache des Geschlechtskonflikts
 classes:
   - gdb
 ---

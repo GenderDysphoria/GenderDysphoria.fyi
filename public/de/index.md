@@ -58,17 +58,17 @@ classes:
 
 15. [Klinische Diagnosen](/de/diagnose)
 
-16. [Die Behandlung von Gender Dysphorie](/de/behandlung)
+16. [Behandlung von Gender Dysphorie](/de/behandlung)
 
-17. [Causes of Gender Dysphoria](/en/causes)
+17. [Ursache des Geschlechtskonflikts](/de/ursache)
 
-18. [Chromosomes](/en/chromosomes)
+18. [Chromosomen](/de/chromosomen)
 
-19. [How Hormones Work](/en/hormones)
+19. [Wie Hormone funktionieren](/de/hormone)
 
-20. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+20. [Androgene zweite Pubertät 101](/de/androgene-zweite-pubertät)
 
-21. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+21. [Östrogene zweite Pubertät 101](/de/östrogene-zweite-pubertat)
 
 22. [Conclusion](/en/conclusion)
 
