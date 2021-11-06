@@ -1,0 +1,12 @@
+
+$font-secondary-comp: 'Helvetica Neue', Helvetica, serif;
+
+html[lang=de] {
+  .card .card-body {
+    font-family: $font-secondary-comp;
+  }
+
+  .markup blockquote {
+    font-family: $font-secondary-comp;
+  }
+}
