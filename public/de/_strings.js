@@ -1,13 +1,13 @@
 
 module.exports = exports = {
   SITE_TITLE: 'Das ist Gender Dysphorie',
-  SITE_DESCRIPTION: 'A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.',
+  SITE_DESCRIPTION: 'Eine Informationsquelle für all jene die ihr Geschlecht in Frage stellen, schon auf Ihrer persönlichen gender-Reise sind oder einfach mehr darüber lernen mochten was es bedeutet Transgender zu sein.',
 
   HEADER_TITLE: '<abbr title="Zu Ihrer Information">FYI</abbr>, das ist Gender Dysphorie',
-  PATREON_FOOTER_BODY: 'This site is made possible thanks to contributions from the community. If you have found this site invaluable, please consider <a href="https://www.patreon.com/curvyandtrans">making a pledge on patreon</a> or a <a href="https://ko-fi.com/curvyandtrans">donation via Ko-fi</a>.',
-  PATREON_FOOTER_THANKS: 'Special thanks to the following patreon supporters:',
-  FOOTER_COPYRIGHT: 'Site text, website code and original graphics are <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed CC BY-NC-SA.</a>',
-  FOOTER_COPYRIGHT2: 'and Other Contributors',
+  PATREON_FOOTER_BODY: 'Diese Seite wurde ermöglicht dank der Unterstützung der Community. Wenn Ihnen diese Seite geholfen hat dann können Sie Spenden <a href="https://www.patreon.com/curvyandtrans">via Patreon</a> oder <a href="https://ko-fi.com/curvyandtrans">Ko-fi</a>.',
+  PATREON_FOOTER_THANKS: 'Ein besonderes Dankeschön geht an folgende Patreon Unterstützer:',
+  FOOTER_COPYRIGHT: 'Dieser Text, der Webseit-Code und die ursprünglichen Bilder sind <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/"> lizensiert unter CC BY-NC-SA.</a>',
+  FOOTER_COPYRIGHT2: 'und anderen',
 
   'TRANS_TWITTER_TOPICS': 'Trans Twitter Topics',
 
