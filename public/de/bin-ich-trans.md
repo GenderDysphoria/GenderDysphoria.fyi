@@ -14,7 +14,7 @@ classes:
   - gdb
 ---
 
-<div class="cw"><p><strong>Anmerkung des Kurators</strong>: Die folgende Seite kommt aus <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">einem fantastischen Beitrag von Cassie LaBelle</a> und wurde mit ihrer Erlaubnis übersetzt und weiterverteilt. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">Sie können mehr von ihren Texten auf Medium lesen.</a></div>
+<div class="cw"><p><strong>Anmerkung des Kurators</strong>: Der nachfolgender Text wurde <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">von Cassie LaBelle auf Medium veröffentlicht</a> und wird mit ihrer Erlaubnis übersetzt und hier geteilt. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">Auf Medium können Sie mehr von Ihr lesen.</a></div>
 
 # Bin ich Trans?
 

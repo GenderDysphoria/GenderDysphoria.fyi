@@ -9,7 +9,7 @@ siblings:
   prev: /de/hormone
   prevCaption: Wie Hormone funktionieren
   next: /de/östrogene-zweite-pubertat
-  nextCaption: Östrogene zweite Pubertät 101
+  nextCaption: Östrogene zweite Pubertät
 classes:
   - gdb
 tweets:

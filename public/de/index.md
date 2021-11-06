@@ -70,7 +70,7 @@ classes:
 
 21. [Östrogene zweite Pubertät 101](/de/östrogene-zweite-pubertat)
 
-22. [Conclusion](/en/conclusion)
+22. [Zusammenfassung](/de/zusammenfassung)
 
 {!{ </div> }!}
 
