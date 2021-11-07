@@ -24,7 +24,7 @@ siblings:
 }}
 }!}
 
-### Table of Contents:
+### Spis treści:
 
 {!{ <div class="two-column-list"> }!}
 
@@ -64,7 +64,7 @@ siblings:
 
 18. [Chromosomy](/pl/chromosomy)
 
-19. [Jak działają hormony](/en/hormony)
+19. [Jak działają hormony](/pl/hormony)
 
 20. [Drugie dojrzewanie androgenowe dla początkujących](/pl/drugie-dojrzewanie-T)
 

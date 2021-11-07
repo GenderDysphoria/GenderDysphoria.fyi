@@ -1,5 +1,5 @@
 ---
-date: "2020-10-22T23:57:20.188Z"
+date: "2021-10-22T23:57:20.188Z"
 title: "Zróżnicowanie rozwoju płci: nie tylko chromosomy"
 linkTitle: "Chromosomy"
 description: "DNA to bardziej sugestie niż zasady."
