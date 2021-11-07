@@ -8,8 +8,8 @@ lang: pl
 siblings:
   prev: /pl/tlumienie-dysforii
   prevCaption: Tłumienie dysforii
-  next: /pl/diagnoza
-  nextCaption: Diagnoza kliniczna
+  next: /pl/czy-jestem-trans
+  nextCaption: Czy jestem trans?
 classes:
   - gdb
 tweets:
