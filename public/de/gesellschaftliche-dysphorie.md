@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Gesellschaftliche Dysphorie"
 linkTitle: "Gesellschaftliche Dysphorie"
-description: "Because a Role is a Role, and a Toll is a Toll, and it's a heavy toll to live the wrong role."
+description: "Das Leben in der falschen Rolle fordert einen sehr hohen Tribut"
 preBody: '_disclaimer'
 lang: de
 siblings:

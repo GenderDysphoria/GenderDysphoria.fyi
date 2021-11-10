@@ -2,7 +2,7 @@
 date: "2021-11-04T12:06:06.311Z"
 title: "Die Gender Dysphorie Bibel"
 linkTitle: Einleitung
-description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
+description: "Ein Eintauchen in die Vielfalt der Arten, wie sich Gender-Dysphorie manifestiert und was es bedeutet, Transgender zu sein."
 preBody: '_disclaimer'
 lang: de
 siblings:

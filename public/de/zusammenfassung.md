@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Zusammenfassung"
 linkTitle: "Zusammenfassung"
-description: "Enough with the gatekeeping already."
+description: "GKein Gatekeeping mehr"
 preBody: '_disclaimer'
 lang: de
 siblings:

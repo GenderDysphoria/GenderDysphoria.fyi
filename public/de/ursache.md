@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Was ist die Ursache des Geschlechtskonflikts?"
 linkTitle: "Die Ursache des Geschlechtskonflikts"
-description: "It's the hormones, baby."
+description: "Chromosomen sind nur ein Ablenkungsmanöver, es sind die Hormone, die Sie im Auge behalten müssen"
 preBody: '_disclaimer'
 lang: de
 siblings:

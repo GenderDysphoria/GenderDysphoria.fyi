@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "Die Behandlung von Gender Dysphorie"
-description: "Transition is the cure."
+description: "Übergang ist das Heilmittel."
 preBody: '_disclaimer'
 lang: de
 siblings:

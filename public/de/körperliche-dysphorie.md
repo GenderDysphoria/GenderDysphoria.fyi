@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Körperliche Dysphorie"
 linkTitle: "Körperliche Dysphorie"
-description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
+description: "Körperliche Unzufriedenheit ist nur eine von vielen Formen der Geschlechtsdysphorie."
 preBody: '_disclaimer'
 lang: de
 siblings:

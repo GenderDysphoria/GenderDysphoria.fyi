@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Biochemische Dysphorie"
 linkTitle: "Biochemische Dysphorie"
-description: "The very real and biological factors of Gender Dysphoria that cause mental disturbance."
+description: "Die sehr realen und biologischen Faktoren der Geschlechtsdysphorie, die psychische Störungen verursachen."
 preBody: '_disclaimer'
 lang: de
 siblings:

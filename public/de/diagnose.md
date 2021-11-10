@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie wird Gender Dysphorie diagnostiziert?"
 linkTitle: "Klinische Diagnosen"
-description: "It's clinical."
+description: "Es ist klinisch."
 preBody: '_disclaimer'
 lang: de
 classes:

@@ -1,0 +1,34 @@
+{
+  "output": "public/de/druckbar.md",
+  "sources": [
+    "public/de/index.md",
+    "public/de/was-ist-gender.md",
+    "public/de/geschichte.md",
+    "public/de/euphorie.md",
+    "public/de/körperliche-dysphorie.md",
+    "public/de/biochemische-dysphorie.md",
+    "public/de/soziale-dysphorie.md",
+    "public/de/gesellschaftliche-dysphorie.md",
+    "public/de/sexuelle-dysphorie.md",
+    "public/de/präsentationsdysphorie.md",
+    "public/de/existentielle-dysphorie.md",
+    "public/de/gemanagte-dysphorie.md",
+    "public/de/impostor-syndrom.md",
+    "public/de/bin-ich-trans.md",
+    "public/de/diagnose.md",
+    "public/de/behandlung.md",
+    "public/de/ursache.md",
+    "public/de/chromosomen.md",
+    "public/de/hormone.md",
+    "public/de/androgene-zweite-pubertät.md",
+    "public/de/östrogene-zweite-pubertat.md",
+    "public/de/zusammenfassung.md"
+  ],
+  "meta": {
+    "title": "Die Gender Dysphorie Bibel",
+    "lang": "de",
+    "description": "Eine ressource für diejenigen, die ihr geschlecht hinterfragen, sich bereits auf einer Gender-Reise befinden oder einfach nur mehr darüber erfahren möchten, was es bedeutet, transgender zu sein.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Androgene zweite Pubertät 101"
 linkTitle: "Androgene Pubertät"
-description: "What to expect from masculinizing HRT"
+description: "Was ist von einer maskulinisierenden Hormonersatztherapie zu erwarten?"
 preBody: '_disclaimer'
 lang: de
 siblings:

@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Präsentationsdysphorie"
 linkTitle: "Präsentationsdysphorie"
-description: "Hoodies and sweatpants never go out of style."
+description: "Hoodies und Jogginghosen kommen nie aus der Mode."
 preBody: '_disclaimer'
 lang: de
 siblings:

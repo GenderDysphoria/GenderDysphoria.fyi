@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Östrogene zweite Pubertät 101"
 linkTitle: Östrogene Pubertät
-description: "What to expect from feminizing HRT"
+description: "Was Sie von einer feminisierenden Hormonersatztherapie erwarten können"
 preBody: '_disclaimer'
 lang: de
 siblings:
