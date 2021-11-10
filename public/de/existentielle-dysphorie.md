@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Existentielle Dysphorie"
 linkTitle: "Existentielle Dysphorie"
-description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
+description: "Ich bereue nicht die Dinge, die ich getan habe, ich bereue die Dinge, zu denen ich keine Gelegenheit hatte."
 preBody: '_disclaimer'
 lang: de
 siblings:

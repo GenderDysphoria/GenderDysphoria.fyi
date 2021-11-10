@@ -1,0 +1,33 @@
+{
+  "output": "public/es/imprimible.md",
+  "sources": [
+    "public/es/index.md",
+    "public/es/que-es-el-genero.md",
+    "public/es/historia.md",
+    "public/es/euforia.md",
+    "public/es/disforia-fisica.md",
+    "public/es/disforia-bioquimica.md",
+    "public/es/disforia-social.md",
+    "public/es/disforia-societal.md",
+    "public/es/disforia-sexual.md",
+    "public/es/disforia-de-presentacion.md",
+    "public/es/disforia-historica.md",
+    "public/es/disforia-gestionada.md",
+    "public/es/sindrome-del-impostor.md",
+    "public/es/diagnosticos.md",
+    "public/es/tratamiento.md",
+    "public/es/causas.md",
+    "public/es/cromosomas.md",
+    "public/es/hormonas.md",
+    "public/es/segunda-pubertad-masc.md",
+    "public/es/segunda-pubertad-fem.md",
+    "public/es/conclusion.md"
+  ],
+  "meta": {
+    "title": "La Biblia de la Disforia de Género",
+    "lang": "es",
+    "description": "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_declaracion"
+  }
+}

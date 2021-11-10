@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Eine kurze Geschichtsstunde zu Gender Dysphorie"
 linkTitle: "Eine Geschichtstunde zu Gender Dysphorie"
-description: "The origins of Gender Dysphoria and the current meaning today."
+description: "Die Ursprünge der Geschlechtsdysphorie und die heutige Bedeutung."
 preBody: '_disclaimer'
 lang: de
 siblings:

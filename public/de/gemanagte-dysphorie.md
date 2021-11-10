@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Gemanagte Dysphorie: Das verkappte Gender"
 linkTitle: "Gemanagte Dysphorie"
-description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
+description: "Die art und weise, wie wir damit fertig geworden sind."
 preBody: '_disclaimer'
 lang: de
 siblings:

@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Bin ich Trans?"
 linkTitle: "Bin ich Trans?"
-description: "A Roadmap To Figuring Out The Toughest Question"
+description: "Eine Karte, die ihnen hilft, die schwierigsten fragen zu beantworten"
 preBody: '_disclaimer'
 lang: de
 siblings:
