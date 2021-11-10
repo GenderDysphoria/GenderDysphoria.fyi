@@ -21,3 +21,4 @@ node_modules
 /published
 /analytics/database.sqlite
 /analytics/RAW
+/public/gdb.zip
