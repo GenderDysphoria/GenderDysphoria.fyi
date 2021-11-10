@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Sexuelle Dysphorie"
 linkTitle: "Sexuelle Dysphorie"
-description: "Sometimes a Cigar doesn't want to be smoked."
+description: "Manchmal möchte eine Zigarre nicht geraucht werden."
 preBody: '_disclaimer'
 lang: de
 siblings:

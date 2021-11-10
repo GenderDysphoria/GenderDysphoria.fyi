@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Wie sich Gender Dysphorie äußert: Soziale Dysphorie"
 linkTitle: "Soziale Dysphorie"
-description: "Pronouns and Deadnames and Gendering, oh my."
+description: "Pronomen, Totenamen und Geschlechtsannahme."
 preBody: '_disclaimer'
 lang: de
 siblings:

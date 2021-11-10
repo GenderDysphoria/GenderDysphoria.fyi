@@ -1,7 +1,7 @@
 ---
 date: "2021-11-04T22:05:11.183"
 title: "Was ist Gender?"
-description: "How do we define the concept of Gender, and how does it differ from Sex?"
+description: "Wie definieren wir das Konzept von Gender und wie unterscheidet es sich von Sex?"
 preBody: '_disclaimer'
 lang: de
 siblings:

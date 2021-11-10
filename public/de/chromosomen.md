@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Störungen der Geschlechtsentwicklung: Gender ist nicht chromosomal"
 linkTitle: "Chromosomen"
-description: "DNA is more what you'd call guidelines, than actual rules."
+description: "DNA ist eher das, was man richtlinien nennt, als tatsächliche regeln."
 preBody: '_disclaimer'
 lang: de
 siblings:

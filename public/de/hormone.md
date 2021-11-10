@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Hormone: Wie sie funktionieren"
 linkTitle: "Wie Hormone funktionieren"
-description: "It's nothing like magnets."
+description: "Schlüssel, Schlösser und Autozündungen"
 preBody: '_disclaimer'
 lang: de
 siblings:
