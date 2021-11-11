@@ -9,7 +9,7 @@ classes:
   - gdb
 siblings:
   next: /pl/czym-jest-plec
-  nextCaption: Czy jest płeć?
+  nextCaption: Czym jest płeć?
 ---
 
 
