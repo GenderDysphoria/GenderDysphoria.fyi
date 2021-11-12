@@ -2,7 +2,7 @@
 date: "2021-10-27T10:51:58.380Z"
 title: "Hormony: jak one działają?"
 linkTitle: "Jak działają hormony"
-description: "To nijak nie przypomina magnesów."
+description: "Klucze, zamki, zapłony."
 preBody: '_disclaimer'
 lang: pl
 siblings:
