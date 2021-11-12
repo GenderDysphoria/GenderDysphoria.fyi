@@ -1,0 +1,33 @@
+{
+  "output": "public/pl/do-druku.md",
+  "sources": [
+    "public/pl/index.md",
+    "public/pl/czym-jest-plec.md",
+    "public/pl/historia.md",
+    "public/pl/euforia.md",
+    "public/pl/dysforia-fizyczna.md",
+    "public/pl/dysforia-biochemiczna.md",
+    "public/pl/dysforia-spoleczna.md",
+    "public/pl/dysforia-roli-spolecznej.md",
+    "public/pl/dysforia-seksualna.md",
+    "public/pl/dysforia-prezentacyjna.md",
+    "public/pl/dysforia-egzystencjalna.md",
+    "public/pl/ukryta-dysforia.md",
+    "public/pl/syndrom-oszusta.md",
+    "public/pl/czy-jestem-trans.md",
+    "public/pl/diagnoza.md",
+    "public/pl/leczenie.md",
+    "public/pl/przyczyny.md",
+    "public/pl/chromosomy.md",
+    "public/pl/hormony.md",
+    "public/pl/drugie-dojrzewanie-T.md",
+    "public/pl/drugie-dojrzewanie-E.md",
+    "public/pl/podsumowanie.md"
+  ],
+  "meta": {
+    "title": "Biblia dysforii płciowej",
+    "description": "O tym, że dysforia objawia się na wiele sposobów. A także co to znaczy być trans.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
