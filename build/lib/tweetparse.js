@@ -151,7 +151,7 @@ module.exports = exports = function (tweets) {
 
     const langs = Object.keys(tweet.full_text_i18n);
     for (const lang of langs) {
-      tweet.html_i18n[lang] = parseStep1(tweet.full_text_i18n[lang] || tweet.text_i18n[lang]);
+      tweet.html_i18n[lang] = parseStep1(tweet.full_text_i18n[lang]);
     }
 
     if (tweet.quoted_status) {
