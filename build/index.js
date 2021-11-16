@@ -10,6 +10,7 @@ const { sortBy } = require('lodash');
 
 const getEngines = require('./engines');
 const primeTweets = require('./page-tweets');
+const i18nTweets = require('./page-tweets').i18n;
 const pageWriter = require('./page-writer');
 const pageConcatinator = require('./page-concatinator');
 const evaluate = require('./evaluate');
@@ -123,6 +124,23 @@ exports.pages = function () {
   }
 
   fn.displayName = 'buildPages';
+  return fn;
+};
+
+let twitterProcessing = false;
+
+exports.twitter = function () {
+  async function fn () {
+    if (twitterProcessing) {
+      return;
+    }
+
+    twitterProcessing = true;
+    await i18nTweets();
+    twitterProcessing = false;
+  }
+
+  fn.displayName = 'buildTwitter';
   return fn;
 };
 

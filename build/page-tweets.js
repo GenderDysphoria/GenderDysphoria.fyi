@@ -177,3 +177,31 @@ exports.attachTweets = function (tweetids, tweets) {
     return dict;
   }, {});
 };
+
+exports.i18n = async function() {
+  const [ twitterBackup, twitterCache, twitterI18N ] = await Promise.all([
+    fs.readJson(resolve('twitter-backup.json')).catch(() => ({})),
+    fs.readJson(resolve('twitter-cache.json')).catch(() => ({})),
+    fs.readJson(resolve('twitter-i18n.json')).catch(() => ({})),
+  ]);
+
+  const twitterCacheBkp  = JSON.stringify(twitterCache,  null, 2);
+
+  // Delete translation
+  for (const id in twitterCache) {
+    twitterCache[id] = tweetparse(twitterBackup[id]);
+  }
+
+  // Make sure no translation is forgotten
+  for (const id in twitterI18N) {
+    if (id in twitterBackup) {
+      twitterCache[id] = applyI18N(twitterBackup[id], twitterI18N);
+      twitterCache[id] = tweetparse(twitterCache[id]);
+    }
+  }
+
+  const twitterCacheJson  = JSON.stringify(twitterCache,  null, 2);
+  if (twitterCacheBkp != twitterCacheJson) {
+    await fs.writeFile(resolve('twitter-cache.json'),  twitterCacheJson);
+  }
+}
