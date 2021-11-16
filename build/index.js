@@ -53,6 +53,9 @@ exports.everything = function (prod = false) {
     posts = sortBy(posts, 'date');
     posts.reverse();
 
+    // Process i18n for tweets
+    await i18nTweets();
+
     const assets = [ ...PostFiles.assets, ...PublicFiles.assets ];
 
     const [ tasks ] = await Promise.all([
@@ -136,7 +139,12 @@ exports.twitter = function () {
     }
 
     twitterProcessing = true;
-    await i18nTweets();
+    try {
+      await i18nTweets();
+    } catch (exception_var) {
+      twitterProcessing = false;
+      throw exception_var;
+    }
     twitterProcessing = false;
   }
 

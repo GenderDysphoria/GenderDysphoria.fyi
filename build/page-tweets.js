@@ -30,7 +30,11 @@ function applyI18N(original_tweet, twitter_i18n) {
     // If yes, add the translations
     const originalLang = tweet["lang"] || "x-original";
     tweet.full_text_i18n = twitter_i18n[id].full_text_i18n;
-    tweet.full_text_i18n[originalLang] = tweet.full_text;
+    if (originalLang in tweet.full_text_i18n && tweet.full_text_i18n[originalLang] != tweet.full_text) {
+      log.warn("Original text not matching for tweet "+id, { expected: tweet.full_text, got: tweet.full_text_i18n[originalLang]});
+    } else {
+      tweet.full_text_i18n[originalLang] = tweet.full_text;
+    }
   }
 
   // Return the tweet with the translations
@@ -38,12 +42,11 @@ function applyI18N(original_tweet, twitter_i18n) {
 }
 
 module.exports = exports = async function tweets (pages) {
-  const [ twitter, twitterBackup, twitterCache, twitterI18N ] = await Promise.all([
+  const [ twitter, twitterBackup, twitterCache ] = await Promise.all([
     fs.readJson(resolve('twitter-config.json')).catch(() => null)
       .then(getTwitterClient),
     fs.readJson(resolve('twitter-backup.json')).catch(() => ({})),
     fs.readJson(resolve('twitter-cache.json')).catch(() => ({})),
-    fs.readJson(resolve('twitter-i18n.json')).catch(() => ({})),
   ]);
 
   let tweetsNeeded = [];
@@ -72,7 +75,6 @@ module.exports = exports = async function tweets (pages) {
         tweetsNeeded.push(tweet.quoted_status_id_str);
       }
       twitterBackup[tweet.id_str] = tweet;
-      tweet = applyI18N(tweet, twitterI18N);
       twitterCache[tweet.id_str] = tweetparse(tweet);
       loaded.push(tweet.id_str);
     }
@@ -91,8 +93,7 @@ module.exports = exports = async function tweets (pages) {
 
       if (tweet) {
         log('Pulled tweet from backup ' + id);
-        twitterCache[id] = applyI18N(twitterBackup[id], twitterI18N);
-        twitterCache[id] = tweetparse(twitterCache[id]);
+        twitterCache[id] = tweetparse(twitterBackup[id]);
       } else {
         twitterCache[id] = false;
       }
@@ -180,17 +181,12 @@ exports.attachTweets = function (tweetids, tweets) {
 
 exports.i18n = async function() {
   const [ twitterBackup, twitterCache, twitterI18N ] = await Promise.all([
-    fs.readJson(resolve('twitter-backup.json')).catch(() => ({})),
+    fs.readJson(resolve('twitter-backup.json')),
     fs.readJson(resolve('twitter-cache.json')).catch(() => ({})),
-    fs.readJson(resolve('twitter-i18n.json')).catch(() => ({})),
+    fs.readJson(resolve('twitter-i18n.json')),
   ]);
 
   const twitterCacheBkp  = JSON.stringify(twitterCache,  null, 2);
-
-  // Delete translation
-  for (const id in twitterCache) {
-    twitterCache[id] = tweetparse(twitterBackup[id]);
-  }
 
   // Make sure no translation is forgotten
   for (const id in twitterI18N) {

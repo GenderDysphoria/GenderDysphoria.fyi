@@ -213,8 +213,6 @@ module.exports = exports = function (tweets) {
       tweet.user.name_html = twemoji.parse(tweet.user.name);
     }
 
-    // const ans = deepPick(tweet, schema);
-    // console.log(ans);
     return deepPick(tweet, schema);
   }
 
