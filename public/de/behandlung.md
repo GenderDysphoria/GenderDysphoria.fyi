@@ -61,9 +61,9 @@ Geschlechtsangleichende Operationen werden normalerweise in drei separate Katego
   - Vaginoplastik (Schaffung einer Vaginalhöhle),
   - Vulvaplastie (Erzeugung einer Vulva mit oder ohne Tiefe).
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Zu Ihre</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Zu Ihre Information</h4> }!}
 
-Zur Information: Es gibt neue experimentelle Operationstechniken für die Genital-OP für nicht-binäre AMAB-Personen. Dabei wird versucht eine Vaginoplastik *ohne* Entfernung des Penis durchzuführen. Diese spezielle Operation ist äußerst experimentell und wurde in den Vereinigten Staaten weniger als ein Dutzend Mal durchgeführt. Dennoch sind die Ergebnisse vielversprechend aus.
+Es gibt neue experimentelle Operationstechniken für die Genital-OP für nicht-binäre AMAB-Personen. Dabei wird versucht eine Vaginoplastik *ohne* Entfernung des Penis durchzuführen. Diese spezielle Operation ist äußerst experimentell und wurde in den Vereinigten Staaten weniger als ein Dutzend Mal durchgeführt. Dennoch sind die Ergebnisse vielversprechend aus.
 
 Eine weitere Option für die nicht-binäre Po-Operation ist die Genital-Nullification, die darauf abzielt, die äußeren Genitalien vollständig zu entfernen und nur eine Harnröhrenöffnung zu hinterlassen.
 
