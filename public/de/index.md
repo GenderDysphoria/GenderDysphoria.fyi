@@ -106,7 +106,7 @@ Der Zweck dieser Website ist es, die vielen Arten aufzuzeigen, wie sich Gender D
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">
-<span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<span>Titelgrafik nach Werken von <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
 {{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
