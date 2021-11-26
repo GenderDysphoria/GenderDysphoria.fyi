@@ -5,13 +5,13 @@ linkTitle: "Chromosomy"
 description: "DNA to bardziej sugestie niż zasady."
 preBody: '_disclaimer'
 lang: pl
-classes:
-  - gdb
 siblings:
   prev: /pl/przyczyny
   prevCaption: Przyczyny dysforii płciowej
   next: /pl/hormony
   nextCaption: Jak działają hormony
+classes:
+  - gdb
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191

@@ -5,11 +5,11 @@ linkTitle: Wstęp
 description: "O tym, że dysforia objawia się na wiele sposobów. A także co to znaczy być trans."
 preBody: '_disclaimer'
 lang: pl
-classes:
-  - gdb
 siblings:
   next: /pl/czym-jest-plec
   nextCaption: Czym jest płeć?
+classes:
+  - gdb
 ---
 
 

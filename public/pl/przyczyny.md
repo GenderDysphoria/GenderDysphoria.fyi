@@ -5,6 +5,11 @@ linkTitle: "Przyczyny dysforii płciowej"
 description: "To hormony, kochanie."
 preBody: '_disclaimer'
 lang: pl
+siblings:
+  prev: /pl/leczenie
+  prevCaption: Leczenie dysforii płciowej
+  next: /pl/chromosomy
+  nextCaption: Ale... ale... co z chromosomami?
 classes:
   - gdb
 tweets:
@@ -15,11 +20,6 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224042620164296705
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
-siblings:
-  prev: /pl/leczenie
-  prevCaption: Leczenie dysforii płciowej
-  next: /pl/chromosomy
-  nextCaption: Ale... ale... co z chromosomami?
 ---
 
 # Co jest powodem niezgodności płci?

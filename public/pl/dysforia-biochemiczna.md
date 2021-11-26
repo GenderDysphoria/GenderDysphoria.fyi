@@ -5,6 +5,11 @@ linkTitle: "Dysforia biochemiczna"
 description: "Biologiczne czynniki dysforii płciowej, które powodują niepokój psychiczny."
 preBody: '_disclaimer'
 lang: pl
+siblings:
+  prev: /pl/dysforia-fizyczna
+  prevCaption: Dysforia fizyczna
+  next: /pl/dysforia-spoleczna
+  nextCaption: Dysforia społeczna
 classes:
   - gdb
 tweets:
@@ -18,11 +23,6 @@ tweets:
   - '1222742135067303937'
   - '1222743360034758656'
   - '1222743749920464896'
-siblings:
-  prev: /pl/dysforia-fizyczna
-  prevCaption: Dysforia fizyczna
-  next: /pl/dysforia-spoleczna
-  nextCaption: Dysforia społeczna
 ---
 
 # Dysforia biochemiczna

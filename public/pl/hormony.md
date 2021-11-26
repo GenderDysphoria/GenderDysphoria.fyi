@@ -8,7 +8,7 @@ lang: pl
 siblings:
   prev: /pl/chromosomy
   prevCaption: Chromosomy
-  next: /pl/drugie-dojrzewanie-M
+  next: /pl/drugie-dojrzewanie-T
   nextCaption: Drugie dojrzewanie androgenowe
 classes:
   - gdb
