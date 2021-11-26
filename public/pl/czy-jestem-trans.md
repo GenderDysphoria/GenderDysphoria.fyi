@@ -28,11 +28,11 @@ Niestety, nikt nigdy mi tego nie powiedział. Mój coming out był udany, więks
 
 ---
 
-Moja dobra przyjaciółka Lily wymyśliła frazę **"Główna dyrektywa w sprawie jajek"**, aby opisać fakt, że transpłciowe osoby mają niepisaną umowę, aby nie mówić osobom, które kwestionują swoją tożsamość płciową, czy są (bądź nie są) trans.
+Moja dobra przyjaciółka Lily wymyśliła frazę **"Prawo jajecznicy"**, aby opisać fakt, że transpłciowe osoby mają niepisaną umowę, aby nie mówić osobom, które kwestionują swoją tożsamość płciową, czy są (bądź nie są) trans.
 
-Gdy ktoś usłyszy, że jest trans, otwiera to drogę dla wyparcia, aktywuje mechanizmy obronne zbudowane przez zinternalizowaną transfobię i daje sporą szansę na wepchnięcie tej osoby głębiej do szafy czy nawet w transfobiczne poglądy. Nawet jeśli tak się nie stanie, podświadomość tej osoby może wypierać swoją dysforię, tłumacząc ją manipulacją i zmyleniem. Znacznie efektywniejszą strategią jest porozmawiać o swoich doświadczeniach z dysforią, przez co ta osoba może dostrzec wspólne punkty i dojść do własnego wniosku odnośnie swojej tożsamości płciowej. Dyrektywa nie zabrania pomagać w eksploracji tożsamości, zabrania jednak przypisywania komuś płci. Czy też, aby wyrazić to dobitniej, nikt nie może powiedzieć ci, czym jest matrix, jedynie pokazać.
+Gdy ktoś usłyszy, że jest trans, otwiera to drogę dla wyparcia, aktywuje mechanizmy obronne zbudowane przez zinternalizowaną transfobię i daje sporą szansę na wepchnięcie tej osoby głębiej do szafy czy nawet w transfobiczne poglądy. Nawet jeśli tak się nie stanie, podświadomość tej osoby może wypierać swoją dysforię, tłumacząc ją manipulacją i zmyleniem. Znacznie efektywniejszą strategią jest porozmawiać o swoich doświadczeniach z dysforią, przez co ta osoba może dostrzec wspólne punkty i dojść do własnego wniosku odnośnie swojej tożsamości płciowej. Prawo jajecznicy nie zabrania pomagać w eksploracji tożsamości, zabrania jednak przypisywania komuś płci. Czy też, aby wyrazić to dobitniej, nikt nie może powiedzieć ci, czym jest matrix, jedynie pokazać.
 
-Jestem pewna, że istnieją osoby trans, które nie przestrzegają głównej dyrektywy w sprawie jajek, ale nigdy ich nie spotkałam. To jedna z niewielu rzeczy, która zdaje się łączyć całą transpłciową społeczność, wliczając mnie. Nawet mimo tego, że pragnęłam zewnętrznego potwierdzenia bardziej niż czegokolwiek, widzę teraz, że prawdziwa akceptacja może pochodzić jedynie z głębi duszy. Jedyną osobą, która może ci powiedzieć, że jesteś trans, jesteś ty.
+Jestem pewna, że istnieją osoby trans, które nie przestrzegają prawa jajecznicy, ale nigdy ich nie spotkałam. To jedna z niewielu rzeczy, która zdaje się łączyć całą transpłciową społeczność, wliczając mnie. Nawet mimo tego, że pragnęłam zewnętrznego potwierdzenia bardziej niż czegokolwiek, widzę teraz, że prawdziwa akceptacja może pochodzić jedynie z głębi duszy. Jedyną osobą, która może ci powiedzieć, że jesteś trans, jesteś ty.
 
 Paradoksalnie większość ukrytych w szafie osób trans absolutnie nie potrafi zaufać głosowi duszy. Kiedy całe życie odczuwasz dokuczliwy konflikt między tym, jak świat cię postrzega, a tym, jak postrzegasz siebie, łatwo jest pozwolić innym mówić ci, "kim naprawdę jesteś". Nawet jeśli podświadomie czujesz, że wszystkim ludziom w twoim życiu umyka pewien fundamentalny fakt na temat twojej tożsamości, niemalże niemożliwym jest słuchać siebie bardziej niż innych.
 
@@ -41,7 +41,7 @@ Moim celem na dziś jest więc przekazanie ci pewnych informacji i ram myślowyc
 {!{
 <div class="gutter flex flex-end">
   <div class="card">
-    <div class="card-header"><strong>Dlaczego potrzebujemy głównej dyrektywy w sprawie jajek?</strong></div>
+    <div class="card-header"><strong>Dlaczego potrzebujemy prawa jajecznicy?</strong></div>
     <div class="card-body">
 }!}
 
@@ -57,7 +57,7 @@ Nawet kiedy ta osoba zaakceptuje twoje stwierdzenie, sam fakt, że usłyszała t
 
 I wreszcie, całym celem bycia trans jest samostanowienie i samorealizacja. Powiedzenie komuś, że jest trans, jest równie przymusowym przypisaniem co to, które poczynione zostało przy urodzeniu. Jeśli chcesz pomóc komuś w odkryciu siebie, odpowiedz o swoim życiu, jak działa dysforia, odeślij do tej strony, pomóż zobaczyć różnice między doświadczeniami tej osoby a osób cispłciowych.
 
-No chyba że zapyta cię, czy uważasz, że jest trans... wówczas główna dyrektywa przestaje obowiązywać.
+No chyba że zapyta cię, czy uważasz, że jest trans... wówczas prawo jajecznicy przestaje obowiązywać.
 
 {!{
     </div>
