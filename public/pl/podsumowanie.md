@@ -12,6 +12,6 @@ classes:
   - gdb
 ---
 
-## Podsumowanie
+# Podsumowanie
 
 lorem ipsum

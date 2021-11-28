@@ -24,7 +24,7 @@ classes:
 }}
 }!}
 
-### Spis treści:
+# Spis treści:
 
 {!{ <div class="two-column-list"> }!}
 
@@ -76,7 +76,7 @@ classes:
 
 <hr class="print-break-after print-hidden">
 
-## Wstęp
+# Wstęp
 
 {!{
 <div class="gutter"><blockquote>
