@@ -101,7 +101,7 @@ Vor dem selbst erkennen manifestierte sich die Dysphorie auf vielerlei sehr subt
 
 ### Ziehe in Betracht das etwas Wahres dran ist – die „NullHypotheCis“
 
-In der Mathematik gibt es die so genannte [„Nullhypothese“](https://de.wikipedia.org/wiki/Hypothese_(Statistik%29#Nullhypothese). Sie beschreibt etwas das als wahr angenommen wird, bis es sich als falsch erwiesen hat. Es ist eine Standardannahme, wie „unschuldig, bis die Schuld bewiesen ist“. Wenn Sie beispielsweise jemanden wegen Mordes verurteilen wollen, reichen Indizienbeweise einfach nicht aus. Sie brauchen im Allgemeinen einen überwältigenden physischen Beweis, ein Geständnis oder ein anderes offensichtliches Zeichen von Schuld.
+In der Mathematik gibt es die so genannte [„Nullhypothese“](https://de.wikipedia.org/wiki/Hypothese_%28Statistik%29#Nullhypothese). Sie beschreibt etwas das als wahr angenommen wird, bis es sich als falsch erwiesen hat. Es ist eine Standardannahme, wie „unschuldig, bis die Schuld bewiesen ist“. Wenn Sie beispielsweise jemanden wegen Mordes verurteilen wollen, reichen Indizienbeweise einfach nicht aus. Sie brauchen im Allgemeinen einen überwältigenden physischen Beweis, ein Geständnis oder ein anderes offensichtliches Zeichen von Schuld.
 
 [Dieser exzellente Artikel von Natalie Reed](https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/) argumentiert, dass Cis-Gender – also nicht Trans-Personen - von unserer Gesellschaft als Nullhypothese verstanden wird. Es wird angenommen, dass wir alle bei der Geburt unser zugewiesenes Geschlecht haben. Damit werden wir gedrängt uns überwältigende Beweise suchen zu müssen, um unsere Transidentität zu beweisen. Ansonsten gehen wir weiterhin davon aus, dass wir Cis sind.
 

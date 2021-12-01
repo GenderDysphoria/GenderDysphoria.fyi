@@ -221,7 +221,7 @@ Beim Beginn einer HRT kann es zu einem vollständigen Verlust des Sexualtriebs f
 
 {!{
 <div class="gutter flex">
-  <div class="card"><div class="card-body"><h4 class="card-title">Human Erogenous Zones:</h4>
+  <div class="card"><div class="card-body"><h4 class="card-title">Menschliche Erogene Zonen:</h4>
 {{import '~/img'
   images.erogenous
   link='https://www.researchgate.net/publication/301509880_Topography_of_Human_Erogenous_Zones#pf19'
