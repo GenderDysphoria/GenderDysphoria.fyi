@@ -99,6 +99,8 @@ If a trans person's first exposure to transness is a transmedicalist, this can s
 
 **Do not believe these lies.** They are bully tactics explicitly designed to gaslight and dismiss people's pain for self gratification.
 
+There are related hurtful concepts a trans person can internalize, revolving around seeing transition as a list of required actions. One such idea is a belief that a person shouldn't expect being gendered correctly or even complain about misgendering as long as they haven't changed their gender marker. In other words, legally conditioned pronoun respect, or translegalism. Not only can changing gender marker be a complicated, prolonged process, not only cannot some people afford to out themselves by pursuing it, but also most countries wouldn't allow a gender marker outside of the gender binary. Translegalism convinces a person that they deserve misgendering because of their ID.
+
 ### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism
 
 [Gender Essentialism](https://en.wikipedia.org/wiki/Gender_essentialism) is the belief that there are an innate attributes to a person's existence that are derived based on what sex organs the person is born with. TERF and GC ideology was born out of the lesbian separatist movement of second wave feminism and fully denies the existence of transgender biology and non-binary identities. The movement has been largely overtaken by right-wing reactionaries, racists, and homophobes, and is now being bolstered by evangelical Christian organizations.
