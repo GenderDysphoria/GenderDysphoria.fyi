@@ -50,7 +50,7 @@ Das menschliche Geschlecht wird in drei Kategorien unterteilt:
 - **[Phänotyp](https://de.wikipedia.org/wiki/Ph%C3%A4notyp)**: Die beobachtbaren primären und sekundären Geschlechtsmerkmale (Genitalien, Fett- und Muskelverteilung, Knochenstruktur usw.)
 - **[Gender](https://de.wikipedia.org/wiki/Gender)**: Das interne mentale Modell des eigenen Geschlechts einer Person.
 
-Jeder dieser drei Aspekte kann in einen weitläufigen Wertebereich fallen. Im Biologieunterricht der Sekundarstufe wurde Ihnen wahrscheinlich beigebracht, dass der Genotyp binär ist, entweder weiblich (XX) oder männlich (XY) auch wenn es in der Realität duzende anderer Permutationen gibt, die beim Menschen auftreten können.
+Jeder dieser drei Aspekte kann in einen weitläufigen Wertebereich fallen. Im Biologieunterricht der Sekundarstufe wurde Ihnen wahrscheinlich beigebracht, dass der Genotyp binär ist, entweder weiblich (XX) oder männlich (XY) auch wenn es in der Realität dutzende anderer Permutationen gibt, die beim Menschen auftreten können.
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
