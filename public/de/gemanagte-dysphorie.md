@@ -40,12 +40,12 @@ Das Aufwachsen, während Sie Ihre Identität verbergen - auch wenn Sie vielleich
 
 Weil nicht-geschlechtskonformen Kindern so viel Missbrauch und Abneigung entgegengebracht wird, lernen viele Trans-Personen aus purer Notwendigkeit heraus, Ihre Persönlichkeit zu verbergen. Viele Transgender sprechen von einer Lebensphase, in der sie versuchten, sich auf ihr zugewiesenes Geschlecht einzulassen, Männlichkeit oder Weiblichkeit bis zum Äußersten zu zeigen, um zu versuchen, sich selbst zu „reparieren“. Dies führt zu Unterdrückungstendenzen, die sogar oberflächlich giftig erscheinen können, aber einfach das Ergebnis des Versuchs sind, jeden Teil ihres wahren Selbst zu verbergen. Beispiele hierfür sind:
 
-- Das wachsen lassen und das akribische Pflegen von Gesichtshaar (der sogenannte „Denial Beard“).
+- Das Wachsen lassen und das akribische Pflegen von Gesichtshaar (der sogenannte „Denial Beard“).
 - Die Meisterung der Make-up-Kunst, um einen möglichst perfekten Femme-Look zu haben.
 - Kleidung und Präsentation *extrem männlich* oder *extrem weiblich*.
 - Vermeiden von Gesprächen über Mode oder gespieltes Desinteresse. 
-- Sie Dissoziieren, wann immer das Gespräch auf geschlechtsspezifische Themen wie Modegespräche oder geschlechtsspezifische Aktivitäten gelenkt wird.
-- Sie Arbeiten wie ein Besessener (AMABs) und fokussieren sich ganz auf Ihre Kariere.
+- Sie dissoziieren, wann immer das Gespräch auf geschlechtsspezifische Themen wie Modegespräche oder geschlechtsspezifische Aktivitäten gelenkt wird.
+- Sie arbeiten wie besessen (AMABs) und fokussieren sich ganz auf Ihre Karriere.
 - Annahme einer stark stereotypen Geschlechterrolle in einer Beziehung (z.B. die pflichtbewusst bescheidene Hausfrau).
 - Sie heiraten eventuell und haben Kinder - in der Erwartung, dass sie dadurch das „reparieren“ können, was bei Ihnen nicht stimmt.
 - Sie nehmen eine ultra-konservative Haltung gegenüber Geschlecht und Sexualität ein.

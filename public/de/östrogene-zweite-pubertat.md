@@ -199,7 +199,7 @@ Ohne frei fließendes Testosteron sinkt der DHT-Spiegel im Blutkreislauf deutlic
 
 Dies hat jedoch zur Folge, dass langsam der Schwellkörper verkümmert. Längere Atrophie führt zu einer Schrumpfung des gesamten Organs, was gut sein kann (weniger Dysphorie) oder schlecht (weniger Material für Vaginoplastik). Die Form des Penis ändert sich und wird oft konischer. Die Eichel ist der erste Teil, der schrumpft und verliert eventuell die Fähigkeit steif zu werden. Penetrativer Sex wird schwieriger und Erektionen selbst können schmerzhaft sein.
 
-Dem kann durch regelmäßige Erektionen entgegenwirken (wenn es die Dysphorie zulässt), aber auch das das kann mit der Zeit schwieriger werden.
+Dem kann durch regelmäßige Erektionen entgegengewirkt werden (wenn es die Dysphorie zulässt), aber auch das das kann mit der Zeit schwieriger werden.
 
 ##### Klares Ejakulat
 

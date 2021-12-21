@@ -87,7 +87,7 @@ Wenn Sie beim Hinterfragen Ihres Geschlechts noch nicht zu einem Punkt gekommen 
 
 Es überrascht Sie vielleicht zu hören, dass ich es auch nicht wirklich hasste, vor meinem Coming-out als Mann gesehen zu werden. Es war für mich keine ständige Quelle des Elends. Es war halt einfach, wie es war. Ich habe gelernt damit zu leben denn ich kannte es ja nicht anders. Viele Leute glauben, dass Sie nur dann Trans sein können, wenn Sie sich aktiv verletzt fühlen, wenn Sie als Ihr Geburtsgeschlecht gesehen werden. Dieses Gefühl stellt sich normalerweise erst ein, wenn Sie mit der Transition begonnen haben und endlich wissen, wer Sie sind. Vor der Selbstakzeptanz wird sich Ihre Beziehung zu Ihrem Geburtsgeschlecht wahrscheinlich eher wie gefühlsmäßige Diskrepanz statt wie eine offene Wunde anfühlen.
 
-Unzählige Male habe ich von Transfemininen-Personen unter der Hand folgendes: „Nun, ich hasse es nicht, ein Mann zu sein, und Männer haben teilweise institutionelle Privilegien. Ich glaube nicht, dass ich mich dafür entschieden hätte eine Frau zu sein, wenn ich die Wahl gehabt hätte. Ich möchte diese Privilegien nicht aufgeben“. Diese vermeintlichen Privilegien sind für Sie eine wichtige Sache, aber Sie dürfen es nicht als „Belohnung“ ansehen, die Sie für das ewige Unbehagen ein Mann zu sein bekommen. Männer genießen es, Männer zu sein, und sie würden es immer noch genießen, Männer zu sein, ohne ihre sozialen Privilegien. Wenn diese Privilegien das Einzige sind, was Sie an Männlichkeit mögen, dann bedeutet das wahrscheinlich etwas.
+Unzählige Male habe ich von Transfemininen-Personen unter der Hand folgendes gehört: „Nun, ich hasse es nicht, ein Mann zu sein, und Männer haben teilweise institutionelle Privilegien. Ich glaube nicht, dass ich mich dafür entschieden hätte eine Frau zu sein, wenn ich die Wahl gehabt hätte. Ich möchte diese Privilegien nicht aufgeben“. Diese vermeintlichen Privilegien sind für Sie eine wichtige Sache, aber Sie dürfen es nicht als „Belohnung“ ansehen, die Sie für das ewige Unbehagen ein Mann zu sein bekommen. Männer genießen es, Männer zu sein, und sie würden es immer noch genießen, Männer zu sein, ohne ihre sozialen Privilegien. Wenn diese Privilegien das Einzige sind, was Sie an Männlichkeit mögen, dann bedeutet das wahrscheinlich etwas.
 
 ### Genderdysphorie stellt sich vor dem „selbst erkennen“ anders dar als nach dem „selbst erkennen“ – aus der Transfemininen Perspektive
 
@@ -111,7 +111,7 @@ Die Nullhypothese stellt eine einfache und effektive Frage: Wenn Sie eine ausgeg
 
 ### Wenn Sie eine Frau sein wollen, dann sind Sie schon eine Frau. Wenn Sie ein Mann sein wollen, dann sind Sie schon ein Mann
 
-Es ist wirklich einfach: Männer wollen Männer sein und Frauen wollen Frauen sein. Wenn du ein Mann sein willst, dann bist du ein Mann. Wenn du eine Frau sein willst, dann bist du eine Frau. Wenn Sie keines von beiden - oder beides zugleich sein möchten - oder Sie manchmal eine Frau und manchmal ein Mann sein möchten, dann sind Sie wahrscheinlich eine Art von genderfluid oder nicht-binär.
+Es ist wirklich einfach: Männer wollen Männer sein und Frauen wollen Frauen sein. Wenn Sie ein Mann sein wollen, dann sind Sie ein Mann. Wenn Sie eine Frau sein wollen, dann sind Sie eine Frau. Wenn Sie keines von beiden - oder beides zugleich sein möchten - oder Sie manchmal eine Frau und manchmal ein Mann sein möchten, dann sind Sie wahrscheinlich eine Art von genderfluid oder nicht-binär.
 
 Jetzt höre ich Sie sagen: „Aber Stopp mal! So geht das nicht. Das kann man doch nicht tun!“. Aber Sie können das auf jeden Fall tun. Tatsächlich ist dies im Grunde die einzige Frage, die Sie wirklich selbst beantworten müssen. Wenn Sie immer schon eine Frau sein wollten, Sie aber bisher dachten das Sie ein Mann sind, dann ist die Wahrscheinlichkeit recht groß das Sie als Frau glücklicher leben würden. Es lohnt sich zumindest auszutesten ob ein paar Schritte in diese Richtung ihnen mehr Glück und Freude bringt, oder?
 
@@ -141,9 +141,9 @@ Aber Frauen wie wir sind unglaublich verbreitet. [Eine wissenschaftliche Studie 
 
 Zusätzlich glaube ich auch das sich jetzt mehr Trans-Personen outen, weil es so viel mehr Repräsentationen und vor allem viel mehr Ressourcen gibt. 1991, 2001 und sogar 2011 war der Weg zur Transition viel schwieriger, und die meisten Menschen kannten keine offen Trans-Personen. Damals waren die einzigen die diesen Weg gehen konnten diejenigen, die sehr viel Glück hatten. Für alle anderen war es schwer bis unmöglich.
 
-Jetzt im Jahr 2021 ist es nicht nur einfacher, Ihr Geschlecht zu hinterfragen; es ist auch einfacher, Erfahrungen untereinander auszutauschen, Therapie und später Hormone zu bekommen sowie anderen wichtigen Ressourcen zu erhalten. Wäre ich dreißig Jahre früher geboren, hätte ich vielleicht gar keine Transition gemacht. Wäre ich dreißig Jahre später geboren worden, hätte ich hoffentlich schon als Teenager die Transition vollzogen. Letztendlich spielt es aber keine Rolle, ob Sie es „schon immer wussten“ oder ob Sie zum ersten Mal die Freiheit und Ressourcen haben sich diese Fragen zu stellen.
+Jetzt im Jahr 2021 ist es nicht nur einfacher, Ihr Geschlecht zu hinterfragen; es ist auch einfacher, Erfahrungen untereinander auszutauschen, Therapie und später Hormone zu bekommen sowie Zugang zu anderen wichtigen Ressourcen zu erhalten. Wäre ich dreißig Jahre früher geboren, hätte ich vielleicht gar keine Transition gemacht. Wäre ich dreißig Jahre später geboren worden, hätte ich hoffentlich schon als Teenager die Transition vollzogen. Letztendlich spielt es aber keine Rolle, ob Sie es „schon immer wussten“ oder ob Sie zum ersten Mal die Freiheit und Ressourcen haben sich diese Fragen zu stellen.
 
-### Vielleicht haben die Dinge, die dich von dem „selbst erkennen“ oder dem Selbst Akzeptieren abhalten gar nichts mit deiner Identität zu tun
+### Vielleicht haben die Dinge, die Sie von dem „selbst erkennen“ oder dem Selbst Akzeptieren abhalten gar nichts mit ihrer Identität zu tun
 
 Wann immer ich mit einer Transfemininen-Person spreche, die sich gerade diesen Fragen stellt, wendet sich das Gespräch meistens den Hindernissen zu mit denen sie konfrontiert sein könnte wenn sie sich für die Transition entscheidet.
 
@@ -161,17 +161,17 @@ Diese Ängste manifestieren sich oft in Form von Self-Gatekeeping. Aus „Ich ha
 
 Warum tun wir uns das an? Ich vermute, es geht um Selbstschutz. Wir wissen, dass die Transition unglaublich schwierig ist, und deshalb werden wir alle erdenklichen Alternativen Erklärungen ausprobieren, bevor wir überhaupt bereit sind, uns der „bin ich Trans?“-Frage zu stellen. Wir entwickeln eine wirklich starke selbstschützende Stimme, die sich mit allen Mitteln gegen die Wahrheit wehrt. Dann müssen wir uns keine Sorgen über den Schrecken des nächsten logischen Schritts machen.
 
-Aber die Sache ist doch die: Auch wenn Sie Trans sind, dann müssen sie ja nicht automatisch etwas tun! Obwohl ich die Transition sehr empfehle, ist es definitiv möglich, sich selbst zu akzeptieren und dann einfach… nichts zu tun - wenn die Dysphorie es zulässt. Behalte deinen Namen, deine Pronomen, dein Leben so wie es ist. Sie könnten auch nur vereinzelt Dinge ändern und die kleinen Lichtblicke der Geschlechtseuphorie genießen.
+Aber die Sache ist doch die: Auch wenn Sie Trans sind, dann müssen sie ja nicht automatisch etwas tun! Obwohl ich die Transition sehr empfehle, ist es definitiv möglich, sich selbst zu akzeptieren und dann einfach… nichts zu tun - wenn die Dysphorie es zulässt. Behalten Sie Ihren Namen, Ihre Pronomen, Ihr Leben so wie es ist. Sie könnten auch nur vereinzelt Dinge ändern und die kleinen Lichtblicke der Geschlechtseuphorie genießen.
 
-Es ist wichtig, sich daran zu erinnern, dass die Wahrheit Ihrer Identität von all Ihren Hoffnungen und Ängsten bezüglich der Transition getrennt ist. Wenn du im Innern eine Frau bist, ist es erst mal egal wie du aussiehst. Es spielt keine Rolle, was Ihre Familie von Ihnen hält. Dabei spielt es keine Rolle, ob Sie die Mittel oder gar den Wunsch haben, eine medizinische Transition anzustreben. Identität ist eine mentale und spirituelle Sache, die von all dem getrennt ist. Wenn du eine Frau bist, dann bist du eine Frau.
+Es ist wichtig, sich daran zu erinnern, dass die Wahrheit Ihrer Identität von all Ihren Hoffnungen und Ängsten bezüglich der Transition getrennt ist. Wenn Sie im Innern eine Frau sind, ist es erst mal egal wie Sie aussehen. Es spielt keine Rolle, was Ihre Familie von Ihnen hält. Dabei spielt es keine Rolle, ob Sie die Mittel oder gar den Wunsch haben, eine medizinische Transition anzustreben. Identität ist eine mentale und spirituelle Sache, die von all dem getrennt ist. Wenn Sie eine Frau sind, dann sind Sie eine Frau.
 
-Also fang dort an. Finde heraus, *wer du bist*, unabhängig davon was dann zu tun wäre.
+Also fangen Sie dort an. Finden Sie heraus, *wer Sie sind*, unabhängig davon, was dann zu tun wäre.
 
 Wenn ich mit einer Transfemininen-Person spreche, die ihr Geschlecht hinterfragt und an diesen Fragen feststeckt, versuche ich immer, diese sozialen Faktoren so gut wie möglich auszuklammern. Ich stelle hypothetische Fragen wie diese:
 
 Sie finden einen magischen Knopf, der Ihr Geschlecht dauerhaft wechselt und Ihnen einen weiblichen Körper verleiht der Ihrem Alter, Ihrer Fitness und Attraktivität entspricht. Wenn Sie diesen Knopf drücken, kannte Sie jeder schon immer als Frau. Jeder würde Sie sofort mit Ihrem Aussehen akzeptieren denn sie kannten Sie noch nie anders. Sie werden Ihren Partner, Ihren Job oder Ihre Familie nicht verlieren. Würden Sie auf diesen Knopf drücken?
 
-Cis-Leute würden übrigens nicht einmal daran denken, diesen Knopf zu drücken. Wenn Sie Inneren wissen, dass Sie den Knopf drücken würden, aber immer noch Angst haben, sich selbst als Trans zu akzeptieren, dann dürfte Ihr Problem wahrscheinlich mehr mit der Angst vor der Transition zu tun haben als mit ihrer inneren Geschlechtsidentität.
+Cis-Leute würden übrigens nicht einmal daran denken, diesen Knopf zu drücken. Wenn Sie im Inneren wissen, dass Sie den Knopf drücken würden, aber immer noch Angst haben, sich selbst als Trans zu akzeptieren, dann dürfte Ihr Problem wahrscheinlich mehr mit der Angst vor der Transition zu tun haben als mit ihrer inneren Geschlechtsidentität.
 
 ### Es ist selten dass es „nur ein Fetisch“ ist
 
@@ -179,7 +179,7 @@ Ich kann dir nicht sagen, wie viele Transgender – mich eingeschlossen – ange
 
 Es gibt viele verschiedene Möglichkeiten wie sich das manifestieren kann: Gender-Spiele mit Partnern, Freude an verwandlungsbezogenen Zeichnungen, Geschichten über Jungen, die zu Mädchen werden, oder Rollenspiele mit Partnern in Online-Foren oder Messaging-Apps. Es gibt so viel von diesem Zeug da draußen, und viele der Leute, die das Genießen sind Trans-Personen, die sich noch nicht erkannt haben, wie einst ich selbst.
 
-Das macht schon Sinn, wenn man länger darüber nachdenkt. Sex ist einer der wenigen Bereiche der menschlichen Erfahrung, in denen es sicher ist, das Geschlecht zu erforschen, ohne sich größeren Fragen zur Identität stellen zu müssen. Es ist außerdem möglich, Sex und Geschlechtsidentität mit der Zeit in Ihrem Kopf zu trennen. Du bist nur ein Mann, der gelegentlich gerne davon träumt, in eine Frau verwandelt zu werden. Das heißt nicht, dass du Trans bist!
+Das macht schon Sinn, wenn man länger darüber nachdenkt. Sex ist einer der wenigen Bereiche der menschlichen Erfahrung, in denen es sicher ist, das Geschlecht zu erforschen, ohne sich größeren Fragen zur Identität stellen zu müssen. Es ist außerdem möglich, Sex und Geschlechtsidentität mit der Zeit in Ihrem Kopf zu trennen. Du bist nur ein Mann, der gelegentlich gerne davon träumt, in eine Frau verwandelt zu werden. Das heißt nicht, dass Sie Trans sind!
 
 Leider kann die Erforschung von Geschlecht auf diese Weise vielen Transfemininen-Personen die Selbstakzeptanz erschweren. Während für mich vor meiner Selbstakzeptanz als Trans diese Art der sexuellen Erforschung notwendig war, bedeutete es auch, dass ich meine aufdringlichen Gender-Gedanken oder Tagträume als „nur ein Fetisch“ abschreiben konnte. Ich behandelte sie als etwas Verborgenes und Beschämendes, anstatt es genauer zu untersuchen.
 
@@ -193,7 +193,7 @@ In diesem kurzen Abschnitt das komplexe Gefühl der Erregung vollständig zu erf
 
 ### Auch unter den Transidentitäten gibt es ein Spektrum
 
-Wenn du keine nur wenig Zeit mit anderen offenen queeren Menschen verbracht hast, hast du vielleicht nicht bemerkt das es viele verschiedene Möglichkeiten es gibt, Ihr Geschlecht zu erleben und auszudrücken.
+Wenn Sie keine oder nur wenig Zeit mit anderen offenen queeren Menschen verbracht haben, haben Sie vielleicht nicht bemerkt, dass es viele verschiedene Möglichkeiten gibt, Ihr Geschlecht zu erleben und auszudrücken.
 
 Die Welt lässt es so aussehen, als wären die „Mann“-Box und die „Frau“-Box zwei völlig unterschiedliche Dinge mit einer riesigen Lücke dazwischen. Aber das stimmt so nicht wirklich. Es gibt eine unendliche Anzahl von Möglichkeiten, das eigene Geschlecht auszudrücken, sowohl innerhalb als auch außerhalb dieser Boxen. Ihr Geschlecht könnte „irgendwo anders“ in diesem undefinierten Raum um diese Boxen liegen. Ich bin eine ziemlich binäre Transfeminine-Person und ich liebe es, in der „Frau“-Box zu sein, aber meine Vorstellung wie ich mein Geschlecht ausdrücke, unterscheidet sich oft von den Vorstellungen anderer Menschen, die sich ebenfalls in der „Frau“-Box verordnen.
 
@@ -203,7 +203,7 @@ Manche Transgender entscheiden sich nicht für geschlechtsangleichende Operation
 
 Viele Trans-Menschen machen sich auf den Weg, um in eine Richtung zu wechseln, und stellen schließlich fest, dass ihre Identität besser zu etwas passt, das sie zu Beginn ihres Prozesses noch nicht einmal hätten erahnen können.
 
-All dies ist in Ordnung und mein Ziel mit diesem Aufsatz ist es den Druck herauszunehmen. Es ist schwieriger, sich selbst als Transgender zu akzeptieren, wenn du das Gefühl hast, dass Selbstakzeptanz mit einer ganzen Reihe neuer unmöglicher Erwartungen einhergeht. In Wahrheit ist es eine der großen Freuden des Trans-Seins; zu erkennen, dass man tatsächlich frei von all diesen engen Vorstellungen davon ist, was Geschlecht sein kann und was nicht.
+All dies ist in Ordnung und mein Ziel mit diesem Aufsatz ist es den Druck herauszunehmen. Es ist schwieriger, sich selbst als Transgender zu akzeptieren, wenn Sie das Gefühl haben, dass Selbstakzeptanz mit einer ganzen Reihe neuer unmöglicher Erwartungen einhergeht. In Wahrheit ist es eine der großen Freuden des Trans-Seins; zu erkennen, dass man tatsächlich frei von all diesen engen Vorstellungen davon ist, was Geschlecht sein kann und was nicht.
 
 Egal, wie Sie Ihr Geschlecht letztendlich erleben, wichtig ist, sich selbst treu zu bleiben. Zugegeben, das klingt kitschig, aber sich selbst die Erlaubnis zu geben, ehrlich zu sein, was einem in Bezug auf das Geschlecht und die Geschlechterdarstellung Freude bereitet und was nicht, kann ein ausdrücklich radikaler Akt sein. Diese Reise könnte Sie zu mehr Komfort in Ihrem Geburtsgeschlecht führen, zu einer Art nicht-binärer oder geschlechtsspezifischer Identität. Vielleicht kommen Sie auch zu mir in die „Frau“-Box – bei uns gibt es Kuchen!
 
@@ -227,4 +227,4 @@ Ich empfehle Menschen, die ihr Geschlecht in Frage stellen, ein oder zwei kleine
 
 Einige dieser Schritte dürften wahrscheinlich ein Gefühl der Überforderung auslösen – und wer könnte es Ihnen verübeln, wenn sogar nur die Vorstellung daran Sie überfordert – aber vielleicht erkennen Sie in dieser Experimentierphase das es in Ihnen kleine Glücksmomente auslöst. Kleine Momente von „oh, oh, oh, das gefällt mir, das fühlt sich gut an!“
 
-Das ist Gender-Euphorie und ein Zeichen dafür, dass Sie auf dem richtigen Weg sind. Wenn du diesen Gefühlen folgst, wohin auch immer sie dich führen, dann garantiere ich dir, dass dies zu sehr viel Glück und Freude führen wird.
+Das ist Gender-Euphorie und ein Zeichen dafür, dass Sie auf dem richtigen Weg sind. Wenn Sie diesen Gefühlen folgen, wohin auch immer sie Sie führen, dann garantiere ich ihnen, dass dies zu sehr viel Glück und Freude führen wird.

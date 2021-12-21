@@ -27,7 +27,7 @@ tweets:
 
 # Biochemische Dysphorie
 
-Die primären Geschlechtsmerkmale des Körpers entwickeln sich in der 8. Schwangerschaftswoche. Typischerweise ist es ab der 11. Woche möglich, die Genitalien eines Fötus mittels Ultraschalles zu bestimmen. Das Gehirn wird jedoch erst [zwischen der Woche 14 und 24 entwickelt](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Das derzeitige Verständnis der neurologischen Entwicklung legt nahe, dass sich das Gehirn in diesen 10 Wochen entweder vermännlicht oder verweiblicht, je nachdem ob Testosteron im Blutkreislauf des Kindes (initiiert entweder durch das SRY-Gen, das auf dem Y-Chromosom vorhanden ist, oder von anderen Quellen eingeschleust wird) vorhanden ist. Dieser Prozess bindet das Gehirn entweder Östrogene oder Androgene zu bevorzugen.
+Die primären Geschlechtsmerkmale des Körpers entwickeln sich in der 8. Schwangerschaftswoche. Typischerweise ist es ab der 11. Woche möglich, die Genitalien eines Fötus mittels Ultraschalles zu bestimmen. Das Gehirn wird jedoch erst [zwischen der Woche 14 und 24 entwickelt](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Das derzeitige Verständnis der neurologischen Entwicklung legt nahe, dass sich das Gehirn in diesen 10 Wochen entweder vermännlicht oder verweiblicht, je nachdem ob Testosteron im Blutkreislauf des Kindes (initiiert entweder durch das SRY-Gen, das auf dem Y-Chromosom vorhanden ist, oder von anderen Quellen eingeschleust wird) vorhanden ist. Dieser Prozess bittet das Gehirn entweder Östrogene oder Androgene zu bevorzugen.
 
 Wenn Ihr Gehirn auf ein Geschlechtshormon (wie Testosteron) festgelegt ist, Ihr Körper aber das andere Hormon (wie Östradiol) produziert, kann dies zu einer biochemischen Fehlfunktion in Ihrer Gehirnchemie führen. Dies erzeugt eine Art Gehirnnebel, eine Verringerung der geistigen Leistungsfähigkeit und einen allgemeinen Zustand von Angst und Unbehagen. Dies ist die Ursache für die beiden Symptome „Depersonalisierung“ und „Derealisierung“ (DP und DR), die häufig durch eine medizinische Hormontherapie gelindert werden.
 
@@ -67,7 +67,7 @@ Zinnia Jones [gibt folgende Beschreibungen für die Depersonalisierung](https://
 
 - Ein Gefühl der Loslösung oder Entfremdung von Ihren eigenen Gedanken, Gefühlen oder Ihrem Körper. So etwas wie: "Ich weiß, dass ich Gefühle habe, aber ich fühle sie nicht."
 - Das Gefühl, in zwei Teile geteilt zu sein, wobei die eine Hälfte die Welt durchläuft und die andere Hälfte leise beobachtet. Es ist wie: „Es gibt diesen Körper, der herumläuft und jemand anderes schaut nur zu.“
-- Das Gefühl, als hättest du ein „unwirkliches“ oder „abwesendes“ Selbst: „Ich habe kein Selbst“
+- Das Gefühl, als hätten Sie ein „unwirkliches“ oder „abwesendes“ Selbst: „Ich habe kein Selbst“
 - Die Welt als fern, traumhaft, neblig, leblos, farblos, künstlich erleben, wie ein Bild ohne Tiefe, das aussieht als wäre es „weniger als real“
 - Sich in sich selbst vertiefen und eine zwanghafte Selbstprüfung oder ein extremes Wiederkäuen von Gedanken
 - Einen kontinuierlichen und kohärenten Dialog mit sich selbst führen
@@ -89,7 +89,7 @@ Möglicherweise kümmert Sie der Zustand Ihres Körpers nicht, eventuell fürcht
   '1215740224325783553'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-**Derealisierung** ist eine Ablösung von der Welt um dich herum. Ein Gefühl, dass alles Wahrgenommene, irgendwie falsch ist.
+**Derealisierung** ist eine Ablösung von der Welt um Sie herum. Ein Gefühl, dass alles Wahrgenommene, irgendwie falsch ist.
 
 - Ihre Umgebung wirkt fremd oder ungewohnt, auch wenn Sie dort schon immer lebten. Als hätte jemand Ihr Haus gegen eine Kopie ausgetauscht.
 - Wenn Sie sich durch die Welt bewegen, fühlen Sie sich wie auf einem Laufband. Nicht Sie bewegen sich, sondern die Gebäude bewegen sich um Sie herum.
@@ -103,7 +103,7 @@ Wenn Sie glauben das sich ihr Leben in Filmen wie „The Matrix“ oder „The T
 
 DPDR (Depersonalisation und Derealisation) ist manchmal mit einer emotionalen Hemmung verbunden. Sie können lachen und witzige Dinge witzig finden, haben aber selten echte Freude. Momente der Traurigkeit oder Trauer führen dazu, dass Sie einfach taub werden und Sie sich von dem Ereignis trennen, das diese Gefühle verursacht. Dies kann auch in die entgegengesetzte Richtung gehen: Man hat Angst, weil man nicht einschätzen kann, ob die emotionale Reaktion im Verhältnis angebracht ist. Dann können kleinste Ereignisse zum Katalysator für unverhältnismäßig große emotionale Reaktionen werden.
 
-Es ist wichtig zu beachten, dass DPDR nicht nur bei Gender Dysphorie auftritt. Dieser Zustand ist kann auch bei anderen psychischen Problemen auftreten wie zum Beispiel bei chronischer Depression, Zwangsstörung und Borderline-Persönlichkeitsstörung. DPDR sollte nicht allein als Zeichen von Gender Dysphorie verstanden werden, es ist nur ein großer Hinweis dafür das etwas sehr im Argen liegt. Es ist normalerweise auch ziemlich einfach zu erkennen, wenn man weiß, worauf man achten muss. Menschen mit DPDR neigen dazu, in die Ferne zu starren, wenn sie irgendwo hingehen. Die Augen sehen von außen so trüb und tot als würde hier nur eine Hülle wandeln. Am meisten fällt anderen während und nach der Transition auf wie die Augen der Person plötzlich anfangen zu funkeln.
+Es ist wichtig zu beachten, dass DPDR nicht nur bei Gender Dysphorie auftritt. Dieser Zustand ist kann auch bei anderen psychischen Problemen auftreten wie zum Beispiel bei chronischer Depression, Zwangsstörung und Borderline-Persönlichkeitsstörung. DPDR sollte nicht allein als Zeichen von Gender Dysphorie verstanden werden, es ist nur ein großer Hinweis dafür das etwas sehr im Argen liegt. Es ist normalerweise auch ziemlich einfach zu erkennen, wenn man weiß, worauf man achten muss. Menschen mit DPDR neigen dazu, in die Ferne zu starren, wenn sie irgendwo hingehen. Die Augen sehen von außen so trüb und tot aus, als würde hier nur eine Hülle wandeln. Am meisten fällt anderen während und nach der Transition auf wie die Augen der Person plötzlich anfangen zu funkeln.
 
 ### Ebbe und Flut
 
@@ -115,7 +115,7 @@ Wie schlimm die physische und biochemische Dysphorie wirkt, wird stark von ander
 - Transfeminine AMABs erfahren mit dem Anstieg des Testosterons durch Anziehung, Erregung und Verlangen ein Ungleichgewicht, was sie dysphorischer machen kann.
 - Transmaskuline AFABs erfahren im Verlauf ihres Menstruationszyklus einen Anstieg und Abfall von Östrogen und Progesteron, wodurch sich ihre Dysphorie je nach stand des Zyklus verstärkt oder verringert.
 
-Es gibt Dutzende von Systemen im Körper, die alle zusammenarbeiten. Alle Regelsysteme schwanken von Tag zu Tag und haben so Auswirkungen auf den Geisteszustand. Eine allgemein schlechte Stimmung kann die Wirkung der Gender Dysphorie verstärken. An einem Tag können Sie es einfach ignorieren mit dem falschen Pronomen angesprochen zu werden und am nächsten Tag fühlt es sich jedes Mal so an als würde man Ihnen ein Messer ins Herz rammen. An einem Tag siehst du dich im Spiegel und siehst das neue Ich, am nächsten starrst du das alte Ich an.
+Es gibt Dutzende von Systemen im Körper, die alle zusammenarbeiten. Alle Regelsysteme schwanken von Tag zu Tag und haben so Auswirkungen auf den Geisteszustand. Eine allgemein schlechte Stimmung kann die Wirkung der Gender Dysphorie verstärken. An einem Tag können Sie es einfach ignorieren mit dem falschen Pronomen angesprochen zu werden und am nächsten Tag fühlt es sich jedes Mal so an als würde man Ihnen ein Messer ins Herz rammen. An einem Tag sehen Sie sich im Spiegel und sehen das neue Ich, am nächsten starren Sie das alte Ich an.
 
 Einige Menschen haben es besonders schwer, weil sie genderfluid sind. Sie erleben sich einige Tage männlich, einige Tage weiblich und an anderen Tagen geschlechtslos oder bi-geschlechtlich. Für andere ist die Dysphorie langsam und stetig schwankend wie Ebbe und Flut. Das bedeutet das manchmal so gut wie keine Dysphorie verspürt wird, manchmal andauernd.
 
