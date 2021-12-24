@@ -72,7 +72,7 @@ AGP ist Ende der 2000er Jahre von der modernen Psychologie gründlich zerrissen 
 
 Transfeminine Individuen verinnerlichen dann diese Botschaften und kamen zu dem Schluss, dass sie eigentlich keine Transgender sind, sondern nur eine perverse Entartung. Es ist mir passiert; es ist fast jeder Transfemininen Person ab 1980 passiert, die es im Teenager Alter schon gewusst hat.
 
-Sie sind kein Fetischist. Das Gefühl, wenn du dich als Frau betrachtest, ist geschlechtsspezifische Euphorie.
+Sie sind kein Fetischist. Das Gefühl, wenn Sie sich als Frau betrachten, ist geschlechtsspezifische Euphorie.
 
 ### Patriarchale Unterdrückung
 
@@ -80,7 +80,7 @@ Eine häufige Ursache für das Absprechen des Wunsches dem männlichen Geschlech
 
 Die Botschaft von radikalen Feministen, weibliche Geschlechterrollen aufzugeben, kann es auch schwieriger machen, die eigenen Gefühle zu analysieren. „Bin ich eigentlich nicht-binär oder bin ich nur eine Feministin?“ oder „Bin ich eigentlich ein Mann oder bin ich nur eine sehr männliche Lesbe?“. Dafür ermutige ich Sie, mit Cis-Feministinnen, insbesondere Lesben, zu sprechen. Sie werden sich über Unterdrückungssysteme und das Patriarchat beschweren; Die Probleme sind alle außerhalb Ihres Einflussbereiches und dennoch wollen sie weiterhin Frauen sein. Sogar sehr männliche Lesben wollen Frauen sein, nur in einer anderen Art und Weise wie es der Mainstream-Feminismus vorschreibt.
 
-Dann gibt es das Problem, das Leute glauben, *nicht-binär* zu sein heißt *androgyn zu sein* und *androgyn zu sein* bedeutet einfach *weniger weiblich* zu sein. Weiblichen nicht-binären Personen sollte man die Existenz nicht absprechen! Es ist in Ordnung, wenn Sie Ihre Brüste nicht entfernen möchten. Es ist in Ordnung, wenn Sie Ihre Kurven genießen. Es ist in Ordnung, wenn es Ihnen nichts ausmacht, wenn Sie mit „sie“ und „ihr“ angesprochen werden. Das macht dich nicht weniger Transgender.
+Dann gibt es das Problem, das Leute glauben, *nicht-binär* zu sein heißt *androgyn zu sein* und *androgyn zu sein* bedeutet einfach *weniger weiblich* zu sein. Weiblichen nicht-binären Personen sollte man die Existenz nicht absprechen! Es ist in Ordnung, wenn Sie Ihre Brüste nicht entfernen möchten. Es ist in Ordnung, wenn Sie Ihre Kurven genießen. Es ist in Ordnung, wenn es Ihnen nichts ausmacht, wenn Sie mit „sie“ und „ihr“ angesprochen werden. Das macht Sie nicht weniger Transgender.
 
 Wenn Sie das Gefühl haben, keine binäre Frau zu sein, dann sind Sie keine binäre Frau. Cis-Frauen erleben solche Diskrepanz nicht.
 
