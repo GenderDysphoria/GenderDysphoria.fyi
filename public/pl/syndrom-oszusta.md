@@ -131,6 +131,8 @@ Jeśli transmedykalizm jest pierwszym kontaktem z transpłciowością dla pewnej
 
 **Nie słuchaj ich.** To ty i tylko ty możesz z całą pewnością stwierdzić, że jesteś bądź nie jesteś trans. Nie ludzie, których celem jest manipulacja i pomniejszanie czyjegoś cierpienia dla własnej satysfakcji.
 
+Istnieją powiązane, krzywdzące koncepty, które osoba trans może zinternalizować, kręcące się dookoła postrzegania tranzycji jako listy zadań do zrobienia. Jedną z takich idei jest przekonanie, że osoba nie powinna oczekiwać respektowania swoich zaimków czy nawet narzekać na ich nierespektowanie, dopóki nie zmieniła markera płci w swoich dokumentach. Innymi słowy, prawnie obwarowany szacunek do zaimków lub *translegalizm*. Nie tylko zmiana markera płci może być długim, skomplikowanym procesem [przyp. tłum.: w Polsce nadal jeszcze procesem *sądowym*], nie tylko część osób nie może pozwolić sobie na wyoutowanie się, lecz nawet większość krajów nie pozwala mieć znacznika innego niż binarne "M" lub "K". Translegalizm wmawia osobie, że jest winna nierespektowania swoich zaimków z powodu swoich dokumentów.
+
 ### Trans-wykluczający radykalny feminizm (TERF) / ruch gender critical / esencjalizm płciowy
 
 Esencjalizm płciowy jest przekonaniem, że istnieją pewne wrodzone cechy ludzkiej egzystencji zależne od organów płciowych, z którymi dana osoba się urodziła. Ideologia TERF i *gender critical* narodziła się z separatystycznego ruchu lesbijskiego feminizmu drugiej fali. Odrzuca ona całkowicie istnienie transpłciowej biologii i niebinarnych tożsamości. W większości przejęta została przez prawicowych reakcjonistów, rasistów i homofobów, wspierana przez ewangelickie organizacje chrześcijańskie.
