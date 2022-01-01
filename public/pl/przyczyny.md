@@ -13,13 +13,12 @@ siblings:
 classes:
   - gdb
 tweets:
-  - https://twitter.com/LisaTMullin/status/1224039568971710464
-  - https://twitter.com/LisaTMullin/status/1224040716365524993
-  - https://twitter.com/LisaTMullin/status/1224041800513380352
-  - https://twitter.com/LisaTMullin/status/1224041800513380352
-  - https://twitter.com/LisaTMullin/status/1224042620164296705
-  - https://twitter.com/LisaTMullin/status/1224043995413639168
-  - https://twitter.com/LisaTMullin/status/1224044949160611840
+  - '1224039568971710464'
+  - '1224040716365524993'
+  - '1224041800513380352'
+  - '1224042620164296705'
+  - '1224043995413639168'
+  - '1224044949160611840'
 ---
 
 # Co jest powodem niezgodności płci?
@@ -68,15 +67,21 @@ Prawda jest taka, że zdecydowana większość populacji nigdy nie miała testow
   '1224043995413639168'
   '1224044949160611840'
 ] tweets=meta.tweets className="oneblock hide-reply" }}
-{{import '~/tweet-translation' text=[
-  'Normalnie chromosom Y zawiera 27 genów, tylko 4 z nich są związane z płcią. Jeden z nich, SRY, determinuje (poprzez gen SOX9), czy na wczesnym etapie rozwoju płodu rozwiną się jajniki czy jądra. Pozostałe trzy wpływają na produkcję spermy, jeśli rozwiną się jądra.'
-  'SRY jest tylko sygnalizatorem dla 3 spośród niezrozumianych jeszcze obszarów DNA, aby produkować więcej genów SOX9, powyżej pewnego poziomu formują się jądra, poniżej zaś jajniki.'
-  'To jest jednak tylko początek historii. Jeśli powstaną jajniki, wówczas inny gen, FOXL2, utrzymuje je jako takie.'
-  'FOXL2 współdziała z receptorami estrogenu w celu zachowania jajników jako jajników poprzez blokowanie produkcji SOX9, bez czego przekształciłyby się w jądra i zaczęły produkować testosteron.'
-  'Na ile wiem, samce i samice ssaków produkują SOX9 przez całe swoje życie (muszę to sprawdzić) i nawet jeśli jajniki już istnieją, jeśli poziom będzie wystarczająco wysoki, to przekształcą się w jądra.'
-  'Ale produkcja FOXL2 zależy od wystarczającego poziomu estrogenu i/lub poprawnego działania receptorów estrogenu. Jeśli coś pójdzie nie tak z którymś, wówczas produkcja SOX9 zwiększy się, a istniejące jajniki przekształcą się w jądra i zaczną produkować testosteron.'
-  'Mamy więc sprzężenie zwrotne: brak SRY oznacza mniej SOX9, więc formują się jajniki. Produkują one estrogen, który powoduje produkcję FOXL2, co blokuje produkcję SOX9, by zachować jajniki jako jajniki. [Jeśli] coś pójdzie nie tak i poziom SOX9 będzie wystarczająco wysoki, jajniki staną się jądrami.'
-]}}  
+<!--
+Normalnie chromosom Y zawiera 27 genów, tylko 4 z nich są związane z płcią. Jeden z nich, SRY, determinuje (poprzez gen SOX9), czy na wczesnym etapie rozwoju płodu rozwiną się jajniki czy jądra. Pozostałe trzy wpływają na produkcję spermy, jeśli rozwiną się jądra.
+
+SRY jest tylko sygnalizatorem dla 3 spośród niezrozumianych jeszcze obszarów DNA, aby produkować więcej genów SOX9, powyżej pewnego poziomu formują się jądra, poniżej zaś jajniki.
+
+To jest jednak tylko początek historii. Jeśli powstaną jajniki, wówczas inny gen, FOXL2, utrzymuje je jako takie.
+
+FOXL2 współdziała z receptorami estrogenu w celu zachowania jajników jako jajników poprzez blokowanie produkcji SOX9, bez czego przekształciłyby się w jądra i zaczęły produkować testosteron.
+
+Na ile wiem, samce i samice ssaków produkują SOX9 przez całe swoje życie (muszę to sprawdzić) i nawet jeśli jajniki już istnieją, jeśli poziom będzie wystarczająco wysoki, to przekształcą się w jądra.
+
+Ale produkcja FOXL2 zależy od wystarczającego poziomu estrogenu i/lub poprawnego działania receptorów estrogenu. Jeśli coś pójdzie nie tak z którymś, wówczas produkcja SOX9 zwiększy się, a istniejące jajniki przekształcą się w jądra i zaczną produkować testosteron.
+
+Mamy więc sprzężenie zwrotne: brak SRY oznacza mniej SOX9, więc formują się jajniki. Produkują one estrogen, który powoduje produkcję FOXL2, co blokuje produkcję SOX9, by zachować jajniki jako jajniki. [Jeśli] coś pójdzie nie tak i poziom SOX9 będzie wystarczająco wysoki, jajniki staną się jądrami.
+-->
 </div>}!}
 
 #### Hormony a rozwój mózgu

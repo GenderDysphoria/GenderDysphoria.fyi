@@ -120,10 +120,11 @@ Może być to uczucie przerażenia lub odrazy podczas dotykania czy nawet patrze
 {{import '~/tweet' ids=[
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}
-{{import '~/tweet-translation' text=[
-  'Kiedy moi przyjaciele w liceum dyskutowali, kto byłby ich idealną kobietą, wszyscy opisywali cechy fizyczne osoby, z którą chcieliby się umówić... podczas gdy ja tłumaczyłam, kim chciałam być.'
-  'Zawsze myślałam, że każdy ma swój mały, wstydliwy sekret, taki jak mój.'
-]}}
+<!--
+Kiedy moi przyjaciele w liceum dyskutowali, kto byłby ich idealną kobietą, wszyscy opisywali cechy fizyczne osoby, z którą chcieliby się umówić... podczas gdy ja tłumaczyłam, kim chciałam być.
+
+Zawsze myślałam, że każdy ma swój mały, wstydliwy sekret, taki jak mój.
+-->
 </div> }!}
 
 Fizyczna dysforia może także objawiać się jako kompulsywne pragnienie pozbycia się pewnych cech ciała, na przykład obsesyjne golenie ciała lub zarostu. Może również pragnieniem zgoła przeciwnym, prowadzącym do drobiazgowej pielęgnacji tych cech w próbie ich kontroli. Przykładowo, utrzymywanie perfekcyjnej brody, regularny manicure i polerowanie paznokci lub spędzanie godzin w siłowni na doskonaleniu sylwetki.
@@ -137,13 +138,17 @@ Czasami może to być po prostu uczucie niewłaściwości, którego możesz nawe
   '1184580976581775366'
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}
-{{import '~/tweet-translation' text=[
-  'Mówiono mi, że skoro nie mam dysforii genitalnej, to nie jestem "wystarczająco trans" do tranzycji. W rezultacie spędziłam dekadę w wyparciu i nienawiści do siebie.'
-  'Zabawne, że po rozpoczęciu tranzycji zaczęłam rozpoznawać podłoże części moich zmartwień: dysforia genitalna.'
-  '———'
-  '@MamaCoffeeCat Ja przed HRT: zupełnie nie nienawidzę mojego penisa.'
-  'Ja 2.5 roku na HRT: ZABIERZCIE TO ODE MNIE.'
-]}}
+<!--
+Mówiono mi, że skoro nie mam dysforii genitalnej, to nie jestem "wystarczająco trans" do tranzycji. W rezultacie spędziłam dekadę w wyparciu i nienawiści do siebie.
+
+Zabawne, że po rozpoczęciu tranzycji zaczęłam rozpoznawać podłoże części moich zmartwień: dysforia genitalna.
+
+———
+
+@MamaCoffeeCat Ja przed HRT: zupełnie nie nienawidzę mojego penisa.
+
+Ja 2.5 roku na HRT: ZABIERZCIE TO ODE MNIE.
+-->
 </div> }!}
 
 Dysforia, którą odczuwasz względem swojego ciała może i będzie zmieniać się z czasem, na lepsze i na gorsze. Dla przykładu, wiele trans kobiet zaczyna tranzycję, nie odczuwając niezgodności genitaliów, by później, gdy rozprawią się z większymi źródłami dysforii, odkryć, że czują się mniej komfortowo z oryginalną konfiguracją. Alternatywnie, niektórzy mogą zakładać, że **absolutnie** potrzebują operacji feminizacji twarzy, by po dwóch latach tranzycji stwierdzić, że właściwie to pasuje im ich wygląd.
@@ -171,14 +176,15 @@ Jaki jest rezultat? Kathryn ujęła to najlepiej:
   '947522372315369472'
   '947523244948680705'
 ] tweets=meta.tweets className="grid-row" }}
-<div class="grid-row">
-{{import '~/tweet-translation' text=[
-  'Jeśli uważasz, że jesteś cis facetem, ale zawsze marzyłeś o byciu dziewczyną, i jedynym powodem, dla którego nie dokonałeś tranzycji, jest to, że obawiasz się być "brzydką" dziewczyną:'
-  'To dysforia. Jesteś już dosłownie trans dziewczyną, kochanie.'
-]}}
-{{import '~/tweet-translation' text=[
-  'Nie czuj się źle, nigdy tego nie odkrywszy. Sama dopiero co miałam moment eureki.'
-  'Ale to dosłownie dysforia. Odczuwasz dyskomfort, gdy przypomina ci się rozdźwięk pomiędzy tym, kim chcesz być (kim JESTEŚ), a jak wyglądasz.'
-]}}
-</div>
+<!--
+Jeśli uważasz, że jesteś cis facetem, ale zawsze marzyłeś o byciu dziewczyną, i jedynym powodem, dla którego nie dokonałeś tranzycji, jest to, że obawiasz się być "brzydką" dziewczyną:
+
+To dysforia. Jesteś już dosłownie trans dziewczyną, kochanie.
+
+----
+
+Nie czuj się źle, nigdy tego nie odkrywszy. Sama dopiero co miałam moment eureki.
+
+Ale to dosłownie dysforia. Odczuwasz dyskomfort, gdy przypomina ci się rozdźwięk pomiędzy tym, kim chcesz być (kim JESTEŚ), a jak wyglądasz.
+-->
 }!}

@@ -45,10 +45,11 @@ Tego rodzaju sytuacje mogą prowadzić do znęcania się i przemocy, pchając os
 {{import '~/tweet' ids=[
   '1201138482569195526'
 ] tweets=meta.tweets className="" }}
-{{import '~/tweet-translation' text =[
-  'Poczucie winy jest produktem ubocznym wstydu, wstyd jest produktem ubocznym transfobii, a transfobia jest produktem ubocznym kłamstw bazowanych na strachu.'
-  'Kiedy zdasz sobie z tego sprawę, możesz zacząć postrzegać transpłciowość jako to, czym naprawdę jest... piękną manifestację natury. Dar, który należy miłować, a nie przekleństwo, które trzeba ukryć.'
-]}}
+<!--
+Poczucie winy jest produktem ubocznym wstydu, wstyd jest produktem ubocznym transfobii, a transfobia jest produktem ubocznym kłamstw bazowanych na strachu.
+
+Kiedy zdasz sobie z tego sprawę, możesz zacząć postrzegać transpłciowość jako to, czym naprawdę jest... piękną manifestację natury. Dar, który należy miłować, a nie przekleństwo, które trzeba ukryć.
+-->
 </div> }!}
 
 Wstyd staje się wyjątkowo intensywny w momencie, w którym odkryje się przed kimś innym jako osoba trans. Negatywne, czasami nawet brutalne reakcje transfobicznych znajomych i rodziny na "wyjście z szafy" przetwarzają ten wstyd w bardzo silne poczucie winy i kompromitacji. Dorosła osoba transpłciowa w małżeństwie może czuć ogromne wyrzuty sumienia za postawienie życia swojej osoby partnerskiej do góry nogami przez odkrycie się. Może oczekiwać wyrzutów ze strony swoich sąsiadów oraz bać się jak wpłynie to na ich osobę partnerską i/lub dzieci.
@@ -72,16 +73,23 @@ Wstyd też często gromadzi się, aż eksploduje w formie radykalnego działania
   '1216111083997605888'
   '1216112014411599877'
 ] tweets=meta.tweets className="oneblock capped" }}
-{{import '~/tweet-translation' text =[
-  'Rozumiem ten tok myślowy. Transpłciowe dziewczyny dorastają błędnie myśląc że są chłopakami, więc jest od nich oczekiwane że będą odczuwać normatywny, heteroseksualny pociąg do kobiet. Jeśli jesteś transpłciową lesbijką to przechodzisz tranzycję, ale nadal podobają Ci się kobiety. Więc to to samo, nie? Nie.'
-  'Porozmawiajmy o detalach. Na początek, warto zauwazyć że większość transpłciowych lesbijek nie doświadcza normatywnego, heteroseksualnego przyciągania do kobiet w ten sam sposób co mężczyźni "cisheci". Dysforia oraz pogmatwane uczucia odnośnie płciowości bardzo z tym mieszają.'
-  'Zanim przeszłam tranzycję, sama myśl robienia czegokolwiek seksualnego albo romantycznego z dziewczyną przyprawiała mnie o nudności ponieważ sprawiało to że czułam się jakbym przyjmowała męską rolę - rolę chłopaka, męskiego kochanka - a to sprawiało że moja utajona dysforia wchodziła na wyższy bieg.'
-  'Zaraz po tym jak przeszłam tranzycję, moja rodzina i znajomi przypuścili że będę tylko i wyłącznie, albo przynajmniej głównie, "zainteresowana" mężczyznami. Każda mainstreamowa wiadomość kulturalna o kobietach (włączając w to kobiety transpłciowe) mówiła mi że muszą mi się podobać mężczyźni.'
-  'Wiele specjalistów świadczących usługi "transpłciowej" opieki zdrowotnej operuje na bardzo, bardzo prymitywnym systemie gdzie cispłciowy lekarz zadaje Ci mnóstwo pytań, jak chociaż "jakimi zabawkami się bawiłaś jako dziecko?" żeby przekonać się czy wystarczająco pasujesz do tego czym kobieta "powinna być". A kobieta "powinna być" przyciągana seksualnie do mężczyzn.'
-  'Tak więc transpłciowe lesbijki spotykają się z mocnymi naciskami, zarówno wewnętrznymi jak i zewnętrznymi, żeby porzucić swój lesbianizm i odczuwać przyciąganie do mężczyzn. To absolutnie nie jest podobne do czegokolwiek co odczuwa jakikolwiek heteroseksualny mężczyzna, ale za to jest bardzo podobne do doświadczeń cispłciowych lesbijek!'
-  'Ostatnia rzecz - sposób w jaki jako transpłciowa lesbijka odczuwa się przyciąganie, seks i romans w stosunku do innych kobiet. Nie jest to takie samo uczucie jak "cishetowe" przyciąganie. Nie jest obarczone żadnymi z tych dziwnych, prymitywnych oczekiwań. Nie widzę nic z tego w swoim życiu.'
-  'Kiedy czytam "cishetowe" doświadczenia ich seksualności, nie czuję nic poza alienacją. Kiedy czytam doświadczenia lesbijskie, rezonują ze mną głęboko i rozpoznaję w nich niektóre elementy tego jak ja doświadczam mojej seksualności w stosunku do ludzi których kocham i do których czuję przyciąganie.'
-]}}
+<!--
+Rozumiem ten tok myślowy. Transpłciowe dziewczyny dorastają błędnie myśląc że są chłopakami, więc jest od nich oczekiwane że będą odczuwać normatywny, heteroseksualny pociąg do kobiet. Jeśli jesteś transpłciową lesbijką to przechodzisz tranzycję, ale nadal podobają Ci się kobiety. Więc to to samo, nie? Nie.
+
+Porozmawiajmy o detalach. Na początek, warto zauwazyć że większość transpłciowych lesbijek nie doświadcza normatywnego, heteroseksualnego przyciągania do kobiet w ten sam sposób co mężczyźni "cisheci". Dysforia oraz pogmatwane uczucia odnośnie płciowości bardzo z tym mieszają.
+
+Zanim przeszłam tranzycję, sama myśl robienia czegokolwiek seksualnego albo romantycznego z dziewczyną przyprawiała mnie o nudności ponieważ sprawiało to że czułam się jakbym przyjmowała męską rolę - rolę chłopaka, męskiego kochanka - a to sprawiało że moja utajona dysforia wchodziła na wyższy bieg.
+
+Zaraz po tym jak przeszłam tranzycję, moja rodzina i znajomi przypuścili że będę tylko i wyłącznie, albo przynajmniej głównie, "zainteresowana" mężczyznami. Każda mainstreamowa wiadomość kulturalna o kobietach (włączając w to kobiety transpłciowe) mówiła mi że muszą mi się podobać mężczyźni.
+
+Wiele specjalistów świadczących usługi "transpłciowej" opieki zdrowotnej operuje na bardzo, bardzo prymitywnym systemie gdzie cispłciowy lekarz zadaje Ci mnóstwo pytań, jak chociaż "jakimi zabawkami się bawiłaś jako dziecko?" żeby przekonać się czy wystarczająco pasujesz do tego czym kobieta "powinna być". A kobieta "powinna być" przyciągana seksualnie do mężczyzn.
+
+Tak więc transpłciowe lesbijki spotykają się z mocnymi naciskami, zarówno wewnętrznymi jak i zewnętrznymi, żeby porzucić swój lesbianizm i odczuwać przyciąganie do mężczyzn. To absolutnie nie jest podobne do czegokolwiek co odczuwa jakikolwiek heteroseksualny mężczyzna, ale za to jest bardzo podobne do doświadczeń cispłciowych lesbijek!
+
+Ostatnia rzecz - sposób w jaki jako transpłciowa lesbijka odczuwa się przyciąganie, seks i romans w stosunku do innych kobiet. Nie jest to takie samo uczucie jak "cishetowe" przyciąganie. Nie jest obarczone żadnymi z tych dziwnych, prymitywnych oczekiwań. Nie widzę nic z tego w swoim życiu.
+
+Kiedy czytam "cishetowe" doświadczenia ich seksualności, nie czuję nic poza alienacją. Kiedy czytam doświadczenia lesbijskie, rezonują ze mną głęboko i rozpoznaję w nich niektóre elementy tego jak ja doświadczam mojej seksualności w stosunku do ludzi których kocham i do których czuję przyciąganie.
+-->
 </div> }!}
 
 Dysforia roli społeczenej _bardzo mocno_ wpływa na rytuały zalotów. Bycie zmuszonym do bycia czyjąś dziewczyną czy chłopakiem jeśli nie jesteś dziewczyną czy chłopakiem jest niezwykle dezorientujące i często wywołuje silne poczucie niesprawiedliwości. Osoby o płci męskiej przypisanej przy urodzeniu mogą marzyć o tym żeby _to one_ były osobą którą ktoś się opiekuje, a osoby o płci żeńskiej przypisanej przy urodzeniu mogą odczuwać dyskomfort w związku z ilością atencji otrzymywanej od ich potencjalnych partnerów (oczywiście poza dyskomfortem który odczuwają kobiety, to odnosi się także do prawdziwej atencji a nie tylko niechcianej). Oczekiwanie ze strony ich partnerów, że wypełnią te role, mogą być znaczącym ciężarem. W kontraście, randkowanie jako Twoja prawdziwa płeć staje się euforyczne. Kup transpłciowej dziewczynie kwiaty i oglądaj jak omdlewa ze szczęścia.

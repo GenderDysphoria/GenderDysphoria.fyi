@@ -35,11 +35,13 @@ tweets:
 {{import '~/tweet' ids=[
   '1223942625708761088'
 ] tweets=meta.tweets className="" }}
-{{import '~/tweet-translation' text=[
-  'Będę kiedyś żałować, że dopłacałam za ten test, bo był dość kosztowny... ale mam zrobiony kariotyp. Właśnie dostałam wyniki.'
-  'Ja – transpłciowa kobieta – mam chromosomy XX.'
-  'tłum GC [gender critical] może iść się p***ć'
-]}}
+<!--
+Będę kiedyś żałować, że dopłacałam za ten test, bo był dość kosztowny... ale mam zrobiony kariotyp. Właśnie dostałam wyniki.
+
+Ja – transpłciowa kobieta – mam chromosomy XX.
+
+tłum GC [gender critical] może iść się p***ć
+-->
 </div>}!}
 
 Chromosomy mogą być znacznie bardziej skomplikowane niż XX i XY na dziesiątki sposobów. Istnieje medyczne określenie na te przypadki, ["zaburzenia rozwoju płci"](https://pl.wikipedia.org/wiki/Zaburzenia_rozwoju_p%C5%82ci) (przy czym słowo "zaburzenia" może być stygmatyzujące i lepiej je zastępować poprzez np. "zróżnicowanie"). Nie wszystkie skutkują interpłciowością i wiele z nich objawia się dopiero po rozpoczęciu dojrzewania.
@@ -96,19 +98,31 @@ Chromosomy mogą być znacznie bardziej skomplikowane niż XX i XY na dziesiątk
 {{import '~/tweet' ids=[
   '1208181235593490433'
 ] tweets=meta.tweets className="" }}
-{{import '~/tweet-translation' text=[
-  'Tutaj przyjazna biolożka z naprzeciwka. Widzę mnóstwo ludzi rozmawiających ostatnio o płci biologicznej i tożsamości płciowej. Wiele osób przedstawia płeć biologiczną jako coś bardzo prostego. Skoro to jest takie proste, znajdźmy biologiczne podstawy. Porozmawiajmy o płci... [wątek]'
-  'Jeśli wiesz nieco o biologii, prawdopodobnie powiesz, że płeć determinowana jest przez chromosomy, XX i jesteś kobietą, XY i jesteś mężczyzną. Jest to "płeć chromosomalna", ale czy jest to "płeć biologiczna"? Cóż...'
-  'Okazuje się, że jest tylko JEDEN GEN na chromosomie Y który rzeczywiście ma znaczenie dla płci. Zwany jest genem SRY. Podczas rozwoju embrionalnego człowieka białko SRY aktywuje geny związane z płcią męską. Posiadanie genu SRY czyni cię "genetycznie mężczyzną". Ale czy jest to "płeć biologiczna"?'
-  'Czasami ten gen SRY odłącza się od chromosomu Y i przyłącza do chromosomu X. Niespodzianka! Masz teraz X z SRY oraz Y bez SRY. Co to znaczy?'
-  'Y bez SRY oznacza, że fizycznie jesteś kobietą, chromosomalnie mężczyzną (XY) i genetycznie kobietą (brak SRY). X z SRY oznacza, że fizycznie jesteś mężczyzną, chromosomalnie kobietą (XX) i genetycznie mężczyzną (SRY). Ale płeć biologiczna jest prosta! Musi istnieć jakaś inna odpowiedź.'
-  'Geny związane z płcią ostatecznie uruchamiają hormony w specyficznych obszarach ciała, jak i receptory tych hormonów w komórkach. Czy to jest podstawą "płci biologicznej"??'
-  'Co to wszystko znaczy?'
-  'To znaczy, że możesz być genetycznie mężczyzną bądź kobietą, chromosomalnie mężczyzną bądź kobietą, hormonalnie mężczyzną/kobietą/osobą niebinarną, z komórkami, które słyszą bądź nie to męskie/kobiece/niebinarne wołanie, i wszystko to prowadzi do ciała, które może być męskie/kobiece/niebinarne.'
-  'Płeć biologiczna jest skomplikowana. Zanim kogoś dyskryminujesz z powodu "płci biologicznej" i tożsamości, zapytaj siebie: czy widziałeś SWOJE chromosomy? Czy znasz geny ludzi, których kochasz? Hormony ludzi, z którymi pracujesz? Stan ich komórek?'
-  'Oczywiście możesz odwołać się do liczb. Powiesz: "wększość ludzi jest mężczyzną lub kobietą". Tylko że jako profesorka biologii powiem ci...'
-  'Powodem, dla którego moi studenci nie sprawdzają swoich chromosomów w trakcie moich zajęć, jest to, że mogliby dowiedzieć się, że ich płeć chromosomalna nie odpowiada ich płci fizycznej, no i środek zadania za 10 punktów TO NIE JEST DOBRY MOMENT, by się tego dowiedzieć.'
-  '———'
-  '@RebeccaRHelm Jako również nauczycielka genetyki, to jest ten sam powód, dla którego mój wydział zaprzestał testowania chromosomów w laboratorium. Naprawdę fajny eksperyment mógłby przerodzić się w facetów dostających świra, bo mają XXY, itp.'
-]}}
+<!--
+Tutaj przyjazna biolożka z naprzeciwka. Widzę mnóstwo ludzi rozmawiających ostatnio o płci biologicznej i tożsamości płciowej. Wiele osób przedstawia płeć biologiczną jako coś bardzo prostego. Skoro to jest takie proste, znajdźmy biologiczne podstawy. Porozmawiajmy o płci... [wątek]
+
+Jeśli wiesz nieco o biologii, prawdopodobnie powiesz, że płeć determinowana jest przez chromosomy, XX i jesteś kobietą, XY i jesteś mężczyzną. Jest to "płeć chromosomalna", ale czy jest to "płeć biologiczna"? Cóż...
+
+Okazuje się, że jest tylko JEDEN GEN na chromosomie Y który rzeczywiście ma znaczenie dla płci. Zwany jest genem SRY. Podczas rozwoju embrionalnego człowieka białko SRY aktywuje geny związane z płcią męską. Posiadanie genu SRY czyni cię "genetycznie mężczyzną". Ale czy jest to "płeć biologiczna"?
+
+Czasami ten gen SRY odłącza się od chromosomu Y i przyłącza do chromosomu X. Niespodzianka! Masz teraz X z SRY oraz Y bez SRY. Co to znaczy?
+
+Y bez SRY oznacza, że fizycznie jesteś kobietą, chromosomalnie mężczyzną (XY) i genetycznie kobietą (brak SRY). X z SRY oznacza, że fizycznie jesteś mężczyzną, chromosomalnie kobietą (XX) i genetycznie mężczyzną (SRY). Ale płeć biologiczna jest prosta! Musi istnieć jakaś inna odpowiedź.
+
+Geny związane z płcią ostatecznie uruchamiają hormony w specyficznych obszarach ciała, jak i receptory tych hormonów w komórkach. Czy to jest podstawą "płci biologicznej"??
+
+Co to wszystko znaczy?
+
+To znaczy, że możesz być genetycznie mężczyzną bądź kobietą, chromosomalnie mężczyzną bądź kobietą, hormonalnie mężczyzną/kobietą/osobą niebinarną, z komórkami, które słyszą bądź nie to męskie/kobiece/niebinarne wołanie, i wszystko to prowadzi do ciała, które może być męskie/kobiece/niebinarne.
+
+Płeć biologiczna jest skomplikowana. Zanim kogoś dyskryminujesz z powodu "płci biologicznej" i tożsamości, zapytaj siebie: czy widziałeś SWOJE chromosomy? Czy znasz geny ludzi, których kochasz? Hormony ludzi, z którymi pracujesz? Stan ich komórek?
+
+Oczywiście możesz odwołać się do liczb. Powiesz: "większość ludzi jest mężczyzną lub kobietą". Tylko że jako profesorka biologii powiem ci...
+
+Powodem, dla którego moi studenci nie sprawdzają swoich chromosomów w trakcie moich zajęć, jest to, że mogliby dowiedzieć się, że ich płeć chromosomalna nie odpowiada ich płci fizycznej, no i środek zadania za 10 punktów TO NIE JEST DOBRY MOMENT, by się tego dowiedzieć.
+
+———
+
+@RebeccaRHelm Jako również nauczycielka genetyki, to jest ten sam powód, dla którego mój wydział zaprzestał testowania chromosomów w laboratorium. Naprawdę fajny eksperyment mógłby przerodzić się w facetów dostających świra, bo mają XXY, itp.
+-->
 </div>}!}

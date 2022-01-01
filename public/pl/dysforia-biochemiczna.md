@@ -88,12 +88,15 @@ Możesz nie przykładać wagi do swojego wyglądu, dbając jedynie o podstawowe 
   '1215738145473474560'
   '1215740224325783553'
 ] tweets=meta.tweets className="oneblock" }}
-{{import '~/tweet-translation' text=[
-  'Podświadomie czujesz, że nie jesteś "taki_a jak" inni ludzie. Twoi przyjaciele mogą cię rozumieć, ale stawiasz instynktowną i nieświadomą granicę między tobą a "normalnymi" ludźmi. Kiedy wchodzisz w interakcję z "normalną" osobą, nie wiesz, co powiedzieć i jak się zachować.'
-  'Stawianie swoich uczuć na pierwszym miejscu przychodzi ci z trudem. Wiesz, jakie emocje *powinieneś_nnaś* odczuwać, lecz zdają się one być odległe i sztuczne. Kiedy ktoś inny się wkurza, wygląda to na o wiele prawdziwsze i nagłe. Jesteś przekonany_a, że to kwestia twojego stoickiego, ostrożnego charakteru.'
-  'Często brakuje ci celu w życiu. Nie obchodziła cię zbytnio twoja odpowiedź na pytanie w szkole wyższej o cele zawodowe. Nawet praca zawierająca się w twoich zainteresowaniach wydawała się nietolerowalna. Nie potrafisz wyobrazić sobie przyszłości, w której jesteś szczęśliwy_a i spełniony_a.'
-  'Podejmujesz kroki ku poprawie swojego życia tylko wtedy, kiedy *zmusi cię* do tego jakaś zewnętrzna siła. Ty wolisz raczej wycofać się, schować i skupić na swoich eskapistycznych zainteresowaniach. Po prostu nie masz motywacji, aby osiągać cele. (Wmawiasz sobie, że to postawa zen, uwolnienie się z okowów potrzeb.)'
-]}}
+<!--
+Podświadomie czujesz, że nie jesteś "taki_a jak" inni ludzie. Twoi przyjaciele mogą cię rozumieć, ale stawiasz instynktowną i nieświadomą granicę między tobą a "normalnymi" ludźmi. Kiedy wchodzisz w interakcję z "normalną" osobą, nie wiesz, co powiedzieć i jak się zachować.
+
+Stawianie swoich uczuć na pierwszym miejscu przychodzi ci z trudem. Wiesz, jakie emocje *powinieneś_nnaś* odczuwać, lecz zdają się one być odległe i sztuczne. Kiedy ktoś inny się wkurza, wygląda to na o wiele prawdziwsze i nagłe. Jesteś przekonany_a, że to kwestia twojego stoickiego, ostrożnego charakteru.
+
+Często brakuje ci celu w życiu. Nie obchodziła cię zbytnio twoja odpowiedź na pytanie w szkole wyższej o cele zawodowe. Nawet praca zawierająca się w twoich zainteresowaniach wydawała się nietolerowalna. Nie potrafisz wyobrazić sobie przyszłości, w której jesteś szczęśliwy_a i spełniony_a.
+
+Podejmujesz kroki ku poprawie swojego życia tylko wtedy, kiedy *zmusi cię* do tego jakaś zewnętrzna siła. Ty wolisz raczej wycofać się, schować i skupić na swoich eskapistycznych zainteresowaniach. Po prostu nie masz motywacji, aby osiągać cele. (Wmawiasz sobie, że to postawa zen, uwolnienie się z okowów potrzeb.)
+-->
 </div> }!}
 
 [**Derealizacja**](https://pl.wikipedia.org/wiki/Derealizacja) jest poczuciem separacji od otaczającego cię świata, przeświadczeniem, że wszystko, czego doświadczasz, jest fałszywe.
@@ -139,11 +142,13 @@ Każde z tych doświadczeń jest normalne. To, że jednego dnia odczuwasz silną
   '1222743360034758656'
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}
-{{import '~/tweet-translation' text=[
-  'Warto zauważyć, że gdyby skonfundowana osoba cis miała zamiar podjąć terapię hormonalną i nie została powstrzymana przez absurdalną liczbę gatekeeperów oraz rzeczywistych specjalistów w dziedzinie medycyny, których podpisy są zazwyczaj potrzebne, oto, co by się stało: Weźmie kilka tabletek albo zastrzyk, co następnie sprawi, że poczuje się absolutnie beznadziejnie, jak gdyby ktoś nalał cukru do zbiornika paliwa mózgu tej osoby. W takim momencie można się spodziewać, że ta osoba cis natychmiast przestanie brać suplementy hormonalne, których nie potrzebuje, i powróci do normalnego życia bez długoterminowych konsekwencji.'
-  'Gdyby NAPRAWDĘ uparta i skonfundowana osoba cis zignorowała, że czuje się beznadziejnie, i kontynuowała przyjmowanie HRT, którego nie powinnna przyjmować, przez kilka miesięcy, może też doświadczyć trądziku i/lub oczyszczenia się skóry, u kobiety może pojawić się zarost na twarzy. Mężczyzna w takiej sytuacji może po jakimś (mniej więcej) roku czucia się beznadziejnie przez przyjmowanie suplementów z estradiolem musieć sobie radzić z ginekomastią. W tym samym czasie również taka osoba, niezależnie od płci, mogłaby spostrzec, że jej genitalia zachowują się niewłaściwie, co znów, tak jakby zgaduję, uruchomiło lampkę pod tabliczką z napisem "ej, to jest nie okej", po czym ta osoba odstawiłaby niewłaściwie używane leki. Gdzie, znów, rzeczy po prostu wróciłyby do normy.'
-  'Aha, no i cały czas mówię o HRT. Transfoby zwykle mówią o blokerach dojrzewania, jak gdyby były terapią hormonalną. Jeśli jakieś skonfundowane cis dziecko przyjmie blokery dojrzewania, konsekwencje będą obejmować... nie rozpoczęcie dojrzewania, dopóki się nie zorientuje, że przyjmuje blokery bez konkretnego powodu, i je odstawi. Nie ma żadnych efektów pobocznych, którymi można by było się martwić.'
-]}}
+<!--
+Warto zauważyć, że gdyby skonfundowana osoba cis miała zamiar podjąć terapię hormonalną i nie została powstrzymana przez absurdalną liczbę gatekeeperów oraz rzeczywistych specjalistów w dziedzinie medycyny, których podpisy są zazwyczaj potrzebne, oto, co by się stało: Weźmie kilka tabletek albo zastrzyk, co następnie sprawi, że poczuje się absolutnie beznadziejnie, jak gdyby ktoś nalał cukru do zbiornika paliwa mózgu tej osoby. W takim momencie można się spodziewać, że ta osoba cis natychmiast przestanie brać suplementy hormonalne, których nie potrzebuje, i powróci do normalnego życia bez długoterminowych konsekwencji.
+
+Gdyby NAPRAWDĘ uparta i skonfundowana osoba cis zignorowała, że czuje się beznadziejnie, i kontynuowała przyjmowanie HRT, którego nie powinnna przyjmować, przez kilka miesięcy, może też doświadczyć trądziku i/lub oczyszczenia się skóry, u kobiety może pojawić się zarost na twarzy. Mężczyzna w takiej sytuacji może po jakimś (mniej więcej) roku czucia się beznadziejnie przez przyjmowanie suplementów z estradiolem musieć sobie radzić z ginekomastią. W tym samym czasie również taka osoba, niezależnie od płci, mogłaby spostrzec, że jej genitalia zachowują się niewłaściwie, co znów, tak jakby zgaduję, uruchomiło lampkę pod tabliczką z napisem "ej, to jest nie okej", po czym ta osoba odstawiłaby niewłaściwie używane leki. Gdzie, znów, rzeczy po prostu wróciłyby do normy.
+
+Aha, no i cały czas mówię o HRT. Transfoby zwykle mówią o blokerach dojrzewania, jak gdyby były terapią hormonalną. Jeśli jakieś skonfundowane cis dziecko przyjmie blokery dojrzewania, konsekwencje będą obejmować... nie rozpoczęcie dojrzewania, dopóki się nie zorientuje, że przyjmuje blokery bez konkretnego powodu, i je odstawi. Nie ma żadnych efektów pobocznych, którymi można by było się martwić.
+-->
 </div> }!}
 
 Niekiedy będziesz słyszeć przeciwników sugerujących, że terapia hormonalna *zawsze* poprawia zdrowie psychiczne. Usłyszałam to sama, kiedy zrobiłam coming out przed moją matką. "Estrogen czyni wszystkich szczęśliwszymi". To bzdura. Kiedy cispłciowe osoby przyjmują przeciwne hormony, zawsze będą doświadczać dysforii.
