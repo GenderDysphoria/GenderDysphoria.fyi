@@ -41,9 +41,16 @@ To *nie* znaczy, że twój głos będzie automatycznie traktowany jako męski. T
 
 ### Zmiany w rozkładzie temperatury ciała
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1374039857773875201'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+Poty nocne / fale GORĄCA nawet w normalnej temperaturze pokojowej. Poty nocne skończyły się po jednym czy dwóch tygodnia, nieustanne ciepło się nie skończyło, tylko stało normalne.
+
+Twój zapach się zmnienia, nawet zapach moczu. Znaczy wiedziałem, że tak będzie, ale wciąż było to dziwne.
+-->
+</div> }!}
 
 Androgeny promują większy dopływ krwi do skrajnych części ciała, czyniąc je cieplejszymi. Z tego powodu mężczyźni mają zwykle chłodniejszy korpus, lecz cieplejszą powierzchnię ciała. Możesz zaobserwować wzrost ogólnej temperatury ciała. Efektem tego jest, że będziesz się *czuć* cieplej i prawdopodobnie nie będziesz w stanie nakładać tylu warstw ubrań, co wcześniej. Jeśli mieszkasz w miejscu o chłodnym klimacie, odsłonięcie łydek może pomóc ci wydzielić ciepło bez nadmiernego ochłodzenia.
 
@@ -119,10 +126,19 @@ Pozbycie się DPDR niemal zawsze łączy się ze zwiększoną znacznie zdolnośc
 
 Z drugiej strony, zdolność do ich wyrażania może się zmniejszyć. Niektóre osoby nie są w stanie płakać po rozpoczęciu testosteronu, lecz *nie musi* to mieć miejsca; może być to związane z tym, jak silna jest twoja dawka testo. Przyczyny tego zjawiska nie są do końca poznane, aczkolwiek pewne badania zauważyły, że androgeny modyfikują funkcjonowanie części mózgu odpowiedzialnej za przetwarzanie emocjonalne. Jeśli utracisz zdolność do płaczu, może ona powrócić z czasem, gdy twój mózg przywyknie do nowego trybu funkcjonowania i przejdziesz przez drugi okres dorastania.
 
-{!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
+{!{ <div class="gutter flex" style="justify-content: flex-end">
+{{import '~/tweet' ids=[
   '1374060995778318347'
   '1374070062236246022'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+Wiem, że wiele osób odczuwa efekt, że nie może płakać. Ale szczerze, zaraz zacznę płakać na samą myśl o płakaniu.
+
+Jestem bardzo wrażliwe i emocjonalne w sposób, na który sobie wcześniej nie pozwalałom.
+
+Dużo płaczę, ale teraz to są zawsze łzy radości.
+-->
+</div> }!}
 
 Emocjonalna deregulacja zdarza się najczęściej przed i bezpośrednio po dawkowaniu (zarówno zastrzyki, jak i żel) i skutkuje zwiększoną agresją i brakiem cierpliwości.
 
@@ -134,9 +150,14 @@ Będziesz odczuwać głód. Testosteron znacząco rozkręca metabolizm, a zwięk
 
 Niektóre osoby zgłaszają problemy z bezsennością i mniejszą liczbą zapamiętanych snów. To jest jednak doświadczenie dalekie od powszechnego.
 
-{!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
+{!{ <div class="gutter flex" style="justify-content: flex-end">
+{{import '~/tweet' ids=[
   '1374076480985128970'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+@beee_dl mój harmonogram snu był całkiem znośny przed rozpoczęciem T, po czym właściwie kompletnie się wykręcił
+-->
+</div> }!}
 
 ##### Pewność siebie
 
@@ -160,16 +181,30 @@ Wszystkie genitalia skonstruowane są z tych samych tkanek, jedynie kształtują
 
 DHT (wspomniany powyżej) odgrywa kluczową rolę w rozwoju tkanki jamistej (podlegającej erekcji) w obrębie genitaliów. Wraz ze wzrostem poziomu DHT -- wynikającego ze wzrostu poziomu testosteronu -- nabrzmiewać będą gruczoły Skenego (zwane czasami żeńską prostatą). Wywoła to przypadkowe erekcje w obrębie łechtaczki, sprawiając, że tkanka jamista będzie rosnąć. Ilość wzrostu zależy od osoby, ale typowo jest to jakieś 2,5-7,5 cm.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1374094470753423360'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+Jestem na T od dosłownie półtora tygodnia, i mogę tylko powiedzieć, że wzrost dołu i zwiększone libido pojawiają się wieeeeleeee wcześniej, niż możesz myśleć.
+-->
+</div> }!}
 
 Napletek łechtaczki i wargi sromowe staną się suchsze i grubsze, na wargach sromowych mniejszych mogą też zacząć rosnąć włosy. Samo-nawilżanie może znacząco się zmniejszyć, przez co z czasem penetracja może stać się bolesna. Używaj więcej lubrykantów, aby uniknąć naderwań i krwawienia.
 
-{!{ {{import '~/tweet' ids=[
+{!{
+{{import '~/tweet' ids=[
   '1431244822044622848'
   '1431244926214356993'
-] tweets=meta.tweets className="grid-row" }} }!}
+] tweets=meta.tweets className="grid-row" }}
+<!--
+Byłem pytany, czym jest wzrost dołu. Co tak właściwie rośnie? To główka. Łechtaczka. Może urosnąć do 4-5 cm. Długość/szerokość jest czysto genetyczna jak u cis facetów. Wygląda jak miniaturowy penis. Mój wzrost miał miejsce głównie między 3. a 12. miesiącem.
+
+----
+
+Wyhodowałem napletek. Staje się wrażliwy i boli, gdy mam skoki rozwojowe, jak pinezki czy igły :/ Miałem około 3 takie skoki. Staje mi, gdy jestem podniecony, i miewam poranne erekcje. Diagramy ze strony folxhealth.com/library/testosterone-bottom-growth.
+-->
+}!}
 
 ##### Większe emisje podczas szczytowania
 
@@ -185,17 +220,33 @@ Atrofia waginalna i maciczna często zdarza się w ciągu pierwszych pięciu lat
 
 ##### Silniejszy popęd seksualny
 
-{!{ <div class="gutter flex flex-end">{{import '~/tweet' ids=[
+{!{ <div class="gutter flex flex-end">
+{{import '~/tweet' ids=[
   '1374040823382347778'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+Żarty o nastoletnich chłopakach będących w stanie permanentnego napalenia, no, trochę tak jest. Nie niekontrolowanego, wciągającego w kłopoty napalenia, ale mógłbym uprawiać seks wiele razy w ciągu dnia.
+
+Poza tym teraz częściej "zauważam" kobiety, nadal w większości wolę facetów, ale proporcja przesunęła się nieco w kierunku centrum.
+-->
+</div> }!}
 
 Libido niemal na pewno wyjdzie poza skalę przez pierwszy rok albo dwa, najsilniej bezpośrednio po zaaplikowaniu kolejnej dawki. Możesz okazać się być bardziej asertywny_a poczas seksu, twoje preferencje mogą przesunąć się w kierunku dominacji i topowania (bycia aktywem_ką).
 
 ##### Orgazm
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1374053191445270534'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+Wspomniane zostało o orgazmach będących innymi niż wcześniej i muszę się z tym zgodzić.
+
+Moja łechtaczka naprawdę funkcjonuje teraz jak mały penis.
+
+Tak więc, wcześniej miałom te orgazmy, które mogły być bardzo intensywne, ale nigdy satysfakcjonujące. Teraz moje orgazmy są mniej intensywne, lecz wreszcie czuję, że dochodzę.
+-->
+</div> }!}
 
 "Kształt" orgazmu może ulec zmianie. Zamiast kaskady, uderza jak eksplozja z krocza.
 
@@ -207,9 +258,14 @@ Udowodnione zostało, że testosteron wzmacnia podniecenie pochodzące od wizual
 
 Podwyższenie poziomu androgenów w ciele sprawia, że podwzgórze ogranicza produkcję hormonów kontrolujących jajniki. To z kolei ogranicza sumaryczną ilość dostępnego estrogenu i może zatrzymać owulację. Bez owulacji i z niższym poziomem FSH, macica będzie mniej chętna do gromadzenia i uwalniania nabłonka, skutkując zaprzestaniem krwawienia.
 
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
   '1374054574579798016'
-] tweets=meta.tweets className="hide-mentions" }}</div> }!}
+] tweets=meta.tweets className="hide-mentions" }}
+<!--
+CW miesiączkowanie: jeśli będziesz przyjmować [HRT] przez jakiś czas, a potem na trochę przerwiesz, twój okres wróci i będzie WŚCIEKŁY
+-->
+</div> }!}
 
 Możesz jednak wciąż doświadczać innych symptomów okresu, jako że podwzgórze może wciąż aktywować inne aspekty cyklu. Może to mieć miejsce nawet po pełnej histerektomii, aczkolwiek nie jest to częste.
 
