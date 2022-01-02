@@ -8,8 +8,8 @@ lang: pl
 siblings:
   prev: /pl/dysforia-roli-spolecznej
   prevCaption: Dysforia roli społecznej
-  next: /pl/dysforia-prezentacyjna
-  nextCaption: Dysforia prezentacyjna
+  next: /pl/dysforia-prezencji
+  nextCaption: Dysforia prezencji
 classes:
   - gdb
 tweets:

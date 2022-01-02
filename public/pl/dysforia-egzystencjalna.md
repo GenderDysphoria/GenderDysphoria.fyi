@@ -6,8 +6,8 @@ description: "Nie żałuję rzeczy, które zrobiłem_am, żałuję rzeczy, któr
 preBody: '_disclaimer'
 lang: pl
 siblings:
-  prev: /pl/dysforia-prezentacyjna
-  prevCaption: Dysforia prezentacyjna
+  prev: /pl/dysforia-prezencji
+  prevCaption: Dysforia prezencji
   next: /pl/ukryta-dysforia
   nextCaption: Ukryta dysforia
 classes:

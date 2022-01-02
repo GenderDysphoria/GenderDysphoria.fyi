@@ -46,7 +46,7 @@ classes:
 
 9. [Dysforia seksualna](/pl/dysforia-seksualna)
 
-10. [Dysforia prezentacyjna](/pl/dysforia-prezentacyjna)
+10. [Dysforia prezencji](/pl/dysforia-prezencji)
 
 11. [Dysforia egzystencjalna](/pl/dysforia-egzystencjalna)
 
