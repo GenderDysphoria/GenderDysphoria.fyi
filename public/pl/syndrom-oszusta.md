@@ -6,8 +6,8 @@ description: "Czy aby naprawdę jestem trans?"
 preBody: '_disclaimer'
 lang: pl
 siblings:
-  prev: /pl/tlumienie-dysforii
-  prevCaption: Tłumienie dysforii
+  prev: /pl/mechanizmy-obronne
+  prevCaption: Mechanizmy obronne
   next: /pl/czy-jestem-trans
   nextCaption: Czy jestem trans?
 classes:

@@ -8,8 +8,8 @@ lang: pl
 siblings:
   prev: /pl/dysforia-prezencji
   prevCaption: Dysforia prezencji
-  next: /pl/ukryta-dysforia
-  nextCaption: Ukryta dysforia
+  next: /pl/mechanizmy-obronne
+  nextCaption: Mechanizmy obronne
 classes:
   - gdb
 ---

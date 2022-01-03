@@ -50,7 +50,7 @@ classes:
 
 11. [Dysforia egzystencjalna](/pl/dysforia-egzystencjalna)
 
-12. [Ukryta dysforia](/pl/ukryta-dysforia)
+12. [Mechanizmy obronne](/pl/mechanizmy-obronne)
 
 13. [Syndrom oszusta](/pl/syndrom-oszusta)
 

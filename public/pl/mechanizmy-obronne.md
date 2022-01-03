@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Ukryta dysforia: dysforia w przebraniu"
-linkTitle: "Ukryta dysforia"
+title: "Mechanizmy obronne: dysforia w przebraniu"
+linkTitle: "Mechanizmy obronne"
 description: "Sposoby, w jakie sobie radziliśmy_łyśmy."
 preBody: '_disclaimer'
 lang: pl
@@ -17,6 +17,6 @@ tweets:
   - '1215749725456125952'
 ---
 
-# Ukryta dysforia
+# Mechanizmy obronne
 
 lorem ipsum
