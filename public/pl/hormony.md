@@ -41,9 +41,9 @@ Są cztery główne rodzaje hormonów:
 - [eikozanoidy](https://pl.wikipedia.org/wiki/Eikozanoidy), powstałe z tłuszczów i kwasów tłuszczowych, przede wszystkim oddziałowujące na układ immunologiczny,
 - [steroidy](https://pl.wikipedia.org/wiki/Steroidy), produkowane przez różne organy wewnętrzne, których głównym zastosowaniem jest przekazywanie komunikatów do innych organów.
 
-{!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
+{!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis_pl
   className="card"
-  link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
+  link="https://en.wikipedia.org/wiki/File:Steroidogenesis_pl.svg"
   external=1
   alt="Diagram metaboliki steroidów"
   caption="Wszystkie steroidy powstają z cholesteroli (górny lewy róg) bądź pochodzą od innych steroidów. Progestageny przekształcają się w androgeny, które przekształcają się w estrogeny. Jest to jednokierunkowy proces, więc nie wierz, kiedy ktoś ci powie, że nadmiar estrogenu przekształci się w testosteron."

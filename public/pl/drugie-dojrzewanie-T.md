@@ -171,7 +171,7 @@ Ekstremalnie często trans osoby każdego typu stają się bardziej społeczne p
 
 {!{
 <div class="gutter flex flex-center">
-{{import '~/img' images.homology link='https://www.vielma.at/' }}
+{{import '~/img' images.homology_pl link='https://www.vielma.at/' }}
 </div>
 }!}
 

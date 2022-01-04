@@ -39,7 +39,7 @@ Być może kojarzysz tę scenę z "Parku Jurajskiego":
 
 {!{
 <div class="gutter flex flex-center print-span3">
-  {{import '~/img' images.fetalgenitals
+  {{import '~/img' images.fetalgenitals_pl
     className="card"
     caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>"
     alt="Rozwój płodowy wewnętrznej anatomii płciowej"
