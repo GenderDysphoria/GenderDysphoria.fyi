@@ -36,10 +36,10 @@ W pewnych przypadkach hormon może działać jako inhibitor bądź inicjator dla
 
 Są cztery główne rodzaje hormonów:
 
-- [aminokwasy](https:://pl.wikipedia.org/wiki/Aminokwasy), takie jak melatonina kontrolująca sen czy tyroksyna regulująca metabolizm,
-- [peptydy](https:://pl.wikipedia.org/wiki/Peptydy), takie jak oksytocyna i insulina, które powstają poprzez połączenie co najmniej dwóch aminokwasów wiązaniem peptydowym,
-- [eikozanoidy](https:://pl.wikipedia.org/wiki/Eikozanoidy), powstałe z tłuszczów i kwasów tłuszczowych, przede wszystkim oddziałowujące na układ immunologiczny,
-- [steroidy](https:://pl.wikipedia.org/wiki/Steroidy), produkowane przez różne organy wewnętrzne, których głównym zastosowaniem jest przekazywanie komunikatów do innych organów.
+- [aminokwasy](https://pl.wikipedia.org/wiki/Aminokwasy), takie jak melatonina kontrolująca sen czy tyroksyna regulująca metabolizm,
+- [peptydy](https://pl.wikipedia.org/wiki/Peptydy), takie jak oksytocyna i insulina, które powstają poprzez połączenie co najmniej dwóch aminokwasów wiązaniem peptydowym,
+- [eikozanoidy](https://pl.wikipedia.org/wiki/Eikozanoidy), powstałe z tłuszczów i kwasów tłuszczowych, przede wszystkim oddziałowujące na układ immunologiczny,
+- [steroidy](https://pl.wikipedia.org/wiki/Steroidy), produkowane przez różne organy wewnętrzne, których głównym zastosowaniem jest przekazywanie komunikatów do innych organów.
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
