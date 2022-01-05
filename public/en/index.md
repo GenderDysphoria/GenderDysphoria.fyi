@@ -27,7 +27,7 @@ siblings:
 
 {!{ <div class="two-column-list"> }!}
 
-1. [Introduction](#introduction)
+1. [Introduction](/en/#introduction)
 
 2. [What is Gender?](/en/what-is-gender)
 

@@ -23,7 +23,9 @@ The purpose of this site is to document the many ways that Gender Dysphoria can 
 
 ### Table of Contents
 
-1. [What is Gender?](/en/what-is-gender)
+1. [Introduction](/en/#introduction)
+
+2. [What is Gender?](/en/what-is-gender)
 
 3. [The History of Gender Dysphoria](/en/history)
 
