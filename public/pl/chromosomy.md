@@ -44,7 +44,7 @@ tłum GC [gender critical] może iść się p***ć
 -->
 </div>}!}
 
-Chromosomy mogą być znacznie bardziej skomplikowane niż XX i XY na dziesiątki sposobów. Istnieje medyczne określenie na te przypadki, ["zaburzenia rozwoju płci"](https://pl.wikipedia.org/wiki/Zaburzenia_rozwoju_p%C5%82ci) (przy czym słowo "zaburzenia" może być stygmatyzujące i lepiej je zastępować poprzez np. "zróżnicowanie"). Nie wszystkie skutkują interpłciowością i wiele z nich objawia się dopiero po rozpoczęciu dojrzewania.
+Chromosomy mogą być znacznie bardziej skomplikowane niż XX i XY na dziesiątki sposobów. Istnieje medyczne określenie na te przypadki, ["zaburzenia rozwoju płci"](https://pl.wikipedia.org/wiki/Zaburzenia_rozwoju_p%C5%82ci) (przy czym słowo "zaburzenia" jest stygmatyzujące i dobrze jest je zastępować poprzez np. "zróżnicowanie"). Nie wszystkie skutkują interpłciowością i wiele z nich objawia się dopiero po rozpoczęciu dojrzewania.
 
 - [Syndrom de la Chapelle](https://pl.wikipedia.org/wiki/Syndrom_de_la_Chapelle) (46,XX mężczyzna) ma miejsce, gdy gen SRY ze spermy rodzica weźmie atypowo udział w procesie *crossing over* do plemnika bez chromosomu Y podczas spermatogenezy. Kiedy jajo i plemnik łączą się, skutkuje to płodem o chromosomach XX z genem SRY, a w rezultacie fenotypowo męskim dzieckiem z dwoma chromosomami X.
 
@@ -61,7 +61,7 @@ Chromosomy mogą być znacznie bardziej skomplikowane niż XX i XY na dziesiątk
 
 - [Zespół Klinefeltera](https://pl.wikipedia.org/wiki/Zespół_Klinefeltera) (47,XXY) skutkuje fenotypowo męskim dzieckiem z bardziej kobiecymi cechami. W ekstremalnie rzadkich przypadkach [przydarza się również wśród dzieci z żeńską płcią nadaną przy urodzeniu](https://www.ncbi.nlm.nih.gov/pubmed/15755052), skutkując sfeminizowanymi jądrami zamiast jajników.
 
-- 49,XXXXY jest często śmiertelny, lecz kiedy nie jest, zawsze skutkuje niepłodnością.
+- 49,XXXXY jest często śmiertelny, lecz kiedy nie jest, niemal zawsze skutkuje niepłodnością.
 
 - [Trisomia chromosomu X](https://pl.wikipedia.org/wiki/Trisomia_chromosomu_X) (47,XXX), [Tetrasomia chromosomu X](https://pl.wikipedia.org/wiki/Tetrasomia_chromosomu_X) (48,XXXX) i [Pentasomia chromosomu X](https://pl.wikipedia.org/wiki/Pentasomia_chromosomu_X) (49,XXXXX) skutkują dzieckiem płci żeńskiej, lecz z odpowiednio cięższymi problemami zdrowotnymi.
 
