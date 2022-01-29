@@ -67653,5 +67653,5254 @@
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "und"
+  },
+  "1487073199393284100": {
+    "created_at": "Fri Jan 28 14:40:53 +0000 2022",
+    "id": 1487073199393284000,
+    "id_str": "1487073199393284100",
+    "full_text": "@StepUp4Trans For further reading about Magnus Hirschfield and the Institute of Sexual Sciences:\nhttps://t.co/BQBSxXe7OU\nhttps://t.co/a642La4Iw4\nhttps://t.co/RiDdW1CC3W\nhttps://t.co/wunG5PVIN2",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      192
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BQBSxXe7OU",
+          "expanded_url": "https://www.britannica.com/biography/Magnus-Hirschfeld#ref1221879",
+          "display_url": "britannica.com/biography/Magn…",
+          "indices": [
+            97,
+            120
+          ]
+        },
+        {
+          "url": "https://t.co/a642La4Iw4",
+          "expanded_url": "https://www.teenvogue.com/story/lgbtq-institute-in-germany-was-burned-down-by-nazis",
+          "display_url": "teenvogue.com/story/lgbtq-in…",
+          "indices": [
+            121,
+            144
+          ]
+        },
+        {
+          "url": "https://t.co/RiDdW1CC3W",
+          "expanded_url": "https://gcn.ie/queer-people-existed-stonewall-history-magnus-hirschfeld-institute-sexual-science/",
+          "display_url": "gcn.ie/queer-people-e…",
+          "indices": [
+            145,
+            168
+          ]
+        },
+        {
+          "url": "https://t.co/wunG5PVIN2",
+          "expanded_url": "https://www.theparisreview.org/blog/2019/01/15/a-lost-piece-of-trans-history/",
+          "display_url": "theparisreview.org/blog/2019/01/1…",
+          "indices": [
+            169,
+            192
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487072861370163200,
+    "in_reply_to_status_id_str": "1487072861370163202",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 214,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487072861370163202": {
+    "created_at": "Fri Jan 28 14:39:33 +0000 2022",
+    "id": 1487072861370163200,
+    "id_str": "1487072861370163202",
+    "full_text": "@StepUp4Trans There’s no more time for performative allyship. If every person who tweeted #TransRightsAreHumanRights took these steps, maybe I’d believe my life has value to them besides as a woke hashtag. #CisPeopleDoSomething to keep kids safe. Please. We're depending on you.",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TransRightsAreHumanRights",
+          "indices": [
+            90,
+            116
+          ]
+        },
+        {
+          "text": "CisPeopleDoSomething",
+          "indices": [
+            206,
+            227
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487072720898732000,
+    "in_reply_to_status_id_str": "1487072720898732037",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 218,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487072720898732037": {
+    "created_at": "Fri Jan 28 14:38:59 +0000 2022",
+    "id": 1487072720898732000,
+    "id_str": "1487072720898732037",
+    "full_text": "@StepUp4Trans Support trans people right now. Show compassion. Send funds if you can. A lot of us are in precarious situations, mentally and physically, and are just trying to hold it together. Trans people add your need posts here.",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      232
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487072674018910200,
+    "in_reply_to_status_id_str": "1487072674018910208",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 230,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487072674018910208": {
+    "created_at": "Fri Jan 28 14:38:48 +0000 2022",
+    "id": 1487072674018910200,
+    "id_str": "1487072674018910208",
+    "full_text": "@StepUp4Trans Throw a fuss, work in your organizations. Try your damnedest to make politicians and corporations who supported these motions regret it. Make an example of them. These bills are feelers to see how far they can go without pushback. Give. Them. Pushback. Be an inconvenience. Resist",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      294
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487072624589131800,
+    "in_reply_to_status_id_str": "1487072624589131778",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 240,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487072624589131778": {
+    "created_at": "Fri Jan 28 14:38:36 +0000 2022",
+    "id": 1487072624589131800,
+    "id_str": "1487072624589131778",
+    "full_text": "@StepUp4Trans Talk to other cis people about what’s going on. You can use my posts to explain. You can do your best to explain on your own. You can google the hundreds upon hundreds of guides desperate trans people have written for you. Speak. Up. Get other cis people to care.",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487072477805269000,
+    "in_reply_to_status_id_str": "1487072477805268993",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 353,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487072477805268993": {
+    "created_at": "Fri Jan 28 14:38:01 +0000 2022",
+    "id": 1487072477805269000,
+    "id_str": "1487072477805268993",
+    "full_text": "@StepUp4Trans Since this time last year, things have only gotten worse. But it doesn't have to be this way.\nhttps://t.co/fUFniAdELc",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      131
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fUFniAdELc",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064?s=20&t=jDr26DHGzf3v5p0QCn_EfA",
+          "display_url": "twitter.com/AlexPetrovnia/…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487072071263953000,
+    "in_reply_to_status_id_str": "1487072071263952897",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1384387313812312000,
+    "quoted_status_id_str": "1384387313812312064",
+    "quoted_status_permalink": {
+      "url": "https://t.co/fUFniAdELc",
+      "expanded": "https://twitter.com/AlexPetrovnia/status/1384387313812312064?s=20&t=jDr26DHGzf3v5p0QCn_EfA",
+      "display": "twitter.com/AlexPetrovnia/…"
+    },
+    "quoted_status": {
+      "created_at": "Tue Apr 20 06:03:50 +0000 2021",
+      "id": 1384387313812312000,
+      "id_str": "1384387313812312064",
+      "full_text": "A decade before WWII, trans culture and trans existence was deemed a threat. Propaganda was used to paint us as “converting youths to unclean lifestyles”. Sound familiar to “corrupting our children”?\n\nThis is happening now. They won’t stop here. Do something. https://t.co/tlgpGvkSfk https://t.co/Cmsqe7PlKM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        283
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tlgpGvkSfk",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352425088323362819",
+            "display_url": "twitter.com/AlexPetrovnia/…",
+            "indices": [
+              260,
+              283
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1384387309659992000,
+            "id_str": "1384387309659992065",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+            "url": "https://t.co/Cmsqe7PlKM",
+            "display_url": "pic.twitter.com/Cmsqe7PlKM",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 1180,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 432,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1180,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1384387309659992000,
+            "id_str": "1384387309659992065",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+            "url": "https://t.co/Cmsqe7PlKM",
+            "display_url": "pic.twitter.com/Cmsqe7PlKM",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 1180,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 432,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1180,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1384387309668339700,
+            "id_str": "1384387309668339712",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzZU7GBXEAAvQ9T.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzZU7GBXEAAvQ9T.jpg",
+            "url": "https://t.co/Cmsqe7PlKM",
+            "display_url": "pic.twitter.com/Cmsqe7PlKM",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 434,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 1174,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1174,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1384387309659992000,
+            "id_str": "1384387309659992064",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzZU7F_XsAAz8wm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzZU7F_XsAAz8wm.jpg",
+            "url": "https://t.co/Cmsqe7PlKM",
+            "display_url": "pic.twitter.com/Cmsqe7PlKM",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1170,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 1170,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 436,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1384387309668286500,
+            "id_str": "1384387309668286466",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzZU7GBWQAIUbOC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzZU7GBWQAIUbOC.jpg",
+            "url": "https://t.co/Cmsqe7PlKM",
+            "display_url": "pic.twitter.com/Cmsqe7PlKM",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 788,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 788,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1287839991754903600,
+        "id_str": "1287839991754903555",
+        "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+        "screen_name": "AlexPetrovnia",
+        "location": "State College, Susquehannock",
+        "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+        "url": "https://t.co/vLeRdc4AGV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vLeRdc4AGV",
+                "expanded_url": "http://www.transformationsproject.org/",
+                "display_url": "transformationsproject.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 32828,
+        "friends_count": 4831,
+        "listed_count": 191,
+        "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+        "favourites_count": 78389,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25487,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1352425088323362800,
+      "quoted_status_id_str": "1352425088323362819",
+      "quoted_status_permalink": {
+        "url": "https://t.co/tlgpGvkSfk",
+        "expanded": "https://twitter.com/AlexPetrovnia/status/1352425088323362819",
+        "display": "twitter.com/AlexPetrovnia/…"
+      },
+      "retweet_count": 126,
+      "favorite_count": 253,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 29,
+    "favorite_count": 314,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1384387313812312064": {
+    "created_at": "Tue Apr 20 06:03:50 +0000 2021",
+    "id": 1384387313812312000,
+    "id_str": "1384387313812312064",
+    "full_text": "A decade before WWII, trans culture and trans existence was deemed a threat. Propaganda was used to paint us as “converting youths to unclean lifestyles”. Sound familiar to “corrupting our children”?\n\nThis is happening now. They won’t stop here. Do something. https://t.co/tlgpGvkSfk https://t.co/Cmsqe7PlKM",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      283
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tlgpGvkSfk",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352425088323362819",
+          "display_url": "twitter.com/AlexPetrovnia/…",
+          "indices": [
+            260,
+            283
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1384387309659992000,
+          "id_str": "1384387309659992065",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+          "url": "https://t.co/Cmsqe7PlKM",
+          "display_url": "pic.twitter.com/Cmsqe7PlKM",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1180,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 432,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1180,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1384387309659992000,
+          "id_str": "1384387309659992065",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzZU7F_XsAE1Xcy.jpg",
+          "url": "https://t.co/Cmsqe7PlKM",
+          "display_url": "pic.twitter.com/Cmsqe7PlKM",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1180,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 432,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1180,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1384387309668339700,
+          "id_str": "1384387309668339712",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzZU7GBXEAAvQ9T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzZU7GBXEAAvQ9T.jpg",
+          "url": "https://t.co/Cmsqe7PlKM",
+          "display_url": "pic.twitter.com/Cmsqe7PlKM",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 434,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1174,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1174,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1384387309659992000,
+          "id_str": "1384387309659992064",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzZU7F_XsAAz8wm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzZU7F_XsAAz8wm.jpg",
+          "url": "https://t.co/Cmsqe7PlKM",
+          "display_url": "pic.twitter.com/Cmsqe7PlKM",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1170,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1170,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 436,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1384387309668286500,
+          "id_str": "1384387309668286466",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzZU7GBWQAIUbOC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzZU7GBWQAIUbOC.jpg",
+          "url": "https://t.co/Cmsqe7PlKM",
+          "display_url": "pic.twitter.com/Cmsqe7PlKM",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1384387313812312064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 788,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 788,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1352425088323362800,
+    "quoted_status_id_str": "1352425088323362819",
+    "quoted_status_permalink": {
+      "url": "https://t.co/tlgpGvkSfk",
+      "expanded": "https://twitter.com/AlexPetrovnia/status/1352425088323362819",
+      "display": "twitter.com/AlexPetrovnia/…"
+    },
+    "quoted_status": {
+      "created_at": "Fri Jan 22 01:17:22 +0000 2021",
+      "id": 1352425088323362800,
+      "id_str": "1352425088323362819",
+      "full_text": "In 1933, what was then the queer rights capital of the world was burned by the burgeoning Nazi party. Most notably, all books from the institute were burned. This was to prevent the spread of dangerous ideas that were “converting youths into unclean lifestyles”. https://t.co/aZC7SnRwlI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1352425085307596800,
+            "id_str": "1352425085307596800",
+            "indices": [
+              263,
+              286
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+            "url": "https://t.co/aZC7SnRwlI",
+            "display_url": "pic.twitter.com/aZC7SnRwlI",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352425088323362819/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 300,
+                "h": 239,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 300,
+                "h": 239,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 300,
+                "h": 239,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1352425085307596800,
+            "id_str": "1352425085307596800",
+            "indices": [
+              263,
+              286
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+            "url": "https://t.co/aZC7SnRwlI",
+            "display_url": "pic.twitter.com/aZC7SnRwlI",
+            "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352425088323362819/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 300,
+                "h": 239,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 300,
+                "h": 239,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 300,
+                "h": 239,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1352424598604755000,
+      "in_reply_to_status_id_str": "1352424598604754944",
+      "in_reply_to_user_id": 1287839991754903600,
+      "in_reply_to_user_id_str": "1287839991754903555",
+      "in_reply_to_screen_name": "AlexPetrovnia",
+      "user": {
+        "id": 1287839991754903600,
+        "id_str": "1287839991754903555",
+        "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+        "screen_name": "AlexPetrovnia",
+        "location": "State College, Susquehannock",
+        "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+        "url": "https://t.co/vLeRdc4AGV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vLeRdc4AGV",
+                "expanded_url": "http://www.transformationsproject.org/",
+                "display_url": "transformationsproject.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 32828,
+        "friends_count": 4831,
+        "listed_count": 191,
+        "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+        "favourites_count": 78389,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25487,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 318,
+      "favorite_count": 5003,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 126,
+    "favorite_count": 253,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1352425088323362819": {
+    "created_at": "Fri Jan 22 01:17:22 +0000 2021",
+    "id": 1352425088323362800,
+    "id_str": "1352425088323362819",
+    "full_text": "In 1933, what was then the queer rights capital of the world was burned by the burgeoning Nazi party. Most notably, all books from the institute were burned. This was to prevent the spread of dangerous ideas that were “converting youths into unclean lifestyles”. https://t.co/aZC7SnRwlI",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1352425085307596800,
+          "id_str": "1352425085307596800",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+          "url": "https://t.co/aZC7SnRwlI",
+          "display_url": "pic.twitter.com/aZC7SnRwlI",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352425088323362819/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 239,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 239,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 239,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1352425085307596800,
+          "id_str": "1352425085307596800",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsTHcxsWMAAGXlG.jpg",
+          "url": "https://t.co/aZC7SnRwlI",
+          "display_url": "pic.twitter.com/aZC7SnRwlI",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352425088323362819/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 239,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 239,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 239,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1352424598604755000,
+    "in_reply_to_status_id_str": "1352424598604754944",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 318,
+    "favorite_count": 5003,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487072071263952897": {
+    "created_at": "Fri Jan 28 14:36:24 +0000 2022",
+    "id": 1487072071263953000,
+    "id_str": "1487072071263952897",
+    "full_text": "You can also find daily updates and more at @StepUp4Trans.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      58
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepUp4Trans",
+          "name": "#StepUpForTransKids",
+          "id": 1440685516110774300,
+          "id_str": "1440685516110774276",
+          "indices": [
+            44,
+            57
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487071919384023000,
+    "in_reply_to_status_id_str": "1487071919384023040",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 272,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487071919384023040": {
+    "created_at": "Fri Jan 28 14:35:48 +0000 2022",
+    "id": 1487071919384023000,
+    "id_str": "1487071919384023040",
+    "full_text": "If you live in the United States, there are more than 75 anti-trans laws that are currently being considered, and it's only January. That's more than two hateful laws per state. I urge you to please go to https://t.co/7hIQH7Hpqa to learn about bills in your state and reach out.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7hIQH7Hpqa",
+          "expanded_url": "http://transformationsproject.org",
+          "display_url": "transformationsproject.org",
+          "indices": [
+            205,
+            228
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487071542110568400,
+    "in_reply_to_status_id_str": "1487071542110568448",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 108,
+    "favorite_count": 426,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487071542110568448": {
+    "created_at": "Fri Jan 28 14:34:18 +0000 2022",
+    "id": 1487071542110568400,
+    "id_str": "1487071542110568448",
+    "full_text": "The cultural war on trans rights is happening all around us, and it is going largely unnoticed by the general population. I beg you to stand up and to do something now, before it's too late. Before they come for someone else. Before trans people have to suffer any more.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      270
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487071276254572500,
+    "in_reply_to_status_id_str": "1487071276254572545",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 67,
+    "favorite_count": 500,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487071276254572545": {
+    "created_at": "Fri Jan 28 14:33:15 +0000 2022",
+    "id": 1487071276254572500,
+    "id_str": "1487071276254572545",
+    "full_text": "So I urge you to make the connection - in the rise of fascism, they came for queer people early. They came for trans people early. And I urge you to look around at the current state of the world.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      195
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070872288604200,
+    "in_reply_to_status_id_str": "1487070872288604169",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 196,
+    "favorite_count": 771,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070872288604169": {
+    "created_at": "Fri Jan 28 14:31:39 +0000 2022",
+    "id": 1487070872288604200,
+    "id_str": "1487070872288604169",
+    "full_text": "But what's often missing from that narrative is this story - of Magnus Hirschfield, and of the Institute of Sexual Sciences, and of the unfathomable amount of knowledge and lives destroyed in prejudice nearly a decade before war broke out.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      239
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070870225010700,
+    "in_reply_to_status_id_str": "1487070870225010688",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 485,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070870225010688": {
+    "created_at": "Fri Jan 28 14:31:38 +0000 2022",
+    "id": 1487070870225010700,
+    "id_str": "1487070870225010688",
+    "full_text": "One aspect that is repeated, over and over again when it comes to Holocaust stories, is that we must remain vigilant against the rise of fascism, and never, ever allow such atrocities to happen again.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      200
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070868329189400,
+    "in_reply_to_status_id_str": "1487070868329189382",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 447,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070868329189382": {
+    "created_at": "Fri Jan 28 14:31:38 +0000 2022",
+    "id": 1487070868329189400,
+    "id_str": "1487070868329189382",
+    "full_text": "Upon liberation of camps, when other prisoners were freed, queer prisoners were merely transported to different prisons. After all, they were still committing what were considered illegal and deviant acts.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      205
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070866102005800,
+    "in_reply_to_status_id_str": "1487070866102005761",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "favorite_count": 471,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070866102005761": {
+    "created_at": "Fri Jan 28 14:31:37 +0000 2022",
+    "id": 1487070866102005800,
+    "id_str": "1487070866102005761",
+    "full_text": "Lesbians (and afab trans people) were labeled as \"antisocial\" and labeled with black triangles. Queer prisoners of concentration camps were considered the lowest of the low, being treated notably worse by guards and by other prisoners.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      235
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070863744807000,
+    "in_reply_to_status_id_str": "1487070863744806919",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 417,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070863744806919": {
+    "created_at": "Fri Jan 28 14:31:37 +0000 2022",
+    "id": 1487070863744807000,
+    "id_str": "1487070863744806919",
+    "full_text": "This would set the tone for the future, when queer people were notoriously hunted down as undesireables and placed in concentration camps. Gay men (and amab trans people) were famously labeled with pink triangles. \nI wrote about the pink triangle here: https://t.co/E8iSDhjn15",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E8iSDhjn15",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1352418425663008768?s=20&t=-O3OsLvcKwaq7qPNH4FUig",
+          "display_url": "twitter.com/AlexPetrovnia/…",
+          "indices": [
+            253,
+            276
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070861592916000,
+    "in_reply_to_status_id_str": "1487070861592915973",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1352418425663008800,
+    "quoted_status_id_str": "1352418425663008768",
+    "quoted_status_permalink": {
+      "url": "https://t.co/E8iSDhjn15",
+      "expanded": "https://twitter.com/AlexPetrovnia/status/1352418425663008768?s=20&t=-O3OsLvcKwaq7qPNH4FUig",
+      "display": "twitter.com/AlexPetrovnia/…"
+    },
+    "quoted_status": {
+      "created_at": "Fri Jan 22 00:50:54 +0000 2021",
+      "id": 1352418425663008800,
+      "id_str": "1352418425663008768",
+      "full_text": "So apparently today was the first time a lot of people on my TL learned what a TERF is, so I’m going to educate y’all on some more queer history, since it’s shockingly unknown. For today, let’s talk about the color pink. 🧵",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1287839991754903600,
+        "id_str": "1287839991754903555",
+        "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+        "screen_name": "AlexPetrovnia",
+        "location": "State College, Susquehannock",
+        "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+        "url": "https://t.co/vLeRdc4AGV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vLeRdc4AGV",
+                "expanded_url": "http://www.transformationsproject.org/",
+                "display_url": "transformationsproject.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 32828,
+        "friends_count": 4831,
+        "listed_count": 191,
+        "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+        "favourites_count": 78389,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25487,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 18936,
+      "favorite_count": 46640,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 43,
+    "favorite_count": 439,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1352418425663008768": {
+    "created_at": "Fri Jan 22 00:50:54 +0000 2021",
+    "id": 1352418425663008800,
+    "id_str": "1352418425663008768",
+    "full_text": "So apparently today was the first time a lot of people on my TL learned what a TERF is, so I’m going to educate y’all on some more queer history, since it’s shockingly unknown. For today, let’s talk about the color pink. 🧵",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      222
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18936,
+    "favorite_count": 46640,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070861592915973": {
+    "created_at": "Fri Jan 28 14:31:36 +0000 2022",
+    "id": 1487070861592916000,
+    "id_str": "1487070861592915973",
+    "full_text": "What is also notable, however, is what the students did not burn. They did not burn patient's medical records, but instead used them to hunt down previous patients of the Institute for persecution under the law.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      211
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070859009441800,
+    "in_reply_to_status_id_str": "1487070859009441797",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 451,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070859009441797": {
+    "created_at": "Fri Jan 28 14:31:35 +0000 2022",
+    "id": 1487070859009441800,
+    "id_str": "1487070859009441797",
+    "full_text": "Nearly 20,000 volumes, many of which could be found nowhere else, were burned. The amount of knowledge of queerness, gender equality, tolerance and trans medical care that was lost can never be fully known.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      206
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070856757006300,
+    "in_reply_to_status_id_str": "1487070856757006341",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "favorite_count": 538,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070856757006341": {
+    "created_at": "Fri Jan 28 14:31:35 +0000 2022",
+    "id": 1487070856757006300,
+    "id_str": "1487070856757006341",
+    "full_text": "On that date, fascist students overran the Institute, ransacking the library. You've almost certainly seen this image before, although without its specific circumstances. The first \"Nazi Book Burning\", nearly a decade before WWII, was of the Institute for Sexual Sciences' library https://t.co/49JHrWagvB",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1487067353661812700,
+          "id_str": "1487067353661812736",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMf4RwXsAAQ9ft.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMf4RwXsAAQ9ft.jpg",
+          "url": "https://t.co/49JHrWagvB",
+          "display_url": "pic.twitter.com/49JHrWagvB",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070856757006341/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 768,
+              "h": 609,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 539,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 609,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1487067353661812700,
+          "id_str": "1487067353661812736",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMf4RwXsAAQ9ft.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMf4RwXsAAQ9ft.jpg",
+          "url": "https://t.co/49JHrWagvB",
+          "display_url": "pic.twitter.com/49JHrWagvB",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070856757006341/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 768,
+              "h": 609,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 539,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 609,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070851958812700,
+    "in_reply_to_status_id_str": "1487070851958812674",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 129,
+    "favorite_count": 583,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487070851958812674": {
+    "created_at": "Fri Jan 28 14:31:34 +0000 2022",
+    "id": 1487070851958812700,
+    "id_str": "1487070851958812674",
+    "full_text": "There were arguments that the Institute was \"corrupting youth into unclean lifestyles\" and that Hirschfield was a \"morally corrupt Jew\". These arguments boiled over on May 6th, 1933.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      182
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070850113314800,
+    "in_reply_to_status_id_str": "1487070850113314819",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 366,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070850113314819": {
+    "created_at": "Fri Jan 28 14:31:33 +0000 2022",
+    "id": 1487070850113314800,
+    "id_str": "1487070850113314819",
+    "full_text": "The Institute eventually went on to have over 40 full time employees interested in research and advocacy for queer and intersex individuals who otherwise had nowhere to turn. But from the beginning, the Institute had been controversial.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      236
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070847793864700,
+    "in_reply_to_status_id_str": "1487070847793864713",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 385,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070847793864713": {
+    "created_at": "Fri Jan 28 14:31:33 +0000 2022",
+    "id": 1487070847793864700,
+    "id_str": "1487070847793864713",
+    "full_text": "The Institute was also the first place to allow for trans-affirming medical care, including HRT and trans affirming surgeries. https://t.co/Cpa29OfEgc",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      126
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1487068928635457500,
+          "id_str": "1487068928635457544",
+          "indices": [
+            127,
+            150
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMhT8_WUAglqV4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMhT8_WUAglqV4.jpg",
+          "url": "https://t.co/Cpa29OfEgc",
+          "display_url": "pic.twitter.com/Cpa29OfEgc",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070847793864713/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 926,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 868,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 492,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1487068928635457500,
+          "id_str": "1487068928635457544",
+          "indices": [
+            127,
+            150
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMhT8_WUAglqV4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMhT8_WUAglqV4.jpg",
+          "url": "https://t.co/Cpa29OfEgc",
+          "display_url": "pic.twitter.com/Cpa29OfEgc",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070847793864713/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 926,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 868,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 492,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070841137475600,
+    "in_reply_to_status_id_str": "1487070841137475591",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 423,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487070841137475591": {
+    "created_at": "Fri Jan 28 14:31:31 +0000 2022",
+    "id": 1487070841137475600,
+    "id_str": "1487070841137475591",
+    "full_text": "Particularly revolutionary was the Institute's early advances in transgender affirming care. The Institute had a lawyer to help people change their names, issued certification papers allowing trans people to legally cross dress, and went out of their way to hire trans people. https://t.co/4KghKQonVJ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1487065539524632600,
+          "id_str": "1487065539524632584",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMeOrkXIAg3_h_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMeOrkXIAg3_h_.jpg",
+          "url": "https://t.co/4KghKQonVJ",
+          "display_url": "pic.twitter.com/4KghKQonVJ",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070841137475591/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 998,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 832,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1487065539524632600,
+          "id_str": "1487065539524632584",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMeOrkXIAg3_h_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMeOrkXIAg3_h_.jpg",
+          "url": "https://t.co/4KghKQonVJ",
+          "display_url": "pic.twitter.com/4KghKQonVJ",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070841137475591/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 998,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 832,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070836469153800,
+    "in_reply_to_status_id_str": "1487070836469153799",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 44,
+    "favorite_count": 493,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487070836469153799": {
+    "created_at": "Fri Jan 28 14:31:30 +0000 2022",
+    "id": 1487070836469153800,
+    "id_str": "1487070836469153799",
+    "full_text": "The Institute soon became the world hub of the newly emergent field of \"sexology\". It was equal parts research institution and political powerhouse - it advocated for and produced research relating to queer rights, access to contraception, women's equality and more.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      266
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070834309140500,
+    "in_reply_to_status_id_str": "1487070834309140482",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 373,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070834309140482": {
+    "created_at": "Fri Jan 28 14:31:29 +0000 2022",
+    "id": 1487070834309140500,
+    "id_str": "1487070834309140482",
+    "full_text": "In 1928 he founded the World League for Sexual Reform, an organization that argued for the decriminalization of homosexuality, the rights of women, contraceptive rights and more.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      178
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070832249774000,
+    "in_reply_to_status_id_str": "1487070832249774081",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 386,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070832249774081": {
+    "created_at": "Fri Jan 28 14:31:29 +0000 2022",
+    "id": 1487070832249774000,
+    "id_str": "1487070832249774081",
+    "full_text": "Both the film and the institute faced immediate criticism. The film was banned by German officials within a year. In 1920, Hirschfield, an openly gay, socialist and Jewish man, was attacked and seriously injured. The attacks and threats were nonstop from this point in his career.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070830303531000,
+    "in_reply_to_status_id_str": "1487070830303531008",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 397,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070830303531008": {
+    "created_at": "Fri Jan 28 14:31:29 +0000 2022",
+    "id": 1487070830303531000,
+    "id_str": "1487070830303531008",
+    "full_text": "In 1919, the same year he founded the Institute, Hirschfield participated in the making of a film, called, \"Different from the Others\", which argued against criminalization of homosexuality.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      190
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070828256706600,
+    "in_reply_to_status_id_str": "1487070828256706564",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 375,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070828256706564": {
+    "created_at": "Fri Jan 28 14:31:28 +0000 2022",
+    "id": 1487070828256706600,
+    "id_str": "1487070828256706564",
+    "full_text": "1914 saw Hirschfield publish, \"Homosexuality in Men and Women\", which pioneered the statistical surveying methods later utilized extensively by Alfred Kinsey.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      158
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070826016952300,
+    "in_reply_to_status_id_str": "1487070826016952323",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 377,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070826016952323": {
+    "created_at": "Fri Jan 28 14:31:28 +0000 2022",
+    "id": 1487070826016952300,
+    "id_str": "1487070826016952323",
+    "full_text": "In 1899, Hirschfield established the \"Yearbook of Intermediate Sexual Types\", the first journal in the world on sexuality and gender variance studies. It was regularly published until 1923. In 1910 he published the first scientific study on cross dressing, \"The Transvestites\". https://t.co/EhFGGgyjGY",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1487069020679463000,
+          "id_str": "1487069020679462920",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMhZT4WYAg8rT5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMhZT4WYAg8rT5.jpg",
+          "url": "https://t.co/EhFGGgyjGY",
+          "display_url": "pic.twitter.com/EhFGGgyjGY",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070826016952323/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 323,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 323,
+              "h": 499,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 323,
+              "h": 499,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1487069020679463000,
+          "id_str": "1487069020679462920",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMhZT4WYAg8rT5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMhZT4WYAg8rT5.jpg",
+          "url": "https://t.co/EhFGGgyjGY",
+          "display_url": "pic.twitter.com/EhFGGgyjGY",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070826016952323/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 323,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 323,
+              "h": 499,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 323,
+              "h": 499,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070821852106800,
+    "in_reply_to_status_id_str": "1487070821852106753",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 385,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487070821852106753": {
+    "created_at": "Fri Jan 28 14:31:27 +0000 2022",
+    "id": 1487070821852106800,
+    "id_str": "1487070821852106753",
+    "full_text": "The Scientific-Humanitarian Committee's main objective was to abolish Paragraph 175 of the German Imperial Penal Code, the German sodomy law, which criminalized consensual sex between men.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      188
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070819935264800,
+    "in_reply_to_status_id_str": "1487070819935264769",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 397,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070819935264769": {
+    "created_at": "Fri Jan 28 14:31:26 +0000 2022",
+    "id": 1487070819935264800,
+    "id_str": "1487070819935264769",
+    "full_text": "He believed these \"sexual intermediaries\" could manifest as intersex conditions, marginalized sexualities, or \"transvestism\".\nIn 1897, Hirschfield helped to found the Scientific-Humanitarian Committee. This was the world's first gay rights organization.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      253
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070817766850600,
+    "in_reply_to_status_id_str": "1487070817766850561",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 439,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070817766850561": {
+    "created_at": "Fri Jan 28 14:31:26 +0000 2022",
+    "id": 1487070817766850600,
+    "id_str": "1487070817766850561",
+    "full_text": "Hirschfield believed in \"sexual intermediaries\", a theory that believed there were many variations of sexuality naturally found within human populations. At this time, \"sexuality\" encompassed both sexuality as we think of it today, and gender. https://t.co/3Rn7rfRnDf",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3Rn7rfRnDf",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1473760085507821576?s=20&t=yOD59ZkKEiwvSOROZiz1Gw",
+          "display_url": "twitter.com/AlexPetrovnia/…",
+          "indices": [
+            244,
+            267
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070815841566700,
+    "in_reply_to_status_id_str": "1487070815841566723",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1473760085507821600,
+    "quoted_status_id_str": "1473760085507821576",
+    "quoted_status_permalink": {
+      "url": "https://t.co/3Rn7rfRnDf",
+      "expanded": "https://twitter.com/AlexPetrovnia/status/1473760085507821576?s=20&t=yOD59ZkKEiwvSOROZiz1Gw",
+      "display": "twitter.com/AlexPetrovnia/…"
+    },
+    "quoted_status": {
+      "created_at": "Wed Dec 22 20:59:20 +0000 2021",
+      "id": 1473760085507821600,
+      "id_str": "1473760085507821576",
+      "full_text": "The existence of LGB TERFs is only possible in a culture where queer history and generational continuity is erased at every possible opportunity.\nCreating any distinction whatsoever between cis queer people and trans queer people is a wholly recent development.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1287839991754903600,
+        "id_str": "1287839991754903555",
+        "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+        "screen_name": "AlexPetrovnia",
+        "location": "State College, Susquehannock",
+        "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+        "url": "https://t.co/vLeRdc4AGV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vLeRdc4AGV",
+                "expanded_url": "http://www.transformationsproject.org/",
+                "display_url": "transformationsproject.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 32828,
+        "friends_count": 4831,
+        "listed_count": 191,
+        "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+        "favourites_count": 78389,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25487,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 182,
+      "favorite_count": 758,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 22,
+    "favorite_count": 448,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1473760085507821576": {
+    "created_at": "Wed Dec 22 20:59:20 +0000 2021",
+    "id": 1473760085507821600,
+    "id_str": "1473760085507821576",
+    "full_text": "The existence of LGB TERFs is only possible in a culture where queer history and generational continuity is erased at every possible opportunity.\nCreating any distinction whatsoever between cis queer people and trans queer people is a wholly recent development.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 182,
+    "favorite_count": 758,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070815841566723": {
+    "created_at": "Fri Jan 28 14:31:25 +0000 2022",
+    "id": 1487070815841566700,
+    "id_str": "1487070815841566723",
+    "full_text": "In 1919, queer people were generally regarded as immoral, depraved people who went against traditional (Christian) values. Hirschfield passionately argued against this, stating that these \"values\" limited our understanding of human variation and sexuality.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      256
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070813794844700,
+    "in_reply_to_status_id_str": "1487070813794844672",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 454,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070813794844672": {
+    "created_at": "Fri Jan 28 14:31:25 +0000 2022",
+    "id": 1487070813794844700,
+    "id_str": "1487070813794844672",
+    "full_text": "This institute, the Institut für Sexualwissenschaft, was founded by the famous Magnus Hirschfield, a doctor and early queer rights pioneer. Hirschfield held the then-radical opinion that sexuality was innate rather than a moral deviancy or mental illness. https://t.co/mHjlsD2p0Z",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      255
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1487063994317824000,
+          "id_str": "1487063994317824006",
+          "indices": [
+            256,
+            279
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMc0vOWYAYEQVl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMc0vOWYAYEQVl.jpg",
+          "url": "https://t.co/mHjlsD2p0Z",
+          "display_url": "pic.twitter.com/mHjlsD2p0Z",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070813794844672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 440,
+              "h": 518,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 440,
+              "h": 518,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 440,
+              "h": 518,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1487063994317824000,
+          "id_str": "1487063994317824006",
+          "indices": [
+            256,
+            279
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKMc0vOWYAYEQVl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKMc0vOWYAYEQVl.jpg",
+          "url": "https://t.co/mHjlsD2p0Z",
+          "display_url": "pic.twitter.com/mHjlsD2p0Z",
+          "expanded_url": "https://twitter.com/AlexPetrovnia/status/1487070813794844672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 440,
+              "h": 518,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 440,
+              "h": 518,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 440,
+              "h": 518,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070808207986700,
+    "in_reply_to_status_id_str": "1487070808207986688",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 519,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "1487070808207986688": {
+    "created_at": "Fri Jan 28 14:31:23 +0000 2022",
+    "id": 1487070808207986700,
+    "id_str": "1487070808207986688",
+    "full_text": "This is the story of the Institute of Sexual Sciences, the first institution dedicated to studying gender and sexuality. It was founded, not in 2019, but in 1919, and not in the United States, but in Berlin, Germany.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      216
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1487070805704028200,
+    "in_reply_to_status_id_str": "1487070805704028163",
+    "in_reply_to_user_id": 1287839991754903600,
+    "in_reply_to_user_id_str": "1287839991754903555",
+    "in_reply_to_screen_name": "AlexPetrovnia",
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 107,
+    "favorite_count": 595,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "1487070805704028163": {
+    "created_at": "Fri Jan 28 14:31:23 +0000 2022",
+    "id": 1487070805704028200,
+    "id_str": "1487070805704028163",
+    "full_text": "For International #HolocaustMemorialDay, I want to tell a story. It's a story most of us won't learn in schools. It's a story most of us won't learn unless we seek it out. But it is, profoundly, a story that matters, especially today. 🧵",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      236
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HolocaustMemorialDay",
+          "indices": [
+            18,
+            39
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1287839991754903600,
+      "id_str": "1287839991754903555",
+      "name": "Alex (he/him) says #StepUpForTransKids ⚧🏳️‍⚧️",
+      "screen_name": "AlexPetrovnia",
+      "location": "State College, Susquehannock",
+      "description": "Technically a scientist. President/founder of the Trans Formations Project, @StepUp4Trans. Trans 🏳️‍⚧️, disabled and #BiInSci🏳️‍🌈 Venmo @AlexPetrovnia",
+      "url": "https://t.co/vLeRdc4AGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vLeRdc4AGV",
+              "expanded_url": "http://www.transformationsproject.org/",
+              "display_url": "transformationsproject.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32828,
+      "friends_count": 4831,
+      "listed_count": 191,
+      "created_at": "Mon Jul 27 19:59:27 +0000 2020",
+      "favourites_count": 78389,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644449107992580/hjmxFSCo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287839991754903555/1631276844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1016,
+    "favorite_count": 1748,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
   }
 }
