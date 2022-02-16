@@ -6,8 +6,8 @@ description: "O tym, że dysforia objawia się na wiele sposobów. A także co t
 preBody: '_disclaimer'
 lang: pl
 siblings:
-  next: /pl/czym-jest-plec
-  nextCaption: Czym jest płeć?
+  next: /pl/czym-jest-gender
+  nextCaption: Czym jest gender?
 classes:
   - gdb
 ---
@@ -30,7 +30,7 @@ classes:
 
 1. [Wstęp](#Wstęp)
 
-2. [Czym jest płeć?](/pl/czym-jest-plec)
+2. [Czym jest gender?](/pl/czym-jest-gender)
 
 3. [Historia dysphorii płciowej](/pl/historia)
 

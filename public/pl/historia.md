@@ -6,8 +6,8 @@ description: "Pochodzenie dysforii płciowej i jej współczesne znaczenie."
 preBody: '_disclaimer'
 lang: pl
 siblings:
-  prev: /pl/czym-jest-plec
-  prevCaption: Czym jest płeć?
+  prev: /pl/czym-jest-gender
+  prevCaption: Czym jest gender?
   next: /pl/euforia
   nextCaption: Euforia płciowa
 classes:

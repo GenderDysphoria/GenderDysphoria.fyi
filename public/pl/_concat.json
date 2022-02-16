@@ -2,7 +2,7 @@
   "output": "public/pl/do-druku.md",
   "sources": [
     "public/pl/index.md",
-    "public/pl/czym-jest-plec.md",
+    "public/pl/czym-jest-gender.md",
     "public/pl/historia.md",
     "public/pl/euforia.md",
     "public/pl/dysforia-fizyczna.md",
