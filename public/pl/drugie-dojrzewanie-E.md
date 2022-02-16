@@ -14,6 +14,6 @@ classes:
   - gdb
 ---
 
-# Drugie dojrzewanie estrogenowe dla początkujących
+# Drugie dojrzewanie estrogenowe od podstaw
 
 lorem ipsum

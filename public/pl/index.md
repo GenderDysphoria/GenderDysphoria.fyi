@@ -66,9 +66,9 @@ classes:
 
 19. [Jak działają hormony](/pl/hormony)
 
-20. [Drugie dojrzewanie androgenowe dla początkujących](/pl/drugie-dojrzewanie-T)
+20. [Drugie dojrzewanie androgenowe od podstaw](/pl/drugie-dojrzewanie-T)
 
-21. [Drugie dojrzewanie estrogenowe dla początkujących](/pl/drugie-dojrzewanie-E)
+21. [Drugie dojrzewanie estrogenowe od podstaw](/pl/drugie-dojrzewanie-E)
 
 22. [Podsumowanie](/pl/podsumowanie)
 

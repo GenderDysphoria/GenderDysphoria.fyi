@@ -25,7 +25,7 @@ tweets:
   - '1431244926214356993'
 ---
 
-# Drugie dojrzewanie androgenowe dla początkujących
+# Drugie dojrzewanie androgenowe od podstaw
 
 ## Czego spodziewać się po maskulinizującym HRT
 
