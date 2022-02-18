@@ -35,7 +35,7 @@ Dies ist eine Zusammenstellung von möglichen Veränderungen auf Grund der Trans
 
 ### Stimmbruch
 
-Androgene bewirken, dass sich das Gewebe der Stimmbänder verdickt und verhärtet, wodurch die Tonhöhe der Stimme dauerhaft gesenkt wird. Dies ist keine sehr schnelle Änderung, sondern eher schrittweise in den ersten Jahren. Manche Menschen erleben überhaupt keine Stimmänderung, es variiert von Person zu Person. Die Änderung wird nicht drastisch sein, wenn Sie ein Sopran sind, werden Sie kein Bass, aber es könnte Sie zu einem Alt- oder Tenor machen.
+Androgene bewirken, dass sich das Gewebe der Stimmbänder verdickt und verhärtet, wodurch die Tonhöhe der Stimme dauerhaft gesenkt wird. Dies ist keine sehr schnelle Änderung, sondern passiert eher schrittweise in den ersten Jahren. Manche Menschen erleben überhaupt keine Stimmänderung, es variiert von Person zu Person. Die Änderung wird nicht drastisch sein: Wenn Sie ein Sopran sind, werden Sie kein Bass, aber es könnte Sie zu einem Alt- oder Tenor machen.
 
 Dies bedeutet nicht, dass Ihre Stimme automatisch als männlich gelesen wird. Die Tonhöhe ist nur ein Teil davon, wie Menschen ihre Stimme ausdrücken und die Art und Weise, wie Sie sprechen, spielt eine viel größere Rolle. Stimmtraining wird benötigt, um die Resonanz zu verstärken und den Sprechstil zu ändern.
 
@@ -51,19 +51,19 @@ Diese Änderung kommt oft recht schnell; erwarten Sie Nachtschweiß, während si
 
 ### Verändertes Schwitzen
 
-Die oben genannte Verschiebung der Temperaturverteilung führen auch zu einer signifikanten Änderung der Art und Weise, wie man schwitzt. Schweiß sammelt sich am Kopf, dem Rücken und den Achseln. Sie werden wahrscheinlich leichter und häufiger schwitzen, also halten Sie eine Abkühlung bereit.
+Die oben genannte Verschiebung der Temperaturverteilung führt auch zu einer signifikanten Änderung der Art und Weise, wie man schwitzt. Schweiß sammelt sich am Kopf, dem Rücken und den Achseln. Sie werden wahrscheinlich leichter und häufiger schwitzen, also halten Sie eine Abkühlung bereit.
 
 ### Körpergeruch
 
-Oft ist eines der ersten Dinge, die sich ändern: Schweiß und allgemeiner Körpergeruch werden viel stärker, insbesondere während Belastung. Der Geruch wird einen sauren, moschusartigen Geruch annehmen. Er neigt dazu, sich mit der Zeit zu vereinheitlichen.
+Oft ist dies einer der ersten Dinge, die sich ändern: Schweiß und allgemeiner Körpergeruch werden viel stärker, insbesondere während Belastung. Der Geruch wird einen sauren, moschusartigen Geruch annehmen. Er neigt dazu, sich mit der Zeit zu vereinheitlichen.
 
 ### Überall Körperbehaarung
 
 Androgene erhöhen deutlich das Vorhandensein von Körperbehaarung an Beinen, Leistengegend, Gesäß, Brust, Rücken und Armen. Das Haar wird dicker, länger und dunkler. Meistens passiert das lange vor dem Wachsen eines Bartes, welcher sich mit dem Beginn des Wachstums über ein Jahr Zeit lassen kann. Haarwuchsmittel wie Rogaine oder Monoxidil können das vielleicht beschleunigen; seien Sie aber vorsichtig da die Einnahme giftig ist, vor allem für Katzen.
 
-### Männliche Haarausfall
+### Männlicher Haarausfall
 
-Der männliche erblich bedingte Haarausfall wird durch [Dihydrotestosteron](https://de.wikipedia.org/wiki/Dihydrotestosteron) (DHT) verursacht, ein Androgen, das aus Testosteron metabolisiert wird. Wenn Sie mehr Testosteron in Ihrem Körper haben, kann sich mehr DHT bilden, und das Gen, das zu Haarausfall beiträgt, bewirkt, dass die Haarfollikel auf der Kopfhaut weniger Blut erhalten und sie ersticken, und dadurch die Follikel absterben. Es wird wahrscheinlich irgendwann zu einem gewissen Verlust des Haaransatzes kommen. Wenn es bei den männlichen Verwandten eine Vorgeschichte von Kahlköpfigkeit gibt, können Sie dies auch erwarten. Auch hier kann Rogaine dabei helfen.
+Der männliche, erblich bedingte, Haarausfall wird durch [Dihydrotestosteron](https://de.wikipedia.org/wiki/Dihydrotestosteron) (DHT) verursacht, ein Androgen, das aus Testosteron metabolisiert wird. Wenn Sie mehr Testosteron in Ihrem Körper haben, kann sich mehr DHT bilden, und das Gen, das zu Haarausfall beiträgt, bewirkt, dass die Haarfollikel auf der Kopfhaut weniger Blut erhalten und sie ersticken, und dadurch die Follikel absterben. Es wird wahrscheinlich irgendwann zu einem gewissen Verlust des Haaransatzes kommen. Wenn es bei den männlichen Verwandten eine Vorgeschichte von Kahlköpfigkeit gibt, können Sie dies auch erwarten. Auch hier kann Rogaine dabei helfen.
 
 Das synthetische Androgen [Nandrolon](https://de.wikipedia.org/wiki/Nandrolon) kann nicht zu DHT metabolisiert werden und kann eine praktikable Alternative anstelle von direktem Testosteron sein, wenn Haarausfall ein Problem darstellt. DHT ist jedoch für das Genitalwachstum wichtig, daher ist dies ein zweischneidiges Schwert.
 
@@ -77,11 +77,11 @@ Erwarten Sie, dass Ihr Gesicht und Ihre Kopfhaut fettiger werden. Akne ist wahrs
 
 Über längere Zeiträume (3-5 Jahre) kann die Testosteroneinnahme die Hände härter und schwieliger werden lassen. Möglicherweise müssen Sie Ihre Ringgröße schließlich erhöhen.
 
-Weiterhin bewirkt es auch, dass Bänder und Sehnen mehr Wasser zurückhalten, wodurch diese ihre Flexibilität verändern. Im Laufe der Zeit kann dies zu einer Zunahme der Fuß Größe führen, wenn sich das Fußgewölbe absenkt.
+Weiterhin bewirkt es auch, dass Bänder und Sehnen mehr Wasser zurückhalten, wodurch diese ihre Flexibilität verändern. Im Laufe der Zeit kann dies zu einer Zunahme der Fußgröße führen, wenn sich das Fußgewölbe absenkt.
 
 ### Dickere und stärkere Nägel
 
-Sowohl Finger- als auch Zehennägel werden mit der Zeit dicker, wenn der Keratin Spiegel aufgrund von Androgenen ansteigt.
+Sowohl Finger- als auch Zehennägel werden mit der Zeit dicker, wenn der Keratinspiegel aufgrund von Androgenen ansteigt.
 
 ### Erhöhte Muskelmasse
 
@@ -91,7 +91,7 @@ Die zusätzliche Muskulatur im Oberkörper definiert die Schulter- und Halslinie
 
 ### Fettverteilung
 
-Während Östrogen den Körper dazu anregt, Fett an den Oberschenkeln, Gesäß und Hüften einzulagern, ermutigen Androgene den Körper, Fette weitgehend am Bauch einzulagern. Wenn Sie mit Testosteron beginnen, wird Ihr Körper dazu angeregt, dem Androgenmuster zu folgen, so dass Sie erwarten können, dass sich neues Gewicht an ihrem Bauch ansammelt. Gewichtsverlust führt zu einem Abbau von weiblichem Fett. Dadurch entsteht der Effekt dass sich das Fett in den Brüsten, Oberschenkeln und Gesäß durch Muskelaufbau langsam verlagert, dies kann jedoch lange dauern.
+Während Östrogen den Körper dazu anregt, Fett an den Oberschenkeln, Gesäß und Hüften einzulagern, ermutigen Androgene den Körper, Fette weitgehend am Bauch einzulagern. Wenn Sie mit Testosteron beginnen, wird Ihr Körper dazu angeregt, dem Androgenmuster zu folgen, so dass Sie erwarten können, dass sich neues Gewicht an ihrem Bauch ansammelt. Gewichtsverlust führt zu einem Abbau von weiblichem Fett. Dadurch entsteht der Effekt, dass sich das Fett in den Brüsten, Oberschenkeln und Gesäß durch Muskelaufbau langsam verlagert, dies kann jedoch lange dauern.
 
 ### Gesichtszüge
 
@@ -117,7 +117,7 @@ Wenn Sie ADHS haben, können sich Ihre Symptome ändern. Androgene verstärken d
 
 Die Linderung von DPDR geht fast überall mit einer viel größeren Bandbreite von Emotionen und deren Emotionsregulation einher. Emotionen werden kontrollierbarer, aber auch unterdrückbarer. Es macht sie weniger wahrscheinlich von Ihren Emotionen überwältigt zu werden. *Folgendes bitte beachten: Emotionen dauerhaft zu unterdrücken ist ein sehr schneller Weg, um ein Trauma zu entwickeln.*
 
-Die Fähigkeit Emotionen auszudrücken, könnte jedoch verringert werden. Manche Menschen verlieren die Fähigkeit zu weinen, nachdem sie mit Testosteron begonnen haben. Dies ist keine aber universelle Erfahrung und kann mit der Höhe Ihrer Testosteron-Dosis zusammenhängen. Die Gründe dafür sind nicht bekannt, obwohl einige Studien herausgefunden haben, dass Androgene die Funktion in Teilen des Gehirns verändern, die mit der emotionalen Verarbeitung verbunden sind. Wenn Sie die Fähigkeit zu weinen verlieren, kann diese mit der Zeit zurückkehren, wenn sich Ihr Gehirn an das Testosteron gewöhnt hat und Sie die zweite Pubertät hinter sich lassen.
+Die Fähigkeit Emotionen auszudrücken könnte jedoch verringert werden. Manche Menschen verlieren die Fähigkeit zu weinen, nachdem sie mit Testosteron begonnen haben. Dies ist aber keine universelle Erfahrung und kann mit der Höhe Ihrer Testosteron-Dosis zusammenhängen. Die Gründe dafür sind nicht bekannt, obwohl einige Studien herausgefunden haben, dass Androgene die Funktion in Teilen des Gehirns verändern, die mit der emotionalen Verarbeitung verbunden sind. Wenn Sie die Fähigkeit zu weinen verlieren, kann diese mit der Zeit zurückkehren, wenn sich Ihr Gehirn an das Testosteron gewöhnt hat und Sie die zweite Pubertät hinter sich lassen.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
@@ -130,7 +130,7 @@ Sie werden schneller hungrig sein. Testosteron kurbelt den Stoffwechsel des Kör
 
 ##### Schlaf
 
-Manche Personen berichten von Schlaflosigkeit und das Sie sich seltener an Träume erinnern. Dies ist jedoch alles andere als allgemeingültig.
+Manche Personen berichten von Schlaflosigkeit und dass Sie sich seltener an Träume erinnern. Dies ist jedoch alles andere als allgemeingültig.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
@@ -187,7 +187,7 @@ Eine vaginale und uterine Verkümmerung tritt häufig innerhalb der ersten fünf
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Die Libido wird in den ersten ein oder zwei Jahren mit ziemlicher Sicherheit durch die Decke gehen, am stärksten unmittelbar nach der Testosteron-Einnahme. Sie können beim Sex durchsetzungsfähiger und häufiger dominant und/oder ein Top zu sein.
+Die Libido wird in den ersten ein oder zwei Jahren mit ziemlicher Sicherheit durch die Decke gehen, am stärksten unmittelbar nach der Testosteron-Einnahme. Sie können beim Sex durchsetzungsfähiger und häufiger dominant und/oder ein Top sein.
 
 ##### Orgasmus
 
@@ -203,12 +203,12 @@ Es wurde gezeigt, dass Testosteron die Erregung durch visuelle Reize erhöht. Da
 
 ### Beendigung der Menstruation
 
-Die Erhöhung von Androgenen im Körper bewirkt, dass der Hypothalamus die Produktion des Hormons GnRH herunterreguliert und damit den Eierstöcken anweist weniger Östrogene zu produzieren. Dies reduziert das verfügbare Gesamtöstrogen und kann den Eisprung stoppen. Ohne Eisprung und mit niedrigeren FSH-Spiegeln neigt die Gebärmutter seltener dazu, eine Schleimhaut aufzubauen und freizusetzen, was den Menstruationszyklus zum Stillstand bringt.
+Die Erhöhung von Androgenen im Körper bewirkt, dass der Hypothalamus die Produktion des Hormons GnRH herunterreguliert und damit die Eierstöcke anweist, weniger Östrogene zu produzieren. Dies reduziert das verfügbare Gesamtöstrogen und kann den Eisprung stoppen. Ohne Eisprung und mit niedrigeren FSH-Spiegeln neigt die Gebärmutter seltener dazu, eine Schleimhaut aufzubauen und freizusetzen, was den Menstruationszyklus zum Stillstand bringt.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374054574579798016'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Es können jedoch noch andere Periodensymptome auftreten, da der Hypothalamus weiterhin andere Aspekte des monatlichen Zyklus ausdrücken kann. In seltenen Fällen kann dies kann sogar nach einer totalen Hysterektomie weitergehen.
+Es können jedoch noch andere Periodensymptome auftreten, da der Hypothalamus weiterhin andere Aspekte des monatlichen Zyklus ausdrücken kann. In seltenen Fällen kann dies sogar nach einer totalen Hysterektomie weitergehen.
 
 **Dies bedeutet jedoch nicht, dass Sie unfruchtbar sind.** Der Eisprung kann immer noch auftreten, auch wenn Sie keine Menstruation haben. Darüber hinaus führt ein Absetzen des Testosterons nach einer Zeit wieder zur Reifung von Eizellen.
