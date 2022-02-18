@@ -61,7 +61,7 @@ Wenn Ihr Gehirn auf ein Geschlechtshormon (wie Testosteron) festgelegt ist, Ihr 
 </div>
 }!}
 
-**Depersonalisierung** ist eine Trennung von Ihrem eigenen Körper, eine Unfähigkeit zu glauben, dass die Person, die Sie im Spiegel sehen, tatsächlich Sie selbst sind. Sie haben das Gefühl, jemand anderen in Ihrem Körper zu beobachten. Möglicherweise kümmern Sie sich nicht darum, was mit Ihrem Körper passiert. Sie sorgen sich nicht um Gewichtsveränderungen oder Ihre Fitness, weil Sie kein Eigentum an dieser fleischigen Hülle haben, das Sie durch Ihr Leben transportiert.
+**Depersonalisierung** ist eine Trennung von Ihrem eigenen Körper, eine Unfähigkeit zu glauben, dass die Person, die Sie im Spiegel sehen, tatsächlich Sie selbst sind. Sie haben das Gefühl, jemand anderen in Ihrem Körper zu beobachten. Möglicherweise kümmern Sie sich nicht darum, was mit Ihrem Körper passiert. Sie sorgen sich nicht um Gewichtsveränderungen oder Ihre Fitness, weil Sie kein Eigentum an dieser fleischigen Hülle haben, die Sie durch Ihr Leben transportiert.
 
 Zinnia Jones [gibt folgende Beschreibungen für die Depersonalisierung](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
@@ -73,14 +73,14 @@ Zinnia Jones [gibt folgende Beschreibungen für die Depersonalisierung](https://
 - Einen kontinuierlichen und kohärenten Dialog mit sich selbst führen
 - Das Gefühl, wie wenn man von der Welt durch einen Schleier oder eine Glaswand getrennt ist
 - Emotionale oder körperliche Taubheit, wie als wäre der Kopf mit Watte gefüllt
-- Ein Gefühl keine Entscheidungsfreiheit zu haben - sich flach, roboterhaft, tot oder wie ein „Zombie“ fühlen
+- Ein Gefühl, keine Entscheidungsfreiheit zu haben - sich flach, roboterhaft, tot oder wie ein „Zombie“ zu fühlen
 - Unfähigkeit sich Dinge vorzustellen
 - In der Lage zu sein, klar zu denken, aber immer mit dem Gefühl, dass den weltlichen Gedanken und Erfahrungen eine wesentliche Qualität fehlt
 - Ein Gefühl der Trennung vom Leben, das verhindert, sich kreativ und offen mit der Welt auseinanderzusetzen
 
-Möglicherweise legen Sie wenig Wert auf Ihr Erscheinungsbild: auf das nötigste beschränkter Hygiene und 0815 Kleidung. Auf der anderen Seite könnte es sein das Sie versuchen per schicker Kleidung und extrem gepflegtem Aussehen, eine Art Freude zu erzeugen - ein Gefühl des Stolzes auf Ihren eigenen Körper, was allerdings nur noch mehr „Hohlheit“ aufzeigt.
+Möglicherweise legen Sie wenig Wert auf Ihr Erscheinungsbild: auf das nötigste beschränkter Hygiene und 0815 Kleidung. Auf der anderen Seite könnte es sein, dass Sie versuchen per schicker Kleidung und extrem gepflegtem Aussehen, eine Art Freude zu erzeugen - ein Gefühl des Stolzes auf Ihren eigenen Körper, was allerdings nur noch mehr „Hohlheit“ aufzeigt.
 
-Möglicherweise kümmert Sie der Zustand Ihres Körpers nicht, eventuell fürchten nicht einmal den Tod, weil Sie so wenig an dieses Leben gebunden sind.
+Möglicherweise kümmert Sie der Zustand Ihres Körpers nicht, eventuell fürchten Sie nicht einmal den Tod, weil Sie so wenig an dieses Leben gebunden sind.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716438972993536'
@@ -99,19 +99,19 @@ Möglicherweise kümmert Sie der Zustand Ihres Körpers nicht, eventuell fürcht
 - Entfernungsverzerrungen. Größen und Formen von Objekten passen nicht recht zueinander.
 - Ereignisse in Ihrem Leben durchleben Sie wie ein passiver Beobachter.
 
-Wenn Sie glauben das sich ihr Leben in Filmen wie „The Matrix“ oder „The Truman Show“ abspielen könnte, könnte es sein das Sie unter Depersonalisierung oder Derealisierung leiden. Dies kann sich auch als Gefühl der Jenseitigkeit manifestieren, als ob Sie nicht in diese Gesellschaft gehören. Sie wandeln herum und warten darauf, dass sich Ihre Superkräfte entwickeln oder das endlich eine Eule mit Ihrer Einladung nach Hogwarts angeflogen kommt. Als Teenager war ich besessen von einer Episode von „The Outer Limits“, in der ein Junge ein Raumschiff unter seinem Haus entdeckt und erfährt, dass er und seine Eltern eigentlich Außerirdische sind. Es ist als würden Sie auf ein Signal warten um endlich mit Ihrem Leben beginnen zu können.
+Wenn Sie glauben, dass sich ihr Leben in Filmen wie „The Matrix“ oder „The Truman Show“ abspielen könnte, könnte es sein das Sie unter Depersonalisierung oder Derealisierung leiden. Dies kann sich auch als Gefühl der Jenseitigkeit manifestieren, als ob Sie nicht in diese Gesellschaft gehören. Sie wandeln herum und warten darauf, dass sich Ihre Superkräfte entwickeln oder das endlich eine Eule mit Ihrer Einladung nach Hogwarts angeflogen kommt. Als Teenager war ich besessen von einer Episode von „The Outer Limits“, in der ein Junge ein Raumschiff unter seinem Haus entdeckt und erfährt, dass er und seine Eltern eigentlich Außerirdische sind. Es ist als würden Sie auf ein Signal warten um endlich mit Ihrem Leben beginnen zu können.
 
 DPDR (Depersonalisation und Derealisation) ist manchmal mit einer emotionalen Hemmung verbunden. Sie können lachen und witzige Dinge witzig finden, haben aber selten echte Freude. Momente der Traurigkeit oder Trauer führen dazu, dass Sie einfach taub werden und Sie sich von dem Ereignis trennen, das diese Gefühle verursacht. Dies kann auch in die entgegengesetzte Richtung gehen: Man hat Angst, weil man nicht einschätzen kann, ob die emotionale Reaktion im Verhältnis angebracht ist. Dann können kleinste Ereignisse zum Katalysator für unverhältnismäßig große emotionale Reaktionen werden.
 
-Es ist wichtig zu beachten, dass DPDR nicht nur bei Gender Dysphorie auftritt. Dieser Zustand ist kann auch bei anderen psychischen Problemen auftreten wie zum Beispiel bei chronischer Depression, Zwangsstörung und Borderline-Persönlichkeitsstörung. DPDR sollte nicht allein als Zeichen von Gender Dysphorie verstanden werden, es ist nur ein großer Hinweis dafür das etwas sehr im Argen liegt. Es ist normalerweise auch ziemlich einfach zu erkennen, wenn man weiß, worauf man achten muss. Menschen mit DPDR neigen dazu, in die Ferne zu starren, wenn sie irgendwo hingehen. Die Augen sehen von außen so trüb und tot aus, als würde hier nur eine Hülle wandeln. Am meisten fällt anderen während und nach der Transition auf wie die Augen der Person plötzlich anfangen zu funkeln.
+Es ist wichtig zu beachten, dass DPDR nicht nur bei Gender Dysphorie auftritt. Dieser Zustand kann auch bei anderen psychischen Problemen auftreten wie zum Beispiel bei chronischer Depression, Zwangsstörung und Borderline-Persönlichkeitsstörung. DPDR sollte nicht allein als Zeichen von Gender Dysphorie verstanden werden, es ist nur ein großer Hinweis dafür, dass etwas sehr im Argen liegt. Es ist normalerweise auch ziemlich einfach zu erkennen, wenn man weiß, worauf man achten muss. Menschen mit DPDR neigen dazu, in die Ferne zu starren, wenn sie irgendwo hingehen. Die Augen sehen von außen so trüb und tot aus, als würde hier nur eine Hülle wandeln. Am meisten fällt anderen während und nach der Transition auf, wie die Augen der Person plötzlich anfangen zu funkeln.
 
 ### Ebbe und Flut
 
-Wie schlimm die physische und biochemische Dysphorie wirkt, wird stark von anderen Faktoren im Körper beeinflusst. Da es eine Funktion des hormonellen Gleichgewichts ist hängt es stark von diesem Gleichgewicht ab. Dies bedeutet, dass es Schwankungen von Tag zu Tag geben kann. Zum Beispiel:
+Wie schlimm die physische und biochemische Dysphorie wirkt, wird stark von anderen Faktoren im Körper beeinflusst. Da es eine Funktion des hormonellen Gleichgewichts ist, hängt es stark von diesem Gleichgewicht ab. Dies bedeutet, dass es Schwankungen von Tag zu Tag geben kann. Zum Beispiel:
 
 - Wenn Ihr Blutzucker aus dem Gleichgewicht geraten ist oder Sie eine Schilddrüsenerkrankung haben, kann dies zu einem Anstieg Ihrer Dysphorie führen.
 - Wenn Sie Dopaminentzug haben, weil Sie in Ihrem Leben gerade nichts rund läuft, kann dies die Dysphorie verschlimmern.
-- Antidepressiva, welche den Serotoninspiegel heben, können die die Intensität verringern.
+- Antidepressiva, welche den Serotoninspiegel heben, können die Intensität verringern.
 - Transfeminine AMABs erfahren mit dem Anstieg des Testosterons durch Anziehung, Erregung und Verlangen ein Ungleichgewicht, was sie dysphorischer machen kann.
 - Transmaskuline AFABs erfahren im Verlauf ihres Menstruationszyklus einen Anstieg und Abfall von Östrogen und Progesteron, wodurch sich ihre Dysphorie je nach stand des Zyklus verstärkt oder verringert.
 
@@ -132,9 +132,9 @@ All diese Gefühle sind gültig und nur weil Sie sich an einem Tag sehr dysphori
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Manche Leute behaupten das eine Hormonersatztherapie immer die psychische Gesundheit verbessert. Auch ich habe das schon mal gehört, zum Beispiel als seine Mutter kam und meinte: "Östrogen macht alle glücklicher." Das ist absolut falsch. Wenn Cis-Patienten eine Gegengeschlechtliche Hormonersatztherapie erhalten, führt dies immer zu Dysphorie. Dies ist ein Grund, warum Spironolacton (Testosteronblocker) Männern selten verschrieben wird, da der Anti-Androgen-Faktor geistige Instabilität verursacht. Fünf bis zehn Prozent der Cis-Frauen leiden unter dem polyzystischen Ovarialsyndrom (PCOS), einer Erkrankung, bei der die Eierstöcke Testosteron anstelle von Östrogen produzieren. Fragen Sie eine von ihnen wie es Ihnen damit geht; Sie wird Ihnen Ihr Leid klagen.
+Manche Leute behaupten, dass eine Hormonersatztherapie immer die psychische Gesundheit verbessert. Auch ich habe das schon mal gehört, zum Beispiel als seine Mutter kam und meinte: "Östrogen macht alle glücklicher." Das ist absolut falsch. Wenn Cis-Patienten eine Gegengeschlechtliche Hormonersatztherapie erhalten, führt dies immer zu Dysphorie. Dies ist ein Grund, warum Spironolacton (Testosteronblocker) Männern selten verschrieben wird, da der Anti-Androgen-Faktor geistige Instabilität verursacht. Fünf bis zehn Prozent der Cis-Frauen leiden unter dem polyzystischen Ovarialsyndrom (PCOS), einer Erkrankung, bei der die Eierstöcke Testosteron anstelle von Östrogen produzieren. Fragen Sie eine von ihnen wie es Ihnen damit geht; Sie wird Ihnen Ihr Leid klagen.
 
-Eine sehr eindrückliche Demonstration dafür ist der tragische Fall von [David Reimer](https://de.wikipedia.org/wiki/David_Reimer). Im Alter von sieben Monaten wurden David und sein Zwillingsbruder beschnitten, um einen schlimmen Fall von Phimose (eine Hauterkrankung auf der Vorhaut) zu behandeln. Davids Beschneidung ist schief gegangen und er verlor seinen Penis. Es wurde die Entscheidung getroffen, eine Vaginoplastik durchzuführen und ihn als Mädchen aufzuziehen, einschließlich einer Östrogentherapie in der Pubertät. Im Alter von 13 Jahren war er in tiefer Depression inclusive Selbstmordgedanken. Er litt stark, da kein Junge allein durch Coaching und gutem Zureden, Spaß daran haben kann, ein Mädchen zu sein. Als seine Eltern ihn über das Geschehene informierten, kehrte er zu männlicher Präsentation zurück, wechselte zur Testosterontherapie und hatte im Laufe seiner Teenagerjahre mehrere Operationen, um den angerichteten Schaden so gut es ging zu beheben.
+Eine sehr eindrückliche Demonstration dafür ist der tragische Fall von [David Reimer](https://de.wikipedia.org/wiki/David_Reimer). Im Alter von sieben Monaten wurden David und sein Zwillingsbruder beschnitten, um einen schlimmen Fall von Phimose (eine Hauterkrankung auf der Vorhaut) zu behandeln. Davids Beschneidung ist schief gegangen und er verlor seinen Penis. Es wurde die Entscheidung getroffen, eine Vaginoplastik durchzuführen und ihn als Mädchen aufzuziehen, einschließlich einer Östrogentherapie in der Pubertät. Im Alter von 13 Jahren war er in tiefer Depression inklusive Selbstmordgedanken. Er litt stark, da kein Junge allein durch Coaching und gutem Zureden, Spaß daran haben kann, ein Mädchen zu sein. Als seine Eltern ihn über das Geschehene informierten, kehrte er zu männlicher Präsentation zurück, wechselte zur Testosterontherapie und hatte im Laufe seiner Teenagerjahre mehrere Operationen, um den angerichteten Schaden so gut es ging zu beheben.
 
 Die Menschen wissen, wenn sie das falsche Geschlecht leben.
 
