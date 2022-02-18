@@ -114,7 +114,7 @@ Auch umgekehrt kann es der Fall sein: Es kann als eine Art umgekehrter Phantomef
 ] tweets=meta.tweets className="hide-reply" }}</div>
 }!}
 
-Es kann Entsetzen oder Abscheu empfunden werden, wenn man die äußeren Genitalien betrachtet oder berührt werde. Auch können emotionale Ausbrüche auslöst werden verbunden mit dem starken Wunsch hat, das betroffene Organe zu entfernen. AFAB-Transgender können während der Menstruation ein Gefühl der Unrichtigkeit oder ein Gefühl der fremdartigen Trennung von ihrem Hormonkreislauf verspüren.
+Es kann Entsetzen oder Abscheu empfunden werden, wenn man die äußeren Genitalien betrachtet oder berührt. Auch können emotionale Ausbrüche ausgelöst werden, verbunden mit dem starken Wunsch, die betroffenen Organe zu entfernen. AFAB-Transgender können während der Menstruation ein Gefühl der Unrichtigkeit oder ein Gefühl der fremdartigen Trennung von ihrem Hormonkreislauf verspüren.
 
 Körperliche Dysphorie kann sich als Zwang manifestieren, bestimmte Körpermerkmale durch zum Beispiel obsessives Rasieren von Körper- oder Gesichtshaaren, zu verändern. Es kann sich auch in einem entgegengesetzten Zwang manifestieren: einer sorgfältigen Pflege dieser Merkmale, um zu versuchen, sie zu kontrollieren. Ein Beispiel wäre einen perfekten Bart zu pflegen, die Nägel dauerhaft gepflegt und poliert zu halten oder Stunden im Fitnessstudio zu verbringen, um die Körperform anzupassen.
 
@@ -126,7 +126,7 @@ Unerwünschte körperliche Merkmale können dazu führen, dass eine Person Neid 
 </blockquote></div>
 }!}
 
-Manchmal kann es einfach ein Gefühl der Unrichtigkeit sein, dass Sie möglicherweise nicht einmal dem Gender oder (Biologischem-) Geschlecht zuschreiben. Die meiste Zeit meines Lebens glaubte ich, dass der Grund warum ich meinen Körper nicht mochte, darin bestand, dass ich fett war. Erst als ich mit der Transition begann, wurde mir klar, dass ich mein Fett überhaupt nicht hasste. Ich hasste es, männliches Fett zu haben. Durch die weiblichen Kurven, die mir die HRT gegeben hat, fühle ich mich viel mehr im Einklang mit meinem Körper.
+Manchmal kann es einfach ein Gefühl der Unrichtigkeit sein, dass Sie möglicherweise nicht einmal dem Gender oder (Biologischem-) Geschlecht zuschreiben. Die meiste Zeit meines Lebens glaubte ich, dass der Grund warum ich meinen Körper nicht mochte, darin bestand, dass ich fett war. Erst als ich mit der Transition begann, wurde mir klar, dass ich mein Fett überhaupt nicht hasste. Ich hasste es, männliches Fett zu haben. Durch die weiblichen Kurven, die mir die HRT gegeben hat, fühlte ich mich viel mehr im Einklang mit meinem Körper.
 
 {!{ <div class="gutter">
 <blockquote>
@@ -137,7 +137,7 @@ Manchmal kann es einfach ein Gefühl der Unrichtigkeit sein, dass Sie möglicher
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Die Dysphorie, die man wegen seinem Körper empfindet, kann und wird sich im Laufe der Zeit ändern; zum Guten oder zum Schlechten. Zum Beispiel beginnen viele Transfeminine Personen ihre Transition und fühlen sich nicht von ihren Genitalien abgestoßen. Später stellen sie jedoch fest, dass sie mit ihren männlichen Genitalien unwohl fühlen, weil andere, größere Dysphorie-quellen verschwinden. Andersherum kann sich jemand sicher sein unbedingt eine FFS zu benötigt, aber dann, zwei Jahre nach Start der Transition, stellet sie fest, dass ihr Gesicht keine Dysphorie mehr auslöst und sie zufrieden ist, wie sie aussieht.
+Die Dysphorie, die man wegen seinem Körper empfindet, kann und wird sich im Laufe der Zeit ändern; zum Guten oder zum Schlechten. Zum Beispiel beginnen viele Transfeminine Personen ihre Transition und fühlen sich nicht von ihren Genitalien abgestoßen. Später stellen sie jedoch fest, dass sie mit ihren männlichen Genitalien unwohl fühlen, weil andere, größere Dysphorie-quellen verschwinden. Andersherum kann sich jemand sicher sein unbedingt eine FFS zu benötigen, aber dann, zwei Jahre nach Start der Transition, stellt sie fest, dass ihr Gesicht keine Dysphorie mehr auslöst und sie zufrieden ist, wie sie aussieht.
 
 Es ist in Ordnung, wenn Sie feststellen, dass Sie mehr oder weniger benötigen als zu Beginn angenommen.
 
