@@ -18,15 +18,15 @@ classes:
 
 ## Was kann man von einer Transfemininen HRT erwarten?
 
-Dies ist eine Zusammenstellung von berichteten Änderungen, die bei der transfemininen HRT auftreten. Sie besteht aus Erfahrungsberichten von AMAB-Trans-Personen, welche eine östrogenbasierte Hormontherapie erhielten. Diese Informationen werden aus sozialen Medien und Chatrooms gesammelt. Ja, das bedeutet, dass dies alles anekdotisch ist, aber historisch gesehen sind die meisten medizinischen Transgender-Studien anekdotisch, weil niemand die medizinische Transgender-Forschung finanzieren möchte.
+Dies ist eine Zusammenstellung von berichteten Änderungen, die bei der transfemininen HRT auftreten. Sie besteht aus Erfahrungsberichten von AMAB-Trans-Personen, welche eine östrogenbasierte Hormontherapie erhielten. Diese Informationen wurden aus sozialen Medien und Chatrooms gesammelt. Ja, das bedeutet, dass dies alles anekdotisch ist, aber historisch gesehen sind die meisten medizinischen Transgender-Studien anekdotisch, weil niemand die medizinische Transgender-Forschung finanzieren möchte.
 
 **Beachten Sie, dass dies eine Liste _möglicher_ Änderungen ist. Es gibt keine Garantie dafür, dass jede Person, die eine Transfeminine HRT erhält, all diese Veränderungen erleben wird. Ihr Alter, Ihre Genetik, Ihre Krankengeschichte, Ihr Maskulinisierungsgrat ab der Pubertät und Ihre Hormonbehandlung können alle Auswirkungen auf die Ergebnisse haben. Es gibt auch ein gewisses Maß an Zufälligkeit – jeder Körper ist anders – und manche Veränderungen dauern Jahre, bis sie abgeschlossen sind.**
 
-### Brust Wachstum
+### Brustwachstum
 
 Entgegen der öffentlichen Wahrnehmung strebt die Mehrheit der Transfemininen-Personen keine Brustvergrößerung an, da sie oft nicht notwendig ist (und für viele außerhalb der finanziellen Möglichkeiten liegt). Jeder Mensch wird mit Brustgewebe geboren, es bleibt jedoch ohne Östrogen einfach inaktiv. Bei Östrogenzufuhr dauert die Entwicklung (in der Regel) 2-5 Jahre – In Ausnahmefällen kann das Wachstum sich aber mehr als zehn Jahre hinziehen, genau wie bei Cis-Frauen.
 
-Erwarten Sie anfangs Schmerzen in der Brust, zusammen mit erhöhter Empfindlichkeit in der Umgebung des Warzenhofes sowie dahinter. Vermeiden Sie es, gegen etwas zu stoßen, da es weh tun kann. Brustwarzen und Warzenhöfe werden viel empfindlicher, sowie größer und dunkler. Sie sollten ein wenig Geld in einige Sport-BHs investieren da damit externe Bewegungen minimieren wird und sie gut gepolstert sind.
+Erwarten Sie anfangs Schmerzen in der Brust, zusammen mit erhöhter Empfindlichkeit in der Umgebung des Warzenhofes sowie dahinter. Vermeiden Sie es, gegen etwas zu stoßen, da es weh tun kann. Brustwarzen und Warzenhöfe werden viel empfindlicher, sowie größer und dunkler. Sie sollten ein wenig Geld in einige Sport-BHs investieren da damit externe Bewegungen minimiert werden und sie gut gepolstert sind.
 
 Dazu kommt es oft zur leichten Milchproduktion des Brustgewebes. Eine gewisse Sekretion ist normal und wird erwartet, da sich Milchgänge bilden und öffnen; das ist kein Grund zur Besorgnis. Allerdings kann ein starker Ausfluss ohne absichtliche Stimulation ein Zeichen für ein Prolaktin-Ungleichgewicht sein, daher sollten Sie in diesem Fall Ihren Arzt informieren.
 
@@ -40,27 +40,27 @@ Die Entfernung von Testosteron führt auch zu einem starken Abfall der Hautfette
 
 Testosteron verursacht Wassereinlagerungen in Bändern und Sehnen, wodurch diese weniger dehnbar werden. Ein Abfall von Androgenen bewirkt, dass die Sehnen diese Flüssigkeiten freisetzen und so ihre Elastizität wiedererlangen.
 
-### Schmälere Hände und Armgelenke
+### Schmalere Hände und Armgelenke
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.hands className="card" caption="Die Hände des Autors. Dreiundhalb Jahren von Änderungen."}}
+{{import '~/img' images.hands className="card" caption="Die Hände des Autors. Veränderung innerhalb von dreieinhalb Jahren."}}
 </div>
 }!}
 
 Wenn die Haut weicher und schlanker wird, beginnen die Hände langsam kleiner zu werden. Ohne Testosteron fließt weniger Blut zu den Händen, was zu einer weiteren Verringerung der Gewebegröße führt. Die Ringgröße nimmt ab, wenn sich Fett und Flüssigkeit von den Fingern verlagern. Die Fingerlänge verkürzt sich, da die Bänder dünner und dehnbarer werden. 
 
-### Kleinere Fuß Größe
+### Kleinere Fußgröße
 
 Ähnlich wie die Hände erfahren auch die Füße Formveränderungen. Androgene fördern die Durchblutung der Füße und fördern die Wasseransammlung im Knorpel. Östrogene ermöglichen es den Bändern im Fuß, sich mehr zu dehnen. Zusammengenommen führt dies dazu, dass sich das Fußgewölbe vergrößert und seine Gesamtlänge um bis zu zwei Zentimeter verkürzt. Viele Menschen berichten von einem Rückgang um ein bis zwei Schuhgrößen.
 
 ### Dünnere und brüchigere Nägel
 
-Fingernägel bestehen aus Keratin und viele Keratin-Gene werden durch Androgen Rezeptoren aktiviert, wodurch dickere Fingernägel entstehen. Der Testosteronverlust macht die Nägel dünner und anfälliger für Brüche.
+Fingernägel bestehen aus Keratin und viele Keratin-Gene werden durch Androgenrezeptoren aktiviert, wodurch dickere Fingernägel entstehen. Der Testosteronverlust macht die Nägel dünner und anfälliger für Brüche.
 
 ### Körperbehaarung
 
-Erwarten Sie keine Wunder. Die Körperbehaarung wird nicht aufhören. Sobald die Follikel durch DHT in Terminalhaare gewandelt wurden, bleiben sie so. Wie bei den Fingernägeln ist die Haardicke jedoch abhängig von Keratin und die Keratin-Gene werden durch weniger androgene nicht mehr so stark aktiviert. Das bedeutet, dass das Entfernen von Testosteron dazu führt, dass die Körperhaare dünner und heller werden. Dabei spielt jedoch die Genetik eine große Rolle.
+Erwarten Sie keine Wunder. Die Körperbehaarung wird nicht aufhören. Sobald die Follikel durch DHT in Terminalhaare gewandelt wurden, bleiben sie so. Wie bei den Fingernägeln ist die Haardicke jedoch abhängig von Keratin und die Keratin-Gene werden durch weniger Androgene nicht mehr so stark aktiviert. Das bedeutet, dass das Entfernen von Testosteron dazu führt, dass die Körperhaare dünner und heller werden. Dabei spielt jedoch die Genetik eine große Rolle.
 
 ### Änderungen der Körpertemperatur-Platzierung
 
@@ -74,7 +74,7 @@ Die oben genannte Temperaturverschiebung führt auch zu einer signifikanten Änd
 
 ### Köpergeruch
 
-Eine Hauptkomponente des männlichen Körpergeruchs ist das Vorhandensein des [Steroidpheromons Androstadienon](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) im Schweiß. Androstadienon wird direkt aus Testosteron metabolisiert, so dass ein absenken von Testosteron diese Quelle entfernt. Ohne sie nimmt Schweiß einen viel süßeren Geruch an, der charakteristisch für das weibliche Geschlecht ist.
+Eine Hauptkomponente des männlichen Körpergeruchs ist das Vorhandensein des [Steroidpheromons Androstadienon](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) im Schweiß. Androstadienon wird direkt aus Testosteron metabolisiert, so dass ein Absenken von Testosteron diese Quelle entfernt. Ohne sie nimmt Schweiß einen viel süßeren Geruch an, der charakteristisch für das weibliche Geschlecht ist.
 
 Personen, die Spironolacton einnehmen, können aufgrund der Art und Weise, wie das Medikament die Cortisolaufnahme im Körper verändert, eine vollständige Einstellung des Körpergeruchs erfahren.
 
@@ -92,19 +92,19 @@ Da Östrogen mehr Gewicht auf dem Unterleib aufbaut und zusätzlich Muskelmasse 
 
 ### Gesichtszüge
 
-Zusammen mit der Körperfettmigration wandert auch Fett im Gesicht. Die Hals-, Kinn- und Kieferlinie wird dünner, während die Lippen und die oberen Wangen sich aufbauen. Die Brauen und die oberen Augenlider heben sich an und geben mehr vom Augapfel frei. Veränderungen der Haut und Muskulatur um das Auge können die Form des Augapfels verändern, die Brennweite und die Sehschärfe verändern. Auch die Augenfarbe kann sich verändern und kräftiger werden, da Testosteron die Pigmentierung der Iris verblassen lässt.
+Zusammen mit der Körperfettmigration wandert auch Fett im Gesicht. Die Hals-, Kinn- und Kieferlinie wird dünner, während die Lippen und die oberen Wangen sich aufbauen. Die Brauen und die oberen Augenlider heben sich an und geben mehr vom Augapfel frei. Veränderungen der Haut und Muskulatur um das Auge herum können die Form des Augapfels verändern, die Brennweite und die Sehschärfe verändern. Auch die Augenfarbe kann sich verändern und kräftiger werden, da Testosteron die Pigmentierung der Iris verblassen lässt.
 
 Dies ist ein äußerst subtiler und langsamer Prozess, der Jahre dauert, und es ist leicht zu glauben, dass sich überhaupt nichts ändert. Machen Sie Selfies zum Vergleichen!
 
 ### Veränderungen an der Haarlinie
 
-Mit Abfall der Androgenen erhöht sich die Durchblutung der Kopfhaut. Follikel, die durch erblich bedingten Haarausfall beim Mann verlorengegangen sind, können teilweise reaktiviert werden. Das führt zu seiner gewissen Rückkehr des Haaransatzes und einer Auffüllung kahler Stellen (Als Daumenregel kann Östrogen ca. 7 Jahre Haarausfall wieder reparieren). Das Kopfhaar wird dicker und die Follikel werden stärker, wodurch das Haar länger werden kann.
+Mit Abfall der Androgenen erhöht sich die Durchblutung der Kopfhaut. Follikel, die durch erblich bedingten Haarausfall beim Mann verlorengegangen sind, können teilweise reaktiviert werden. Das führt zu einer gewissen Rückkehr des Haaransatzes und einer Auffüllung kahler Stellen (Als Daumenregel kann Östrogen ca. 7 Jahre Haarausfall wieder reparieren). Das Kopfhaar wird dicker und die Follikel werden stärker, wodurch das Haar länger werden kann.
 
 Mit dieser Verdickung kann sich die Welligkeit erhöhen. Außerdem kann es auch zu einer leichten Veränderung der Haarfarbe kommen. Sie könnten feststellen, dass Ihr Haar eine Textur annimmt, die eher der Ihrer Mutter als der Ihres Vaters ähnelt.
 
 ### Wirbelsäulenkrümmung
 
-Wenn sich die Muskulatur verringert, die Flexibilität der Bänder zunimmt und sich der Schwerpunkt des Körpers nach unten verlagert, dreht sich die Ausrichtung des Beckenknochens in Bezug auf die Wirbelsäule und die Oberschenkelknochen nach vorne. Nicht viel, nur etwa 10-20 Grad, aber genug, um eine Veränderung in der Ausrichtung der Wirbelsäule und der Hüften zu bewirken, die Wölbung des Rückens zu vergrößern und das Gesäß mehr hervorzuheben. Die zusätzliche Wölbung am Rücken kann je nach Beckenform zu einer relativen Verringerung der Körpergröße 2 bis 5cm führen.
+Wenn sich die Muskulatur verringert, die Flexibilität der Bänder zunimmt und sich der Schwerpunkt des Körpers nach unten verlagert, dreht sich die Ausrichtung des Beckenknochens in Bezug auf die Wirbelsäule und die Oberschenkelknochen nach vorne. Nicht viel, nur etwa 10-20 Grad, aber genug, um eine Veränderung in der Ausrichtung der Wirbelsäule und der Hüften zu bewirken, die Wölbung des Rückens zu vergrößern und das Gesäß mehr hervorzuheben. Die zusätzliche Wölbung am Rücken kann je nach Beckenform zu einer relativen Verringerung der Körpergröße von 2 bis 5cm führen.
 
 Beachten Sie, dass dies NICHT dasselbe ist wie die [Hüftrotation](https://youtu.be/OROoZzoVwfk?t=12), die in der AFAB-Pubertät und während der Schwangerschaft auftritt. Dies ist das Ergebnis der Migration von Knochenzellen, die die Form des Beckenknochens selbst verändern. Eine Hüftrotation kann jedoch auftreten, wenn die Person jung genug ist und sich noch in der Pubertät befindet, in der der Körper noch erhöht Wachstumshormone produziert. Es gibt auch Beispiele für Hüftrotationen, die über lange Zeiträume bei älteren Trans-Personen stattfinden. Im Jahr 2017 berichtete eine 80-jährige Transfeminine-Person auf reddit, dass ihr Arzt im Laufe ihrer 30-jährigen HRT Veränderungen in ihrem Becken beobachtete, die die weibliche Hüftrotation begünstigten.
 
@@ -124,7 +124,7 @@ Die gute Nachricht ist, dass Östradiol das Gehirn dazu veranlasst, mehr Dopamin
 
 {!{ <div class="gutter flex" style="justify-content: flex-end"><div class="card"><div class="card-body"><h4 class="card-title">Anmerkung des Autors:</h4> }!}
 
-Es ist bekannt das sich Spironolacton negativ auf das Kurzzeitgedächtnis auswirkt, weil die Mineralokortikoide beeinträchtigt wird. Dies kann ADHS-Probleme erheblich verschlimmern und es viel schwieriger machen, sich zu konzentrieren sich Ihrer Umgebung bewusst zu sein. Ich war 2017 in einen Autounfall verwickelt, für den ich Spironebel verantwortlich mache.
+Es ist bekannt das sich Spironolacton negativ auf das Kurzzeitgedächtnis auswirkt, weil die Mineralokortikoide beeinträchtigt wird. Dies kann ADHS-Probleme erheblich verschlimmern und es viel schwieriger machen, sich zu konzentrieren und sich Ihrer Umgebung bewusst zu sein. Ich war 2017 in einen Autounfall verwickelt, für den ich Spironebel verantwortlich mache.
 
 {!{ </div></div></div> }!}
 
@@ -136,7 +136,7 @@ Leider bedeutet dies auch, dass Sie möglicherweise stärker PTSD-Episoden erleb
 
 ##### Stimmungsschwankungen
 
-Da zugeführtes Östrogen (vor allem bei Oraler Einnahme) nur eine sehr kurze Halbwertszeit hat schwankt der Östrogenspiegel zwischen den Dosen. Dadurch kann es zu spürbaren und manchmal dramatischen Stimmungsschwankungen kommen. Es kommt zu unerklärlichem Weinen oder PMS-Wut tritt auf; sei bereit dafür.
+Da zugeführtes Östrogen (vor allem bei Oraler Einnahme) nur eine sehr kurze Halbwertszeit hat schwankt der Östrogenspiegel zwischen den Dosen. Dadurch kann es zu spürbaren und manchmal dramatischen Stimmungsschwankungen kommen. Es kommt zu unerklärlichem Weinen oder PMS-Wut tritt auf; seien Sie bereit dafür.
 
 ##### Appetit
 
@@ -191,7 +191,7 @@ Die Haut entlang des Schafts beginnt - in begrenztem Maße - die gleichen Flüss
 
 ##### Farb- und Texturveränderungen
 
-Der Hodensack entspricht dem Gewebe äußeren und inneren Schamlippen. Durch die HRT erweicht das Gewebe und nimmt eine samtigere Textur an, die sich bis zum Damm erstreckt. Die Haut entlang der Raphe perinei (der vertikalen Linie über den Damm, an der sich die Vulva Öffnung hätte befinden sollen vor der Bildung des Hodensacks) wird ebenfalls dunkler. Manche Menschen bilden eine Art Streifenmuster entlang des Hodensacks aus.
+Der Hodensack entspricht dem Gewebe der äußeren und inneren Schamlippen. Durch die HRT erweicht das Gewebe und nimmt eine samtigere Textur an, die sich bis zum Damm erstreckt. Die Haut entlang der Raphe perinei (der vertikalen Linie über den Damm, an der sich die Vulva Öffnung hätte befinden sollen vor der Bildung des Hodensacks) wird ebenfalls dunkler. Manche Menschen bilden eine Art Streifenmuster entlang des Hodensacks aus.
 
 ##### Weniger Erektionen
 
@@ -199,7 +199,7 @@ Ohne frei fließendes Testosteron sinkt der DHT-Spiegel im Blutkreislauf deutlic
 
 Dies hat jedoch zur Folge, dass langsam der Schwellkörper verkümmert. Längere Atrophie führt zu einer Schrumpfung des gesamten Organs, was gut sein kann (weniger Dysphorie) oder schlecht (weniger Material für Vaginoplastik). Die Form des Penis ändert sich und wird oft konischer. Die Eichel ist der erste Teil, der schrumpft und verliert eventuell die Fähigkeit steif zu werden. Penetrativer Sex wird schwieriger und Erektionen selbst können schmerzhaft sein.
 
-Dem kann durch regelmäßige Erektionen entgegengewirkt werden (wenn es die Dysphorie zulässt), aber auch das das kann mit der Zeit schwieriger werden.
+Dem kann durch regelmäßige Erektionen entgegengewirkt werden (wenn es die Dysphorie zulässt), aber auch das kann mit der Zeit schwieriger werden.
 
 ##### Klares Ejakulat
 
@@ -261,6 +261,6 @@ Es gibt unterschiedlich stark ausgeprägte Symptome, welche dem weiblichen Zyklu
 - Spontane Verschiebungen der Libido
 - Veränderungen des Genitalgeruchs
 
-Und bevor es jemand Fragt: Nein, es gab noch keine Studien dazu, aber es wird von zu vielen Personen gemeldet, um eine zufällige Anomalie zu sein. Außerdem wurden die Symptome von mehreren Ärzten bestätigt. Für das ganze gibt es auch Präzedenzfälle bei Cis-Frauen, die eine Hysterektomie hatten (ich kenne persönlich zwei Cis-Frauen, die ihren Zyklus haben, aber ohne medizinische Intervention keine Menstruation haben).
+Und bevor es jemand Fragt: Nein, es gab noch keine Studien dazu, aber es wird von zu vielen Personen gemeldet, um eine zufällige Anomalie zu sein. Außerdem wurden die Symptome von mehreren Ärzten bestätigt. Für das Ganze gibt es auch Präzedenzfälle bei Cis-Frauen, die eine Hysterektomie hatten (ich kenne persönlich zwei Cis-Frauen, die ihren Zyklus haben, aber ohne medizinische Intervention keine Menstruation haben).
 
-Wenn der Körper mit Östrogen und Progesteron läuft aktiviert das eine Gensequenz, die den Hypothalamus anweist, zu versuchen, das Eierstock- und Uterusverhalten zu zirkulieren, genauso wie es bei Frauen der Fall ist, ungeachtet des Fehlens dieser beiden Organe. Dieser Zyklus beeinflusst zahlreiche Organe und Subsysteme im Körper und verursacht die Freisetzung einer Vielzahl verschiedener Hormone und Enzyme, die die Funktion und sogar das Verhalten beeinflussen können.
+Wenn der Körper mit Östrogen und Progesteron läuft, aktiviert das eine Gensequenz, die den Hypothalamus anweist, zu versuchen, das Eierstock- und Uterusverhalten zu zirkulieren, genauso wie es bei Frauen der Fall ist, ungeachtet des Fehlens dieser beiden Organe. Dieser Zyklus beeinflusst zahlreiche Organe und Subsysteme im Körper und verursacht die Freisetzung einer Vielzahl verschiedener Hormone und Enzyme, die die Funktion und sogar das Verhalten beeinflussen können.

@@ -47,7 +47,7 @@ Darüber hinaus leiden viele Transgender aufgrund einer Vorgeschichte von Mobbin
 
 Aber hier ist die Sache… nur Trans-Personen machen sich Sorgen, ob sie tatsächlich Transgender sind! Eine Cis-Gender-Person ist nicht besessen von ihrer Geschlechtsidentität. Eine Cis-Gender Person denkt kurz darüber nach, verarbeitet die Informationen, macht einen Haken dran und geht zum nächsten Punkt über. Wenn Sie immer wieder zu diesen zweifelnden Gedanken zurückkehren, dann sagt Ihnen Ihr Gehirn, dass Sie irgendwo eine falsche Abbiegung genommen haben.
 
-Die Welt ist voller Einflüsse, die uns mit Zweifeln erfüllen und uns davon abhalten, mit der etablierten Gesellschaftsordnung zu brechen. Im Folgenden werden einige Systeme und Ideologien beschrieben, die versuchen Trans-Menschen als verwirrt oder Betrüger hinzustellen und uns davon abhalten sollen, uns selbst zu verwirklichen.
+Die Welt ist voller Einflüsse, die uns mit Zweifeln erfüllen und uns davon abhalten, die etablierte Gesellschaftsordnung zu brechen. Im Folgenden werden einige Systeme und Ideologien beschrieben, die versuchen Trans-Menschen als verwirrt oder Betrüger hinzustellen und uns davon abhalten sollen, uns selbst zu verwirklichen.
 
 ### Autogynephelia
 
@@ -76,7 +76,7 @@ Sie sind kein Fetischist. Das Gefühl, wenn Sie sich als Frau betrachten, ist ge
 
 ### Patriarchale Unterdrückung
 
-Eine häufige Ursache für das Absprechen des Wunsches dem männlichen Geschlecht anzugehören für AFABs ist das Vermischen des Geschlechts mit der vermeintlichen systemischen Unterdrückung von Frauen (insbesondere bei Personen, welche keine Hormontherapie anstreben oder nicht in die binären Geschlechtskategorien passen). Die Botschaft „Oh, du willst einfach keine Frau sein, weil Frauen so schlecht behandelt werden“ wird viel zu oft gehört und kann im Unterbewusstsein starke Selbstzweifel hervorrufen. Das diese These unlogisch ist, kommt aber meistens nicht in den Sinn. Die Gesellschaf behandelt Trans-Personen meist schlechter als Frauen. Demnach ist das Anstreben der Transition, um der „Unterdrückung als Frau“ zu entgehen ein Selbstwiderspruch (und ich persönlich habe noch nie eine Trans-Person getroffen, die es deswegen getan hat).
+Eine häufige Ursache für das Absprechen des Wunsches, dem männlichen Geschlecht anzugehören, ist für AFABs das Vermischen des Geschlechts mit der vermeintlichen systemischen Unterdrückung von Frauen (insbesondere bei Personen, welche keine Hormontherapie anstreben oder nicht in die binären Geschlechtskategorien passen). Die Botschaft „Oh, du willst einfach keine Frau sein, weil Frauen so schlecht behandelt werden“ wird viel zu oft gehört und kann im Unterbewusstsein starke Selbstzweifel hervorrufen. Das diese These unlogisch ist, kommt aber meistens nicht in den Sinn. Die Gesellschaft behandelt Trans-Personen meist schlechter als Frauen. Demnach ist das Anstreben der Transition, um der „Unterdrückung als Frau“ zu entgehen ein Selbstwiderspruch (und ich persönlich habe noch nie eine Trans-Person getroffen, die es deswegen getan hat).
 
 Die Botschaft von radikalen Feministen, weibliche Geschlechterrollen aufzugeben, kann es auch schwieriger machen, die eigenen Gefühle zu analysieren. „Bin ich eigentlich nicht-binär oder bin ich nur eine Feministin?“ oder „Bin ich eigentlich ein Mann oder bin ich nur eine sehr männliche Lesbe?“. Dafür ermutige ich Sie, mit Cis-Feministinnen, insbesondere Lesben, zu sprechen. Sie werden sich über Unterdrückungssysteme und das Patriarchat beschweren; Die Probleme sind alle außerhalb Ihres Einflussbereiches und dennoch wollen sie weiterhin Frauen sein. Sogar sehr männliche Lesben wollen Frauen sein, nur in einer anderen Art und Weise wie es der Mainstream-Feminismus vorschreibt.
 
@@ -98,7 +98,7 @@ Kurz gesagt, viele Transmedikalisten hassen es, dass die jüngere Generation es 
 
 Wenn eine Trans-Person zum ersten Mal von anderen Trans-Personen ausgegrenzt wird, kann dies für lange Zeit ihre eigene Selbstakzeptanz erheblich beeinträchtigen und das eigene Erkennen für lange Zeit behindern. Anhänger von Truetrans sind dafür bekannt, dass sie den Leuten tatsächlich sagen: „Nein, du bist kein „echter Transgender“.“
 
-Diese Aussagen sollte man keinen Glauben schenken denn es handelt sich um Mobbing-Taktiken, die explizit darauf ausgelegt sind, andere Menschen zum Zwecke der Selbsterhöhung zu verletzen.
+Diesen Aussagen sollte man keinen Glauben schenken, denn es handelt sich um Mobbing-Taktiken, die explizit darauf ausgelegt sind, andere Menschen zum Zwecke der Selbsterhöhung zu verletzen.
 
 ### Trans-Ausgrenzender Reaktionärer Feminismus (TERF) bzw. Kritische Gender (GC) Bewegung bzw. Gender Essentialismus
 
