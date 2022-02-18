@@ -37,7 +37,7 @@ tweets:
   ] tweets=meta.tweets className="" }}
 </div>}!}
 
-Es gibt mehr Möglichkeiten wie sich die Chromosomen kombinieren können als die zwei Hauptkategorien XX und XY vermuten lassen. Wenn die Chromosomen sich außerhalb der Norm XX und XY kombinieren werden, diese medizinisch als DSDs (Disorders of Sex Development) bezeichnet. Nicht alle führen zu einer intersexuellen Erkrankung, und viele manifestieren sich erst zu Beginn der Pubertät.
+Es gibt mehr Möglichkeiten, wie sich die Chromosomen kombinieren können, als die zwei Hauptkategorien XX und XY vermuten lassen. Wenn die Chromosomen sich außerhalb der Norm XX und XY kombinieren, werden diese medizinisch als DSDs (Disorders of Sex Development) bezeichnet. Nicht alle führen zu einer intersexuellen Erkrankung, und viele manifestieren sich erst zu Beginn der Pubertät.
 
 - Das [De-la-Chapelle-Syndrom](https://de.wikipedia.org/wiki/XX-Mann) (46, XX männlich) tritt auf, wenn das SRY-Gen des Spermienelternteils während der Spermatogenese in ein nicht Y-tragendes Sperma übergeht. Wenn das Ei und das Sperma verschmelzen, entsteht ein XX-Embryo mit einem SRY-Gen, wodurch ein phänotypisches männliches Kind mit zwei X-Chromosomen entsteht.
 
