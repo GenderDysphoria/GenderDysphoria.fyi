@@ -54,7 +54,7 @@ Jeder dieser drei Aspekte kann in einen weitläufigen Wertebereich fallen. Im Bi
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Ebenso glauben viele Menschen, dass der Phänotyp auch binär ist, aber die Evolution zeigt seit Jahrhunderten das die sexuellen Merkmale einer Population sich nach einem bimodalen Modell (siehe Grafik) verteilt, bei der die Mehrheit der Bevölkerung innerhalb eines Perzentils von liegt zwei Gruppen. Die meisten Personen haben eindeutig männliche bzw. weibliche Merkmale; dies bedeutet aber auch, dass manche Menschen einfach von Natur aus außerhalb der typischen zwei Hauptgruppen liegen. Bei manchen Menschen fallen die Merkmale in die Mitte: mit Merkmalen beider Geschlechter.
+Ebenso glauben viele Menschen, dass der Phänotyp auch binär ist, aber die Evolution zeigt seit Jahrhunderten das die sexuellen Merkmale einer Population sich nach einem bimodalen Modell (siehe Grafik) verteilt, bei der die Mehrheit der Bevölkerung innerhalb eines Perzentils von zwei Gruppen liegt. Die meisten Personen haben eindeutig männliche bzw. weibliche Merkmale; dies bedeutet aber auch, dass manche Menschen einfach von Natur aus außerhalb der typischen zwei Hauptgruppen liegen. Bei manchen Menschen fallen die Merkmale in die Mitte: mit Merkmalen beider Geschlechter.
 
 Gender ist jedoch viel… abstrakter. Es gibt viele verschiedene Arten wie Menschen versucht haben das Geschlechtsspektrum zu veranschaulichen, aber bisher ist es noch auf keine Art ganzheitlich gelungen, da das Spektrum selbst ein sehr abstraktes Konzept ist.
 
@@ -76,7 +76,7 @@ Gender ist jedoch viel… abstrakter. Es gibt viele verschiedene Arten wie Mensc
 </div>
 }!}
 
-In kurz: Einige Personen sind sehr männlich, einige Personen sind sehr weiblich, einige Personen fühlen überhaupt kein Geschlecht zugehörig, einige Personen fühlen sich beiden Geschlechtern zugehörig, einige Personen sind fühlen sich zwischen den Geschlechtern und einige Personen fühlen sich an den Rändern. Manche Menschen schwingen auf unvorhersehbare Weise über das gesamte Spektrum und verändern sich wie der Wind. Nur eine Person selbst kann ihr eigenes Gender identifizieren, niemand anderes kann es ihr vorschreiben.
+In kurz: Einige Personen sind sehr männlich, einige Personen sind sehr weiblich, einige Personen fühlen überhaupt kein Geschlecht zugehörig, einige Personen fühlen sich beiden Geschlechtern zugehörig, einige Personen befinden sich zwischen den Geschlechtern und einige Personen fühlen sich an den Rändern. Manche Menschen schwingen auf unvorhersehbare Weise über das gesamte Spektrum und verändern sich wie der Wind. Nur eine Person selbst kann ihr eigenes Gender identifizieren, niemand anderes kann es ihr vorschreiben.
 
 Gender ist *teils* soziales Konstrukt, *teils* erlerntes Verhalten und teils biologische Prozesse, die sich in sehr frühen Lebensphasen eines Menschen bilden.
 
@@ -102,7 +102,7 @@ Auf der sozialen Seite beinhaltet Gender unseren [Habitus](https://de.wikipedia.
 
 Die Autorin Susan Stryker beschrieb Habitus in ihrem Buch [„Transgender History“](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X):
 
-> Unser Habitus beinhaltet auch die zur Schau Stellung unserer sekundären Geschlechtsmerkmale, um anderen ein Gefühl dafür zu vermitteln, wer wir sind. Das drückt sich zum Beispiel aus, ob wir unsere mit unseren Hüften schwingen, ob wir mit unseren Händen sprechen, ob wir uns im Fitnessstudio massieren lassen, ob wir unsere Haare wachsen lassen, ob wir Kleidung mit Ausschnitt tragen das unser Dekolleté betont, ob wir uns die Achseln rasieren oder einen drei-Tage-Bart stehen lassen und ob wir am Satzende mit steigender oder fallender Betonung sprechen. Oft haben sich diese Bewegungs- und Gestaltungsweisen so verinnerlicht, dass wir sie für selbstverständlich halten, obwohl sie -- da es alles Dinge sind, die wir durch Beobachtung und Übung gelernt haben -- besser als kulturell erworbene „zweite Natur“ verstanden werden können.
+> Unser Habitus beinhaltet auch die zur Schau Stellung unserer sekundären Geschlechtsmerkmale, um anderen ein Gefühl dafür zu vermitteln, wer wir sind. Das drückt sich zum Beispiel aus, ob wir mit unseren Hüften schwingen, ob wir mit unseren Händen sprechen, ob wir uns im Fitnessstudio massieren lassen, ob wir unsere Haare wachsen lassen, ob wir Kleidung mit Ausschnitt tragen das unser Dekolleté betont, ob wir uns die Achseln rasieren oder einen drei-Tage-Bart stehen lassen und ob wir am Satzende mit steigender oder fallender Betonung sprechen. Oft haben sich diese Bewegungs- und Gestaltungsweisen so verinnerlicht, dass wir sie für selbstverständlich halten, obwohl sie -- da es alles Dinge sind, die wir durch Beobachtung und Übung gelernt haben -- besser als kulturell erworbene „zweite Natur“ verstanden werden können.
 
 Dies sind alles kulturelle Faktoren, also Dinge, die sich sie Menschheit im Laufe der Zeit angeeignet hat. Auch wenn diese Dinge im Wesentlichen „erfunden“ sind, sind sie dennoch mit einer Geschlechtsidentität verbunden. Eine Person neigt dazu, sich mit den sozialen Aspekten ihres inneren Geschlechts unbewusst zu verbinden, ohne zu merken, dass sie dies tut. Wenn ihnen der Zugang zu diesen sozialen Aspekten verweigert wird, führt dies zu sozialem Unbehagen.
 

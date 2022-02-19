@@ -30,7 +30,7 @@ This may be accompanied with lactation. Some secretion is normal and can be expe
 
 ### Skin Softening
 
-Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
+Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer and more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
 
 The removal of testosterone also causes a severe drop in skin oils, particularly on the face and scalp. This results in a significant reduction of acne and/or dandruff.
 

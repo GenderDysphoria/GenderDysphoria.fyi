@@ -31,7 +31,7 @@ This may be accompanied with lactation. Some secretion is normal and can be expe
 
 ### Skin Softening
 
-Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
+Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer and more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
 
 The removal of testosterone also causes a severe drop in skin oils, particularly on the face and scalp. This results in a significant reduction of acne and/or dandruff.
 
@@ -243,7 +243,7 @@ It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-
 
 ### Cyclical Period-like Symptoms
 
-Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
+Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it every two weeks). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
 
 - Cramping in the intestine and abdominal muscles, ranging from a slight flutter in the gut to strong painful spasms.
 - Bloating and water retention

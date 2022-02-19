@@ -12,13 +12,13 @@
       <span>@{{user.screen_name}}</span>
       <img src="/tweets/logo.svg" alt="Twitter Logo" class="tweet-logo">
     </a>
-    {{#if quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
+    {{#if this.quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
     <div class="tweet-quoted">
       <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
         <strong>{{{user.name_html}}}</strong>
         <span>@{{user.screen_name}}</span>
       </a>
-      {{#if quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
+      {{#compare this.quoted_status_id_str '!=' this.id_str}}{{#with tweets[quoted_status_id_str]}}
       <div class="tweet-quoted">
         <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
           <strong>{{{user.name_html}}}</strong>
@@ -28,7 +28,7 @@
       </div>
       {{else}}
       <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
-      {{/with}}{{/if}}
+      {{/with}}{{/compare}}
       <div class="tweet-quoted-text">{{{html}}}</div>
     </div>
     {{else}}
