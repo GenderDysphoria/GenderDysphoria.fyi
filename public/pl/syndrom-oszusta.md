@@ -153,8 +153,8 @@ Esencjalizm płciowy jest przekonaniem, że istnieją pewne wrodzone cechy ludzk
 
 Głównym celem tego ruchu jest dyskredytacja transpłciowości. Nie zwracaj najmniejszej cząstki uwagi na tych ludzi.
 
-### Abolicjonizm płciowy / postgenderyzm
+### Abolicjonizm płciowy / postgenderyzm / postpłciowość
 
-[Postgenderyzm](https://pl.wikipedia.org/wiki/Postgenderyzm) jest transhumanistyczną filozofią wywodzącą się z radykalnego feminizmu, która postuluje odrzucenie płci społecznej jako ograniczającej społeczeństwo. Abolicjoniści płciowi uważają, że cały koncept płci społecznej jest konstruktem i że osoby odczuwające silny związek z binarną płcią nikczemnie propagują stereotypy płciowe bądź ignorancko podążają za systemową indoktrynacją.
+[Postgenderyzm](https://pl.wikipedia.org/wiki/Postgenderyzm) jest transhumanistyczną filozofią wywodzącą się z radykalnego feminizmu, która twierdzi, że gender powoduje więcej złego niż dobrego, i stara się doprowadzić do usunięcia go z naszego społeczeństwa. TERFy starej szkoły sięgają do postgenderyzmu jako powodu, dla którego osoby trans nie powinny istnieć. Ta trans-wykluczająca frakcja abolicjonizmu płciowego wierzy, że cały gender jest konstruktem i każdy, kto odczuwa silną przynależność do binarnej płci, nikczemnie propaguje stereotypy płciowe albo nieświadomie poddaje się systemowej indoktrynacji. Tacy ludzie nie wierzą w istnienie dysforii płciowej i będą podważać wypowiedzi osób, które jej doświadczają.
 
-O ile sama filozofia ma punkty korzystne dla osób transpłciowych na początku swojej drogi, odrzucanie płci społecznej siłą rzeczy skutkuje odrzucaniem dysforii płciowej. Z tego powodu abolicjoniści płciowi będą negować doświadczenia związane z dysforią. Funkcjonalnie postgenderyzm jest skrajnie lewicową wersją ruchu *gender critical*.
+Uwaga, nie chodzi tu o osoby trans, które identyfikują się jako postpłciowe, czy w ogóle abolicjonizm płciowy. Tu chodzi konkretnie o wykorzystanie tego konceptu przez TERFy.
