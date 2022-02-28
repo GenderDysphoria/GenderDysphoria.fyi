@@ -44,7 +44,7 @@ classes:
 
 8. [Dysforia roli społecznej](/pl/dysforia-roli-spolecznej)
 
-9. [Dysforia seksualna](/pl/dysforia-seksualna)
+9. [Dysforia na tle seksualności](/pl/dysforia-seksualna)
 
 10. [Dysforia prezencji](/pl/dysforia-prezencji)
 

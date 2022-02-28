@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: pl
 siblings:
   prev: /pl/dysforia-seksualna
-  prevCaption: Dysforia seksualna
+  prevCaption: Dysforia na tle seksualności
   next: /pl/dysforia-egzystencjalna
   nextCaption: Dysforia egzystencjalna
 classes:

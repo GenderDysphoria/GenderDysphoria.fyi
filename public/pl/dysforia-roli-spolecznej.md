@@ -9,7 +9,7 @@ siblings:
   prev: /pl/dysforia-spoleczna
   prevCaption: Dysforia społeczna
   next: /pl/dysforia-seksualna
-  nextCaption: Dysforia seksualna
+  nextCaption: Dysforia na tle seksualności
 classes:
   - gdb
 tweets:

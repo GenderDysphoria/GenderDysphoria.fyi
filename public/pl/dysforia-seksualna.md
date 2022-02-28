@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Objawy dysforii: dysforia seksualna"
-linkTitle: "Dysforia seksualna"
+title: "Objawy dysforii: dysforia na tle seksualności"
+linkTitle: "Dysforia na tle seksualności"
 description: "Czasami papieros nie chce być zapalany."
 preBody: '_disclaimer'
 lang: pl
@@ -17,7 +17,7 @@ tweets:
 
 ---
 
-# Dysforia seksualna
+# Dysforia na tle seksualności
 
 Blisko związana z dysforią roli społecznej jest dysforia dotycząca seksualności, seksualnych relacji i uprawiania seksu. [Heteronormatywne](https://pl.wikipedia.org/wiki/Heteronormatywno%C5%9B%C4%87) role płciowe nasiąknięte są oczekiwaniami, że osoby o męskiej płci urodzeniowej będą aktywami, a żeńskiej -- pasywami. Ta dynamika wzmacniana jest przez media, toksyczną męskość, a w szczególności przez pornografię, nawet *transpłciową* pornografię (znaczna większość pornografii w konfiguracji trans/cis obejmuje trans kobietę w aktywnej roli). Odstępstwa od przyjętych ról często są obiektem krytyki, zarówno ze strony osób partnerskich, jak i innych ludzi.
 
