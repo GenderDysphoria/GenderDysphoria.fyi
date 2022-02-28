@@ -11,6 +11,9 @@ siblings:
   prevCaption: What Is Gender?
   next: /en/euphoria
   nextCaption: Gender Euphoria
+translations:
+  pt: /pt/historia/
+  zh: /zh/历史/
 ---
 
 # A Brief History of Gender Dysphoria

@@ -12,6 +12,9 @@ siblings:
   prevCaption: O que é Gênero?
   next: /pt/euforia
   nextCaption: Euforia de Gênero
+translations:
+  en: /en/history/
+  zh: /zh/历史/
 ---
 
 # Uma Breve História da Disforia de Gênero

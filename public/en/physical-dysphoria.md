@@ -9,6 +9,9 @@ siblings:
   prevCaption: Gender Euphoria
   next: /en/biochemical-dysphoria
   nextCaption: Biochemical Dysphoria
+translations:
+  pt: /pt/disforia-fisica/
+  zh: /zh/身体烦躁/
 classes:
   - gdb
 tweets:

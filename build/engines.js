@@ -193,6 +193,7 @@ class Injectables {
       import:   this.import(),
       markdown: this.markdown(),
       icon:     this.icon(),
+      coalesce: this.coalesce(),
       prod:     this.production(),
       rev:      this.rev(),
       lang:     this.lang(),
@@ -288,6 +289,18 @@ class Injectables {
       const { resolve: rval } = args.pop();
       const lang = rval('@root.this.page.lang').split('-')[0];
       return i18n(lang, key, ...args);
+    };
+  }
+
+  coalesce () {
+    return function (...raw_args) {
+      const { arguments: args } = raw_args.pop();
+      for (let arg in args) {
+        if (args[arg] !== undefined) {
+          return args[arg];
+        }
+      }
+      return undefined;
     };
   }
 

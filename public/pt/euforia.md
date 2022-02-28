@@ -10,6 +10,9 @@ siblings:
   prevCaption: A História da Disforia de Gênero
   next: /pt/disforia-fisica
   nextCaption: Disforia Física
+translations:
+  en: /en/euphoria/
+  zh: /zh/亢奋/
 classes:
   - gdb
 tweets:

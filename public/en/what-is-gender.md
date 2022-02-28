@@ -8,6 +8,9 @@ siblings:
   prevCaption: Introduction
   next: /en/history
   nextCaption: The History of Gender Dysphoria
+translations:
+  pt: /pt/que-e-genero/
+  zh: /zh/什么是性别/
 classes:
   - gdb
 tweets:

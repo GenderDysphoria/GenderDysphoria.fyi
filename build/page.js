@@ -31,6 +31,7 @@ module.exports = exports = class Page extends File {
       'classes',
       'flags',
       'siblings',
+      'translations',
     );
 
     this.engine = this._engine();
@@ -107,8 +108,13 @@ module.exports = exports = class Page extends File {
     const { titlecard, webready } = this.files = PublicFiles.for(this.dir);
     this.ignore = this.meta.ignore;
     this.draft = this.meta.draft;
-    this.lang = this.lang || "en";
+    let old_lang = this.lang || this.meta.lang;
+    this.lang = this.lang || this.meta.lang || "en";
     this.siblings = this.meta.siblings;
+    this.translations = this.meta.translations || {};
+    if (old_lang !== undefined) {
+      this.translations[old_lang] = this.url;
+    }
     this.images = webready;
     this.titlecard = titlecard;
     if (this.meta.tweets && isString(this.meta.tweets)) this.meta.tweets = this.meta.tweets.split(/\s/).filter(Boolean);

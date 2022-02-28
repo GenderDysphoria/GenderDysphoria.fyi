@@ -9,6 +9,9 @@ classes:
 siblings:
   next: /pt/que-e-genero
   nextCaption: O que é Gênero?
+translations:
+  en: /en/
+  zh: /zh/
 ---
 
 

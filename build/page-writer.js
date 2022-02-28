@@ -113,6 +113,7 @@ function pageJSON (post) {
     tags: post.meta.tags,
     author: post.meta.author,
     siblings: post.siblings,
+    translations: post.meta.translations,
   };
 }
 
