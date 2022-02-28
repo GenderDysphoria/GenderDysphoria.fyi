@@ -19,28 +19,28 @@ tweets:
 
 # Dysforia seksualna
 
+Blisko związana z dysforią roli społecznej jest dysforia dotycząca seksualności, seksualnych relacji i uprawiania seksu. [Heteronormatywne](https://pl.wikipedia.org/wiki/Heteronormatywno%C5%9B%C4%87) role płciowe nasiąknięte są oczekiwaniami, że osoby o męskiej płci urodzeniowej będą aktywami, a żeńskiej -- pasywami. Ta dynamika wzmacniana jest przez media, toksyczną męskość, a w szczególności przez pornografię, nawet *transpłciową* pornografię (znaczna większość pornografii w konfiguracji trans/cis obejmuje trans kobietę w aktywnej roli). Odstępstwa od przyjętych ról często są obiektem krytyki, zarówno ze strony osób partnerskich, jak i innych ludzi.
 
+Oczywiście nie jest to jedyny możliwy podział ról, absolutnie, i wiele cis hetero par potrafi odnaleźć się poza tymi ramami, przyjmując nową dynamikę w swojej relacji bądź wprowadzając kinkowe praktyki. Część par dochodzi do wniosku, że jest seksualnie niekompatybilna, i poszukuje innych osób partnerskich. Niemniej jednak mnóstwo jest presji z zewnątrz, która zniechęca do odkrywania i rozumienia siebie (jeśli to zrozumienie wykracza poza obowiązujący standard). Wyrwanie się z tej presji może być ekstremalnie trudne, wręcz traumatyczne, szczególnie dla osób pochodzących z konserwatywnych lub religijnych środowisk.
 
+Cispłciowe jednopłciowe związki odrzucają ten podział z konieczności, umożliwiając znalezienie roli dającej więcej spełnienia. Niektóre mają ustaloną dynamikę dom/sub i wchodzą w relację, mając już tę wiedzę. Inne rozwiązują potencjalny problem, dając osobom partnerskim dominować naprzemiennie. Wciąż jednak homoseksualne związki mogą dać się złapać w pułapkę takich oczekiwań za sprawą dynamik [butch/femme](https://pl.wikipedia.org/wiki/Butch_i_femme) czy [bear](https://pl.wikipedia.org/wiki/Gay_bear)/twink.
 
+Co to wszystko znaczy? Transpłciowe osoby, które wchodzą w pozornie heteroseksualne związki przed tranzycją, czasami tracą zainteresowanie uprawianiem seksu, gdyż penetracja nie daje im spełnienia, jakiego by oczekiwały. W skrajnych przypadkach może wręcz wywołać panikę. Nie chodzi nawet o wrażenia dotykowe -- te mogą być przyjemne, lecz odczuwane doświadczenia są niewłaściwe, zaś sam stosunek wydaje się wymuszony.
 
-
-Closely related to Societal Dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography (the bulk of trans/cis pornography involves the trans woman topping). Deviations from these roles often result in shame, both from partners and from peers.
-
-Of course, this is not an absolute, by any means, and many heterosexual cis couples do find ways out of these molds, finding a new dynamic in their relationship, or engaging in kinks to satisfy desires. Some couples find they aren't sexually compatible at all and seek other partners. However, there are many many external pressures discouraging this kind of self-awareness and discovery, and breaking away from those demands can be extremely difficult, even traumatic. This is particularly true when there is a background of conservatism or religious virtuism.
-
-Cisgender gay relationships shirk this by virtue of necessity, opening the doors for individuals to explore what role leaves them more fulfilled. Some gay couples have an established dominant/submissive dynamic, and they enter into the relationship with that already understood. Others resolve it by switching up which partner is dominant. Yet, gay relationships can still get caught up in these kinds of expectations in regards to [butch/femme](https://en.wikipedia.org/wiki/Butch_and_femme), [bear](https://en.wikipedia.org/wiki/Bear_(gay_culture)), and [twink](https://en.wikipedia.org/wiki/Twink_(gay_slang)) dynamics.
-
-What does all this mean? Trans people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect. In extreme cases it can feel completely wrong and trigger panic. The sensations may feel pleasurable, but the experience is out of place, and the act itself feels forced.
-
-{!{ <div class="gutter">{{import '~/tweet' ids=[
+{!{ <div class="gutter">
+{{import '~/tweet' ids=[
     '1137399651458519040'
-] tweets=meta.tweets className="" }}</div> }!}
+] tweets=meta.tweets className="" }}
+<!--
+Czy jakieś inne trans dziewczyny dotarły do takiego punktu przed tranzycją, gdzie właściwie musiały odpływać, by robić za top, czy tylko ja lol
+-->
+</div>}!}
 
-This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as sex-averse due to how severely their dysphoria has shut down all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
+To wszystko może odebrać ochotę na i zainteresowanie seksem, jako że połowa popędu seksualnego to psychiczny kontekst sytuacji. Wiele transpłciowych osób nawet nie doświadcza seksu aż do okresu dorosłości, efektywnie mając awersję do seksu z powodu swojej dysforii, która zabiła cały popęd seksualny. Osoby trans mogą też uprawiać seks z uwagi na swoje osoby partnerskie, lecz nie doświadczać oczekiwanej przyjemności, a nawet izolując się od otaczającej rzeczywistości, aby osiągnąć cel.
 
-This dysphoria may be so significant that they find themselves taking a sexual identity that they don't actually connect with. It is not unheard of for a trans person to realize after coming out that they never actually felt a connection to the sexual orientation that they had identified with previously, but were rather using it as a way to feel less dysphoric in their sex lives.
+Dysforia ta może być na tyle znacząca, że część osób przyjmuje tożsamość seksualną, która w rzeczywistości im nie odpowiada. Zdarza się, że transpłciowa osoba odkrywa po coming oucie, że nigdy nie czuła związania z orientacją seksualną, z którą się identyfikowała wcześniej, lecz używała jej jako środka do załagodzenia dysforii w sprawach łóżkowych.
 
-Some trans women, for example, identified as gay men pre-transition out of a desire to have a partner that treats them like women during sex, but find themselves to actually be lesbians once that demand is lifted. Others may attempt to live as gay men, but find that the role doesn't fulfill them because they know their partners see them as men.
+Przykładowo, część trans kobiet identyfikowała się przed tranzycją jako geje, pragnąc, aby partner traktował je jako kobiety podczas seksu, lecz kiedy przeszły tranzycję, odkryły, że są lesbijkami (albo asami, albo bi...). Inne mogły próbować żyć jako geje, ale zrozumieć, że ta rola nie przynosi im spełnienia, ponieważ ich partnerzy postrzegają je jako facetów.
 
 ## Problem narzucanego "męskiego wgapiania"
 
