@@ -9,9 +9,6 @@ siblings:
   prevCaption: Introdução
   next: /pt/historia
   nextCaption: A História da Disforia de Gênero
-translations:
-  en: /en/what-is-gender/
-  zh: /zh/什么是性别/
 classes:
   - gdb
 tweets:

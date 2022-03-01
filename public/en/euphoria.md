@@ -9,9 +9,6 @@ siblings:
   prevCaption: The History of Gender Dysphoria
   next: /en/physical-dysphoria
   nextCaption: Physical Dysphoria
-translations:
-  pt: /pt/euforia/
-  zh: /zh/亢奋/
 classes:
   - gdb
 tweets:
