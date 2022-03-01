@@ -25,6 +25,20 @@ const str2locale = {
   'es': dateFNSLocales.es
 };
 
+const translationLinksRaw = require('../translation-links.json');
+let translationLinksMap = {};
+
+for (const group of translationLinksRaw) {
+  for (const [lang, url] of Object.entries(group)) {
+    if (url in translationLinksMap) {
+      console.log("URL '"+url+"' appears repeatedly on translation-links.json");
+      process.exit(1);
+    } else {
+      translationLinksMap[url] = group;
+    }
+  }
+}
+
 const markdownEngines = {
   full: markdownIt({
     html: true,
@@ -190,14 +204,15 @@ class Injectables {
 
   helpers () {
     return {
-      import:   this.import(),
-      markdown: this.markdown(),
-      icon:     this.icon(),
-      coalesce: this.coalesce(),
-      prod:     this.production(),
-      rev:      this.rev(),
-      lang:     this.lang(),
-      date:     this.date(),
+      import:    this.import(),
+      markdown:  this.markdown(),
+      icon:      this.icon(),
+      coalesce:  this.coalesce(),
+      translink: this.translink(),
+      prod:      this.production(),
+      rev:       this.rev(),
+      lang:      this.lang(),
+      date:      this.date(),
     };
   }
 
@@ -292,6 +307,32 @@ class Injectables {
     };
   }
 
+  // Find the translation links for the current page from the file translation-links.json
+  //
+  // If a single argument is present, a single string will be returned, otherwise an
+  // object with links for all languages will be returned
+  translink () {
+    return function (...raw_args) {
+      let { resolve: rval, arguments: args } = raw_args.pop();
+      args.push(undefined, undefined);
+      const lang = args[0];
+      const fallback = args[1];
+      const page_url = rval('@root.this.url').trim();
+
+      let ans = translationLinksMap[page_url] || {};
+      if (lang !== undefined) {
+        ans = ans[lang];
+      }
+
+      if (ans === undefined) {
+        ans = fallback;
+      }
+
+      return ans;
+    };
+  }
+
+  // Given a list of arguments, returns the firt that isn't undefined
   coalesce () {
     return function (...raw_args) {
       const { arguments: args } = raw_args.pop();

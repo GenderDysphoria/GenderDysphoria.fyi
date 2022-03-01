@@ -67,9 +67,9 @@
             <li>
               <a href="/{{page.lang}}/" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE'}}</a>
               <div class="dropdown-menu" aria-labelledby="nav-gdb">
-                <a href="{{coalesce translations.en '/en/'}}" class="{{#is page.lang 'en'}}active {{/is}}dropdown-item">English</a>
-                <a href="{{coalesce translations.pt '/pt/'}}" class="{{#is page.lang 'pt'}}active {{/is}}dropdown-item">Português</a>
-                <a href="{{coalesce translations.zh '/zh/'}}" class="{{#is page.lang 'zh'}}active {{/is}}dropdown-item">中文 (Chinese)</a>
+                <a href="{{translink 'en' '/en/'}}" class="{{#is page.lang 'en'}}active {{/is}}dropdown-item">English</a>
+                <a href="{{translink 'pt' '/pt/'}}" class="{{#is page.lang 'pt'}}active {{/is}}dropdown-item">Português</a>
+                <a href="{{translink 'zh' '/zh/'}}" class="{{#is page.lang 'zh'}}active {{/is}}dropdown-item">中文 (Chinese)</a>
               </div>
             </li>
             <li><a href="/tweets/" class="top-nav-item" title="{{{lang 'TRANS_TWITTER_TOPICS'}}}"><img src="/images/transtwitter.png" width="24" height="24" alt=""></a></li>

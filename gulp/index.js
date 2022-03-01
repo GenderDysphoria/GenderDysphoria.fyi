@@ -49,6 +49,7 @@ exports.testpush = pushToProd.dryrun;
 
 function watcher () {
   watch([
+    'translation-links.json',
     'public/**/*.{md,hbs,html,js,json}',
     'posts/**/*.{md,hbs,html,js,json}',
     'templates/*.{md,hbs,html,js,json}',
