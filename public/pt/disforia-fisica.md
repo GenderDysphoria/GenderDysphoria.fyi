@@ -22,7 +22,7 @@ tweets:
 
 # Disforia de Física de Gênero
 
-Everyone has heard of the "born in the wrong body" narrative. Physical Dysphoria is discomfort over the shape of one's body due to the sexual characteristics it presents. So what body features are we talking about here?
+Todos já ouviram a narrativa da pessoa "nascida no corpo errado". A Disforia Física é um desconforto sobre o formato do corpo devido às características sexuais que ele apresenta. Então de quais características corpóreas estamos falando aqui?
 
 {!{
 <style>
@@ -45,110 +45,113 @@ Everyone has heard of the "born in the wrong body" narrative. Physical Dysphoria
 
 </style>
 <div class="fact-grid ">
-  <h4>Primary Sex Characteristics</h4>
+  <h4>Características Sexuais Primárias</h4>
   <div>
 }!}
 
-The core reproductive features which develop during pregnancy
+O núcleo de características reprodutivas que desenvolvem durante a gravidez:
 
-- Gonads
-  - Testicles
-  - Ovaries
-- External Genitalia
-  - Penis
-  - Clitoris
-  - Scrotum
-  - Labia
+- Gonadas
+  - Testículos
+  - Ovários
+- Genitália Externa
+  - Pênis
+  - Clitóris
+  - Escroto
+  - Lábia
   - Vulva
-- Internal Reproductive Organs
-  - Prostate / Skene's Gland
-  - Uterus
+- Órgãos Reprodutivos Internos
+  - Próstata / Glândula de Skene
+  - Útero
 
 
-{!{ </div>  <h4>Secondary Sexual Characteristics</h4>
+{!{ </div>  <h4>Características Sexuais Secundárias</h4>
 <div class="two-col"> }!}
 
-All sexually dimorphic features which develop during and after puberty as a result of hormone exposure. In general, these features are all nearly identical for both male and female prepubescent children.
+Todas as características sexuais dimórficas que desenvolvem durante e após a puberdade como resultado de exposição à hormônios. Em geral, essas características são quase idênticas entre meninos e meninas pré-púberes.
 
-- Fat Distribution
-  - Waist, Hips, Butt Shape
-  - Thighs, Arms, Back
-  - Cheeks and Jaw Line
-- Muscle Mass
-  - Neck, Shoulders and Upper Body
-  - Arms and Legs
+- Distribuição de Gordura
+  - Cintura, Quadris, Formato das Nádegas
+  - Coxas, Braços, Costas
+  - Bochecha, Linha da Mandíbula
+- Massa Muscular
+  - Pescoço, Ombros e Tronco
+  - Braços e Pernas
   - Abdominal
-- Skeletal Build
-  - Range of Height
-  - Size of Feet and Hands
-  - Width of Shoulders
-  - Rib Cage Breadth
-  - Thickness and Density of Limbs
-  - Forehead, Brow, Cheek and Jaw bones
-  - Pelvic Width
-- Skin Texture and Tone
-- Voice Pitch and Resonance
-- Breast Development
-- Facial Hair
-- Body Hair (excluding genitals and arm pits)
+- Construção Esquelética
+  - Variedade de Altura
+  - Tamanho das Mãos e Pés
+  - Largura dos Ombros
+  - Largura da Caixa Torácica
+  - Espessura e Densidade dos Membros
+  - Testa, Sobrancelhas, Bochecha e Ossos da Mandíbula
+  - Largura Pélvica
+- Tom e Textura da Pele
+- Tom e Ressonância da Voz
+- Desenvolvimento de Seios
+- Pelos Faciais
+- Pelos corporais (excluindo genitais e axilas)
 
 
 {!{ </div></div> }!}
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Para sua Informação</h4> }!}
 
-The genitals of a transgender person on hormone therapy do not behave remotely like their cisgender counterparts.
+Os genitais de uma pessoa trans em terapia hormonal não se comportam nem remotamente como os equivalentes de pessoas cis. 
 
-- The Estrogenic Penis softens, erections become less pronounced, the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
+- O Pênis Estrogênico amacia, ereções se tornam menos pronunciadas, a pele afina e começa a transpirar como a parede vaginal. O escroto amacia e muda de cor, com a rafe perianal se tornando mais distinta. Devido a cessação de ereções aleatórias, o tecido eréctil atrofiará se não for regularmente usado, causando o pênis inteiro a diminuir com o tempo. Vibração se torna mais efetiva para excitação.
 
-- The Androgenic Vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris.
+- A Vagina Androgênica seca e torna-se mais propensa a rasgamento (lubrificação pode ser um problema). A pele do clitóris engrossa, e as glandes clitorianas crescem em comprimento e largura devido ao início de ereções aleatórias. A lábia também engrossa e geralmente mais peluda. O início de terapia hormonal também resulta em extrema sensitividade do clitóris.
 
 {!{ </div></div></div> }!}
 
-Primary characteristics can only be altered through surgical intervention. Some secondary sexual characteristics are also one-way trips and require medical intervention to undo, namely the growth of breast tissue and the deepening of the vocal chords. Estrogen does not make the voice more feminine, Testosterone does not make breasts shrink (aside from the loss of fat). Changes to skeletal structure (such as enlarging from testosterone and the widening of hips from estrogen) can only occur prior to the age of 25, while the body is still growing.
+As características sexuais primárias só podem ser alteradas por intervenção cirúrgica. Algumas características sexuais primárias também são viagens de mão-única e requerem intervenção médica para desfazê-las, principalmente o crescimento de tecido mamário e engrossamento das cordas vocais. Estrogênio não faz a voz mais feminina e Testosterona não faz os peitos diminuírem (exceto pela perda gordura). Mudanças na estrutura esquelética (como a ampliação geral pela testosterona e alargamento das ancas pelo estrogênio) só podem ocorrer até a idade de 25, enquanto o corpo ainda está crescendo.
 
-Some secondary traits can be surgically enhanced (Breast Augmentation, body contouring, facial masculinization / feminization), and some cannot be changed at all.
+Algumas características secundárias podem ser cirurgicamente melhoradas (Aumento dos Peitos, contorno corporal, masculinização/feminização facial), e algumas não podem ser mudadas de jeito nenhum.
 
-Physical dysphoria manifests in several different ways. Sometimes this is felt in a sort of phantom limb phenomenon, where the person can feel sensations from a penis or vagina that is not there, an ache in a uterus that does not exist, or a sense of absence on the chest from breasts that have not grown in.
+A Disforia Física se manifesta de várias formas distintas. Às vezes ela é sentida em uma espécie de efeito de membro fantasma, no qual uma pessoa pode sentir sensações de um pênis ou vagina que não está lá, uma dor num útero que não existe, ou uma sensação de falta de seios por peitos que não cresceram.
 
-It can be felt as a sort of *reverse* phantom effect, where the person is persistently aware of something that should *not* be there. The brain is receiving sensory input that it does not expect, such as the weight of breasts, or the presence of testicles or a uterus, and this input takes priority because it isn't expected.
+Ela também pode ser sentida como uma espécie de efeito fantasma *reverso*, no qual uma pessoa está persistentemente ciente de algo que *não* deveria estar ali. O cérebro está recebendo sinais de sensações que ele não espera como o peso dos peitos, ou a presença de testículo ou útero, e essa entrada toma prioridade porque ela não é esperada.
 
 It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
+
+Ela pode ser sentida como um horror ou repulsa quando se olha ou toca os genitais externos, ativando explosões emocionais ou forte desejo de remover o órgão ofensor. Pessoas transgêneras AFAB (sigla inglesa para <em lang="en">Assigned Female At Birth</em> que significa <em>Designada Mulher Ao Nascer</em>) podem experimentar sensações de algo estar errado durante a menstruação, ou uma sensação de desconexão ou alienamento de seus ciclos menstruais.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.
+Ela pode se manifestar como uma compulsão de remover certas características corpóreas, tais como obsessivamente raspar pelos faciais. Ela também pode se manifestar como uma compulsão oposta, levando ao meticuloso cuidado dessas características para tentar controlá-las, ex: manter uma barba perfeita, persistentemente fazer manicure e pintura das unhas, ou fastar horas na academia tentando afiar a sua forma.
 
-Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
+Características físicas indesejadas podem levar a pessoa experimentar inveja das pessoas que foram forçadas a remover tais características por doenças, tais como câncer de mama ou testicular. Pessoas AMAB (sigla inglesa para <em lang="en">Assigned Male At Birth</em> que significa <em>Designado Homem Ao Nascer</em>) com severa disforia genital tendem a desejar que alguma espécie de acidente bizarro que causasse a perda de seus pênis.
 
-Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all, I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
+Às vezes, pode ser simplesmente uma sensação de estar incorreto, que você pode nem ter atribuído a gênero ou sexo. Pela maior parte da minha vida eu acreditava que a razão pela qual eu odiava o meu corpo era porque eu era gorda. Não foi até eu começar a transicionar que eu percebi que não detesto nem um pouco a minha gordura. Eu odiava ter gordura *masculina*. As curvas femininas que a terapia hormonal me trouxeram me fizeram sentir muito melhor com o meu próprio corpo.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they're actually okay with how they look.
+A disforia sentida sobre o corpo pode e irá mudar com o tempo, para melhor e para pior. Por exemplo, muitas mulheres trans entram na transição não sentindo nenhuma desconexão com seus genitais, mas depois descobrem que conforme as maiores fontes de disforia se derretem, elas se tornam cada vez menos confortáveis com seus genitais. Alternativamente, alguns podem assumir que elas absolutamente precisarão de cirurgia de feminização facial, mas dois anos após o início da transição elas percebem que na verdade elas estão okay com as suas aparências faciais.
 
-It's okay for you to realize you need more or less than when you started.
+É okay você perceber que você precisa de mais ou menos que quando você começara.
 
-It's okay if you don't hate anything about your body, and just wish you looked more feminine or masculine.
+É okay se você não odiar nada sobre o seu corpo e apenas querer que você se parecesse mais feminina ou masculino.
 
-It's okay if you only hate some aspects of your body, and don't wish to change all of its sexual characteristics.
+É okay se você só odiar alguns aspectos do seu corpo, e não desejar mudar todas as suas características sexuais.
 
-It's okay if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
+É okay se você não precisar de *nenhuma* transição médica. Sensações sobre o corpo não são a essência da transição.
 
-**Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.**
 
-### Internalized Body Image Issues
+**Disforia física corpórea total não é um requisito para ser transgênero. AFABs não precisam odiar seus seios, AMABs não precisam odiar seus pênis. Cada pessoa trans tem uma experiência diferente. Todas são válidas.**
 
-The world is full of subconscious messages about how men and women's bodies should be shaped. We are bombarded with advertising and media creating a normalized view of what is and is not beautiful. Don't be too fat, don't be too skinny, don't be too tall, don't be too short, don't have too broad of a chin, don't have too large of a nose, wear makeup but don't wear too much makeup, don't leave the house without a bra, but don't let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
+### Problemas de Imagem Corpórea Internalizada
 
-Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Trans girls grow up mapping feminine standards onto themselves, trans boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is *on top* of the shame they are loaded with for not living up to their assigned gender's standards.
+O mundo é cheio de mensagens subconscientes sobre como as formas dos corpos de homens e mulheres devem ser. Nós somos bombardeados por propaganda e mídia criando uma visão normalizada do que é e não é bonito. Não seja muito gordo, não seja muito magro, não seja muito alto, não seja muito baixo, não tenha um queixo muito largo, não tem um nariz muito grande, use maquiagem não use muita maquiagem, não saia de casa sem um sutiã, mas não o deixe ser visto. É incessante a constante enxurrada de expectativas sobre aparência gendrada.
 
-What is the end result of this? Kathryn said it best:
+Todas absorvemos essas mensagens, e pessoas trans internalizam os fatores que importam ao gênero com o qual elas se alinham. Meninas trans crescem aplicando padrões femininos em si mesmas, meninos trans aplicam padrões masculinos em si mesmos e enbies (pessoas não-binárias) frequentemente internalizam vergonha acerca de androgenia. Isso é *em cima* da vergonha que eles recebem por não viverem de acordo com os padrões de seu gênero atribuído ao nascimento.
+
+Qual é o resultado final disso? Kathryn disse isso melhor:
 
 {!{ {{import '~/tweet' ids=[
   '947522372315369472'
