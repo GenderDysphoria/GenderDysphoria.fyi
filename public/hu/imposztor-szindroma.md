@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Imposztor szindróma, transz módra"
 linkTitle: "Imposztor Szindróma"
 description: "Tényleg transz vagyok?"
@@ -41,7 +41,7 @@ Mindennek tetejébe, az olyan üzenetek átitatták a köztudatot, amelyek szeri
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Ráadásul a transzfób média folyamatos állításai beleivónak az emberekbe, miszerint a transz emberek valójában nem a valódi nemük szerinti emberek, és csak megpróbálják becsapni a többieket. Ez hatalmas önbizalomhiányt szül a transznemûek saját nemük hitelességével kapcsolatban, különösen a sok nemi sztereotípiával szemben. Ha azt látjuk, hogy nem felelünk meg ezeknek a sztereotípiáknak, akkor nagyon könnyen meggyõzhetjük magunkat, hogy nem vagyunk méltóak a saját nemünkhöz (megjegyzés: a cisz férfiak és nők is így járnak, meglepõen gyakran).
+Ráadásul a transzfób média folyamatos állításai beleivónak az emberekbe, miszerint a transz emberek valójában nem a valódi nemük szerinti emberek, és csak megpróbálják becsapni a többieket. Ez hatalmas önbizalomhiányt szül a transznemûek saját nemük hitelességével kapcsolatban, különösen a sok nemi sztereotípiával szemben. Ha azt látjuk, hogy nem felelünk meg ezeknek a sztereotípiáknak, akkor nagyon könnyen meggyőzhetjük magunkat, hogy nem vagyunk méltóak a saját nemünkhöz (megjegyzés: a cisz férfiak és nők is így járnak, meglepően gyakran).
 
 Ráadásul a transzfób bántalmazás miatt sok transz ember sérült önértékelésben szenved, és gyakran már eleve nehezen birkózik meg az önbizalomhiánnyal. A nemi diszfória depressziót is okoz, ami tovább növeli és erősíti ezeket a kétségeket. Mindez az önérvénytelenítés masszív halmazát eredményezi, ami ahhoz vezethet, hogy valaki újra és újra megküzdjön saját nemi identitásának elfogadásáért.
 
@@ -86,7 +86,7 @@ Ha úgy érzed, hogy nem vagy bináris nő, akkor nem vagy bináris nő. A cisz 
 
 ### Toxikus maszkulinitás
 
-Azok a gyerekek, akik fiúként nõttek fel, folyamatosan találkoztak azzal az üzenettel, milyen is "férfinak lenni". Nagyon kevés példa van a pozitív maszkulinitásra a médiában, és az AMAB férfias nem-binárisokat a transz reprezentációban is olyan gyakran elfelejtik, így könnyen magányosnak érezheti magát egy genderqueer férfi. Az AMAB nem-binárisokat gyakran vagy a meleg cisz férfiakkal együtt csoportosítják, vagy úgy kezelik őket, mint a transz nőket.
+Azok a gyerekek, akik fiúként nőttek fel, folyamatosan találkoztak azzal az üzenettel, milyen is "férfinak lenni". Nagyon kevés példa van a pozitív maszkulinitásra a médiában, és az AMAB férfias nem-binárisokat a transz reprezentációban is olyan gyakran elfelejtik, így könnyen magányosnak érezheti magát egy genderqueer férfi. Az AMAB nem-binárisokat gyakran vagy a meleg cisz férfiakkal együtt csoportosítják, vagy úgy kezelik őket, mint a transz nőket.
 
 Lehetsz egyszerűen genderqueer! Az identitásod érvényes!
 
@@ -100,7 +100,7 @@ Ha egy transz személy először találkozik a transzszexualitással, ez súlyos
 
 **Ne hidd el ezeket a hazugságokat.** Ezek zsarnoki taktikák, amelyeket kifejezetten arra szánnak, hogy az emberek fájdalmát elutasítsák.
 
-Vannak ezzel kapcsolatos bántó koncepciók, amelyeket egy transz személy internalizálhat, és amelyek a tranzíciót egy kötelezően elvégzendő tevékenységek listájának tekintik. Az egyik ilyen elképzelés az a meggyőződés, hogy egy személynek nem szabad elvárnia, hogy helyesen nemi megkülönböztetésben részesüljön, vagy akár panaszkodnia sem szabad a nemi megkülönböztetésre, amíg nem változtatta meg a nemét hivatalosan. Más szóval, a jogilag kondicionált névmás tiszteletét, vagy transzlegalizmust várják el. Nemcsak, hogy a nem megváltoztatása a hivatalos iratokban egy országoktól függõen bonyolult, hosszadalmas folyamat lehet, de sokan akár nem is tudják, vagy nem is szeretnék ezt az adatukat megváltoztatni. A transzlegalizmus arról győzné meg az embert, hogy a helytelen hivatalos személyi iratok miatt megérdemli a helytelen névmásokat.
+Vannak ezzel kapcsolatos bántó koncepciók, amelyeket egy transz személy internalizálhat, és amelyek a tranzíciót egy kötelezően elvégzendő tevékenységek listájának tekintik. Az egyik ilyen elképzelés az a meggyőződés, hogy egy személynek nem szabad elvárnia, hogy helyesen nemi megkülönböztetésben részesüljön, vagy akár panaszkodnia sem szabad a nemi megkülönböztetésre, amíg nem változtatta meg a nemét hivatalosan. Más szóval, a jogilag kondicionált névmás tiszteletét, vagy transzlegalizmust várják el. Nemcsak, hogy a nem megváltoztatása a hivatalos iratokban egy országoktól függően bonyolult, hosszadalmas folyamat lehet, de sokan akár nem is tudják, vagy nem is szeretnék ezt az adatukat megváltoztatni. A transzlegalizmus arról győzné meg az embert, hogy a helytelen hivatalos személyi iratok miatt megérdemli a helytelen névmásokat.
 
 ### Transz-kirekesztő radikális feminizmus / Genderkritikus mozgalom / Nemi esszencializmus
 

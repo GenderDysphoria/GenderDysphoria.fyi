@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Testi diszfória"
 linkTitle: "Testi Diszfória"
 description: "A testi diszkomfort csak egy a nemi diszfória számos megnyilvánulási formája közül."
@@ -45,7 +45,7 @@ Mindenki hallott már a "rossz testben született" narratíváról. A fizikai di
 
 </style>
 <div class="fact-grid ">
-  <h4>Elsõdleges Nemi Jellegek</h4>
+  <h4>Elsődleges Nemi Jellegek</h4>
   <div>
 }!}
 
@@ -99,7 +99,7 @@ Minden olyan szexuálisan másodlagos jellegzetesség, amely a pubertás alatt �
 
 A hormonterápián lévő transznemű személyek nemi szervei távolról sem úgy viselkednek, mint ciszgender társaikéik.
 
-- Az ösztrogénes pénisz felpuhul, az erekció kevésbé hangsúlyos, a bőr elvékonyodik és izzadni kezd, mint a hüvelyfal. A herezacskó megpuhul és megváltozik a színe, a gátraszerűség pedig jobban kivehetővé válik. A véletlenszerű erekciók megszűnése miatt a merevedésért felelõs szövet elsorvad, ha nem használják rendszeresen, ami idővel az egész pénisz zsugorodását okozza. A vibráció hatékonyabbá válik az izgalomban.
+- Az ösztrogénes pénisz felpuhul, az erekció kevésbé hangsúlyos, a bőr elvékonyodik és izzadni kezd, mint a hüvelyfal. A herezacskó megpuhul és megváltozik a színe, a gátraszerűség pedig jobban kivehetővé válik. A véletlenszerű erekciók megszűnése miatt a merevedésért felelős szövet elsorvad, ha nem használják rendszeresen, ami idővel az egész pénisz zsugorodását okozza. A vibráció hatékonyabbá válik az izgalomban.
 
 - Az androgén vagina szárazabbá és szakadásra hajlamossá válik (a síkosítás problémát jelenthet). A csikló bőre megvastagszik, és a csikló makkja a véletlenszerű erekció kialakulása miatt hosszában és kerületében megnő. A szeméremajkak is megvastagodnak, és gyakran szőrösebbek lesznek. A HRT kezdete gyakran a csikló rendkívüli érzékenységét eredményezi.
 

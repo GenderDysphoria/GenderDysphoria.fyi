@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Társadalmi Diszfória"
 linkTitle: "Társadalmi Diszfória"
 description: "Mert a szerep az szerep, és a büntetés az büntetés, és a rossz szerepben élni súlyos árat jelent."
@@ -31,9 +31,9 @@ A nemi szerepek léteznek, és bármennyire is próbálunk ellenszegülni nekik,
 
 Egy AFAB szülő, aki szül, súlyos diszfóriát élhet át azzal kapcsolatban, hogy anyaként bélyegzik meg. A szüléshez szükséges források túlnyomó többsége *rendkívül* a nőiességhez társított dolog, így már maga a fogantatás, a kihordás és a szülés folyamata is kivételesen nemi elvárásokkal terhelt. Ha terhes vagy, akkor egy rakás feltételezés jár amellett, hogy anyának bélyegeznek, függetlenül attól, hogy valójában hogyan érzel a nemi szerepeddel kapcsolatban. Feltételezések a gondozásról, a szoptatásról és a gyermeknevelésről.
 
-A [cisgender-passz](https://en.wikipedia.org/wiki/Passing_(gender)) transzfeminin egyének is belefutnak ebbe. Ha egy csecsemőt tartasz a kezedben vagy egy gyereket gondozol, akkor anyának bélyegeznek (kivéve, ha a gyerektõl eltérõ a rasszod, akkor dadává degradálnak, de ez egy teljesen más téma). Ez lehet validáló, mert ez annak a jele, hogy nőként láttak, de rendkívül *érvénytelenítő* is lehet, amikor cisz nők elkezdenek beszélni arról, amit a reproduktív folyamatokkal kapcsolatos közös tapasztalatoknak gondolnak.
+A [cisgender-passz](https://en.wikipedia.org/wiki/Passing_(gender)) transzfeminin egyének is belefutnak ebbe. Ha egy csecsemőt tartasz a kezedben vagy egy gyereket gondozol, akkor anyának bélyegeznek (kivéve, ha a gyerektől eltérő a rasszod, akkor dadává degradálnak, de ez egy teljesen más téma). Ez lehet validáló, mert ez annak a jele, hogy nőként láttak, de rendkívül *érvénytelenítő* is lehet, amikor cisz nők elkezdenek beszélni arról, amit a reproduktív folyamatokkal kapcsolatos közös tapasztalatoknak gondolnak.
 
-Néhány váratlan módja annak, hogy a társadalmi diszfória megjelenhet abban, hogy meg kell felelned a valódi nemedre vonatkozó társadalmi normáknak. Például sok transz nő mesél arról, hogy az átmenet előtt a szerénység érzése miatt szükségét érezte annak, hogy eltakarja a mellkasát. A bikinifelsõ nélküli úszás okozta kellemetlen érzés gyakori lehet, mégha a külsõ szemlélõdõ nem is érti az egész hátterét.
+Néhány váratlan módja annak, hogy a társadalmi diszfória megjelenhet abban, hogy meg kell felelned a valódi nemedre vonatkozó társadalmi normáknak. Például sok transz nő mesél arról, hogy az átmenet előtt a szerénység érzése miatt szükségét érezte annak, hogy eltakarja a mellkasát. A bikinifelső nélküli úszás okozta kellemetlen érzés gyakori lehet, mégha a külső szemlélődő nem is érti az egész hátterét.
 
 ### Szégyen
 
@@ -45,7 +45,7 @@ Az ilyen helyzetek zaklatáshoz és bántalmazáshoz vezethetnek, ami arra kész
     '1201138482569195526'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-A szégyen különösen felerõsödik abban a pillanatban, amikor elmondják, hogy transzneműek. A transzfób barátok és családtagok negatív, sőt néha erőszakos reakciói a transz emberrel szemben, aki épp előbújik, ezt a szégyent szélsőséges bűntudattá és szégyenné változtatják. A házasságban élő felnőtt transz személy óriási lelkiismeret-furdalást érezhet amiatt, hogy felforgatta házastársa életét azzal, hogy felfedte magát. Számíthat a szomszédok és a kortársak szemrehányásaira, és félhet attól, hogy ez milyen hatással lesz a párkapcsolatára és/vagy a gyermekeire.
+A szégyen különösen felerősödik abban a pillanatban, amikor elmondják, hogy transzneműek. A transzfób barátok és családtagok negatív, sőt néha erőszakos reakciói a transz emberrel szemben, aki épp előbújik, ezt a szégyent szélsőséges bűntudattá és szégyenné változtatják. A házasságban élő felnőtt transz személy óriási lelkiismeret-furdalást érezhet amiatt, hogy felforgatta házastársa életét azzal, hogy felfedte magát. Számíthat a szomszédok és a kortársak szemrehányásaira, és félhet attól, hogy ez milyen hatással lesz a párkapcsolatára és/vagy a gyermekeire.
 
 Ez is a nemi diszfória egyik formája, mivel ezeket a hatásokat nem éreznék, ha az illető cisgender lenne.
 
@@ -68,7 +68,7 @@ A szégyen is hajlamos addig gyűlni, amíg radikális cselekvésbe nem torkolli
 
 A társadalmi diszfória *erősen* szerepet játszik a randik alatt. Rendkívül kellemetlen és igazságtalannak tud lenni, ha arra kényszerülsz, hogy barát vagy barátnő legyél, amikor nem vagy fiú vagy lány. Az AMAB-ok azon kaphatják magukat, hogy azt kívánják, bárcsak *ő* lenne az, akit kényeztetnek, az AFAB-ok pedig kellemetlenül érezhetik magukat a leendő partnereiktől kapott figyelem mennyiségétől (a nők által tapasztalt kellemetlenségen túl, mivel ez magában foglalja a valódi figyelmet is, nem csak a nem kívánt figyelmet). A partnereik által rájuk rótt elvárások, hogy betöltsék ezeket az udvarlói szerepeket, súlyos tehernek érezhetik, amit el kell viselniük. Ezzel szemben a valódi nemként való randizás euforikussá válik. Vegyél egy transz lánynak virágot, és nézd meg, mennyire elájul.
 
-A még elõ nem bújt transz személy olyan nagy nyomást érezhet a heteronormativitáshoz, hogy elnyomja saját ösztöneit a kapcsolatok tekintetében, és performatív szerepet vállal. Sok transz nő próbálta már eljátszani a heteroszexuális férj szerepét egy feleséggel szemben, hogy aztán a tranzíció során rájöjjön, hogy sokkal jobban szeretné a feleség szerepét. Előfordulhat, hogy nem is vonzódnak a nőkhöz.
+A még elő nem bújt transz személy olyan nagy nyomást érezhet a heteronormativitáshoz, hogy elnyomja saját ösztöneit a kapcsolatok tekintetében, és performatív szerepet vállal. Sok transz nő próbálta már eljátszani a heteroszexuális férj szerepét egy feleséggel szemben, hogy aztán a tranzíció során rájöjjön, hogy sokkal jobban szeretné a feleség szerepét. Előfordulhat, hogy nem is vonzódnak a nőkhöz.
 
 A kényelmetlenségen túl sok transz ember rájön, hogy az általuk megtapasztalt párkapcsolatok dinamikája egyszerűen nem illeszkedett ahhoz az alakhoz, ahogyan ők megjelentek. Sok transz ember a tranzíció után döbben rá, hogy valójában soha nem úgy randevúztak, mint egy cisz ember a neki rendelt nemhez, ehelyett mindig olyan romantikus kapcsolatai voltak, amelyek megfeleltek a valódi orientációjuknak. A férfiak és nők közötti kapcsolatok teljesen más mintázatúak, mint a heteroszexuális kapcsolatok; más udvarlási rituálék, más felfogás, más kommunikációs stílus. A férfiak másképp viszonyulnak a férfiakhoz, mint a nőkhöz, és a nők másképp a nőkhöz, mint a férfiakhoz, még akkor is, ha nem tudják, hogy férfiak vagy nők.
 

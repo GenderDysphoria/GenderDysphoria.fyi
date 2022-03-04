@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Ösztrogén-indukált Második Pubertás Alapjai"
 linkTitle: Ösztrogén-indukált pubertás
 description: "Mire számítsunk a feminizáló hormonterápiától?"
@@ -24,13 +24,13 @@ Ez egy összeállítás az ösztrogén alapú hormonterápiát szedő AMAB trans
 
 ### Mellnövekedés
 
-A közvélekedés ellenére a transzfemek többsége nem végez mellnagyobbítást, mivel az gyakran nem szükséges (és sokak számára nem is elérhető). Minden ember mellszövettel születik, az egyszerűen csak inaktív marad ösztrogén nélkül, így nem nõ meg. A fejlődés jellemzően 2-5 évig tart, de akár több mint tíz évig is folytatódhat, ugyanúgy, mint a ciszgender nők esetében.
+A közvélekedés ellenére a transzfemek többsége nem végez mellnagyobbítást, mivel az gyakran nem szükséges (és sokak számára nem is elérhető). Minden ember mellszövettel születik, az egyszerűen csak inaktív marad ösztrogén nélkül, így nem nő meg. A fejlődés jellemzően 2-5 évig tart, de akár több mint tíz évig is folytatódhat, ugyanúgy, mint a ciszgender nők esetében.
 
 Számíts mellkasi fájdalmakra, valamint érzékenységre az areola körüli és mögötti területen. Kerüld, hogy bárminek nekiüsd a melled, mert *fájni fog*. A mellbimbók sokkal érzékenyebbek lesznek, miközben nagyobbá és sötétebbé válnak. Érdemes lesz beruházni néhány sportmelltartóba.
 
 Ez együtt járhat tejeléssel. Némi váladékozás normális és várható, ahogy a tejcsatornák kialakulnak és megnyílnak, így nincs ok az aggodalomra. A szándékos stimuláció nélküli jelentős mértékű váladékozás azonban a prolaktin egyensúlyhiány jele lehet, ezért ha ez előfordul, szólj az orvosodnak.
 
-### Puhább bõr
+### Puhább bőr
 
 A tesztoszteron elősegíti a hám megvastagodását és megkeményedését, így annak hiánya vékonyabbá teszi a bőrt. Ezenkívül az ösztrogén elősegíti a kollagéntermelést, ami miatt a bőr lágyabbá, irizálóbbá válik. Számíts rá, hogy a lábad visszeres lehet. Az idővel esetleg elhalványult tetoválások merészebbek és világosabbak lehetnek.
 
@@ -156,14 +156,14 @@ Rendkívül gyakori, hogy a transz emberek mindenféle típusban sokkal szociáb
 
 ### Fejlettebb érzékelés
 
-[Több kutatás megerõsíti](https://academic.oup.com/cercor/article/28/5/1582/3064956), hogy a hormonterápia változásokat hoz az agy szürke- és fehérállományának eloszlásában. A hormonprofilok változása következtében új idegpályák alakulnak ki, és ez az érzékelés megváltozását eredményezi. Ezek azonban bár jól megfigyelt és dokumentált események, de nem világos, hogy ez maguktól a hormonoktól lesz-e így, vagy attól, hogy az agy megkapja-e a neki szánt hormonokat.
+[Több kutatás megerősíti](https://academic.oup.com/cercor/article/28/5/1582/3064956), hogy a hormonterápia változásokat hoz az agy szürke- és fehérállományának eloszlásában. A hormonprofilok változása következtében új idegpályák alakulnak ki, és ez az érzékelés megváltozását eredményezi. Ezek azonban bár jól megfigyelt és dokumentált események, de nem világos, hogy ez maguktól a hormonoktól lesz-e így, vagy attól, hogy az agy megkapja-e a neki szánt hormonokat.
 
 - **Fejlettebb szaglás**, különösen más testek szaglása. Az emberi izzadság nagyon érezhetővé válik, sőt időnként túltengő.
 - **Fejlettebb színérzékelés**. A színek élénkebbé, gazdagabbá válhatnak.
 - **Fejlettebb térérzékelés**. Sok transz embernél tapasztalható a rossz térérzékelés és az ügyetlenségre való hajlam, ami a HRT megkezdése után megszűnik.
 - **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletesebbé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltûnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
 
-A spironolaktont használóknál gyakran alakul ki erős sóvárgás a magas sótartalmú ételek, például savanyúságok, olajbogyó vagy krumpli iránt. Ez azért van, mert a Spiro egy káliumkímélő vízhajtó, amitõl az összes nátriumot kipisiled. Az agy sóvárgással ösztönöz, hogy pótoljd a kiesett nátriumot.
+A spironolaktont használóknál gyakran alakul ki erős sóvárgás a magas sótartalmú ételek, például savanyúságok, olajbogyó vagy krumpli iránt. Ez azért van, mert a Spiro egy káliumkímélő vízhajtó, amitől az összes nátriumot kipisiled. Az agy sóvárgással ösztönöz, hogy pótoljd a kiesett nátriumot.
 
 ### Magad kisebbnek érzékelése, csökkent önbizalom
 
@@ -242,7 +242,7 @@ Az orgazmus jelentősen megváltozik, mind a felépülése, mind az átélése t
 
 Egyáltalán nem [hallatlan](https://www.them.us/story/sexual-attraction-after-transition), hogy egy transznemű személy a hormonterápiával együtt a szexuális irányultságában is változást tapasztal. Ez szinte mindig a saját maga által felállított mentális akadályok megszűnésének eredménye, de a hormonterápia *gyakran* szerepet játszik ebben. A legtöbb esetben ez egyszerűen a vonzalom bővülésével jár, monoszexuálisról bi/panszexuálisra változik, de vannak olyanok is, akik felfedezik, hogy a vonzalmuk nagyrészt önérdeken alapult, és a valódi irányultságuk megfordul.
 
-### Ismétlõdõ, Periódusszerű tünetek
+### Ismétlődő, Periódusszerű tünetek
 
 Nyilvánvalóan nem a vérzékenységre gondolunk, az nevetséges lenne. A tünetek nagymértékben változnak (akárcsak a ciszgender nőknél), és jellemzően 2-4 napig tartanak, és 26-32 naponta ismétlődnek (bár egyesek arról számolnak be, hogy kéthetente tapasztalják). Ez a gyógyszeradagolási ütemezéstől függetlenül történik. Egy olyan menstruációkövető alkalmazás, mint a Clue használata feltárhatja a mintát.
 

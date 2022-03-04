@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Biokémiai Diszfória"
 linkTitle: "Biokémiai Diszfória"
 description: "A nemi diszfória nagyon is valós és biológiai tényezői, amelyek mentális zavart okozhatnak."
@@ -107,7 +107,7 @@ Fontos megjegyezni, hogy a deperszonalizáció-derealizáció nem kizárólag a 
 
 ### Apály-Dagály
 
-A fizikai és biokémiai diszfória intenzitását nagymértékben befolyásolják a szervezet egyéb részei. Jelentõsen függ a hormonháztartástól, illetve a pillanatnyi hormonszinttõl is. Ez azt jelenti, hogy napról napra emelkedhet és csökkenhet. Például:
+A fizikai és biokémiai diszfória intenzitását nagymértékben befolyásolják a szervezet egyéb részei. Jelentősen függ a hormonháztartástól, illetve a pillanatnyi hormonszinttől is. Ez azt jelenti, hogy napról napra emelkedhet és csökkenhet. Például:
 
 - Ha a vércukorszinted nincs rendben, vagy pajzsmirigybetegséged van, az a diszfóriád megugrását okozhatja.
 - Ha a stimulánsok abbahagyása miatt dopaminmegvonásod van, az ronthat rajta.

@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Androgén Második Pubertás Alapjai"
 linkTitle: Androgén Második Pubertás
 description: "Mire számítsunk a maszkulinizáló hormonterápiától?"
@@ -46,7 +46,7 @@ Ez *nem* jelenti azt, hogy a hangod automatikusan férfiként fog hallatszódni.
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Az androgének fokozzák a végtagok vérellátását, így azok melegebbek lesznek. Emiatt a férfiaknak hűvösebb a belsõ testhõmérsékletük, de melegebb a szájüregük. Előfordulhat, hogy megemelkedik a test alaphőmérséklete. A nettó eredmény az, hogy *melegebbnek* érzed magad, és valószínűleg nem lesz szükség olyan réteges öltözködésre, mint korábban. Ha hideg éghajlaton élsz, szabadon hagyott boka segíthet a hőleadásban anélkül, hogy túlságosan lehűlnél.
+Az androgének fokozzák a végtagok vérellátását, így azok melegebbek lesznek. Emiatt a férfiaknak hűvösebb a belső testhőmérsékletük, de melegebb a szájüregük. Előfordulhat, hogy megemelkedik a test alaphőmérséklete. A nettó eredmény az, hogy *melegebbnek* érzed magad, és valószínűleg nem lesz szükség olyan réteges öltözködésre, mint korábban. Ha hideg éghajlaton élsz, szabadon hagyott boka segíthet a hőleadásban anélkül, hogy túlságosan lehűlnél.
 
 Ez a változás gyakran elég korán bekövetkezik; számíts éjszakai izzadásra, amíg a szervezeted hozzászokik.
 
@@ -70,7 +70,7 @@ A szintetikus androgén [nandrolon](https://en.wikipedia.org/wiki/Nandrolone) ne
 
 ### Vastagabb és olajosabb bőr
 
-A tesztoszteron elősegíti az külsõ bõrréteg megvastagodását és keményedését, amitõl a bőr durvább lesz. Ahogy az ösztrogénszint csökken, a szervezet kevesebb kollagént termel. Ezáltal a bőr keményebbé és szárazabbá válik (különösen a térd és a könyök területén). A kezeken, karokon és lábakon a vénák láthatóbbak lesznek, de nem lesznek visszeresek.
+A tesztoszteron elősegíti az külső bőrréteg megvastagodását és keményedését, amitől a bőr durvább lesz. Ahogy az ösztrogénszint csökken, a szervezet kevesebb kollagént termel. Ezáltal a bőr keményebbé és szárazabbá válik (különösen a térd és a könyök területén). A kezeken, karokon és lábakon a vénák láthatóbbak lesznek, de nem lesznek visszeresek.
 
 Számíts arra, hogy az arcod és a fejbőröd zsírosabb lesz. A pattanások valószínűleg meg fognak jelenni, és nem csak az arcon. Ez általában közvetlenül az tesztoszteron adagolása után lesz a legrosszabb. Ez általában javul az első néhány év után.
 
@@ -88,11 +88,11 @@ Mind a körmök, mind a lábkörmök vastagabbá válnak idővel, mivel a kerati
 
 Az androgének serkentik az izomnövekedést, ezért van az, hogy az anabolikus szteroidok (amelyek szó szerint a tesztoszteron) annyira elterjedtek a testépítők körében. A test természetes módon több izmot nyer anélkül, hogy edzeni kellene, de az edzéssel *jelentős* izomnövekedés érhető el, különösen a karokon és a vállon. Vigyázat, eleinte nem fogod tudni, hogy milyen erős vagy.
 
-Az újonnan megjelenõ felsõtesti izomzat újradefiniálja a váll és a nyak vonalát, férfiasabb sziluettet hozva létre. Emellett javul a szervezet zsírfeldolgozó képessége, ami megkönnyíti a fogyást.
+Az újonnan megjelenő felsőtesti izomzat újradefiniálja a váll és a nyak vonalát, férfiasabb sziluettet hozva létre. Emellett javul a szervezet zsírfeldolgozó képessége, ami megkönnyíti a fogyást.
 
 ### A zsír újraelosztása
 
-Míg az ösztrogén arra ösztönzi a szervezetet, hogy a zsírokat a combokba, a fenékbe és a csípőbe rakja le, addig az androgének arra ösztönzik a szervezetet, hogy a zsírokat nagyrészt a hasban tárolja. A tesztoszteron beindítása arra ösztönzi a szervezetet, hogy kövesse az férfiasabb sziluettet, így számíthatsz arra, hogy hízáskor egybõl a hasba kerül a zsír, míg a fogyás egységesen mindenhonnan vesz el. A mellek, a combok és a fenék zsírja lassan eltolódik, ahogy az izomzat felépül, de ez sokáig eltarthat.
+Míg az ösztrogén arra ösztönzi a szervezetet, hogy a zsírokat a combokba, a fenékbe és a csípőbe rakja le, addig az androgének arra ösztönzik a szervezetet, hogy a zsírokat nagyrészt a hasban tárolja. A tesztoszteron beindítása arra ösztönzi a szervezetet, hogy kövesse az férfiasabb sziluettet, így számíthatsz arra, hogy hízáskor egyből a hasba kerül a zsír, míg a fogyás egységesen mindenhonnan vesz el. A mellek, a combok és a fenék zsírja lassan eltolódik, ahogy az izomzat felépül, de ez sokáig eltarthat.
 
 ### Arcvonások változása
 

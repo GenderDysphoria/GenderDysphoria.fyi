@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Eufória"
 linkTitle: "Nemi Eufória"
 description: "Ahhoz, hogy árnyék legyen, valahol fénynek kell lennie."
@@ -23,7 +23,7 @@ tweets:
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Eu·fó·ri·a</strong> - <em>Fõnév</em><br>
+  <strong>Eu·fó·ri·a</strong> - <em>Főnév</em><br>
   Az intenzív izgalom és boldogság érzése vagy állapota. Elragadtatás, öröm, vidámság.
 </blockquote></div>
 }!}

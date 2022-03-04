@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Nemi Diszfória Kezelése"
 description: "A tranzíció a gyógymód."
 preBody: '_disclaimer'
@@ -19,9 +19,9 @@ A kezelési lehetőségek jelentősen eltérnek az adott személy igényeitől f
 
 ### Társadalmi tranzíció
 
-Egy mondatban megfogalmazva: Elõbújni. Ez egyszerűen azt jelenti, hogy bejelented a világnak, hogy transznemű vagy. Bejelented, hogy új nevet és/vagy új névmást kívánsz használni - vagy nem, lehet, hogy csak azt szeretnéd, hogy az emberek tudják, hogy transz vagy, és valójában nem a hozzád rendelt bináris nemmel azonosulsz. Néhány nem bináris ember számára ez még csak nem is jelenti a teljes eltávolodást a hozzárendeléstől, mivel a nem egy spektrum, és létezik olyan, hogy "nem-bináris férfi" és "nem-bináris nő".
+Egy mondatban megfogalmazva: Előbújni. Ez egyszerűen azt jelenti, hogy bejelented a világnak, hogy transznemű vagy. Bejelented, hogy új nevet és/vagy új névmást kívánsz használni - vagy nem, lehet, hogy csak azt szeretnéd, hogy az emberek tudják, hogy transz vagy, és valójában nem a hozzád rendelt bináris nemmel azonosulsz. Néhány nem bináris ember számára ez még csak nem is jelenti a teljes eltávolodást a hozzárendeléstől, mivel a nem egy spektrum, és létezik olyan, hogy "nem-bináris férfi" és "nem-bináris nő".
 
-A társadalmi tranzíció az elõbújás fontos része, és ez sok stresszt enyhíthet utána.
+A társadalmi tranzíció az előbújás fontos része, és ez sok stresszt enyhíthet utána.
 
 ### Jogi tranzíció
 

@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Mi az oka a nemi inkongruenciának?"
 linkTitle: "A Nemi Diszfória okai"
 description: "Ez a hormonok miatt van, cukikám."
@@ -72,7 +72,7 @@ Tény, hogy a lakosság túlnyomó többségénél soha nem végeztek genetikai 
 </div>
 }!}
 
-#### Agyi fejlõdés
+#### Agyi fejlődés
 
 A születés előtti agy csak a 12. és a 24. hét között kezd igazán kifejlődni. Az agykéreg, az agy vékony külső rétege, amely tartalmazza a legtöbbet abból, amit mi tudatosságnak gondolunk, jelentősen növekszik ezekben az időszakokban. Ezt megelőzően a jelenlévő struktúra inkább csak állványzat, az idegrendszer alapvető, a testi működéshez szükséges részei. Az elsődleges sulci (az agykéreg ráncai, amelyek nagyobb felületet tesznek lehetővé) [a 14. héten kezdenek kialakulni](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), jóval a nemi szervek kifejlődése után.
 

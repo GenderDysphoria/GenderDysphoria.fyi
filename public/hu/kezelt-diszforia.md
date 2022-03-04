@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Kezelt diszfória: nemi hovatartozás álruhában"
 linkTitle: "Kezelt Diszfória"
 description: "Ahogyan megbirkóztunk vele."

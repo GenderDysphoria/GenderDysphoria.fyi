@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Történelmi áttekintés a Nemi Diszfóriáról"
 linkTitle: "Történelmi áttekintés a Nemi Diszfóriáról"
 description: "A nemi diszfória eredete és mai jelentése."
@@ -35,16 +35,16 @@ A probléma az volt, hogy az 5. és 6. szint megkövetelte, hogy kizárólag a s
 
 2011-ben a HBIGDA átszervezte magát, hogy reagáljon a transzneműek megértése és elfogadása terén egyre növekvő nyomásra, és új nevet vett fel: World Professional Association for Transgender Health (WPATH). A WPATH ezután tényleges transznemű emberek irányításával (ez volt az első alkalom a szervezet számára) egy teljesen új ellátási standardok (SoC, 7. verzió, az első tíz év után) kiadására került sor, amely elhagyta a Benjamin-skálát, és a konkrét egyéni tünetekre összpontosított, valamint teljesen elválasztotta a nemet a szexualitástól. Két évvel később, 2013-ban az Amerikai Pszichiátriai Társaság megváltoztatta diagnosztikai kritériumait, hogy azok megfeleljenek a WPATH SoC-nek a Mentális zavarok diagnosztikai és statisztikai kézikönyvének (DSM) 5. verziójában, és a nemi identitászavart a nemi diszfóriára cserélte. Ezzel a változással az orvosi kezelés minden transz ember számára elérhetővé vált az Egyesült Államokban.
 
-Ez a legfõbb oka annak, hogy a transzneműek jelenléte az elmúlt évtizedben világszerte hirtelen robbanásszerűen megnőtt. A könnyebb hozzáféréssel együtt jár a nagyobb szám, a nagyobb számmal együtt jár a nagyobb láthatóság, a nagyobb láthatósággal együtt jár a nagyobb tudatosság, és a nagyobb tudatossággal együtt jár a kezeléshez való hozzáférés. [Egy 2014-ben végzett tanulmány](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) szerint az Egyesült Államokban a felnőttek 0,6%-a és a fiatalok 0,7%-a azonosította magát transzneműként, [egy 2016-ban végzett tanulmány](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) szerint a középiskolás korú diákok 1,8%-a azonosította magát transzneműként, és [a GLAAD által 2017-ben végzett felmérés](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) szerint a 18-34 éves válaszadók 12%-a nem azonosította magát ciszgenderként.
+Ez a legfőbb oka annak, hogy a transzneműek jelenléte az elmúlt évtizedben világszerte hirtelen robbanásszerűen megnőtt. A könnyebb hozzáféréssel együtt jár a nagyobb szám, a nagyobb számmal együtt jár a nagyobb láthatóság, a nagyobb láthatósággal együtt jár a nagyobb tudatosság, és a nagyobb tudatossággal együtt jár a kezeléshez való hozzáférés. [Egy 2014-ben végzett tanulmány](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) szerint az Egyesült Államokban a felnőttek 0,6%-a és a fiatalok 0,7%-a azonosította magát transzneműként, [egy 2016-ban végzett tanulmány](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) szerint a középiskolás korú diákok 1,8%-a azonosította magát transzneműként, és [a GLAAD által 2017-ben végzett felmérés](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) szerint a 18-34 éves válaszadók 12%-a nem azonosította magát ciszgenderként.
 
-A transznemű emberek előbújnak a szekrénybõl; mindenhol ott vagyunk.
+A transznemű emberek előbújnak a szekrényből; mindenhol ott vagyunk.
 
 ## Tehát mi is az a Nemi Diszfória?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Disz·fó·ri·a</strong> - <em>Fõnév</em><br>
+    <strong>Disz·fó·ri·a</strong> - <em>Főnév</em><br>
     Az élettel való általános nyugtalanság vagy elégedetlenség állapota. Az eufória ellentéte.
   </blockquote>
 </div>

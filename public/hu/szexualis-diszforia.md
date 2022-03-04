@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Szexuális Diszfória"
 linkTitle: "Szexuális Diszfória"
 description: "Néha egy szivar nem akarja, hogy elszívják."
@@ -37,7 +37,7 @@ Ez a diszfória olyan jelentős lehet, hogy olyan szexuális identitást vesznek
 
 Néhány transz nő például az átmenet előtt azért azonosította magát meleg férfiként, mert olyan partnerre vágyott, aki a szex során nőként kezeli őket, de amint ez az igény megszűnik, kiderül, hogy valójában leszbikusok. Mások megpróbálnak meleg férfiként élni, de úgy találják, hogy ez a szerep nem teljesíti ki őket, mert tudják, hogy a partnerük férfiként tekint rájuk.
 
-# A kényszerítõen megigézõ férfi tekintet
+# A kényszerítően megigéző férfi tekintet
 
 æææ<div class="cw"><p><strong>A szerző megjegyzése</strong>: A szexuális diszfóriának ezt a sajátos típusát nehéz általánosságban elmagyarázni, ezért itt most el fogok térni, és saját személyes tapasztalatomból írok erről. Az alábbiakat bináris transz nőként az én szemszögemből mutatom be. Mint ilyen, ez nem biztos, hogy minden transz ember számára teljesen átvehető. Elnézést kérek.</p></div>æææ
 

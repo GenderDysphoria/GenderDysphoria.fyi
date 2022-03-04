@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "A nemi fejlődés zavarai: A nemek nem kromoszómálisak"
 linkTitle: "Kromoszómák"
 description: "A DNS inkább iránymutatás, mint tényleges szabályzat."
