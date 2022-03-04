@@ -41,7 +41,7 @@ Mindennek tetejébe, az olyan üzenetek átitatták a köztudatot, amelyek szeri
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Ráadásul a transzfób média folyamatos állításai beleivónak az emberekbe, miszerint a transz emberek valójában nem a valódi nemük szerinti emberek, és csak megpróbálják becsapni a többieket. Ez hatalmas önbizalomhiányt szül a transznemûek saját nemük hitelességével kapcsolatban, különösen a sok nemi sztereotípiával szemben. Ha azt látjuk, hogy nem felelünk meg ezeknek a sztereotípiáknak, akkor nagyon könnyen meggyőzhetjük magunkat, hogy nem vagyunk méltóak a saját nemünkhöz (megjegyzés: a cisz férfiak és nők is így járnak, meglepően gyakran).
+Ráadásul a transzfób média folyamatos állításai beleivónak az emberekbe, miszerint a transz emberek valójában nem a valódi nemük szerinti emberek, és csak megpróbálják becsapni a többieket. Ez hatalmas önbizalomhiányt szül a transzneműek saját nemük hitelességével kapcsolatban, különösen a sok nemi sztereotípiával szemben. Ha azt látjuk, hogy nem felelünk meg ezeknek a sztereotípiáknak, akkor nagyon könnyen meggyőzhetjük magunkat, hogy nem vagyunk méltóak a saját nemünkhöz (megjegyzés: a cisz férfiak és nők is így járnak, meglepően gyakran).
 
 Ráadásul a transzfób bántalmazás miatt sok transz ember sérült önértékelésben szenved, és gyakran már eleve nehezen birkózik meg az önbizalomhiánnyal. A nemi diszfória depressziót is okoz, ami tovább növeli és erősíti ezeket a kétségeket. Mindez az önérvénytelenítés masszív halmazát eredményezi, ami ahhoz vezethet, hogy valaki újra és újra megküzdjön saját nemi identitásának elfogadásáért.
 
@@ -92,7 +92,7 @@ Lehetsz egyszerűen genderqueer! Az identitásod érvényes!
 
 ### Transzmedikalizmus
 
-Ez *mindenkit* érint. A transzmedikalizmus (más néven Truetrans) egy transznemű ideológia, amely a Harry Benjamin skálából származik (5. és 6. szint). A WPATH előtti szabályok megerősítésére törekszik, intenzív fizikai diszfóriát vár el, hormonterápiát vár el, és gyakran érvénytelenít minden nem-bináris identitást. Ellenzik a transznemű címke használatát nem-bináris emberekre, és azt szeretnék, ha kevesebb ember részesülne kezelésben, ha nem szeretnének mûtétet.
+Ez *mindenkit* érint. A transzmedikalizmus (más néven Truetrans) egy transznemű ideológia, amely a Harry Benjamin skálából származik (5. és 6. szint). A WPATH előtti szabályok megerősítésére törekszik, intenzív fizikai diszfóriát vár el, hormonterápiát vár el, és gyakran érvénytelenít minden nem-bináris identitást. Ellenzik a transznemű címke használatát nem-bináris emberekre, és azt szeretnék, ha kevesebb ember részesülne kezelésben, ha nem szeretnének műtétet.
 
 Röviden fogalmazva, sok transzmedikalista gyűlöli, hogy az újabb generációnak "olyan könnyű dolga van", annak ellenére, hogy sokan a soraikból ennek a generációnak a tagjai. Ez az ideológia az elégedetlenkedő transz idősek körében kezdődött, de azóta átterjedt más bináris egyénekre is, különösen a fiatal transz férfiak körében.
 

@@ -11,7 +11,7 @@ siblings:
   prev: /hu/okok
   prevCaption: Nemi Diszfória Okai
   next: /hu/hormonok
-  nextCaption: Hormonok Mûködése
+  nextCaption: Hormonok Működése
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191

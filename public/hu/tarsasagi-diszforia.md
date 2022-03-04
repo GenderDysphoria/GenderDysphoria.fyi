@@ -61,7 +61,7 @@ A szociális diszfória okozta kellemetlenségek arra kényszeríthetik a transz
 
 ### Testi és Társadalmi Diszfória
 
-Lehetnek olyan fizikai tulajdonságok, amelyek egyes transz emberek számára állandóan kellemetlenséget okozhatnak, míg mások számára csak társadalmi diszfóriaként jelentkezhetnek. Például egyes emberek rendkívül feszengenek fizikai megjelenésükkel kapcsolatban, ha rosszul genderelik őket vagy egyből feltûnik másoknak, hogy transznemû; ugyanakkor teljesen jól érzik magukat, amikor olyan környezetben érintkeznek, ahol mindig a valódi nemüknek megfelelően látják és bánnak velük.
+Lehetnek olyan fizikai tulajdonságok, amelyek egyes transz emberek számára állandóan kellemetlenséget okozhatnak, míg mások számára csak társadalmi diszfóriaként jelentkezhetnek. Például egyes emberek rendkívül feszengenek fizikai megjelenésükkel kapcsolatban, ha rosszul genderelik őket vagy egyből feltűnik másoknak, hogy transznemű; ugyanakkor teljesen jól érzik magukat, amikor olyan környezetben érintkeznek, ahol mindig a valódi nemüknek megfelelően látják és bánnak velük.
 
 Sokaknak nincs közvetlen fizikai diszfóriájuk a hangjukkal kapcsolatban; lehet, hogy valójában nagyon élveznek az eredeti hangszínükben énekelni, vagy amikor otthon vannak csak a családdal, akkor hagyják, hogy a hangjuk ellazuljon. Amikor azonban nyilvánosan vannak, a női hangon való beszédképességük döntő szerepet játszik abban, hogy az idegenek nőként tekintsenek rájuk, ezért sok energiát fektetnek abba, hogy női hangra képezzék a hangjukat. A nőies hang ilyenkor tudat alatt azonnal bekapcsol, amint felveszik a telefont vagy kilépnek a házból.
 

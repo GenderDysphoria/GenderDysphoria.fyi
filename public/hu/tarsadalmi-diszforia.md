@@ -37,7 +37,7 @@ Néhány váratlan módja annak, hogy a társadalmi diszfória megjelenhet abban
 
 ### Szégyen
 
-Ha valaki nem felel meg ezeknek a nemi szerepeknek, az *hatalmas* szégyen és megaláztatás formájában érkezhet rá. Ha valaki úgy nő fel, hogy titkolja transznemûségét sokáig, és küzd azért, hogy beilleszkedjen az általános nemi kategóriákba, az gyakran a csalódás jeleit eredményezi a szülők és a vele egykorúak részéről, akik mást vártak. Egy apa csalódott lehet, hogy AMAB gyermeke nem hajlandó sportolni vagy más férfias tevékenységeket folytatni. A női kortársak esetleg rosszallásukat fejezhetik ki, ha egy AFAB tinédzser férfi társasági köröket választ. A tizenévesek kiközösíthetnek egy transz személyt, bármi valós indok nélkül.
+Ha valaki nem felel meg ezeknek a nemi szerepeknek, az *hatalmas* szégyen és megaláztatás formájában érkezhet rá. Ha valaki úgy nő fel, hogy titkolja transzneműségét sokáig, és küzd azért, hogy beilleszkedjen az általános nemi kategóriákba, az gyakran a csalódás jeleit eredményezi a szülők és a vele egykorúak részéről, akik mást vártak. Egy apa csalódott lehet, hogy AMAB gyermeke nem hajlandó sportolni vagy más férfias tevékenységeket folytatni. A női kortársak esetleg rosszallásukat fejezhetik ki, ha egy AFAB tinédzser férfi társasági köröket választ. A tizenévesek kiközösíthetnek egy transz személyt, bármi valós indok nélkül.
 
 Az ilyen helyzetek zaklatáshoz és bántalmazáshoz vezethetnek, ami arra készteti a transz személyt, hogy elszigeteltnek, magányosnak és kívülállónak érezze magát. Ez a megosztottság érzése aztán szégyenérzetet kelt, amiért nem az a személy, akit mindenki elvár tőle. Ez aztán a többi diszfórián felül depresszióban nyilvánul meg, ami tovább fokozza a fájdalmukat.
 

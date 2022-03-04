@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: hu
 siblings:
   prev: /hu/hormonok
-  prevCaption: Hormonok Mûködése
+  prevCaption: Hormonok Működése
   next: /hu/masodik-pubertas-fem
   nextCaption: Ösztrogén-indukált Második Pubertás Alapjai
 classes:
@@ -106,7 +106,7 @@ A nagyobb tömeg több vért jelent a vegyi anyagok hígításához. A növekvő
 
 ### Mentális változások
 
-Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agy egy bizonyos hormonprofilra van bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségû akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
+Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agy egy bizonyos hormonprofilra van bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségű akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
 
 ##### ADHD
 

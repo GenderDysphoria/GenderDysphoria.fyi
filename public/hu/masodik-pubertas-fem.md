@@ -74,7 +74,7 @@ A hőmérséklet-eloszlás fenti eltolódása változást hoz az izzadás módj�
 
 ### A testszag csökkenése és/vagy megváltozása
 
-A férfi testszag egyik fő összetevője a [szteroid feromon androstadienon](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) jelenléte az izzadságban. Az androsztadienon közvetlenül a tesztoszteronból metabolizálódik, így a tesztoszteron leállításával ez teljesen eltûnik. Enélkül az izzadság sokkal édesebb illatot vesz fel, amit gyakran a női szagoknak tulajdonítanak.
+A férfi testszag egyik fő összetevője a [szteroid feromon androstadienon](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) jelenléte az izzadságban. Az androsztadienon közvetlenül a tesztoszteronból metabolizálódik, így a tesztoszteron leállításával ez teljesen eltűnik. Enélkül az izzadság sokkal édesebb illatot vesz fel, amit gyakran a női szagoknak tulajdonítanak.
 
 A spironolaktont szedőknél előfordulhat, hogy teljesen megszűnik minden testszag, mivel a gyógyszer megváltoztatja a kortizol felvételét a szervezetben.
 
@@ -92,7 +92,7 @@ Mivel az ösztrogén sokkal lejjebb rakja le a súlyt a testen, és a felsőtest
 
 ### Az arcvonások megváltozása
 
-A testzsír vándorlásával együtt az arc zsírja is vándorol. A nyak, az áll és az állkapocsvonal elvékonyodik, míg az ajkak és az arc felső része felpuffad. A szemöldök és a felső szemhéj megemelkedik, így a szem nagyobbnak fog tûnni. A szem körüli bőr és izomzat változásai megváltoztathatják a szemgolyó alakját, ezzel változtatva a látás tisztaságát. A szem színe is megváltozhat és merészebbé válhat, mivel a tesztoszteron hatására az írisz pigmentációja elhalványul.
+A testzsír vándorlásával együtt az arc zsírja is vándorol. A nyak, az áll és az állkapocsvonal elvékonyodik, míg az ajkak és az arc felső része felpuffad. A szemöldök és a felső szemhéj megemelkedik, így a szem nagyobbnak fog tűnni. A szem körüli bőr és izomzat változásai megváltoztathatják a szemgolyó alakját, ezzel változtatva a látás tisztaságát. A szem színe is megváltozhat és merészebbé válhat, mivel a tesztoszteron hatására az írisz pigmentációja elhalványul.
 
 Ez egy rendkívül finom és lassú folyamat, amely évekig tart, és könnyű azt hinni, hogy egyáltalán nem változik semmi. Készíts gyakran szelfiket az összehasonlításhoz.
 
@@ -114,7 +114,7 @@ A kevesebb testtömeg kevesebb vért jelent a vegyi anyagok feldolgozásához. A
 
 ### Mentális változások
 
-Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agyak egy bizonyos hormonprofilra vannak bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségû akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
+Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agyak egy bizonyos hormonprofilra vannak bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségű akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
 
 ##### ADHD
 
@@ -161,7 +161,7 @@ Rendkívül gyakori, hogy a transz emberek mindenféle típusban sokkal szociáb
 - **Fejlettebb szaglás**, különösen más testek szaglása. Az emberi izzadság nagyon érezhetővé válik, sőt időnként túltengő.
 - **Fejlettebb színérzékelés**. A színek élénkebbé, gazdagabbá válhatnak.
 - **Fejlettebb térérzékelés**. Sok transz embernél tapasztalható a rossz térérzékelés és az ügyetlenségre való hajlam, ami a HRT megkezdése után megszűnik.
-- **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletesebbé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltûnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
+- **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletesebbé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltűnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
 
 A spironolaktont használóknál gyakran alakul ki erős sóvárgás a magas sótartalmú ételek, például savanyúságok, olajbogyó vagy krumpli iránt. Ez azért van, mert a Spiro egy káliumkímélő vízhajtó, amitől az összes nátriumot kipisiled. Az agy sóvárgással ösztönöz, hogy pótoljd a kiesett nátriumot.
 

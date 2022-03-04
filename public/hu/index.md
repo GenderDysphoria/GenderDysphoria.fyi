@@ -64,7 +64,7 @@ siblings:
 
 18. [Kromoszómák](/hu/kromoszomak)
 
-19. [Hormonok Mûködése](/hu/hormonok)
+19. [Hormonok Működése](/hu/hormonok)
 
 20. [Androgén Második Pubertás Alapjai](/hu/masodik-pubertas-masc)
 
@@ -93,11 +93,11 @@ Transzneműnek lenni azt jelenti, hogy a nemi identitásod nem egyezik azzal a n
 
 Egy transz személy *életének bármelyik pontján* felismerheti ezt. Egyesek gyerekkorban már képesek ezt felismerni akkor, amikor megértik a nemek közötti különbségek fogalmát, mások a pubertáskor kezdetéig nem kezdenek el érezni semmit, és megint mások csak felnőtt korukban veszik észre, hogy egyáltalán valami nincs rendben. Sokan egyszerűen soha nem szembesülnek azzal a gondolattal, hogy a nemük nem egyezhet meg a születési nemükkel, vagy hogy milyen érzés ez, és így egyszerűen elfogadják a sorsukat.
 
-Számos transznemû abban a hitben van, hogy bár érzéseik szerint nem elégedettek a születésükkor nekik rendelt nemmel, úgy gondolják, hogy ez nem azonos azzal, amit a transznemű emberek éreznek vagy gondolnak magukról. Egyesek úgy érezhetik, hogy a transzneműségre és az átmenetre való vágy valamiféle tiszteletlenséget jelent az "igazi" transz emberekkel szemben, akik tudták, hogy ők valójában fiúk vagy lányok, akik "rossz testbe születtek". A transzneműség élményének a tömegmédia által terjesztett narratívái nagyon hamis képet keltenek arról, hogy mit is jelent transzneműnek lenni, és milyen érzés transzneműként felnőni.
+Számos transznemű abban a hitben van, hogy bár érzéseik szerint nem elégedettek a születésükkor nekik rendelt nemmel, úgy gondolják, hogy ez nem azonos azzal, amit a transznemű emberek éreznek vagy gondolnak magukról. Egyesek úgy érezhetik, hogy a transzneműségre és az átmenetre való vágy valamiféle tiszteletlenséget jelent az "igazi" transz emberekkel szemben, akik tudták, hogy ők valójában fiúk vagy lányok, akik "rossz testbe születtek". A transzneműség élményének a tömegmédia által terjesztett narratívái nagyon hamis képet keltenek arról, hogy mit is jelent transzneműnek lenni, és milyen érzés transzneműként felnőni.
 
 A belső és a külső én közötti összhang hiányának élményét nemi diszfóriának nevezzük. Minden transz személy, függetlenül attól, hogy saját magát binárisként vagy nem-binárisként látja, a nemi diszfória valamilyen formáját tapasztalja. Ez egyfajta politikai téma a transz közösségeken belül, mivel a különböző csoportoknak saját elképzeléseik vannak arról, hogy mi a nemi diszfória, hogyan nyilvánul meg, és mi minősíti egy személyt transznak. Nagyjából azonban ez a vita értelmetlen és eredménytelen, mivel az oldal tetején található definíció magában foglalja a kezdetét és a végét annak, hogy ezek a fogalmak hogyan keverednek egymással.
 
-Ez az oldal célja, hogy dokumentálja a nemi diszfória sokféle megnyilvánulási formáját, valamint a nemi tranzíció egyéb aspektusait, hogy útmutatót nyújtson azoknak, akik érzéseiket kérdőre vonják,; azoknak, akik most kezdik a transzneműek útját; azoknak, akik már úton vannak; valamint azoknak, akik egyszerűen csak szeretnének jobb szövetségesek lenni.
+Ez az oldal célja, hogy dokumentálja a nemi diszfória sokféle megnyilvánulási formáját, valamint a nemi tranzíció egyéb aspektusait, hogy útmutatót nyújtson azoknak, akik érzéseiket kérdőre vonják; azoknak, akik most kezdik a transzneműek útját; azoknak, akik már úton vannak; valamint azoknak, akik egyszerűen csak szeretnének jobb szövetségesek lenni.
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">

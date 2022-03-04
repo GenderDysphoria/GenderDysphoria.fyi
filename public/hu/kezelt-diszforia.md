@@ -23,11 +23,11 @@ Felnőtté válni elbújva, még ha nem is tudsz róla, a diszfória enyhítés�
 
 - Ha egy videojátékban lehetőséged van a nemed kiválasztására, hajlamos vagy a hozzád rendelt nemtől eltérő nemet választani. Ez kifogásokkal járhat együtt, hogy megvédd ezt a választásodat. "Alapértelmezés szerint férfi volt, és nem érdekelt". "Nem akarom órákig bámulni egy srác fenekét".
 
-- Az olyan irodalmi mûvek és filmek előnyben részesítése, amelyekben a valódi nemedhez tartozó szereplők szerepelnek, vagy olyan szereplők, akik megszegik a nemi normákat (Mulan, Kisasszonyok).
+- Az olyan irodalmi művek és filmek előnyben részesítése, amelyekben a valódi nemedhez tartozó szereplők szerepelnek, vagy olyan szereplők, akik megszegik a nemi normákat (Mulan, Kisasszonyok).
 
 - Titkos vágyakat kielégítő pornó (például a meleg/leszbikus pornó, a menyasszonyi perverzió vagy a crossdressing).
 
-- Crossdressing vagy a drag mûsorok előadása.
+- Crossdressing vagy a drag műsorok előadása.
 
 - Kifogások keresése a haj rövidre vágására vagy megnövesztésére.
 

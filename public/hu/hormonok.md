@@ -1,7 +1,7 @@
 ---
 date: "2022-03-04T19:08:00.000Z"
-title: "Hormonok Mûködése"
-linkTitle: "Hormonok Mûködése"
+title: "Hormonok Működése"
+linkTitle: "Hormonok Működése"
 description: "Kulcsok és zárak"
 preBody: '_disclaimer'
 lang: hu
@@ -14,7 +14,7 @@ classes:
   - gdb
 ---
 
-# Hormonok Mûködése
+# Hormonok Működése
 
 Amint azt a [Nemi Diszfória okai](/hu/okok) részben leírtuk, minden ember DNS-e tartalmazza a férfi és a női test genetikai utasításait; azt, hogy melyik utasításcsomagot használják, az irányítja, hogy a mirigyek milyen hormonokat termelnek. Ez a differenciálódás teljes mértékben azon alapul, hogy van-e véletlenül SRY géned, amely a terhesség 6-8. hetében elindít egy láncreakciót, amely heréket termel petefészek helyett. Ettől kezdve az emberi test minden szexuális tulajdonsága (elsődleges és másodlagos) az ezen ivarmirigyek által termelt hormonok eredménye.
 
@@ -80,7 +80,7 @@ Az ösztradiol a feminizáló hormon, mivel ez az elsődleges jelzőhormon az em
 
 Az ösztron szerepe a szervezetben az orvosi kutatások során némi fejtörést okozott, mivel az ösztradiolhoz képest lényegesen alacsonyabb kötődési affinitással rendelkezik (0,6%) és nagyon alacsony transzaktivációs képességgel (4%). Úgy tűnik, hogy a hormon nem *csinál* semmit, csak a véráramban van. Azonban egyedülálló képessége van arra, hogy egy [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase) nevű enzimcsoporton keresztül átalakuljon ösztradiollá vagy ösztradiolból, így ideálisan alkalmas arra, hogy ösztrogénakkumulátorként működjön a szervezetben.
 
-Új kutatások alapján úgy tûnik, hogy a szervezet úgy szabályozhatja a teljes ösztradiolszintet, hogy felszabadítja a HSD17B1-et, hogy az ösztradiolt ösztronná alakítsa, és felszabadítja a HSD17B2-t, hogy visszaalakítsa, azonban ez még nagyon korai tanulmány. Mindkét enzim az emlőszövetben termelődik, és szerepet játszhatnak a ciklikus periódusszerű tünetek jelenlétében olyan ösztrogénnel rendelkező egyéneknél, akiknek nincsenek petefészkei, például a transz nőknél.
+Új kutatások alapján úgy tűnik, hogy a szervezet úgy szabályozhatja a teljes ösztradiolszintet, hogy felszabadítja a HSD17B1-et, hogy az ösztradiolt ösztronná alakítsa, és felszabadítja a HSD17B2-t, hogy visszaalakítsa, azonban ez még nagyon korai tanulmány. Mindkét enzim az emlőszövetben termelődik, és szerepet játszhatnak a ciklikus periódusszerű tünetek jelenlétében olyan ösztrogénnel rendelkező egyéneknél, akiknek nincsenek petefészkei, például a transz nőknél.
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Csak, hogy tudd</h4> }!}
 
