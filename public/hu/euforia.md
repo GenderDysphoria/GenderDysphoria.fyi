@@ -1,13 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Eufória"
-linkTitle: "Gender Eufória"
+linkTitle: "Nemi Eufória"
 description: "Ahhoz, hogy árnyék legyen, valahol fénynek kell lennie."
 preBody: '_disclaimer'
 lang: hu
 siblings:
   prev: /hu/tortenelmi-attekintes
-  prevCaption: Történelmi áttekintés a Gender Diszfóriáról
+  prevCaption: Történelmi áttekintés a Nemi Diszfóriáról
   next: /hu/testi-diszforia
   nextCaption: Testi Diszfória
 classes:
@@ -19,7 +19,7 @@ tweets:
   - https://twitter.com/ErinInTheMorn/status/1228165767264256003
 ---
 
-# Gender Eufória
+# Nemi Eufória
 
 {!{
 <div class="gutter"><blockquote>

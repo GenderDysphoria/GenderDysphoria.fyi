@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Gender Diszfória diagnosztizálása"
+title: "Nemi Diszfória diagnosztizálása"
 linkTitle: "Klinikai Diagnózisok"
 description: "Ez klinikai eset."
 preBody: '_disclaimer'
@@ -11,10 +11,10 @@ siblings:
   prev: /hu/transz-vagyok
   prevCaption: Transz vagyok?
   next: /hu/kezeles
-  nextCaption: Gender Diszfória Kezelése
+  nextCaption: Nemi Diszfória Kezelése
 ---
 
-# Hogyan diagnosztizálják a Gender Diszfóriát?
+# Hogyan diagnosztizálják a Nemi Diszfóriát?
 
 Ez a szakasz az Amerikai Pszichiátriai Társaság által kiadott, a mentális zavarok diagnosztikai és statisztikai kézikönyvének ötödik változata (DSM-5) szerinti diagnosztikai kritériumokra összpontosít. Azért koncentrálok erre a szabványra, mert, nos, senki másnak nincs más. Az Egyesült Királyság Nemzeti Egészségügyi Szolgálata alapvetően az APA DSM-jét tükrözi. Más országoknak megvannak a saját helyi szabványaik, de ezek vagy nagyon hasonlóak, vagy sokkal elavultabbak.
 

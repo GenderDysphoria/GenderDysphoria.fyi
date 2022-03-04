@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Történelmi áttekintés a Gender Diszfóriáról"
-linkTitle: "Történelmi áttekintés a Gender Diszfóriáról"
+title: "Történelmi áttekintés a Nemi Diszfóriáról"
+linkTitle: "Történelmi áttekintés a Nemi Diszfóriáról"
 description: "A nemi diszfória eredete és mai jelentése."
 lang: hu
 classes:
@@ -11,10 +11,10 @@ siblings:
   prev: /hu/mi-is-az-a-gender
   prevCaption: Mi is az a Gender?
   next: /hu/euforia
-  nextCaption: Gender Eufória
+  nextCaption: Nemi Eufória
 ---
 
-# Történelmi áttekintés a Gender Diszfóriáról
+# Történelmi áttekintés a Nemi Diszfóriáról
 
 1948-ban a neves szexológus Dr. Alfred Kinsey-t (igen, [*az* a Kinsey](https://hu.wikipedia.org/wiki/Alfred_Kinsey)) felkereste egy nő, akinek fiúgyermeke hajthatatlanul ragaszkodott ahhoz, hogy valójában lány, és hogy valami nagyon rosszul sült el. Az anya ahelyett, hogy megpróbálta volna elnyomni a lányát, segíteni akart neki abban, hogy azzá váljon, akinek tudta magát. Kinsey felkereste a [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) nevű német endokrinológust, hogy hátha tud segíteni a gyermeknek. Dr. Benjamin ezután kidolgozott egy ösztrogénterápiás protokollt a tinédzser számára, és együtt dolgozott a családdal, hogy sebészeti segítséget találjon.
 
@@ -39,7 +39,7 @@ Ez a legfõbb oka annak, hogy a transzneműek jelenléte az elmúlt évtizedben 
 
 A transznemű emberek előbújnak a szekrénybõl; mindenhol ott vagyunk.
 
-## Tehát mi is az a Gender Diszfória?
+## Tehát mi is az a Nemi Diszfória?
 
 {!{
 <div class="gutter">

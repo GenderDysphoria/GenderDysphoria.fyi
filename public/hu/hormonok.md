@@ -16,7 +16,7 @@ classes:
 
 # Hormonok Mûködése
 
-Amint azt a [Gender Diszfória okai](/hu/okok) részben leírtuk, minden ember DNS-e tartalmazza a férfi és a női test genetikai utasításait; azt, hogy melyik utasításcsomagot használják, az irányítja, hogy a mirigyek milyen hormonokat termelnek. Ez a differenciálódás teljes mértékben azon alapul, hogy van-e véletlenül SRY géned, amely a terhesség 6-8. hetében elindít egy láncreakciót, amely heréket termel petefészek helyett. Ettől kezdve az emberi test minden szexuális tulajdonsága (elsődleges és másodlagos) az ezen ivarmirigyek által termelt hormonok eredménye.
+Amint azt a [Nemi Diszfória okai](/hu/okok) részben leírtuk, minden ember DNS-e tartalmazza a férfi és a női test genetikai utasításait; azt, hogy melyik utasításcsomagot használják, az irányítja, hogy a mirigyek milyen hormonokat termelnek. Ez a differenciálódás teljes mértékben azon alapul, hogy van-e véletlenül SRY géned, amely a terhesség 6-8. hetében elindít egy láncreakciót, amely heréket termel petefészek helyett. Ettől kezdve az emberi test minden szexuális tulajdonsága (elsődleges és másodlagos) az ezen ivarmirigyek által termelt hormonok eredménye.
 
 Ha ösztrogéneket (elsősorban ösztradiolt) termelnek, akkor a nemi szervekből vulva, vagina és méh alakul ki. Ha androgéneket (elsősorban tesztoszteront) termelnek, akkor a nemi szervek pénisszé és herezacskóvá alakulnak, a [Skene-mirigy](https://en.wikipedia.org/wiki/Skene%27s_gland) lefelé tolódik és prosztatává nagyodik. A differenciálódás itt véget ér a pubertás kezdetéig 9-10 évvel később, és mindannyian tudjuk, hogy akkor kivel mit csinál a pubertás.
 

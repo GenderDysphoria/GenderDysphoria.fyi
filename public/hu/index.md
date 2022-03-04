@@ -32,9 +32,9 @@ siblings:
 
 2. [Mi is az a Gender?](/hu/mi-is-az-a-gender)
 
-3. [Történelmi áttekintés a Gender Diszfóriáról](/hu/tortenelmi-attekintes)
+3. [Történelmi áttekintés a Nemi Diszfóriáról](/hu/tortenelmi-attekintes)
 
-4. [Gender Eufória](/hu/euforia)
+4. [Nemi Eufória](/hu/euforia)
 
 5. [Testi Diszfória](/hu/testi-diszforia)
 
@@ -58,9 +58,9 @@ siblings:
 
 15. [Klinikai Diagnózisok](/hu/klinikai-diagnozisok)
 
-16. [Gender Diszfória Kezelése](/hu/kezeles)
+16. [Nemi Diszfória Kezelése](/hu/kezeles)
 
-17. [Gender Diszfória Okai](/hu/okok)
+17. [Nemi Diszfória Okai](/hu/okok)
 
 18. [Kromoszómák](/hu/kromoszomak)
 

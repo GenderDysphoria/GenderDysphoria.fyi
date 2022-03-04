@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "Ösztrogén-indukált Második Pubertás Alapjai"
-linkTitle: Estrogenic Puberty
+linkTitle: Ösztrogén-indukált pubertás
 description: "Mire számítsunk a feminizáló hormonterápiától?"
 preBody: '_disclaimer'
 lang: hu

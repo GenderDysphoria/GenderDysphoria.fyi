@@ -8,7 +8,7 @@ siblings:
   prev: /hu/
   prevCaption: Elõszó
   next: /hu/tortenelmi-attekintes
-  nextCaption: Történelmi áttekintés a Gender Diszfóriáról
+  nextCaption: Történelmi áttekintés a Nemi Diszfóriáról
 classes:
   - gdb
 tweets:
@@ -80,7 +80,7 @@ Röviden az a helyzet, hogy vannak, akik nagyon férfiasak; vannak, akik nagyon 
 
 A gender részben társadalmi konstrukció, részben tanult viselkedés, részben pedig olyan biológiai folyamatok eredménye, amelyek már nagyon korán kialakulnak az ember életében.
 
-A jelenlegi bizonyítékok arra utalnak, hogy az ember neme már a terhesség alatt kialakul, miközben az agykéreg kialakul (errõl bõvebben a _Gender diszfória okai_ fejezetben). Ez a mentális modell tudatalatti szinten tájékoztat arról, hogy a személy a nemi spektrum mely aspektusa(i) felé fog hajlani. Ez befolyásolja a viselkedést, a világról alkotott képet, a vonzalom megélésének módját (a szexuális irányultságtól és a hormonális hatásoktól függetlenül), valamint azt, hogy hogyan kötõdünk más emberekhez.
+A jelenlegi bizonyítékok arra utalnak, hogy az ember neme már a terhesség alatt kialakul, miközben az agykéreg kialakul (errõl bõvebben a _Nemi Diszfória okai_ fejezetben). Ez a mentális modell tudatalatti szinten tájékoztat arról, hogy a személy a nemi spektrum mely aspektusa(i) felé fog hajlani. Ez befolyásolja a viselkedést, a világról alkotott képet, a vonzalom megélésének módját (a szexuális irányultságtól és a hormonális hatásoktól függetlenül), valamint azt, hogy hogyan kötõdünk más emberekhez.
 
 A gender befolyásolja azokat az elvárásokat is, amelyeket az agy a környezetével (a testével) szemben támaszt, és amikor ez a környezet nem felel meg ezeknek az elvárásoknak, az agy figyelmeztetõ jelzést küld depresszió, deperszonalizáció, derealizáció és disszociáció formájában. Ezek az agy tudatalatti módszerei arra, hogy tájékoztasson minket arról, hogy valami nagyon nincs rendben.
 

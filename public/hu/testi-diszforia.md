@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: hu
 siblings:
   prev: /hu/euforia
-  prevCaption: Gender Eufória
+  prevCaption: Nemi Eufória
   next: /hu/biokemiai-diszforia
   nextCaption: Biokémiai Diszfória
 classes:
@@ -20,7 +20,7 @@ tweets:
   - '947523244948680705'
 ---
 
-# Testi Gender Diszfória
+# Testi Nemi Diszfória
 
 Mindenki hallott már a "rossz testben született" narratíváról. A fizikai diszfória a test formája miatti kellemetlen érzés, amely a test nemi jellegzetességei miatt jelentkezik. Tehát milyen testtulajdonságokról beszélünk itt?
 

@@ -9,7 +9,7 @@ classes:
   - gdb
 siblings:
   prev: /hu/okok
-  prevCaption: Gender Diszfória Okai
+  prevCaption: Nemi Diszfória Okai
   next: /hu/hormonok
   nextCaption: Hormonok Mûködése
 tweets:

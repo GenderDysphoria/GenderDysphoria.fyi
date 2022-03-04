@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "Mi az oka a nemi inkongruenciának?"
-linkTitle: "A Gender Diszfória okai"
+linkTitle: "A Nemi Diszfória okai"
 description: "Ez a hormonok miatt van, cukikám."
 preBody: '_disclaimer'
 lang: hu
@@ -17,7 +17,7 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
   prev: /hu/kezeles
-  prevCaption: Gender Diszfória Kezelése
+  prevCaption: Nemi Diszfória Kezelése
   next: /hu/kromoszomak
   nextCaption: De a kromoszómák!!!
 ---

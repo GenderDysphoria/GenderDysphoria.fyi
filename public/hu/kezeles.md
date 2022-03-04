@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Gender Diszfória Kezelése"
+title: "Nemi Diszfória Kezelése"
 description: "A tranzíció a gyógymód."
 preBody: '_disclaimer'
 lang: hu
@@ -8,12 +8,12 @@ siblings:
   prev: /hu/klinikai-diagnozisok
   prevCaption: Klinikai Diagnózisok
   next: /hu/okok
-  nextCaption: A Gender Diszfória okai
+  nextCaption: A Nemi Diszfória okai
 classes:
   - gdb
 ---
 
-# Hogyan kezelik a gender diszfóriát?
+# Hogyan kezelik a nemi diszfóriát?
 
 A kezelési lehetőségek jelentősen eltérnek az adott személy igényeitől függően. Minden egyes tranzíció egyedi, és az tranzíciónak nincs kizárólag egyetlen módja. Ez a szakasz a lehetséges utakat sorolja fel.
 
