@@ -11,8 +11,8 @@ html[lang=de], html[lang=pl]/*, html[lang=hu]*/ {
   }
 }
 
-/*html[lang=hu] {
-	.post-content {
+html[lang=hu] {
+	blockquote {
 		font-family: $font-secondary-comp;
 	}
-}*/
+}
