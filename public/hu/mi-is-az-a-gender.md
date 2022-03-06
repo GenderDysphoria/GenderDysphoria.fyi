@@ -22,7 +22,7 @@ tweets:
 <div class="gutter">
   <blockquote>
     <strong>Gen·der</strong> - <em>főnév</em><br>
-    A nőiességhez és a férfiassághoz tartozó és azokat megkülönböztető jellemzők köre. A kontextustól függően ezek a jellemzők magukban foglalhatják a biológiai nemet, a nemen alapuló társadalmi struktúrákat (azaz a nemi szerepeket), vagy a nemi identitást (a személy saját neméről kapcsolatban).
+    A nőiességhez és a férfiassághoz tartozó és azokat megkülönböztető jellemzők köre. A kontextustól függően ezek a jellemzők magukban foglalhatják a biológiai nemet, a nemen alapuló társadalmi struktúrákat (azaz a nemi szerepeket), vagy a nemi identitást (a személy saját nemével kapcsolatban).
   </blockquote>
 </div>
 }!}
@@ -31,7 +31,7 @@ Ha a szó etimológiáját a latin gyökerekig visszavezetjük, a gender egyszer
 
 Sokan John Money pszichológusnak tulajdonítják a kifejezést, aki 1955-ben javasolta a "gender" kifejezést, hogy megkülönböztesse a mentális nemet a fizikai nemtől. Azonban nem Money volt az első, aki ezt tette. A kulturális antropológus [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) 1949-ben használta a kifejezést a "Male and Female" _(Férfi és nő)_ című könyvében, hogy megkülönböztesse a nemi viselkedést és szerepeket a biológiai nemtől. Az American Journal of Psychology ([vol. 63, no. 2, 1950, 312. old.](https://www.jstor.org/stable/1418948)) így jellemezte a könyvet:
 
-> A könyv ráadásul túlmutat az előfeltevésén, mert tájékoztatja az olvasót a **"nemről" és a "szexről",** a férfi és női szerepekről, valamint a férfi és női és reproduktív funkcióikról.
+> A könyv ráadásul túlmutat az előfeltevésén, mert tájékoztatja az olvasót a **"társadalmi" és a "biológiai" nemtől,** a férfi és női szerepekről, valamint a férfi és női reproduktív funkciókról.
 >
 > Margaret Mead a férfi és női szerepek konkrét elhatárolásától azok összehasonlításáig jut el több különböző megfigyelt közösségben, végül a nemi mintázatok elemzéséhez jut el saját köreinkben, a jelenben.
 
@@ -54,7 +54,7 @@ E három szempont bármelyike egy értéktartományba eshet. Az általános isko
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Hasonlóképpen, sokan azt hiszik, hogy a fenotípus is bináris, de a biológia már több száz éve felismerte, hogy ha az összes nemi jellemzőt kirajzoljuk egy populációban, akkor valójában egy binomiális eloszlást kapunk, ahol a populáció többsége a két csoport egy-egy percentilisébe esik. Ez azt jelenti, hogy néhány ember - egyszerűen az élet természetéből adódóan - kívül esik a tipikus két halmon. Sokan a középen helyezkednek el, mindkét nem jellemzőivel.
+Hasonlóképpen, sokan azt hiszik, hogy a fenotípus is bináris, de a biológia már több száz éve felismerte, hogy ha az összes nemi jellemzőt kirajzoljuk egy populációban, akkor valójában egy binomiális eloszlást kapunk, ahol a populáció többsége a két csoport egy-egy percentilisébe esik. Ez azt jelenti, hogy néhány ember - egyszerűen az élet természetéből adódóan - kívül esik a tipikus két halmon. Jópáran a kettő között helyezkednek el, mindkét nem jellemzőivel.
 
 A nemek azonban sokkal... ezoterikusabbak. Sokféleképpen próbálták már szemléltetni a nemek spektrumát, de egyik sem ragadta meg igazán alaposan, mert a spektrum maga is egy nagyon absztrakt fogalom.
 
@@ -91,7 +91,7 @@ A gender befolyásolja azokat az elvárásokat is, amelyeket az agy a környezet
 </blockquote></div>
 }!}
 
-Társadalmi oldalról a gender magába foglalja a [habitusunk](https://en.wikipedia.org/wiki/Habitus_(szociológia)): a megjelenésünk, a modorunk és a viselkedésünk; ahogyan kommunikálunk, ahogyan reagálunk, ahogyan az életünkkel szemben elvárásaink vannak, és a szerepek, amelyeket az életünk során betöltünk. A szerző Susan Stryker írta le a habitust a [Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X) című könyvében:
+Társadalmi oldalról a gender magába foglalja a [habitusunk](https://en.wikipedia.org/wiki/Habitus_(szociológia)): a megjelenésünk, a modorunk és a viselkedésünk; ahogyan kommunikálunk, ahogyan reagálunk, ahogyan az életünkkel szemben elvárásaink vannak, és a szerepeket, amelyeket az életünk során betöltünk. A szerző Susan Stryker írta le a habitust a [Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X) című könyvében:
 
 > A habitus nagy része magában foglalja a másodlagos nemi jellegzetességeink kezelését, hogy mások felé közvetítsük saját érzésünket arról, hogy kik vagyunk - akár a csípőnket ringatjuk, akár a kezünkkel beszélünk, akár a konditeremben edzünk, akár megnövesztjük a hajunkat, akár olyan ruhákat viselünk, amelyek dekoltázsunkat hangsúlyozzák, akár a hónaljunkat borotváljuk, akár az arcunkon láthatóvá tesszük a borostát, vagy a mondatok végén emelkedő vagy süllyedő hanglejtéssel beszélünk. Gyakran ezek a mozgás- és stílusmódok annyira belsővé váltak, hogy természetesnek gondoljuk őket, noha - tekintve, hogy mindezeket megfigyelés és gyakorlás útján tanultuk - inkább kulturálisan szerzett "második természetként" értelmezhetjük őket.
 
@@ -105,8 +105,8 @@ Ami **nem*** a gender, az a szexuális irányultság. A szexuális orientációt
 
 ## Mit jelent nem-binárisnak lenni?
 
-A nem-bináris leegyszerűsítve a férfi- vagy a női genderhez való kizárólagos kötődés hiányát jelenti. Ez lehet az egyik identitáshoz való kötődés hiánya ([agender](https://gender.wikia.org/wiki/Agender)), mindkettőhöz való teljes kötődés ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), kiegyensúlyozott kötődés mindkettőhöz (androgün), napról napra változó kötődés ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), részleges kötődés ([demigender](https://gender.wikia.org/wiki/Demigender)), vagy akár egyszerre a teljes nemi spektrumhoz való kötődés ([pangender](https://gender.wikia.org/wiki/Pangender)).
+A nem-bináris leegyszerűsítve a férfi- vagy a női genderhez való kizárólagos kötődés hiányát jelenti. Ez lehet az egyik identitáshoz sem való kötődés ([agender](https://gender.wikia.org/wiki/Agender)), mindkettőhöz való teljes kötődés ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), kiegyensúlyozott kötődés mindkettőhöz (androgün), napról napra változó kötődés ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), részleges kötődés ([demigender](https://gender.wikia.org/wiki/Demigender)), vagy akár egyszerre a teljes nemi spektrumhoz való kötődés ([pangender](https://gender.wikia.org/wiki/Pangender)).
 
-Lehet, hogy egy gender bizonyos aspektusaihoz vonzódunk, másokhoz viszont nem. Például egy [demigirl](https://gender.wikia.org/wiki/Demigirl) lehet valaki, akit születésekor nőnek jelöltek ki, és csak részleges kapcsolatot érez a nőiességgel és a nőiességgel; vagy lehet egy férfihez rendelt egyén, aki hormonterápiát szed a fizikai diszfória enyhítésére, és női fenotípussal rendelkezik, de nem érez erős kapcsolatot a nőiesség társadalmi aspektusaival.
+Lehet, hogy egy gender bizonyos aspektusaihoz vonzódunk, másokhoz viszont nem. Például egy [demigirl](https://gender.wikia.org/wiki/Demigirl) lehet valaki, akit születésekor nőnek jelöltek ki, és csak részleges kapcsolatot érez a nőiséggel és a nőiességgel; vagy lehet egy férfihez rendelt egyén, aki hormonterápiát szed a fizikai diszfória enyhítésére, és női fenotípussal rendelkezik, de nem érez erős kapcsolatot a nőiesség társadalmi aspektusaival.
 
 Általánosságban ez a könyv a gendert a bináris identitások (férfi/nő) és a nem-bináris identitások között írja le, de ez pusztán az egyszerűség kedvéért történik. Felhívjuk az Olvasó figyelmét, hogy a nemek megélésének és kifejezésének mélysége sokkal, de sokkal bonyolultabb, mint ez az egyszerű felosztás.

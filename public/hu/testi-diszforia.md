@@ -123,7 +123,7 @@ Ez megnyilvánulhat bizonyos testtulajdonságoktól való megszabadulás kénysz
 
 A nem kívánt fizikai tulajdonságok arra késztethetik az illetőt, hogy irigységet érezzen azok iránt, akik betegség miatt, például hererák vagy mellrák miatt kénytelenek eltávolítani ezeket a tulajdonságokat. A súlyos nemi diszfóriában szenvedő AMAB-ok hajlamosak arra, hogy valamilyen furcsa balesetre vágynak, amely a falloszuk elvesztését okozná.
 
-Néha egyszerűen csak a helytelenség érzése, amit nem is feltétlenül a nemhez vagy a nemi hovatartozáshoz kapcsolnak. Néhányan életük nagy részében azt hiszik, hogy azért utálják a testüket, mert kövérnek látják magukat. Csak akkor jönnek rá, amikor elkezdik az hormonterápiát; akkor rájönnek, hogy egyáltalán nem utálják a kövérséget, hanem hogy *férfi* kövérségük van. A női alak, amelyeket a HRT ad, sokkal inkább összhangban van testükkel.
+Néha egyszerűen csak a helytelenség érzése, amit nem is feltétlenül a nemhez vagy a nemi hovatartozáshoz kapcsolnak. Néhányan életük nagy részében azt hiszik, hogy azért utálják a testüket, mert kövérnek látják magukat. Csak akkor jönnek rá, amikor elkezdik a hormonterápiát; rájönnek, hogy egyáltalán nem utálják a kövérséget, hanem hogy *férfi* kövérségük van. A női alak, amelyet a HRT ad, sokkal inkább összhangban van testükkel.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
@@ -138,7 +138,7 @@ Nem baj, ha semmit sem utálsz a testeddel kapcsolatban, és csak azt kívánod,
 
 Rendben van, ha csak néhány aspektusát utálod a testednek, és nem kívánod megváltoztatni az összes szexuális jellemződet.
 
-Rendben van, ha nincs szükséged *egyáltalán* hormonterápiára. A testérzelmek nem az hormonterápia mindent eldöntő elemei.
+Rendben van, ha nincs szükséged *egyáltalán* hormonterápiára. A testérzelmek nem a hormonterápia mindent eldöntő elemei.
 
 **A teljes testi diszfória nem feltétele a transzneműségnek. Az AFAB-oknak nem kell utálniuk a mellkasukat, az AMAB-oknak nem kell utálniuk a péniszüket. Minden transz ember tapasztalata más és más. Mindegyik érvényes.**
 
