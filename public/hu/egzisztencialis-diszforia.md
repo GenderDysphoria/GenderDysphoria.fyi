@@ -8,8 +8,8 @@ classes:
   - gdb
 preBody: '_disclaimer'
 siblings:
-  prev: /hu/kinezet-diszforia
-  prevCaption: Kinézet Diszfória
+  prev: /hu/kinezeti-diszforia
+  prevCaption: Kinézeti Diszfória
   next: /hu/kezelt-diszforia
   nextCaption: Kezelt Diszfória
 ---

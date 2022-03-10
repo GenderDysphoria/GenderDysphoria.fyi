@@ -1,7 +1,7 @@
 ---
 date: "2022-03-04T19:08:00.000Z"
-title: "Imposztor szindróma, transz módra"
-linkTitle: "Imposztor Szindróma"
+title: "Imposztor-szindróma, transz módra"
+linkTitle: "Imposztor-Szindróma"
 description: "Tényleg transz vagyok?"
 preBody: '_disclaimer'
 lang: hu
@@ -23,25 +23,25 @@ tweets:
   - '1153300374133981186'
 ---
 
-# Imposztor Szindróma
+# Imposztor-Szindróma
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> Az [Imposztor szindróma](https://en.wikipedia.org/wiki/Impostor_syndrome) (más néven imposztor-jelenség, imposztorizmus, csalás-szindróma vagy imposztor-élmény) olyan pszichológiai minta, amelyben az egyén kételkedik a teljesítményében, és tartósan fél attól, hogy "csalóként" lelepleződik.
+> Az [Imposztor-szindróma](https://en.wikipedia.org/wiki/Impostor_syndrome) (más néven imposztor-jelenség, imposztorizmus, csalás-szindróma vagy imposztor-élmény) olyan pszichológiai minta, amelyben az egyén kételkedik a teljesítményében, és tartósan fél attól, hogy "csalóként" lelepleződik.
 
 A társadalom általánosságban nagyon jó abban, hogy a transz embereket kétségbe vonja önmagukban. Számos tudatalatti üzenetet kapunk egész életünkben, amelyek azt mondják, hogy transznak lenni nem normális, és hogy aki transz, annak különlegesnek kell lennie. A cisz médiának a "rossz testben született" narratíva iránti megszállottsága ahhoz vezetett, hogy a transz fiatalok rengeteg hamis információt sajátítottak el helytelenül. Sok, *nagyon sok* transz gyerek úgy nő fel, hogy azt hiszi, valójában nem transz, mert nem *tudják*, hogy más neműek, csak azt kívánják, hogy azok legyenek. Sok nem bináris gyerek úgy nő fel, hogy tudja, hogy valami nem stimmel, de nem hiszi el, hogy transz, mert nem érzi magát bináris transz személynek.
 
 Mindennek tetejébe, az olyan üzenetek átitatták a köztudatot, amelyek szerint a transz emberek utálják a testüket vagy a nemi szervüket, így sokan, akik vagy nem tapasztalnak testi diszfóriát (vagy egyszerűen csak azt hiszik, hogy az övék nem túl erős), abban a hitben járnak, hogy nem eléggé "transzok".
 
-***[IGEN, ELÉGGÉ TRANSZ VAGY](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
+***[DE IGEN, PONT ELÉGGÉ TRANSZ VAGY](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Ráadásul a transzfób média folyamatos állításai beleivónak az emberekbe, miszerint a transz emberek valójában nem a valódi nemük szerinti emberek, és csak megpróbálják becsapni a többieket. Ez hatalmas önbizalomhiányt szül a transzneműek saját nemük hitelességével kapcsolatban, különösen a sok nemi sztereotípiával szemben. Ha azt látjuk, hogy nem felelünk meg ezeknek a sztereotípiáknak, akkor nagyon könnyen meggyőzhetjük magunkat, hogy nem vagyunk méltóak a saját nemünkhöz (megjegyzés: a cisz férfiak és nők is így járnak, meglepően gyakran).
+Ráadásul a transzfób média folyamatos állításai beleivónak az emberekbe, miszerint a transz emberek valójában nem a valódi nemük szerinti emberek, és csak megpróbálják becsapni a többieket. Ez hatalmas önbizalomhiányt szül a transzneműekben saját nemük hitelességével kapcsolatban, különösen a sok nemi sztereotípiával szemben. Ha azt látjuk, hogy nem felelünk meg ezeknek a sztereotípiáknak, akkor nagyon könnyen meggyőzhetjük magunkat, hogy nem vagyunk méltóak a saját nemünkhöz (megjegyzés: a cisz férfiak és nők is így járnak, meglepően gyakran).
 
 Ráadásul a transzfób bántalmazás miatt sok transz ember sérült önértékelésben szenved, és gyakran már eleve nehezen birkózik meg az önbizalomhiánnyal. A nemi diszfória depressziót is okoz, ami tovább növeli és erősíti ezeket a kétségeket. Mindez az önérvénytelenítés masszív halmazát eredményezi, ami ahhoz vezethet, hogy valaki újra és újra megküzdjön saját nemi identitásának elfogadásáért.
 
@@ -86,7 +86,7 @@ Ha úgy érzed, hogy nem vagy bináris nő, akkor nem vagy bináris nő. A cisz 
 
 ### Toxikus maszkulinitás
 
-Azok a gyerekek, akik fiúként nőttek fel, folyamatosan találkoztak azzal az üzenettel, milyen is "férfinak lenni". Nagyon kevés példa van a pozitív maszkulinitásra a médiában, és az AMAB férfias nem-binárisokat a transz reprezentációban is olyan gyakran elfelejtik, így könnyen magányosnak érezheti magát egy genderqueer férfi. Az AMAB nem-binárisokat gyakran vagy a meleg cisz férfiakkal együtt csoportosítják, vagy úgy kezelik őket, mint a transz nőket.
+Azok a gyerekek, akik fiúként nőttek fel, folyamatosan találkoztak azzal az üzenettel, milyen is "férfinak lenni". Nagyon kevés példa van a pozitív maszkulinitásra a médiában, és az AMAB férfias nem-binárisokat a transz reprezentációban is nagyon gyakran elfelejtik, így könnyen magányosnak érezheti magát egy genderqueer férfi. Az AMAB nem-binárisokat gyakran vagy a meleg cisz férfiakkal együtt csoportosítják, vagy úgy kezelik őket, mint a transz nőket.
 
 Lehetsz egyszerűen genderqueer! Az identitásod érvényes!
 
@@ -96,7 +96,7 @@ Ez *mindenkit* érint. A transzmedikalizmus (más néven Truetrans) egy transzne
 
 Röviden fogalmazva, sok transzmedikalista gyűlöli, hogy az újabb generációnak "olyan könnyű dolga van", annak ellenére, hogy sokan a soraikból ennek a generációnak a tagjai. Ez az ideológia az elégedetlenkedő transz idősek körében kezdődött, de azóta átterjedt más bináris egyénekre is, különösen a fiatal transz férfiak körében.
 
-Ha egy transz személy először találkozik a transzszexualitással, ez súlyosan visszavetheti a saját önelfogadásukat, és még jobban elbújásra. A transzmedikusok köztudottan valóban azt mondják az embereknek, hogy "Nem, te nem vagy transz".
+Ha egy transz személy először találkozik a transzszexualitással, ez súlyosan visszavetheti a saját önelfogadásukat, és erősítheti bennük az elbújás kényszerét. A transzmedikusok köztudottan valóban azt mondják az embereknek, hogy "Nem, te nem vagy transz".
 
 **Ne hidd el ezeket a hazugságokat.** Ezek zsarnoki taktikák, amelyeket kifejezetten arra szánnak, hogy az emberek fájdalmát elutasítsák.
 
@@ -104,9 +104,9 @@ Vannak ezzel kapcsolatos bántó koncepciók, amelyeket egy transz személy inte
 
 ### Transz-kirekesztő radikális feminizmus / Genderkritikus mozgalom / Nemi esszencializmus
 
-A [Nemi esszencializmus](https://en.wikipedia.org/wiki/Gender_essentialism) az a meggyőződés, hogy az ember létezésének vannak veleszületett tulajdonságai, amelyek az alapján vezethetők le, hogy az illető milyen nemi szervekkel született. A Transz-kirekesztő radikális feminizmus (TERF) és a genderkritikus (GC) ideológia a második hullámú feminizmus leszbikus szeparatista mozgalmából született, és teljes mértékben tagadja a transznemű biológia és a nem bináris identitások létezését. A mozgalmat nagyrészt a jobboldali radikális, rasszisták és homofóbok vették át, és jelenleg a keresztény szervezetek is támogatják.
+A [Nemi esszencializmus](https://en.wikipedia.org/wiki/Gender_essentialism) az a meggyőződés, hogy az ember létezésének vannak veleszületett tulajdonságai, amelyek az alapján vezethetők le, hogy az illető milyen nemi szervekkel született. A Transz-kirekesztő radikális feminizmus (TERF) és a genderkritikus (GC) ideológia a második hullámú feminizmus leszbikus szeparatista mozgalmából született, és teljes mértékben tagadja a transznemű biológia és a nem bináris identitások létezését. A mozgalmat nagyrészt a jobboldali radikálisok, rasszisták és homofóbok vették át, és jelenleg a keresztény szervezetek is támogatják.
 
-Ezek az emberek semmitől sem riadnak vissza, hogy érvénytelenítsék a létezésedet. Ne adjatok nekik időt.
+Ezek az emberek semmitől sem riadnak vissza, hogy érvénytelenítsék a létezésedet. Ne adj nekik hitelt.
 
 ### Gender Abolitionizmus / Posztgenderizmus
 

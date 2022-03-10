@@ -9,7 +9,7 @@ siblings:
   prev: /hu/exisztencialis-diszforia
   prevCaption: Egzisztenciális Diszfória
   next: /hu/imposztor-szindroma
-  nextCaption: Imposztor Szindróma
+  nextCaption: Imposztor-Szindróma
 classes:
   - gdb
 tweets:
@@ -31,7 +31,7 @@ Felnőtté válni elbújva, még ha nem is tudsz róla, a diszfória enyhítés�
 
 - Kifogások keresése a haj rövidre vágására vagy megnövesztésére.
 
-- A testszőrzet leborotválása, vagy az elvárt szőrzet leborotválásának elutasítása.
+- A testszőrzet leborotválása, vagy az elvárt szőrzet-borotválás elutasítása.
 
 - Bő ruházat viselése, amely eltakarja a tested valódi formáját.
 

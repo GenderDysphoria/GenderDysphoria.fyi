@@ -46,13 +46,13 @@ siblings:
 
 9. [Szexuális Diszfória](/hu/szexualis-diszforia)
 
-10. [Kinézet Diszfória](/hu/kinezet-diszforia)
+10. [Kinézeti Diszfória](/hu/kinezeti-diszforia)
 
 11. [Egzisztenciális Diszfória](/hu/egzisztencialis-diszforia)
 
 12. [Kezelt Diszfória](/hu/kezelt-diszforia)
 
-13. [Imposztor Szindróma](/hu/imposztor-szindroma)
+13. [Imposztor-Szindróma](/hu/imposztor-szindroma)
 
 14. [Transz vagyok?](/hu/transz-vagyok)
 

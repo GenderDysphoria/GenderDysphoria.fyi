@@ -24,14 +24,14 @@ Vagy hogy nyersen fogalmazzak, a WPATH azt mondja, hogy ha azt hiszed, hogy tran
 
 {!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">Csak, hogy tudd</h4> }!}
 
-A nemi diszfória diagnózisa prepubertáskorú gyermekeknél megköveteli, hogy a gyermeknek dokumentáltan hat hónapos múltra visszamenőleg megfeleljen a fenti kritériumok közül hatnak, valamint hogy bizonyítottan distressz vagy funkciózavar álljon fenn.
+A nemi diszfória diagnózisa prepubertáskorú gyermekeknél megköveteli, hogy a gyermek dokumentáltan hat hónapos múltra visszamenőleg megfeleljen a fenti kritériumok közül hatnak, valamint hogy bizonyítottan distressz vagy funkciózavar álljon fenn.
 
 1. Erős vágy vagy ragaszkodás, hogy a másik nemhez tartozzon.
 2. Erős vágy az ellenkező nemre jellemző ruházat viselése iránt.
 3. Erős vágy a nemek közötti szerepek iránt a színlelt játékokban vagy fantáziajátékokban.
 4. A másik nem által sztereotip módon használt vagy végzett játékok, játékok vagy tevékenységek erős preferálása.
 5. Erős vágy a másik nemhez tartozó játszótársak iránt.
-6. A saját nemére jellemző játékok, játékok és tevékenységek erős elutasítása.
+6. A saját nemére jellemző játékok és tevékenységek erős elutasítása.
 7. A saját nemi anatómiájának erős ellenszenve.
 8. Erős vágy a megtapasztalt nemnek megfelelő testi nemi jellemzők iránt.
 

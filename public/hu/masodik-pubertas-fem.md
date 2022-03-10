@@ -38,7 +38,7 @@ A tesztoszteron hiánya a bőrzsír csökkenését is okozza, különösen az ar
 
 ### Fokozott rugalmasság
 
-A tesztoszteron visszatartja a vizet az izmokban és az inakban, így azok kevésbé lesznek rugalmasak. A tesztoszteron hiánya azt eredményezi, hogy az test felszabadítja ezeket a folyadékokat és a test visszanyeri valamennyi rugalmasságát.
+A tesztoszteron visszatartja a vizet az izmokban és az inakban, így azok kevésbé lesznek rugalmasak. A tesztoszteron hiánya azt eredményezi, hogy a test felszabadítja ezeket a folyadékokat és a test visszanyeri valamennyi rugalmasságát.
 
 ### Karcsúbb ujjak és vékonyabb csukló
 
@@ -86,9 +86,9 @@ Ezzel együtt jár az erő jelentős csökkenése is. Cipelni nehezebb lesz, az 
 
 ### A zsír újraelosztódása 
 
-A tesztoszteron arra ösztönzi a szervezetet, hogy a zsírokat a hasba helyezze el; míg az ösztrogén arra, hogy a combokba, a fenékbe és a csípőbe rakja le. A hormonterápia hatására az ösztrogénprofilnak megfelelően új zsírok rakódnak le, és az tesztoszteron alatt elraktározott zsírok lebomlanak. Ez a zsírvándorlás illúzióját kelti, ahogy a test alakja megváltozik. A derékvonal összezsugorodik és a bordák alatt alakul ki ismét, a has pedig laposabbá válik.
+A tesztoszteron arra ösztönzi a szervezetet, hogy a zsírokat a hasba helyezze el; míg az ösztrogén arra, hogy a combokba, a fenékbe és a csípőbe rakja le. A hormonterápia hatására az ösztrogénprofilnak megfelelően új zsírok rakódnak le, és a tesztoszteron alatt elraktározott zsírok lebomlanak. Ez a zsírvándorlás illúzióját kelti, ahogy a test alakja megváltozik. A derékvonal összezsugorodik és a bordák alatt alakul ki ismét, a has pedig laposabbá válik.
 
-Mivel az ösztrogén sokkal lejjebb rakja le a súlyt a testen, és a felsőtest izomtömege elvész, ez csökkenti a súlypontot, ami megváltoztatja a járást. Természetesebbé válik, hogy a testet járás közben a csípővel támasztjuk ki, szemben a vállakkal.
+Mivel az ösztrogén sokkal lejjebb rakja le a súlyt a testen, és a felsőtest izomtömege elvész, ez csökkenti a súlypontot, ami megváltoztatja a járást. Természetesebbé válik, hogy a testet járás közben a csípővel támasztjuk ki, mintsem a vállakkal.
 
 ### Az arcvonások megváltozása
 
@@ -156,12 +156,12 @@ Rendkívül gyakori, hogy a transz emberek mindenféle típusban sokkal szociáb
 
 ### Fejlettebb érzékelés
 
-[Több kutatás megerősíti](https://academic.oup.com/cercor/article/28/5/1582/3064956), hogy a hormonterápia változásokat hoz az agy szürke- és fehérállományának eloszlásában. A hormonprofilok változása következtében új idegpályák alakulnak ki, és ez az érzékelés megváltozását eredményezi. Ezek azonban bár jól megfigyelt és dokumentált események, de nem világos, hogy ez maguktól a hormonoktól lesz-e így, vagy attól, hogy az agy megkapja-e a neki szánt hormonokat.
+[Több kutatás megerősíti](https://academic.oup.com/cercor/article/28/5/1582/3064956), hogy a hormonterápia változásokat hoz az agy szürke- és fehérállományának eloszlásában. A hormonprofilok változása következtében új idegpályák alakulnak ki, és ez az érzékelés megváltozását eredményezi. Ezek azonban bár jól megfigyelt és dokumentált események, nem világos, hogy ez maguktól a hormonoktól lesz-e így, vagy attól, hogy az agy megkapja-e a neki szánt hormonokat.
 
 - **Fejlettebb szaglás**, különösen más testek szaglása. Az emberi izzadság nagyon érezhetővé válik, sőt időnként túltengő.
 - **Fejlettebb színérzékelés**. A színek élénkebbé, gazdagabbá válhatnak.
 - **Fejlettebb térérzékelés**. Sok transz embernél tapasztalható a rossz térérzékelés és az ügyetlenségre való hajlam, ami a HRT megkezdése után megszűnik.
-- **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletesebbé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltűnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
+- **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletessé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltűnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
 
 A spironolaktont használóknál gyakran alakul ki erős sóvárgás a magas sótartalmú ételek, például savanyúságok, olajbogyó vagy krumpli iránt. Ez azért van, mert a Spiro egy káliumkímélő vízhajtó, amitől az összes nátriumot kipisiled. Az agy sóvárgással ösztönöz, hogy pótoljd a kiesett nátriumot.
 
@@ -180,7 +180,7 @@ Az emberek arról is beszámoltak, hogy kevésbé hajlamosak vitát kezdeményez
 </div>
 }!}
 
-Minden nemi szerv ugyanabból a szövetből épül fel, csupán a terhesség során másképp szerveződnek. Ezek a szövetek viselkedésének nagy részét a saját testünk hormonjai szabályozzák. A bőrváladék, a textúra, az érzékenység és a merevedési viselkedés mind hormonális válaszreakciók. Ez azt jelenti, hogy amikor lecsökken a tesztoszteron és ösztrogén lesz a domináns hormon a szervezetben, ezek a szövetek elkezdenek úgy viselkedni, mintha vaginák lennének, pedig nem azok.
+Minden nemi szerv ugyanabból a szövetből épül fel, csupán a terhesség során másképp szerveződnek. Eme szövetek viselkedésének nagy részét a saját testünk hormonjai szabályozzák. A bőrváladék, a textúra, az érzékenység és a merevedési viselkedés mind hormonális válaszreakciók. Ez azt jelenti, hogy amikor lecsökken a tesztoszteron és ösztrogén lesz a domináns hormon a szervezetben, ezek a szövetek elkezdenek úgy viselkedni, mintha vaginák lennének, pedig nem azok.
 
 ##### Fokozott érzékenység
 
@@ -204,7 +204,7 @@ Ezt rendszeres erekció kiváltásával lehet ellensúlyozni, de ez az idő elő
 
 ##### Átlátszó spermaváladék
 
-Az spermiumot alkotó folyadék nagy része a prosztatából származik. Ez egy teljesen tiszta, nyálkás állagú folyadék. A fehér színt és ragadós jelleget, amelyet általában a férfi spermának tulajdonítanak, a herékből származó ondó és ondófolyadék okozza. Mind a sperma, mind az ondófolyadék termelése a herék működésének terméke, így ahogy a herék leállnak (akár az antiandrogének, akár az ösztrogén dominancia miatt), ezek termelése leáll, és csak a prosztatafolyadék marad.
+A spermiumot alkotó folyadék nagy része a prosztatából származik. Ez egy teljesen tiszta, nyálkás állagú folyadék. A fehér színt és ragadós jelleget, amelyet általában a férfi spermának tulajdonítanak, a herékből származó ondó és ondófolyadék okozza. Mind a sperma, mind az ondófolyadék termelése a herék működésének terméke, így ahogy a herék leállnak (akár az antiandrogének, akár az ösztrogén dominancia miatt), ezek termelése leáll, és csak a prosztatafolyadék marad.
 
 Néhány embernek még ez a folyadék termelése is leáll, és orgazmus közben egyáltalán nem ürül ki semmi.
 
@@ -262,7 +262,7 @@ Nyilvánvalóan nem a vérzékenységre gondolunk, az nevetséges lenne. A tüne
 - A libidó spontán változása.
 - A nemi szervek szagának megváltozása.
 
-Nem, erről még nem készültek tanulmányok, de túlságosan, **túlságosan** sok egyén számolt be arról, hogy ez szokatlan lenne (beleértve a tiédet is), és ezt több ember saját orvosai is megerősítették. Arra is van precedens, hogy ez olyan ciszgender nőkkel is megtörtént, akiknek méheltávolításuk volt (személyesen ismerek két ciszgender nőt, akiknek van ciklusuk, de nem menstruálnak, mindenféle orvosi beavatkozás nélkül).
+Nem, erről még nem készültek tanulmányok, de túlságosan, **túlságosan** sok egyén számolt be erről ahhoz, hogy ez szokatlan lenne (beleértve a tiédet is), és ezt több ember saját orvosai is megerősítették. Arra is van precedens, hogy ez olyan ciszgender nőkkel is megtörtént, akiknek méheltávolításuk volt (személyesen ismerek két ciszgender nőt, akiknek van ciklusuk, de nem menstruálnak, mindenféle orvosi beavatkozás nélkül).
 
 Az ösztrogén és progeszteron működtetése aktivál egy génszekvenciát, amely arra utasítja a hipotalamuszt, hogy próbálja meg a petefészek és a méh ciklikus viselkedését ugyanúgy, függetlenül a petefészek vagy a méh hiányától. Ez a ciklus számos szervre és alrendszerre hat a szervezetben, különböző hormonok és enzimek felszabadulását okozva, amelyek befolyásolhatják a működést, sőt a viselkedést is.
 

@@ -15,7 +15,7 @@ classes:
 
 # Hogyan kezelik a nemi diszfóriát?
 
-A kezelési lehetőségek jelentősen eltérnek az adott személy igényeitől függően. Minden egyes tranzíció egyedi, és az tranzíciónak nincs kizárólag egyetlen módja. Ez a szakasz a lehetséges utakat sorolja fel.
+A kezelési lehetőségek jelentősen eltérnek az adott személy igényeitől függően. Minden egyes tranzíció egyedi, és a tranzíciónak nincs kizárólag egyetlen módja. Ez a szakasz a lehetséges utakat sorolja fel.
 
 ### Társadalmi tranzíció
 
@@ -29,7 +29,7 @@ Ez az a folyamat, amelynek során a jogi dokumentumokat úgy változtatjuk meg, 
 
 ### Kinézeti tranzíció
 
-Ezek a stílusodnak megváltoztatását jelentik, legyen szó ruházatáról, hajáról vagy sminkhasználatáról. Társadalmunk mindezeket a dolgokat erősen genderezi, és a megjelenés megváltoztatása egyrészt megerősíti önmagunkat, másrészt jelzést küld a környezetünknek arról, hogyan kívánjuk, hogy megszólítsák őket.
+Ezek a stílusodnak megváltoztatását jelentik, legyen szó ruházatáról, hajáról vagy sminkhasználatáról. Társadalmunk mindezeket a dolgokat erősen genderezi, és a megjelenés megváltoztatása egyrészt megerősíti önmagunkat, másrészt jelzést küld a környezetünknek arról, hogyan kívánjuk, hogy megszólítsanak bennünket.
 
 ### Orvosi tranzíció
 

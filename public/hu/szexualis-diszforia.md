@@ -8,8 +8,8 @@ lang: hu
 siblings:
   prev: /hu/tarsadalmi-dysphoria
   prevCaption: Társadalmi Diszfória
-  next: /hu/kinezet-diszforia
-  nextCaption: Kinézet Diszfória
+  next: /hu/kinezeti-diszforia
+  nextCaption: Kinézeti Diszfória
 classes:
   - gdb
 tweets:
@@ -31,9 +31,9 @@ Mit jelent mindez? Azok a transz emberek, akik a tranzíció előtt érzékelhet
     '1137399651458519040'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Ez ahhoz vezethet, hogy az ember kevésbé lelkesnek vagy akár érdektelennek érzi magát a szex iránt, mivel a nemi vágy felét a helyzet mentális kontextusa teszi ki. Sok transz ember felnőttkoráig nem is tapasztalja meg a szexet, funkcionálisan szexkerülőként működnek, mivel a diszfóriájuk milyen súlyosan leállította az összes nemi vágyat. Lehet, hogy a partnerük kedvéért még mindig teljesítenek, de nem jutnak annyi élvezethez, mint amennyire képesek lennének, sőt, a feladat elvégzése érdekében a végén még a körülöttük lévő valóságtól is elszakadnak.
+Ez ahhoz vezethet, hogy az ember kevésbé lelkesnek vagy akár érdektelennek érzi magát a szex iránt, mivel a nemi vágy felét a helyzet mentális kontextusa teszi ki. Sok transz ember felnőttkoráig nem is tapasztalja meg a szexet, funkcionálisan szexkerülőként működnek, mivel a diszfóriájuk ilyen szinten visszafogta az összes nemi vágyat. Lehet, hogy a partnerük kedvéért még mindig teljesítenek, de nem jutnak annyi élvezethez, mint amennyire képesek lennének, sőt, a feladat elvégzése érdekében a végén még a körülöttük lévő valóságtól is elszakadnak.
 
-Ez a diszfória olyan jelentős lehet, hogy olyan szexuális identitást vesznek fel, amelyhez valójában nem is kötődnek. Nem ritka, hogy egy transz személy a coming out után rájön, hogy valójában sosem érezte a kapcsolatot azzal a szexuális irányultsággal, amellyel korábban azonosult, hanem inkább csak arra használta, hogy kevésbé érezze diszfóriásnak a szexuális életét.
+Ez a diszfória olyan jelentős lehet, hogy olyan szexuális identitást vesznek fel, amelyhez valójában nem is kötődnek. Nem ritka, hogy egy transz személy a kibújás után rájön, hogy valójában sosem érezte a kapcsolatot azzal a szexuális irányultsággal, amellyel korábban azonosult, hanem inkább csak arra használta, hogy kevésbé érezze diszfóriásnak a szexuális életét.
 
 Néhány transz nő például az átmenet előtt azért azonosította magát meleg férfiként, mert olyan partnerre vágyott, aki a szex során nőként kezeli őket, de amint ez az igény megszűnik, kiderül, hogy valójában leszbikusok. Mások megpróbálnak meleg férfiként élni, de úgy találják, hogy ez a szerep nem teljesíti ki őket, mert tudják, hogy a partnerük férfiként tekint rájuk.
 
@@ -59,7 +59,7 @@ Van [egy Simpsons-klip, ahol Moe Szyslakot hazugságvizsgálatnak vetik alá](ht
 
 Szégyenből és félelemből mindent megtettem, hogy elrejtsem ezt a szenvedélyt, mert egyszerűen nem tudtam elviselni, hogy valaki úgy tekintsen rám, mint egy tinédzser fiúra, aki bármire maszturbál, ami a kezébe kerül. Ami még rosszabbá tette ezt a félelmet, az az volt, hogy *még azt is hittem*, hogy az érdeklődésem szexuális jellegű.
 
-Amikor a világot egy fordított lencsén keresztül látod, minden homályosan furcsának tűnik. Az, hogy megértsem a nők iránti érdeklődésemet, a szexuális vágyon keresztül volt, és így minden női érdeklődésem szexuális vággyá torzultak. Az a vágyam, hogy menyasszony legyek, menyasszonyi perverzióvá alakult át, a vágyam, hogy gyermekem legyen, a terhességi pornó iránti érdeklődéssé torzult, és a saját igényem, hogy lány legyek, átirányult egy effajta fétisbe.
+Amikor a világot egy fordított lencsén keresztül látod, minden homályosan furcsának tűnik. Az, hogy megértsem a nők iránti érdeklődésemet, a szexuális vágyon keresztül volt, és így minden női érdeklődésem szexuális vággyá torzult. Az a vágyam, hogy menyasszony legyek, menyasszonyi perverzióvá alakult át, a vágyam, hogy gyermekem legyen, a terhességi pornó iránti érdeklődéssé torzult, és a saját igényem, hogy lány legyek, átirányult egy effajta fétisbe.
 
 De mindezek tetejébe *rémülten* láttam, hogy jogos szexuális érdeklődést fejezek ki más nők iránt. Voltak olyan férfi barátaim, akik hírhedt guminyakúak és laza szemű bámészkodók voltak; az egyik korábbi munkaadómnak szörnyű szokása volt, hogy vonzó nőket bámult, amikor együtt ebédeltünk, amitől nagyon kényelmetlenül éreztem magam, ha vele láttak.
 

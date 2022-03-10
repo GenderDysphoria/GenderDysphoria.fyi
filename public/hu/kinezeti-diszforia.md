@@ -1,7 +1,7 @@
 ---
 date: "2022-03-04T19:08:00.000Z"
-title: "Hogyan nyilvánul meg a nemi diszfória: Kinézet Diszfória"
-linkTitle: "Kinézet Diszfória"
+title: "Hogyan nyilvánul meg a nemi diszfória: Kinézeti Diszfória"
+linkTitle: "Kinézeti Diszfória"
 description: "A kapucnis pulcsi és a melegítőnadrág sose megy ki a divatból."
 preBody: '_disclaimer'
 lang: hu
@@ -20,11 +20,11 @@ tweets:
   - https://twitter.com/DameKraft/status/1191555135756853249
 ---
 
-# Kinézet Diszfória
+# Kinézeti Diszfória
 
 Ruha. Haj. Smink. Ékszerek. Szemüveg. Piercingek és egyéb testmódosítások. Még a személyes higiénia is lehet a megjelenés tényezője, például a testszőrzet borotválása, vagy az, hogy hogyan ápolod a bőröd. Mindezek a dolgok a társadalomban nemi alapúak, különösen a ruházat és a hajviselet.
 
-Bár az 1960-as évek szexuális forradalma és a 80-as évek üzleti divatőrülete csodákat tett a férfias és a nőies megjelenés közötti szakadék elmosásával (nagyrészt azáltal, hogy a férfidivatot androgünként normalizálta), még mindig óriási nyomás nehezedik a hagyományos nemi normáknak való megfelelésre. A nemek szerint nem konform öltözködést olyannyira azonnal queer-nek bélyegzik, hogy bármikor, amikor egy nő szabott öltönyt visel, leszbikusnak bélyegzik, és egy apukát, aki [felvesz egy Elsa-jelmezt, mert a fia Frozen-partit akar tartani](https://twitter.com/cbsnews/status/1088441623846023168?lang=en), felforgatónak és perverznek bélyegzik.
+Bár az 1960-as évek szexuális forradalma és a 80-as évek üzletidivat-őrülete csodákat tett a férfias és a nőies megjelenés közötti szakadék elmosásával (nagyrészt azáltal, hogy a férfidivatot androgünként normalizálta), még mindig óriási nyomás nehezedik a hagyományos nemi normáknak való megfelelésre. A nemek szerint nem konform öltözködést olyannyira azonnal queer-nek bélyegzik, hogy bármikor, amikor egy nő szabott öltönyt visel, leszbikusnak bélyegzik, és egy apukát, aki [felvesz egy Elsa-jelmezt, mert a fia Frozen-partit akar tartani](https://twitter.com/cbsnews/status/1088441623846023168?lang=en), felforgatónak és perverznek bélyegzik.
 
 A férfiak hosszú haját évtizedek óta [a rockerek lázadásának](https://www.youtube.com/watch?v=PbAoXw_DqvM) tekintik, és a hosszú hajú férfiakat úgy diszkriminálják, mint a csavargókat és csöveseket. A nők rövid haját gyakran queer-nek vagy butch-nak olvassák (kivéve, ha idősek, akkor ez elvárható), és a nőkre gyakran nyomást gyakorolnak, hogy tartsák hosszúra a hajukat. A férfiak átlyukasztott füle a 90-es években némileg normalizálódott, de még mindig a lázadás aktusának tekintik, és egyes munkáltatók nem engedik, hogy a férfiak fülbevalót viseljenek. A férfiak sminkelését annyira megbélyegzi a toxikus maszkulinitás, hogy még azok a férfiak is, akik *szeretik* a sminket, úgy érzik, nyomás nehezedik rájuk, hogy kerüljék azt.
 
@@ -32,9 +32,9 @@ Tetszik vagy sem, a kinézet nemi alapú, és rendkívül gyakori, hogy a transz
 
 **Nem minden transzfem nőies, nem minden transz férfi férfias, nem minden nem-bináris ember törekszik az androgünségre. A butch AMAB transz emberek érvényesek, a nőies AFAB transz emberek érvényesek. A megjelenés nem gender, a gender nem a megjelenés.**
 
-A kinézet diszfória jellemzően már korán megjelenik egy másik nem stílusa iránti vonzalom formájában, és abban a vágyban, hogy úgy tudj kinézni, mint az adott nemhez tartozó emberek. Ez a vágy némiképp teljesülhet azáltal, hogy uniszex stílusú ruhákat keresel, de jellemzően ez a vágy az "Nem vagyok elég magabiztos ahhoz, hogy ezt megpróbáljam" kijelentésekkel társul. Az AMAB-ok itt gyakran ütköznek problémába, ahol ez a vágy gyakran a heteronormatív elvárások mögé szorul, ami azt eredményezi, hogy a nőies megjelenés iránti érdeklődést félreértelmezik szexuális vágyként.
+A kinézeti diszfória jellemzően már korán megjelenik egy másik nem stílusa iránti vonzalom formájában, és abban a vágyban, hogy úgy tudj kinézni, mint az adott nemhez tartozó emberek. Ez a vágy némiképp teljesülhet azáltal, hogy uniszex stílusú ruhákat keresel, de jellemzően ez a vágy a "Nem vagyok elég magabiztos ahhoz, hogy ezt megpróbáljam" kijelentésekkel társul. Az AMAB-ok itt gyakran ütköznek problémába, ahol ez a vágy gyakran a heteronormatív elvárások mögé szorul, ami azt eredményezi, hogy a nőies megjelenés iránti érdeklődést félreértelmezik szexuális vágyként.
 
-A HRT kezdete utáni kinézet diszfória általában egyszerűen a nagyfokú diszkomfortérzetet jelenti, amikor az ember megpróbál a neki kijelölt nemként megjelenni. Lehet, hogy nem is arról van szó, hogy hogyan néz ki az ember, hanem csak arról, ahogyan a ruházja miatt érzi magát. A saját hormonterápiám első másfél évében nem bírtam elviselni, hogy uniszex pólókat viseljek, mert egyszerűen férfiasabbnak éreztem magam tőlük. Még most is ki kell vágnom belőlük a gallért, mert a szoros nyak miatt diszfóriát érzek egyből.
+A HRT kezdete utáni kinézeto diszfória általában egyszerűen a nagyfokú diszkomfortérzetet jelenti, amikor az ember megpróbál a neki kijelölt nemként megjelenni. Lehet, hogy nem is arról van szó, hogy hogyan néz ki az ember, hanem csak arról, ahogyan a ruhája miatt érzi magát. A saját hormonterápiám első másfél évében nem bírtam elviselni, hogy uniszex pólókat viseljek, mert egyszerűen férfiasabbnak éreztem magam tőlük. Még most is ki kell vágnom belőlük a gallért, mert a szoros nyak miatt diszfóriát érzek egyből.
 
 ### A kinézet hatással van a Testi Diszfóriára
 
@@ -51,18 +51,18 @@ Mivel ezek a szabások a férfias vagy a női formákhoz vannak rendelve, hajlam
 
 Saját magamat elég nőiesnek tartom a hozzám illő ruházatban, és már ötéves korom óta vágytam arra, hogy női ruhát viseljek. Utáltam öltönyöket viselni; gyűlöltem, ahogyan a testemre illeszkedtek, mivel mindig olyan módon húzódtak, amit nagyon helytelennek éreztem ahhoz képest, amire a testemnek szüksége van. Életem nagy részében nem voltam hajlandó farmert viselni, mert a férfi farmert mindig olyan helytelennek éreztem (a női farmer és a leggings viszont csodálatos érzés). Aztán ahogy elkezdtem a tranzíciót és elkezdtem nőiesebbnek mutatkozni, a diszfóriám újra lecsapott, mivel a testem nem felelt meg annak, ahogy a női ruhákat szabták (túl sok volt az ágyékban, túl széles és terjedelmes a vállam, túl nagy a derekam, nem elég nagy a mellkasom). Csak a második évben tapasztaltam annyi változást az alakomban, hogy a női ruhák megfelelően néztek ki az alakomhoz.
 
-Hogy néz ki a Kinézet Diszfória? Nos, nagyon hasonlít más gyakori testkép-problémákra. Hajlamos vagy kerülni mindent, ami testhezálló, és inkább a puhább anyagok és a táskásabb ruhák felé hajlasz. A klasszikus nemi diszfória megtestesítője az, aki csak melegítőnadrágot és kapucnis pulóvert hord. A ruhák túlméretezettek, hogy ne tapadjanak a testhez. Az AFAB-ok inkább viselnek kompressziós sportmelltartókat, hogy a mellkasukat eltakarják, és kerülnek minden ruhadarabot, ami szűk derékkal rendelkezik.
+Hogy mutatkozik meg a kinézeti diszfória? Nos, nagyon hasonlít más gyakori testkép-problémákra. Hajlamos vagy kerülni mindent, ami testhezálló, és inkább a puhább anyagok és a táskásabb ruhák felé hajlasz. A klasszikus nemi diszfória megtestesítője az, aki csak melegítőnadrágot és kapucnis pulóvert hord. A ruhák túlméretezettek, hogy ne tapadjanak a testhez. Az AFAB-ok inkább viselnek kompressziós sportmelltartókat, hogy a mellkasukat eltakarják, és kerülnek minden ruhadarabot, ami szűk derékkal rendelkezik.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1191555135756853249'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Belül ez leggyakrabban úgy jelentkezik, mint intenzív féltékenység azok iránt az emberek iránt, akikké szeretnél válni. Irigynek lenni egy influencer testalkata miatt, erősen vágyakozni egy utcai ember öltözéke után, és legfőképpen irigy lenni más transz emberek iránt. Ez az érzés gyakran még a tranzíció után is megmarad, mert ez az érzés, hogy más nemű emberek szeretnének lenni, valójában teljesen természetes, még a cisz emberek számára is.
+Belül ez leggyakrabban úgy jelentkezik, mint intenzív féltékenység azok iránt az emberek iránt, akikké szeretnél válni. Irigynek lenni egy influencer testalkata miatt, erősen vágyakozni egy járókelő öltözéke után, és legfőképpen irigy lenni más transz emberekre. Ez az érzés gyakran még a tranzíció után is megmarad, mert ez az érzés, hogy más nemű emberek szeretnének lenni, valójában teljesen természetes, még a cisz emberek számára is.
 
 
 ### A Kinézet hatása a Társadalmi Diszfóriára
 
-A kinézet nagyon fontos "lebukás" elkerülése szempontjából, különösen a tranzíció korai szakaszában. Sok transz ember úgy érzi, hogy szükségét érzi annak, hogy megjelenítse a nemét annak érdekében, hogy elfogadják olyannak, amilyen, és jobban hajlik a nőies vagy férfias megjelenítésre, mint amennyire valójában szeretné, annak érdekében, hogy a testét kiegyenlítse, és biztosítsa, hogy az emberek helyes névmásokat használnak. Az hormonterápia alatt lehet, hogy ez a szükséglet kevésbé lesz fontos, ahogy a testük lassan megváltozik, és képesek lesznek arra, hogy mindenféle megerőltetés nélkül is a választott nemükhöz tartozzanak.
+A kinézet nagyon fontos "lebukás" elkerülése szempontjából, különösen a tranzíció korai szakaszában. Sok transz ember úgy érzi, hogy meg kell jelenítse a nemét annak érdekében, hogy elfogadják olyannak, amilyen, és jobban hajlik a nőies vagy férfias megjelenítésre, mint amennyire valójában szeretné, annak érdekében, hogy a testét kiegyenlítse, és biztosítsa, hogy az emberek helyes névmásokat használnak. A hormonterápia alatt lehet, hogy ez a szükséglet kevésbé lesz fontos, ahogy a testük lassan megváltozik, és képesek lesznek arra, hogy mindenféle megerőltetés nélkül is a választott nemükhöz tartozzanak.
 
 A performatív megjelenítés gyakorlatilag kötelező volt a WPATH 2011-es reformja előtt; aki extrém nőies vagy férfias megjelenítés nélkül jelent meg egy orvosi rendelésen, azt kockáztatta, hogy csalónak bélyegzik, és elveszíti a kezelését a Harry Benjamin skála alapján. A transz nők valójában elvesztették az ösztrogénkúrájukat pusztán azért, mert ruha helyett farmert és blúzt viseltek, vagy mert nem sminkelték ki magukat eléggé. Ez az egyik oka annak, hogy a [transzmedikalista](https://en.wikipedia.org/wiki/Transmedicalism) ideológia miért olyan veszélyes: mindenkit, aki nem felel meg a nőiességről és férfiasságról alkotott sztereotip elképzeléseknek, nem valódi transzneműnek bélyegeznének.
 
