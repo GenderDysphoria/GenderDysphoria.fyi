@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Testi diszfória"
 linkTitle: "Testi Diszfória"
 description: "A testi diszkomfort csak egy a nemi diszfória számos megnyilvánulási formája közül."
@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: hu
 siblings:
   prev: /hu/euforia
-  prevCaption: Gender Eufória
+  prevCaption: Nemi Eufória
   next: /hu/biokemiai-diszforia
   nextCaption: Biokémiai Diszfória
 classes:
@@ -20,7 +20,7 @@ tweets:
   - '947523244948680705'
 ---
 
-# Testi Gender Diszfória
+# Testi Nemi Diszfória
 
 Mindenki hallott már a "rossz testben született" narratíváról. A fizikai diszfória a test formája miatti kellemetlen érzés, amely a test nemi jellegzetességei miatt jelentkezik. Tehát milyen testtulajdonságokról beszélünk itt?
 
@@ -45,7 +45,7 @@ Mindenki hallott már a "rossz testben született" narratíváról. A fizikai di
 
 </style>
 <div class="fact-grid ">
-  <h4>Elsõdleges Nemi Jellegek</h4>
+  <h4>Elsődleges Nemi Jellegek</h4>
   <div>
 }!}
 
@@ -99,7 +99,7 @@ Minden olyan szexuálisan másodlagos jellegzetesség, amely a pubertás alatt �
 
 A hormonterápián lévő transznemű személyek nemi szervei távolról sem úgy viselkednek, mint ciszgender társaikéik.
 
-- Az ösztrogénes pénisz felpuhul, az erekció kevésbé hangsúlyos, a bőr elvékonyodik és izzadni kezd, mint a hüvelyfal. A herezacskó megpuhul és megváltozik a színe, a gátraszerűség pedig jobban kivehetővé válik. A véletlenszerű erekciók megszűnése miatt a merevedésért felelõs szövet elsorvad, ha nem használják rendszeresen, ami idővel az egész pénisz zsugorodását okozza. A vibráció hatékonyabbá válik az izgalomban.
+- Az ösztrogénes pénisz felpuhul, az erekció kevésbé hangsúlyos, a bőr elvékonyodik és izzadni kezd, mint a hüvelyfal. A herezacskó megpuhul és megváltozik a színe, a gátraszerűség pedig jobban kivehetővé válik. A véletlenszerű erekciók megszűnése miatt a merevedésért felelős szövet elsorvad, ha nem használják rendszeresen, ami idővel az egész pénisz zsugorodását okozza. A vibráció hatékonyabbá válik az izgalomban.
 
 - Az androgén vagina szárazabbá és szakadásra hajlamossá válik (a síkosítás problémát jelenthet). A csikló bőre megvastagszik, és a csikló makkja a véletlenszerű erekció kialakulása miatt hosszában és kerületében megnő. A szeméremajkak is megvastagodnak, és gyakran szőrösebbek lesznek. A HRT kezdete gyakran a csikló rendkívüli érzékenységét eredményezi.
 
@@ -123,7 +123,7 @@ Ez megnyilvánulhat bizonyos testtulajdonságoktól való megszabadulás kénysz
 
 A nem kívánt fizikai tulajdonságok arra késztethetik az illetőt, hogy irigységet érezzen azok iránt, akik betegség miatt, például hererák vagy mellrák miatt kénytelenek eltávolítani ezeket a tulajdonságokat. A súlyos nemi diszfóriában szenvedő AMAB-ok hajlamosak arra, hogy valamilyen furcsa balesetre vágynak, amely a falloszuk elvesztését okozná.
 
-Néha egyszerűen csak a helytelenség érzése, amit nem is feltétlenül a nemhez vagy a nemi hovatartozáshoz kapcsolnak. Néhányan életük nagy részében azt hiszik, hogy azért utálják a testüket, mert kövérnek látják magukat. Csak akkor jönnek rá, amikor elkezdik az hormonterápiát; akkor rájönnek, hogy egyáltalán nem utálják a kövérséget, hanem hogy *férfi* kövérségük van. A női alak, amelyeket a HRT ad, sokkal inkább összhangban van testükkel.
+Néha egyszerűen csak a helytelenség érzése, amit nem is feltétlenül a nemhez vagy a nemi hovatartozáshoz kapcsolnak. Néhányan életük nagy részében azt hiszik, hogy azért utálják a testüket, mert kövérnek látják magukat. Csak akkor jönnek rá, amikor elkezdik a hormonterápiát; rájönnek, hogy egyáltalán nem utálják a kövérséget, hanem hogy *férfi* kövérségük van. A női alak, amelyet a HRT ad, sokkal inkább összhangban van testükkel.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
@@ -138,7 +138,7 @@ Nem baj, ha semmit sem utálsz a testeddel kapcsolatban, és csak azt kívánod,
 
 Rendben van, ha csak néhány aspektusát utálod a testednek, és nem kívánod megváltoztatni az összes szexuális jellemződet.
 
-Rendben van, ha nincs szükséged *egyáltalán* hormonterápiára. A testérzelmek nem az hormonterápia mindent eldöntő elemei.
+Rendben van, ha nincs szükséged *egyáltalán* hormonterápiára. A testérzelmek nem a hormonterápia mindent eldöntő elemei.
 
 **A teljes testi diszfória nem feltétele a transzneműségnek. Az AFAB-oknak nem kell utálniuk a mellkasukat, az AMAB-oknak nem kell utálniuk a péniszüket. Minden transz ember tapasztalata más és más. Mindegyik érvényes.**
 

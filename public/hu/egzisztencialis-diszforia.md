@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Egzisztenciális Diszfória"
 linkTitle: "Egzisztenciális Diszfória"
 description: "Nem azokat a dolgokat bánom, amiket megtettem, hanem azokat, amiket nem tettem meg, amikor lehetőségem volt rá."
@@ -8,17 +8,17 @@ classes:
   - gdb
 preBody: '_disclaimer'
 siblings:
-  prev: /hu/kinezet-diszforia
-  prevCaption: Kinézet Diszfória
+  prev: /hu/kinezeti-diszforia
+  prevCaption: Kinézeti Diszfória
   next: /hu/kezelt-diszforia
   nextCaption: Kezelt Diszfória
 ---
 
 # Egzisztenciális Diszfória
 
-Ha nem olyan neműként nősz fel, amilyen valójában vagy, akkor sok lehetõségrõl lemaradsz, ami a többieknek mind elérhetõ volt, és neked is az lehetett volna, ha az emberek hamarabb tudták volna, mi történik veled. Pizsamapartik, táborozások, bevásárlókörutak, szurkolás vagy sportolás. A koedukált eseményekhez nagyon különböző érzések kapcsolódhatnak attól függően, hogy hogyan veszel részt bennük, mint például a szalagavató bál, vallási szertartások, vagy akár csak az udvarlás menete. Ez a diszfória biológiai eredetű is lehet, például annak a bánata, amiért nem tudsz szülni vagy nem szoptathatod a gyermekeid.
+Ha nem olyan neműként nősz fel, amilyen valójában vagy, akkor sok lehetőségről lemaradsz, ami a többieknek mind elérhető volt, és neked is az lehetett volna, ha az emberek hamarabb tudták volna, mi történik veled. Pizsamapartik, táborozások, bevásárlókörutak, szurkolás vagy sportolás. A koedukált eseményekhez nagyon különböző érzések kapcsolódhatnak attól függően, hogy hogyan veszel részt bennük, mint például a szalagavató bál, vallási szertartások, vagy akár csak az udvarlás menete. Ez a diszfória biológiai eredetű is lehet, például annak a bánata, amiért nem tudsz szülni vagy nem szoptathatod a gyermekeid.
 
-Ezek az elszalasztott lehetőségek a veszteség és a sértettség érzésében nyilvánulhatnak meg. Továbbá olyan dolgok is keserû emlékeket ébreszthetnek, amelyekhez *lett volna lehetõséged*; vagy olyan események, amelyeket nem a megfelelő nemûként éltél meg. Képzeld el, hogy vőlegénynek kell lenned az esküvődön, miközben tudod, hogy neked kellett volna a menyasszonynak lenned; felnőve a tökéletes esküvődről álmodtál, majd rossz szerepet játszottál benne.
+Ezek az elszalasztott lehetőségek a veszteség és a sértettség érzésében nyilvánulhatnak meg. Továbbá olyan dolgok is keserű emlékeket ébreszthetnek, amelyekhez *lett volna lehetőséged*; vagy olyan események, amelyeket nem a megfelelő neműként éltél meg. Képzeld el, hogy vőlegénynek kell lenned az esküvődön, miközben tudod, hogy neked kellett volna a menyasszonynak lenned; felnőve a tökéletes esküvődről álmodtál, majd rossz szerepet játszottál benne.
 
 Néha a diszfória egzisztenciálisan is megnyilvánulhat: az elvesztett fiatalság minden bánatával sújtva téged. Az összes randevú, a tinédzser bohóckodás, a bulik, sőt, még az is, hogy a megfelelő testrészekkel lehetett volna szexuálisan élni, amíg a tested fiatal volt, és nem volt felelősséged. Ez olyan idő, amit soha nem lehet visszanyerni.
 

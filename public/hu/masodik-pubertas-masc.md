@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Androgén Második Pubertás Alapjai"
 linkTitle: Androgén Második Pubertás
 description: "Mire számítsunk a maszkulinizáló hormonterápiától?"
@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: hu
 siblings:
   prev: /hu/hormonok
-  prevCaption: Hormonok Mûködése
+  prevCaption: Hormonok Működése
   next: /hu/masodik-pubertas-fem
   nextCaption: Ösztrogén-indukált Második Pubertás Alapjai
 classes:
@@ -30,7 +30,7 @@ tweets:
 
 ## Mire számítsunk a maszkulinizáló hormonterápiától?
 
-Ez egy összeállítás az tesztoszteron alapú hormonterápiát szedő AFAB transz emberek beszámolóiból, valamint bejelentett orvosi tranzícióból származó változásokról. Ezeket az információkat a közösségi médiából és chatszobákból gyűjtöttük össze. Igen, ez azt jelenti, hogy ez mind anekdotikus, de történelmileg a legtöbb transznemű orvosi tanulmány anekdotikus, mert senki sem akarja finanszírozni a transznemű orvosi kutatásokat.
+Ez egy összeállítás a tesztoszteron alapú hormonterápiát szedő AFAB transz emberek beszámolóiból, valamint bejelentett orvosi tranzícióból származó változásokról. Ezeket az információkat a közösségi médiából és chatszobákból gyűjtöttük össze. Igen, ez azt jelenti, hogy ez mind anekdotikus, de történelmileg a legtöbb transznemű orvosi tanulmány anekdotikus, mert senki sem akarja finanszírozni a transznemű orvosi kutatásokat.
 
 **Megjegyzendő, hogy ez a lista a _lehetséges_ változások listája. Nincs garancia arra, hogy minden maszkulinizáló HRT-t szedő személy mindezeket megtapasztalja. A korod, genetikád, kórtörténeted, a születési pubertáskori feminizációd mértéke és a hormonkezelés mind hatással lehet az eredményekre. Van egy bizonyos fokú véletlenszerűség is -- minden test más -- és néhány dolog akár évek múlva jelenhet meg.**
 
@@ -46,7 +46,7 @@ Ez *nem* jelenti azt, hogy a hangod automatikusan férfiként fog hallatszódni.
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Az androgének fokozzák a végtagok vérellátását, így azok melegebbek lesznek. Emiatt a férfiaknak hűvösebb a belsõ testhõmérsékletük, de melegebb a szájüregük. Előfordulhat, hogy megemelkedik a test alaphőmérséklete. A nettó eredmény az, hogy *melegebbnek* érzed magad, és valószínűleg nem lesz szükség olyan réteges öltözködésre, mint korábban. Ha hideg éghajlaton élsz, szabadon hagyott boka segíthet a hőleadásban anélkül, hogy túlságosan lehűlnél.
+Az androgének fokozzák a végtagok vérellátását, így azok melegebbek lesznek. Emiatt a férfiaknak hűvösebb a belső testhőmérsékletük, de melegebb a szájüregük. Előfordulhat, hogy megemelkedik a test alaphőmérséklete. A nettó eredmény az, hogy *melegebbnek* érzed magad, és valószínűleg nem lesz szükség olyan réteges öltözködésre, mint korábban. Ha hideg éghajlaton élsz, szabadon hagyott boka segíthet a hőleadásban anélkül, hogy túlságosan lehűlnél.
 
 Ez a változás gyakran elég korán bekövetkezik; számíts éjszakai izzadásra, amíg a szervezeted hozzászokik.
 
@@ -56,7 +56,7 @@ A hőmérséklet-eloszlás fenti eltolódásával együtt ez jelentős változá
 
 ### Testszag
 
-Gyakran az egyik első dolog, ami megváltozik: az izzadtság és az általános testszag sokkal erősebb lesz, különösen edzés közben. A szag savanykásabb, pézsmaillatú lesz. Idővel általában kiegyenlítődik.
+Gyakran az egyik első dolog, ami megváltozik: az izzadság és az általános testszag sokkal erősebb lesz, különösen edzés közben. A szag savanykásabb, pézsmaillatú lesz. Idővel általában kiegyenlítődik.
 
 ### Testszőrzet, mindenhol
 
@@ -70,9 +70,9 @@ A szintetikus androgén [nandrolon](https://en.wikipedia.org/wiki/Nandrolone) ne
 
 ### Vastagabb és olajosabb bőr
 
-A tesztoszteron elősegíti az külsõ bõrréteg megvastagodását és keményedését, amitõl a bőr durvább lesz. Ahogy az ösztrogénszint csökken, a szervezet kevesebb kollagént termel. Ezáltal a bőr keményebbé és szárazabbá válik (különösen a térd és a könyök területén). A kezeken, karokon és lábakon a vénák láthatóbbak lesznek, de nem lesznek visszeresek.
+A tesztoszteron elősegíti a külső bőrréteg megvastagodását és keményedését, amitől a bőr durvább lesz. Ahogy az ösztrogénszint csökken, a szervezet kevesebb kollagént termel. Ezáltal a bőr keményebbé és szárazabbá válik (különösen a térd és a könyök területén). A kezeken, karokon és lábakon a vénák láthatóbbak lesznek, de nem lesznek visszeresek.
 
-Számíts arra, hogy az arcod és a fejbőröd zsírosabb lesz. A pattanások valószínűleg meg fognak jelenni, és nem csak az arcon. Ez általában közvetlenül az tesztoszteron adagolása után lesz a legrosszabb. Ez általában javul az első néhány év után.
+Számíts arra, hogy az arcod és a fejbőröd zsírosabb lesz. A pattanások valószínűleg meg fognak jelenni, és nem csak az arcon. Ez általában közvetlenül a tesztoszteron adagolása után lesz a legrosszabb. Ez általában javul az első néhány év után.
 
 ### Nagyobb kezek/lábak
 
@@ -88,11 +88,11 @@ Mind a körmök, mind a lábkörmök vastagabbá válnak idővel, mivel a kerati
 
 Az androgének serkentik az izomnövekedést, ezért van az, hogy az anabolikus szteroidok (amelyek szó szerint a tesztoszteron) annyira elterjedtek a testépítők körében. A test természetes módon több izmot nyer anélkül, hogy edzeni kellene, de az edzéssel *jelentős* izomnövekedés érhető el, különösen a karokon és a vállon. Vigyázat, eleinte nem fogod tudni, hogy milyen erős vagy.
 
-Az újonnan megjelenõ felsõtesti izomzat újradefiniálja a váll és a nyak vonalát, férfiasabb sziluettet hozva létre. Emellett javul a szervezet zsírfeldolgozó képessége, ami megkönnyíti a fogyást.
+Az újonnan megjelenő felsőtesti izomzat újradefiniálja a váll és a nyak vonalát, férfiasabb sziluettet hozva létre. Emellett javul a szervezet zsírfeldolgozó képessége, ami megkönnyíti a fogyást.
 
 ### A zsír újraelosztása
 
-Míg az ösztrogén arra ösztönzi a szervezetet, hogy a zsírokat a combokba, a fenékbe és a csípőbe rakja le, addig az androgének arra ösztönzik a szervezetet, hogy a zsírokat nagyrészt a hasban tárolja. A tesztoszteron beindítása arra ösztönzi a szervezetet, hogy kövesse az férfiasabb sziluettet, így számíthatsz arra, hogy hízáskor egybõl a hasba kerül a zsír, míg a fogyás egységesen mindenhonnan vesz el. A mellek, a combok és a fenék zsírja lassan eltolódik, ahogy az izomzat felépül, de ez sokáig eltarthat.
+Míg az ösztrogén arra ösztönzi a szervezetet, hogy a zsírokat a combokba, a fenékbe és a csípőbe rakja le, addig az androgének arra ösztönzik a szervezetet, hogy a zsírokat nagyrészt a hasban tárolja. A tesztoszteron beindítása arra ösztönzi a szervezetet, hogy kövesse a férfiasabb sziluettet, így számíthatsz arra, hogy hízáskor egyből a hasba kerül a zsír, míg a fogyás egységesen mindenhonnan vesz el. A mellek, a combok és a fenék zsírja lassan eltolódik, ahogy az izomzat felépül, de ez sokáig eltarthat.
 
 ### Arcvonások változása
 
@@ -106,7 +106,7 @@ A nagyobb tömeg több vért jelent a vegyi anyagok hígításához. A növekvő
 
 ### Mentális változások
 
-Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agy egy bizonyos hormonprofilra van bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségû akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
+Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agy egy bizonyos hormonprofilra van bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségű akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
 
 ##### ADHD
 
@@ -155,7 +155,7 @@ Rendkívül gyakori, hogy a transz emberek sokkal társaságkedvelőbbnek talál
 </div>
 }!}
 
-Minden nemi szerv ugyanabból a szövetből épül fel, csupán a terhesség során másképp szerveződnek. Ezek a szövetek viselkedésének nagy részét a saját testünk hormonjai szabályozzák. A bőrváladék, a textúra, az érzékenység és a merevedési viselkedés mind hormonális válaszreakciók. Ez azt jelenti, hogy amikor tesztoszteron lesz a domináns hormon, ezek a szövetek elkezdenek úgy viselkedni, mintha pénisz és herezacskók lennének, még akkor is, ha nem azok.
+Minden nemi szerv ugyanabból a szövetből épül fel, csupán a terhesség során másképp szerveződnek. Eme szövetek viselkedésének nagy részét a saját testünk hormonjai szabályozzák. A bőrváladék, a textúra, az érzékenység és a merevedési viselkedés mind hormonális válaszreakciók. Ez azt jelenti, hogy amikor tesztoszteron lesz a domináns hormon, ezek a szövetek elkezdenek úgy viselkedni, mintha pénisz és herezacskók lennének, még akkor is, ha nem azok.
 
 ##### Fenéknövekedés
 
@@ -172,7 +172,7 @@ A klitorisz és a szeméremajkak idővel szárazabbá és vastagabbá válnak, �
   '1431244926214356993'
 ] tweets=meta.tweets className="grid-row" }} }!}
 
-##### Fokozott válladékkibocsájtás orgazmus alatt
+##### Fokozott váladékkibocsájtás orgazmus alatt
 
 A prosztata megduzzadásával együtt több prosztatafolyadék is keletkezik. Ha korábban nem voltál spriccelős, most azzá válhatsz.
 

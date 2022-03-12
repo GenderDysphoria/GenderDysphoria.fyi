@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Gender Diszfória Kezelése"
+date: "2022-03-04T19:08:00.000Z"
+title: "Nemi Diszfória Kezelése"
 description: "A tranzíció a gyógymód."
 preBody: '_disclaimer'
 lang: hu
@@ -8,20 +8,20 @@ siblings:
   prev: /hu/klinikai-diagnozisok
   prevCaption: Klinikai Diagnózisok
   next: /hu/okok
-  nextCaption: A Gender Diszfória okai
+  nextCaption: A Nemi Diszfória okai
 classes:
   - gdb
 ---
 
-# Hogyan kezelik a gender diszfóriát?
+# Hogyan kezelik a nemi diszfóriát?
 
-A kezelési lehetőségek jelentősen eltérnek az adott személy igényeitől függően. Minden egyes tranzíció egyedi, és az tranzíciónak nincs kizárólag egyetlen módja. Ez a szakasz a lehetséges utakat sorolja fel.
+A kezelési lehetőségek jelentősen eltérnek az adott személy igényeitől függően. Minden egyes tranzíció egyedi, és a tranzíciónak nincs kizárólag egyetlen módja. Ez a szakasz a lehetséges utakat sorolja fel.
 
 ### Társadalmi tranzíció
 
-Egy mondatban megfogalmazva: Elõbújni. Ez egyszerűen azt jelenti, hogy bejelented a világnak, hogy transznemű vagy. Bejelented, hogy új nevet és/vagy új névmást kívánsz használni - vagy nem, lehet, hogy csak azt szeretnéd, hogy az emberek tudják, hogy transz vagy, és valójában nem a hozzád rendelt bináris nemmel azonosulsz. Néhány nem bináris ember számára ez még csak nem is jelenti a teljes eltávolodást a hozzárendeléstől, mivel a nem egy spektrum, és létezik olyan, hogy "nem-bináris férfi" és "nem-bináris nő".
+Egy mondatban megfogalmazva: Előbújni. Ez egyszerűen azt jelenti, hogy bejelented a világnak, hogy transznemű vagy. Bejelented, hogy új nevet és/vagy új névmást kívánsz használni - vagy nem, lehet, hogy csak azt szeretnéd, hogy az emberek tudják, hogy transz vagy, és valójában nem a hozzád rendelt bináris nemmel azonosulsz. Néhány nem bináris ember számára ez még csak nem is jelenti a teljes eltávolodást a hozzárendeléstől, mivel a nem egy spektrum, és létezik olyan, hogy "nem-bináris férfi" és "nem-bináris nő".
 
-A társadalmi tranzíció az elõbújás fontos része, és ez sok stresszt enyhíthet utána.
+A társadalmi tranzíció az előbújás fontos része, és ez sok stresszt enyhíthet utána.
 
 ### Jogi tranzíció
 
@@ -29,7 +29,7 @@ Ez az a folyamat, amelynek során a jogi dokumentumokat úgy változtatjuk meg, 
 
 ### Kinézeti tranzíció
 
-Ezek a stílusodnak megváltoztatását jelentik, legyen szó ruházatáról, hajáról vagy sminkhasználatáról. Társadalmunk mindezeket a dolgokat erősen genderezi, és a megjelenés megváltoztatása egyrészt megerősíti önmagunkat, másrészt jelzést küld a környezetünknek arról, hogyan kívánjuk, hogy megszólítsák őket.
+Ezek a stílusodnak megváltoztatását jelentik, legyen szó ruházatáról, hajáról vagy sminkhasználatáról. Társadalmunk mindezeket a dolgokat erősen genderezi, és a megjelenés megváltoztatása egyrészt megerősíti önmagunkat, másrészt jelzést küld a környezetünknek arról, hogyan kívánjuk, hogy megszólítsanak bennünket.
 
 ### Orvosi tranzíció
 

@@ -1,13 +1,13 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Eufória"
-linkTitle: "Gender Eufória"
+linkTitle: "Nemi Eufória"
 description: "Ahhoz, hogy árnyék legyen, valahol fénynek kell lennie."
 preBody: '_disclaimer'
 lang: hu
 siblings:
   prev: /hu/tortenelmi-attekintes
-  prevCaption: Történelmi áttekintés a Gender Diszfóriáról
+  prevCaption: Történelmi áttekintés a Nemi Diszfóriáról
   next: /hu/testi-diszforia
   nextCaption: Testi Diszfória
 classes:
@@ -19,11 +19,11 @@ tweets:
   - https://twitter.com/ErinInTheMorn/status/1228165767264256003
 ---
 
-# Gender Eufória
+# Nemi Eufória
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Eu·fó·ri·a</strong> - <em>Fõnév</em><br>
+  <strong>Eu·fó·ri·a</strong> - <em>Főnév</em><br>
   Az intenzív izgalom és boldogság érzése vagy állapota. Elragadtatás, öröm, vidámság.
 </blockquote></div>
 }!}

@@ -1,7 +1,7 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Hormonok Mûködése"
-linkTitle: "Hormonok Mûködése"
+date: "2022-03-04T19:08:00.000Z"
+title: "Hormonok Működése"
+linkTitle: "Hormonok Működése"
 description: "Kulcsok és zárak"
 preBody: '_disclaimer'
 lang: hu
@@ -14,9 +14,9 @@ classes:
   - gdb
 ---
 
-# Hormonok Mûködése
+# Hormonok Működése
 
-Amint azt a [Gender Diszfória okai](/hu/okok) részben leírtuk, minden ember DNS-e tartalmazza a férfi és a női test genetikai utasításait; azt, hogy melyik utasításcsomagot használják, az irányítja, hogy a mirigyek milyen hormonokat termelnek. Ez a differenciálódás teljes mértékben azon alapul, hogy van-e véletlenül SRY géned, amely a terhesség 6-8. hetében elindít egy láncreakciót, amely heréket termel petefészek helyett. Ettől kezdve az emberi test minden szexuális tulajdonsága (elsődleges és másodlagos) az ezen ivarmirigyek által termelt hormonok eredménye.
+Amint azt a [Nemi Diszfória okai](/hu/okok) részben leírtuk, minden ember DNS-e tartalmazza a férfi és a női test genetikai utasításait; azt, hogy melyik utasításcsomagot használják, az irányítja, hogy a mirigyek milyen hormonokat termelnek. Ez a differenciálódás teljes mértékben azon alapul, hogy van-e véletlenül SRY géned, amely a terhesség 6-8. hetében elindít egy láncreakciót, amely heréket termel petefészek helyett. Ettől kezdve az emberi test minden szexuális tulajdonsága (elsődleges és másodlagos) az ezen ivarmirigyek által termelt hormonok eredménye.
 
 Ha ösztrogéneket (elsősorban ösztradiolt) termelnek, akkor a nemi szervekből vulva, vagina és méh alakul ki. Ha androgéneket (elsősorban tesztoszteront) termelnek, akkor a nemi szervek pénisszé és herezacskóvá alakulnak, a [Skene-mirigy](https://en.wikipedia.org/wiki/Skene%27s_gland) lefelé tolódik és prosztatává nagyodik. A differenciálódás itt véget ér a pubertás kezdetéig 9-10 évvel később, és mindannyian tudjuk, hogy akkor kivel mit csinál a pubertás.
 
@@ -80,7 +80,7 @@ Az ösztradiol a feminizáló hormon, mivel ez az elsődleges jelzőhormon az em
 
 Az ösztron szerepe a szervezetben az orvosi kutatások során némi fejtörést okozott, mivel az ösztradiolhoz képest lényegesen alacsonyabb kötődési affinitással rendelkezik (0,6%) és nagyon alacsony transzaktivációs képességgel (4%). Úgy tűnik, hogy a hormon nem *csinál* semmit, csak a véráramban van. Azonban egyedülálló képessége van arra, hogy egy [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase) nevű enzimcsoporton keresztül átalakuljon ösztradiollá vagy ösztradiolból, így ideálisan alkalmas arra, hogy ösztrogénakkumulátorként működjön a szervezetben.
 
-Új kutatások alapján úgy tûnik, hogy a szervezet úgy szabályozhatja a teljes ösztradiolszintet, hogy felszabadítja a HSD17B1-et, hogy az ösztradiolt ösztronná alakítsa, és felszabadítja a HSD17B2-t, hogy visszaalakítsa, azonban ez még nagyon korai tanulmány. Mindkét enzim az emlőszövetben termelődik, és szerepet játszhatnak a ciklikus periódusszerű tünetek jelenlétében olyan ösztrogénnel rendelkező egyéneknél, akiknek nincsenek petefészkei, például a transz nőknél.
+Új kutatások alapján úgy tűnik, hogy a szervezet úgy szabályozhatja a teljes ösztradiolszintet, hogy felszabadítja a HSD17B1-et, hogy az ösztradiolt ösztronná alakítsa, és felszabadítja a HSD17B2-t, hogy visszaalakítsa, azonban ez még nagyon korai tanulmány. Mindkét enzim az emlőszövetben termelődik, és szerepet játszhatnak a ciklikus periódusszerű tünetek jelenlétében olyan ösztrogénnel rendelkező egyéneknél, akiknek nincsenek petefészkei, például a transz nőknél.
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Csak, hogy tudd</h4> }!}
 
@@ -104,7 +104,7 @@ Az elsődleges progesztogin a [progeszteron](https://hu.wikipedia.org/wiki/S%C3%
 
 A progesztogin receptor egyik legnagyobb szerepe a gonádok (petefészkek és herék) működésének szabályozásában van. A hipotalamusz erősen reagál aktiválásukra, leszabályozva a [GnRH](https://hu.wikipedia.org/wiki/Gonadotropinfelszabad%C3%ADt%C3%B3_hormon) termelését, ami aztán csökkenti a [luteinizáló hormon](https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon) termelését az agyalapi mirigyben.
 
-Az LH az, ami a petefészkeknek és a heréknek ösztrogén vagy androgén termelésére utasítja őket. Az LH és testvérhormonja, az [FSH](https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon) egyaránt központi szerepet játszik az ovulációban, amely a petefészek-kezelők másik nagy ösztrogénforrása. Ezért a születésszabályozásban gyakran szerepelnek szintetikus progesztinek, a progesztoginreceptorokhoz illeszkedő vegyi anyagok, hogy megakadályozzák az ovulációt. Az AMAB-okban a progesztoginok hasznos eszközként szolgálnak a tesztoszterontermelés blokkolásához.
+Az LH az, ami a petefészkeknek és a heréknek ösztrogén vagy androgén termelésére ad ki parancsot. Az LH és testvérhormonja, az [FSH](https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon) egyaránt központi szerepet játszik az ovulációban, amely a petefészek-kezelők másik nagy ösztrogénforrása. Ezért a születésszabályozásban gyakran szerepelnek szintetikus progesztinek, a progesztoginreceptorokhoz illeszkedő vegyi anyagok, hogy megakadályozzák az ovulációt. Az AMAB-okban a progesztoginok hasznos eszközként szolgálnak a tesztoszterontermelés blokkolásához.
 
 Egy másik sejttípus, amely tele van progesztoginreceptorokkal, az emlőszövet. A progeszteron fontos szerepet játszik a tejcsatornák növekedésében és érésében az emlőszövetben. Bár kevés hivatalos kutatást végeztek a progeszteron mellfejlődésre gyakorolt hatásáról, széles körben megfigyelték a transzfem közösségben, hogy jelentős javulást biztosít a mell növekedésében. A progeszteron bizonyítottan növeli a mellszövet vérellátását, és ösztönzi a zsírlerakódást a mellekben; mindkettő hatás növeli a mell méretét.
 

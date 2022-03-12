@@ -1,7 +1,7 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Ösztrogén-indukált Második Pubertás Alapjai"
-linkTitle: Estrogenic Puberty
+linkTitle: Ösztrogén-indukált pubertás
 description: "Mire számítsunk a feminizáló hormonterápiától?"
 preBody: '_disclaimer'
 lang: hu
@@ -24,13 +24,13 @@ Ez egy összeállítás az ösztrogén alapú hormonterápiát szedő AMAB trans
 
 ### Mellnövekedés
 
-A közvélekedés ellenére a transzfemek többsége nem végez mellnagyobbítást, mivel az gyakran nem szükséges (és sokak számára nem is elérhető). Minden ember mellszövettel születik, az egyszerűen csak inaktív marad ösztrogén nélkül, így nem nõ meg. A fejlődés jellemzően 2-5 évig tart, de akár több mint tíz évig is folytatódhat, ugyanúgy, mint a ciszgender nők esetében.
+A közvélekedés ellenére a transzfemek többsége nem végez mellnagyobbítást, mivel az gyakran nem szükséges (és sokak számára nem is elérhető). Minden ember mellszövettel születik, az egyszerűen csak inaktív marad ösztrogén nélkül, így nem nő meg. A fejlődés jellemzően 2-5 évig tart, de akár több mint tíz évig is folytatódhat, ugyanúgy, mint a ciszgender nők esetében.
 
 Számíts mellkasi fájdalmakra, valamint érzékenységre az areola körüli és mögötti területen. Kerüld, hogy bárminek nekiüsd a melled, mert *fájni fog*. A mellbimbók sokkal érzékenyebbek lesznek, miközben nagyobbá és sötétebbé válnak. Érdemes lesz beruházni néhány sportmelltartóba.
 
 Ez együtt járhat tejeléssel. Némi váladékozás normális és várható, ahogy a tejcsatornák kialakulnak és megnyílnak, így nincs ok az aggodalomra. A szándékos stimuláció nélküli jelentős mértékű váladékozás azonban a prolaktin egyensúlyhiány jele lehet, ezért ha ez előfordul, szólj az orvosodnak.
 
-### Puhább bõr
+### Puhább bőr
 
 A tesztoszteron elősegíti a hám megvastagodását és megkeményedését, így annak hiánya vékonyabbá teszi a bőrt. Ezenkívül az ösztrogén elősegíti a kollagéntermelést, ami miatt a bőr lágyabbá, irizálóbbá válik. Számíts rá, hogy a lábad visszeres lehet. Az idővel esetleg elhalványult tetoválások merészebbek és világosabbak lehetnek.
 
@@ -38,7 +38,7 @@ A tesztoszteron hiánya a bőrzsír csökkenését is okozza, különösen az ar
 
 ### Fokozott rugalmasság
 
-A tesztoszteron visszatartja a vizet az izmokban és az inakban, így azok kevésbé lesznek rugalmasak. A tesztoszteron hiánya azt eredményezi, hogy az test felszabadítja ezeket a folyadékokat és a test visszanyeri valamennyi rugalmasságát.
+A tesztoszteron visszatartja a vizet az izmokban és az inakban, így azok kevésbé lesznek rugalmasak. A tesztoszteron hiánya azt eredményezi, hogy a test felszabadítja ezeket a folyadékokat és a test visszanyeri valamennyi rugalmasságát.
 
 ### Karcsúbb ujjak és vékonyabb csukló
 
@@ -74,7 +74,7 @@ A hőmérséklet-eloszlás fenti eltolódása változást hoz az izzadás módj�
 
 ### A testszag csökkenése és/vagy megváltozása
 
-A férfi testszag egyik fő összetevője a [szteroid feromon androstadienon](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) jelenléte az izzadságban. Az androsztadienon közvetlenül a tesztoszteronból metabolizálódik, így a tesztoszteron leállításával ez teljesen eltûnik. Enélkül az izzadság sokkal édesebb illatot vesz fel, amit gyakran a női szagoknak tulajdonítanak.
+A férfi testszag egyik fő összetevője a [szteroid feromon androstadienon](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) jelenléte az izzadságban. Az androsztadienon közvetlenül a tesztoszteronból metabolizálódik, így a tesztoszteron leállításával ez teljesen eltűnik. Enélkül az izzadság sokkal édesebb illatot vesz fel, amit gyakran a női szagoknak tulajdonítanak.
 
 A spironolaktont szedőknél előfordulhat, hogy teljesen megszűnik minden testszag, mivel a gyógyszer megváltoztatja a kortizol felvételét a szervezetben.
 
@@ -86,13 +86,13 @@ Ezzel együtt jár az erő jelentős csökkenése is. Cipelni nehezebb lesz, az 
 
 ### A zsír újraelosztódása 
 
-A tesztoszteron arra ösztönzi a szervezetet, hogy a zsírokat a hasba helyezze el; míg az ösztrogén arra, hogy a combokba, a fenékbe és a csípőbe rakja le. A hormonterápia hatására az ösztrogénprofilnak megfelelően új zsírok rakódnak le, és az tesztoszteron alatt elraktározott zsírok lebomlanak. Ez a zsírvándorlás illúzióját kelti, ahogy a test alakja megváltozik. A derékvonal összezsugorodik és a bordák alatt alakul ki ismét, a has pedig laposabbá válik.
+A tesztoszteron arra ösztönzi a szervezetet, hogy a zsírokat a hasba helyezze el; míg az ösztrogén arra, hogy a combokba, a fenékbe és a csípőbe rakja le. A hormonterápia hatására az ösztrogénprofilnak megfelelően új zsírok rakódnak le, és a tesztoszteron alatt elraktározott zsírok lebomlanak. Ez a zsírvándorlás illúzióját kelti, ahogy a test alakja megváltozik. A derékvonal összezsugorodik és a bordák alatt alakul ki ismét, a has pedig laposabbá válik.
 
-Mivel az ösztrogén sokkal lejjebb rakja le a súlyt a testen, és a felsőtest izomtömege elvész, ez csökkenti a súlypontot, ami megváltoztatja a járást. Természetesebbé válik, hogy a testet járás közben a csípővel támasztjuk ki, szemben a vállakkal.
+Mivel az ösztrogén sokkal lejjebb rakja le a súlyt a testen, és a felsőtest izomtömege elvész, ez csökkenti a súlypontot, ami megváltoztatja a járást. Természetesebbé válik, hogy a testet járás közben a csípővel támasztjuk ki, mintsem a vállakkal.
 
 ### Az arcvonások megváltozása
 
-A testzsír vándorlásával együtt az arc zsírja is vándorol. A nyak, az áll és az állkapocsvonal elvékonyodik, míg az ajkak és az arc felső része felpuffad. A szemöldök és a felső szemhéj megemelkedik, így a szem nagyobbnak fog tûnni. A szem körüli bőr és izomzat változásai megváltoztathatják a szemgolyó alakját, ezzel változtatva a látás tisztaságát. A szem színe is megváltozhat és merészebbé válhat, mivel a tesztoszteron hatására az írisz pigmentációja elhalványul.
+A testzsír vándorlásával együtt az arc zsírja is vándorol. A nyak, az áll és az állkapocsvonal elvékonyodik, míg az ajkak és az arc felső része felpuffad. A szemöldök és a felső szemhéj megemelkedik, így a szem nagyobbnak fog tűnni. A szem körüli bőr és izomzat változásai megváltoztathatják a szemgolyó alakját, ezzel változtatva a látás tisztaságát. A szem színe is megváltozhat és merészebbé válhat, mivel a tesztoszteron hatására az írisz pigmentációja elhalványul.
 
 Ez egy rendkívül finom és lassú folyamat, amely évekig tart, és könnyű azt hinni, hogy egyáltalán nem változik semmi. Készíts gyakran szelfiket az összehasonlításhoz.
 
@@ -114,7 +114,7 @@ A kevesebb testtömeg kevesebb vért jelent a vegyi anyagok feldolgozásához. A
 
 ### Mentális változások
 
-Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agyak egy bizonyos hormonprofilra vannak bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségû akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
+Amint azt a [Biokémiai diszfória](/hu/biokemiai-diszforia) szakaszban tárgyaltuk, az agyak egy bizonyos hormonprofilra vannak bekábelezve, és a rossz profillal való működés olyan, mintha egy laptopot használnánk alacsony töltöttségű akkumulátorral vagy túlmelegedett processzorral. A HRT elkezdése szinte minden esetben a deperszonalizációs és derealizációs (DPDR) tünetek megszűnését eredményezi az első két héten belül. A mentális köd felszáll, és könnyebbé válik az összetett fogalmakra való koncentrálás (feltéve, hogy emellett nincs más mentális feldolgozási nehézséged, például ADHD).
 
 ##### ADHD
 
@@ -156,14 +156,14 @@ Rendkívül gyakori, hogy a transz emberek mindenféle típusban sokkal szociáb
 
 ### Fejlettebb érzékelés
 
-[Több kutatás megerõsíti](https://academic.oup.com/cercor/article/28/5/1582/3064956), hogy a hormonterápia változásokat hoz az agy szürke- és fehérállományának eloszlásában. A hormonprofilok változása következtében új idegpályák alakulnak ki, és ez az érzékelés megváltozását eredményezi. Ezek azonban bár jól megfigyelt és dokumentált események, de nem világos, hogy ez maguktól a hormonoktól lesz-e így, vagy attól, hogy az agy megkapja-e a neki szánt hormonokat.
+[Több kutatás megerősíti](https://academic.oup.com/cercor/article/28/5/1582/3064956), hogy a hormonterápia változásokat hoz az agy szürke- és fehérállományának eloszlásában. A hormonprofilok változása következtében új idegpályák alakulnak ki, és ez az érzékelés megváltozását eredményezi. Ezek azonban bár jól megfigyelt és dokumentált események, nem világos, hogy ez maguktól a hormonoktól lesz-e így, vagy attól, hogy az agy megkapja-e a neki szánt hormonokat.
 
 - **Fejlettebb szaglás**, különösen más testek szaglása. Az emberi izzadság nagyon érezhetővé válik, sőt időnként túltengő.
 - **Fejlettebb színérzékelés**. A színek élénkebbé, gazdagabbá válhatnak.
 - **Fejlettebb térérzékelés**. Sok transz embernél tapasztalható a rossz térérzékelés és az ügyetlenségre való hajlam, ami a HRT megkezdése után megszűnik.
-- **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletesebbé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltûnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
+- **Változás az ízérzékelésben**. Bizonyos ételek ízletesebbé vagy kevésbé ízletessé válnak; a koriander szappanos ízűvé válhat, vagy ha eddig annak érezted, akkor lehet, hogy ez eltűnik. Fokozott tolerancia a kapszaicin (csípős paprika) iránt. A csokoládé és a bor ízletesebbé válik.
 
-A spironolaktont használóknál gyakran alakul ki erős sóvárgás a magas sótartalmú ételek, például savanyúságok, olajbogyó vagy krumpli iránt. Ez azért van, mert a Spiro egy káliumkímélő vízhajtó, amitõl az összes nátriumot kipisiled. Az agy sóvárgással ösztönöz, hogy pótoljd a kiesett nátriumot.
+A spironolaktont használóknál gyakran alakul ki erős sóvárgás a magas sótartalmú ételek, például savanyúságok, olajbogyó vagy krumpli iránt. Ez azért van, mert a Spiro egy káliumkímélő vízhajtó, amitől az összes nátriumot kipisiled. Az agy sóvárgással ösztönöz, hogy pótoljd a kiesett nátriumot.
 
 ### Magad kisebbnek érzékelése, csökkent önbizalom
 
@@ -180,7 +180,7 @@ Az emberek arról is beszámoltak, hogy kevésbé hajlamosak vitát kezdeményez
 </div>
 }!}
 
-Minden nemi szerv ugyanabból a szövetből épül fel, csupán a terhesség során másképp szerveződnek. Ezek a szövetek viselkedésének nagy részét a saját testünk hormonjai szabályozzák. A bőrváladék, a textúra, az érzékenység és a merevedési viselkedés mind hormonális válaszreakciók. Ez azt jelenti, hogy amikor lecsökken a tesztoszteron és ösztrogén lesz a domináns hormon a szervezetben, ezek a szövetek elkezdenek úgy viselkedni, mintha vaginák lennének, pedig nem azok.
+Minden nemi szerv ugyanabból a szövetből épül fel, csupán a terhesség során másképp szerveződnek. Eme szövetek viselkedésének nagy részét a saját testünk hormonjai szabályozzák. A bőrváladék, a textúra, az érzékenység és a merevedési viselkedés mind hormonális válaszreakciók. Ez azt jelenti, hogy amikor lecsökken a tesztoszteron és ösztrogén lesz a domináns hormon a szervezetben, ezek a szövetek elkezdenek úgy viselkedni, mintha vaginák lennének, pedig nem azok.
 
 ##### Fokozott érzékenység
 
@@ -204,7 +204,7 @@ Ezt rendszeres erekció kiváltásával lehet ellensúlyozni, de ez az idő elő
 
 ##### Átlátszó spermaváladék
 
-Az spermiumot alkotó folyadék nagy része a prosztatából származik. Ez egy teljesen tiszta, nyálkás állagú folyadék. A fehér színt és ragadós jelleget, amelyet általában a férfi spermának tulajdonítanak, a herékből származó ondó és ondófolyadék okozza. Mind a sperma, mind az ondófolyadék termelése a herék működésének terméke, így ahogy a herék leállnak (akár az antiandrogének, akár az ösztrogén dominancia miatt), ezek termelése leáll, és csak a prosztatafolyadék marad.
+A spermiumot alkotó folyadék nagy része a prosztatából származik. Ez egy teljesen tiszta, nyálkás állagú folyadék. A fehér színt és ragadós jelleget, amelyet általában a férfi spermának tulajdonítanak, a herékből származó ondó és ondófolyadék okozza. Mind a sperma, mind az ondófolyadék termelése a herék működésének terméke, így ahogy a herék leállnak (akár az antiandrogének, akár az ösztrogén dominancia miatt), ezek termelése leáll, és csak a prosztatafolyadék marad.
 
 Néhány embernek még ez a folyadék termelése is leáll, és orgazmus közben egyáltalán nem ürül ki semmi.
 
@@ -242,7 +242,7 @@ Az orgazmus jelentősen megváltozik, mind a felépülése, mind az átélése t
 
 Egyáltalán nem [hallatlan](https://www.them.us/story/sexual-attraction-after-transition), hogy egy transznemű személy a hormonterápiával együtt a szexuális irányultságában is változást tapasztal. Ez szinte mindig a saját maga által felállított mentális akadályok megszűnésének eredménye, de a hormonterápia *gyakran* szerepet játszik ebben. A legtöbb esetben ez egyszerűen a vonzalom bővülésével jár, monoszexuálisról bi/panszexuálisra változik, de vannak olyanok is, akik felfedezik, hogy a vonzalmuk nagyrészt önérdeken alapult, és a valódi irányultságuk megfordul.
 
-### Ismétlõdõ, Periódusszerű tünetek
+### Ismétlődő, Periódusszerű tünetek
 
 Nyilvánvalóan nem a vérzékenységre gondolunk, az nevetséges lenne. A tünetek nagymértékben változnak (akárcsak a ciszgender nőknél), és jellemzően 2-4 napig tartanak, és 26-32 naponta ismétlődnek (bár egyesek arról számolnak be, hogy kéthetente tapasztalják). Ez a gyógyszeradagolási ütemezéstől függetlenül történik. Egy olyan menstruációkövető alkalmazás, mint a Clue használata feltárhatja a mintát.
 
@@ -262,7 +262,7 @@ Nyilvánvalóan nem a vérzékenységre gondolunk, az nevetséges lenne. A tüne
 - A libidó spontán változása.
 - A nemi szervek szagának megváltozása.
 
-Nem, erről még nem készültek tanulmányok, de túlságosan, **túlságosan** sok egyén számolt be arról, hogy ez szokatlan lenne (beleértve a tiédet is), és ezt több ember saját orvosai is megerősítették. Arra is van precedens, hogy ez olyan ciszgender nőkkel is megtörtént, akiknek méheltávolításuk volt (személyesen ismerek két ciszgender nőt, akiknek van ciklusuk, de nem menstruálnak, mindenféle orvosi beavatkozás nélkül).
+Nem, erről még nem készültek tanulmányok, de túlságosan, **túlságosan** sok egyén számolt be erről ahhoz, hogy ez szokatlan lenne (beleértve a tiédet is), és ezt több ember saját orvosai is megerősítették. Arra is van precedens, hogy ez olyan ciszgender nőkkel is megtörtént, akiknek méheltávolításuk volt (személyesen ismerek két ciszgender nőt, akiknek van ciklusuk, de nem menstruálnak, mindenféle orvosi beavatkozás nélkül).
 
 Az ösztrogén és progeszteron működtetése aktivál egy génszekvenciát, amely arra utasítja a hipotalamuszt, hogy próbálja meg a petefészek és a méh ciklikus viselkedését ugyanúgy, függetlenül a petefészek vagy a méh hiányától. Ez a ciklus számos szervre és alrendszerre hat a szervezetben, különböző hormonok és enzimek felszabadulását okozva, amelyek befolyásolhatják a működést, sőt a viselkedést is.
 

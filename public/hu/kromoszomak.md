@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "A nemi fejlődés zavarai: A nemek nem kromoszómálisak"
 linkTitle: "Kromoszómák"
 description: "A DNS inkább iránymutatás, mint tényleges szabályzat."
@@ -9,9 +9,9 @@ classes:
   - gdb
 siblings:
   prev: /hu/okok
-  prevCaption: Gender Diszfória Okai
+  prevCaption: Nemi Diszfória Okai
   next: /hu/hormonok
-  nextCaption: Hormonok Mûködése
+  nextCaption: Hormonok Működése
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191

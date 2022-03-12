@@ -10,3 +10,9 @@ html[lang=de], html[lang=pl] {
     font-family: $font-secondary-comp;
   }
 }
+
+html[lang=hu] {
+	blockquote {
+		font-family: $font-secondary-comp;
+	}
+}

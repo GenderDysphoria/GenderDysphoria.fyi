@@ -1,7 +1,7 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Történelmi áttekintés a Gender Diszfóriáról"
-linkTitle: "Történelmi áttekintés a Gender Diszfóriáról"
+date: "2022-03-04T19:08:00.000Z"
+title: "Történelmi áttekintés a Nemi Diszfóriáról"
+linkTitle: "Történelmi áttekintés a Nemi Diszfóriáról"
 description: "A nemi diszfória eredete és mai jelentése."
 lang: hu
 classes:
@@ -11,10 +11,10 @@ siblings:
   prev: /hu/mi-is-az-a-gender
   prevCaption: Mi is az a Gender?
   next: /hu/euforia
-  nextCaption: Gender Eufória
+  nextCaption: Nemi Eufória
 ---
 
-# Történelmi áttekintés a Gender Diszfóriáról
+# Történelmi áttekintés a Nemi Diszfóriáról
 
 1948-ban a neves szexológus Dr. Alfred Kinsey-t (igen, [*az* a Kinsey](https://hu.wikipedia.org/wiki/Alfred_Kinsey)) felkereste egy nő, akinek fiúgyermeke hajthatatlanul ragaszkodott ahhoz, hogy valójában lány, és hogy valami nagyon rosszul sült el. Az anya ahelyett, hogy megpróbálta volna elnyomni a lányát, segíteni akart neki abban, hogy azzá váljon, akinek tudta magát. Kinsey felkereste a [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) nevű német endokrinológust, hogy hátha tud segíteni a gyermeknek. Dr. Benjamin ezután kidolgozott egy ösztrogénterápiás protokollt a tinédzser számára, és együtt dolgozott a családdal, hogy sebészeti segítséget találjon.
 
@@ -33,18 +33,18 @@ Ha az Olvasó transznemű személy, akkor talán hallotta már Harry Benjamin ne
 
 A probléma az volt, hogy az 5. és 6. szint megkövetelte, hogy kizárólag a saját születési nemedhez vonzódj. Az átmenetnek heteróvá *kellett* tennie téged, nem pedig meleggé, és a biszexuálisok nem voltak megengedettek. Emellett súlyos kellemetlenségeket kellett tapasztalnod a testeddel és a nemi szerveiddel kapcsolatban, és már kezelés nélkül is a valódi nemedként kellett élned. Sok transz ember közösségi coachinggal és performatív bemutatkozással kerülte meg ezeket a korlátozásokat, de sok ember úgy gondolja, hogy ha nem felelsz meg az összes kritériumnak, akkor nem vagy eléggé transz ahhoz, hogy elkezdd a tranzíciót.
 
-2011-ben a HBIGDA átszervezte magát, hogy reagáljon a transzneműek megértése és elfogadása terén egyre növekvő nyomásra, és új nevet vett fel: World Professional Association for Transgender Health (WPATH). A WPATH ezután tényleges transznemű emberek irányításával (ez volt az első alkalom a szervezet számára) egy teljesen új ellátási standardok (SoC, 7. verzió, az első tíz év után) kiadására került sor, amely elhagyta a Benjamin-skálát, és a konkrét egyéni tünetekre összpontosított, valamint teljesen elválasztotta a nemet a szexualitástól. Két évvel később, 2013-ban az Amerikai Pszichiátriai Társaság megváltoztatta diagnosztikai kritériumait, hogy azok megfeleljenek a WPATH SoC-nek a Mentális zavarok diagnosztikai és statisztikai kézikönyvének (DSM) 5. verziójában, és a nemi identitászavart a nemi diszfóriára cserélte. Ezzel a változással az orvosi kezelés minden transz ember számára elérhetővé vált az Egyesült Államokban.
+2011-ben a HBIGDA átszervezte magát, hogy reagáljon a transzneműek megértése és elfogadása terén egyre növekvő nyomásra, és új nevet vett fel: World Professional Association for Transgender Health (WPATH). A WPATH ezután tényleges transznemű emberek irányításával (ez volt az első alkalom a szervezet történetében) egy teljesen új ellátási standard-rendszert (SoC, 7. verzió, az első tíz év után) adtak ki, amely elhagyta a Benjamin-skálát, és a konkrét egyéni tünetekre összpontosított, valamint teljesen elválasztotta a nemet a szexualitástól. Két évvel később, 2013-ban az Amerikai Pszichiátriai Társaság megváltoztatta diagnosztikai kritériumait, hogy azok megfeleljenek a WPATH SoC-nek a Mentális zavarok diagnosztikai és statisztikai kézikönyvének (DSM) 5. verziójában, és a nemi identitászavart a nemi diszfóriára cserélte. Ezzel a változással az orvosi kezelés minden transz ember számára elérhetővé vált az Egyesült Államokban.
 
-Ez a legfõbb oka annak, hogy a transzneműek jelenléte az elmúlt évtizedben világszerte hirtelen robbanásszerűen megnőtt. A könnyebb hozzáféréssel együtt jár a nagyobb szám, a nagyobb számmal együtt jár a nagyobb láthatóság, a nagyobb láthatósággal együtt jár a nagyobb tudatosság, és a nagyobb tudatossággal együtt jár a kezeléshez való hozzáférés. [Egy 2014-ben végzett tanulmány](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) szerint az Egyesült Államokban a felnőttek 0,6%-a és a fiatalok 0,7%-a azonosította magát transzneműként, [egy 2016-ban végzett tanulmány](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) szerint a középiskolás korú diákok 1,8%-a azonosította magát transzneműként, és [a GLAAD által 2017-ben végzett felmérés](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) szerint a 18-34 éves válaszadók 12%-a nem azonosította magát ciszgenderként.
+Ez a legfőbb oka annak, hogy a transzneműek jelenléte az elmúlt évtizedben világszerte rohamléptekben kezdett nőni. A könnyebb hozzáféréssel együtt jár a nagyobb szám, a nagyobb számmal együtt jár a nagyobb láthatóság, a nagyobb láthatósággal együtt jár a nagyobb tudatosság, és a nagyobb tudatossággal együtt jár a kezeléshez való hozzáférés. [Egy 2014-ben végzett tanulmány](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) szerint az Egyesült Államokban a felnőttek 0,6%-a és a fiatalok 0,7%-a azonosította magát transzneműként, [egy 2016-ban végzett tanulmány](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) szerint a középiskolás korú diákok 1,8%-a azonosította magát transzneműként, és [a GLAAD által 2017-ben végzett felmérés](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) szerint a 18-34 éves válaszadók 12%-a nem azonosította magát ciszgenderként.
 
-A transznemű emberek előbújnak a szekrénybõl; mindenhol ott vagyunk.
+A transznemű emberek előbújnak a szekrényből; mindenhol ott vagyunk.
 
-## Tehát mi is az a Gender Diszfória?
+## Tehát mi is az a Nemi Diszfória?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Disz·fó·ri·a</strong> - <em>Fõnév</em><br>
+    <strong>Disz·fó·ri·a</strong> - <em>Főnév</em><br>
     Az élettel való általános nyugtalanság vagy elégedetlenség állapota. Az eufória ellentéte.
   </blockquote>
 </div>
@@ -63,13 +63,13 @@ Evey Winters így írta le [a Diszfória posztjában](https://eveywinters.com/20
 
 > Ültél már valaha valahol nyilvános vagy hivatalos helyen, és hirtelen viszketett a lábfejed? Nem mintha ott helyben le tudnád venni a cipődet és megvakarni, ezért elviseled a belső haldoklás érzését, miközben ez a viszketés egyre csak nő és nő, amíg készen nem állsz arra, hogy megöld a következő embert, aki megszólít.
 >
-> Vagy amikor fiatalabb voltam, reggelente, iskola előtt kábeltévét néztem. Mivel a 90-es évek elején szatellitadások voltak divatban, időnként bekapcsoltam a kedvenc csatornámat, hogy nézzem a műsoraimat, miközben ettem a reggelimet, és a Power Rangers-t láttam - de a hang egy másik csatornáról jött (általában a meteorológiai csatornáról). A videó rendben volt. A hang is rendben volt. De a kettő közötti eltérés? Ez az a fajta frusztráció, ami gyerekként egész nap veled van.
+> Vagy amikor fiatalabb voltam, reggelente, iskola előtt kábeltévét néztem. Mivel a 90-es évek elején műholdadások voltak divatban, időnként bekapcsoltam a kedvenc csatornámat, hogy nézzem a műsoraimat, miközben ettem a reggelimet, és a Power Rangers-t láttam - de a hang egy másik csatornáról jött (általában a meteorológiai csatornáról). A kép rendben volt. A hang is rendben volt. De a kettő közötti eltérés? Ez az a fajta frusztráció, ami gyerekként egész nap veled van.
 >
 > Ez az az érzés, amikor egy ropogós, frissítő diétás kólát kérsz, és a kiszolgáló azt mondja: "Pepsi is jó?".
 >
 > Tudni, hogy valami nincs rendben, és nem tudsz semmit sem tenni ellene.
 
-A nemi diszfória alapvetően egyszerűen érzelmi reakció arra, hogy az agy tudja, hogy valami nem illik jól az összképbe. Ez az inkongruencia olyan mélyen van a tudatalattiban, hogy nincs nyilvánvaló üzenet arról, hogy mi a probléma. Az egyetlen mód, ahogyan azonosítani tudjuk, az általa kiváltott érzelmek révén történik. Tudatunk vagy pozitív (eufória) vagy negatív (diszfória) visszajelzést kap aszerint, hogy aktuális környezetünk mennyire illeszkedik belső énképünkhöz. A tranzíció része, hogy megtanuljuk felismerni ezeket a jeleket.
+A nemi diszfória alapvetően egyszerű érzelmi reakció arra, hogy az agy tudja, hogy valami nem illik jól az összképbe. Ez az inkongruencia olyan mélyen van a tudatalattiban, hogy nincs nyilvánvaló üzenet arról, hogy mi a probléma. Az egyetlen mód, ahogyan azonosítani tudjuk, az általa kiváltott érzelmek révén történik. Tudatunk vagy pozitív (eufória) vagy negatív (diszfória) visszajelzést kap aszerint, hogy aktuális környezetünk mennyire illeszkedik belső énképünkhöz. A tranzíció része, hogy megtanuljuk felismerni ezeket a jeleket.
 
 A cisznemű emberek is kapják ezeket, de mivel a jelek általában a környezetükhöz igazodnak, természetesnek veszik őket. Volt azonban néhány figyelemre méltó eset, amikor egy ciszgender személyt [olyan helyzetbe hoztak](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image), amikor nemi diszfóriát tapasztalt. Voltak kísérletek arra, hogy ciszgender gyermekeket [ellenkező neműként](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Figyelem: öngyilkosság) neveljenek, azonban ezek mindig kudarcba fulladtak, mivek a gyermek elkerülhetetlenül másnak vallotta magát.
 

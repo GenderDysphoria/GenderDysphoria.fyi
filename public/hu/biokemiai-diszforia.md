@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-03-04T19:08:00.000Z"
 title: "Hogyan nyilvánul meg a nemi diszfória: Biokémiai Diszfória"
 linkTitle: "Biokémiai Diszfória"
 description: "A nemi diszfória nagyon is valós és biológiai tényezői, amelyek mentális zavart okozhatnak."
@@ -28,7 +28,7 @@ siblings:
 
 # Biokémiai Diszfória
 
-Az ember elsődleges nemi jellegzetességei a terhesség 8. hetében kezdenek fejlődni. Jellemzően a 11. héten már ultrahanggal meg lehet határozni a magzat nemi szerveit. Az agy azonban [a 14. és 24. hét között] alakul ki (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). A neurológiai fejlődés jelenlegi uralkodó megértése azt sugallja, hogy ez alatt a 10 hét alatt az agy vagy férfivá, vagy nőivé válik a magzat véráramában lévő tesztoszteron jelenléte alapján (amelyet az Y kromoszómán lévő SRY gén indít el, vagy más forrásból kerül be). Ez a folyamat az agyat az ösztrogének vagy az androgének iránti vágyakozás mintájába zárja.
+Az ember elsődleges nemi jellegzetességei a terhesség 8. hetében kezdenek fejlődni. Jellemzően a 11. héten már ultrahanggal meg lehet határozni a magzat nemi szerveit. Az agy azonban [a 14. és 24. hét között] alakul ki (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). A neurológiai fejlődés jelenlegi uralkodó értelmezése azt sugallja, hogy ez alatt a 10 hét alatt az agy vagy férfivá, vagy nőivé válik a magzat véráramában lévő tesztoszteron jelenléte alapján (amelyet az Y kromoszómán lévő SRY gén indít el, vagy más forrásból kerül be). Ez a folyamat az agyat az ösztrogének vagy az androgének iránti vágyakozás mintájába zárja.
 
 Ha az agyad az egyik gonádhormonra (például tesztoszteronra) van bekábelezve, és a tested a másik hormont (például ösztradiolt) termeli, ez biokémiai működési zavarokat eredményezhet az agyad kémiájában. Ez egyfajta agyi ködöt, a szellemi kapacitás csökkenését, valamint általános szorongást és nyugtalanságot eredményez. Ez a forrása az első két tünetnek, a deperszonalizációnak és a derealizációnak; amelyek gyakran enyhülnek az orvosi hormonterápiával.
 
@@ -61,7 +61,7 @@ Ha az agyad az egyik gonádhormonra (például tesztoszteronra) van bekábelezve
 </div>
 }!}
 
-**Deperszonalizáció** a saját testünkkel való kapcsolat megszakadása; képtelenség elhinni, hogy a tükörben látott személy valójában saját magunk. Úgy érezzük, mintha valaki mást lenne a saját testünkben. Azon kaphatod magad, hogy nem törődsz azzal, hogy mi történik a testeddel, nem érdekel a súlyváltozás vagy a fittséged javítása, mert nem vagy tulajdonosa ennek a húsos járműnek, amelybe zárva vagy.
+**Deperszonalizáció** a saját testünkkel való kapcsolat megszakadása; képtelenség elhinni, hogy a tükörben látott személy valójában saját magunk. Úgy érezzük, mintha valaki más lenne a saját testünkben. Azon kaphatod magad, hogy nem törődsz azzal, hogy mi történik a testeddel, nem érdekel a súlyváltozás vagy a fittséged javítása, mert nem vagy tulajdonosa ennek a húsos járműnek, amelybe zárva vagy.
 
 Zinnia Jones [ezeket a leírásokat adja a Deperszonalizációra](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
@@ -94,7 +94,7 @@ A **derealizáció** a körülötted lévő világtól való elszakadás, egy me
 - A környezeted idegennek vagy ismeretlennek tűnik, még akkor is, ha mindig is ott voltál, mintha valaki kicserélte volna a házadat egy színpadi másolatra.
 - A világban való mozgás olyan, mintha egy futópadon járnál, ahol az épületek körülötted mozognak, nem pedig te rajtuk keresztül.
 - Úgy érzed, hogy érzelmileg elszakadtál azoktól az emberektől, akik fontosak neked, mintha üvegfal választana el, vagy mintha ők csak színészek lennének, akik úgy tesznek, mintha azok lennének, akiknek mondják magukat.
-- Torznak, homályosnak, színtelennek, kétdimenziósnak vagy mesterségesnek tűnő környezet, vagy a környezeted fokozott tudatossága és tisztasága. A fák levelei például úgy érzik, mintha extra éles széleik lennének.
+- Torznak, homályosnak, színtelennek, kétdimenziósnak vagy mesterségesnek tűnő környezet, vagy a környezeted fokozott tudatossága és tisztasága. A fák leveleinek például úgy érzik, mintha extra éles széleik lennének.
 - Az időérzékelés torzulásai, például a közelmúltbeli események távoli múltnak tűnnek.
 - A távolság, valamint a tárgyak méretének és alakjának torzulása.
 - Passzív szemlélődőnek érzi magát az élete eseményeiben.
@@ -107,13 +107,13 @@ Fontos megjegyezni, hogy a deperszonalizáció-derealizáció nem kizárólag a 
 
 ### Apály-Dagály
 
-A fizikai és biokémiai diszfória intenzitását nagymértékben befolyásolják a szervezet egyéb részei. Jelentõsen függ a hormonháztartástól, illetve a pillanatnyi hormonszinttõl is. Ez azt jelenti, hogy napról napra emelkedhet és csökkenhet. Például:
+A fizikai és biokémiai diszfória intenzitását nagymértékben befolyásolják a szervezet egyéb részei. Jelentősen függ a hormonháztartástól, illetve a pillanatnyi hormonszinttől is. Ez azt jelenti, hogy napról napra emelkedhet és csökkenhet. Például:
 
 - Ha a vércukorszinted nincs rendben, vagy pajzsmirigybetegséged van, az a diszfóriád megugrását okozhatja.
 - Ha a stimulánsok abbahagyása miatt dopaminmegvonásod van, az ronthat rajta.
-- Ha SSRI antidepresszánst kezdesz el szedni, és több szerotoninra kezdesz el futni, akkor az antidepresszáns kevésbé fog hatni.
+- Ha SSRI antidepresszánst kezdesz el szedni, és több szerotoninra törekszel, akkor az antidepresszáns kevésbé fog hatni.
 - A herékkel rendelkező transzfeminin AMAB-ok (születéskor férfinak rendelt emberek) a vonzalom és a vágy kapcsán tesztoszteron-kiugrásokat tapasztalnak, ami diszfóriásabbá teheti őket.
-- A transzmaszkulin AFAB-ok (a születéskor nőnek rendelt emberek), akiknek nincs elnyomott petefészkük, az ösztrogén és a progeszteron emelkedését és csökkenését tapasztalják a menstruációs ciklusuk során, így a diszfóriájuk a ciklus melyik napjától függően erősödik és enyhül.
+- A transzmaszkulin AFAB-ok (a születéskor nőnek rendelt emberek), akiknek nincs elnyomott petefészkük, az ösztrogén és a progeszteron emelkedését és csökkenését tapasztalják a menstruációs ciklusuk során, így a diszfóriájuk a ciklus adott napjától függően erősödik és enyhül.
 
 A szervezetben tucatnyi rendszer működik együtt, és ezek mind napról napra ingadoznak, manipulálva az általános mentális állapotot. Ez az általános diszfória felerősítheti az összes többi diszfória hatását. Egyik nap úgy vonod meg a válladat a félreértelmezéssel kapcsolatban, mintha semmiség lenne, aztán a következőn úgy fáj, mintha minden alkalommal szíven szúrna. Egyik nap még látod magad a tükörben, a következőn már a régi énedet bámulod.
 
@@ -132,12 +132,12 @@ Mindez érvényes, és csak azért, mert egyik nap nagyon diszfórikusnak érzed
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Néha hallani fogsz olyan ellenérveket, amelyek azt sugallják, hogy a hormonterápia mindig javítja a mentális egészséget. Én magam is hallottam ezt, amikor anyámmal coming outoltam. "Az ösztrogén mindenkit boldogabbá tesz." Ez teljes mértékben hamis. Amikor a cisz embereket hormonterápiára teszik, az mindig diszfóriát eredményez. Ez az egyik oka annak, hogy a antiandrogéneket ritkán írják fel férfiaknak, mert mentális instabilitást okoz. A cisz nők 5-10%-a szenved policisztás petefészek szindrómában (PCOS), egy olyan betegségben, amely miatt a petefészkek ösztrogén helyett tesztoszteront termelnek. Kérdezd meg bármelyiket közülük, hogy milyen a mentális egészségük, és egy fülest fogsz kapni tőlük.
+Néha hallani fogsz olyan ellenérveket, amelyek azt sugallják, hogy a hormonterápia mindig javítja a mentális egészséget. Én magam is hallottam ezt, amikor anyámnak előbújtam. "Az ösztrogén mindenkit boldogabbá tesz." Ez teljes mértékben hamis. Amikor a cisz embereket hormonterápiára teszik, az mindig diszfóriát eredményez. Ez az egyik oka annak, hogy a antiandrogéneket ritkán írják fel férfiaknak, mert mentális instabilitást okoz. A cisz nők 5-10%-a szenved policisztás petefészek szindrómában (PCOS), egy olyan betegségben, amely miatt a petefészkek ösztrogén helyett tesztoszteront termelnek. Kérdezd meg bármelyiket közülük, hogy milyen a mentális egészségük, és egy fülest fogsz kapni tőlük.
 
 Ennek egyik nagyon hatásos bizonyítéka [David Reimer](https://en.wikipedia.org/wiki/David_Reimer) tragikus esete. Hét hónapos korában Davidet és ikertestvérét körülmetélték, hogy kezeljék a fimózis (a fityma bőrbetegsége) súlyos esetét. Davidé szörnyen rosszul sikerült, és a pénisz elpusztult. Úgy döntöttek, hogy vaginoplasztikát végeznek rajta, és lányként nevelik fel, beleértve az ösztrogénterápiát a pubertáskor. 13 éves korára mélyen öngyilkos depresszióba esett, és nagyon szenvedett, mivel semmilyen edzéssel és bátorítással nem lehet elérni, hogy egy fiú élvezze a lánylétet. Amikor a szülei tájékoztatták a történtekről, visszatért a férfi megjelenéshez, tesztoszteronterápiára váltott, és a tinédzser évei alatt több műtéten is átesett, hogy újra férfivá váljon.
 
 Az emberek tudják, ha rossz nemben élnek.
 
-John Money pszichológus felügyelte David esetét, és nagyrészt ő volt a felelős azokért a döntésekért, amelyek David nevelése során születtek. Money, aki arra törekedett, hogy nevet szerezzen magának, masszívan tévesen számolt be David esetéről, jelentéseiben teljes sikernek könyveve romló állapotát. Ennek eredménye a mai napig visszhangzik, mivel Money jelentéseit példaként használták arra, hogy miért volt megfelelő eljárás a nemi szerveket korrigáló műtétek elvégzése interszexuális csecsemőkön. Ötven évvel később még mindig vannak olyan orvosok, akik azt hiszik, hogy egy gyermek nemi szervét egyszerűen csak meg kell változtatni, és másként nevelve ez meg is marad.
+John Money pszichológus felügyelte David esetét, és nagyrészt ő volt a felelős azokért a döntésekért, amelyek David nevelése során születtek. Money, aki arra törekedett, hogy nevet szerezzen magának, masszívan tévesen számolt be David esetéről, jelentéseiben teljes sikerként tálalva romló állapotát. Ennek eredménye a mai napig visszhangzik, mivel Money jelentéseit példaként használták arra, hogy miért volt megfelelő eljárás a nemi szerveket korrigáló műtétek elvégzése interszexuális csecsemőkön. Ötven évvel később még mindig vannak olyan orvosok, akik azt hiszik, hogy egy gyermek nemi szervét egyszerűen csak meg kell változtatni, és másként nevelve ez meg is marad.
 
 Ez az [interszexuális](https://hu.wikipedia.org/wiki/Interszexualit%C3%A1s) közösség tragédiája. Nagyjából minden 60. születésből egy valamilyen interszexuális állapotot eredményez (bár ezek közül nem mindegyik kapcsolódik a nemi szervhez). Gyakran előfordul, hogy az interszexuális gyermekeken alkalmazott "korrekciós" eljárások a funkció és/vagy az érzékelés elvesztését eredményezik. Az orvosok túlságosan gyakran választják a kényszerű női hozzárendelést, mivel könnyebb volt egy szeméremtestet kialakítani, mint egy péniszt.
