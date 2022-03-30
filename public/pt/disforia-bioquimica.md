@@ -28,9 +28,9 @@ siblings:
 
 # Disforia Bioquímica
 
-The primary sexual features of the body begin development during the 8th week of human gestation. Typically by week 11 it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
+As características sexuais primárias do corpo começam a se desenvolver durante a oitava semana da gestação humana. Tipicamente pela décima-primeira semana é possível determinar os genitais do feto por ultrassonografia. O cérebro, porém, se forma [entre a décima quarta e vigésima quarta semana](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). O atual entendimento prevalecente do desenvolvimento neurológico sugere que é durante essas dez semanas em que o cérebro se masculiniza ou feminiza dependendo da presença de testosterona na corrente sanguínea do feto (iniciada pelo gene SRY do cromossomo Y, ou introduzida por outras fontes). Esse processo trava o cérebro em um padrão de desejar estrógenos ou andrógenos.
 
-If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, Depersonalization and Derealization (DPDR).
+Se o seu cérebro é conectado para um hormônio gonadal (ex: testosterona) e seu corpo produz outro hormônio (ex: estradiol), isso pode resultar em mal funcionamento bioquímico dentro da sua química cerebral. Isso produz uma espécie de névoa ou confusão cerebral, uma redução em capacidade mental, e um estado geral de ansiedade e desconforto. Essa é a fonte dos dois primeiros sintomas que geralmente aliviam com terapia hormonal: Despersonalização e Desrealização.
 
 {!{
 <div class="gutter">
@@ -52,7 +52,7 @@ If your brain is wired for one gonadal hormones (such as testosterone) and your 
   >
   {{/with}}
   <p class="ig-caption">
-    #TransformationTuesday - As I’ve often said on posts like this, our eyes reflect our lives. The biggest difference I see in how trans people look after transition is always the eyes; often looking sad or distant in the past, and being bright and full of life in the present
+    #TerçaDeTransformação - Como eu geralmente digo em postagens como essa, nossos olhos refletem as nossas vidas. A maior diferença que eu vejo em como as pessoas trans se parecem após a transição é sempre nos olhos; geralmente olhavam tristes ou distantes no passado, e são brilhantes e cheios de vida no presente
   </p>
   <p class="ig-footer">
     <time datetime="2019-11-05T19:54:45+00:00">Nov 5, 2019</time>
@@ -61,26 +61,27 @@ If your brain is wired for one gonadal hormones (such as testosterone) and your 
 </div>
 }!}
 
-**Depersonalization** is a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself. You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.
+**Despresonalização** é um desapego com seu próprio corpo, uma inabilidade de acreditar que a pessoa que você vê no espelho é realmente você. Você se sente como se estivesse assistindo outrem dentro do seu corpo. Você pode encontrar-se não se importando com o que acontece com o seu corpo, falta de preocupação com mudanças de peso ou melhorar sua forma física porque você não tem propriedade desse veículo corpóreo que te transporta pela vida.
 
-Zinnia Jones [gives these descriptions for Depersonalization](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
-- A sense of detachment or estrangement from your own thoughts, feelings, or body: “I know I have feelings but I don’t feel them”
-- Feeling split into two parts, with one going through the motions of participating in the world and one observing quietly: “There is this body that walks around and somebody else just watches”
-- Feeling as if you have an “unreal” or absent self: “I have no self”
-- Experiencing the world as distant, dreamlike, foggy, lifeless, colorless, artificial, like a picture with no depth, or less than real
-- Being absorbed in yourself and experiencing a compulsive self-scrutiny or extreme rumination
-- Having an ongoing and coherent dialog with yourself
-- Feeling like a veil or glass wall separates you from the world
-- Emotional or physical numbness, such as a feeling of having a head filled with cotton
-- Lacking a sense of agency – feeling flat, robotic, dead, or like a “zombie”
-- Inability to imagine things
-- Being able to think clearly, but feeling as if some essential quality is lacking from your thoughts or experience of the world
-- A sense of disconnectedness from life, impeding you from creative and open involvement with the world
+Zinnia Jones [dá essas descrições de Despersonalização](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
-You may put little care into your physical appearance, reaching for only the basic utilitarian needs in clothing and personal hygiene. Alternatively, you may hyperfocus on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.
+- Uma sensação de desprendimento ou afastamento de seus próprios pensamentos, sentimentos ou corpo: “Eu sei que eu tenho esses sentimentos mas eu não os sinto”
+- Sensação de ser dividido em duas partes, com uma atravessando as moções de participar no mundo e outra quietamente observando: “Há esse corpo que anda por aí e outrem que apenas assiste”
+- Sensação de ter um eu “irreal” ou ausente: “Eu não tenho um eu”
+- Experienciar o mundo como distante, tipo um sonho, enevoado, incolor, artificial, como uma imagem sem profundidade, ou menos que real
+- Ser absorvido em si mesme e experienciar um compulsivo auto-escrutínio ou extrema ruminação
+- Ser um contínuo e coerente diálogo consigo mesme
+- Sensação de como se um véu ou parede de vidro te separa do mundo
+- Dormência ou torpor físico ou emocional, como se uma sensação de ter a cabeça preenchida por algodão
+- Carência de senso de agência – sentir-se plano, robótico, morto ou como um “zumbi”.
+- Inabilidade de imaginar coisas
+- Ser capaz de pensar claramente, mas sentir-se como se alguma qualidade essencial está faltando em seus pensamentos ou experiência do mundo
+- Uma sensação de desconexão da vida, impedindo-te de involvimento criativo e aberto com o mundo
 
-You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.
+Você pode por pouca atenção na sua aparência física, alcançando apenas as necessidades utilitárias básicas em roupas e higiene pessoal. Alternativamente, você pode hiperfocar na sua aparência, tentando faiscar alguma espécie de alegria, algum tipo de sensação de orgulho em seu próprio corpo, apenas para se encontrar com mais vazio.
+
+Você pode não se importar com o estado do seu corpo, talvez nem temendo a morte, porque você tem tão pouco apego a sua vida.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716438972993536'
@@ -89,31 +90,31 @@ You may be unconcerned with the state of your body, perhaps not even fearing dea
   '1215740224325783553'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-**Derealization** is a detachment from the world around you, a mental sense that everything you perceive is false.
+**Desrealização** é o desapego com o mundo ao seu redor, uma sensação mental de que tudo que você percebe é falso.
 
-- Your surroundings seem alien or unfamiliar, even if you've always been there, like someone has swapped out your house for a stage replica.
-- Moving through the world feels like you're walking on a treadmill, with the buildings moving around you instead of you through them.
-- Feeling emotionally disconnected from people you care about, as if you were separated by a glass wall, or like they are just actors pretending to be the people they claim to be.
-- Surroundings that appear distorted, blurry, colorless, two-dimensional or artificial, or a heightened awareness and clarity of your surroundings. Leaves on trees feel like they have extra sharp edges, for example.
-- Distortions in perception of time, such as recent events feeling like distant past.
-- Distortions of distance and the size and shape of objects
-- Feeling like a passive observer in the events of your life
+- Seus arredores parecem alienígenas ou pouco familiar, mesmo se você sempre esteve aí, como se alguém tivesse trocado a sua casa por uma réplica de palco.
+- Mover pelo mundo te faz sentir como se andasse numa esteira ergonômica, com os corpos movendo ao seu redor ao invés de você através deles.
+- Sentir-se emocionalmente desconectado das pessoas que você se importa, como se vocês fossem separados por uma parede de vidro, ou como se eles fossem apenas atores fingindo ser as pessoas que alegam ser.
+- Arredores que parecem distorcidos, embaçados, incolores, bidimensionais ou artificiais, ou uma intensificada ciência e claridade de seus arredores. Folhas nas árvores parecem como e elas tivessem arestas extra afiadas, por exemplo.
+- Distorções na percepção de tempo, tais como recentes eventos parecerem como o passado distante.
+- Distorções de distância e tamanho e formato de objetos.
+- Sentir-se como um observador passivo nos eventos da sua vida.
 
-If you found yourself strongly relating to The Matrix or The Truman Show, you might be experiencing derealization. This can also manifest as a feeling of otherworldliness, like you don't belong in this society. You're just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of The Outer Limits where a boy discovers a spaceship under his house and learns that he and his parents aren't actually human.
+Se você se encontrou fortemente se identificando com _A Matrix_, ou o _Truman Show_, você pode estar experienciando desrealização. Isso também pode se manifestar como uma sensação de sobrenatural, como se você não pertencesse a essa sociedade. Você está apenas andando por aí esperando que seus superpoderes apareça, ou que uma coruja lhe entregue sua carta de Hogwarts. Como uma adolescente, eu era obcecada por um episódio de [_The Outer Limits_](https://theouterlimits.fandom.com/) em que um menino descobre uma nave espacial sob a sua casa e aprende que seus pais não são realmente humanos.
 
-DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it. This can also go in the opposite direction, where the person is under so much anxiety that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
+O Transtorno da Despersonalização e Desrealização às vezes vem com uma atrofia emocional. Você é capaz de rir e encontrar humor, mas raramente alegria genuína. Momentos de tristeza ou pesar te fazem ficar apenas dormente, dissociado pelo evento que o causou. Isso também pode ir na direção oposta, em que a pessoa está sob tanta ansiedade que a resposta emocional é extremamente desproporcional ao catalisador, resultando em severo choro ou explosões violentas de eventos aparentemente pequenos.
 
-It's important to note that DPDR is not exclusive to Gender Dysphoria. This condition is co-morbid with several other mental health issues, including chronic depression, obsessive compulsive disorder, and borderline personality disorder. DPDR should not be taken as a sign of Gender Dysphoria purely on its own, it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
+É importante notar que esse Transtorno não é exclusivo da Disforia de Gênero. Essa condição é comórbida a vários outros problemas de saúde mental, incluindo depressão crônica, desordem obsessiva compulsiva, e desordem de personalidade <em lang="en">borderline</em> (limítrofe). O Transtorno da Despersonalização e Desrealização n"ao deve ser tomado, isoladamente, como um sinal de de Disforia de Gênero. Ele é apenas um grande alarme de que algo está bem errado. É geralmente fácil de notá-lo em outros uma vez que você saiba como percebê-lo. Pessoas com esse Transtorno tendem a ter um olhar de um quilômetro de comprimento conforme se deslocam pelo mundo; olhos tão sombrios e mortos que eles parecem como uma casca. Um dos comentários mais comuns sobre linhas de tempo de transição é como os olhos ganham tanto brilho.
 
-### The Ebb and Flow
+### O Fluxo e Refluxo
 
-The intensity of physical and biochemical dysphoria is highly influenced by other factors in the body. Because it is a function of endocrine balance, it is also manipulated by those balances. This means that it can rise and fall from day to day. For example:
+A intensidade da disforia física e bioquímica é altamente influenciada por outros fatores no corpo. Por ser uma função de balanço endócrino, ela é também manipulada por esses balanços. Isso significa que ela pode subir e cair de dia para dia. Por exemplo:
 
-- If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
-- If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.
-- If you start on an SSRI Antidepressant and start running with more serotonin, that can make it less intense.
-- Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
-- Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
+- Se seu açúcar no sangue está fora de controle ou você tem algum problema de tireoide, isso pode aumentar a sua disforia.
+- Se você está tendo retirada de dopamina por cessamento de estimulantes, a sua disforia pode piorar.
+- Se você começa a usar um antidepressivo <abbr data-title="Inibidor Seletivo de Reabsorção de Serotonina" tabindex="0">SSRI</abbr> e começa a funcionar com mais serotonina, a sua disforia pode diminuir.
+- <abbr data-title="Pessoas designadas homem ao nascer" tabindex="0">AMABs</abbr> transfemininas com testículos experienciam ondas de alta testosterona em relação a atração e desejo, o que pode torná-las mais disfóricas.
+- <abbr data-title="Pessoas designadas mulher ao nascer" tabindex="0">AFABs</abbr> transmasculinas com ovários não suprimidos experienciam aumentos e quedas em estrógeno e progesterona ao longo do ciclo menstrual, fazendo suas disforias intensificarem e atenuarem de acordo com o dia do ciclo na qual estão. 
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 
