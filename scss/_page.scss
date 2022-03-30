@@ -257,3 +257,45 @@ body.post {
   }
 
 }
+
+/* ---------- START <abbr> ---------- */
+
+/* Use something like the code below to show abbreviation tooltips in all
+   platforms including mobile and keyboard only navigation. We use the
+   data-title attribute instead of only title as a mechanism to prevent
+   the borwser for showing two tooltips. Also, we need the tabindex thing
+   to make sure it works with keyboard only navigation.
+
+   <abbr data-title="Assigned Male At Birth" tabindex="0">AMAB</abbr>
+*/
+
+abbr[data-title] {
+  // we need this to make the hover and focus thing work
+  position: relative;
+  // ensure the user can see it's an abbreviation
+  text-decoration: underline dotted;
+}
+
+// Shows tooltips for <abbr> on mobile
+abbr[data-title]:hover::after,
+abbr[data-title]:focus::after {
+  // Get the value from the data-title attribute
+  content: attr(data-title);
+
+  // Position the tooltip in a nice way
+  position: absolute;
+  left: 0;
+  bottom: -30px;
+  width: auto;
+  white-space: nowrap;
+
+  // Make it look good
+  background-color: $trans-pink;
+  color: $body-color;
+  border-radius: 3px;
+  box-shadow: 1px 1px 5px 0 rgba(0,0,0,0.4);
+  font-size: 14px;
+  padding: 3px 5px;
+}
+
+/* ---------- END <abbr> ---------- */
