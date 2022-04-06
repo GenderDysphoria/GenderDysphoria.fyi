@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  prev: /en/am-i-trans
+  prev: /fr/est-ce-que-je-suis-trans
   prevCaption: Est-ce que je suis trans ?
   next: /en/treatment
   nextCaption: Treating Gender Dysphoria

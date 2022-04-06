@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 siblings:
   prev: /en/managed-dysphoria
   prevCaption: Managed Dysphoria
-  next: /en/am-i-trans
+  next: /fr/est-ce-que-je-suis-trans
   nextCaption: Est-ce que je suis trans ?
 classes:
   - gdb
