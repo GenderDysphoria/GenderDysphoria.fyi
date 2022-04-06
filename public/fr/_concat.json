@@ -1,0 +1,33 @@
+{
+  "output": "public/fr/printable.md",
+  "sources": [
+    "public/fr/index.md",
+    "public/fr/what-is-gender.md",
+    "public/fr/history.md",
+    "public/fr/euphoria.md",
+    "public/fr/physical-dysphoria.md",
+    "public/fr/biochemical-dysphoria.md",
+    "public/fr/social-dysphoria.md",
+    "public/fr/societal-dysphoria.md",
+    "public/fr/sexual-dysphoria.md",
+    "public/fr/presentational-dysphoria.md",
+    "public/fr/existential-dysphoria.md",
+    "public/fr/managed-dysphoria.md",
+    "public/fr/impostor-syndrome.md",
+    "public/fr/am-i-trans.md",
+    "public/fr/diagnoses.md",
+    "public/fr/treatment.md",
+    "public/fr/causes.md",
+    "public/fr/chromosomes.md",
+    "public/fr/hormones.md",
+    "public/fr/second-puberty-masc.md",
+    "public/fr/second-puberty-fem.md",
+    "public/fr/conclusion.md"
+  ],
+  "meta": {
+    "title": "La Bible de la Dysphorie de Genre",
+    "description": "Une plongée dans la multitude de façons dont la dysphorie de genre se manifeste et ce que signifie être transgenre.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
