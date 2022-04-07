@@ -1,3 +1,4 @@
+*.warc
 node_modules
 /dist
 /aws.json

@@ -25,6 +25,8 @@ exports.push = pushToProd;
 const cloudfront = require('./cloudfront');
 exports.cloudfront = cloudfront;
 
+const offlineTask = require('./offline');
+
 exports.new = require('../build/new-post.js');
 
 function copyProd () {
@@ -85,6 +87,8 @@ function server () {
   forever.startServer(srv);
 }
 
+// exports.offlineDev  = series(devBuildTask, makeOfflineVersion);
+// exports.offlineProd = series(prodBuildTask, makeOfflineVersion);
 exports.watch = series(devBuildTask, watcher);
 exports.uat = series(cleanTask, prodBuildTask, server);
 
