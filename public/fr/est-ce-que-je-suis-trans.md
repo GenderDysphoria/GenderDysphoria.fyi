@@ -111,13 +111,13 @@ Cela a du sens dans le grand schéma des choses, car il y a probablement plus de
 
 L'hypothèse nulle cis pose une question simple et efficace : une fois que tu retires ton doigt de la balance, quelle est la probabilité que tu sois trans ? Si tu accordes le même poids aux deux hypothèses "je suis cis" et "je suis trans", et si tu cesses d'exiger que la transidentité porte toute la charge de la preuve, qu'est-ce qui te semble juste ? Si tu commences à chercher des preuves de la cisité de la même manière que tu cherches des preuves de la transidentité, toute l'illusion peut parfois s'effondrer.
 
-### Consider That If You Want To Be A Girl/Boy, Then You Are Already A Girl/Boy
+### Considère que si tu veux être une fille/un garçon, tu es déjà une fille/un garçon
 
-It really is that simple. Men want to be men, and women want to be women. If you want to be a man, then you‘re a man. If you want to be a woman, then you’re a woman. If you don’t want to be either, or you want to be both, or you want to be a woman sometimes and a man other times, then you’re probably some flavor of genderfluid or non-binary.
+C'est vraiment aussi simple que ça. Les hommes veulent être des hommes, et les femmes veulent être des femmes. Si tu veux être un homme, alors tu es un homme. Si tu veux être une femme, alors tu es une femme. Si tu ne veux être ni l'un ni l'autre, ou si tu veux être les deux, ou si tu veux être une femme parfois et un homme d'autres fois, alors tu es probablement une sorte de genderfluid ou de non-binaire.
 
-“But you can’t just…do that!” I hear you say. But you absolutely can just do that. In fact, this is basically the one and only question you really have to answer for yourself. If you want to be a girl and you’ve always thought of yourself as a guy, then you will probably be happier living as a girl. It’s at least worth taking some steps to see if transitioning will bring you happiness, right?
+"Mais tu ne peux pas juste... faire ça !" Je t'entends dire. Mais tu peux absolument faire ça. En fait, c'est la seule et unique question à laquelle tu dois répondre par toi-même. Si tu veux être une fille et que tu t'es toujours considéré comme un garçon, tu seras probablement plus heureux.se en vivant comme une fille. Cela vaut au moins la peine de faire quelques pas pour voir si la transition t'apportera le bonheur, n'est-ce pas ?
 
-### Considère que le fait de douter de toi n'invalide pas ton éventuelle transidentité.
+### Considère que le fait de douter de toi n'invalide pas ton éventuelle transidentité
 
 Pendant des années, voire des décennies, j'ai "su" que je n'étais pas trans, car les "vrais" trans sont censés avoir une certitude inébranlable quant à leur propre identité. J'ai intériorisé cette image fictive d'une jeune femme trans exigeant que tout le monde la traite comme la femme qu'elle est, défiante face à l'oppression.
 
@@ -129,7 +129,7 @@ Mais au départ, nous avons presque tous l'impression que notre genre est un fou
 
 Si tu ressentes toutes ces choses, tu es en bonne compagnie. Mon thérapeute plaisante même en disant que la question "suis-je assez trans ?" est si courante qu'elle est pratiquement un symptôme de la transidentité. Tu ne peux pas déterminer ton identité de genre sans la remettre en question, et le doute de soi est une partie normale de ce processus.
 
-### Considère que ton parcours trans ne correspond peut-être pas à la narration populaire acceptée.
+### Considère que ton parcours trans ne correspond peut-être pas à la narration populaire acceptée
 
 La culture populaire a décidé qu'il n'y avait qu'une seule histoire transféminine digne d'être racontée. C'est l'histoire d'une jeune fille trans qui découvre son identité à un très jeune âge. Dès l'enfance, elle est attirée par les poupées et les goûters. Elle essaie les robes de sa grande sœur et supplie sa mère de lui acheter du maquillage et des bijoux. En gros, elle a toujours l'air d'une fille : traits de visage féminins, petite taille, mince et androgyne. Si elle n'effectue pas de transition pendant l'enfance ou l'adolescence, elle arrivera quand même à l'âge adulte en ressemblant plus ou moins à une femme. Elle se travestit tout le temps, et peut même être une drag queen. Elle est aussi probablement attirée par les hommes, et peut avoir travaillé un temps comme travailleuse du sexe.
 
@@ -167,7 +167,7 @@ On te donne un bouton magique qui te permet de changer définitivement de sexe, 
 
 Les personnes cis n'envisageraient même pas d'appuyer sur ce bouton, d'ailleurs. Si tu sais au fond de toi que tu appuis sur ce bouton mais que tu as toujours peur de t'accepter comme trans, alors ton point de blocage a probablement plus à voir avec ton peur de la transition qu'avec ta véritable identité.
 
-### Considère que c'est rarement "juste un fétiche".
+### Considère que c'est rarement "juste un fétiche"
 
 Je ne saurais te dire combien de personnes transgenres - dont je fais partie - ont commencé à explorer leurs sentiments de genre dans le domaine des fantasmes sexuels.
 
