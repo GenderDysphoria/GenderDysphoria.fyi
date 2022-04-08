@@ -11,8 +11,18 @@ html[lang=de], html[lang=pl], html[lang=hu] {
   }
 }
 
-html[lang=hu] {
-	blockquote {
-		font-family: $font-secondary-comp;
-	}
+@media screen {
+  html[lang=hu] {
+  	blockquote {
+  		font-family: $font-secondary-comp;
+  	}
+  }
+}
+
+@media print {
+  html[lang=hu] {
+    blockquote {
+      font-family: serif;
+    }
+  }
 }
