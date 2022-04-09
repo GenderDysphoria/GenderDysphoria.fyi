@@ -8,7 +8,7 @@ classes:
 preBody: '_disclaimer'
 lang: fr
 siblings:
-  prev: /hu/qu-est-ce-que-le-genre
+  prev: /fr/qu-est-ce-que-le-genre
   prevCaption: Qu'est-ce que le Genre ?
   next: /fr/euphorie
   nextCaption: Euphorie du genre
