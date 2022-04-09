@@ -8,8 +8,8 @@ lang: fr
 siblings:
   prev: /fr/dysphorie-sexuelle
   prevCaption: Dysphorie Sexuelle
-  next: /en/existential-dysphoria
-  nextCaption: Existential Dysphoria
+  next: /fr/dysphorie-existentielle
+  nextCaption: Dysphorie Existentielle
 classes:
   - gdb
 tweets:

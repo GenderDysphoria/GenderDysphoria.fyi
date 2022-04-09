@@ -55,7 +55,7 @@ siblings:
 
 10. [Dysphorie de Présentation](/fr/dysphorie-de-presentation)
 
-11. [Existential Dysphoria](/fr/existential-dysphoria)
+11. [Dysphorie Existentielle](/fr/dysphorie-existentielle)
 
 12. [Managed Dysphoria](/fr/managed-dysphoria)
 
