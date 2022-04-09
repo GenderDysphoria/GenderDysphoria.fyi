@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "The Gender Dysphoria Bible"
+title: "La Bible de la Dysphorie de Genre"
 linkTitle: Introduction
-description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
+description: "Une plongée dans la multitude de façons dont la dysphorie de genre se manifeste et ce que signifie être transgenre."
 preBody: '_disclaimer'
 lang: fr
 classes:
@@ -18,7 +18,7 @@ siblings:
   '~/img'
   images.titlecard
   srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
-  alt="The Gender Dysphoria Bible"
+  alt="La Bible de la Dysphorie de Genre"
   style="margin-bottom: 1em;"
   imgStyle="width: 100%"
 }}
@@ -87,28 +87,28 @@ siblings:
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Trans·gen·der</strong> - <em>adjective</em><br>
-  Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+  <strong>Trans·gen·re</strong> - <em>adjectif</em><br>
+  Désigne ou se rapporte à une personne dont le sentiment d'identité personnelle et le genre ne correspondent pas au sexe qui lui a été assigné à la naissance.
 </blockquote></div>
 }!}
 
-For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal gender does not align with the physical features of their body. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital reconstruction surgery.
+Depuis que la civilisation humaine existe, [il y a eu des gens](https://fr.wikipedia.org/wiki/Histoire_de_la_transidentit%C3%A9) dont l'expérience de leur genre interne ne correspond pas aux caractéristiques physiques de leur corps. Les Gala, une classe de prêtres de sexe intermédiaire de l'empire sumérien, existaient il y a plus de 4 500 ans. Les cultures indigènes d'Amérique du Nord reconnaissaient [un troisième genre](https://fr.wikipedia.org/wiki/Troisi%C3%A8me_genre) bien avant le colonialisme européen, et le font encore aujourd'hui. L'empereur romain Elagabalus (218 ap. J.-C.) a insisté pour qu'on l'appelle Lady plutôt que Lord, et a même proposé une rançon pour quiconque pourrait effectuer une chirurgie de reconstruction génitale.
 
-In spite of this, however, the modern understanding of the transgender experience has only existed for approximately 130 years. Even the word "transgender" only dates back to 1965, when John Oliven proposed it as a more accurate alternative to David Cauldwell's term "transsexual" (coined in 1949), which itself replaced Magnus Hirschfield's term "transvestite" (1910).
+Malgré cela, la compréhension moderne de l'expérience transgenre n'existe que depuis environ 130 ans. Même le mot "transgenre" ne date que de 1965, lorsque John Oliven l'a proposé comme une alternative plus précise au terme "transsexuel" de David Cauldwell (inventé en 1949), qui avait lui-même remplacé le terme "travesti" de Magnus Hirschfield (1910).
 
-To be transgender is to have a gender identity which does not match the gender you were presumed to have based on the genitalia you were born with. This can mean a person born with a penis is actually a girl, that a person born with a vulva is actually a boy, or that a person with either genital configuration may not wholly fit either side of that spectrum and is non-binary.
+Être transgenre, c'est avoir une identité de genre qui ne correspond pas au genre présumé en fonction des organes génitaux que l'on a à la naissance. Cela peut signifier qu'une personne née avec un pénis est en fait une fille, qu'une personne née avec une vulve est en fait un garçon, ou qu'une personne ayant l'une ou l'autre configuration génitale peut ne pas correspondre entièrement à l'un ou l'autre côté de ce spectre et être non-binaire.
 
-A trans person can come to recognize this at *any point* in their life. Some children identify it at as soon as they are able to grasp the concept of the differences between the sexes, others don't start to feel anything until the onset of puberty, and still others do not realize that anything is wrong at all until they are fully adults. Many people are simply never exposed to the idea that their gender could mismatch their birth sex, or what that feels like, and thus simply accepted their fate.
+Une personne transgenre peut en venir à le reconnaître à *tout moment* de sa vie. Certains enfants l'identifient dès qu'ils sont capables de saisir le concept de différence entre les sexes, d'autres ne commencent pas à ressentir quoi que ce soit avant le début de la puberté, et d'autres encore ne réalisent pas que quelque chose ne va pas du tout avant d'être pleinement adultes. De nombreuses personnes n'ont tout simplement jamais été exposées à l'idée que leur genre pouvait ne pas correspondre à leur sexe de naissance, ni à ce qu'elles ressentent, et ont donc simplement accepté leur sort.
 
-Even more common is a perception that even though they have feelings about being unhappy with the gender they were assigned at birth, they believe that this is not the same as what transgender people experience. Some may feel that a wish to be transgender and have transition available is some kind of disrespect towards "real" trans people who knew they were actually boys or girls "born in the wrong body." These narratives of the transgender experience that have been spread by popular media create a very false impression of just what it means to be transgender and what growing up transgender feels like.
+Il est encore plus courant de penser que, même s'ils sont mécontents du sexe qui leur a été assigné à la naissance, ils estiment que ce n'est pas la même chose que ce que vivent les personnes transgenres. Certains peuvent penser que le souhait d'être transgenre et de disposer d'une transition est une sorte de manque de respect envers les "vrais" trans qui savent qu'ils sont en fait des garçons ou des filles "nés dans le mauvais corps". Ces récits de l'expérience transgenre qui ont été diffusés par les médias populaires créent une impression très fausse de ce que signifie être transgenre et de ce que c'est que de grandir transgenre.
 
-This experience of discontinuity between the societal presumed gender and the internal sense of self is what we describe as Gender Dysphoria, and is common among nearly all trans individuals, regardless of their position within or outside of the gender binary. This has at times been something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests itself, and what qualifies a person as being trans. By and large, however, this debate is feckless and fruitless, as the definition at the top of this page encompasses the beginning and the ending of how these terms intermingle. If you identify with a gender that does not match what was assigned to you at birth, your claim to the transgender identity is valid, no matter how you experience that incongruence.
+Cette expérience de discontinuité entre le genre présumé par la société et le sentiment interne de soi est ce que nous décrivons comme la dysphorie de genre, et est commune à presque toutes les personnes trans, indépendamment de leur position à l'intérieur ou à l'extérieur du binaire de genre. Il s'agit d'un sujet parfois politique au sein des communautés trans, car différents groupes ont leurs propres idées sur ce qu'est la dysphorie de genre, comment elle se manifeste et ce qui qualifie une personne de trans. Dans l'ensemble, cependant, ce débat est inutile et stérile, car la définition figurant en haut de cette page représente le début et la fin de la façon dont ces termes s'entremêlent. Si tu t'identifies à un sexe qui ne correspond pas à celui qui t'a été assigné à la naissance, ta revendication de l'identité transgenre est valable, quelle que soit la façon dont tu vis cette incongruité.
 
-The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as the numerous forms of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
+Le but de ce site est de documenter les nombreuses façons dont la dysphorie de genre peut se manifester, ainsi que les nombreuses formes de transition de genre, afin de fournir un guide à ceux qui s'interrogent, à ceux qui commencent leur voyage transgenre, à ceux qui sont déjà sur leur chemin, et à ceux qui souhaitent simplement être de meilleurs alliés.
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">
-<span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<span>Titre de l'œuvre basé sur les œuvres de <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
 {{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
