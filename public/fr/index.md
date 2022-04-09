@@ -24,6 +24,13 @@ siblings:
 }}
 }!}
 
+{!{
+<div class="gutter"><blockquote>
+  Traduction réalisée par <strong>Adéna Muráncsik</strong>.
+</blockquote></div>
+}!}
+
+
 ### Table of Contents:
 
 {!{ <div class="two-column-list"> }!}
