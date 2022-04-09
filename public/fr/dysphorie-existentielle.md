@@ -10,8 +10,8 @@ lang: fr
 siblings:
   prev: /fr/dysphorie-de-presentation
   prevCaption: Dysphorie de Présentation
-  next: /en/managed-dysphoria
-  nextCaption: Managed Dysphoria
+  next: /fr/dysphorie-geree
+  nextCaption: Dysphorie Gérée
 ---
 
 # Dysphorie Existentielle

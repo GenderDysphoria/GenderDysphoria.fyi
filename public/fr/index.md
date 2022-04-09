@@ -57,7 +57,7 @@ siblings:
 
 11. [Dysphorie Existentielle](/fr/dysphorie-existentielle)
 
-12. [Managed Dysphoria](/fr/managed-dysphoria)
+12. [Dysphorie Gérée](/fr/dysphorie-geree)
 
 13. [Impostor Syndrome](/fr/impostor-syndrome)
 
