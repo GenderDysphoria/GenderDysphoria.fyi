@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  next: /en/what-is-gender
+  next: /fr/what-is-gender
   nextCaption: What is Gender?
 ---
 
@@ -27,49 +27,49 @@ siblings:
 
 {!{ <div class="two-column-list"> }!}
 
-1. [Introduction](/en/#introduction)
+1. [Introduction](/fr/#introduction)
 
-2. [What is Gender?](/en/what-is-gender)
+2. [What is Gender?](/fr/what-is-gender)
 
-3. [The History of Gender Dysphoria](/en/history)
+3. [The History of Gender Dysphoria](/fr/history)
 
-4. [Gender Euphoria](/en/euphoria)
+4. [Gender Euphoria](/fr/euphoria)
 
-5. [Physical Dysphoria](/en/physical-dysphoria)
+5. [Physical Dysphoria](/fr/physical-dysphoria)
 
-6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
+6. [Biochemical Dysphoria](/fr/biochemical-dysphoria)
 
-7. [Social Dysphoria](/en/social-dysphoria)
+7. [Social Dysphoria](/fr/social-dysphoria)
 
-8. [Societal Dysphoria](/en/societal-dysphoria)
+8. [Societal Dysphoria](/fr/societal-dysphoria)
 
-9. [Sexual Dysphoria](/en/sexual-dysphoria)
+9. [Sexual Dysphoria](/fr/sexual-dysphoria)
 
-10. [Presentational Dysphoria](/en/presentational-dysphoria)
+10. [Presentational Dysphoria](/fr/presentational-dysphoria)
 
-11. [Existential Dysphoria](/en/existential-dysphoria)
+11. [Existential Dysphoria](/fr/existential-dysphoria)
 
-12. [Managed Dysphoria](/en/managed-dysphoria)
+12. [Managed Dysphoria](/fr/managed-dysphoria)
 
-13. [Impostor Syndrome](/en/impostor-syndrome)
+13. [Impostor Syndrome](/fr/impostor-syndrome)
 
-14. [Am I Trans?](/en/am-i-trans)
+14. [Est-ce que je suis trans ?](/fr/est-ce-que-je-suis-trans)
 
-15. [Clinical Diagnoses](/en/diagnoses)
+15. [Clinical Diagnoses](/fr/diagnoses)
 
-16. [Treating Gender Dysphoria](/en/treatment)
+16. [Treating Gender Dysphoria](/fr/treatment)
 
-17. [Causes of Gender Dysphoria](/en/causes)
+17. [Causes of Gender Dysphoria](/fr/causes)
 
-18. [Chromosomes](/en/chromosomes)
+18. [Chromosomes](/fr/chromosomes)
 
-19. [How Hormones Work](/en/hormones)
+19. [How Hormones Work](/fr/hormones)
 
-20. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+20. [Androgenic Second Puberty 101](/fr/second-puberty-masc)
 
-21. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+21. [Estrogenic Second Puberty 101](/fr/second-puberty-fem)
 
-22. [Conclusion](/en/conclusion)
+22. [Conclusion](/fr/conclusion)
 
 {!{ </div> }!}
 
