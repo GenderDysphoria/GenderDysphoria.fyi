@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: fr
 siblings:
   prev: /fr/dysphorie-biochimique
-  prevCaption: Dysphorie biochimique
+  prevCaption: Dysphorie Biochimique
   next: /fr/dysphorie-societale
   nextCaption: Dysphorie Sociétale
 classes:

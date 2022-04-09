@@ -1,13 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Presentational Dysphoria"
-linkTitle: "Presentational Dysphoria"
+title: "How Gender Dysphoria Manifests: Dysphorie de Présentation"
+linkTitle: "Dysphorie de Présentation"
 description: "Hoodies and sweatpants never go out of style."
 preBody: '_disclaimer'
 lang: fr
 siblings:
-  prev: /en/sexual-dysphoria
-  prevCaption: Sexual Dysphoria
+  prev: /fr/dysphorie-sexuelle
+  prevCaption: Dysphorie Sexuelle
   next: /en/existential-dysphoria
   nextCaption: Existential Dysphoria
 classes:
@@ -20,7 +20,7 @@ tweets:
   - https://twitter.com/DameKraft/status/1191555135756853249
 ---
 
-# Presentational Dysphoria
+# Dysphorie de Présentation
 
 Clothes. Hair. Makeup. Jewelry. Glasses. Piercings and other body modifications. Even personal hygiene can be a factor of presentation, such as the shaving of body hair, or how you take care of your skin. All of these things are gendered in society, clothing and hair especially.
 

@@ -51,9 +51,9 @@ siblings:
 
 8. [Dysphorie Sociétale](/fr/dysphorie-societale)
 
-9. [Sexual Dysphoria](/fr/sexual-dysphoria)
+9. [Dysphorie Sexuelle](/fr/dysphorie-sexuelle)
 
-10. [Presentational Dysphoria](/fr/presentational-dysphoria)
+10. [Dysphorie de Présentation](/fr/dysphorie-de-presentation)
 
 11. [Existential Dysphoria](/fr/existential-dysphoria)
 
