@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 siblings:
   prev: /en/second-puberty-masc
   prevCaption: Androgenic Second Puberty
-  next: /en/conclusion
+  next: /fr/conclusion
   nextCaption: Conclusion
 classes:
   - gdb

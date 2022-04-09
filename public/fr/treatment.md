@@ -4,10 +4,10 @@ title: "Treating Gender Dysphoria"
 description: "Transition is the cure."
 preBody: '_disclaimer'
 siblings:
-  prev: /en/diagnoses
+  prev: /fr/diagnoses
   prevCaption: Clinical Diagnoses
-  next: /en/causes
-  nextCaption: Causes of Gender Dysphoria
+  next: /fr/causes
+  nextCaption: Causes de la dysphorie de genre
 classes:
   - gdb
 ---

@@ -7,9 +7,9 @@ preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  prev: /en/causes
-  prevCaption: Causes of Gender Dysphoria
-  next: /en/hormones
+  prev: /fr/causes
+  prevCaption: Causes de la dysphorie de genre
+  next: /fr/hormones
   nextCaption: How Hormones Work
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328

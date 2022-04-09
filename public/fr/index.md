@@ -59,7 +59,7 @@ siblings:
 
 16. [Treating Gender Dysphoria](/fr/treatment)
 
-17. [Causes of Gender Dysphoria](/fr/causes)
+17. [Causes de la dysphorie de genre](/fr/causes)
 
 18. [Chromosomes](/fr/chromosomes)
 
