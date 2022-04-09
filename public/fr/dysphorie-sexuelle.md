@@ -17,7 +17,7 @@ tweets:
 
 ---
 
-# Sexual Dysphoria
+# Dysphorie Sexuelle
 
 La dysphorie centrée sur la sexualité, les relations sexuelles et l'acte d'avoir des relations sexuelles est étroitement liée à la dysphorie sociétale. Les rôles sexuels [hétéronormatifs](https://fr.wikipedia.org/wiki/H%C3%A9t%C3%A9ronormativit%C3%A9) sont accompagnés d'une attente selon laquelle [les AMAB seront en haut et les AFAB en bas](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). Ces dynamiques sont renforcées par nos médias populaires, par la masculinité toxique, et surtout par notre pornographie, même dans la pornographie *transgenre* (la majeure partie de la pornographie trans/cis met en scène la femme trans qui domine). Les déviations de ces rôles entraînent souvent de la honte, tant de la part des partenaires que des pairs.
 
