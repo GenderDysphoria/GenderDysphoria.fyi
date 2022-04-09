@@ -8,8 +8,8 @@ lang: fr
 siblings:
   prev: /en/euphoria
   prevCaption: Gender Euphoria
-  next: /en/biochemical-dysphoria
-  nextCaption: Biochemical Dysphoria
+  next: /fr/dysphorie-biochimique
+  nextCaption: Dysphorie biochimique
 classes:
   - gdb
 tweets:

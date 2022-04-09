@@ -38,7 +38,7 @@ siblings:
 
 5. [Physical Dysphoria](/fr/physical-dysphoria)
 
-6. [Biochemical Dysphoria](/fr/biochemical-dysphoria)
+6. [Dysphorie biochimique](/fr/dysphorie-biochimique)
 
 7. [Social Dysphoria](/fr/social-dysphoria)
 
@@ -66,9 +66,9 @@ siblings:
 
 19. [How Hormones Work](/fr/hormones)
 
-20. [Androgenic Second Puberty 101](/fr/second-puberty-masc)
+20. [Deuxième Puberté Androgenique](/fr/deuxieme-puberte-androgenique)
 
-21. [Estrogenic Second Puberty 101](/fr/second-puberty-fem)
+21. [Deuxième Puberté Œstrogénique](/fr/deuxieme-puberte-oestrogenique)
 
 22. [Conclusion](/fr/conclusion)
 

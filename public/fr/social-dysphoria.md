@@ -6,8 +6,8 @@ description: "Pronouns and Deadnames and Gendering, oh my."
 preBody: '_disclaimer'
 lang: fr
 siblings:
-  prev: /en/biochemical-dysphoria
-  prevCaption: Biochemical Dysphoria
+  prev: /fr/dysphorie-biochimique
+  prevCaption: Dysphorie biochimique
   next: /en/societal-dysphoria
   nextCaption: Societal Dysphoria
 classes:
