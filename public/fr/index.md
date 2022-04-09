@@ -8,8 +8,8 @@ lang: fr
 classes:
   - gdb
 siblings:
-  next: /fr/what-is-gender
-  nextCaption: What is Gender?
+  next: /fr/qu-est-ce-que-le-genre
+  nextCaption: Qu'est-ce que le genre ?
 ---
 
 
@@ -45,9 +45,9 @@ siblings:
 
 5. [Dysphorie Physique](/fr/dysphorie-physique)
 
-6. [Dysphorie biochimique](/fr/dysphorie-biochimique)
+6. [Dysphorie Biochimique](/fr/dysphorie-biochimique)
 
-7. [Social Dysphoria](/fr/social-dysphoria)
+7. [Dysphorie Sociale](/fr/dysphorie-sociale)
 
 8. [Societal Dysphoria](/fr/societal-dysphoria)
 

@@ -29,25 +29,25 @@ tweets:
 }!}
 
 
-Before I can talk about discomfort, I have to talk about relief. Gender Euphoria is itself a sign of Gender Dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
+Avant de parler d'inconfort, je dois parler de soulagement. L'euphorie de genre est elle-même un signe de dysphorie de genre. Tu te demandes peut-être : "Comment le bonheur peut-il être de la tristesse ?" La réponse à cette question est simple.
 
-Imagine a person who was born in a cave, who spent their entire life living underground, their only source of illumination being candles and oil lamps. Imagine they've never been above ground, they don't even know the surface exists. Then one day a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later they return to the opening, and as the person's eyes adjust they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
+Imagine une personne qui est née dans une grotte, qui a passé toute sa vie sous terre, sa seule source d'éclairage étant des bougies et des lampes à huile. Imagine que cette personne n'est jamais sortie du sol, qu'elle ne sait même pas que la surface existe. Puis un jour, un effondrement se produit dans un tunnel latéral, et révèle une ouverture vers la surface. La lumière du soleil se déverse dans l'ouverture, et au début, elle est aveuglante et la personne s'enfuit de peur. Plus tard, elle retourne à l'ouverture et, lorsque ses yeux s'ajustent, elle regarde à travers le trou et voit un monde brillant et éclatant, plein de couleurs dont elle ne soupçonnait même pas l'existence.
 
-That world is scary, it's huge and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually they peek out more and more frequently, and further and further from the opening. They start to want that light, they find reasons to visit it more often.
+Ce monde est effrayant, il est immense et plein d'inconnues, alors il rampe dans la grotte pour se mettre en sécurité, mais ce trou est toujours là, et il voit la lumière chaque fois qu'ils le traversent. Peu à peu, il jete un coup d'œil de plus en plus fréquemment, et de plus en plus loin de l'ouverture. Il commence à aimer cette lumière, ils trouvent des raisons de la visiter plus souvent.
 
-Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, they want to stay here. Going back into the hole feels wrong, it starts to hurt to be in the dark so much.
+Finalement, il se rend compte qu'ils ne veut plus retourner dans le trou. Il doit y retourner, car c'est là que se trouvent leur famille et leurs amis, mais cet endroit est tellement mieux qu'ils veulent y rester. Retourner dans le trou est une mauvaise chose, cela commence à faire mal d'être dans l'obscurité.
 
-This is what Gender Euphoria is like, it is brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
+C'est à cela que ressemble l'euphorie de genre, de brefs éclairs de lumière qui peuvent être trop brillants pour être gérés au début, trop déroutants pour être compris, mais avec le temps, tu t'y habitues et tu réalises que tu es à ta place, et l'obscurité devient la dysphorie.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Many trans people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage acting, drag, role playing games, video games; small little forays into a different gender than they have lived as. They find that it feels just a little bit more comfortable. They'll make up excuses for why ("If I'm gonna be looking at this character's ass, it might as well be a girl's ass."), they'll try to convince themselves it's all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they're role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being "you" starts to hurt. Eventually, the old you becomes the costume.
+De nombreuses personnes transgenres n'ont aucune idée de l'intensité de leur souffrance jusqu'à ce qu'elles trouvent un petit soulagement. Cosplay, jeu de scène, travestissement, jeux de rôle, jeux vidéo ; de petites incursions dans un genre différent de celui qu'ils ont connu. Ils trouvent que c'est juste un peu plus confortable. Ils s'inventent des excuses ("Si je dois regarder les fesses de ce personnage, autant que ce soit celles d'une fille"), ils essaient de se convaincre que c'est juste pour le plaisir, ou une expression artistique. Ils se diront peut-être que la joie qu'ils éprouvent à entendre un pronom différent n'est qu'une nouveauté. Mais rapidement, ils se retrouvent à chercher des raisons de l'obtenir plus souvent. De plus en plus souvent, ils jouent des personnages d'un autre sexe, construisent plus de costumes, achètent plus de vêtements, se produisent plus souvent. Tu te retrouves à vouloir faire cela tout le temps, parce que c'est mieux que ta vie réelle, et être "toi" commence à faire mal. Finalement, l'ancien toi devient le costume.
 
-This is the most fundamental reason why we as a community say "you do not need dysphoria to be trans", because black ink on a black canvas isn't visible without close examination and a lot of light.
+C'est la raison la plus fondamentale pour laquelle nous, en tant que communauté, disons "tu n'as pas besoin de dysphorie pour être trans", car l'encre noire sur une toile noire n'est pas visible sans un examen attentif et beaucoup de lumière.
 
-Anything that can be a source of dysphoria has an equal and opposite euphoria.
+Tout ce qui peut être une source de dysphorie a une euphorie égale et opposée.
 
 {!{ <div class="print-break-before"></div> }!}
 
@@ -57,22 +57,22 @@ Anything that can be a source of dysphoria has an equal and opposite euphoria.
   '1228165767264256003'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Examples:
+Exemples :
 
-- Being gendered correctly
-- Being addressed by your chosen name
-- Wearing correctly gendered clothing
-- Seeing and feeling changes in your body
-- Seeing yourself in the mirror (removal of depersonalization)
-- Socializing in a way that conforms with gendered expectations
-- Getting a haircut in a masculine / feminine / androgynous manner
-- Shaving your legs
-- NOT shaving your legs
-- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal shower or bachelor party)
-- Feeling sexy / having sex in a way that aligns with your gender and sexuality.
+- Être correctement identifié par son genre
+- S'adresser à soi par le nom que il/elle as choisi
+- Porter des vêtements adaptés à son genre
+- Voir et sentir des changements dans son corps
+- Se voir dans un miroir (suppression de la dépersonnalisation)
+- Socialiser d'une manière conforme aux attentes liées au genre
+- Se faire couper les cheveux de manière masculine / féminine / androgyne
+- Se raser les jambes
+- Ne pas se raser les jambes
+- Être inclus dans quelque chose que tu n'aurais pas pu faire autrement en raison du genre qui t'a été assigné (par exemple, un enterrement de vie de jeune fille ou de garçon).
+- Se sentir sexy / avoir des relations sexuelles d'une manière qui correspond à son genre et à sa sexualité.
 
-Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
+Le simple fait de sortir dans le monde en étant soi-même et d'être vu comme tel peut être extrêmement euphorisant.
 
-**What euphoria is NOT** is a sexual high, turn on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
+**Ce que l'euphorie n'est PAS** est un état d'euphorie sexuelle, une excitation ou un fétichisme. Parfois, l'euphorie peut déclencher une réponse sexuelle, et de nombreux facteurs peuvent en être la cause (se sentir bien dans son corps est un excitant, par exemple), mais ce n'est pas une source d'excitation sexuelle. Les personnes transgenres ne prennent pas de plaisir à se présenter ou à agir comme elles le font vraiment.
 
-That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely, it does not go away when they go back to their daily lives.
+Cela dit, de nombreuses personnes qui n'ont pas encore réalisé qu'elles sont trans peuvent avoir recours à des fétiches et à des kinks pour exprimer leur genre et/ou soulager leur dysphorie. Elles peuvent conserver certains de ces penchants pendant la transition. Il n'y a pas de honte à cela, la façon dont elles trouvent leur épanouissement sexuel ne regarde qu'elles. Cependant, ces choses sont *en parallèle* avec leur genre. Le sentiment de genre d'une personne trans persiste indéfiniment, il ne disparaît pas lorsqu'elle retourne à sa vie quotidienne.
