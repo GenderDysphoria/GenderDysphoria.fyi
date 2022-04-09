@@ -65,7 +65,7 @@ siblings:
 
 15. [Diagnostiques](/fr/diagnostiques)
 
-16. [Treating Gender Dysphoria](/fr/treatment)
+16. [Traitement de la Dysphorie de Genre](/fr/traitement)
 
 17. [Causes de la Dysphorie de Genre](/fr/causes)
 

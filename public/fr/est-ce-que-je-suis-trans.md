@@ -6,7 +6,7 @@ description: "La route pour répondre à la question la plus difficile"
 siblings:
   prev: /fr/syndrome-d-imposteur
   prevCaption: Syndrome de l'imposteur
-  next: /fr/diagnoses
+  next: /fr/diagnostiqes
   nextCaption: Diagnostiques
 classes:
   - gdb

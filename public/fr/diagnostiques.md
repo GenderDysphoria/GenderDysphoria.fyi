@@ -10,8 +10,8 @@ classes:
 siblings:
   prev: /fr/est-ce-que-je-suis-trans
   prevCaption: Est-ce que je suis trans ?
-  next: /en/treatment
-  nextCaption: Treating Gender Dysphoria
+  next: /fr/traitement
+  nextCaption: Traitement de la Dysphorie de Genre
 ---
 
 # Comment la dysphorie de genre est-elle diagnostiquée ?
