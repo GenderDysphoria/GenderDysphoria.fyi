@@ -49,7 +49,7 @@ siblings:
 
 7. [Dysphorie Sociale](/fr/dysphorie-sociale)
 
-8. [Societal Dysphoria](/fr/societal-dysphoria)
+8. [Dysphorie Sociétale](/fr/dysphorie-societale)
 
 9. [Sexual Dysphoria](/fr/sexual-dysphoria)
 
@@ -92,7 +92,7 @@ siblings:
 </blockquote></div>
 }!}
 
-Depuis que la civilisation humaine existe, [il y a eu des gens](https://fr.wikipedia.org/wiki/Histoire_de_la_transidentit%C3%A9) dont l'expérience de leur genre interne ne correspond pas aux caractéristiques physiques de leur corps. Les Gala, une classe de prêtres de sexe intermédiaire de l'empire sumérien, existaient il y a plus de 4 500 ans. Les cultures indigènes d'Amérique du Nord reconnaissaient [un troisième genre](https://fr.wikipedia.org/wiki/Troisi%C3%A8me_genre) bien avant le colonialisme européen, et le font encore aujourd'hui. L'empereur romain Elagabalus (218 ap. J.-C.) a insisté pour qu'on l'appelle Lady plutôt que Lord, et a même proposé une rançon pour quiconque pourrait effectuer une chirurgie de reconstruction génitale.
+Depuis que la civilisation humaine existe, [il y avait des gens](https://fr.wikipedia.org/wiki/Histoire_de_la_transidentit%C3%A9) dont l'expérience de leur genre interne ne correspond pas aux caractéristiques physiques de leur corps. Les Gala, une classe de prêtres de sexe intermédiaire de l'empire sumérien, existaient il y a plus de 4 500 ans. Les cultures indigènes d'Amérique du Nord reconnaissaient [un troisième genre](https://fr.wikipedia.org/wiki/Troisi%C3%A8me_genre) bien avant le colonialisme européen, et le font encore aujourd'hui. L'empereur romain Elagabalus (218 ap. J.-C.) a insisté pour qu'on l'appelle Lady plutôt que Lord, et a même proposé une rançon pour quiconque pourrait effectuer une chirurgie de reconstruction génitale.
 
 Malgré cela, la compréhension moderne de l'expérience transgenre n'existe que depuis environ 130 ans. Même le mot "transgenre" ne date que de 1965, lorsque John Oliven l'a proposé comme une alternative plus précise au terme "transsexuel" de David Cauldwell (inventé en 1949), qui avait lui-même remplacé le terme "travesti" de Magnus Hirschfield (1910).
 
