@@ -4,10 +4,10 @@ title: "Est-ce que je suis trans ?"
 linkTitle: "Est-ce que je suis trans ?"
 description: "La route pour répondre à la question la plus difficile"
 siblings:
-  prev: /en/impostor-syndrome
-  prevCaption: Impostor Syndrome
-  next: /en/diagnoses
-  nextCaption: Clinical Diagnoses
+  prev: /fr/syndrome-d-imposteur
+  prevCaption: Syndrome de l'imposteur
+  next: /fr/diagnoses
+  nextCaption: Diagnostiques
 classes:
   - gdb
 preBody: '_disclaimer'

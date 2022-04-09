@@ -59,15 +59,15 @@ siblings:
 
 12. [Dysphorie Gérée](/fr/dysphorie-geree)
 
-13. [Impostor Syndrome](/fr/impostor-syndrome)
+13. [Syndrome de l'imposteur](/fr/syndrome-d-imposteur)
 
 14. [Est-ce que je suis trans ?](/fr/est-ce-que-je-suis-trans)
 
-15. [Clinical Diagnoses](/fr/diagnoses)
+15. [Diagnostiques](/fr/diagnostiques)
 
 16. [Treating Gender Dysphoria](/fr/treatment)
 
-17. [Causes de la dysphorie de genre](/fr/causes)
+17. [Causes de la Dysphorie de Genre](/fr/causes)
 
 18. [Chromosomes](/fr/chromosomes)
 

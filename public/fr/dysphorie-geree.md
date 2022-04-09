@@ -8,8 +8,8 @@ lang: fr
 siblings:
   prev: /fr/dysphorie-existentielle
   prevCaption: Dysphorie Existentielle
-  next: /en/impostor-syndrome
-  nextCaption: Impostor Syndrome
+  next: /fr/syndrome-d-imposteur
+  nextCaption: Syndrome d'imposteur
 classes:
   - gdb
 tweets:
