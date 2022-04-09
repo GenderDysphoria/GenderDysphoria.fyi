@@ -71,12 +71,12 @@ Zinnia Jones [donne ces descriptions pour la dépersonnalisation](https://web.ar
 - Ressentir le monde comme distant, onirique, brumeux, sans vie, sans couleur, artificiel, comme une image sans profondeur ou moins que réel.
 - Être absorbé par soi-même et faire l'expérience d'un examen compulsif de soi ou d'une rumination extrême.
 - Avoir un dialogue permanent et cohérent avec soi-même
-- Avoir l'impression qu'un voile ou un mur de verre vous sépare du monde.
+- Avoir l'impression qu'un voile ou un mur de verre te sépare du monde.
 - Engourdissement émotionnel ou physique, comme l'impression d'avoir la tête remplie de coton.
 - Manque d'autonomie - sentiment d'être plat, robotique, mort ou comme un "zombie".
 - Incapacité d'imaginer des choses
 - Être capable de penser clairement, mais avoir l'impression qu'une qualité essentielle fait défaut dans ses pensées ou son expérience du monde.
-- Un sentiment de déconnexion de la vie, qui vous empêche de vous engager de manière créative et ouverte dans le monde.
+- Un sentiment de déconnexion de la vie, qui t'empêche de t'engager de manière créative et ouverte dans le monde.
 
 Il se peut que tu n'accordes que peu d'importance à ton apparence physique, ne répondant qu'aux besoins utilitaires de base en matière de vêtements et d'hygiène personnelle. Il se peut aussi que tu te concentres sur ton apparence, en essayant de susciter une sorte de joie, un sentiment de fierté dans ton propre corps, mais que tu ne trouves que plus de vide.
 

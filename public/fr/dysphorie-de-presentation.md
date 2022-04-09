@@ -22,7 +22,7 @@ tweets:
 
 # Dysphorie de Présentation
 
-Vêtements. Coiffure. Maquillage. Bijoux. Lunettes. Les piercings et autres modifications corporelles. Même l'hygiène personnelle peut être un facteur de présentation, comme le rasage des poils du corps ou la façon dont vous prenez soin de votre peau. Toutes ces choses sont sexuées dans la société, en particulier les vêtements et les cheveux.
+Vêtements. Coiffure. Maquillage. Bijoux. Lunettes. Les piercings et autres modifications corporelles. Même l'hygiène personnelle peut être un facteur de présentation, comme le rasage des poils du corps ou la façon dont tu prends soin de ta peau. Toutes ces choses sont sexuées dans la société, en particulier les vêtements et les cheveux.
 
 Si la révolution sexuelle des années 1960 et la folie de la mode commerciale des années 1980 ont fait des merveilles pour estomper le fossé entre les présentations masculines et féminines (en grande partie en normalisant la mode masculine comme androgyne), il existe toujours d'énormes pressions pour se conformer aux normes de genre traditionnelles. L'habillement non conforme au genre est si instantanément marqué comme pédé que chaque fois qu'une femme porte un tailleur, elle est cataloguée comme lesbienne, et qu'un père qui [met un costume d'Elsa parce que son fils veut organiser une fête Frozen](https://twitter.com/cbsnews/status/1088441623846023168?lang=en) est étiqueté comme subversif et abusif envers son enfant.
 
@@ -34,7 +34,7 @@ Qu'on le veuille ou non, la présentation est sexuée, et il est extrêmement co
 
 La dysphorie de présentation apparaît généralement très tôt sous la forme d'une fascination pour le style d'un autre sexe et d'un désir de pouvoir se présenter comme les personnes de ce sexe. Ce désir peut être satisfait dans une certaine mesure par la recherche d'un style unisexe, mais il est généralement entretenu par des déclarations du type "Je n'ai pas assez confiance en moi pour tenter cela". Les AMAB rencontrent souvent le problème suivant : ce désir est souvent piégé derrière les attentes hétéronormatives, ce qui fait que l'intérêt pour une présentation féminine est mal interprété comme un désir sexuel.
 
-La dysphorie de présentation post-transition est généralement un simple cas d'inconfort élevé lorsqu'on tente de se présenter dans le genre assigné. Il se peut qu'il ne s'agisse même pas de l'apparence, mais simplement de la façon dont les vêtements vous font sentir. Pendant la première année et demie de ma propre transition, je ne pouvais pas supporter de porter des t-shirts unisexes, car ils me donnaient l'impression d'être plus masculin. Même aujourd'hui, je dois couper les cols de mes t-shirts, car le col serré me rend dysphorique.
+La dysphorie de présentation post-transition est généralement un simple cas d'inconfort élevé lorsqu'on tente de se présenter dans le genre assigné. Il se peut qu'il ne s'agisse même pas de l'apparence, mais simplement de la façon dont les vêtements te font sentir. Pendant la première année et demie de ma propre transition, je ne pouvais pas supporter de porter des t-shirts unisexes, car ils me donnaient l'impression d'être plus masculin. Même aujourd'hui, je dois couper les cols de mes t-shirts, car le col serré me rend dysphorique.
 
 ### L'effet de la présentation sur la dysphorie physique.
 

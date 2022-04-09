@@ -47,7 +47,7 @@ Il existe quatre principaux types d'hormones :
   link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
   external=1
   alt="Graphique du flux du métabolisme des stéroïdes"
-  caption="Tous les stéroïdes sont formés à partir de cholestérols (en haut à gauche) et sont dérivés d'autres stéroïdes. Les progestatifs se transforment en androgènes qui se transforment en œstrogènes. Il s'agit d'un échange à sens unique, qui ne s'inverse pas. Ne croyez donc pas quelqu'un qui vous dit que trop d'œstrogènes les transformeront en testostérone."
+  caption="Tous les stéroïdes sont formés à partir de cholestérols (en haut à gauche) et sont dérivés d'autres stéroïdes. Les progestatifs se transforment en androgènes qui se transforment en œstrogènes. Il s'agit d'un échange à sens unique, qui ne s'inverse pas. Ne croyez donc pas quelqu'un qui te dit que trop d'œstrogènes les transformeront en testostérone."
 }}</div> }!}
 
 Dans le cadre de la transition, c'est cette dernière catégorie qui nous intéresse le plus, car toutes les hormones sexuelles sont des stéroïdes. Elles se répartissent en sept catégories principales :

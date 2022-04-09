@@ -123,7 +123,7 @@ Elle peut se manifester par une compulsion à se débarrasser de certains traits
 
 Les caractéristiques physiques non désirées peuvent inciter une personne à éprouver de l'envie pour les personnes qui ont été forcées de supprimer ces caractéristiques en raison de maladies, comme le cancer des testicules ou du sein. Les AMAB souffrant de dysphorie génitale sévère ont tendance à souhaiter qu'un accident bizarre provoque la perte de leur phallus.
 
-Parfois, il peut tout simplement s'agir d'un sentiment d'incorrection, que vous n'attribuez peut-être même pas au genre ou au sexe. Pendant la majeure partie de ma vie, j'ai cru que si je détestais mon corps, c'était parce que j'étais grosse. Ce n'est que lorsque j'ai commencé ma transition que j'ai réalisé que je ne détestais pas du tout ma graisse, mais que je détestais avoir une graisse *mâle*. Les courbes féminines que le THS m'a données me font me sentir beaucoup plus en accord avec mon corps.
+Parfois, il peut tout simplement s'agir d'un sentiment d'incorrection, que tu n'attribues peut-être même pas au genre ou au sexe. Pendant la majeure partie de ma vie, j'ai cru que si je détestais mon corps, c'était parce que j'étais grosse. Ce n'est que lorsque j'ai commencé ma transition que j'ai réalisé que je ne détestais pas du tout ma graisse, mais que je détestais avoir une graisse *mâle*. Les courbes féminines que le THS m'a données me font me sentir beaucoup plus en accord avec mon corps.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'

@@ -50,11 +50,11 @@ Le sexe humain (l'adjectif, pas le verbe) se décompose en trois catégories :
 - **[Phénotype](https://fr.wikipedia.org/wiki/Ph%C3%A9notype)** : Les caractéristiques sexuelles primaires et secondaires observables (organes génitaux, répartition des graisses et des muscles, structure osseuse, etc.)
 - **[Genre](https://fr.wikipedia.org/wiki/Genre_(sciences_sociales))** : Les caractéristiques sexuelles **pas** observables, le modèle mental interne du sexe d'une personne et la façon dont elle l'exprime.
 
-Chacun de ces trois aspects peut se situer dans une position sur un éventail de valeurs. Votre cours de santé à l'école élémentaire vous a probablement appris que le génotype est binaire, c'est-à-dire qu'il s'agit d'une femme (XX) ou d'un homme (XY), alors qu'en réalité, il existe une douzaine d'autres permutations qui peuvent se produire chez les êtres humains.
+Chacun de ces trois aspects peut se situer dans une position sur un éventail de valeurs. Votre cours de santé à l'école élémentaire t'a probablement appris que le génotype est binaire, c'est-à-dire qu'il s'agit d'une femme (XX) ou d'un homme (XY), alors qu'en réalité, il existe une douzaine d'autres permutations qui peuvent se produire chez les êtres humains.
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-De même, beaucoup de gens croient que le phénotype est également binaire, mais la biologie a reconnu depuis des centaines d'années que lorsque vous tracez la courbe de toutes les caractéristiques sexuelles d'une population, vous obtenez en fait une distribution bimodale où la majorité de la population se situe dans un percentile de deux groupes. Cela signifie que certaines personnes, par la simple nature de la vie, se situent en dehors des deux groupes typiques. De nombreuses personnes se situent au milieu, avec des caractéristiques des deux sexes.
+De même, beaucoup de gens croient que le phénotype est également binaire, mais la biologie a reconnu depuis des centaines d'années que lorsque tu traces la courbe de toutes les caractéristiques sexuelles d'une population, tu obtiens en fait une distribution bimodale où la majorité de la population se situe dans un percentile de deux groupes. Cela signifie que certaines personnes, par la simple nature de la vie, se situent en dehors des deux groupes typiques. De nombreuses personnes se situent au milieu, avec des caractéristiques des deux sexes.
 
 Le genre, cependant, est beaucoup plus... ésotérique. Les gens ont tenté d'illustrer le spectre du genre de nombreuses manières différentes, mais aucune n'a réussi à le saisir complètement, car le spectre est en soi un concept très abstrait.
 

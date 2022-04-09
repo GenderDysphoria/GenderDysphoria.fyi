@@ -114,7 +114,7 @@ Moins de masse corporelle signifie moins de sang dans lequel diluer les produits
 
 ### Changements mentaux
 
-Comme nous l'avons décrit dans la section [Dysphorie biochimique](), les cerveaux peuvent être câblés pour un certain profil hormonal, et utiliser le mauvais profil revient à utiliser un ordinateur portable dont les piles sont faibles ou le processeur surchauffé. La mise en route d'un THS entraîne presque universellement une cessation des symptômes de dépersonnalisation et de déréalisation (DPDR) dans les deux premières semaines. Un brouillard mental se dissipe et il devient plus facile de se concentrer sur des concepts complexes (en supposant que tu n'as pas d'autres difficultés de traitement mental comme le TDAH).
+Comme nous l'avons décrit dans la section [Dysphorie biochimique](/fr/dysphorie-biochimique), les cerveaux peuvent être câblés pour un certain profil hormonal, et utiliser le mauvais profil revient à utiliser un ordinateur portable dont les piles sont faibles ou le processeur surchauffé. La mise en route d'un THS entraîne presque universellement une cessation des symptômes de dépersonnalisation et de déréalisation (DPDR) dans les deux premières semaines. Un brouillard mental se dissipe et il devient plus facile de se concentrer sur des concepts complexes (en supposant que tu n'as pas d'autres difficultés de traitement mental comme le TDAH).
 
 ##### TDAH
 
