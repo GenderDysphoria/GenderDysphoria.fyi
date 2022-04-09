@@ -1,15 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Les bases de deuxième puberté androgénique"
-linkTitle: Deuxième puberté androgénique
+title: "Les bases de Deuxième Puberté Androgénique"
+linkTitle: Deuxième Puberté Androgénique
 description: "Ce que tu dois attendre de THS masculinisant"
 preBody: '_disclaimer'
 lang: fr
 siblings:
-  prev: /en/hormones
-  prevCaption: How Hormones Work
+  prev: /fr/hormones
+  prevCaption: Comment fonctionnent les Hormones
   next: /fr/deuxieme-puberte-oestrogenique
-  nextCaption: Deuxième puberté œstrogénique
+  nextCaption: Deuxième Puberté Œstrogénique
 classes:
   - gdb
 

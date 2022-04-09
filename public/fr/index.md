@@ -71,7 +71,7 @@ siblings:
 
 18. [Chromosomes](/fr/chromosomes)
 
-19. [How Hormones Work](/fr/hormones)
+19. [Comment fonctionnent les Hormones](/fr/hormones)
 
 20. [Deuxième Puberté Androgenique](/fr/deuxieme-puberte-androgenique)
 

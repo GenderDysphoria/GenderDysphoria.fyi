@@ -60,7 +60,7 @@ Les ongles sont constitués de kératine, et de nombreux gènes de la kératine 
 
 ### Réduction des poils du corps
 
-N'attends pas à une cessation totale de la pilosité corporelle, une fois que les follicules sont rendus terminaux par la DHT, ils le restent. Cependant, tout comme les ongles, l'épaisseur des poils est l'expression des gènes de la kératine activés par les androgènes. L'élimination de la testostérone rend les poils du corps plus fins et plus clairs. La génétique joue toutefois un rôle majeur dans ce domaine.
+N'attends pas à une cessation totale de la pilosité corporelle, une fois que les follicules sont rendus terminaux par l'androstanolone, ils le restent. Cependant, tout comme les ongles, l'épaisseur des poils est l'expression des gènes de la kératine activés par les androgènes. L'élimination de la testostérone rend les poils du corps plus fins et plus clairs. La génétique joue toutefois un rôle majeur dans ce domaine.
 
 ### Changements de la température corporelle
 
@@ -196,7 +196,7 @@ Analogue des lèvres externes et internes, le scrotum se ramollit pour prendre u
 
 ##### Moins d'érections
 
-Sans testostérone flottante, les niveaux de [DHT](https://fr.wikipedia.org/wiki/Androstanolone) dans la circulation sanguine diminuent considérablement. La DHT joue un rôle majeur dans la stimulation des érections aléatoires pendant le sommeil par l'élargissement de la prostate, et ces érections sont responsables de l'entretien du tissu érectile. Sans DHT, la prostate rétrécit à nouveau et les érections aléatoires cessent (plus de bois du matin).
+Sans testostérone flottante, les niveaux d'androstanolone(https://fr.wikipedia.org/wiki/Androstanolone) dans la circulation sanguine diminuent considérablement. L'androstanolone joue un rôle majeur dans la stimulation des érections aléatoires pendant le sommeil par l'élargissement de la prostate, et ces érections sont responsables de l'entretien du tissu érectile. Sans androstanolone, la prostate rétrécit à nouveau et les érections aléatoires cessent (plus de bois du matin).
 
 Cependant, cela signifie que le tissu érectile va commencer à s'atrophier. Une atrophie prolongée entraîne un rétrécissement de l'organe entier, pour le meilleur ou pour le pire. La forme du pénis change alors, devenant souvent plus conique. Le gland est la première partie à rétrécir et peut perdre sa capacité à devenir rigide. Les rapports sexuels avec pénétration peuvent devenir plus difficiles, et les érections elles-mêmes peuvent devenir douloureuses.
 
