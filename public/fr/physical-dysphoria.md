@@ -6,8 +6,8 @@ description: "Body discomfort is only one of the many ways Gender Dysphoria mani
 preBody: '_disclaimer'
 lang: fr
 siblings:
-  prev: /en/euphoria
-  prevCaption: Gender Euphoria
+  prev: /fr/euphorie
+  prevCaption: Euphorie du genre
   next: /fr/dysphorie-biochimique
   nextCaption: Dysphorie biochimique
 classes:

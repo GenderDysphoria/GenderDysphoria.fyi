@@ -31,19 +31,19 @@ siblings:
 }!}
 
 
-### Table of Contents:
+### Table des matières :
 
 {!{ <div class="two-column-list"> }!}
 
 1. [Introduction](/fr/#introduction)
 
-2. [What is Gender?](/fr/what-is-gender)
+2. [Qu'est-ce que le Genre ?](/fr/qu-est-ce-que-le-genre)
 
-3. [The History of Gender Dysphoria](/fr/history)
+3. [L'histoire de la Dysphorie de Genre](/fr/histoire)
 
-4. [Gender Euphoria](/fr/euphoria)
+4. [Euphorie du Genre](/fr/euphorie)
 
-5. [Physical Dysphoria](/fr/physical-dysphoria)
+5. [Dysphorie Physique](/fr/dysphorie-physique)
 
 6. [Dysphorie biochimique](/fr/dysphorie-biochimique)
 
