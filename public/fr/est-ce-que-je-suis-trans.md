@@ -11,6 +11,7 @@ siblings:
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: fr
 ---
 
 æææ<div class="cw"><p><strong>Note du curateur</strong>: La page suivante est tirée <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">d'un article fantastique écrit par Cassie LaBelle</a> et a été partagée avec permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">Tu peux lire d'autres de ses écrits sur Medium.</a></div>æææ

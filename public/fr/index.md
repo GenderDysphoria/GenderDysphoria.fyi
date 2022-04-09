@@ -4,6 +4,7 @@ title: "The Gender Dysphoria Bible"
 linkTitle: Introduction
 description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
 preBody: '_disclaimer'
+lang: fr
 classes:
   - gdb
 siblings:

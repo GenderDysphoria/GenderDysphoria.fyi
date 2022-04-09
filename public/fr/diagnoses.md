@@ -4,6 +4,7 @@ title: "Diagnosing Gender Dysphoria"
 linkTitle: "Clinical Diagnoses"
 description: "It's clinical."
 preBody: '_disclaimer'
+lang: fr
 classes:
   - gdb
 siblings:

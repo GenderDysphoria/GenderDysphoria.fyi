@@ -4,6 +4,7 @@ title: "How Gender Dysphoria Manifests: Euphoria"
 linkTitle: "Gender Euphoria"
 description: "In order for there to be shadow there must be light."
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/history
   prevCaption: The History of Gender Dysphoria

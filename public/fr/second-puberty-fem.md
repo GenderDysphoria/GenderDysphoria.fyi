@@ -4,6 +4,7 @@ title: "Estrogenic Second Puberty 101"
 linkTitle: Estrogenic Puberty
 description: "What to expect from feminizing HRT"
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/second-puberty-masc
   prevCaption: Androgenic Second Puberty

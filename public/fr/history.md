@@ -6,6 +6,7 @@ description: "The origins of Gender Dysphoria and the current meaning today."
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/what-is-gender
   prevCaption: What Is Gender?

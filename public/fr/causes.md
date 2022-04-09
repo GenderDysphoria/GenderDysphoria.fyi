@@ -4,6 +4,7 @@ title: "Quelle est la cause de l'incompatibilité de genre ?"
 linkTitle: "Causes de la dysphorie de genre"
 description: "C'est les hormones, chéri.e."
 preBody: '_disclaimer'
+lang: fr
 classes:
   - gdb
 tweets:

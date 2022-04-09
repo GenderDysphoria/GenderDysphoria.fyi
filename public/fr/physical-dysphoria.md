@@ -4,6 +4,7 @@ title: "How Gender Dysphoria Manifests: Physical Dysphoria"
 linkTitle: "Physical Dysphoria"
 description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/euphoria
   prevCaption: Gender Euphoria

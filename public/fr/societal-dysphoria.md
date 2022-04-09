@@ -4,6 +4,7 @@ title: "How Gender Dysphoria Manifests: Societal Dysphoria"
 linkTitle: "Societal Dysphoria"
 description: "Because a Role is a Role, and a Toll is a Toll, and it's a heavy toll to live the wrong role."
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/social-dysphoria
   prevCaption: Social Dysphoria

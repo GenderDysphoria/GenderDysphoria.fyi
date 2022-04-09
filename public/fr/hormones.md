@@ -4,6 +4,7 @@ title: "Hormones: How do they work"
 linkTitle: "How Hormones Work"
 description: "Keys, Locks, and Car Ignitions"
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/chromosomes
   prevCaption: Chromosomes

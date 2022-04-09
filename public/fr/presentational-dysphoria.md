@@ -4,6 +4,7 @@ title: "How Gender Dysphoria Manifests: Presentational Dysphoria"
 linkTitle: "Presentational Dysphoria"
 description: "Hoodies and sweatpants never go out of style."
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/sexual-dysphoria
   prevCaption: Sexual Dysphoria

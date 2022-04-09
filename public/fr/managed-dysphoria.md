@@ -4,6 +4,7 @@ title: "Managed Dysphoria: Gender in Disguise"
 linkTitle: "Managed Dysphoria"
 description: "The ways we've coped."
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/existential-dysphoria
   prevCaption: Existential Dysphoria

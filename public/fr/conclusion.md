@@ -9,6 +9,7 @@ siblings:
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: fr
 ---
 
 # Choix

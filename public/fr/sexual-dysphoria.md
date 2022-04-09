@@ -4,6 +4,7 @@ title: "How Gender Dysphoria Manifests: Sexual Dysphoria"
 linkTitle: "Sexual Dysphoria"
 description: "Sometimes a Cigar doesn't want to be smoked."
 preBody: '_disclaimer'
+lang: fr
 siblings:
   prev: /en/societal-dysphoria
   prevCaption: Societal Dysphoria
