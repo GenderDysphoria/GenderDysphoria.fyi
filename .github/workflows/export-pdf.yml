@@ -123,6 +123,6 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: GenderDysphoria.fyi/GenderDysphoria.fyi
+          repository: ${{ github.actor }}/GenderDysphoria.fyi
           branch: export-pdfs
           force: true
