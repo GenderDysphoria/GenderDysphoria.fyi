@@ -52,7 +52,7 @@ Si ton cerveau est conçu pour une hormone gonadique (comme la testostérone) et
   >
   {{/with}}
   <p class="ig-caption">
-    #TransformationMardi - Comme je l'ai souvent dit dans des articles comme celui-ci, nos yeux reflètent notre vie. La plus grande différence que je vois dans l'apparence des personnes trans après la transition est toujours les yeux ; souvent tristes ou distants dans le passé, ils sont brillants et pleins de vie dans le présent.
+    #TransformationMardi - Comme je l'ai souvent dit dans des articles comme celui-ci, nos yeux reflètent notre vie. La plus grande différence que je vois dans l'apparence des personnes trans après la transition, c'est toujours les yeux ; souvent tristes ou distants dans le passé, ils sont brillants et pleins de vie dans le présent.
   </p>
   <p class="ig-footer">
     <time datetime="2019-11-05T19:54:45+00:00">Le 5 Novembre, 2019</time>
@@ -61,7 +61,7 @@ Si ton cerveau est conçu pour une hormone gonadique (comme la testostérone) et
 </div>
 }!}
 
-**La dépersonnalisation** est une déconnexion de ton propre corps, une incapacité à croire que la personne que tu vois dans le miroir est réellement toi-même. TU as l'impression de regarder quelqu'un d'autre dans ton corps. Tu peux te retrouver à ne pas te soucier de ce qui arrive à ton corps, à ne pas te préoccuper des changements de poids ou de l'amélioration de ta condition physique parce que tu n'es pas propriétaire de ce véhicule charnel qui te transporte dans ta vie.
+**La dépersonnalisation** est une déconnexion de ton propre corps, une incapacité à croire que la personne que tu vois dans le miroir est réellement toi-même. Tu as l'impression de regarder quelqu'un d'autre dans ton corps. Tu peux te retrouver à ne pas te soucier de ce qui arrive à ton corps, à ne pas te préoccuper des changements de poids ou de l'amélioration de ta condition physique parce que tu n'es pas propriétaire de ce véhicule charnel qui te transporte dans ta vie.
 
 Zinnia Jones [donne ces descriptions pour la dépersonnalisation](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
@@ -91,9 +91,9 @@ Il se peut que tu ne te préoccupes pas de l'état de ton corps, que tu ne craig
 
 **La déréalisation** est un détachement du monde qui t'entoure, un sentiment mental que tout ce que tu perçois est faux.
 
-- Ton environnement te semble étranger ou inconnu, même si tu as toujours été là, comme si quelqu'un avait échangé ta maison contre une réplique de scène.
-- Se déplacer dans le monde donne l'impression de marcher sur un tapis roulant, les bâtiments se déplaçant autour de toi au lieu que tu les traversie.
-- Se sentir émotionnellement déconnecté des personnes qui sont chères pour toi, comme si tu étais séparé par un mur de verre, ou comme si elles n'étaient que des acteurs prétendant être les personnes qu'ils prétendent être.
+- Ton environnement te semble étranger ou inconnu, même si tu as toujours été là, comme si quelqu'un avait échangé ta maison contre une réplique de théâtre.
+- Se déplacer dans le monde donne l'impression de marcher sur un tapis roulant, les bâtiments se déplaçant autour de toi plutôt que toi qui les traverse.
+- Se sentir émotionnellement déconnecté des personnes qui sont chères pour toi, comme si tu étais séparé par un mur de verre, ou comme si elles n'étaient que des acteurs prétendant être les personnes qu'ils disent être.
 - Un environnement qui semble déformé, flou, incolore, bidimensionnel ou artificiel, ou une conscience et une clarté accrues de ton environnement. Les feuilles des arbres semblent avoir des bords très nets, par exemple.
 - Distorsions de la perception du temps, comme des événements récents qui semblent appartenir à un passé lointain.
 - Distorsions de la distance, de la taille et de la forme des objets.
@@ -103,7 +103,7 @@ Si tu t'es trouvé fortement lié à The Matrix ou The Truman Show, il se peut q
 
 Le DPDR s'accompagne parfois d'un rabougrissement émotionnel. Tu es capable de rire et de trouver de l'humour, mais rarement de la joie véritable. Les moments de tristesse ou de deuil te rendent insensible, dissocié de l'événement qui les a provoqués. Cela peut également aller dans le sens inverse, lorsque la personne est tellement anxieuse que sa réponse émotionnelle est extrêmement disproportionnée par rapport au catalyseur, ce qui se traduit par des pleurs violents ou des explosions de violence pour des événements apparemment anodins.
 
-Il est important de noter que le DPDR n'est pas exclusif à la dysphorie de genre. Ce trouble est comorbide avec plusieurs autres problèmes de santé mentale, notamment la dépression chronique, le trouble obsessionnel compulsif et le trouble de la personnalité limite. La DPDR ne doit pas être considérée comme un signe de dysphorie de genre à elle seule, c'est juste un signal d'alarme important qui indique que quelque chose ne va pas du tout. En outre, il est généralement assez facile à repérer de l'extérieur, une fois que tu sais comment l'observer. Les personnes atteintes de DPDR ont tendance à avoir un regard fixe qui dure des kilomètres lorsqu'elles se déplacent dans le monde ; des yeux si sombres et morts qu'ils ressemblent à une coquille. L'un des commentaires les plus fréquents sur les lignes de temps de transition est que les yeux gagnent tellement en éclat.
+Il est important de noter que le DPDR n'est pas exclusif à la dysphorie de genre. Ce trouble est comorbide avec plusieurs autres problèmes de santé mentale, notamment la dépression chronique, le trouble obsessionnel compulsif et le trouble de la personnalité limite. La DPDR ne doit pas être considérée comme un signe de dysphorie de genre à elle seule, c'est juste un signal d'alarme important qui indique que quelque chose ne va pas du tout. En outre, il est généralement assez facile à repérer de l'extérieur, une fois que tu sais comment l'observer. Les personnes atteintes de DPDR ont tendance à avoir un regard fixe qui dure des kilomètres lorsqu'elles se déplacent dans le monde ; des yeux si sombres et morts qu'ils ressemblent à une coquille. L'un des commentaires les plus fréquents sur les chronologies de transition est que les yeux gagnent tellement en éclat.
 
 ### Le flux et le reflux
 
@@ -111,11 +111,11 @@ L'intensité de la dysphorie physique et biochimique est fortement influencée p
 
 - Si ta glycémie est déréglée ou si tu souffres d'un problème de thyroïde, ta dysphorie peut monter en flèche.
 - Si tu es en manque de dopamine à cause de l'arrêt des stimulants, cela peut aggraver la situation.
-- Si tu commences à prendre un antidépresseur ISRS et que tu te mets à courir avec plus de sérotonine, cela peut rendre la dysphorie moins intense.
+- Si tu commences à prendre un antidépresseur ISRS et que tu te mets à fonctionner avec plus de sérotonine, cela peut rendre la dysphorie moins intense.
 - Les AMAB transféminins (personnes assignées mâles à la naissance) avec des testicules connaissent des poussées de testostérone en relation avec l'attraction et le désir, ce qui peut les rendre plus dysphoriques.
 - Les AFAB transmasculins (personnes assignées à la naissance à un sexe féminin) dont les ovaires ne sont pas supprimés connaissent des hausses et des baisses d'œstrogène et de progestérone au cours de leur cycle menstruel, ce qui intensifie et atténue leur dysphorie en fonction du jour du cycle où elles se trouvent.
 
-Il y a des dizaines de systèmes dans le corps qui fonctionnent tous en tandem, et ils fluctuent tous d'un jour à l'autre, manipulant l'état mental général. Cette dysphorie générale peut amplifier l'effet de toutes les autres dysphories. Un jour, tu peux te débarrasser d'une erreur d'appellation comme si de rien n'était, et le lendemain, cela te fait mal comme un coup de poignard dans le cœur à chaque fois. Un jour, tu te vois dans le miroir, le lendemain, tu regardes l'ancien toi.
+Il y a des dizaines de systèmes dans le corps qui fonctionnent tous en synergie, et ils fluctuent tous d'un jour à l'autre, manipulant l'état mental général. Cette dysphorie générale peut amplifier l'effet de toutes les autres dysphories. Un jour, tu peux ignorer une erreur de pronom comme si de rien n'était, et le lendemain, cela te fait mal comme un coup de poignard dans le cœur à chaque fois. Un jour, tu te vois toi-même dans le miroir, le lendemain, tu regardes l'ancien toi.
 
 Certaines personnes font l'expérience de la fluidité du genre, avec certains jours un penchant masculin, d'autres un penchant féminin, et d'autres encore ne se sentent pas de genre, ou les deux. D'autres le ressentent simplement comme une rivière saisonnière ; parfois elle gonfle à cause des pluies en amont, parfois elle ralentit à un filet d'eau à cause de la sécheresse.
 
@@ -132,7 +132,7 @@ Tout cela est valable, et ce n'est pas parce que tu te sens très dysphorique un
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Tu entendras parfois des opposants suggérer que la prise d'une hormonothérapie améliore toujours la santé mentale. J'ai entendu ça moi-même quand j'ai fait mon coming out à ma mère. "Les œstrogènes rendent tout le monde plus heureux." C'est tout à fait faux. Lorsque des personnes cis sont soumises à une hormonothérapie croisée, cela entraîne toujours une dysphorie. C'est l'une des raisons pour lesquelles la spironolactone est rarement prescrite aux hommes, car le facteur anti-androgène provoque une instabilité mentale. Cinq à dix pour cent des femmes cis souffrent du syndrome des ovaires polykystiques (SOPK), une affection qui fait que les ovaires produisent de la testostérone au lieu d'œstrogènes. Demandez à n'importe laquelle d'entre elles comment se porte leur santé mentale, et elles te répondront sans hésiter.
+Tu entendras parfois des opposants suggérer que la prise d'une hormonothérapie améliore toujours la santé mentale. J'ai entendu ça moi-même quand j'ai fait mon coming out à ma mère. "Les œstrogènes rendent tout le monde plus heureux." C'est tout à fait faux. Lorsque des personnes cis sont soumises à une hormonothérapie croisée, cela entraîne toujours une dysphorie. C'est l'une des raisons pour lesquelles la spironolactone est rarement prescrite aux hommes, car le facteur anti-androgène provoque une instabilité mentale. Cinq à dix pour cent des femmes cis souffrent du syndrome des ovaires polykystiques (SOPK), une affection qui fait que les ovaires produisent de la testostérone au lieu d'œstrogènes. Demandez à n'importe laquelle d'entre elles comment se porte leur santé mentale, et elles t'en parleront sans hésiter.
 
 Le cas tragique de [David Reimer](https://fr.wikipedia.org/wiki/David_Reimer) en est une preuve éclatante. À l'âge de sept mois, David et son frère jumeau ont subi une circoncision pour traiter un phimosis (affection cutanée du prépuce). L'opération de David a mal tourné et le pénis a été détruit. La décision a été prise de pratiquer une vaginoplastie et de l'élever comme une fille, avec une œstrogénothérapie à la puberté. À l'âge de 13 ans, il était plongé dans une dépression suicidaire et souffrait énormément, car il n'est pas possible d'entraîner et d'encourager un garçon à aimer être une fille. Lorsque ses parents l'ont informé de ce qui s'était passé, il a repris une présentation masculine, est passé à une thérapie à la testostérone et, au cours de son adolescence, a subi de multiples opérations afin de redevenir un homme.
 

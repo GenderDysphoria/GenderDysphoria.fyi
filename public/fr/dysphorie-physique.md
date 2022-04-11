@@ -49,7 +49,7 @@ Tout le monde a entendu parler de l'histoire du "né dans le mauvais corps". La 
   <div>
 }!}
 
-Les principales caractéristiques reproductives qui se développent pendant la grossesse :
+Les principales caractéristiques reproductives qui se développent dès la grossesse :
 
 - Gonades
   - Testicules
@@ -78,7 +78,7 @@ Tous les traits sexuellement dimorphiques qui se développent pendant et après 
   - Cou, épaules et haut du corps
   - Bras et jambes
   - Abdominaux
-- Carrure squelettique
+- Carrure osseuse
   - Taille
   - Taille des pieds et des mains
   - Largeur des épaules
@@ -119,7 +119,7 @@ Elle peut être ressentie comme de l'horreur ou de la répulsion lorsqu'on regar
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Elle peut se manifester par une compulsion à se débarrasser de certains traits corporels, comme le rasage obsessionnel des poils du corps ou du visage. Cela peut aussi se manifester par une compulsion inverse, conduisant à un toilettage méticuleux de ces traits afin d'essayer de les contrôler, comme entretenir une barbe parfaite, garder constamment ses ongles manucurés et polis, ou passer des heures dans une salle de sport pour essayer d'affiner sa forme.
+Elle peut se manifester par une compulsion à se débarrasser de certains traits corporels, comme le rasage obsessionnel des poils du corps ou du visage. Cela peut aussi se manifester par une compulsion inverse, conduisant à un toilettage méticuleux de ces traits afin d'essayer de les contrôler, comme entretenir une barbe parfaite, garder constamment ses ongles manucurés et vernis, ou passer des heures dans une salle de sport pour essayer d'affiner sa forme.
 
 Les caractéristiques physiques non désirées peuvent inciter une personne à éprouver de l'envie pour les personnes qui ont été forcées de supprimer ces caractéristiques en raison de maladies, comme le cancer des testicules ou du sein. Les AMAB souffrant de dysphorie génitale sévère ont tendance à souhaiter qu'un accident bizarre provoque la perte de leur phallus.
 
@@ -144,7 +144,7 @@ Ce n'est pas grave si tu n'as pas du tout besoin d'une transition médicale. Les
 
 ### Problèmes d'image corporelle intériorisée
 
-Le monde est rempli de messages inconscients sur la façon dont les corps des hommes et des femmes devraient être façonnés. Nous sommes bombardés de publicités et de médias qui créent une vision normalisée de ce qui est beau et de ce qui ne l'est pas. Ne sois pas trop gros, ne sois pas trop maigre, ne sois pas trop grand, ne sois pas trop petit, n'aie pas un menton trop large, n'aie pas un nez trop grand, maquille-toi, mais ne mets pas trop de maquillage, ne quittes pas la maison sans soutien-gorge, mais ne laisses pas le paraître. Et ainsi de suite, le barrage constant d'attentes en matière d'apparence sexuée.
+Le monde est rempli de messages inconscients sur la façon dont les corps des hommes et des femmes devraient être façonnés. Nous sommes bombardés de publicités et de médias qui créent une vision normalisée de ce qui est beau et de ce qui ne l'est pas. Ne sois pas trop gros, ne sois pas trop maigre, ne sois pas trop grand, ne sois pas trop petit, n'aie pas un menton trop large, n'aie pas un nez trop grand, maquille-toi, mais ne mets pas trop de maquillage, ne quittes pas la maison sans soutien-gorge, mais ne laisses pas se voir. Et ainsi de suite, le barrage constant d'attentes en matière d'apparence sexuée.
 
 Tout le monde absorbe ces messages, et les personnes transgenres intériorisent les facteurs qui comptent pour le genre auquel elles s'alignent. Les filles trans grandissent en s'imposant des normes féminines, les garçons trans s'imposent des normes masculines, et les enbies intériorisent souvent la honte liée à l'androgynie. Cela vient *en plus* de la honte qu'ils ressentent de ne pas être à la hauteur des normes du genre qui leur a été assigné.
 
