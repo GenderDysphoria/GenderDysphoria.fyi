@@ -1,110 +1,215 @@
 const fs = require('fs');
 const zlib = require('zlib');
-const warc = require('node-warc');
-const request = require('request-promise');
+const {WARCWriterBase} = require('node-warc');
 const util = require('util');
 const parse5 = require('parse5');
 const xpathhtml = require("xpath-html");
 const css = require('css');
+const http = require('http');
 
-const Port = process.env.PORT || 8000
-const FakeBaseHostName = 'genderdysphoria.fyi';
-const BaseHostName = '127.0.0.1';
-const BaseUrl = 'http://'+BaseHostName+':'+Port;
-const UrlCssRegexp = /url\((https?:\/\/[^)]+)\)/ig;
-const UserAgent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36";
+class GDBWarc {
+	#filename;
+	#writer;
+	#status;
+	#hostMap;
+	#domainsToInclude;
+	#pagesToInclude;
+	#downloadedFiles;
+	#pages;
 
-let concurrentRequests = 0;
+	static user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36";
+	static main_domain = 'genderdysphoria.fyi';
+	static main_base_url = 'https://'+GDBWarc.main_domain;
+	static urlCssRegexp = /url\((https?:\/\/[^)]+)\)/ig;
 
-const myRq = request.defaults({
-	simple: false,
-	headers: {
-		'User-Agent': UserAgent
-	},});
+	constructor(filename, proxy_url) {
+		this.#filename = filename;
+		this.#writer = new WARCWriterBase({
+			appending: false,
+			gzip: false
+		});
+		this.#hostMap = {};
+		if (proxy_url !== undefined && proxy_url !== '') {
+			this.#hostMap[proxy_url] = GDBWarc.main_domain;
+			this.#hostMap[GDBWarc.main_domain] = proxy_url;
+		}
+		this.#domainsToInclude = {
+			'fonts.googleapis.com': true,
+			'fonts.gstatic.com': true,
+			'cdnjs.cloudflare.com': true,
+			'twemoji.maxcdn.com': true
+		};
+		this.#domainsToInclude[GDBWarc.main_domain] = true;
+		this.#pagesToInclude = ['/', /^\/pt(\/.*)?/i, /^\/en(\/.*)?/i, /^\/zh(\/.*)?/i];
+		this.#downloadedFiles = {};
+		this.#pages = [];
 
-const rejectedDomains = {};
+		this.#status = 0;
+	}
 
-const domainsDownloadAction = {
-	"fonts.googleapis.com": true,
-	"fonts.gstatic.com": true,
-	"cdnjs.cloudflare.com": true
-}
-domainsDownloadAction[BaseHostName] = true;
+	async start() {
+		if (this.#status != 0) {
+			return;
+		}
+		this.#status = 1;
+		this.#writer.initWARC(this.#filename);
+		this.#writer.writeWarcInfoRecord({});
+	}
 
-const pagesDownloaded = [];
+	parseURL(url) {
+		return new URL(url, GDBWarc.main_base_url);
+	}
 
-function shouldIncludeUrl(rawURL, downloadedFiles) {
-	if (rawURL === undefined) {
+	async addPage(url, page_recursion, dep_recursion) {
+		if (this.#status < 1) {
+			this.start();
+		}
+		await this.#add_page(this.parseURL(url), page_recursion, dep_recursion);
+	}
+
+	should_add_page(url) {
+		if (!(url instanceof URL)) {
+			throw new Error('Only URL objects allowed');
+		}
+
+		if (url.host !== GDBWarc.main_domain) {
+			return false;
+		}
+		const path = url.pathname;
+		for (const pat of this.#pagesToInclude) {
+			if (path === pat) {
+				return true;
+			}
+			if (pat instanceof RegExp) {
+				var match = path.match(pat);
+				if (match && path === match[0]) {
+					return true;
+				}
+			}
+		}
 		return false;
 	}
 
-	const url = new URL(rawURL, BaseUrl);
+	should_add_file(url) {
+		if (!(url instanceof URL)) {
+			throw new Error('Only URL objects allowed');
+		}
 
-	if (domainsDownloadAction[url.hostname]) {
-		return true;
+		return this.#domainsToInclude[url.host];
 	}
 
-	if (!rejectedDomains[url.hostname]) {
-		// console.debug("Reject download URL: "+url.toString());
-		rejectedDomains[url.hostname] = true;
-	}
-	return false;
-}
+	get_real_url(url) {
+		if (!(url instanceof URL)) {
+			url = this.parseURL(url);
+		}
 
-function cleanURL(rawURL) {
-	if (rawURL === undefined) {
-		return undefined;
-	}
-
-	const url = new URL(rawURL, BaseUrl);
-	url.hash = "";
-	if (!url.protocol) {
-		url.protocol = "https:";
+		const real = this.#hostMap[url.host];
+		if (real !== undefined) {
+			const ans = new URL(url.toString());
+			ans.protocol = 'http:';
+			ans.host = real;
+			return ans;
+		}
+		return url;
 	}
 
-	return url.toString();
-}
-
-function getPage(url, warcGen, downloadPromises, downloadedFiles) {
-	if (downloadedFiles[url]) {
-		return;
+	async get(url) {
+		return await this.get_http(url);
 	}
 
-	downloadedFiles[url] = true;
-	const promise = myRq(encodeURI(url), async function (error, response, body) {
-		if (error !== null) {
-			console.error('Failed to load '+url+':', error);
+	get_http(url) {
+		if (!(url instanceof URL)) {
+			throw new Error('Only URL objects allowed');
+		}
+
+		const real_url = this.get_real_url(url);
+		if (real_url.protocol === 'https:') {
+			real_url.protocol = 'http:';
+		}
+		
+		return new Promise((resolve, reject) => {
+			var req = http.get(
+				real_url.toString(),
+				{
+					headers: {
+						'User-Agent': GDBWarc.user_agent
+					}
+				},
+			 	(res) => {
+				var response_headers = `HTTP/${res.httpVersion} ${res.statusCode} ${res.statusMessage}\r\n`;
+				for (var i=0; i < res.rawHeaders.length; i++) {
+					if (i%2 == 0) {
+						response_headers += res.rawHeaders[i]+': ';
+					} else {
+						response_headers += res.rawHeaders[i]+'\r\n';
+					}
+				}
+
+				const request_headers = res.req._header.replace(
+					`Host: ${real_url.host}\r\n`,
+					`Host: ${url.host}\r\n`).replace('\r\n\r\n', '\r\n');
+
+				const full_content_type = (res.headers['content-type']||'');
+				const content_type = full_content_type.split(';')[0];
+
+				res.setEncoding('binary');
+				let chunks = [];
+				res.on('data', (chunk) => {
+					chunks.push(Buffer.from(chunk, 'binary'));
+				});
+				res.on('end', (chunk) => {
+					const data = Buffer.concat(chunks);
+					var body = null;
+					if (full_content_type.includes('charset=UTF-8') || full_content_type.includes('charset=utf-8')) {
+						body = new TextDecoder().decode(data);
+					}
+					resolve({
+						'status_code': res.statusCode,
+						'content_type': content_type,
+						'response_headers': res.headers,
+						'response_headers_raw': response_headers,
+						'request_headers_raw': request_headers,
+						'data': data,
+						'body': body
+					})
+				});
+			});
+
+			req.on('error', (e) => {
+				console.error(`problem with request: ${e.message}`);
+				reject(e);
+			});
+		});
+	}
+
+	async #add_page(url, page_recursion, dep_recursion) {
+		url.hash = '';
+		if (page_recursion === 0 || dep_recursion === 0 || this.#downloadedFiles[url.toString()]) {
 			return;
 		}
+		this.#downloadedFiles[url.toString()] = true;
 
-		if (response.statusCode != 200) {
-			console.error('Problem to load '+url+':', response.statusCode);
+		const dependencies = {};
+		const page_links = {};
+
+		console.log("Downloading: "+url.toString());
+		const req = await this.get(url);
+
+		// Write data
+		await this.#writer.writeRequestRecord(url, req.request_headers_raw);
+		if (req.body) {
+			await this.#writer.writeResponseRecord(url, req.response_headers_raw, req.body);
+		} else {
+			await this.#writer.writeResponseRecord(url, req.response_headers_raw, req.data);
+		}
+		if (req.content_type === 'text/html' && req.status_code === 200) {
+			this.#pages.push(url.toString());
 		}
 
-		// Get content-type
-		let contentType = response.headers["content-type"] || "";
-		contentType = contentType.split(";")[0].trim()
-		console.log('Got '+url+' '+contentType+' '+body.length+' bytes');
-
-		// Save page async
-		// TODO: replace with warcGen.writeRequestRecord and warcGen.writeResponseRecord
-		response.request.protocol = "https:";
-		response.request.uri.port = 80;
-		response.request.uri.host = FakeBaseHostName;
-		response.request.uri.hostname = FakeBaseHostName;
-		response.request.uri.href = response.request.protocol + '//' + response.request.uri.host + response.request.uri.path;
-		response.request._rp_options.uri = response.request.uri.href;
-		response.request.host = response.request.uri.host;
-		response.request.port = response.request.uri.port;
-		response.request.href = response.request.uri.href;
-		const savePromise = warcGen.generateWarcEntry(response);
-		await savePromise;
-
-
-		if (contentType == "text/html") {
-			pagesDownloaded.push(url);
+		// Find dependencies
+		if (req.content_type === 'text/html') {
 			// Parse and look for links
-			const root = xpathhtml.fromPageSource(body);
+			const root = xpathhtml.fromPageSource(req.body);
 			
 			const links = root.findElements("//*[@href]");
 			for (const link of links) {
@@ -112,69 +217,84 @@ function getPage(url, warcGen, downloadPromises, downloadedFiles) {
 				if (link.getAttribute("rel") == "preconnect") {
 					continue;
 				}
-				// Don't download <link rel="canonical">
-				if (link.getAttribute("rel") == "canonical") {
-					continue;
-				}
-				// Don't download links to other pages <a href="...">
-				if (link.tagName == "a") {
-					continue;
-				}
 
-				const linkUrl = cleanURL(link.getAttribute("href"));
-				if (shouldIncludeUrl(linkUrl, downloadedFiles)) {
-					getPage(linkUrl, warcGen, downloadPromises, downloadedFiles);
+				const linkUrl = new URL(link.getAttribute("href"), url.toString());
+				if (link.tagName === 'a') {
+					page_links[linkUrl.toString()] = linkUrl;
+				} else {
+					dependencies[linkUrl.toString()] = linkUrl;
 				}
 			}
 
 			const imgs = root.findElements("//img[@src]");
 			for (const img of imgs) {
-				const linkUrl = cleanURL(img.getAttribute("src"));
-				if (shouldIncludeUrl(linkUrl, downloadedFiles)) {
-					getPage(linkUrl, warcGen, downloadPromises, downloadedFiles);
-				}
+				const linkUrl = new URL(img.getAttribute("src"), url.toString());
+				dependencies[linkUrl.toString()] = linkUrl;
 			}
-		} else if (contentType.startsWith("text/css")) {
+
+			const scripts = root.findElements("//script[@src]");
+			for (const script of scripts) {
+				const linkUrl = new URL(script.getAttribute("src"), url.toString());
+				dependencies[linkUrl.toString()] = linkUrl;
+			}
+		} else if (req.content_type.startsWith("text/css")) {
 			// Find url(...) on CSS
-			const matches = [...body.matchAll(UrlCssRegexp)];
+			const matches = [...req.body.matchAll(GDBWarc.urlCssRegexp)];
 			for (const match of matches) {
-				const linkUrl = match[1];
-				getPage(linkUrl, warcGen, downloadPromises, downloadedFiles);
+				const linkUrl = new URL(match[1], url.toString());
+				dependencies[linkUrl.toString()] = linkUrl;
 			}
-		} else if (contentType.startsWith("image/") || contentType.startsWith("font/")) {
+		} else if (req.content_type.startsWith("image/") || req.content_type.startsWith("font/")) {
 			// Nothing to do
-		} else if (contentType !== "") {
-			console.error('Unexpected content-type for '+url+':', contentType);
+		} else if (req.content_type !== "") {
+			console.error('Unexpected content-type for '+url+':', req.content_type);
 		} else {
-			console.error('Unknown content-type for '+url+':', response.headers);
+			console.error('Unknown content-type for '+url+':', req);
 		}
 
-		// Finish
-		await savePromise;
-	});
-	downloadPromises.push(promise);
-	return promise;
+		for (const dependency_url in dependencies) {
+			const url = dependencies[dependency_url];
+			if (!this.#downloadedFiles[url.toString()] && this.should_add_file(url)) {
+				await this.#add_page(url, page_recursion, dep_recursion-1);
+			}
+		}
+
+		for (const link_url in page_links) {
+			const url = page_links[link_url];
+			if (!this.#downloadedFiles[url.toString()] && this.should_add_page(url)) {
+				await this.#add_page(url, page_recursion-1, dep_recursion);
+			}
+		}
+	}
+
+	async finish() {
+		if (this.#status < 1) {
+			return;
+		}
+		await this.#writer.writeWebrecorderBookmarksInfoRecord(this.#pages);
+		await this.#writer.end();
+		this.#status = -1;
+	}
 }
 
 async function main() {
-	// console.log(util.inspect(warc.WARCWriterBase, true, 10, true))
-	// console.log(util.inspect(warc.RequestLibWARCWriter, true, 10, true))
-	const warcGen = new warc.RequestLibWARCWriter({
-		appending: false,
-		gzip: false
-	})
-	const filename = "offline3.warc";
-	// await warcGen.writeWarcInfoRecord(filename, {"hi":123123123123123});
-	warcGen.initWARC(filename);
-	// console.log(warcGen.writeWarcInfoRecord);
-	// return;
-	const downloadPromises = [];
-	const downloadedFiles = {};
-	await getPage(cleanURL("/pt/imprimivel/"), warcGen, downloadPromises, downloadedFiles);
-	await Promise.all(downloadPromises);
-	console.log(">>>", pagesDownloaded)
+	const port = process.env.PORT || 8000;
+	const proxy_url = '127.0.0.1:'+port;
+	const gen = new GDBWarc('offline.warc', proxy_url);
+	await gen.start();
+	await gen.addPage('/', 200, 15);
+	await gen.addPage('/en', 200, 15);
+	await gen.addPage('/pt', 200, 15);
+	await gen.addPage('/zh', 200, 15);
+	await gen.finish();
 }
 
 if (require.main === module) {
-    main();
+	main()
+}
+
+exports.GDBWarc = GDBWarc;
+exports.offlineTask = async function(callback) {
+	await main();
+	callback();
 }
