@@ -5,67 +5,71 @@ const request = require('request-promise');
 const util = require('util');
 const parse5 = require('parse5');
 const xpathhtml = require("xpath-html");
+const css = require('css');
 
-
-const port = process.env.PORT || 8000
-const baseUrl = 'http://127.0.0.1:'+port
+const Port = process.env.PORT || 8000
+const FakeBaseHostName = 'genderdysphoria.fyi';
+const BaseHostName = '127.0.0.1';
+const BaseUrl = 'http://'+BaseHostName+':'+Port;
+const UrlCssRegexp = /url\((https?:\/\/[^)]+)\)/ig;
+const UserAgent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36";
 
 let concurrentRequests = 0;
 
 const myRq = request.defaults({
-	simple: false})
+	simple: false,
+	headers: {
+		'User-Agent': UserAgent
+	},});
 
-const rejectedURLs = {};
+const rejectedDomains = {};
 
-function shouldIncludeUrl(url, downloadedFiles) {
-	if (url === undefined) {
+const domainsDownloadAction = {
+	"fonts.googleapis.com": true,
+	"fonts.gstatic.com": true,
+	"cdnjs.cloudflare.com": true
+}
+domainsDownloadAction[BaseHostName] = true;
+
+const pagesDownloaded = [];
+
+function shouldIncludeUrl(rawURL, downloadedFiles) {
+	if (rawURL === undefined) {
 		return false;
 	}
 
-	if (url.startsWith("/")) {
+	const url = new URL(rawURL, BaseUrl);
+
+	if (domainsDownloadAction[url.hostname]) {
 		return true;
 	}
-	if (url.startsWith(baseUrl)) {
-		return true;
-	}
-	if (url.startsWith("https://fonts.googleapis.com/")) {
-		return true;
-	}
-	if (url.startsWith("https://fonts.gstatic.com/")) {
-		return true;
-	}
-	if (url.startsWith("https://cdnjs.cloudflare.com/")) {
-		return true;
-	}
-	if (url.startsWith("https://genderdysphoria.fyi/favicon")) {
-		return true;
-	}
-	if (!rejectedURLs[url]) {
-		console.log("Reject download URL: "+url);
-		rejectedURLs[url] = true;
+
+	if (!rejectedDomains[url.hostname]) {
+		// console.debug("Reject download URL: "+url.toString());
+		rejectedDomains[url.hostname] = true;
 	}
 	return false;
 }
-
 
 function cleanURL(rawURL) {
 	if (rawURL === undefined) {
 		return undefined;
 	}
 
-	ans = rawURL.split("#")[0].trim();
-	if (ans.startsWith("//")) {
-		ans = "https:"+ans;
-		return ans;
-	}
-	if (ans.startsWith("http://") || ans.startsWith("https://")) {
-		return ans;
+	const url = new URL(rawURL, BaseUrl);
+	url.hash = "";
+	if (!url.protocol) {
+		url.protocol = "https:";
 	}
 
-	return baseUrl+ans;
+	return url.toString();
 }
 
 function getPage(url, warcGen, downloadPromises, downloadedFiles) {
+	if (downloadedFiles[url]) {
+		return;
+	}
+
 	downloadedFiles[url] = true;
 	const promise = myRq(encodeURI(url), async function (error, response, body) {
 		if (error !== null) {
@@ -77,24 +81,68 @@ function getPage(url, warcGen, downloadPromises, downloadedFiles) {
 			console.error('Problem to load '+url+':', response.statusCode);
 		}
 
-		console.log('body len:', body.length);
-		// Save page async
-		const savePromise = warcGen.generateWarcEntry(response)
-
-		// Parse and look for link
+		// Get content-type
 		let contentType = response.headers["content-type"] || "";
 		contentType = contentType.split(";")[0].trim()
+		console.log('Got '+url+' '+contentType+' '+body.length+' bytes');
+
+		// Save page async
+		// TODO: replace with warcGen.writeRequestRecord and warcGen.writeResponseRecord
+		response.request.protocol = "https:";
+		response.request.uri.port = 80;
+		response.request.uri.host = FakeBaseHostName;
+		response.request.uri.hostname = FakeBaseHostName;
+		response.request.uri.href = response.request.protocol + '//' + response.request.uri.host + response.request.uri.path;
+		response.request._rp_options.uri = response.request.uri.href;
+		response.request.host = response.request.uri.host;
+		response.request.port = response.request.uri.port;
+		response.request.href = response.request.uri.href;
+		const savePromise = warcGen.generateWarcEntry(response);
+		await savePromise;
+
 
 		if (contentType == "text/html") {
-			const root = xpathhtml.fromPageSource(body)
-			const links = root.findElements("//*[@href]")
+			pagesDownloaded.push(url);
+			// Parse and look for links
+			const root = xpathhtml.fromPageSource(body);
+			
+			const links = root.findElements("//*[@href]");
 			for (const link of links) {
+				// Don't download <link rel="preconnect">
+				if (link.getAttribute("rel") == "preconnect") {
+					continue;
+				}
+				// Don't download <link rel="canonical">
+				if (link.getAttribute("rel") == "canonical") {
+					continue;
+				}
+				// Don't download links to other pages <a href="...">
+				if (link.tagName == "a") {
+					continue;
+				}
+
 				const linkUrl = cleanURL(link.getAttribute("href"));
 				if (shouldIncludeUrl(linkUrl, downloadedFiles)) {
 					getPage(linkUrl, warcGen, downloadPromises, downloadedFiles);
-					// console.log(linkUrl)
 				}
 			}
+
+			const imgs = root.findElements("//img[@src]");
+			for (const img of imgs) {
+				const linkUrl = cleanURL(img.getAttribute("src"));
+				if (shouldIncludeUrl(linkUrl, downloadedFiles)) {
+					getPage(linkUrl, warcGen, downloadPromises, downloadedFiles);
+				}
+			}
+		} else if (contentType.startsWith("text/css")) {
+			// Find url(...) on CSS
+			const matches = [...body.matchAll(UrlCssRegexp)];
+			for (const match of matches) {
+				const linkUrl = match[1];
+				getPage(linkUrl, warcGen, downloadPromises, downloadedFiles);
+			}
+		} else if (contentType.startsWith("image/") || contentType.startsWith("font/")) {
+			// Nothing to do
 		} else if (contentType !== "") {
 			console.error('Unexpected content-type for '+url+':', contentType);
 		} else {
@@ -105,6 +153,7 @@ function getPage(url, warcGen, downloadPromises, downloadedFiles) {
 		await savePromise;
 	});
 	downloadPromises.push(promise);
+	return promise;
 }
 
 async function main() {
@@ -114,11 +163,16 @@ async function main() {
 		appending: false,
 		gzip: false
 	})
+	const filename = "offline3.warc";
+	// await warcGen.writeWarcInfoRecord(filename, {"hi":123123123123123});
+	warcGen.initWARC(filename);
+	// console.log(warcGen.writeWarcInfoRecord);
+	// return;
 	const downloadPromises = [];
 	const downloadedFiles = {};
-	warcGen.initWARC("offline.warc")
-	getPage(cleanURL("/pt"), warcGen, downloadPromises, downloadedFiles);
-	Promise.all(downloadPromises);
+	await getPage(cleanURL("/pt/imprimivel/"), warcGen, downloadPromises, downloadedFiles);
+	await Promise.all(downloadPromises);
+	console.log(">>>", pagesDownloaded)
 }
 
 if (require.main === module) {
