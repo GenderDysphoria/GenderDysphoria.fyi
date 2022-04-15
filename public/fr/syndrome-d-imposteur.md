@@ -29,7 +29,7 @@ tweets:
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> [Le syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l'imposteur) (également connu sous le nom de phénomène de l'imposteur, d'imposteurisme, de syndrome de la fraude ou d'expérience de l'imposteur) est un schéma psychologique dans lequel une personne doute de ses réalisations et a une peur persistante et intériorisée d'être exposée comme une "fraude".
+> [Le syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l'imposteur) (également connu sous le nom de syndrome de l'autodidacte, phénomène de l'imposteur, expérience de l'imposture) est un schéma psychologique dans lequel une personne doute de ses réalisations et a une peur persistante et intériorisée d'être d'être démasqué.
 
 La société en général est très douée pour faire douter les personnes trans. Nous recevons des tonnes et des tonnes de messages subliminaux tout au long de notre vie nous disant qu'être trans n'est pas normal et que toute personne qui l'est doit être exceptionnellement spéciale. L'obsession des médias cis pour le récit "né dans le mauvais corps" a conduit à l'intériorisation de beaucoup de fausses informations par les jeunes trans. Beaucoup, *beaucoup* d'enfants trans grandissent en pensant qu'ils ne sont pas réellement trans parce qu'ils ne *savent* pas qu'ils sont d'un genre différent, ils souhaitent simplement l'être. De nombreux enfants non-binaires grandissent en sachant que quelque chose ne va pas, mais sans croire qu'ils sont trans parce qu'ils ne se sentent pas comme une personne trans binaire.
 
@@ -44,13 +44,13 @@ En outre, des messages affirmant que les personnes transgenres détestent leur c
 
 En outre, le message constant des médias transphobes selon lequel les personnes transgenres ne sont pas réellement leur genre et essaient simplement de faire croire le contraire aux gens est internalisé comme un virus. Cela crée beaucoup de doutes sur l'authenticité de son genre, surtout face à tant de stéréotypes de genre. En se voyant ne pas correspondre à ces stéréotypes, il est très facile de se convaincre que l'on ne correspond pas à son propre genre (remarque : les hommes et les femmes cis sont également victimes de ce phénomène, bien trop souvent).
 
-De plus, en raison d'un passé d'abus transphobes, de nombreuses personnes transgenres souffrent d'une mauvaise estime d'elles-mêmes et ont souvent déjà des difficultés à douter d'elles-mêmes. La dysphorie de genre entraîne également la dépression, qui contribue à renforcer ces doutes. Tout cela conduit à un amas massif d'auto-invalidation qui peut amener une personne à lutter encore et encore pour accepter sa propre identité de genre.
+De plus, en raison d'un passé d'abus transphobes, de nombreuses personnes transgenres souffrent d'une mauvaise estime d'elles-mêmes et ont souvent déjà une tendance à douter d'elles-mêmes. La dysphorie de genre entraîne également la dépression, qui contribue à renforcer ces doutes. Tout cela conduit à un amas massif d'auto-invalidation qui peut amener une personne à lutter encore et encore pour accepter sa propre identité de genre.
 
 Mais voilà... seules les personnes transgenres s'inquiètent de savoir si elles sont réellement transgenres ! Une personne cisgenre n'est pas obsédée par son identité, elle y pense, elle la traite et elle passe à autre chose. Si tu reviens sans cesse à ces pensées, c'est ton cerveau qui te dit que tu as pris un mauvais virage.
 
 Le monde est *plein* d'influences mises en place pour nous faire douter et nous empêcher de sortir de l'ordre social établi. Voici quelques-uns des systèmes et idéologies qui cherchent à invalider les personnes transgenres et à les empêcher de se réaliser.
 
-### Autogynephilie
+### Autogynéphilie
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1153300365355307008'
@@ -63,21 +63,21 @@ Le monde est *plein* d'influences mises en place pour nous faire douter et nous 
 
 Ce schéma s'est fortement renforcé à la fin des années 1980, lorsque la théorie de l'autogynephélie (AGP) de Ray Blanchard a gagné beaucoup de terrain, alors que la sensibilisation aux trans commençait tout juste à s'intensifier. L'AGP est une explication pseudo-scientifique visant à "expliquer" la source de l'identité des femmes trans par des [paraphilies](https://fr.wikipedia.org/wiki/Paraphilie). Blanchard a séparé les femmes transgenres selon qu'elles étaient attirées par les hommes ou par les femmes, tout en invalidant leur féminité. Son travail a complètement ignoré les hommes transgenres, et il rejette carrément les identités non-binaires.
 
-Autogynephelia atteste que les femmes trans hétéro sont en fait juste des hommes gays qui cherchent une apparence féminine pour attirer le désir des hommes hétéro, et que les lesbiennes trans sont en fait des hommes hétéro qui sont devenus tellement obsédés par leur désir pour les femmes qu'ils souhaitent devenir une femme afin d'obtenir une gratification sexuelle d'eux-mêmes.
+L’autogynéphelie atteste que les femmes trans hétéro sont en fait juste des hommes gays qui cherchent une apparence féminine pour attirer le désir des hommes hétéro, et que les lesbiennes trans sont en fait des hommes hétéro qui sont devenus tellement obsédés par leur désir pour les femmes qu'ils souhaitent devenir une femme afin d'obtenir une gratification sexuelle d'eux-mêmes.
 
 La théorie de Blanchard repose en grande partie sur le fait que la présentation féminine entraîne souvent une excitation sexuelle chez les femmes en transition. Tu vois, la plupart des sujets de son étude étaient des patientes qui essayaient de suivre un traitement hormonal pour la première fois et qui, en tant que telles, étaient encore très novices en matière de présentation féminine.
 
-Oui, cela dépasse l'entendement, mais cela a été considéré comme une théorie psychologique valide pendant des années. Elle figurait même dans les manuels universitaires. Les études de Blanchard n'ont pas respecté la rigueur scientifique et ses données se sont révélées extrêmement erronées (il manipulait ses patients et rejetait simplement toutes les données qui ne correspondaient pas à son hypothèse). Nombre de ses théories sont fondées sur une vision misogyne de la féminité, et l'homme n'a jamais fait participer de femmes cisgenres à son étude pour servir de groupe de contrôle. Pour en savoir plus sur les lacunes de cette théorie, consulte l'excellent article de Julia Serano [The Case Against Autogynephilia](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf).
+Oui, cela dépasse l'entendement, mais cela a été considéré comme une théorie psychologique valide pendant des années. Elle figurait même dans les manuels universitaires. Les études de Blanchard n'ont pas respecté la rigueur scientifique et ses données se sont révélées extrêmement erronées (il manipulait ses patientes et rejetait simplement toutes les données qui ne correspondaient pas à son hypothèse). Nombre de ses théories sont fondées sur une vision misogyne de la féminité, et l'homme n'a jamais fait participer de femmes cisgenres à son étude pour servir de groupe de contrôle. Pour en savoir plus sur les lacunes de cette théorie, consulte l'excellent article de Julia Serano [The Case Against Autogynephilia](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf).
 
 L'AGP a été complètement rejetée par la psychologie moderne à la fin des années 2000, mais le mal est fait. Aux yeux du public, les femmes trans sont toutes des fétichistes perverses. Les représentations des femmes trans dans les médias ont reflété cette attitude, propageant encore plus l'imagerie négative dans la conscience publique.
 
-Les personnes transgenres intériorisent alors ces messages, et en arrivent à la conclusion qu'elles ne sont pas réellement transgenres, mais seulement fétichistes. C'est ce qui m'est arrivé, et c'est ce qui est arrivé à presque toutes les femmes transgenres du millénaire que je connais et qui ont compris à l'adolescence.
+Les personnes transgenres intériorisent alors ces messages, et en arrivent à la conclusion qu'elles ne sont pas réellement transgenres, mais seulement fétichistes. C'est ce qui m'est arrivé, et c'est ce qui est arrivé à presque toutes les femmes transgenres du milléniales que je connais et qui ont compris à l'adolescence.
 
 Tu n'es pas fétichiste, le sentiment que tu ressens en te considérant comme une femme est l'euphorie du genre.
 
 ### Oppression Patriarcale
 
-Une source commune d'invalidation pour les AFAB est l'amalgame entre le genre et l'oppression systémique des femmes, en particulier chez les personnes non binaires qui ne sont pas en transition médicale. Le message "oh, tu ne veux pas être une femme à cause de la façon dont les femmes sont traitées" est bien trop souvent entendu, et il peut infester profondément ton subconscient au point de te faire douter de toi.  Mais cela n'a pas beaucoup de sens, car si tu es AFAB et pas une femme, cela fait de toi un transgenre. Et en moyenne, la société traite les personnes transgenres plus mal que les femmes. Ainsi, la transition pour échapper à l'oppression systémique est un concept stupide (et je n'ai personnellement jamais rencontré une personne transgenre qui l'ait fait).
+Une source commune d'invalidation pour les AFAB est l'amalgame entre le genre et l'oppression systémique des femmes, en particulier chez les personnes non binaires qui ne sont pas en transition médicale. Le message "oh, tu ne veux pas être une femme à cause de la façon dont les femmes sont traitées" est bien trop souvent entendu, et il peut infester profondément ton subconscient au point de te faire douter de toi.  Mais cela n'a pas beaucoup de sens, car si tu es AFAB et pas une femme, cela fait de toi une personne transgenre. Et en moyenne, la société traite les personnes transgenres plus mal que les femmes. Ainsi, la transition pour échapper à l'oppression systémique est un concept stupide (et je n'ai personnellement jamais rencontré une personne transgenre qui l'ait fait).
 
 Les messages du féminisme radical sur l'abandon des rôles de genre féminins peuvent également rendre plus difficile l'analyse de tes propres sentiments. "Suis-je réellement non-binaire, ou suis-je simplement une féministe ?" "Suis-je réellement un homme, ou suis-je simplement une lesbienne très butch ?". Pour cela, je t'encourage à parler à des femmes cis féministes, surtout des lesbiennes. Elles se plaindront des systèmes d'oppression et du patriarcat, mais les problèmes sont tous externes, et elles *veulent être des femmes*. Même les lesbiennes très butchs veulent être des femmes, mais d'une manière différente de la féminité traditionnelle.
 
@@ -87,7 +87,7 @@ Si tu as l'impression de ne pas être une femme binaire, alors tu n'es pas une f
 
 ### Masculinité Toxique
 
-Les enfants d'assignation masculine grandissent positivement imprégnés de messages sur ce que c'est que "d'être un homme". Il y a si peu d'exemples de masculinité positive dans les médias populaires, et les Enbies masculins AMAB sont aussi si souvent effacés dans la représentation trans qu'être un homme genderqueer peut se sentir très seul. Les Enbies AMAB sont souvent soit regroupés avec les hommes cis gays, soit traités comme des femmes trans.
+Les enfants d'assignation masculine grandissent complètement imprégnés de messages sur ce que c'est que "d'être un homme". Il y a si peu d'exemples de masculinité positive dans les médias populaires, et les Enbies masculins AMAB sont aussi si souvent effacés dans la représentation trans qu'être un homme genderqueer peut se sentir très seul. Les Enbies AMAB sont souvent soit regroupés avec les hommes cis gays, soit traités comme des femmes trans.
 
 Tu peux simplement être genderqueer ! Ton identité est valide !
 
@@ -105,7 +105,7 @@ Une personne trans peut intérioriser des concepts blessants connexes, qui consi
 
 ### Féminisme Réactionnaire Trans-exclusif / Mouvement Critique de Genre / Essentialisme de Genre
 
-[L'Essentialisme de genre](https://fr.wikipedia.org/wiki/Essentialisme_(genre)) est la croyance selon laquelle il existe des attributs innés à l'existence d'une personne qui sont dérivés des organes sexuels avec lesquels la personne est née. L'idéologie FRTE et MCG est née du mouvement séparatiste lesbien du féminisme de la deuxième vague et nie totalement l'existence de la biologie transgenre et des identités non binaires. Le mouvement a été largement dépassé par les réactionnaires de droite, les racistes et les homophobes, et est maintenant soutenu par des organisations chrétiennes évangéliques.
+[L'Essentialisme de genre](https://fr.wikipedia.org/wiki/Essentialisme_(genre)) est la croyance selon laquelle il existe des attributs innés à l'existence d'une personne qui sont dérivés des organes sexuels avec lesquels la personne est née. L'idéologie FRTE et MCG est née du mouvement séparatiste lesbien du féminisme de la deuxième vague et nie totalement l'existence de la biologie transgenre et des identités non binaires. Le mouvement a été largement envahi par les réactionnaires de droite, les racistes et les homophobes, et est maintenant soutenu par des organisations chrétiennes évangéliques.
 
 Ces personnes ne reculeront devant rien pour invalider ton existence. Ne leur donne pas la parole.
 

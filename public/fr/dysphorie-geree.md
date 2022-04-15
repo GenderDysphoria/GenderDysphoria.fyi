@@ -31,7 +31,7 @@ Grandir dans le placard, même lorsque l'on ne sait pas que l'on est dans le pla
 
 - Trouver des excuses pour couper les cheveux courts, ou pour les faire pousser.
 
-- Le rasage des poils du corps, ou le refus de raser les poils que l'on attend de soi.
+- Le rasage des poils du corps, ou le refus de raser les poils qu'on s'attend à raser.
 
 - Porter des vêtements larges et amples qui cachent la forme de son corps.
 
@@ -52,7 +52,7 @@ En raison des nombreux abus dont sont victimes les enfants non conformes au genr
 
 - Cultiver et entretenir méticuleusement la pilosité faciale (la "barbe de déni").
 
-- Se lancer dans l'art du maquillage afin de parfaire un look de haute femme.
+- Se lancer dans l'art du maquillage afin de parfaire un look très féminin.
 
 - Se présenter comme extrêmement masculin ou hyper féminin.
 
@@ -60,7 +60,7 @@ En raison des nombreux abus dont sont victimes les enfants non conformes au genr
 
 - Faire de l'exercice de manière obsessionnelle (AMAB).
 
-- Assumer un rôle fortement stéréotypé dans une relation (par exemple, la femme au foyer consciencieusement modeste).
+- Assumer un rôle fortement stéréotypé dans une relation (par exemple, la femme au foyer consciencieuse et modeste).
 
 - Se marier et avoir des enfants en pensant que cela va "réparer" ce qui ne va pas chez soi.
 
@@ -68,7 +68,7 @@ En raison des nombreux abus dont sont victimes les enfants non conformes au genr
 
 - Exprimer l'homophobie et la transphobie en légitime défense pour éloigner les soupçons.
 
-- Engagement agressivement passif dans tout ce qui est lié à son véritable sexe.
+- Engagement passif-agressif dans tout ce qui est lié à son véritable genre.
 
 
 Enfin, un autre mécanisme d'adaptation très courant consiste à trouver des moyens d'évasion ou d'engagement mental afin d'oublier ses propres sentiments.
