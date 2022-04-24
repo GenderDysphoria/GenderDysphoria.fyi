@@ -53,59 +53,53 @@ jobs:
             ./if-cache
             ./if-cache.json
             ./twitter-cache.json
-      - run: npm i
+
+      - run: npm ci
         
       - name: Run build
-        run: npm run build
+        run: ./node_modules/.bin/gulp uat
         
-      # Create a "dummy" http server inside the container
-      # on the output folder of the build
-      - name: Launch HTTP Server
-        uses: Eun/http-server-action@v1.0.3
-        with:
-          directory: dist
-
       # Launch a headless chrome instance for exporting
       - name: (EN) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="dist/en/gdb.pdf" \
-          http://localhost:8080/en/printable/index.html
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/en.pdf" \
+          http://127.0.0.1:8080/en/printable/index.html
           
       - name: (CN) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="dist/cn/gdb.pdf" \
-          http://localhost:8080/zh/printable/index.html
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/cn.pdf" \
+          http://127.0.0.1:8080/zh/printable/index.html
           
       - name: (DE) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="dist/de/gdb.pdf" \
-          http://localhost:8080/de/druckbar/index.html
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/de.pdf" \
+          http://127.0.0.1:8080/de/druckbar/index.html
 
       - name: (HU) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="dist/hu/gdb.pdf" \
-          http://localhost:8080/hu/nyomtathato/index.html
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/hu.pdf" \
+          http://127.0.0.1:8080/hu/nyomtathato/index.html
           
       - name: (PL) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="dist/pl/gdb.pdf" \
-          http://localhost:8080/pl/do-druku/index.html
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/pl.pdf" \
+          http://127.0.0.1:8080/pl/do-druku/index.html
         
       # Something is coming soon ;)
 #      - name: (FR) Get PDF from HTML
 #        run: |
 #          google-chrome --headless --print-to-pdf-no-header \
-#          --run-all-compositor-stages-before-draw --print-to-pdf="dist/fr/gdb.pdf" \
-#          http://localhost:8080/fr/a-imprimer/index.html
+#          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/fr.pdf" \
+#          http://127.0.0.1:8080/fr/a-imprimer/index.html
         
       - name: Upload PDF artifacts
         uses: actions/upload-artifact@v3
         with:
           name: pdfs
           path: |
-            dist/**/*.pdf
+            dist
