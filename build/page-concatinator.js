@@ -38,6 +38,7 @@ module.exports = exports = function (pages, target, paths, meta) {
 
   for (const path of paths) {
     const p = sources[path];
+    if (!p) throw new Error(`File not found during concatination: ${path}`);
     result.source += p.source;
 
     result.dateCreated = min(result.dateCreated, p.dateCreated);
