@@ -44,6 +44,7 @@ jobs:
           key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node_modules
+
       - name: Restore Asset Caches
         uses: actions/cache@v2
         with:
@@ -68,61 +69,43 @@ jobs:
       - name: (EN) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="public/gdb-en.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="dist/en/gdb.pdf" \
           http://localhost:8080/en/printable/index.html
           
       - name: (CN) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="public/gdb-cn.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="dist/cn/gdb.pdf" \
           http://localhost:8080/zh/printable/index.html
           
       - name: (DE) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="public/gdb-de.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="dist/de/gdb.pdf" \
           http://localhost:8080/de/druckbar/index.html
 
       - name: (HU) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="public/gdb-hu.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="dist/hu/gdb.pdf" \
           http://localhost:8080/hu/nyomtathato/index.html
           
       - name: (PL) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="public/gdb-pl.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="dist/pl/gdb.pdf" \
           http://localhost:8080/pl/do-druku/index.html
         
       # Something is coming soon ;)
 #      - name: (FR) Get PDF from HTML
 #        run: |
 #          google-chrome --headless --print-to-pdf-no-header \
-#          --run-all-compositor-stages-before-draw --print-to-pdf="public\gdb-fr.pdf" \
+#          --run-all-compositor-stages-before-draw --print-to-pdf="dist/fr/gdb.pdf" \
 #          http://localhost:8080/fr/a-imprimer/index.html
         
-      # Commit the new pdfs
-      - name: Commit files
-        id: commit
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions"
-          cd public
-          git add -A *.pdf
-          git commit -m "Adding exported PDFs"
-        shell: bash
-        
-      # Push files back to the SCM
-      # Temporarily it pushes to a branch, for:
-      #  * not to put built files immediately to the public server,
-      #    letting a manual re-verification whether the exported pdf is "okay"
-      #  * to not to relaunch another github action based on this push,
-      #    potentially creating a loop (to check).
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
+      - name: Upload PDF artifacts
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.actor }}/GenderDysphoria.fyi
-          branch: export-pdfs
-          force: true
+          name: pdfs
+          path: |
+            dist/**/*.pdf
