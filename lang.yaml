@@ -1,0 +1,19 @@
+- lang: en
+  name: English (EN)
+  pdf-source: /en/printable/index.html?pdf=true
+
+- lang: fr
+  name: Français (FR)
+  pdf-source: /fr/printable/index.html?pdf=true
+
+- lang: hu
+  name: Magyar (HU)
+  pdf-source: /hu/nyomtathato/index.html?pdf=true
+
+- lang: pl
+  name: Polski (PL)
+  pdf-source: /pl/do-druku/index.html?pdf=true
+
+- lang: zh
+  name: 中文 (ZH)
+  pdf-source: /zh/printable/index.html?pdf=true
