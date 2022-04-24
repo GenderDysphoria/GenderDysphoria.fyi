@@ -58,6 +58,9 @@ jobs:
         
       - name: Run build
         run: npm run build
+
+      - name: Ensure dist exists
+        run: mkdir ./dist
         
       # Create a "dummy" http server inside the container
       # on the output folder of the build
@@ -70,38 +73,38 @@ jobs:
       - name: (EN) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/en.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/en.pdf" \
           http://127.0.0.1:8080/en/printable/index.html
           
       - name: (CN) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/cn.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/cn.pdf" \
           http://127.0.0.1:8080/zh/printable/index.html
           
       - name: (DE) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/de.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/de.pdf" \
           http://127.0.0.1:8080/de/druckbar/index.html
 
       - name: (HU) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/hu.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/hu.pdf" \
           http://127.0.0.1:8080/hu/nyomtathato/index.html
           
       - name: (PL) Get PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \
-          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/pl.pdf" \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/pl.pdf" \
           http://127.0.0.1:8080/pl/do-druku/index.html
         
       # Something is coming soon ;)
 #      - name: (FR) Get PDF from HTML
 #        run: |
 #          google-chrome --headless --print-to-pdf-no-header \
-#          --run-all-compositor-stages-before-draw --print-to-pdf="${{ env.GITHUB_WORKSPACE }}/dist/fr.pdf" \
+#          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/fr.pdf" \
 #          http://127.0.0.1:8080/fr/a-imprimer/index.html
         
       - name: Upload PDF artifacts
