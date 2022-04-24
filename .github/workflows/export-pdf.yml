@@ -57,8 +57,15 @@ jobs:
       - run: npm ci
         
       - name: Run build
-        run: ./node_modules/.bin/gulp uat
+        run: npm run build
         
+      # Create a "dummy" http server inside the container
+      # on the output folder of the build
+      - name: Launch HTTP Server
+        uses: Eun/http-server-action@v1.0.3
+        with:
+          directory: dist
+
       # Launch a headless chrome instance for exporting
       - name: (EN) Get PDF from HTML
         run: |
