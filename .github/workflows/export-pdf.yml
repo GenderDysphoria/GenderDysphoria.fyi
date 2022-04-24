@@ -59,9 +59,6 @@ jobs:
       - name: Run build
         run: npm run build
 
-      - name: Ensure dist exists
-        run: mkdir ./dist
-        
       # Create a "dummy" http server inside the container
       # on the output folder of the build
       - name: Launch HTTP Server
