@@ -24,6 +24,12 @@ siblings:
 }}
 }!}
 
+{!{
+<div class="gutter"><blockquote>
+  A fordítást <strong>Muráncsik Adéna</strong> készítette.
+</blockquote></div>
+}!}
+
 ### Tartalomjegyzék
 
 {!{ <div class="two-column-list"> }!}
