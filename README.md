@@ -60,3 +60,13 @@ The file is in this format:
 
 Publishing the site content requires AWS credentials which are not stored in this repository. Attempts to use the `gulp publish` command will fail.
 
+**WARC Generation**
+
+To generate [WARC](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/) files for all languages:
+
+1. Start the local web server with `gulp`.
+2. In another terminal, run `gulp offline`.
+
+This process will take a few minutes and at the end there will be one WARC file for each language.
+
+These files can be viewed through WARC players like [replayweb.page](https://replayweb.page/).
