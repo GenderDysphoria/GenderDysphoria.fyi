@@ -16,6 +16,20 @@ const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
 
+// Process translation links (so /en/what-is-gender maps to /pt/que-e-gênero)
+const translationLinksRaw = require('../translation-links.json');
+const translationLinksMap = {};
+for (const group of translationLinksRaw) {
+  for (const [lang, url] of Object.entries(group)) {
+    if (url in translationLinksMap) {
+      console.log("URL '"+url+"' appears repeatedly on translation-links.json");
+      process.exit(1);
+    } else {
+      translationLinksMap[url] = group;
+    }
+  }
+}
+
 const markdownEngines = {
   full: markdownIt({
     html: true,
@@ -181,12 +195,14 @@ class Injectables {
 
   helpers () {
     return {
-      import:   this.import(),
-      markdown: this.markdown(),
-      icon:     this.icon(),
-      prod:     this.production(),
-      rev:      this.rev(),
-      lang:     this.lang(),
+      import:    this.import(),
+      markdown:  this.markdown(),
+      icon:      this.icon(),
+      translink: this.translink(),
+      prod:      this.production(),
+      rev:       this.rev(),
+      lang:      this.lang(),
+      lang2:      this.lang2()
     };
   }
 
@@ -273,6 +289,7 @@ class Injectables {
     };
   }
 
+  // Usage {{lang 'MY-STRING'}}
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
@@ -281,4 +298,38 @@ class Injectables {
     };
   }
 
+  // Usage {{lang2 other-lang 'MY-STRING'}}
+  lang2 () {
+    return function (lang, key, ...args) {
+      const { resolve: rval } = args.pop();
+      return i18n(lang, key, ...args);
+    };
+  }
+
+  // Find the translation links for the current page from the file translation-links.json
+  //
+  // If a single argument is present, a single string will be returned, otherwise an
+  // object with links for all languages will be returned
+  // 
+  // Usage: {{translink new-lang fallback-url}}
+  translink () {
+    return function (...raw_args) {
+      let { resolve: rval, arguments: args } = raw_args.pop();
+      args.push(undefined, undefined);
+      const lang = args[0];
+      const fallback = args[1];
+      const page_url = rval('@root.this.url').trim();
+
+      let ans = translationLinksMap[page_url] || {};
+      if (lang !== undefined) {
+        ans = ans[lang];
+      }
+
+      if (ans === undefined) {
+        ans = fallback;
+      }
+
+      return ans;
+    };
+  }
 }
