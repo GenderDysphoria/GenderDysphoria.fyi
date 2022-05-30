@@ -1,5 +1,4 @@
 function fixTweetMentions() {
-	console.log('hi');
 	document.querySelectorAll('div.tweet-text> p').forEach((p) => {
 		for (const node of p.childNodes) {
 			if (node.nodeType == Node.ELEMENT_NODE && node.tagName == "A" && node.classList.contains("mention")) {
