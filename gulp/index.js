@@ -8,6 +8,7 @@ var build = require('../build');
 const devBuildTask  = build.everything();
 const prodBuildTask = build.everything(true);
 const pagesTask = build.pages();
+const twitterTask = build.twitter();
 exports.pages = () => pagesTask();
 
 const scss    = exports.scss    = build.task('scss');
@@ -49,10 +50,14 @@ exports.testpush = pushToProd.dryrun;
 function watcher () {
 
   watch([
-    'public/**/*.{md,hbs,html}',
-    'posts/**/*.{md,hbs,html}',
-    'templates/*.{md,hbs,html}',
+    'public/**/*.{md,hbs,html,js,json}',
+    'posts/**/*.{md,hbs,html,js,json}',
+    'templates/*.{md,hbs,html,js,json}',
   ], pagesTask);
+
+  watch([
+    'twitter-i18n.json',
+  ], series(twitterTask, pagesTask));
 
   watch([
     'scss/*.scss',

@@ -10,6 +10,7 @@ const { sortBy } = require('lodash');
 
 const getEngines = require('./engines');
 const primeTweets = require('./page-tweets');
+const i18nTweets = require('./page-tweets').i18n;
 const pageWriter = require('./page-writer');
 const pageConcatinator = require('./page-concatinator');
 const evaluate = require('./evaluate');
@@ -51,6 +52,9 @@ exports.everything = function (prod = false) {
     posts = posts.filter(Boolean);
     posts = sortBy(posts, 'date');
     posts.reverse();
+
+    // Process i18n for tweets
+    await i18nTweets();
 
     const assets = [ ...PostFiles.assets, ...PublicFiles.assets ];
 
@@ -123,6 +127,28 @@ exports.pages = function () {
   }
 
   fn.displayName = 'buildPages';
+  return fn;
+};
+
+let twitterProcessing = false;
+
+exports.twitter = function () {
+  async function fn () {
+    if (twitterProcessing) {
+      return;
+    }
+
+    twitterProcessing = true;
+    try {
+      await i18nTweets();
+    } catch (exception_var) {
+      twitterProcessing = false;
+      throw exception_var;
+    }
+    twitterProcessing = false;
+  }
+
+  fn.displayName = 'buildTwitter';
   return fn;
 };
 

@@ -24,17 +24,29 @@
           <strong>{{{user.name_html}}}</strong>
           <span>@{{user.screen_name}}</span>
         </a>
+        {{#if html_i18n[page.lang]}}
+        <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
+        {{else}}
         <div class="tweet-quoted-text">{{{html}}}</div>
+        {{/if}}
       </div>
       {{else}}
-      <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
+      <div class="tweet-quoted missing">{{{lang 'QUOTED_TWEET_UNAVAILABLE'}}}</div>
       {{/with}}{{/compare}}
-      <div class="tweet-quoted-text">{{{html}}}</div>
+        {{#if html_i18n[page.lang]}}
+        <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
+        {{else}}
+        <div class="tweet-quoted-text">{{{html}}}</div>
+      {{/if}}
     </div>
     {{else}}
-    <div class="tweet-quoted missing">Quoted Tweet Unavailable</div>
+    <div class="tweet-quoted missing">{{{lang 'QUOTED_TWEET_UNAVAILABLE'}}}</div>
     {{/with}}{{/if}}
-    <div class="tweet-text">{{{html}}}</div>
+    {{#if html_i18n[page.lang]}}
+    <div class="tweet-text">{{{html_i18n[page.lang]}}}</div>
+    {{else}}
+     <div class="tweet-text">{{{html}}}</div>
+    {{/if}}
     {{#any extended_entities.media entities.media}}
     <div class="tweet-entities lightbox entity-count-{{this.length}} entity-type-{{this.0.type}}"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid">
       {{#each this}}
@@ -63,8 +75,8 @@
     </div></div></div></div>
     {{/any}}
     <div class="tweet-footer">
-      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank">{{date created_at "h:mm aa - LLL do, yyyy"}}</a>
+      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank" title="{{date created_at 'iso'}}">{{date created_at (lang 'TWEET_DATE_FORMAT')}}</a>
     </div>
-  {{else}}Missing tweet for {{this}}{{/with}}</div>
+  {{else}}{{{lang 'MISSING_TWEET_FOR'}}} {{this}}{{/with}}</div>
   {{/each}}
 </div>
