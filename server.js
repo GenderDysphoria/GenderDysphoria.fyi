@@ -1,6 +1,7 @@
 const express = require('express');
 const morgan = require('morgan');
 const directory = require('serve-index');
+const chalk = require('chalk');
 const log = require('fancy-log');
 
 var app = express();
@@ -20,4 +21,5 @@ app.use(directory('dist', { 'icons': true }));
 
 app.get('/i', (req, res) => res.send(''));
 
-app.listen(process.env.PORT || 8000, () => log('Listening on http://127.0.0.1:8000'));
+const port = process.env.PORT || 8000;
+app.listen(port, () => log('Listening on '+chalk.cyan('http://127.0.0.1:'+port)));
