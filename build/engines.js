@@ -21,6 +21,10 @@ const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
   'en': dateFNSLocales.enUS,
   'pt': dateFNSLocales.ptBR,
+  'de': dateFNSLocales.de,
+  'fr': dateFNSLocales.fr,
+  'hu': dateFNSLocales.hu,
+  'pl': dateFNSLocales.pl,
   'zh': dateFNSLocales.zhCN,
   'es': dateFNSLocales.es
 };

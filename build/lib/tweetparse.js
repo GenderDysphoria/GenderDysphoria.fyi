@@ -149,7 +149,16 @@ module.exports = exports = function (tweets) {
       tweet.full_text_i18n = {};
     }
 
-    const langs = Object.keys(tweet.full_text_i18n);
+    // Find which languages we actually have translations for
+    const possible_langs = Object.keys(tweet.full_text_i18n);
+    const langs = [];
+    for (const lang of possible_langs) {
+      const trimed = tweet.full_text_i18n[lang].trim();
+      if (trimed.length > 0) {
+        langs.push(lang);
+      }
+    }
+
     for (const lang of langs) {
       tweet.html_i18n[lang] = parseStep1(tweet.full_text_i18n[lang]);
     }
