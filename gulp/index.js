@@ -40,6 +40,7 @@ exports.prod = series(prodBuildTask);
 exports.publish = series(
   cleanTask,
   prodBuildTask,
+  offlineTask,
   pushToProd,
   cleanTask.prodBackup,
   copyProd,
@@ -83,7 +84,7 @@ function server () {
 }
 
 exports.watch = series(devBuildTask, watcher);
-exports.uat = series(cleanTask, prodBuildTask, server);
+exports.uat = series(cleanTask, prodBuildTask, offlineTask, server);
 
 /** **************************************************************************************************************** **/
 
