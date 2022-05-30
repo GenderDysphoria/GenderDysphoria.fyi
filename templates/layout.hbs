@@ -65,12 +65,8 @@
           <ul class="top-nav-inner">
             <li>{{import (join [ '/public/' page.lang '/_menu' ] "")}}</li>
             <li>
-              <a href="/{{page.lang}}/" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE'}}</a>
-              <div class="dropdown-menu" aria-labelledby="nav-gdb">
-                <a href="{{translink 'en' '/en/'}}" class="{{#is page.lang 'en'}}active {{/is}}dropdown-item">English</a>
-                <a href="{{translink 'pt' '/pt/'}}" class="{{#is page.lang 'pt'}}active {{/is}}dropdown-item">Português</a>
-                <a href="{{translink 'zh' '/zh/'}}" class="{{#is page.lang 'zh'}}active {{/is}}dropdown-item">中文 (Chinese)</a>
-              </div>
+              <a href="/en/" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE'}}</a>
+              {{import "~/language-menu"}}
             </li>
             <li><a href="/tweets/" class="top-nav-item" title="{{{lang 'TRANS_TWITTER_TOPICS'}}}"><img src="/images/transtwitter.png" width="24" height="24" alt=""></a></li>
             <li class="disposable"><a href="https://github.com/GenderDysphoria/GenderDysphoria.fyi" class="top-nav-item">{{icon 'brands/github'}}</a></li>
@@ -85,33 +81,7 @@
       {{block "body"}}
     </div>
     <footer>
-      <div class="patreon-support">
-        <strong>{{{lang 'PATREON_FOOTER_BODY'}}}</strong>
-        <p>{{{lang 'PATREON_FOOTER_THANKS'}}}</p>
-        <ul>
-          <li>Julia Hocken</li>
-          <li>Amanda B</li>
-          <li>Brass Cowbell</li>
-          <li>Amelia Unchained</li>
-          <li>Lee Piner</li>
-          <li>Xanterra</li>
-          <li>Mae</li>
-          <li>Made of Stars</li>
-          <li>Franziska Roten</li>
-          <li>Philippe Gauthier</li>
-          <li>Heather Lunde</li>
-          <li>Laura B Tinter</li>
-          <li>patternicity</li>
-          <li>Blake VanTassel</li>
-          <li>Evelin M. C.</li>
-          <li>K. Volkert</li>
-          <li>Alita Moore</li>
-          <li>Hannah Johnson-Walsh</li>
-          <li>Miguel Corona</li>
-          <li>Dillon</li>
-        </ul>
-        <hr>
-      </div>
+      {{import "~/patreon"}}
       <p class="copyright">{{{lang 'FOOTER_COPYRIGHT'}}}<span class="cc-by-nc-sa">{{icon 'symbols/cc'}}{{icon 'symbols/cc-by'}}{{icon 'symbols/cc-nc'}}{{icon 'symbols/cc-sa'}}</span><br>&copy; {{date "now" "yyyy"}} <a href="https://curvyandtrans.com">Jocelyn Badgley</a> {{lang 'FOOTER_COPYRIGHT2'}}</p>
       <p class="foot-nav"><a href="/privacy.html">{{lang 'Privacy Policy'}}</a></p>
 
