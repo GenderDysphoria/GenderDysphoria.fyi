@@ -202,6 +202,7 @@ class Injectables {
       prod:      this.production(),
       rev:       this.rev(),
       lang:      this.lang(),
+      lang2:      this.lang2()
     };
   }
 
@@ -288,10 +289,19 @@ class Injectables {
     };
   }
 
+  // Usage {{lang 'MY-STRING'}}
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
       const lang = rval('@root.this.page.lang').split('-')[0];
+      return i18n(lang, key, ...args);
+    };
+  }
+
+  // Usage {{lang2 other-lang 'MY-STRING'}}
+  lang2 () {
+    return function (lang, key, ...args) {
+      const { resolve: rval } = args.pop();
       return i18n(lang, key, ...args);
     };
   }
