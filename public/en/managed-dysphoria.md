@@ -38,7 +38,7 @@ Growing up in the closet, even when you don't know you're in the closet, becomes
 
 - Becoming intimately educated about some gender-associated topic, such as men's or women's clothing design.
 
-- Obsessively working out (AFABs).
+- Obsessively working out (<abbr data-title="Assigned Female At Birth">AFABs</abbr>).
 
 - Helping cis partners to shop in order to live vicariously through their presentation.
 
@@ -57,7 +57,7 @@ Because so much abuse is handed down onto gender non-conforming children, many t
 
 - Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
 
-- Obsessively working out (AMABs).
+- Obsessively working out (<abbr data-title="Assigned Male At Birth">AMAB</abbr>).
 
 - Assuming a strongly stereotyped gender role in a relationship (e.g. the dutifully modest housewife).
 

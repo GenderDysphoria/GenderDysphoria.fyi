@@ -111,8 +111,8 @@ The intensity of physical and biochemical dysphoria is highly influenced by othe
 - If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
 - If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.
 - If you start on an SSRI Antidepressant and start running with more serotonin, that can make it less intense.
-- Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
-- Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
+- Transfeminine <abbr data-title="Assigned Male At Birth">AMABs</abbr> (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
+- Transmasculine <abbr data-title="Assigned Female At Birth">AFAB</abbr> (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 

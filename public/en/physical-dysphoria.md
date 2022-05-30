@@ -112,7 +112,7 @@ Physical dysphoria manifests in several different ways. Sometimes this is felt i
 
 It can be felt as a sort of *reverse* phantom effect, where the person is persistently aware of something that should *not* be there. The brain is receiving sensory input that it does not expect, such as the weight of breasts, or the presence of testicles or a uterus, and this input takes priority because it isn't expected.
 
-It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
+It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. <abbr data-title="Assigned Female At Birth">AFABs</abbr> (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
@@ -120,7 +120,7 @@ It may be felt as horror or revulsion when looking at or touching the external g
 
 It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.
 
-Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
+Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. <abbr data-title="Assigned Male At Birth">AMABs</abbr> with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
 
 Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all, I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
 
@@ -139,7 +139,7 @@ It's okay if you only hate some aspects of your body, and don't wish to change a
 
 It's okay if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
 
-**Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.**
+**Total body physical dysphoria is not a requirement to be transgender. <abbr data-title="Assigned Female At Birth">AFABs</abbr> do not have to hate their chest, <abbr data-title="Assigned Male At Birth">AMABs</abbr> do not have to hate their penis. Every trans person's experience is different. All are valid.**
 
 ### Internalized Body Image Issues
 

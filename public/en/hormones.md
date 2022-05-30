@@ -83,7 +83,7 @@ New research is starting to suggest that the body may regulate total estradiol l
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
-**Why aren't AFAB trans people prescribed estrogen blockers alongside testosterone?**
+**Why aren't <abbr data-title="Assigned Female At Birth">AFAB</abbr> trans people prescribed estrogen blockers alongside testosterone?**
 
 There are two separate sources for estrogens within the female reproductive system. Ovaries contains thousands of follicles, cell structures which produce eggs. The pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which encourages the follicles to grow into luteal cells. Theca cells within the follicle produce testosterone, and granulosa cells produce the enzyme [aromatase](https://en.wikipedia.org/wiki/Aromatase), which converts that testosterone into estradiol. This is the first source of estrogen, but it is not the largest source.
 
@@ -103,7 +103,7 @@ The primary progestogin is [progesterone](https://en.wikipedia.org/wiki/Progeste
 
 One of the largest roles that the progestogin receptor plays is in the regulation of gonadal function (ovaries and testies). The hypothalamus is positively *littered* with progestogin receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
 
-LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestins, chemicals that fit into progestogin receptors, are often included in birth control in order to prevent ovulation. In AMABs, progestogins are a useful tool for blocking testosterone production.
+LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestins, chemicals that fit into progestogin receptors, are often included in birth control in order to prevent ovulation. In <abbr data-title="Assigned Male At Birth">AMABs</abbr>, progestogins are a useful tool for blocking testosterone production.
 
 Another type of cell that is full of progestogin receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
 

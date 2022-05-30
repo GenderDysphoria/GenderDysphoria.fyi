@@ -75,7 +75,7 @@ You are not a fetishist, the feeling you get from thinking of yourself as a woma
 
 ### Patriarchal Oppression
 
-A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically-transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self doubt.  But this doesn't make much sense, because if you're AFAB and not a woman, that makes you transgender.  And on average, society treats transgender folks worse than women. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a trans person who has done this).
+A common source of invalidation for <abbr data-title="Assigned Female At Birth">AFABs</abbr> is the conflation of gender with the systemic oppression of women, particularly among non-medically-transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self doubt.  But this doesn't make much sense, because if you're <abbr data-title="Assigned Female At Birth">AFAB</abbr> and not a woman, that makes you transgender.  And on average, society treats transgender folks worse than women. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a trans person who has done this).
 
 Radical Feminism's messaging of abandoning female gender roles can also make parsing your own feelings harder. "Am I actually non-binary, or am I just a feminist?" "Am I actually a man, or am I just a very butch lesbian?". For this, I encourage you to talk to cis woman feminists, especially lesbians. They'll complain about systems of oppression and the patriarchy, but the problems are all external, and they *want to be women*. Even very butch lesbians want to be women, just in a different way from mainstream femininity.
 
@@ -85,7 +85,7 @@ If you feel like you are not a binary woman, than you are not a binary woman. Ci
 
 ### Toxic Masculinity
 
-Male-assigned kids grow up positively drenched in messaging of what it is to "be a man". There are so few examples of positive masculinity in popular media, and AMAB Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. AMAB Enbies are often either grouped in with gay cis men or treated like trans women.
+Male-assigned kids grow up positively drenched in messaging of what it is to "be a man". There are so few examples of positive masculinity in popular media, and <abbr data-title="Assigned Male At Birth">AMAB</abbr> Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. <abbr data-title="Assigned Male At Birth">AMAB</abbr> Enbies are often either grouped in with gay cis men or treated like trans women.
 
 You can just be genderqueer! Your identity is valid!
 

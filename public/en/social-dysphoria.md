@@ -37,7 +37,7 @@ All social gender dysphoria orbits around one central concept: What Gender do pe
 
 While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people. People of your assigned gender seem to interact with each other in ways that do not feel natural to you. Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier. You relate to people closer to your own truth.
 
-For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
+For example, an <abbr data-title="Assigned Male At Birth">AMAB</abbr> trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
 
 This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
 
@@ -51,8 +51,8 @@ The same also applies to names. Being called by one's given name (deadname) inst
 
 It may also manifest as joy or embarrassment at being labeled as your true gender while still living as your assigned gender. Examples:
 
-- An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
-- An AFAB person being called Sir, and feeling better for it.
+- An <abbr data-title="Assigned Male At Birth">AMAB</abbr> person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
+- An <abbr data-title="Assigned Female At Birth">AFAB</abbr> person being called Sir, and feeling better for it.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'

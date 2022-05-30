@@ -63,7 +63,7 @@ Transgender surgeries are typically divided into three separate categories:
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
-A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
+A newly developing area of bottom surgery is in <abbr data-title="Assigned Male At Birth">AMAB</abbr> non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
 
 An additional option for non-binary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
 

@@ -17,7 +17,7 @@ classes:
 
 ## What to expect from Feminizing HRT
 
-This is a compilation of reported medical transition changes collected from testimonials of AMAB trans people taking estrogen based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+This is a compilation of reported medical transition changes collected from testimonials of <abbr data-title="Assigned Male At Birth">AMAB</abbr> trans people taking estrogen based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
 
 **Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
 
@@ -105,7 +105,7 @@ With this thickening, curliness may become more pronounced, and a change in hair
 
 As musculature atrophies, ligament flexibility increases, and weight shifts lower on the body, the orientation of the pelvic bone in relation to the spine and femurs rotates forward. Not by much, only about 10-20 degrees, but enough to cause a change in the alignment of the spine and hips, increasing arch of the back and causing the buttocks to jut out more. The added arch to the back can cause a relative drop in total height, between 1 and 2 inches (2-5cm) depending on pelvic shape.
 
-Note, this is NOT the same as the [hip rotation](https://youtu.be/OROoZzoVwfk?t=12) that occurs in AFAB puberty and during pregnancy. That is the result of migration of bone cells, altering the shape of the pelvic bone itself. **However**, hip rotation *can* occur if the person is young enough to still be within initial puberty, where the body is producing elevated human growth hormone. There have also been examples of hip rotation happening over long periods of time in trans elders. In 2017 an 80 year old trans woman reported on reddit that over the course of her 30 years on HRT, her doctor observed changes in her pelvis consistent with female hip rotation.
+Note, this is NOT the same as the [hip rotation](https://youtu.be/OROoZzoVwfk?t=12) that occurs in <abbr data-title="Assigned Female At Birth">AFAB</abbr> puberty and during pregnancy. That is the result of migration of bone cells, altering the shape of the pelvic bone itself. **However**, hip rotation *can* occur if the person is young enough to still be within initial puberty, where the body is producing elevated human growth hormone. There have also been examples of hip rotation happening over long periods of time in trans elders. In 2017 an 80 year old trans woman reported on reddit that over the course of her 30 years on HRT, her doctor observed changes in her pelvis consistent with female hip rotation.
 
 ### Reduced Tolerance of Caffeine, Alcohol, and/or Psychotropics
 
@@ -147,7 +147,7 @@ That said, you may find yourself unable to eat *as much* food as you could befor
 
 ##### Sleep
 
-Many people report having better sleep patterns after starting HRT. This is likely a factor of the alleviation of DPDR, as it seems to occur in both AMAB and AFAB trans people. That said, initiating progesterone can *significantly* improve sleep, allowing for deeper sleep and more dreaming.
+Many people report having better sleep patterns after starting HRT. This is likely a factor of the alleviation of DPDR, as it seems to occur in both <abbr data-title="Assigned Male At Birth">AMAB</abbr> and <abbr data-title="Assigned Female At Birth">AFAB</abbr> trans people. That said, initiating progesterone can *significantly* improve sleep, allowing for deeper sleep and more dreaming.
 
 ##### Extroversion
 
