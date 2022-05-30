@@ -343,7 +343,7 @@ async function main() {
 	langs.push('all');
 
 	// Add each language
-	for (const lang of langs) {
+	for (const lang of ['en']) {
 		var filename = 'dist/gdb-'+lang+'.warc';
 		if (lang ===  "all") {
 			filename = 'dist/gdb.warc';
@@ -380,5 +380,7 @@ if (require.main === module) {
 exports.GDBWarc = GDBWarc;
 exports.offlineTask = async function(callback) {
 	await main();
-	callback();
+	if (callback !== undefined) {
+		callback();
+	}
 }

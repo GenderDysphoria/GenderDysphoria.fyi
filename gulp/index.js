@@ -1,5 +1,7 @@
 
-const { series, watch, src, dest } = require('gulp');
+const { series, watch, src, dest, parallel } = require('gulp');
+const log = require('fancy-log');
+const chalk = require('chalk');
 
 /** **************************************************************************************************************** **/
 
@@ -32,6 +34,8 @@ function copyProd () {
   return src('dist/**/*').pipe(dest('published'));
 }
 
+var TheServer = undefined;
+
 /** **************************************************************************************************************** **/
 
 exports.offline = offlineTask;
@@ -40,7 +44,7 @@ exports.prod = series(prodBuildTask);
 exports.publish = series(
   cleanTask,
   prodBuildTask,
-  offlineTask,
+  parallel(server, offlineTaskAutoStop),
   pushToProd,
   cleanTask.prodBackup,
   copyProd,
@@ -76,15 +80,56 @@ function watcher () {
   server();
 }
 
-function server () {
+async function offlineTaskSlow(callback) {
+  // Give some time for the server to start
+  const time = 2500;
+  await new Promise(resolve => setTimeout(resolve, time));
+  offlineTask();
+  if (callback !== undefined) {
+    callback();
+  }
+}
+
+async function offlineTaskAutoStop(callback) {
+  // replace this logic with manual spawning server in background process and killing it afterwards?
+
+  // problem with request: connect ECONNREFUSED 127.0.0.1:8085
+// (node:90782) UnhandledPromiseRejectionWarning: Error: connect ECONNREFUSED 127.0.0.1:8085
+//     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)
+//     at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:130:17)
+// (node:90782) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+// (node:90782) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
   var forever = require('forever');
-  var srv = new forever.Monitor('server.js');
-  srv.start();
-  forever.startServer(srv);
+
+  // Give some time for the server to start
+  const time = 2500;
+  await new Promise(resolve => setTimeout(resolve, time));
+  offlineTask();
+
+  if (TheServer !== undefined) {    
+    log(TheServer.stop());
+  }
+
+  if (callback !== undefined) {
+    callback();
+  }
+}
+
+exports.offline2 = parallel(server, offlineTaskAutoStop);
+
+function server (callback) {
+  var forever = require('forever');
+  TheServer = new forever.Monitor('server.js', {fork: true});
+  TheServer.start();
+  forever.startServer(TheServer);
+
+  if (callback !== undefined) {
+    callback();
+  }
 }
 
 exports.watch = series(devBuildTask, watcher);
-exports.uat = series(cleanTask, prodBuildTask, offlineTask, server);
+exports.uat = series(cleanTask, prodBuildTask, parallel(server, offlineTaskSlow));
 
 /** **************************************************************************************************************** **/
 
