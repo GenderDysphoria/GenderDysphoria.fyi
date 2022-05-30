@@ -13,7 +13,8 @@ class GDBWarc {
 	#status;
 	#hostMap;
 	#domainsToInclude;
-	#pagesToInclude;
+	// array or pairs (url, bool) or (str, bool) or (RegExp, bool) where the first element will be matched against the path part of the GDB URLs 
+	#pagesInclusionRules
 	#downloadedFiles;
 	#pages;
 
@@ -40,11 +41,21 @@ class GDBWarc {
 			'twemoji.maxcdn.com': true
 		};
 		this.#domainsToInclude[GDBWarc.main_domain] = true;
-		this.#pagesToInclude = ['/', /^\/pt(\/.*)?/i, /^\/en(\/.*)?/i, /^\/zh(\/.*)?/i];
+		this.#pagesInclusionRules = [];
 		this.#downloadedFiles = {};
 		this.#pages = [];
 
 		this.#status = 0;
+	}
+
+	addPageInclusionRule(pathToMatch, shouldInclude) {
+		if (!(pathToMatch instanceof RegExp) && !(pathToMatch instanceof String) && !(pathToMatch instanceof URL)) {
+			throw "Invalid argument type for pathToMatch";
+		}
+		if (!(shouldInclude instanceof Boolean) && (typeof shouldInclude !== 'boolean')) {
+			throw "Invalid argument type for shouldInclude";
+		}
+		this.#pagesInclusionRules.push([pathToMatch, shouldInclude]);
 	}
 
 	async start() {
@@ -76,14 +87,16 @@ class GDBWarc {
 			return false;
 		}
 		const path = url.pathname;
-		for (const pat of this.#pagesToInclude) {
+		for (const entry of this.#pagesInclusionRules) {
+			const pat = entry[0];
+			const ans = entry[1];
 			if (path === pat) {
-				return true;
+				return ans;
 			}
 			if (pat instanceof RegExp) {
 				var match = path.match(pat);
 				if (match && path === match[0]) {
-					return true;
+					return ans;
 				}
 			}
 		}
@@ -198,6 +211,12 @@ class GDBWarc {
 		// Write data
 		await this.#writer.writeRequestRecord(url, req.request_headers_raw);
 		if (req.body) {
+			// Remove srcset attributes as they mess everything up
+			if (req.content_type === 'text/html') {
+				const re = /srcset="[^"]*"/ig;
+				req.body = req.body.replace(re, '');
+			}
+
 			await this.#writer.writeResponseRecord(url, req.response_headers_raw, req.body);
 		} else {
 			await this.#writer.writeResponseRecord(url, req.response_headers_raw, req.data);
@@ -244,7 +263,7 @@ class GDBWarc {
 				const linkUrl = new URL(match[1], url.toString());
 				dependencies[linkUrl.toString()] = linkUrl;
 			}
-		} else if (req.content_type.startsWith("image/") || req.content_type.startsWith("font/")) {
+		} else if (req.content_type.startsWith("image/") || req.content_type.startsWith("font/") || req.content_type.startsWith("application/javascript")) {
 			// Nothing to do
 		} else if (req.content_type !== "") {
 			console.error('Unexpected content-type for '+url+':', req.content_type);
@@ -280,13 +299,18 @@ class GDBWarc {
 async function main() {
 	const port = process.env.PORT || 8000;
 	const proxy_url = '127.0.0.1:'+port;
-	const gen = new GDBWarc('offline.warc', proxy_url);
-	await gen.start();
-	await gen.addPage('/', 200, 15);
-	await gen.addPage('/en', 200, 15);
-	await gen.addPage('/pt', 200, 15);
-	await gen.addPage('/zh', 200, 15);
-	await gen.finish();
+	const langs = ['en', 'de', 'pl', 'hu', 'zh', 'fr', 'es'];
+	for (const lang of langs) {
+		const filename = 'gdb-'+lang+'.warc';
+		console.log("[Making "+filename+"]");
+		const gen = new GDBWarc(filename, proxy_url);
+		await gen.start();
+		let re = new RegExp('^\/'+lang+'(\/.*)?', 'i');
+		gen.addPageInclusionRule(re, true);
+		await gen.addPage('/'+lang, 200, 15);
+		await gen.finish();
+		console.log("[Finished "+filename+"]");
+	}
 }
 
 if (require.main === module) {
