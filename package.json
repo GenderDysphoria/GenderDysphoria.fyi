@@ -11,9 +11,11 @@
   },
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "siteInfo": {
+    "title": "That's Gender Dysphoria, FYI",
     "domain": "genderdysphoria.fyi",
     "lang": "en",
     "siteUrl": "https://genderdysphoria.fyi",
+    "description": "A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.",
     "creator": "TwippingVanilla",
     "author": "Jocelyn Badgley",
     "rss": {
@@ -41,6 +43,7 @@
     "bootstrap": "~4.6.0",
     "concurrent-transform": "~1.0.0",
     "crass": "~0.12.3",
+    "css": "^3.0.0",
     "date-fns": "~2.23.0",
     "eslint": "~7.32.0",
     "eslint-config-twipped": "~4.0.0",
@@ -74,11 +77,14 @@
     "minimist": "~1.2.5",
     "morgan": "~1.10.0",
     "node-sass": "~5.0.0",
+    "node-warc": "^3.3.1",
+    "parse5": "^6.0.1",
     "plugin-error": "~1.0.1",
     "png-to-ico": "~2.1.2",
     "popper.js": "~1.16.0",
     "postcss": "~8.3.6",
     "preact": "~10.5.14",
+    "request-promise": "^4.2.6",
     "rev-hash": "~3.0.0",
     "rev-path": "~2.0.0",
     "rollup": "~2.56.3",
@@ -93,13 +99,7 @@
     "terser": "~5.7.2",
     "twemoji": "~13.1.0",
     "twitter-lite": "~1.1.0",
-    "uuid": "~8.3.2"
-  },
-  "dependencies": {
-    "css": "^3.0.0",
-    "node-warc": "^3.3.1",
-    "parse5": "^6.0.1",
-    "request-promise": "^4.2.6",
+    "uuid": "~8.3.2",
     "xpath-html": "^1.0.3"
   }
 }
