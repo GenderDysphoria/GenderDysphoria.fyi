@@ -22,4 +22,22 @@ app.use(directory('dist', { 'icons': true }));
 app.get('/i', (req, res) => res.send(''));
 
 const port = process.env.PORT || 8000;
-app.listen(port, () => log('Listening on '+chalk.cyan('http://127.0.0.1:'+port)));
+const server = app.listen(port, () => {
+  log('Listening on '+chalk.cyan('http://127.0.0.1:'+port));
+});
+
+process.on('SIGTERM', () => {
+  log('Got SIGTERM');
+  server.close(() => {
+    log('Stoped HTTP server');
+    module.exports.ready = false;
+  });
+});
+
+process.on('SIGINT', () => {
+  log('Got SIGINT');
+  server.close(() => {
+    log('Stoped HTTP server');
+    module.exports.ready = false;
+  });
+});
