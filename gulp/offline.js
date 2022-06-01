@@ -232,7 +232,7 @@ class GDBWarc {
 				console.error(`problem with request: ${e.message}`);
 				reject(e);
 			});
-		});
+		}).catch((err) => {log.error(chalk.red("Failed to download "+chalk.magenta(real_url.toString())+": ")+err); return undefined});
 	}
 
 	async #add_page(url, page_recursion, dep_recursion) {
@@ -246,7 +246,15 @@ class GDBWarc {
 		const page_links = {};
 
 		log(chalk.gray("Downloading: "+url.toString()));
-		const req = await this.get(url);
+		await new Promise(resolve => setTimeout(resolve, 50));
+		let req = await this.get(url);
+		// for (let i=0; i < 5 && req === undefined; i++) {
+		// 	req = await this.get(url);
+		// 	await new Promise(resolve => setTimeout(resolve, 500));
+		// }
+		if (req == undefined) {
+			return false;
+		}
 
 		// Write data
 		await this.#writer.writeRequestRecord(url, req.request_headers_raw);
@@ -324,6 +332,8 @@ class GDBWarc {
 				await this.#add_page(url, page_recursion-1, dep_recursion);
 			}
 		}
+
+		return true;
 	}
 
 	async finish() {
