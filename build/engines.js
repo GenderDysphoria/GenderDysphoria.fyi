@@ -1,4 +1,3 @@
-
 const path = require('path');
 
 const fs = require('fs-extra');
@@ -15,6 +14,18 @@ const markdownIt = require('markdown-it');
 const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
+
+const dateFNS = require('date-fns');
+const dateFNSLocales = require('date-fns/locale');
+const str2locale = {
+  'en': dateFNSLocales.enUS,
+  'zh': dateFNSLocales.zhCN,
+  'de': dateFNSLocales.de,
+  'fr': dateFNSLocales.fr,
+  'hu': dateFNSLocales.hu,
+  'pl': dateFNSLocales.pl,
+  'es': dateFNSLocales.es
+};
 
 const markdownEngines = {
   full: markdownIt({
@@ -181,12 +192,14 @@ class Injectables {
 
   helpers () {
     return {
-      import:   this.import(),
-      markdown: this.markdown(),
-      icon:     this.icon(),
-      prod:     this.production(),
-      rev:      this.rev(),
-      lang:     this.lang(),
+      import:    this.import(),
+      markdown:  this.markdown(),
+      icon:      this.icon(),
+      coalesce:  this.coalesce(),
+      prod:      this.production(),
+      rev:       this.rev(),
+      lang:      this.lang(),
+      date:      this.date(),
     };
   }
 
@@ -278,6 +291,117 @@ class Injectables {
       const { resolve: rval } = args.pop();
       const lang = rval('@root.this.page.lang').split('-')[0];
       return i18n(lang, key, ...args);
+    };
+  }
+
+  // Given a list of arguments, returns the firt that isn't undefined
+  coalesce () {
+    return function (...raw_args) {
+      const { arguments: args } = raw_args.pop();
+      for (let arg in args) {
+        if (args[arg] !== undefined) {
+          return args[arg];
+        }
+      }
+      return undefined;
+    };
+  }
+
+  // Multi tool for printing dates
+  // 
+  // {{date}} -> prints current date
+  // {{date datestr}} -> prints date in datestr
+  // {{date datestr datefmt}} -> prints date in datestr in format datefmt
+  // {{date datestr datefmt lang}} -> prints date in datestr in format datefmt according to conventions for language lang 
+  // 
+  // Datestr can be the string "now", `undefined`, and anything parsable by `new Date()`.
+  // 
+  // If lang is not specified, it will be extracted from the page metadata. If that is not available, English will be assumed.
+  // In case of errors, the date will be returned as an ISO string if possible and its raw datestr input otherwise.
+  // Datefmt format is available at https://date-fns.org/v2.25.0/docs/format
+  // 
+  // Common formats:
+  // - "h:mm aa - EEE, LLL do, yyyy"  = 12 hour clock, e.g. '1:28 PM - Sat, Feb 15th, 2020' (en) or '1:28 PM - sam., 15/févr./2020' (fr)
+  // - "hh:mm - EEE, LLL do, yyyy"    = 24 hour clock, e.g. '13:28 - Sat, Feb 15th, 2020' (en) or '13:28 - sam., 15/févr./2020' (fr)
+  // - "yyyy-MM-dd'T'HH:mm:ss.SSSXXX" or "iso" = ISO 8601 format, e.g. '2020-02-15T13:28:02.000Z'
+  date () {
+    return function (...args) {
+      let extra = args.pop();
+      let datestr, dateobj, datefmt, lang;
+
+      const { resolve: rval } = extra;
+      const filename = rval('@value.input');
+      lang = (rval('@root.this.page.lang') || 'en').split('-')[0];
+
+      switch (args.length) {
+      case 0:
+        datestr = "now";
+        break;
+      case 1:
+        datestr = args[0];
+        break;
+      case 2:
+        datestr = args[0];
+        datefmt = args[1];
+        break;
+      case 3:
+        datestr = args[0];
+        datefmt = args[1];
+        lang = args[2];
+        break;
+      default:
+        throw new Exception('wrong number of arguments for {{date}}, got '+args.length+' maximum is 3');
+      }
+
+      if (datestr === "now" || datestr === undefined) {
+        dateobj = new Date();
+      } else {
+        dateobj = new Date(datestr);
+      }
+
+      if (!dateFNS.isValid(dateobj)) {
+        console.trace('Invalid input for date: ', { datestr, filename, args, extra });
+        return datestr.toString();
+      }
+
+      if (datefmt == "iso") {
+        return dateobj.toISOString();
+      }
+
+      if (lang === undefined) {
+        return dateobj.toISOString();
+      }
+
+      const locale = str2locale[lang];
+      if (locale === undefined) {
+        console.warn('Locale not found: '+lang);
+      }
+      if (datefmt === undefined || locale === undefined) {
+        const options = {
+          weekday: 'short',
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric',
+          timeZone: 'UTC',
+          timeZoneName: 'short',
+          hour: '2-digit',
+          minute: '2-digit',
+          second: '2-digit'
+        };
+        try {
+          return dateobj.toLocaleString(lang, options);
+        } catch (error) {
+          console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
+          return dateobj.toISOString();
+        }
+      }
+
+      try {
+        return dateFNS.format(dateobj, datefmt, {locale: locale});
+      } catch (error) {
+        console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
+        return dateobj.toISOString();
+      }
     };
   }
 
