@@ -1,0 +1,49 @@
+dfn.glossed-main, span.glossed-main {
+  font-style: inherit;
+  text-decoration-style: dotted;
+  border-bottom: 1px dotted black;
+}
+
+dfn.glossed-main a, span.glossed-main a {
+  color: inherit;
+  font-style: inherit;
+}
+
+@media not print {
+  .glossed-print {
+    display: none;
+  }
+
+  .glossed-block {
+    position: relative;
+    display: inline-block;
+  }
+
+  .glossed-block .glossed-tooltip {
+    visibility: hidden;
+    // width: calc(max(80svw, 200px));
+    width: 200px;
+    top: 100%;
+    margin-left: calc(-100%);
+    color: white;
+    background-color: black;
+    font-size: $font-size-base * 0.9;
+
+    padding: 5px;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+  }
+
+  .glossed-tooltip:hover,
+  .glossed-block:hover .glossed-tooltip {
+    visibility: visible;
+  }
+}
+
+@media print {
+  .glossed-tooltip {
+    display: none;
+  }
+}

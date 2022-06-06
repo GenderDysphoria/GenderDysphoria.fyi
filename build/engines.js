@@ -15,6 +15,9 @@ const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
 
+const glossary = require('./glossary');
+const glossaries = await glossary.loadGlossaries();
+
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
@@ -80,6 +83,17 @@ function markdown (mode, input, data, hbs) {
 
     input = input.replace(/<!--[[\]]-->/g, '');
   }
+
+  // Add glossary tooptips and ruby annotations
+  if (data !== undefined && data.page.lang !== undefined) {
+    const lang = data.page.lang;
+    if (glossaries[lang] !== undefined) {
+      input = glossary.autoInsertGloss(input, glossaries[lang]);
+    } else {
+      log.error('Missing glossary for: '+lang);
+    }
+  }
+
 
   try {
     return input ? markdownEngines[mode].render(input, data) : '';
