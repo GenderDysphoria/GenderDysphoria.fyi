@@ -49,7 +49,6 @@ exports.everything = function (prod = false) {
     // prime tweet data for all pages
     let pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
     pages = pages.filter(Boolean);
-    console.log(pages[0]);
 
     let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));
     posts = posts.filter(Boolean);
@@ -106,9 +105,6 @@ exports.pages = function () {
       loadPublicFiles(),
       loadPostFiles(),
     ]);
-
-    console.log(PublicFiles);
-    os.exit(1);
 
     // load data for all the files in that folder
     await Promise.map(PublicFiles.assets, (p) => p.load());
