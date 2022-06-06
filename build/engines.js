@@ -16,7 +16,7 @@ const i18n = require('./lang');
 const mAnchor = require('markdown-it-anchor');
 
 const glossary = require('./glossary');
-const glossaries = await glossary.loadGlossaries();
+var glossaries = undefined;
 
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
@@ -125,6 +125,9 @@ const HANDYBARS_TEMPLATES = {
 };
 
 module.exports = exports = async function (prod) {
+  if (glossaries === undefined) {
+    glossaries = await glossary.loadGlossaries();
+  }
 
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
   const injectables = new Injectables(prod, revManifest);

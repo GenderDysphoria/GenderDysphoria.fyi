@@ -44,6 +44,7 @@ async function loadGlossaries() {
 				pronunciations: src_entry.pronunciations || [],
 				variants: src_entry.variants || [],
 				renderAs: src_entry.renderAs || [],
+				pronunciations_to_include_in_short_form: src_entry.pronunciations_to_include_in_short_form || 0,
 			};
 			// Add the entry itself to our map and the enrty name to our lists
 			terms_map.set(entry_name, entry);
@@ -106,7 +107,7 @@ function makeHTMLGloss(term_key, glossary, next_word) {
 	const term = entry.renderAs[term_key] || term_key;
 	const has_glossary_definition = entry.short !== undefined || entry.long !== undefined;
 	const term_core = has_glossary_definition ?
-		`<dfn class="glossed-main">`+term+`</dfn>` : term;
+		`<dfn class="glossed-main"><a href="#">`+term+`</a></dfn>` : term;
 
 	var output = ``;
 	if (has_glossary_definition) {
@@ -116,7 +117,7 @@ function makeHTMLGloss(term_key, glossary, next_word) {
 	// Make ruby (asiatic pronunciation annotation) markup
 	if (entry.ruby !== undefined) {
 		if (has_glossary_definition) {
-			output += `<ruby class="glossed-main">`;
+			output += `<ruby class="glossed-ruby">`;
 		} else {
 			output += `<ruby>`;
 		}
@@ -129,11 +130,37 @@ function makeHTMLGloss(term_key, glossary, next_word) {
 		output += term_core;
 	}
 
+	// Aggregate pronunciations
+	var i = 0;
+	var pronunciations = ``;
+	if (entry.pronunciations_to_include_in_short_form > 0) {
+		for (const pronunciation of entry.pronunciations) {
+			if (i <= entry.pronunciations_to_include_in_short_form) {
+				break;
+			}
+
+			if (pronunciation.IPA !== undefined) {
+				if (pronunciations.length !== 0) {
+					pronunciations += ', ';
+				}
+				pronunciations += pronunciation.IPA;
+				i++;
+			}
+		}
+		if (pronunciations.length !== 0) {
+			pronunciations += `. `;
+			pronunciations = `<span class="pronunciations">`+pronunciations+`</span>`;
+		}
+	}
+
+	// Finalize short form
+	const short_form = pronunciations+(entry.short||'');
+
 	// Make tooltip print
 	if (entry.short !== undefined && entry.show_in_print !== false) {
 		assert(has_glossary_definition == true);
 		output += `<span class="glossed-print">`;
-		output += ` (`+entry.short+`)`;
+		output += ` (`+short_form+`)`;
 		if (isFirstPunctuation(next_word) === false) {
 			output += ` `;
 		}
@@ -143,8 +170,8 @@ function makeHTMLGloss(term_key, glossary, next_word) {
 	// Make tooltip markup
 	if (has_glossary_definition) {
 		output += `<span class="glossed-tooltip">`;
-		if (entry.short !== undefined) {
-			output += entry.short+`. <a href="#">Read mode</a>`;
+		if (short_form !== undefined) {
+			output += short_form+`. <a href="#">Read mode</a>`;
 		} else {
 			output += `<a href="#">Go to glossary</a>`;
 		}
@@ -163,7 +190,7 @@ async function main() {
 	// log(makeHTMLGloss('AMAB', glossaries['en'], ' '));
 	// log(makeHTMLGloss('LaTeX', glossaries['en']));
 	// log(makeHTMLGloss('TeX', glossaries['en']));
-	log(autoInsertGloss("I'm   an AMAB !  ! !  !", glossaries['en']));
+	log(autoInsertGloss("GLAAD", glossaries['en']));
 }
 
 if (require.main === module) {

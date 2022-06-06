@@ -4,9 +4,13 @@ dfn.glossed-main, span.glossed-main {
   border-bottom: 1px dotted black;
 }
 
-dfn.glossed-main a, span.glossed-main a {
+dfn.glossed-main a, span.glossed-main a,
+dfn.glossed-main a:hover, span.glossed-main a:hover,
+dfn.glossed-main a:active, span.glossed-main a:active,
+dfn.glossed-main a:visited, span.glossed-main a:visited {
   color: inherit;
   font-style: inherit;
+  text-decoration: none;
 }
 
 @media not print {
@@ -14,31 +18,71 @@ dfn.glossed-main a, span.glossed-main a {
     display: none;
   }
 
-  .glossed-block {
-    position: relative;
-    display: inline-block;
-  }
-
-  .glossed-block .glossed-tooltip {
-    visibility: hidden;
-    // width: calc(max(80svw, 200px));
-    width: 200px;
-    top: 100%;
-    margin-left: calc(-100%);
-    color: white;
-    background-color: black;
-    font-size: $font-size-base * 0.9;
-
-    padding: 5px;
-    border-radius: 6px;
-
-    position: absolute;
-    z-index: 1;
-  }
-
-  .glossed-tooltip:hover,
-  .glossed-block:hover .glossed-tooltip {
+  .glossed-block:focus-within .glossed-tooltip {
     visibility: visible;
+  }
+
+  .glossed-block:has(a.glossed-main:active) .glossed-tooltip {
+    visibility: visible;
+  }
+
+  .glossed-block:hover .glossed-tooltip {
+      visibility: visible;
+    }
+
+  @media screen and (max-width: 799.99px) {
+    .glossed-block {
+      display: inline-block;
+    }
+
+    .glossed-block .glossed-tooltip {
+      visibility: hidden;
+      position: fixed;
+      top: 40vh;
+      left: 5vw;
+      right: 5vw;
+
+      box-shadow: 1px 1px 5px 0 $trans-pink;
+
+      color: $body-color;
+      font-size: 0.9rem;
+      font-weight: 300;
+
+      background-color: darken($gray-100, 2%);
+      border: 1px solid $trans-pink;
+      padding: 5px;
+      border-radius: 6px;
+
+      z-index: 200;
+    }
+  }
+
+  @media screen and (min-width: 800px) {
+    .glossed-block {
+      position: relative;
+      display: inline-block;
+    }
+
+    .glossed-block .glossed-tooltip {
+      visibility: hidden;
+      position: absolute;
+      width: 400px;
+      top: 100%;
+      margin-left: -100%;
+
+      box-shadow: 1px 1px 5px 0 $trans-pink;
+
+      color: $body-color;
+      font-size: 0.9rem;
+      font-weight: 300;
+
+      background-color: darken($gray-100, 2%);
+      border: 1px solid $trans-pink;
+      padding: 5px;
+      border-radius: 6px;
+
+      z-index: 200;
+    }
   }
 }
 
