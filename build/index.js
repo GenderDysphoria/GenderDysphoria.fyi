@@ -27,6 +27,7 @@ function writeIndex (destination, files, compressed) {
   return fs.writeFile(resolve(destination), compressed ? JSON.stringify(files) : JSON.stringify(files, null, 2));
 }
 
+// Main entrance for the build process
 exports.everything = function (prod = false) {
   async function fn () {
 
@@ -44,9 +45,11 @@ exports.everything = function (prod = false) {
     await Promise.map(PostFiles.pages, (p) => p.load(PostFiles));
 
 
+
     // prime tweet data for all pages
     let pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
     pages = pages.filter(Boolean);
+    console.log(pages[0]);
 
     let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));
     posts = posts.filter(Boolean);
@@ -84,6 +87,8 @@ exports.everything = function (prod = false) {
     }
 
     const engines = await getEngines(prod);
+
+    // console.log(pages[0]);
     const postIndex = await pageWriter(prod, engines, pages, posts);
     postIndex.rev = revManifest;
     await fs.writeFile(resolve('dist/tweets/index.json'), prod ? JSON.stringify(postIndex) : JSON.stringify(postIndex, null, 2));
@@ -101,6 +106,9 @@ exports.pages = function () {
       loadPublicFiles(),
       loadPostFiles(),
     ]);
+
+    console.log(PublicFiles);
+    os.exit(1);
 
     // load data for all the files in that folder
     await Promise.map(PublicFiles.assets, (p) => p.load());

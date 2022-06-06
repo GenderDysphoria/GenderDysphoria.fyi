@@ -60,7 +60,9 @@ const markdownEngines = {
 };
 
 function markdown (mode, input, data, hbs) {
-
+  // log(mode);
+  // log(input);
+  // log(data);
   if (mode === 'preview') {
     input = stripHtml(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
@@ -289,7 +291,7 @@ class Injectables {
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
-      const lang = rval('@root.this.page.lang').split('-')[0];
+      const lang = (rval('@root.this.page.lang')||'').split('-')[0];
       return i18n(lang, key, ...args);
     };
   }

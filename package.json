@@ -14,6 +14,7 @@
     "title": "That's Gender Dysphoria, FYI",
     "domain": "genderdysphoria.fyi",
     "lang": "en",
+    "allLangs": ["en", "zh", "fr", "de", "hu", "pl"],
     "siteUrl": "https://genderdysphoria.fyi",
     "description": "A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.",
     "creator": "TwippingVanilla",
