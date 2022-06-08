@@ -54,8 +54,8 @@ module.exports = exports = {
 					'aria': undefined
 				},
 			],
-			'short': 'A document markup language used in academia',
-			'long': 'A set of macros over the TeX typesetting designed to aid in the preparation of professional documents.',
+			'short': 'A document markup language used in academia. Styled as LaTeX or LaTeX2e',
+			'long': 'A set of macros over the TeX typesetting designed to aid in the <em>preparation</em> of *professional* documents.',
 			'renderAs': {
 				'LaTeX': '<span style="font-family: \'CMU Serif\', cmr10, LMRoman10-Regular, \'Latin Modern Math\', \'Nimbus Roman No9 L\', \'Times New Roman\', Times, serif;">L<span style="text-transform: uppercase; font-size: 0.75em; vertical-align: 0.25em; margin-left: -0.36em; margin-right: -0.15em; line-height: 1ex;">a</span>T<span style="text-transform: uppercase; vertical-align: -0.25em; margin-left: -0.1667em; margin-right: -0.125em; line-height: 1ex;">e</span>X</span>',
 			}

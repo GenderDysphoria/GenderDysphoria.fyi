@@ -12,3 +12,14 @@ preBody: '_disclaimer'
 ---
 
 <!-- {{make-glossary}} -->
+
+{!{ 
+  <dl>
+  {{#each (gloss false)}}
+    <dt id="entry_{{this}}">{{{nogloss this}}}</dt>
+    {{#with (gloss this)}}
+      <dd><p>{{short}}.</p><p>{{{long}}}</p></dd>
+    {{/with}}
+  {{/each}}
+  </dl>
+}!}
