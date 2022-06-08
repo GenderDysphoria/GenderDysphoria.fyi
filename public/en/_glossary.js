@@ -25,6 +25,16 @@ module.exports = exports = {
 				'In extreme cases, babies whose circumcision was botched are sort of AFAB as their male status is quickly erased from records or was never oficialized as the birth certificate is sometimes done after any circumcision.',
 			'variants': ['AFABs'],
 		},
+		'GLAAD': {
+			'ruby': '/ɡlæd/',
+			'pronunciations': [
+				{
+					'IPA': '/ɡlæd/',
+				},
+			],
+			'short': 'Gay & Lesbian Alliance Against Defamation',
+			'long': 'An americna organization that protests defamatory coverage of queer people and pushes for their acceptance. Oficial website: https://www.glaad.org/',
+		},
 		'TeX': {
 			'renderAs': {
 				'TeX': '<span style="font-family: \'CMU Serif\', cmr10, LMRoman10-Regular, \'Latin Modern Math\', \'Nimbus Roman No9 L\', \'Times New Roman\', Times, serif;">T<span style="text-transform: uppercase; vertical-align: -0.25em; margin-left: -0.1667em; margin-right: -0.125em; line-height: 1ex;">e</span>X</span>',
