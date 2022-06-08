@@ -15,7 +15,7 @@ const Files = require('./files');
 const Promise = require('bluebird');
 
 async function loadGlossaries() {
-	// TODO: use actual files instead of siteInfo.allLangs
+	log('loading glossaries');
 	const filepaths = await glob('public/**/_glossary.js', { cwd: ROOT, nodir: true });
 
 	const output = {};
@@ -80,6 +80,8 @@ function autoInsertGloss(input, glossary) {
 	// Split at word boundaries
 	const words = input.split(/\b/g);
 	
+	// BUG: don't expand inside comments
+
 	// For each word, insert gloss markup if needed
 	for (const key in words) {
 		const i = Number(key);

@@ -16,7 +16,7 @@ const i18n = require('./lang');
 const mAnchor = require('markdown-it-anchor');
 
 const glossary = require('./glossary');
-var glossaries = undefined;
+const assert = require('assert');
 
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
@@ -62,10 +62,8 @@ const markdownEngines = {
     .use(require('./lib/markdown-token-filter')),
 };
 
-function markdown (mode, input, data, hbs) {
-  // log(mode);
-  // log(input);
-  // log(data);
+function markdown (mode, input, data, hbs, glossaries) {
+  assert(glossaries !== undefined);
   if (mode === 'preview') {
     input = stripHtml(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
@@ -124,13 +122,12 @@ const HANDYBARS_TEMPLATES = {
   post:      'templates/post.hbs',
 };
 
+// BUG: for some reason, the glossaries are reloaded but don't show any effect.
+// Some assignment is probably making a copy rather than a reference.
 module.exports = exports = async function (prod) {
-  if (glossaries === undefined) {
-    glossaries = await glossary.loadGlossaries();
-  }
-
+  const glossaries = await glossary.loadGlossaries();
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
-  const injectables = new Injectables(prod, revManifest);
+  const injectables = new Injectables(prod, revManifest, glossaries);
 
   const env = {  ...Kit, ...injectables.helpers() };
 
@@ -157,15 +154,15 @@ module.exports = exports = async function (prod) {
 
   const result = {
     [TYPE.HANDYBARS]:  hbs,
-    [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs),
+    [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs, glossaries),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs) }),
-    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs) }),
+    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs, glossaries) }),
+    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs, glossaries) }),
     [ENGINE.HTML]:     (source) => source,
     [ENGINE.OTHER]:    (source) => source,
 
-    preview: (source, data) => markdown('preview', source, data, hbs),
+    preview: (source, data) => markdown('preview', source, data, hbs, glossaries),
   };
 
   return result;
@@ -173,11 +170,12 @@ module.exports = exports = async function (prod) {
 
 class Injectables {
 
-  constructor (prod, revManifest) {
+  constructor (prod, revManifest, glossaries) {
     this.prod = prod;
     this.revManifest = revManifest;
     this.injections = {};
     this.languages = {};
+    this.glossaries = glossaries;
   }
 
   _parsePath (tpath, local, type) {
@@ -219,6 +217,8 @@ class Injectables {
       rev:       this.rev(),
       lang:      this.lang(),
       date:      this.date(),
+      gloss:     this.gloss(),
+      nogloss:   this.nogloss(),
     };
   }
 
@@ -256,7 +256,7 @@ class Injectables {
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', contents, data, () => { throw new Error('You went too deep!'); });
+      contents = markdown('full', contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
 
       return { value: contents };
     };
@@ -421,6 +421,58 @@ class Injectables {
         console.trace('Something went horribly wrong while formating dates.', { error, filename, args, extra });
         return dateobj.toISOString();
       }
+    };
+  }
+
+  // Provides glossary related functionalities
+  // 
+  // {{gloss flag [lang]}} - Returns the list of entries used in a language sorted lexicographically.
+  //     (flag is a boolean indicating the inclusion of variants)
+  // {{gloss term [lang]}} - Returns the corresponding entry for the queried term 
+  //     (see glossary.js:40-48 for the object structure)
+  // 
+  // The [lang] parameter is optional
+  gloss() {
+    const self = this;
+    return function (...args) {
+      const { resolve: rval } = args.pop();
+      const filename = rval('@value.input');
+      const term = args[0];
+      const lang = args[1] || rval('@root.this.page.lang');
+
+      // Check if we have the glossary loaded
+      if (self.glossaries === undefined || self.glossaries[lang] == undefined) {
+        log.error(`No glossary for language '${lang}' (file ${filename})`);
+        return undefined;
+      }
+
+      const lgloss = self.glossaries[lang];
+      if (term === false) {
+        // Return only the main terms
+        return lgloss.entries;
+      } else if (term === true) {
+        // Return the main terms and the variants
+        return lgloss.terms;
+      } else {
+        // Return a specific entry
+        const ans = lgloss.map.get(term);
+        if (ans === undefined) {
+          log.error(`No term '${term}' for language '${lang}' (file ${filename})`)
+        }
+        return ans;
+      }
+    };
+  }
+
+  // Prevents a word from being "auto glossarized" by turning it into a sequence of hex escape codes.
+  nogloss() {
+    return function (word) {
+      var result = '';
+      for (let i=0; i < word.length; i++) {
+        let hex = word.charCodeAt(i).toString(16);
+        result += `&#x${hex};`;
+      }
+      return result;
     };
   }
 

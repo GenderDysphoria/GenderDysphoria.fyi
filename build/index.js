@@ -87,7 +87,6 @@ exports.everything = function (prod = false) {
 
     const engines = await getEngines(prod);
 
-    // console.log(pages[0]);
     const postIndex = await pageWriter(prod, engines, pages, posts);
     postIndex.rev = revManifest;
     await fs.writeFile(resolve('dist/tweets/index.json'), prod ? JSON.stringify(postIndex) : JSON.stringify(postIndex, null, 2));
