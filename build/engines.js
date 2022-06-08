@@ -219,6 +219,7 @@ class Injectables {
       date:      this.date(),
       gloss:     this.gloss(),
       nogloss:   this.nogloss(),
+      tojson:    this.tojson(),
     };
   }
 
@@ -474,6 +475,13 @@ class Injectables {
       }
       return result;
     };
+  }
+
+  // Converts a value to JSON. This is intended for debugging only
+  tojson() {
+    return function (thing) {
+      return JSON.stringify(thing);
+    }
   }
 
 }

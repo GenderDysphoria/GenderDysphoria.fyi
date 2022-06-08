@@ -13,6 +13,28 @@ dfn.glossed-main a:visited, span.glossed-main a:visited {
   text-decoration: none;
 }
 
+// Borders to isolate each glossary entry
+dl.glossary > dt {
+  border-top: 1px solid $gutter-border;
+}
+dl.glossary > dd:last-of-type {
+  border-bottom: 1px solid $gutter-border;
+}
+
+// Highlight the URL requested entry
+dl.glossary > dt:target {
+  background-color: yellow;
+}
+
+// Links besides each entry that references the entry itself
+dl.glossary > dt > a.glossary-anchor {
+  visibility: hidden;
+}
+dl.glossary > dt:hover > a.glossary-anchor {
+  visibility: visible;
+}
+
+// Other stuff, mainly tooltips
 @media not print {
   .glossed-print {
     display: none;
@@ -86,6 +108,7 @@ dfn.glossed-main a:visited, span.glossed-main a:visited {
   }
 }
 
+// Don't dare include the actual tooltips in the print version
 @media print {
   .glossed-tooltip {
     display: none;

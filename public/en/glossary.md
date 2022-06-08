@@ -11,8 +11,14 @@ classes:
 preBody: '_disclaimer'
 ---
 
-<!-- {{make-glossary}} -->
+# Glossary
 
+{!{
+  {{import '~/glossary'}}
+}!}
+
+<!-- {{make-glossary}} -->
+<!-- 
 {!{ 
   <dl>
   {{#each (gloss false)}}
@@ -22,4 +28,4 @@ preBody: '_disclaimer'
     {{/with}}
   {{/each}}
   </dl>
-}!}
+}!} -->

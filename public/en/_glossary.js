@@ -1,5 +1,23 @@
 module.exports = exports = {
+	'glossary_url': '/en/glossary',
+	'lang': 'en',
 	'entries': {
+		'transgender': {
+			'title': 'trans·gen·der',
+			'short': 'Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.',
+			'class': 'adjective',
+			'variants': ['transgenders'],
+			'related': {
+				'trans': {
+					'form': 'short',
+					show: true,
+				},
+				'trans*': {
+					'form': 'unusual spelling',
+					show: true,
+				},
+			},
+		},
 		'AMAB': {
 			'pronunciations': [
 				{
