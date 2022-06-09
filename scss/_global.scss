@@ -3,6 +3,12 @@ body {
   font-family: $font-primary;
 }
 
+// Prevents the page header from blocking view of
+// the element targeted by the fragment in the URL
+[id] {
+  scroll-margin-top: 60px;
+}
+
 span.svg-icon {
   $size: 1.5em;
   display: inline-block;
