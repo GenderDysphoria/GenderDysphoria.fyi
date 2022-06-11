@@ -19,13 +19,14 @@ module.exports = exports = {
 					auto_gloss: true,
 					show: true,
 					relation: 'abbreviation'
-				}
+				},
 			}
 		},
 		'amab': {
 			title: 'AMAB',
 			description: ['Assinged Male At Birth.'],
 			show: true,
+			show_in_print: true,
 			words: {
 				'AMAB': {
 					class: 'noun',
@@ -48,6 +49,7 @@ module.exports = exports = {
 			title: 'AFAB',
 			description: ['Assinged Female At Birth.'],
 			show: true,
+			show_in_print: true,
 			words: {
 				'AFAB': {
 					class: 'noun',
