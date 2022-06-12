@@ -2,7 +2,7 @@
 module.exports = exports = {
   MENU_LANGUAGE: 'English (EN)',
   SITE_TITLE: 'That\'s Gender Dysphoria, FYI',
-  HEADER_TITLE: 'That\'s Gender Dysphoria, <abbr title="For Your Information">FYI</abbr>',
+  HEADER_TITLE: 'That\'s Gender Dysphoria, <abbr data-title="For Your Information">FYI</abbr>',
   SITE_DESCRIPTION: 'A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.',
 
   PATREON_FOOTER_BODY: 'This site is made possible thanks to contributions from the community. If you have found this site invaluable, please consider <a href="https://www.patreon.com/curvyandtrans">making a pledge on patreon</a> or a <a href="https://ko-fi.com/curvyandtrans">donation via Ko-fi</a>.',
