@@ -78,14 +78,14 @@ function unPseudoTokens(pseudo, TokenClass) {
 		return [ans];
 	} else if (pseudo.type === 'elem') {
 		const ans = [];
-		
+
 		const start = new TokenClass(`${pseudo.tag}_open`, pseudo.tag, 1);
 		start.attrs = [];
 		for (const [key, val] of Object.entries(pseudo.attrs)) {
 			start.attrs.push([key, val])
 		}
 		ans.push(start);
-		
+
 		for (const child of pseudo.children) {
 			ans.push(...unPseudoTokens(child, TokenClass));
 		}
@@ -303,13 +303,13 @@ class Glossary {
 	get words_map()           { return this._words_map; }
 	get words_set()           { return this._words_set; }
 	get entries_map()         { return this._entries_map; }
-	
+
 	get words_sorted()        {
 		return Array.from(this._words_map.values()).sort((a, b) => {
 			return a.word.localeCompare(b.word, this._lang);
 		});
 	}
-	
+
 	get entries_sorted()      {
 		return Array.from(this._entries_map.values()).sort((a, b) => {
 			return a.key.localeCompare(b.key, this._lang);
@@ -333,7 +333,7 @@ class Glossary {
 
 		// TODO: add support for words without \b to support Chinese
 		const re = new RegExp(`\\b(?:${regexp_words_core})\\b`, 'g');
-		
+
 		return re;
 	}
 
@@ -364,7 +364,7 @@ class Glossary {
 		const short_desc      = entry_obj.description[0];
 
 		const word_rendered = word_obj.renderAs || word_str;
-		
+
 		if (has_description === false && has_ruby === false) {
 			return newPseudoTokenText(word_rendered);
 		}
@@ -444,22 +444,6 @@ class Glossary {
 		return pseudoTokensToHtml(tokens);
 	}
 
-	auto_gloss_html(src_html) {
-		// Steps
-		// 1. Parse HTML
-		// 2. Traverse the text nodes
-		// 3. Break words
-		// 4. Replace the necessary ones with the full block
-
-		// For chinese:
-		// Run regexps to replace the char-seqs with themselves but sourunded by U+0091 characters to act as word breaks. Then continue with step 3
-
-		// Word breaking regexp: /(\b|\u0091)/g
-
-		const root = xpathhtml.fromPageSource(src_html);
-		log(root)
-	}
-
 	render_full_glossary() {
 		// make the whole <dl><dt><dd> thing
 		// auto gloss the words in the entries descriptions
@@ -524,7 +508,7 @@ function markdownit_plugin (md) {
 				// Find the words to gloss and souround them with 0x00 and mark with 0x91, them split on 0x00
 				const new_nodes = [];
 				const old_nodes = currentToken.content.replace(re_auto_gloss, '\x00\x91$&\x00').split('\x00');
-				
+
 				for (let i = 0; i < old_nodes.length; i++) {
 					let node_txt = old_nodes[i];
 					const next_node_txt = old_nodes[i+1];
@@ -536,7 +520,6 @@ function markdownit_plugin (md) {
 						new_nodes.push(token_txt);
 					} else {
 						// Word to gloss, remove marker and gloss the word
-						log('>>>', node_txt)
 						node_txt = node_txt.substr(1, node_txt.length);
 						const pseudo_tokens = gloss.render_block_tokens(node_txt, next_node_txt, true);
 						const new_tokens = unPseudoTokens(pseudo_tokens, state.Token);
@@ -552,7 +535,7 @@ function markdownit_plugin (md) {
 	}
 
 	// Add our rules to the engine
-	md.core.ruler.after('linkify', 'gloss_replace', gloss_replace);
+	md.core.ruler.before('linkify', 'gloss_replace', gloss_replace);
 }
 
 function test_markdown(gloss, src_md) {
@@ -575,34 +558,6 @@ async function main() {
 
 	// log(en_gloss.regexp_words())
 	log(test_markdown(en_gloss, 'das dasdsa AMAB safdf AMABs. dfd *AFABs, hi*!'));
-}
-
-
-function autoInsertGloss(input, glossary) {
-	// Split at word boundaries
-	const words = input.split(/\b/g);
-
-	// BUG: use case insensitive search
-	// TODO: use a propper HTML parser
-
-	// For each word, insert gloss markup if needed
-	const in_comment = false;
-	for (const key in words) {
-		const i = Number(key);
-		const word = words[i];
-		if (in_comment === false && word.startsWith('<!--')) {
-			in_comment = true;
-		}
-		if (in_comment === true && word.endsWith('-->')) {
-			in_comment = false;
-		}
-		if (in_comment === false && glossary.set.has(word)) {
-			words[i] = makeHTMLGloss(word, glossary, words[i+1]);
-		}
-	}
-
-	// Concatenate out words back into a simple string
-	return words.join('');
 }
 
 if (require.main === module) {
