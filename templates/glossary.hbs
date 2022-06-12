@@ -4,7 +4,7 @@
       <dt id="{{this.key}}">{{{nogloss this.title}}} <a class="glossary-anchor" href="#{{this.key}}">#</a></dt>
       {{#with (gloss this.key)}}
         {{#each this.description}}
-          <dd>{{this}}</dd>
+          <dd>{{md true this}}</dd>
         {{/each}}
       {{/with}}
       {{/if}}

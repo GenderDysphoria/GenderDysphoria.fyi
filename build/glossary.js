@@ -1,7 +1,6 @@
-/*****
- * DOCUMENTATION
- *
- ******/
+// BUGS
+// [ ] - No support for chinese due to word break
+// [ ] - Automitic reloading not working
 
 'use strict';
 
@@ -144,6 +143,7 @@ class Word {
 	_class          = undefined;
 	_render_as      = undefined;
 	_relation       = undefined;
+	_regexp_break   = false; // only intended for Chinese
 	_pronunciations = []
 	_show           = false;
 	_auto_gloss     = false;
@@ -177,6 +177,9 @@ class Word {
 		if (isBoolean(src.auto_gloss)) {
 			this._auto_gloss = src.auto_gloss;
 		}
+		if (isBoolean(src.regexp_break)) {
+			this._regexp_break = src.regexp_break;
+		}
 	}
 
 	get word()           { return this._word; }
@@ -187,10 +190,12 @@ class Word {
 	get pronunciations() { return this._pronunciations; }
 	get show()           { return this._show; }
 	get auto_gloss()     { return this._auto_gloss; }
+	get regexp_break()   { return this._regexp_break; }
 }
 
 class Entry {
 	_key = undefined;
+	_sortAs = undefined;
 	_title = undefined;
 	_description = []; //sequence of paragrpahs, only the first is included in tooltip
 	_show = false;
@@ -202,6 +207,12 @@ class Entry {
 			this._key = key;
 		} else {
 			throw new Error('Entry must have a non empty string as key');
+		}
+
+		if (isNonEmptyString(src.sortAs)) {
+			this._sortAs = src.sortAs;
+		} else {
+			this._sortAs = this._key;
 		}
 
 		if (isNonEmptyString(src.title)) {
@@ -235,6 +246,7 @@ class Entry {
 
 	get key()           { return this._key; }
 	get title()         { return this._title; }
+	get sortAs()        { return this._sortAs; }
 	get description()   { return this._description; }
 	get short()         { return this._description[0] || ''; }
 	get show()          { return this._show; }
@@ -258,7 +270,6 @@ class Glossary {
 	_words_set            = new Set();
 	_auto_gloss_words_set = new Set();
 	_entries_map          = new Map();
-	_word_break_by_regex  = true;
 
 	constructor(src) {
 		if (isNonEmptyString(src.lang)) {
@@ -269,10 +280,6 @@ class Glossary {
 
 		if (isNonEmptyString(src.glossary_url)) {
 			this._glossary_url = src.glossary_url;
-		}
-
-		if (isBoolean(src.word_break_by_regex)) {
-			this._word_break_by_regex = src.word_break_by_regex;
 		}
 
 		for (const [key, value] of Object.entries(src.entries)) {
@@ -294,8 +301,6 @@ class Glossary {
 				}
 			}
 		}
-		log(this._words_set)
-		log(this._auto_gloss_words_set)
 	}
 
 	get lang()                { return this._lang; }
@@ -312,7 +317,7 @@ class Glossary {
 
 	get entries_sorted()      {
 		return Array.from(this._entries_map.values()).sort((a, b) => {
-			return a.key.localeCompare(b.key, this._lang);
+			return a.sortAs.localeCompare(b.sortAs, this._lang);
 		});
 	}
 
@@ -442,11 +447,6 @@ class Glossary {
 	render_block_html(word_str, next_word, full) {
 		const tokens = render_block_tokens(word_str, next_word, full);
 		return pseudoTokensToHtml(tokens);
-	}
-
-	render_full_glossary() {
-		// make the whole <dl><dt><dd> thing
-		// auto gloss the words in the entries descriptions
 	}
 }
 

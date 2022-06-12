@@ -1,11 +1,31 @@
 module.exports = exports = {
 	glossary_url: '/en/glossary',
 	lang: 'en',
-	word_break_by_regex: true, // only useful for Chinese
 	entries: {
+		'agab': {
+			sortAs: 'AGAB',
+			title: 'A·GAB',
+			description: ['Assigned Gender At Birth.'],
+			show: true,
+			words: {
+				'AGAB': {
+					class: 'noun',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'AGABs': {
+					class: 'noun',
+					auto_gloss: true,
+					show: true,
+					relation: 'plural'
+				},
+			}
+		},
 		'transgender': {
+			sortAs: 'transgender',
 			title: 'trans·gen·der',
-			description: ['A person whose gender identity does not match the their gender assigend at birth.'],
+			description: ['A person whose gender identity does not match the their AGAB (gender assigend at birth).'],
 			show: true,
 			words: {
 				'transgender': {
@@ -23,7 +43,8 @@ module.exports = exports = {
 			}
 		},
 		'amab': {
-			title: 'AMAB',
+			sortAs: 'AMAB',
+			title: 'A·MAB',
 			description: ['Assinged Male At Birth.'],
 			show: true,
 			show_in_print: true,
@@ -46,7 +67,8 @@ module.exports = exports = {
 			}
 		},
 		'afab': {
-			title: 'AFAB',
+			sortAs: 'AFAB',
+			title: 'A·FAB',
 			description: ['Assinged Female At Birth.'],
 			show: true,
 			show_in_print: true,
@@ -69,8 +91,9 @@ module.exports = exports = {
 			}
 		},
 		'GLAAD': {
+			sortAs: 'GLAAD',
 			title: 'GLAAD',
-			description: ['An americna organization that protests defamatory coverage of queer people and pushes for their acceptance.', ' Oficial website: https://www.glaad.org/'],
+			description: ['An american organization that protests defamatory coverage of queer people and pushes for their acceptance.', ' Oficial website: https://www.glaad.org/'],
 			show: true,
 			words: {
 				'GLADD': {

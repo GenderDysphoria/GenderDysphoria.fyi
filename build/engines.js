@@ -63,7 +63,7 @@ const markdownEngines = {
     .use(require('./lib/markdown-token-filter')),
 };
 
-function markdown (mode, input, data, hbs, glossaries) {
+function markdown (mode, inline, input, data, hbs, glossaries) {
   assert(glossaries !== undefined);
   if (mode === 'preview') {
     input = stripHtml(input
@@ -87,11 +87,16 @@ function markdown (mode, input, data, hbs, glossaries) {
   if (data !== undefined && data.page.lang !== undefined) {
     const lang = data.page.lang;
     data.glossary = glossaries.by_lang(lang);
+  } else if (input.length < 10000) {
+    log.error('no glossary', data, input)
   }
 
-
   try {
-    return input ? markdownEngines[mode].render(input, data) : '';
+    if (inline) {
+      return input ? markdownEngines[mode].renderInline(input, data) : '';  
+    } else {
+      return input ? markdownEngines[mode].render(input, data) : '';
+    }
   } catch (e) {
     log(input);
     throw e;
@@ -151,15 +156,15 @@ module.exports = exports = async function (prod) {
 
   const result = {
     [TYPE.HANDYBARS]:  hbs,
-    [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs, glossaries),
+    [TYPE.MARKDOWN]:   (source, data) => markdown('full', false, source, data, hbs, glossaries),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs, glossaries) }),
-    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs, glossaries) }),
+    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', false, source, data, hbs, glossaries) }),
+    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', false, source, data, hbs, glossaries) }),
     [ENGINE.HTML]:     (source) => source,
     [ENGINE.OTHER]:    (source) => source,
 
-    preview: (source, data) => markdown('preview', source, data, hbs, glossaries),
+    preview: (source, data) => markdown('preview', false, source, data, hbs, glossaries),
   };
 
   return result;
@@ -207,6 +212,7 @@ class Injectables {
   helpers () {
     return {
       import:    this.import(),
+      md:        this.md(),
       markdown:  this.markdown(),
       icon:      this.icon(),
       coalesce:  this.coalesce(),
@@ -254,7 +260,29 @@ class Injectables {
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
+      contents = markdown('full', false, contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
+
+      return { value: contents };
+    };
+  }
+
+  md () {
+    const self = this;
+    return function (...args) {
+      const tmp = args.pop();
+      let { data, resolve: rval } = tmp;
+      data = data || {};
+      data.page = data.page || {};
+      data.page.lang = data.page.lang || rval('@root.this.page.lang');
+
+      const inline = args[0];
+
+      let contents = args[1];
+      if (contents instanceof Array) {
+        contents = contents.join('\n\n');
+      }
+
+      contents = markdown('full', inline, contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
 
       return { value: contents };
     };
