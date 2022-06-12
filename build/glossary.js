@@ -16,6 +16,21 @@ const log = require('fancy-log');
 const Files = require('./files');
 const Promise = require('bluebird');
 const i18n = require('./lang');
+const markdownIt = require('markdown-it');
+
+const OTHER_CHARS      = ' \r\n$+<=>^`|~';
+const REGEXP_ESCAPE_RE = /[.?*+^$[\]\\(){}|-]/g;
+
+function escapeRE(str) {
+	return str.replace(REGEXP_ESCAPE_RE, '\\$&');
+}
+
+// Remove element from array and put another array at those position.
+// Useful for some operations with tokens
+// Code from <https://github.com/markdown-it/markdown-it>
+function arrayReplaceAt(src, pos, newElements) {
+  return [].concat(src.slice(0, pos), newElements, src.slice(pos + 1));
+}
 
 function isBoolean(val) {
 	return typeof val === 'boolean';
@@ -27,6 +42,83 @@ function isString(val) {
 
 function isNonEmptyString(val) {
 	return typeof val === 'string' && val.length > 0;
+}
+
+function newPseudoToken(type, tag, nesting, content='', children=null, attrs=null) {
+	return {
+		type: type,
+		tag: tag,
+		nesting: nesting,
+		content: content,
+		children: children,
+		attrs: attrs
+	}
+}
+
+function newPseudoTokenText(content) {
+	return {
+		type: 'text',
+		content: content
+	}
+}
+
+function newPseudoTokenElem(tag, attrs, children) {
+	return {
+		type: 'elem',
+		tag: tag,
+		attrs: attrs,
+		children: children
+	}
+}
+
+function unPseudoTokens(pseudo, TokenClass) {
+	if (pseudo.type === 'text') {
+		const ans = new TokenClass('text', '', 0);
+		ans.content = pseudo.content;
+		return [ans];
+	} else if (pseudo.type === 'elem') {
+		const ans = [];
+		
+		const start = new TokenClass(`${pseudo.tag}_open`, pseudo.tag, 1);
+		start.attrs = [];
+		for (const [key, val] of Object.entries(pseudo.attrs)) {
+			start.attrs.push([key, val])
+		}
+		ans.push(start);
+		
+		for (const child of pseudo.children) {
+			ans.push(...unPseudoTokens(child, TokenClass));
+		}
+
+		const stop = new TokenClass(`${pseudo.tag}_close`, pseudo.tag, -1);
+		ans.push(stop);
+
+		return ans;
+	} else {
+		throw new Error('unexpected type: '+pseudo.type);
+	}
+}
+
+function pseudoTokensToHtml(pseudo) {
+	let ans = '';
+	if (pseudo.type === 'text') {
+		ans = pseudo.content;
+	} else if (pseudo.type === 'elem') {
+		let attrs = '';
+		for (const [key, val] of Object.entries(pseudo.attrs)) {
+			attrs += ` ${key}="${val}"`;
+		}
+
+		ans += `<${pseudo.tag}${attrs}>`;
+		for (const child of pseudo.children) {
+			ans += pseudoTokensToHtml(child);
+		}
+		ans += `</${pseudo.tag}>`;
+	} else {
+		log(pseudo);
+		throw new Error('unexpected type: '+pseudo.type);
+	}
+	return ans;
 }
 
 class Pronunciation {
@@ -148,15 +240,25 @@ class Entry {
 	get show()          { return this._show; }
 	get show_in_print() { return this._show_in_print; }
 	get words()         { return this._words; }
+
+	get main_word()     {
+		for (const [_, word] of this.words) {
+			if (word.relation === '=') {
+				return word;
+			}
+		}
+		return undefined;
+	}
 }
 
 class Glossary {
 	_lang;
-	_glossary_url        = undefined;
-	_words_map           = new Map();
-	_words_set           = new Set();
-	_entries             = new Map();
-	_word_break_by_regex = true;
+	_glossary_url         = undefined;
+	_words_map            = new Map();
+	_words_set            = new Set();
+	_auto_gloss_words_set = new Set();
+	_entries_map          = new Map();
+	_word_break_by_regex  = true;
 
 	constructor(src) {
 		if (isNonEmptyString(src.lang)) {
@@ -175,31 +277,68 @@ class Glossary {
 
 		for (const [key, value] of Object.entries(src.entries)) {
 			const obj = new Entry(key, value);
-			if (this._entries.has(key)) {
+			if (this._entries_map.has(key)) {
 				throw new Error(`duplicate term entry: ${key}`)
 			} else {
-				this._entries.set(key, obj);
-				for (const [word, entry] of obj.words) {
+				this._entries_map.set(key, obj);
+				for (const [word, word_obj] of obj.words) {
 					this._words_map.set(word, key);
 					if (this._words_set.has(word)) {
 						throw new Error(`duplicate word: ${word}`)
 					} else {
 						this._words_set.add(word);
 					}
+					if (word_obj.auto_gloss) {
+						this._auto_gloss_words_set.add(word);
+					}
 				}
 			}
 		}
+		log(this._words_set)
+		log(this._auto_gloss_words_set)
 	}
 
 	get lang()                { return this._lang; }
 	get glossary_url()        { return this._glossary_url; }
 	get words_map()           { return this._words_map; }
 	get words_set()           { return this._words_set; }
-	get entries()             { return this._entries; }
-	get word_break_by_regex() { return this._word_break_by_regex; }
+	get entries_map()         { return this._entries_map; }
+	
+	get words_sorted()        {
+		return Array.from(this._words_map.values()).sort((a, b) => {
+			return a.word.localeCompare(b.word, this._lang);
+		});
+	}
+	
+	get entries_sorted()      {
+		return Array.from(this._entries_map.values()).sort((a, b) => {
+			return a.key.localeCompare(b.key, this._lang);
+		});
+	}
+
+	auto_gloss_words() {
+		return Array.from(this._auto_gloss_words_set)
+			.sort()
+			.sort(
+				(a, b) => { return b.length - a.length; });
+	}
+
+	regexp_words() {
+		const words_by_size = this.auto_gloss_words();
+		if (words_by_size.length == 0) {
+			return undefined;
+		}
+
+		const regexp_words_core = words_by_size.map(escapeRE).join('|');
+
+		// TODO: add support for words without \b to support Chinese
+		const re = new RegExp(`\\b(?:${regexp_words_core})\\b`, 'g');
+		
+		return re;
+	}
 
 	getEntryObj(entry_key) {
-		return this._entries[this._words_map.get(entry_key)];
+		return this._entries_map.get(entry_key);
 	}
 
 	getWordObj(word_str) {
@@ -208,24 +347,27 @@ class Glossary {
 	}
 
 	getEntryAndWordObj(word_str) {
-		const entry_str = this._words_map.get(word_str);
-		const entry_obj = this._entries.get(entry_str);
-		const word_obj = entry_obj.words.get(word_str);
-		return [entry_obj, word_obj];
+		try {
+			const entry_str = this._words_map.get(word_str);
+			const entry_obj = this._entries_map.get(entry_str);
+			const word_obj = entry_obj.words.get(word_str);
+			return [entry_obj, word_obj];
+		} catch (e) {
+			throw new Error(`Word not found: '${word_str}'`)
+		}
 	}
 
-	// The `full` parameter should always be true except for when glossing tooltips themselves. This is to prevent inifnite recursion.
-	render_block(word_str, full) {
+	render_block_tokens(word_str, next_word, full) {
 		const [entry_obj, word_obj] = this.getEntryAndWordObj(word_str);
 		const has_description = entry_obj.description.length > 0;
 		const has_ruby        = word_obj.ruby != undefined;
 		const short_desc      = entry_obj.description[0];
 
-		if (has_description === false && has_ruby === false) {
-			return word_str;
-		}
-
 		const word_rendered = word_obj.renderAs || word_str;
+		
+		if (has_description === false && has_ruby === false) {
+			return newPseudoTokenText(word_rendered);
+		}
 
 		let main_link = '#';
 		if (full === false && this.glossary_url != undefined) {
@@ -234,46 +376,72 @@ class Glossary {
 
 		let word_core = '';
 		if (has_description) {
-			word_core = `<dfn class="glossed-main"><a href="${main_link}">${word_rendered}</a></dfn>`;
+			word_core = newPseudoTokenElem('dfn', {class: 'glossed-main'}, [
+				newPseudoTokenElem('a', {href: main_link}, [
+					newPseudoTokenText(word_rendered)
+				])
+			]);
 		} else {
-			word_core = `<a href="${main_link}">${word_rendered}</a>`;
+			word_core = newPseudoTokenElem('a', {href: main_link}, [
+				newPseudoTokenText(word_rendered)
+			]);
 		}
 
 		let core = '';
 		if (has_ruby) {
+			const ruby_attrs = {};
 			if (has_description) {
-				core += `<ruby class="glossed-ruby">`;
-			} else {
-				core += `<ruby>`;
+				ruby_attrs['class'] = 'glossed-ruby';
 			}
-			core += word_core;
-			core += `<rp>(</rp><rt>`;
-			core += word_obj.ruby;
-			core += `</rt><rp>)</rp>`
-			core += `</ruby>`
+			core = newPseudoTokenElem('ruby', ruby_attrs, [
+				word_core,
+				newPseudoTokenElem('rp', {}, [newPseudoTokenText('(')]),
+				newPseudoTokenElem('rt', {}, [newPseudoTokenText(word_obj.ruby)]),
+				newPseudoTokenElem('rp', {}, [newPseudoTokenText(')')]),
+			]);
 		} else {
-			core += word_core;
+			core = word_core;
 		}
 
 		if (!has_description || full === false) {
 			return core;
 		}
 
-		let print = '';
+		const in_print = [];
 		if (entry_obj.show_in_print) {
-			print += `<span class="glossed-print">(${short_desc}) </span>`;
+			const extra_space_bool = (typeof next_word === 'string' && next_word.length > 0 && next_word[0] === ' ');
+			const extra_space = extra_space_bool ? ' ' : '';
+			const short_desc2 = ((short_desc[short_desc.length-1] || ' ') !== '.') ? short_desc : short_desc.substr(0, short_desc.length-1);
+			if (typeof next_word === 'string' && next_word)
+			in_print.push(newPseudoTokenElem('span', {class: 'glossed-print'}, [
+				newPseudoTokenText(`(${short_desc2})${extra_space}`)
+			]));
 		}
 
-		let tooltip = '';
-		let read_more = '';
+		let read_more = [];
 		if (this.glossary_url != undefined) {
 			const entry_link = `${this.glossary_url}#${entry_obj.key}`;
-			read_more += ` <a href="${entry_link}">${i18n(this.lang, 'GLOSSARY_READ_MORE')}</a>`;
+			read_more.push(newPseudoTokenText(' '));
+			read_more.push(newPseudoTokenElem('a', {href: entry_link}, [
+				newPseudoTokenText(i18n(this.lang, 'GLOSSARY_READ_MORE'))
+			]));
 		}
-		tooltip += `<span class="glossed-tooltip">${short_desc}${read_more}</span>`;
+		const tooltip = newPseudoTokenElem('span', {class: 'glossed-tooltip'}, [
+			newPseudoTokenText(short_desc),
+			...read_more,
+		]);
 
-		const final = `<span class="glossed-block">${core}${print}${tooltip}</span>`;
-		return final;
+		const final_span = newPseudoTokenElem('span', {class: 'glossed-block'}, [
+			core,
+			...in_print,
+			tooltip
+		]);
+		return final_span;
+	}
+
+	render_block_html(word_str, next_word, full) {
+		const tokens = render_block_tokens(word_str, next_word, full);
+		return pseudoTokensToHtml(tokens);
 	}
 
 	auto_gloss_html(src_html) {
@@ -287,6 +455,9 @@ class Glossary {
 		// Run regexps to replace the char-seqs with themselves but sourunded by U+0091 characters to act as word breaks. Then continue with step 3
 
 		// Word breaking regexp: /(\b|\u0091)/g
+
+		const root = xpathhtml.fromPageSource(src_html);
+		log(root)
 	}
 
 	render_full_glossary() {
@@ -303,9 +474,9 @@ class MultiGlossary {
 		this._glossaries.set(obj.lang, obj);
 	}
 
-	static async load_default() {
+	static load_default() {
 		const ans = new MultiGlossary();
-		const filepaths = await glob('public/**/_glossary.js', { cwd: ROOT, nodir: true });
+		const filepaths = glob.sync('public/**/_glossary.js', { cwd: ROOT, nodir: true });
 		for (const filepath of filepaths) {
 			try {
 				const gloss_src = require(path.join('..', filepath));
@@ -322,16 +493,88 @@ class MultiGlossary {
 	get glossaries() { return this._glossaries; }
 
 	by_lang (lang) { return this._glossaries.get(lang); }
+}
 
+function markdownit_plugin (md) {
+	function gloss_replace(state) {
+		const gloss = state.env.glossary;
+		if (gloss === undefined || gloss === null) {
+			return;
+		}
+
+		const re_auto_gloss = gloss.regexp_words();
+		if (re_auto_gloss === undefined) {
+			return;
+		}
+
+		const blockTokens = state.tokens;
+		const l = blockTokens.length;
+		for (let j = 0; j < l; j++) {
+			// Ignore blocks. Maybe this will need to change in the future
+			if (blockTokens[j].type !== 'inline') { continue; }
+			let tokens = blockTokens[j].children;
+
+			// We scan backwards to keep the position
+			for (let i = tokens.length - 1; i >= 0; i--) {
+				const currentToken = tokens[i];
+
+				// Only text matters
+				if (currentToken.type !== 'text') { continue; }
+
+				// Find the words to gloss and souround them with 0x00 and mark with 0x91, them split on 0x00
+				const new_nodes = [];
+				const old_nodes = currentToken.content.replace(re_auto_gloss, '\x00\x91$&\x00').split('\x00');
+				
+				for (let i = 0; i < old_nodes.length; i++) {
+					let node_txt = old_nodes[i];
+					const next_node_txt = old_nodes[i+1];
+
+					if (node_txt[0] !== '\x91') {
+						// Regular text segment, just copy
+						const token_txt = new state.Token('text', '', 0);
+						token_txt.content = node_txt;
+						new_nodes.push(token_txt);
+					} else {
+						// Word to gloss, remove marker and gloss the word
+						log('>>>', node_txt)
+						node_txt = node_txt.substr(1, node_txt.length);
+						const pseudo_tokens = gloss.render_block_tokens(node_txt, next_node_txt, true);
+						const new_tokens = unPseudoTokens(pseudo_tokens, state.Token);
+
+						new_nodes.push(...new_tokens);
+					}
+				}
+
+				// Save our changes
+				blockTokens[j].children = tokens = arrayReplaceAt(tokens, i, new_nodes);
+			}
+		}
+	}
+
+	// Add our rules to the engine
+	md.core.ruler.after('linkify', 'gloss_replace', gloss_replace);
+}
+
+function test_markdown(gloss, src_md) {
+	var md = markdownIt({
+		html: true,
+		linkify: true,
+		typographer: true
+	}).use(markdownit_plugin);
+
+	return md.render(src_md, {glossary: gloss});
 }
 
 async function main() {
 	const glossaries = await MultiGlossary.load_default();
-	log(glossaries);
+	// log(glossaries);
 	const en_gloss = glossaries.by_lang('en');
-	log(en_gloss);
-	log(en_gloss.render_block('AMAB', false));
-	log(en_gloss.render_block('AMAB', true));
+	// log(en_gloss);
+	// log(en_gloss.render_block('AMAB', false));
+	// log(en_gloss.render_block('AMAB', true));
+
+	// log(en_gloss.regexp_words())
+	log(test_markdown(en_gloss, 'das dasdsa AMAB safdf AMABs. dfd *AFABs, hi*!'));
 }
 
 
@@ -367,6 +610,9 @@ if (require.main === module) {
 }
 
 module.exports = {
+	load_default: MultiGlossary.load_default,
+	MultiGlossary: MultiGlossary,
+	markdownit_plugin: markdownit_plugin,
 	Glossary: Glossary,
 	Entry: Entry,
 	Word: Word

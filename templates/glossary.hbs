@@ -1,11 +1,12 @@
     <dl class="glossary">
     {{#each (gloss false)}}
-      <dt id="entry_{{this}}">{{{nogloss this}}} <a class="glossary-anchor" href="#entry_{{this}}">#</a></dt>
-      {{#with (gloss this)}}
-        <dd>{{short}}</dd>
-        {{#if long}}
-        <dd>{{long}}</dd>
-        {{/if}}
+      {{#if this.show}}
+      <dt id="{{this.key}}">{{{nogloss this.title}}} <a class="glossary-anchor" href="#{{this.key}}">#</a></dt>
+      {{#with (gloss this.key)}}
+        {{#each this.description}}
+          <dd>{{this}}</dd>
+        {{/each}}
       {{/with}}
+      {{/if}}
     {{/each}}
     </dl>

@@ -52,6 +52,7 @@ const markdownEngines = {
         ariaHidden: true,
       }),
     })
+    .use(glossary.markdownit_plugin)
     .use(require('./lib/markdown-raw-html'), { debug: false }),
 
   preview: markdownIt({
@@ -85,11 +86,7 @@ function markdown (mode, input, data, hbs, glossaries) {
   // Add glossary tooptips and ruby annotations
   if (data !== undefined && data.page.lang !== undefined) {
     const lang = data.page.lang;
-    if (glossaries[lang] !== undefined) {
-      input = glossary.autoInsertGloss(input, glossaries[lang]);
-    } else {
-      log.error('Missing glossary for: '+lang);
-    }
+    data.glossary = glossaries.by_lang(lang);
   }
 
 
@@ -125,7 +122,7 @@ const HANDYBARS_TEMPLATES = {
 // BUG: for some reason, the glossaries are reloaded but don't show any effect.
 // Some assignment is probably making a copy rather than a reference.
 module.exports = exports = async function (prod) {
-  const glossaries = await glossary.loadGlossaries();
+  const glossaries = glossary.load_default();
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
   const injectables = new Injectables(prod, revManifest, glossaries);
 
@@ -438,29 +435,37 @@ class Injectables {
     return function (...args) {
       const { resolve: rval } = args.pop();
       const filename = rval('@value.input');
-      const term = args[0];
+      let term = args[0];
       const lang = args[1] || rval('@root.this.page.lang');
 
+      // Just some ease of use in case the argument was of the wrong type
+      if (term instanceof glossary.Entry) {
+        term = term.key;
+      }
+
       // Check if we have the glossary loaded
-      if (self.glossaries === undefined || self.glossaries[lang] == undefined) {
+      if (self.glossaries === undefined || self.glossaries.by_lang(lang) == undefined) {
         log.error(`No glossary for language '${lang}' (file ${filename})`);
         return undefined;
       }
 
-      const lgloss = self.glossaries[lang];
+      const lgloss = self.glossaries.by_lang(lang);
       if (term === false) {
         // Return only the main terms
-        return lgloss.entries;
+        return lgloss.entries_sorted;
       } else if (term === true) {
         // Return the main terms and the variants
-        return lgloss.terms;
-      } else {
+        return lgloss.words_sorted;
+      } else if (typeof term === 'string') {
         // Return a specific entry
-        const ans = lgloss.map.get(term);
+        const ans = lgloss.getEntryObj(term);
         if (ans === undefined) {
           log.error(`No term '${term}' for language '${lang}' (file ${filename})`)
         }
         return ans;
+      } else {
+        log.error(`Invalid type: ${term}`)
+        return undefined;
       }
     };
   }

@@ -5,7 +5,7 @@ module.exports = exports = {
 	entries: {
 		'transgender': {
 			title: 'trans·gen·der',
-			description: ['Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.'],
+			description: ['A person whose gender identity does not match the their gender assigend at birth.'],
 			show: true,
 			words: {
 				'transgender': {
@@ -71,6 +71,7 @@ module.exports = exports = {
 		'GLAAD': {
 			title: 'GLAAD',
 			description: ['An americna organization that protests defamatory coverage of queer people and pushes for their acceptance.', ' Oficial website: https://www.glaad.org/'],
+			show: true,
 			words: {
 				'GLADD': {
 					class: 'noun',
