@@ -28,9 +28,9 @@ The best way to add completely new content to the site is to reach out to me dir
 
 - [GitHub Repository](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 - Email Address: [gdb@curvyandtrans.com](mailto:gdb@curvyandtrans.com)
-- Twitter: [TwippingVanilla](http://twitter.com/twippingvanilla)
-- Instagram: [CurvyAndTrans](http://instagram/curvyandtrans)
-- Facebook: [Curvy and Trans](http://facebook.com/curvyandtrans)
+- Twitter: [Twippedtronic](https://twitter.com/twippedtronic)
+- Instagram: [CurvyAndTrans](https://instagram.com/curvyandtrans)
+- Facebook: [Curvy and Trans](https://facebook.com/curvyandtrans)
 - [Patreon](https://patreon.com/curvyandtrans)
 
 ## How to Contribute a Translation
@@ -41,13 +41,17 @@ The files ending in `.md` are [Markdown formatted](https://www.markdownguide.org
 
 Any text surrounded with bang brackets ({!{<code>&#123;!&#123; like this &#125;!&#125;</code>}!}) will be evaluated as a Handlebars template. There are numerous helper functions available for automating things within these templates, most importantly the tweet and image embedding code. Images must be placed in the `_images` folder. They are then referenced on the site via the image's name. Tweets are reference by the tweet id, which must also be included in the page metadata in order for the content of the tweet to be available on the page (the site automatically downloads and caches any tweets that are used).
 
+`_concat.json` directs the engine on what files to include in the View All link at the top of the drop down menu. This should be updated if you change any file names.
+
 `_disclaimer.hbs` is a Handlebars template which is rendered at the top of the page.
 
 `_menu.hbs` contains the code that makes up the dropdown menu for navigating the site.
 
 `_strings.js` is a JavaScript file containing the translation strings for the site header and footer.
 
-When you are done translating all of this text, reach out to me via the above methods. If you are familiar with GitHub, the fastest way to get this contributed is to open a pull request. Place your new files inside a folder inside the `public` directory named with the [localization code](https://en.wikipedia.org/wiki/Language_localisation#Language_tags_and_codes) for the language (just the first two letters, please). So, for example, a German translation of the Euphoria page would go at `public/de/euphoria.md`.
+Finally, the `/templates/language-menu.hbs` file contains the links to the different translations. Please add your transition to this menu.
+
+When you are done translating all of this text, reach out to me via the above methods. If you are familiar with GitHub, the fastest way to get this contributed is to open a pull request. Place your new files inside a folder in the `public` directory named with the [localization code](https://en.wikipedia.org/wiki/Language_localisation#Language_tags_and_codes) for the language (just the first two letters, please). So, for example, a German translation of the Euphoria page would go at `public/de/euphoria.md`.
 
 If you do not know how to use GitHub, just compress all the files into a zip and send it to me, I can take care of releasing it.
 
@@ -55,6 +59,6 @@ If you do not know how to use GitHub, just compress all the files into a zip and
 
 One time donations to the project can be made [using Ko-Fi](https://ko-fi.com/curvyandtrans), or via [Venmo](https://venmo.com/code?user_id=2654767276883968966).
 
-If you would like to support this site continually, I also have [a Patreon](https://patreon.com/curvyandtrans).
+If you would like to support this site continually, I there is also [a Patreon](https://patreon.com/curvyandtrans).
 
 Either way, your support is extremely appreciated.

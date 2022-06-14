@@ -12,13 +12,13 @@
       <span>@{{user.screen_name}}</span>
       <img src="/tweets/logo.svg" alt="Twitter Logo" class="tweet-logo">
     </a>
-    {{#if quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
+    {{#if this.quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
     <div class="tweet-quoted">
       <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
         <strong>{{{user.name_html}}}</strong>
         <span>@{{user.screen_name}}</span>
       </a>
-      {{#if quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
+      {{#compare this.quoted_status_id_str '!=' this.id_str}}{{#with tweets[quoted_status_id_str]}}
       <div class="tweet-quoted">
         <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
           <strong>{{{user.name_html}}}</strong>
@@ -32,11 +32,11 @@
       </div>
       {{else}}
       <div class="tweet-quoted missing">{{{lang 'QUOTED_TWEET_UNAVAILABLE'}}}</div>
-      {{/with}}{{/if}}
-      {{#if html_i18n[page.lang]}}
-      <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
-      {{else}}
-      <div class="tweet-quoted-text">{{{html}}}</div>
+      {{/with}}{{/compare}}
+        {{#if html_i18n[page.lang]}}
+        <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
+        {{else}}
+        <div class="tweet-quoted-text">{{{html}}}</div>
       {{/if}}
     </div>
     {{else}}
@@ -45,7 +45,7 @@
     {{#if html_i18n[page.lang]}}
     <div class="tweet-text">{{{html_i18n[page.lang]}}}</div>
     {{else}}
-    <div class="tweet-text">{{{html}}}</div>
+     <div class="tweet-text">{{{html}}}</div>
     {{/if}}
     {{#any extended_entities.media entities.media}}
     <div class="tweet-entities lightbox entity-count-{{this.length}} entity-type-{{this.0.type}}"><div class="tweet-entities-inner"><div><div class="tweet-entities-grid">
@@ -75,7 +75,7 @@
     </div></div></div></div>
     {{/any}}
     <div class="tweet-footer">
-      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank">{{date created_at (lang 'TWEET_DATE_FORMAT')}}</a>
+      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank" title="{{date created_at 'iso'}}">{{date created_at (lang 'TWEET_DATE_FORMAT')}}</a>
     </div>
   {{else}}{{{lang 'MISSING_TWEET_FOR'}}} {{this}}{{/with}}</div>
   {{/each}}

@@ -1,4 +1,3 @@
-
 const path = require('path');
 
 const fs = require('fs-extra');
@@ -16,28 +15,21 @@ const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
 
+const glossary = require('./glossary');
+const assert = require('assert');
+
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
   'en': dateFNSLocales.enUS,
-  'pt': dateFNSLocales.ptBR,
   'zh': dateFNSLocales.zhCN,
+  'de': dateFNSLocales.de,
+  'fr': dateFNSLocales.fr,
+  'hu': dateFNSLocales.hu,
+  'pl': dateFNSLocales.pl,
+  'pt': dateFNSLocales.pt,
   'es': dateFNSLocales.es
 };
-
-const translationLinksRaw = require('../translation-links.json');
-let translationLinksMap = {};
-
-for (const group of translationLinksRaw) {
-  for (const [lang, url] of Object.entries(group)) {
-    if (url in translationLinksMap) {
-      console.log("URL '"+url+"' appears repeatedly on translation-links.json");
-      process.exit(1);
-    } else {
-      translationLinksMap[url] = group;
-    }
-  }
-}
 
 const markdownEngines = {
   full: markdownIt({
@@ -61,6 +53,7 @@ const markdownEngines = {
         ariaHidden: true,
       }),
     })
+    .use(glossary.markdownit_plugin)
     .use(require('./lib/markdown-raw-html'), { debug: false }),
 
   preview: markdownIt({
@@ -71,8 +64,8 @@ const markdownEngines = {
     .use(require('./lib/markdown-token-filter')),
 };
 
-function markdown (mode, input, data, hbs) {
-
+function markdown (mode, inline, input, data, hbs, glossaries) {
+  assert(glossaries !== undefined);
   if (mode === 'preview') {
     input = stripHtml(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
@@ -91,8 +84,20 @@ function markdown (mode, input, data, hbs) {
     input = input.replace(/<!--[[\]]-->/g, '');
   }
 
+  // Add glossary tooptips and ruby annotations
+  if (data !== undefined && data.page.lang !== undefined) {
+    const lang = data.page.lang;
+    data.glossary = glossaries.by_lang(lang);
+  } else if (input.length < 10000) {
+    log.error('no glossary', data, input)
+  }
+
   try {
-    return input ? markdownEngines[mode].render(input, data) : '';
+    if (inline) {
+      return input ? markdownEngines[mode].renderInline(input, data) : '';  
+    } else {
+      return input ? markdownEngines[mode].render(input, data) : '';
+    }
   } catch (e) {
     log(input);
     throw e;
@@ -120,10 +125,12 @@ const HANDYBARS_TEMPLATES = {
   post:      'templates/post.hbs',
 };
 
+// BUG: for some reason, the glossaries are reloaded but don't show any effect.
+// Some assignment is probably making a copy rather than a reference.
 module.exports = exports = async function (prod) {
-
+  const glossaries = glossary.load_default();
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
-  const injectables = new Injectables(prod, revManifest);
+  const injectables = new Injectables(prod, revManifest, glossaries);
 
   const env = {  ...Kit, ...injectables.helpers() };
 
@@ -150,15 +157,15 @@ module.exports = exports = async function (prod) {
 
   const result = {
     [TYPE.HANDYBARS]:  hbs,
-    [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs),
+    [TYPE.MARKDOWN]:   (source, data) => markdown('full', false, source, data, hbs, glossaries),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs) }),
-    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs) }),
+    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', false, source, data, hbs, glossaries) }),
+    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', false, source, data, hbs, glossaries) }),
     [ENGINE.HTML]:     (source) => source,
     [ENGINE.OTHER]:    (source) => source,
 
-    preview: (source, data) => markdown('preview', source, data, hbs),
+    preview: (source, data) => markdown('preview', false, source, data, hbs, glossaries),
   };
 
   return result;
@@ -166,11 +173,12 @@ module.exports = exports = async function (prod) {
 
 class Injectables {
 
-  constructor (prod, revManifest) {
+  constructor (prod, revManifest, glossaries) {
     this.prod = prod;
     this.revManifest = revManifest;
     this.injections = {};
     this.languages = {};
+    this.glossaries = glossaries;
   }
 
   _parsePath (tpath, local, type) {
@@ -205,14 +213,18 @@ class Injectables {
   helpers () {
     return {
       import:    this.import(),
+      md:        this.md(),
       markdown:  this.markdown(),
       icon:      this.icon(),
       coalesce:  this.coalesce(),
-      translink: this.translink(),
       prod:      this.production(),
       rev:       this.rev(),
       lang:      this.lang(),
       date:      this.date(),
+      gloss:     this.gloss(),
+      nogloss:   this.nogloss(),
+      tojson:    this.tojson(),
+      translink: this.translink(),
     };
   }
 
@@ -250,7 +262,29 @@ class Injectables {
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', contents, data, () => { throw new Error('You went too deep!'); });
+      contents = markdown('full', false, contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
+
+      return { value: contents };
+    };
+  }
+
+  md () {
+    const self = this;
+    return function (...args) {
+      const tmp = args.pop();
+      let { data, resolve: rval } = tmp;
+      data = data || {};
+      data.page = data.page || {};
+      data.page.lang = data.page.lang || rval('@root.this.page.lang');
+
+      const inline = args[0];
+
+      let contents = args[1];
+      if (contents instanceof Array) {
+        contents = contents.join('\n\n');
+      }
+
+      contents = markdown('full', inline, contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
 
       return { value: contents };
     };
@@ -302,7 +336,7 @@ class Injectables {
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
-      const lang = rval('@root.this.page.lang').split('-')[0];
+      const lang = (rval('@root.this.page.lang')||'').split('-')[0];
       return i18n(lang, key, ...args);
     };
   }
@@ -345,20 +379,24 @@ class Injectables {
     };
   }
 
+  // Multi tool for printing dates
+  // 
+  // {{date}} -> prints current date
+  // {{date datestr}} -> prints date in datestr
+  // {{date datestr datefmt}} -> prints date in datestr in format datefmt
+  // {{date datestr datefmt lang}} -> prints date in datestr in format datefmt according to conventions for language lang 
+  // 
+  // Datestr can be the string "now", `undefined`, and anything parsable by `new Date()`.
+  // 
+  // If lang is not specified, it will be extracted from the page metadata. If that is not available, English will be assumed.
+  // In case of errors, the date will be returned as an ISO string if possible and its raw datestr input otherwise.
+  // Datefmt format is available at https://date-fns.org/v2.25.0/docs/format
+  // 
+  // Common formats:
+  // - "h:mm aa - EEE, LLL do, yyyy"  = 12 hour clock, e.g. '1:28 PM - Sat, Feb 15th, 2020' (en) or '1:28 PM - sam., 15/févr./2020' (fr)
+  // - "hh:mm - EEE, LLL do, yyyy"    = 24 hour clock, e.g. '13:28 - Sat, Feb 15th, 2020' (en) or '13:28 - sam., 15/févr./2020' (fr)
+  // - "yyyy-MM-dd'T'HH:mm:ss.SSSXXX" or "iso" = ISO 8601 format, e.g. '2020-02-15T13:28:02.000Z'
   date () {
-    // {{date}} -> prints current date
-    // {{date datestr}} -> prints date in datestr
-    // {{date datestr datefmt}} -> prints date in datestr in format datefmt
-    // {{date datestr datefmt lang}} -> prints date in datestr in format datefmt according to conventions for language lang
-    // 
-    // If lang is not specified, it will be extracted from the page metadata. If that is not available, English
-    // will be assumed.
-    // 
-    // In case of errors, the date will be returned as an ISO string if possible and its raw datestr input otherwise.
-    // 
-    // Datestr can be the string "now", `undefined`, and anything parsable by `new Date()`.
-    // 
-    // Datefmt format is available at https://date-fns.org/v2.25.0/docs/format
     return function (...args) {
       let extra = args.pop();
       let datestr, dateobj, datefmt, lang;
@@ -398,6 +436,10 @@ class Injectables {
         return datestr.toString();
       }
 
+      if (datefmt == "iso") {
+        return dateobj.toISOString();
+      }
+
       if (lang === undefined) {
         return dateobj.toISOString();
       }
@@ -434,6 +476,73 @@ class Injectables {
         return dateobj.toISOString();
       }
     };
+  }
+
+  // Provides glossary related functionalities
+  // 
+  // {{gloss flag [lang]}} - Returns the list of entries used in a language sorted lexicographically.
+  //     (flag is a boolean indicating the inclusion of variants)
+  // {{gloss term [lang]}} - Returns the corresponding entry for the queried term 
+  //     (see glossary.js:40-48 for the object structure)
+  // 
+  // The [lang] parameter is optional
+  gloss() {
+    const self = this;
+    return function (...args) {
+      const { resolve: rval } = args.pop();
+      const filename = rval('@value.input');
+      let term = args[0];
+      const lang = args[1] || rval('@root.this.page.lang');
+
+      // Just some ease of use in case the argument was of the wrong type
+      if (term instanceof glossary.Entry) {
+        term = term.key;
+      }
+
+      // Check if we have the glossary loaded
+      if (self.glossaries === undefined || self.glossaries.by_lang(lang) == undefined) {
+        log.error(`No glossary for language '${lang}' (file ${filename})`);
+        return undefined;
+      }
+
+      const lgloss = self.glossaries.by_lang(lang);
+      if (term === false) {
+        // Return only the main terms
+        return lgloss.entries_sorted;
+      } else if (term === true) {
+        // Return the main terms and the variants
+        return lgloss.words_sorted;
+      } else if (typeof term === 'string') {
+        // Return a specific entry
+        const ans = lgloss.getEntryObj(term);
+        if (ans === undefined) {
+          log.error(`No term '${term}' for language '${lang}' (file ${filename})`)
+        }
+        return ans;
+      } else {
+        log.error(`Invalid type: ${term}`)
+        return undefined;
+      }
+    };
+  }
+
+  // Prevents a word from being "auto glossarized" by turning it into a sequence of hex escape codes.
+  nogloss() {
+    return function (word) {
+      var result = '';
+      for (let i=0; i < word.length; i++) {
+        let hex = word.charCodeAt(i).toString(16);
+        result += `&#x${hex};`;
+      }
+      return result;
+    };
+  }
+
+  // Converts a value to JSON. This is intended for debugging only
+  tojson() {
+    return function (thing) {
+      return JSON.stringify(thing);
+    }
   }
 
 }

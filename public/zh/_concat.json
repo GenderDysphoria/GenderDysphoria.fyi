@@ -1,0 +1,33 @@
+{
+  "output": "public/zh/printable.md",
+  "sources": [
+    "public/zh/index.md",
+    "public/zh/什么是性别.md",
+    "public/zh/历史.md",
+    "public/zh/亢奋.md",
+    "public/zh/身体烦躁.md",
+    "public/zh/生化烦躁.md",
+    "public/zh/社交烦躁.md",
+    "public/zh/社会烦躁.md",
+    "public/zh/性烦躁.md",
+    "public/zh/外表烦躁.md",
+    "public/zh/存在烦躁.md",
+    "public/zh/掌控烦躁.md",
+    "public/zh/冒名顶替综合征.md",
+    "public/zh/诊断.md",
+    "public/zh/治疗.md",
+    "public/zh/成因.md",
+    "public/zh/染色体.md",
+    "public/zh/激素.md",
+    "public/zh/雄二青春期.md",
+    "public/zh/雌二青春期.md",
+    "public/zh/结语.md"
+  ],
+  "meta": {
+    "title": "性别烦躁指南",
+    "lang": "zh",
+    "description": "为那些正在质疑探索中的人、那些在跨性别道路上的人和单纯想成为盟友的人提供资源。",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

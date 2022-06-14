@@ -1,0 +1,12 @@
+    <dl class="glossary">
+    {{#each (gloss false)}}
+      {{#if this.show}}
+      <dt id="{{this.key}}">{{{nogloss this.title}}} <a class="glossary-anchor" href="#{{this.key}}">#</a></dt>
+      {{#with (gloss this.key)}}
+        {{#each this.description}}
+          <dd>{{md true this}}</dd>
+        {{/each}}
+      {{/with}}
+      {{/if}}
+    {{/each}}
+    </dl>

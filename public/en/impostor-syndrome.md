@@ -7,8 +7,8 @@ preBody: '_disclaimer'
 siblings:
   prev: /en/managed-dysphoria
   prevCaption: Managed Dysphoria
-  next: /en/diagnoses
-  nextCaption: Clinical Diagnoses
+  next: /en/am-i-trans
+  nextCaption: Am I Trans?
 classes:
   - gdb
 tweets:
@@ -99,6 +99,8 @@ If a trans person's first exposure to transness is a transmedicalist, this can s
 
 **Do not believe these lies.** They are bully tactics explicitly designed to gaslight and dismiss people's pain for self gratification.
 
+There are related hurtful concepts a trans person can internalize, revolving around seeing transition as a list of required actions. One such idea is a belief that a person shouldn't expect being gendered correctly or even complain about misgendering as long as they haven't changed their gender marker. In other words, legally conditioned pronoun respect, or translegalism. Not only can changing gender marker be a complicated, prolonged process, not only cannot some people afford to out themselves by pursuing it, but also most countries wouldn't allow a gender marker outside of the gender binary. Translegalism convinces a person that they deserve misgendering because of their ID.
+
 ### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism
 
 [Gender Essentialism](https://en.wikipedia.org/wiki/Gender_essentialism) is the belief that there are an innate attributes to a person's existence that are derived based on what sex organs the person is born with. TERF and GC ideology was born out of the lesbian separatist movement of second wave feminism and fully denies the existence of transgender biology and non-binary identities. The movement has been largely overtaken by right-wing reactionaries, racists, and homophobes, and is now being bolstered by evangelical Christian organizations.
@@ -107,6 +109,6 @@ These people will stop at nothing to invalidate your existence. Do not give them
 
 ### Gender Abolitionism / Postgenderism
 
-[Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. GAs believe that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination.
+[Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. Old school TERFs latched on to GA as reasoning for why trans people should not exist. This trans exclusionary faction of Gender Abolition believes that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination. They do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it.
 
-GAs do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it. They're functionally the extreme leftist version of the Gender Critical movement.
+Note, this is NOT about trans people who identify as Postgender or Gender Abolition as a whole. This is specifically about TERF abuse of the concepts.

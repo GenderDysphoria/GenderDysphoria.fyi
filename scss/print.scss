@@ -106,6 +106,8 @@ $header-full-height: 100px;
 @import "./markup";
 // @import "./pager";
 @import "./longform";
+@import "./font-compatibility";
+
 
 header {
   .top-nav { display: none; }

@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "Hormones: How do they work"
 linkTitle: "How Hormones Work"
-description: "It's nothing like magnets."
+description: "Keys, Locks, and Car Ignitions"
 preBody: '_disclaimer'
 siblings:
   prev: /en/chromosomes

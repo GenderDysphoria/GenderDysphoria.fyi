@@ -247,12 +247,24 @@
       grid-column-end: span 2;
     }
 
-    &.entity-count-2 .tweet-entity {
-      grid-row-end: span 2;
+    &.entity-count-2 {
+      .tweet-entity {
+        grid-row-end: span 2;
+      }
+
+      .tweet-entities-inner {
+        padding-bottom: 45%;
+      }
     }
 
-    &.entity-count-3 .tweet-entity:first-child {
-      grid-row-end: span 2;
+    &.entity-count-3 {
+      .tweet-entities-grid {
+        grid-template: 1fr / 1fr 1fr 1fr;
+      }
+
+      .tweet-entities-inner {
+        padding-bottom: 30%;
+      }
     }
   }
 

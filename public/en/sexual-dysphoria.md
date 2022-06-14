@@ -30,7 +30,7 @@ What does all this mean? Trans people who enter into perceptually heterosexual r
     '1137399651458519040'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as sex-averse due to how severely their dysphoria has shutdown all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
+This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as sex-averse due to how severely their dysphoria has shut down all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
 
 This dysphoria may be so significant that they find themselves taking a sexual identity that they don't actually connect with. It is not unheard of for a trans person to realize after coming out that they never actually felt a connection to the sexual orientation that they had identified with previously, but were rather using it as a way to feel less dysphoric in their sex lives.
 

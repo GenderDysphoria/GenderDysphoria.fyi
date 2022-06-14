@@ -41,13 +41,11 @@ Transgender people are coming out of the woodwork; we are everywhere.
 ## So What Is Gender Dysphoria?
 
 {!{
-<div class="gutter">
+<div class="gutter print-span4">
   <blockquote>
     <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
     A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
   </blockquote>
-</div>
-<div class="gutter print-span4">
   {{import '~/img' images.glue className="card print-span4"}}
 </div>
 }!}

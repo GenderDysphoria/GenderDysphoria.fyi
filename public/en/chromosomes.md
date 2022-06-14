@@ -37,7 +37,7 @@ tweets:
 </div>}!}
 
 
-There are dozens of ways that chromosomes can be much more complex than XX and XY. Medically these are referred to as DSDs ([Disorders of Sex Development](https://en.wikipedia.org/wiki/Disorders_of_sex_development)). Not all result in an intersex condition, and many only manifest at the onset of puberty.
+There are dozens of ways that chromosomes can be much more complex than XX and XY. Referred to as DSDs ([Differences in Sex Development](https://en.wikipedia.org/wiki/Disorders_of_sex_development)), not all of them result in an intersex condition, and many only manifest at the onset of puberty.
 
 - [De la Chapelle Syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypical male child with two X chromosomes.
 
@@ -50,12 +50,11 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [XX Gonadal Dysgenesis](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) is very similar to Swyer Syndrome, except occurs in XX children and results in nonfunctional ovaries.
 
-
 - [Turner Syndrome](https://en.wikipedia.org/wiki/Turner_syndrome) (45,X) produces a phenotypically female child with numerous abnormalities. It occurs when neither an X or Y chromosome crosses over from the sperm.
 
 - [Klinefelter Syndrome](https://en.wikipedia.org/wiki/Klinefelter_syndrome) (47,XXY) results in a phenotypically male child with more feminine traits. In extremely rare cases [it appears in female assigned children](https://www.ncbi.nlm.nih.gov/pubmed/15755052) as well, resulting in feminized testicles instead of ovaries.
 
-- [49,XXXXY Klinefelter Syndrome](https://en.wikipedia.org/wiki/49,XXXXY) is often fatal, but when it isn't, it will always results in a sterile child.
+- [49,XXXXY Klinefelter Syndrome](https://en.wikipedia.org/wiki/49,XXXXY) is often fatal, but when it isn't, it often results in a sterile child.
 
 - [Trisomy X](https://en.wikipedia.org/wiki/Triple_X_syndrome) (47,XXX), [Tetrasomy X](https://en.wikipedia.org/wiki/Tetrasomy_X) (48,XXXX), and [Pentasomy X](https://en.wikipedia.org/wiki/49,_XXXXX) (49,XXXXX) all result in a female child, but with progressively more intense health issues.
 
@@ -73,7 +72,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 - [Aromatase Deficiency](https://en.wikipedia.org/wiki/Aromatase_deficiency) causes masculinization of an otherwise female child due to excess levels of testosterone (and can bleed-over into the mother during gestation).
 
-- [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
+- [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
 
 {!{ <div class="span34 center print-span2">
   {{import '~/tweet' ids=[

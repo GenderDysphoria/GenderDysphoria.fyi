@@ -13,6 +13,7 @@
   "siteInfo": {
     "domain": "genderdysphoria.fyi",
     "lang": "en",
+    "allLangs": ["en", "zh", "fr", "de", "hu", "pl", "pt"],
     "siteUrl": "https://genderdysphoria.fyi",
     "creator": "TwippingVanilla",
     "author": "Jocelyn Badgley",
@@ -93,9 +94,7 @@
     "terser": "~5.7.2",
     "twemoji": "~13.1.0",
     "twitter-lite": "~1.1.0",
-    "uuid": "~8.3.2"
-  },
-  "dependencies": {
+    "uuid": "~8.3.2",
     "css": "^3.0.0",
     "node-warc": "^3.3.1",
     "parse5": "^6.0.1",

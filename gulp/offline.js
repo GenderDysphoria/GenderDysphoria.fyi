@@ -1,3 +1,5 @@
+// This script requires NVM 14 because of github.com/sass/node-sass
+
 const fs = require('fs');
 const zlib = require('zlib');
 const {WARCWriterBase} = require('node-warc');
@@ -6,14 +8,19 @@ const parse5 = require('parse5');
 const xpathhtml = require("xpath-html");
 const css = require('css');
 const http = require('http');
+const path = require('path')
+const { siteInfo }  = require(path.resolve('./package.json'));
+const chalk = require('chalk');
+const log = require('fancy-log');
 
 class GDBWarc {
 	#filename;
 	#writer;
 	#status;
 	#hostMap;
-	#domainsToInclude;
-	#pagesToInclude;
+	// array or pairs (url, bool) or (str, bool) or (RegExp, bool) where the first element will be matched against the path part of the GDB URLs 
+	#pageInclusionRules;
+	#fileInclusionRules;
 	#downloadedFiles;
 	#pages;
 
@@ -30,21 +37,48 @@ class GDBWarc {
 		});
 		this.#hostMap = {};
 		if (proxy_url !== undefined && proxy_url !== '') {
+			log("Requests to "+chalk.cyan(GDBWarc.main_domain)+" will be automatically sent to "+chalk.cyan(proxy_url));
 			this.#hostMap[proxy_url] = GDBWarc.main_domain;
 			this.#hostMap[GDBWarc.main_domain] = proxy_url;
 		}
-		this.#domainsToInclude = {
-			'fonts.googleapis.com': true,
-			'fonts.gstatic.com': true,
-			'cdnjs.cloudflare.com': true,
-			'twemoji.maxcdn.com': true
-		};
-		this.#domainsToInclude[GDBWarc.main_domain] = true;
-		this.#pagesToInclude = ['/', /^\/pt(\/.*)?/i, /^\/en(\/.*)?/i, /^\/zh(\/.*)?/i];
+		const regexp_warc = new RegExp('^'+GDBWarc.main_domain.replace(/\\./g, '\\.')+'\/.*\\.warc', 'i');
+		const regexp_pdf = new RegExp('^'+GDBWarc.main_domain.replace(/\\./g, '\\.')+'\/gdb-[a-z]{2}\\.pdf', 'i');
+
+		this.#pageInclusionRules = [
+			[regexp_warc, false],
+			[regexp_pdf, false],
+		];
+		this.#fileInclusionRules = [
+			[/^fonts.googleapis.com(\/.*)?$/i, true],
+			[/^fonts.gstatic.com(\/.*)?$/i, true],
+			[/^cdnjs.cloudflare.com(\/.*)?$/i, true],
+			[/^twemoji.maxcdn.com(\/.*)?$/i, true],
+			[regexp_warc, false],
+			[regexp_pdf, false],
+			[new RegExp('^'+GDBWarc.main_domain.replace(/\\./g, '\\.')+'\/.*', 'i'), true],
+		];
 		this.#downloadedFiles = {};
 		this.#pages = [];
 
 		this.#status = 0;
+	}
+
+	#addInclusionRule(pathToMatch, shouldInclude, destination) {
+		if (!(pathToMatch instanceof RegExp) && !(pathToMatch instanceof String) && !(pathToMatch instanceof URL)) {
+			throw "Invalid argument type for pathToMatch";
+		}
+		if (!(shouldInclude instanceof Boolean) && (typeof shouldInclude !== 'boolean')) {
+			throw "Invalid argument type for shouldInclude";
+		}
+		destination.push([pathToMatch, shouldInclude]);
+	}
+
+	addPageInclusionRule(pathToMatch, shouldInclude) {
+		this.#addInclusionRule(pathToMatch, shouldInclude, this.#pageInclusionRules);
+	}
+
+	addFileInclusionRule(pathToMatch, shouldInclude) {
+		this.#addInclusionRule(pathToMatch, shouldInclude, this.#fileInclusionRules);
 	}
 
 	async start() {
@@ -67,35 +101,54 @@ class GDBWarc {
 		await this.#add_page(this.parseURL(url), page_recursion, dep_recursion);
 	}
 
-	should_add_page(url) {
+	url2query_format(url) {
 		if (!(url instanceof URL)) {
 			throw new Error('Only URL objects allowed');
 		}
 
-		if (url.host !== GDBWarc.main_domain) {
-			return false;
+		return url.host + url.pathname;
+	}
+
+	query_inclusion_rule(url, ruleList) {
+		if (!(url instanceof URL)) {
+			throw new Error('Only URL objects allowed');
 		}
-		const path = url.pathname;
-		for (const pat of this.#pagesToInclude) {
-			if (path === pat) {
-				return true;
+
+		const clean_url = this.url2query_format(url);
+		for (const entry of ruleList) {
+			const pat = entry[0];
+			const ans = entry[1];
+			if (clean_url === pat) {
+				return ans;
 			}
 			if (pat instanceof RegExp) {
-				var match = path.match(pat);
-				if (match && path === match[0]) {
-					return true;
+				var match = clean_url.match(pat);
+				if (match && clean_url === match[0]) {
+					return ans;
 				}
 			}
 		}
 		return false;
 	}
 
+	should_add_page(url) {
+		const ans = this.query_inclusion_rule(url, this.#pageInclusionRules);
+		if (!ans) {
+			// log.warn(chalk.yellow("Rejected page '"+chalk.magenta(url.href)+"'"));
+		}
+		return ans;
+	}
+
 	should_add_file(url) {
-		if (!(url instanceof URL)) {
-			throw new Error('Only URL objects allowed');
+		if (url.host === 'www.googletagmanager.com') {
+			return false;
 		}
 
-		return this.#domainsToInclude[url.host];
+		const ans = this.query_inclusion_rule(url, this.#fileInclusionRules);
+		if (!ans) {
+			// log.warn(chalk.yellow("Rejected file '"+chalk.magenta(url.href)+"'"));
+		}
+		return ans;
 	}
 
 	get_real_url(url) {
@@ -179,7 +232,7 @@ class GDBWarc {
 				console.error(`problem with request: ${e.message}`);
 				reject(e);
 			});
-		});
+		}).catch((err) => {log.error(chalk.red("Failed to download "+chalk.magenta(real_url.toString())+": ")+err); return undefined});
 	}
 
 	async #add_page(url, page_recursion, dep_recursion) {
@@ -192,12 +245,26 @@ class GDBWarc {
 		const dependencies = {};
 		const page_links = {};
 
-		console.log("Downloading: "+url.toString());
-		const req = await this.get(url);
+		log(chalk.gray("Downloading: "+url.toString()));
+		await new Promise(resolve => setTimeout(resolve, 50));
+		let req = await this.get(url);
+		// for (let i=0; i < 5 && req === undefined; i++) {
+		// 	req = await this.get(url);
+		// 	await new Promise(resolve => setTimeout(resolve, 500));
+		// }
+		if (req == undefined) {
+			return false;
+		}
 
 		// Write data
 		await this.#writer.writeRequestRecord(url, req.request_headers_raw);
 		if (req.body) {
+			// Remove srcset attributes as they mess everything up
+			if (req.content_type === 'text/html') {
+				const re = /srcset="[^"]*"/ig;
+				req.body = req.body.replace(re, '');
+			}
+
 			await this.#writer.writeResponseRecord(url, req.response_headers_raw, req.body);
 		} else {
 			await this.#writer.writeResponseRecord(url, req.response_headers_raw, req.data);
@@ -244,7 +311,7 @@ class GDBWarc {
 				const linkUrl = new URL(match[1], url.toString());
 				dependencies[linkUrl.toString()] = linkUrl;
 			}
-		} else if (req.content_type.startsWith("image/") || req.content_type.startsWith("font/")) {
+		} else if (req.content_type.startsWith("image/") || req.content_type.startsWith("font/") || req.content_type.startsWith("application/javascript")) {
 			// Nothing to do
 		} else if (req.content_type !== "") {
 			console.error('Unexpected content-type for '+url+':', req.content_type);
@@ -265,6 +332,8 @@ class GDBWarc {
 				await this.#add_page(url, page_recursion-1, dep_recursion);
 			}
 		}
+
+		return true;
 	}
 
 	async finish() {
@@ -280,13 +349,38 @@ class GDBWarc {
 async function main() {
 	const port = process.env.PORT || 8000;
 	const proxy_url = '127.0.0.1:'+port;
-	const gen = new GDBWarc('offline.warc', proxy_url);
-	await gen.start();
-	await gen.addPage('/', 200, 15);
-	await gen.addPage('/en', 200, 15);
-	await gen.addPage('/pt', 200, 15);
-	await gen.addPage('/zh', 200, 15);
-	await gen.finish();
+	const langs = siteInfo.allLangs;
+	langs.push('all');
+
+	// Add each language
+	for (const lang of ['en']) {
+		var filename = 'dist/gdb-'+lang+'.warc';
+		if (lang ===  "all") {
+			filename = 'dist/gdb.warc';
+		}
+		log.info(chalk.bold("Making ")+chalk.cyan(filename));
+		
+		const gen = new GDBWarc(filename, proxy_url);
+		await gen.start();
+		
+		// Allow only the pages in this language
+		if (lang !== "all") {
+			let re1 = new RegExp('^'+GDBWarc.main_domain+'\/'+lang+'(\/.*)?$', 'i');
+			gen.addPageInclusionRule(re1, true);
+		} else {
+			let re1 = new RegExp('^'+GDBWarc.main_domain+'\/(.*)?$', 'i');
+			gen.addPageInclusionRule(re1, true);
+		}
+		
+		// Run!
+		if (lang !==  "all") {
+			await gen.addPage('/'+lang, 200, 15);
+		} else {
+			await gen.addPage('/', 200, 25);
+		}
+		await gen.finish();
+		log.info(chalk.bold("Finished ")+chalk.cyan(filename));
+	}
 }
 
 if (require.main === module) {
@@ -296,5 +390,7 @@ if (require.main === module) {
 exports.GDBWarc = GDBWarc;
 exports.offlineTask = async function(callback) {
 	await main();
-	callback();
+	if (callback !== undefined) {
+		callback();
+	}
 }
