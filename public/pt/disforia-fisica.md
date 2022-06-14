@@ -113,7 +113,7 @@ A Disforia Física se manifesta de várias formas distintas. Às vezes ela é se
 
 Ela também pode ser sentida como uma espécie de efeito fantasma *reverso*, no qual uma pessoa está persistentemente ciente de algo que *não* deveria estar ali. O cérebro está recebendo sinais de sensações que ele não espera como o peso dos peitos, ou a presença de testículo ou útero, e essa entrada toma prioridade porque ela não é esperada.
 
-Ela pode ser sentida como um horror ou repulsa quando se olha ou toca os genitais externos, ativando explosões emocionais ou forte desejo de remover o órgão ofensor. Pessoas transgêneras <abbr data-title="designadas mulher ao nascer" tabindex="0">AFABs</abbr> (sigla inglesa para <em lang="en">Assigned Female At Birth</em> que significa <em>Designada Mulher Ao Nascer</em>) podem experimentar sensações de algo estar errado durante a menstruação, ou uma sensação de desconexão ou alienamento de seus ciclos menstruais.
+Ela pode ser sentida como um horror ou repulsa quando se olha ou toca os genitais externos, ativando explosões emocionais ou forte desejo de remover o órgão ofensor. Pessoas transgêneras AFABs (sigla inglesa para <em lang="en">Assigned Female At Birth</em> que significa <em>Designada Mulher Ao Nascer</em>) podem experimentar sensações de algo estar errado durante a menstruação, ou uma sensação de desconexão ou alienamento de seus ciclos menstruais.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
@@ -121,7 +121,7 @@ Ela pode ser sentida como um horror ou repulsa quando se olha ou toca os genitai
 
 Ela pode se manifestar como uma compulsão de remover certas características corpóreas, tais como obsessivamente raspar pelos faciais. Ela também pode se manifestar como uma compulsão oposta, levando ao meticuloso cuidado dessas características para tentar controlá-las, ex: manter uma barba perfeita, persistentemente fazer manicure e pintura das unhas, ou fastar horas na academia tentando afiar a sua forma.
 
-Características físicas indesejadas podem levar a pessoa experimentar inveja das pessoas que foram forçadas a remover tais características por doenças, tais como câncer de mama ou testicular. Pessoas <abbr data-title="designadas homem ao nascer" tabindex="0">AMAB</abbr> (sigla inglesa para <em lang="en">Assigned Male At Birth</em> que significa <em>Designado Homem Ao Nascer</em>) com severa disforia genital tendem a desejar que alguma espécie de acidente bizarro que causasse a perda de seus pênis.
+Características físicas indesejadas podem levar a pessoa experimentar inveja das pessoas que foram forçadas a remover tais características por doenças, tais como câncer de mama ou testicular. Pessoas AMAB (sigla inglesa para <em lang="en">Assigned Male At Birth</em> que significa <em>Designado Homem Ao Nascer</em>) com severa disforia genital tendem a desejar que alguma espécie de acidente bizarro que causasse a perda de seus pênis.
 
 Às vezes, pode ser simplesmente uma sensação de estar incorreto, que você pode nem ter atribuído a gênero ou sexo. Pela maior parte da minha vida eu acreditava que a razão pela qual eu odiava o meu corpo era porque eu era gorda. Não foi até eu começar a transicionar que eu percebi que não detesto nem um pouco a minha gordura. Eu odiava ter gordura *masculina*. As curvas femininas que a terapia hormonal me trouxeram me fizeram sentir muito melhor com o meu próprio corpo.
 
@@ -141,7 +141,7 @@ A disforia sentida sobre o corpo pode e irá mudar com o tempo, para melhor e pa
 É okay se você não precisar de *nenhuma* transição médica. Sensações sobre o corpo não são a essência da transição.
 
 
-**Disforia física corpórea total não é um requisito para ser transgênero. <abbr data-title="Pessoas designadas mulher ao nascer" tabindex="0">AFABs</abbr> não precisam odiar seus seios, <abbr data-title="Pessoas designadas homem ao nascer" tabindex="0">AMABs</abbr> não precisam odiar seus pênis. Cada pessoa trans tem uma experiência diferente. Todas são válidas.**
+**Disforia física corpórea total não é um requisito para ser transgênero. AFABs não precisam odiar seus seios, AMABs não precisam odiar seus pênis. Cada pessoa trans tem uma experiência diferente. Todas são válidas.**
 
 ### Problemas de Imagem Corpórea Internalizada
 

@@ -112,9 +112,9 @@ A intensidade da disforia física e bioquímica é altamente influenciada por ou
 
 - Se seu açúcar no sangue está fora de controle ou você tem algum problema de tireoide, isso pode aumentar a sua disforia.
 - Se você está tendo retirada de dopamina por cessamento de estimulantes, a sua disforia pode piorar.
-- Se você começa a usar um antidepressivo <abbr data-title="Inibidor Seletivo de Reabsorção de Serotonina" tabindex="0">SSRI</abbr> e começa a funcionar com mais serotonina, a sua disforia pode diminuir.
-- <abbr data-title="Pessoas designadas homem ao nascer" tabindex="0">AMABs</abbr> transfemininas com testículos experienciam ondas de alta testosterona em relação a atração e desejo, o que pode torná-las mais disfóricas.
-- <abbr data-title="Pessoas designadas mulher ao nascer" tabindex="0">AFABs</abbr> transmasculinas com ovários não suprimidos experienciam aumentos e quedas em estrógeno e progesterona ao longo do ciclo menstrual, fazendo suas disforias intensificarem e atenuarem de acordo com o dia do ciclo na qual estão. 
+- Se você começa a usar um antidepressivo SSRI e começa a funcionar com mais serotonina, a sua disforia pode diminuir.
+- AMABs transfemininas com testículos experienciam ondas de alta testosterona em relação a atração e desejo, o que pode torná-las mais disfóricas.
+- AFABs transmasculinas com ovários não suprimidos experienciam aumentos e quedas em estrógeno e progesterona ao longo do ciclo menstrual, fazendo suas disforias intensificarem e atenuarem de acordo com o dia do ciclo na qual estão. 
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 

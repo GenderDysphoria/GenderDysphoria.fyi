@@ -7,6 +7,8 @@ description: "Basta de obstrução (gatekeeping)."
 siblings:
   prev: /pt/segunda-puberdade-fem
   prevCaption: Segunda Puberdade Estrogênica
+  next: /pt/glossario
+  nextCaption: Glossário
 classes:
   - gdb
 preBody: '_aviso_doc_vivo'

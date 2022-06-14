@@ -336,7 +336,8 @@ class Glossary {
 
 		const regexp_words_core = words_by_size.map(escapeRE).join('|');
 
-		// TODO: add support for words without \b to support Chinese
+		// TODO: auto detect if first or final char is Chinese and treat it specially (without \b)
+		// TODO: auto detect if final char is word break (eg. 'i.e.') treat specially (without \b)
 		const re = new RegExp(`\\b(?:${regexp_words_core})\\b`, 'g');
 
 		return re;
