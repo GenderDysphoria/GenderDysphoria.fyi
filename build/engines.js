@@ -63,9 +63,9 @@ const markdownEngines = {
       permalink: mAnchor.permalink.linkInsideHeader({
         class: 'header-link',
         symbol: '<img src="/images/svg/paragraph.svg">',
-        renderHref: (input) => '#' + slugify(decodeURIComponent(input)),
         ariaHidden: true,
       }),
+      slugify: slugify,
     })
     .use(glossary.markdownit_plugin)
     .use(require('./lib/markdown-raw-html'), { debug: false }),
