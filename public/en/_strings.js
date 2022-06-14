@@ -1,6 +1,7 @@
 
 module.exports = exports = {
-  MENU_LANGUAGE: 'English (EN)',
+  MENU_LANGUAGE_SHORT: 'English (EN)',
+  MENU_LANGUAGE_LONG: 'English (EN)',
   SITE_TITLE: 'That\'s Gender Dysphoria, FYI',
   HEADER_TITLE: 'That\'s Gender Dysphoria, <abbr data-title="For Your Information">FYI</abbr>',
   SITE_DESCRIPTION: 'A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.',

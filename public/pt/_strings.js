@@ -1,6 +1,7 @@
 
 module.exports = exports = {
-  MENU_LANGUAGE: 'Português (PT)',
+  MENU_LANGUAGE_SHORT: 'Português (PT)',
+  MENU_LANGUAGE_LONG: 'Português (Portuguese)',
   SITE_TITLE: 'Isso é Disforia de Gênero, PSI',
   HEADER_TITLE: 'Isso é Disforia de Gênero, <abbr title="Para Sua Informação">PSI</abbr>',
   SITE_DESCRIPTION: 'Um recurso para quem questiona seu gênero, ou já está em uma jornada de gênero, ou simplesmente quer aprender mais sobre o que é ser transgênero.',

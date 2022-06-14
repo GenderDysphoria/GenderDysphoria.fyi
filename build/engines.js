@@ -31,6 +31,20 @@ const str2locale = {
   'es': dateFNSLocales.es
 };
 
+// Process translation links (so /en/what-is-gender maps to /pt/que-e-gênero)
+const translationLinksRaw = require('../translation-links.json');
+const translationLinksMap = {};
+for (const group of translationLinksRaw) {
+  for (const [lang, url] of Object.entries(group)) {
+    if (url in translationLinksMap) {
+      console.log("URL '"+url+"' appears repeatedly on translation-links.json");
+      process.exit(1);
+    } else {
+      translationLinksMap[url] = group;
+    }
+  }
+}
+
 const markdownEngines = {
   full: markdownIt({
     html: true,
@@ -220,6 +234,7 @@ class Injectables {
       prod:      this.production(),
       rev:       this.rev(),
       lang:      this.lang(),
+      lang2:     this.lang2(),
       date:      this.date(),
       gloss:     this.gloss(),
       nogloss:   this.nogloss(),
@@ -333,6 +348,7 @@ class Injectables {
     };
   }
 
+  // Usage {{lang 'MY-STRING'}}
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
@@ -341,10 +357,20 @@ class Injectables {
     };
   }
 
+  // Usage {{lang2 other-lang 'MY-STRING'}}
+  lang2 () {
+    return function (lang, key, ...args) {
+      const { resolve: rval } = args.pop();
+      return i18n(lang, key, ...args);
+    };
+  }
+
   // Find the translation links for the current page from the file translation-links.json
   //
   // If a single argument is present, a single string will be returned, otherwise an
   // object with links for all languages will be returned
+  // 
+  // Usage: {{translink new-lang fallback-url}}
   translink () {
     return function (...raw_args) {
       let { resolve: rval, arguments: args } = raw_args.pop();
