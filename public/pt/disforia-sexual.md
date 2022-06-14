@@ -47,7 +47,7 @@ Algumas mulheres trans, por exemplo, se identificavam como homens gay antes da t
 </div>
 }!}
 
-Existe um ditado bem conhecido em círculos <abbr data-title="sinônimo de lésbico que incluí mulheres bi">sáficos</abbr>: "Eu quero ficar com ela ou ser ela?"
+Existe um ditado bem conhecido em círculos sáficos: "Eu quero ficar com ela ou ser ela?"
 
 Pode ser difícil separar a inveja da atração sexual, especialmente quando você é uma adolescente trans armariada. Nossa sociedade inteira é construída sobre heterossexualidade; ela simplesmente o padrão (_default_) cultural, ao ponto de que mesmo crianças pré-púberes são imundadas de mensagens sobre atração de homens para mulheres. Consequentemente, interesse em aspectos das vidas do sexo "oposto" é quase sempre imediatamente percebido sendo atração sexual.
 
