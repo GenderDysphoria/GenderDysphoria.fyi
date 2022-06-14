@@ -353,7 +353,7 @@ async function main() {
 	langs.push('all');
 
 	// Add each language
-	for (const lang of ['en']) {
+	for (const lang of langs) {
 		var filename = 'dist/gdb-'+lang+'.warc';
 		if (lang ===  "all") {
 			filename = 'dist/gdb.warc';
