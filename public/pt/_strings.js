@@ -14,6 +14,8 @@ module.exports = exports = {
   PATREON_FOOTER_BODY: 'Esse site só foi possível graças às contribuições da comunidade. Se você achou esse site inestimável, por favor considere fazer uma <a href="https://www.patreon.com/curvyandtrans">contribuição no Patreon</a> ou uma <a href="https://ko-fi.com/curvyandtrans">doação pelo Ko-fi</a>.',
   PATREON_FOOTER_THANKS: 'Agradecimentos especiais aos seguintes apoiadores no Patreon:',
   FOOTER_COPYRIGHT: 'Texto e código do site, e arte original são <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licenciados pela CC BY-NC-SA.</a>',
-  FOOTER_COPYRIGHT2: 'e outros contribuidores.'
+  FOOTER_COPYRIGHT2: 'e outros contribuidores.',
+
+  GLOSSARY_READ_MORE: 'Leia mais',
 };
 

@@ -2,6 +2,20 @@ module.exports = exports = {
 	glossary_url: '/en/glossary',
 	lang: 'en',
 	entries: {
+		'i.e.': {
+			sortAs: 'i e',
+			title: 'i.e.',
+			description: ['Abbreviation of _id est_ meaning _this is_.'],
+			show: true,
+			words: {
+				'i.e.': {
+					class: 'abbreviation',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				}
+			}
+		},
 		'agab': {
 			sortAs: 'AGAB',
 			title: 'A·GAB',

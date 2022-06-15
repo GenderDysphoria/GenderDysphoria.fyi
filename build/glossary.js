@@ -98,6 +98,25 @@ function unPseudoTokens(pseudo, TokenClass) {
 	}
 }
 
+function tokensMergeText(tokens) {
+	if (tokens.length <= 1) {
+		return tokens;
+	}
+	const ans = [tokens[0]];
+	for (let i=1; i < tokens.length; i++) {
+		let last_token = ans[ans.length-1];
+		let cur_token = tokens[i];
+
+		if (cur_token.type === 'text' && last_token.type === 'text') {
+			last_token.content += cur_token.content;
+		} else {
+			ans.push(cur_token);
+		}
+	}
+
+	return ans;
+}
+
 function pseudoTokensToHtml(pseudo) {
 	let ans = '';
 	if (pseudo.type === 'text') {
@@ -147,6 +166,7 @@ class Word {
 	_pronunciations = []
 	_show           = false;
 	_auto_gloss     = false;
+	_break_classification = [true, true];
 
 	constructor(word, src) {
 		if (isNonEmptyString(word)) {
@@ -180,6 +200,21 @@ class Word {
 		if (isBoolean(src.regexp_break)) {
 			this._regexp_break = src.regexp_break;
 		}
+
+		this._break_classification = Word.compute_fix_break_classification(this._word);
+	}
+
+	// BUG: supports only checking for '.' (dot) at the end of words
+	// TODO: check for Chinese
+	// 0b00 = 0 = no need for \b
+	// 0b01 = 1 = \b only for after the word
+	// 0b10 = 2 = \b only for before the word
+	// 0b11 = 3 = \b both before and after the word
+	static compute_fix_break_classification(word) {
+		if (word[word.length-1] === '.') {
+			return 2;
+		}
+		return 3;
 	}
 
 	get word()           { return this._word; }
@@ -191,6 +226,7 @@ class Word {
 	get show()           { return this._show; }
 	get auto_gloss()     { return this._auto_gloss; }
 	get regexp_break()   { return this._regexp_break; }
+	get break_classification() { return this._break_classification; }
 }
 
 class Entry {
@@ -266,10 +302,12 @@ class Entry {
 class Glossary {
 	_lang;
 	_glossary_url         = undefined;
-	_words_map            = new Map();
+	_words2entry_map      = new Map();
 	_words_set            = new Set();
+	_words_obj_map        = new Map();
 	_auto_gloss_words_set = new Set();
 	_entries_map          = new Map();
+	_regexp_words_cache   = undefined;
 
 	constructor(src) {
 		if (isNonEmptyString(src.lang)) {
@@ -289,7 +327,8 @@ class Glossary {
 			} else {
 				this._entries_map.set(key, obj);
 				for (const [word, word_obj] of obj.words) {
-					this._words_map.set(word, key);
+					this._words2entry_map.set(word, key);
+					this._words_obj_map.set(word, word_obj);
 					if (this._words_set.has(word)) {
 						throw new Error(`duplicate word: ${word}`)
 					} else {
@@ -305,12 +344,13 @@ class Glossary {
 
 	get lang()                { return this._lang; }
 	get glossary_url()        { return this._glossary_url; }
-	get words_map()           { return this._words_map; }
+	get words2entry_map()     { return this._words2entry_map; }
 	get words_set()           { return this._words_set; }
+	get words_obj_map()       { return this._words_obj_map; }
 	get entries_map()         { return this._entries_map; }
 
 	get words_sorted()        {
-		return Array.from(this._words_map.values()).sort((a, b) => {
+		return Array.from(this._words2entry_map.values()).sort((a, b) => {
 			return a.word.localeCompare(b.word, this._lang);
 		});
 	}
@@ -328,18 +368,46 @@ class Glossary {
 				(a, b) => { return b.length - a.length; });
 	}
 
+	auto_gloss_words_obj() {
+		return this.auto_gloss_words().map((w) => this._words_obj_map.get(w));
+	}
+
 	regexp_words() {
-		const words_by_size = this.auto_gloss_words();
-		if (words_by_size.length == 0) {
-			return undefined;
+		if (this._regexp_words_cache !== undefined) {
+			return this._regexp_words_cache;
 		}
 
-		const regexp_words_core = words_by_size.map(escapeRE).join('|');
+		const words_by_size = this.auto_gloss_words_obj();
+		if (words_by_size.length == 0) {
+			this._regexp_words_cache = null;
+			return this._regexp_words_cache;
+		}
 
-		// TODO: auto detect if first or final char is Chinese and treat it specially (without \b)
-		// TODO: auto detect if final char is word break (eg. 'i.e.') treat specially (without \b)
-		const re = new RegExp(`\\b(?:${regexp_words_core})\\b`, 'g');
+		// b = \b        w = the word itself
+		const words_w   = words_by_size.filter((w) => w.break_classification === 0);
+		const words_wb  = words_by_size.filter((w) => w.break_classification === 1);
+		const words_bw  = words_by_size.filter((w) => w.break_classification === 2);
+		const words_bwb = words_by_size.filter((w) => w.break_classification === 3);
 
+		const words_w_core   = words_w.map((w) => escapeRE(w._word)).join('|');
+		const words_wb_core  = words_wb.map((w) => escapeRE(w._word)).join('|');
+		const words_bw_core  = words_bw.map((w) => escapeRE(w._word)).join('|');
+		const words_bwb_core = words_bwb.map((w) => escapeRE(w._word)).join('|');
+
+		let re_core = [];
+		if (words_w_core.length != 0) { re_core.push(`(?:${words_w_core})`) };
+		if (words_wb_core.length != 0) { re_core.push(`(?:${words_wb_core})\\b`) };
+		if (words_bw_core.length != 0) { re_core.push(`\\b(?:${words_bw_core})`) };
+		if (words_bwb_core.length != 0) { re_core.push(`\\b(?:${words_bwb_core})\\b`) };
+
+		if (re_core.length == 0) {
+			this._regexp_words_cache = null;
+			return this._regexp_words_cache;
+		}
+
+		const re = new RegExp(`(?:${re_core.join('|')})`, 'g');
+
+		this._regexp_words_cache = re;
 		return re;
 	}
 
@@ -354,7 +422,7 @@ class Glossary {
 
 	getEntryAndWordObj(word_str) {
 		try {
-			const entry_str = this._words_map.get(word_str);
+			const entry_str = this._words2entry_map.get(word_str);
 			const entry_obj = this._entries_map.get(entry_str);
 			const word_obj = entry_obj.words.get(word_str);
 			return [entry_obj, word_obj];
@@ -481,6 +549,8 @@ class MultiGlossary {
 }
 
 function markdownit_plugin (md) {
+	const rules = md.core.ruler.getRules('');
+
 	function gloss_replace(state) {
 		const gloss = state.env.glossary;
 		if (gloss === undefined || gloss === null) {
@@ -488,12 +558,14 @@ function markdownit_plugin (md) {
 		}
 
 		const re_auto_gloss = gloss.regexp_words();
-		if (re_auto_gloss === undefined) {
+		if (!(re_auto_gloss instanceof RegExp)) {
 			return;
 		}
 
 		const blockTokens = state.tokens;
 		const l = blockTokens.length;
+		const env2 = {...state.env, glossary: undefined};
+
 		for (let j = 0; j < l; j++) {
 			// Ignore blocks. Maybe this will need to change in the future
 			if (blockTokens[j].type !== 'inline') { continue; }
@@ -523,9 +595,18 @@ function markdownit_plugin (md) {
 						// Word to gloss, remove marker and gloss the word
 						node_txt = node_txt.substr(1, node_txt.length);
 						const pseudo_tokens = gloss.render_block_tokens(node_txt, next_node_txt, true);
-						const new_tokens = unPseudoTokens(pseudo_tokens, state.Token);
+						const new_tokens = tokensMergeText(unPseudoTokens(pseudo_tokens, state.Token));
 
-						new_nodes.push(...new_tokens);
+						// Parse text tokens to make sure formatting still works
+						for (let i = 0; i < new_tokens.length; i++) {
+							let token = new_tokens[i];
+							if (token.type === 'text') {
+								const parsed = md.parseInline(token.content, env2);
+								new_nodes.push(...parsed[0].children);
+							} else {
+								new_nodes.push(token);
+							}
+						}
 					}
 				}
 
@@ -536,7 +617,7 @@ function markdownit_plugin (md) {
 	}
 
 	// Add our rules to the engine
-	md.core.ruler.before('linkify', 'gloss_replace', gloss_replace);
+	md.core.ruler.after('inline', 'gloss_replace', gloss_replace);
 }
 
 function test_markdown(gloss, src_md) {
@@ -551,14 +632,8 @@ function test_markdown(gloss, src_md) {
 
 async function main() {
 	const glossaries = await MultiGlossary.load_default();
-	// log(glossaries);
-	const en_gloss = glossaries.by_lang('en');
-	// log(en_gloss);
-	// log(en_gloss.render_block('AMAB', false));
-	// log(en_gloss.render_block('AMAB', true));
-
-	// log(en_gloss.regexp_words())
-	log(test_markdown(en_gloss, 'das dasdsa AMAB safdf AMABs. dfd *AFABs, hi*!'));
+	const pt_gloss = glossaries.by_lang('en');
+	log(test_markdown(pt_gloss, 'ABC i.e.'));
 }
 
 if (require.main === module) {
