@@ -84,12 +84,8 @@ function markdown (mode, inline, input, data, hbs, glossaries) {
   }
 
   // Add glossary tooptips and ruby annotations
-  if (data !== undefined && data.page.lang !== undefined) {
-    const lang = data.page.lang;
-    data.glossary = glossaries.by_lang(lang);
-  } else if (input.length < 10000) {
-    log.error('no glossary', data, input)
-  }
+  const lang = data.page.lang;
+  data.glossary = glossaries.by_lang(lang);
 
   try {
     if (inline) {
@@ -247,7 +243,7 @@ class Injectables {
   markdown () {
     const self = this;
     return function (...args) {
-      const { fn, data, resolve: rval } = args.pop();
+      const { fn, env, resolve: rval } = args.pop();
       const local = rval('@root.this.local');
       let contents;
 
@@ -260,7 +256,7 @@ class Injectables {
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', false, contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
+      contents = markdown('full', false, contents, env['@root'].this, () => { throw new Error('You went too deep!'); }, self.glossaries);
 
       return { value: contents };
     };
@@ -269,20 +265,16 @@ class Injectables {
   md () {
     const self = this;
     return function (...args) {
-      const tmp = args.pop();
-      let { data, resolve: rval } = tmp;
-      data = data || {};
-      data.page = data.page || {};
-      data.page.lang = data.page.lang || rval('@root.this.page.lang');
+      const { env } = args.pop();
 
       const inline = args[0];
-
       let contents = args[1];
+
       if (contents instanceof Array) {
         contents = contents.join('\n\n');
       }
 
-      contents = markdown('full', inline, contents, data, () => { throw new Error('You went too deep!'); }, self.glossaries);
+      contents = markdown('full', inline, contents, env['@root'].this, () => { throw new Error('You went too deep!'); }, self.glossaries);
 
       return { value: contents };
     };
