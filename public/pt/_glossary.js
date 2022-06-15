@@ -64,29 +64,37 @@ module.exports = exports = {
 					class: 'substantivo singular',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'trans men': {
 					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
+				},
+				'transman': {
+					class: 'substantivo singular - obsoleto e parcialmente ofensivo',
+					auto_gloss: true,
+					show: true,
+					relation: 'translation:en',
+				},
+				'transmen': {
+					class: 'substantivo plural - obsoleto e parcialmente ofensivo',
+					auto_gloss: true,
+					show: true,
+					relation: 'translation:en',
 				},
 				'transgender man': {
 					class: 'substantivo singular',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'transgender men': {
 					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
@@ -124,36 +132,44 @@ module.exports = exports = {
 					class: 'substantivo singular',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'trans women': {
 					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
+				},
+				'transwoman': {
+					class: 'substantivo singular - obsoleto e parcialmente ofensivo',
+					auto_gloss: true,
+					show: true,
+					relation: 'translation:en',
+				},
+				'transwomen': {
+					class: 'substantivo plural - obsoleto e parcialmente ofensivo',
+					auto_gloss: true,
+					show: true,
+					relation: 'translation:en',
 				},
 				'transgender woman': {
 					class: 'substantivo singular',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'transgender women': {
 					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
 		'dman': {
 			sortAs: 'DMAN',
 			title: 'DMAN',
-			description: ['Designada Mulher ao Nascer.'],
+			description: ['Designade Mulher ao Nascer.'],
 			show: true,
 			words: {
 				'DMAN': {
@@ -169,25 +185,23 @@ module.exports = exports = {
 					relation: 'gramatical variant'
 				},
 				'AFAB': {
-					class: 'adjetivo singular',
+					class: 'substantivo singular e adjetivo',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'AFABs': {
-					class: 'adjetivo plural',
+					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
 		'dhan': {
 			sortAs: 'DHAN',
 			title: 'DHAN',
-			description: ['Designado Homem ao Nascer.'],
+			description: ['Designade Homem ao Nascer.'],
 			show: true,
 			words: {
 				'DHAN': {
@@ -203,18 +217,16 @@ module.exports = exports = {
 					relation: 'gramatical variant'
 				},
 				'AMAB': {
-					class: 'adjetivo singular',
+					class: 'substantivo singular e adjetivo',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'AMABs': {
-					class: 'adjetivo plural',
+					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
@@ -240,15 +252,13 @@ module.exports = exports = {
 					class: 'substantivo singular',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'AGABs': {
 					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
@@ -301,18 +311,16 @@ module.exports = exports = {
 					relation: 'abbreviation',
 				},
 				'transgender': {
-					class: 'adjetivo singular',
+					class: 'substantivo singular e adjetivo',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'transgenders': {
 					class: 'adjetivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
@@ -365,18 +373,16 @@ module.exports = exports = {
 					relation: 'abbreviation',
 				},
 				'cisgender': {
-					class: 'adjetivo singular',
+					class: 'substantivo singular e adjetivo',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'cisgenders': {
-					class: 'adjetivo plural',
+					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},
@@ -438,29 +444,25 @@ module.exports = exports = {
 					class: 'adjetivo e substantivo singular',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
-				'non-binarys': {
-					class: 'adjetivo e substantivo plural',
+				'non-binaries': {
+					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'enby': {
-					class: 'adjetivo e substantivo singular',
+					class: 'substantivo singular e adjetivo',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 				'enbies': {
-					class: 'adjetivo e substantivo singular',
+					class: 'substantivo plural',
 					auto_gloss: true,
 					show: true,
-					relation: 'translation',
-					lang: 'en'
+					relation: 'translation:en',
 				},
 			}
 		},

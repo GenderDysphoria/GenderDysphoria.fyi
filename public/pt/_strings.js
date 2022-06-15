@@ -17,5 +17,14 @@ module.exports = exports = {
   FOOTER_COPYRIGHT2: 'e outros contribuidores.',
 
   GLOSSARY_READ_MORE: 'Leia mais',
+  GLOSSARY_GO_TO_GLOSSARY: 'Ir ao glossário',
+  GLOSSARY_SUMMARY: 'Resumo',
+  GLOSSARY_MEANING: 'Significado',
+  GLOSSARY_ABBREVIATIONS: 'Abreviações',
+  GLOSSARY_SYNONYMS: 'Sinónimos',
+  GLOSSARY_ANTONYMS: 'Antónimos',
+  GLOSSARY_SEE_OTHERS: 'Vide',
+  GLOSSARY_GRAMATICAL_VARIANTS: 'Variantes gramaticais',
+  GLOSSARY_EN_TRANSLATIONS: 'Traduções para Inglês',
 };
 
