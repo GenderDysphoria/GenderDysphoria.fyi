@@ -236,6 +236,7 @@ class Entry {
 	_description = []; //sequence of paragrpahs, only the first is included in tooltip
 	_show = false;
 	_show_in_print = false;
+	_words_by_relation = new Map();
 	_words = new Map();
 
 	constructor(key, src) {
@@ -270,14 +271,24 @@ class Entry {
 		if (isBoolean(src.show_in_print)) {
 			this._show_in_print = src.show_in_print;
 		}
-		for (const [key, value] of Object.entries(src.words)) {
-			const obj = new Word(key, value);
-			if (this._words.has(key)) {
-				throw new Error(`duplicate word entry: ${key}`)
-			} else {
-				this._words.set(key, obj);
+		for (const [word_key, word_src] of Object.entries(src.words)) {
+			const word_obj = new Word(word_key, word_src);
+
+			if (this._words.has(word_key)) {
+				throw new Error(`duplicate word entry: ${word_key}`)
 			}
+
+			this._words.set(word_key, word_obj);
+			this.#add_word_by_relation(word_obj);
 		}
+	}
+
+	#add_word_by_relation(word) {
+		const rel = word.relation;
+
+		const set = this._words_by_relation.get(rel) || new Set();
+		set.add(word);
+		this._words_by_relation.set(rel, set);
 	}
 
 	get key()           { return this._key; }
@@ -289,6 +300,19 @@ class Entry {
 	get show_in_print() { return this._show_in_print; }
 	get words()         { return this._words; }
 
+	get long_description() {
+		return this._description.slice(1);
+	}
+
+	wordsByRelation(relation) {
+		return this._words_by_relation.get(relation);
+	}
+
+	hasWordsByRelation(relation) {
+		const set = this.wordsByRelation(relation);
+		return set !== undefined && set.length != 0;
+	}
+
 	get main_word()     {
 		for (const [_, word] of this.words) {
 			if (word.relation === '=') {
@@ -296,6 +320,56 @@ class Entry {
 			}
 		}
 		return undefined;
+	}
+
+	// Stupid helpers I had to add because of Handlebars limitations
+
+	get hasGramaticalVariants() {
+		return this.hasWordsByRelation('gramatical variant');
+	}
+
+	get wordsGramaticalVariants() {
+		return this.wordsByRelation('gramatical variant');
+	}
+
+	get hasEnTranslations() {
+		return this.hasWordsByRelation('translation:en');
+	}
+
+	get wordsEnTranslations() {
+		return this.wordsByRelation('translation:en');
+	}
+
+	get hasAntonyms() {
+		return this.hasWordsByRelation('antonyms');
+	}
+
+	get wordsAntonyms() {
+		return this.wordsByRelation('antonyms');
+	}
+
+	get hasSynonyms() {
+		return this.hasWordsByRelation('synonyms');
+	}
+
+	get wordsSynonyms() {
+		return this.wordsByRelation('synonyms');
+	}
+
+	get hasSeeOthers() {
+		return this.hasWordsByRelation('see');
+	}
+
+	get wordsSeeOthers() {
+		return this.wordsByRelation('see');
+	}
+
+	get hasAbbreviations() {
+		return this.hasWordsByRelation('abbreviation');
+	}
+
+	get wordsAbbreviations() {
+		return this.wordsByRelation('abbreviation');
 	}
 }
 

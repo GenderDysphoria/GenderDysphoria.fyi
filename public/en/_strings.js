@@ -11,12 +11,21 @@ module.exports = exports = {
   FOOTER_COPYRIGHT: 'Site text, website code and original graphics are <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed CC BY-NC-SA.</a>',
   FOOTER_COPYRIGHT2: 'and Other Contributors',
 
-  GLOSSARY_READ_MORE: 'Read more',
-  GLOSSARY_GO_TO_GLOSSARY: 'Go to glossary',
-
   TRANS_TWITTER_TOPICS: 'Trans Twitter Topics',
   MISSING_TWEET_FOR: 'Missing tweet for ',
   QUOTED_TWEET_UNAVAILABLE: 'Quoted Tweet Unavailable',
-  TWEET_DATE_FORMAT: 'h:mm aa - EEE, LLL do, yyyy'
+  TWEET_DATE_FORMAT: 'h:mm aa - EEE, LLL do, yyyy',
+
+
+  GLOSSARY_READ_MORE: 'Read more',
+  GLOSSARY_GO_TO_GLOSSARY: 'Go to glossary',
+  GLOSSARY_SUMMARY: 'Summary',
+  GLOSSARY_MEANING: 'Meaning',
+  GLOSSARY_ABBREVIATIONS: 'Abbreviations',
+  GLOSSARY_SYNONYMS: 'synonyms',
+  GLOSSARY_ANTONYMS: 'Antonyms',
+  GLOSSARY_SEE_OTHERS: 'See',
+  GLOSSARY_GRAMATICAL_VARIANTS: 'Gramatical Variants',
+  GLOSSARY_EN_TRANSLATIONS: 'Translations to English',
 };
 
