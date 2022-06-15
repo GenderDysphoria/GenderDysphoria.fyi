@@ -33,6 +33,29 @@ dl.glossary > dt > a.glossary-anchor {
 dl.glossary > dt:hover > a.glossary-anchor {
   visibility: visible;
 }
+dl.glossary span.glossary-class {
+  color: gray;
+  font-weight: normal;
+  font-style: italic;
+}
+
+dl.glossary > dd.glossary-short {
+  border-left: solid 5px $trans-pink;
+  padding-left: 5px;
+}
+dl.glossary > dd.glossary-short > span.glossary-heading,
+dl.glossary > dd.glossary-long {
+  display: none;
+}
+
+dl.glossary ul.variants-list {
+  padding-left: 1em;
+  margin-bottom: 0;
+}
+dl.glossary ul.variants-list > li {
+  list-style-type: none;
+}
+
 
 // Other stuff, mainly tooltips
 @media not print {

@@ -48,9 +48,9 @@ const markdownEngines = {
       permalink: mAnchor.permalink.linkInsideHeader({
         class: 'header-link',
         symbol: '<img src="/images/svg/paragraph.svg">',
-        renderHref: (input) => '#' + slugify(decodeURIComponent(input)),
         ariaHidden: true,
       }),
+      slugify: slugify,
     })
     .use(glossary.markdownit_plugin)
     .use(require('./lib/markdown-raw-html'), { debug: false }),
@@ -331,6 +331,7 @@ class Injectables {
     };
   }
 
+  // Usage {{lang 'MY-STRING'}}
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
@@ -421,6 +422,7 @@ class Injectables {
       if (locale === undefined) {
         console.warn('Locale not found: '+lang);
       }
+
       if (datefmt === undefined || locale === undefined) {
         const options = {
           weekday: 'short',
