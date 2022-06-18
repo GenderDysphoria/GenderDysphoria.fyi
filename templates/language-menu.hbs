@@ -1,5 +1,5 @@
 <div class="dropdown-menu" aria-labelledby="nav-gdb">
   {{#each site.allLangs}}
-    <a href="/{{this}}/" class="{{#is page.lang this}}active {{/is}}dropdown-item">{{lang2 this 'MENU_LANGUAGE_LONG'}}</a>
+    <a href="{{translink this}}" class="{{#is page.lang this}}active {{/is}}dropdown-item">{{lang2 this 'MENU_LANGUAGE_LONG'}}</a>
   {{/each}}
 </div>

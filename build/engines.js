@@ -368,12 +368,16 @@ class Injectables {
       let { resolve: rval, arguments: args } = raw_args.pop();
       args.push(undefined, undefined);
       const lang = args[0];
-      const fallback = args[1];
+      let fallback = args[1];
       const page_url = rval('@root.this.url').trim();
 
       let ans = translationLinksMap[page_url] || {};
       if (lang !== undefined) {
         ans = ans[lang];
+      }
+
+      if (fallback === undefined) {
+        fallback = `/${lang}`;
       }
 
       if (ans === undefined) {
