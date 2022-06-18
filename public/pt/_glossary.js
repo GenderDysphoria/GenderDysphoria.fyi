@@ -2,6 +2,224 @@ module.exports = exports = {
 	glossary_url: '/pt/glossario',
 	lang: 'pt',
 	entries: {
+		'vicariamente': {
+			sortAs: 'vicariamente',
+			title: 'vicariamente',
+			description: ['De forma que é experenciado na imaginação através das ações de outra pessoa'],
+			show: true,
+			words: {
+				'vicariamente': {
+					class: 'advérbio',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				}
+			}
+		},
+		'mecanismo-de-coping': {
+			sortAs: 'mecanismo de coping',
+			title: 'mecanismo de coping',
+			description: ['Estratégias consientes ou inconscientes usadas para reduzir emoções indesejadas. Às vezes traduzido como _mecanismo de enfrentamento_.'],
+			show: true,
+			words: {
+				'mecanismo de coping': {
+					class: 'locução substantiva masculina singular',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'mecanismos de coping': {
+					class: 'locução substantiva masculina plural',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			},
+		},
+		'alosexual': {
+			sortAs: 'alosexual',
+			title: 'alosexual',
+			description: ['Pessoa que sente atração sexual.'],
+			show: true,
+			words: {
+				'alosexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'alosexuais': {
+					class: 'adjetivo plural sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'demisexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'antonym'
+				},
+				'asexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'antonym'
+				},
+			}
+		},
+		'demisexual': {
+			sortAs: 'demisexual',
+			title: 'demisexual',
+			description: ['Pessoa que só sente atração sexual após forte conexão emocional.', 'Demisexual é um asexualidade.'],
+			show: true,
+			words: {
+				'demisexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'demisexuais': {
+					class: 'adjetivo plural sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'alosexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'antonym'
+				},
+				'asexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'see'
+				},
+			}
+		},
+		'asexual': {
+			sortAs: 'asexual',
+			title: 'asexual',
+			description: ['Pessoas que não sentem atração sexual. Aqueles imunes à atratividade sexual alheia.', 'Ser asexual não implica em não gostar de intercurso sexual.'],
+			show: true,
+			words: {
+				'asexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'asexuais': {
+					class: 'adjetivo plural sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'gramatical variant'
+				},
+				'asexualidade': {
+					class: 'substantivo feminino singular',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'alosexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'antonym'
+				},
+				'demisexual': {
+					class: 'adjetivo singular sem gênero',
+					auto_gloss: true,
+					show: true,
+					relation: 'see'
+				},
+			}
+		},
+		'anglofonismo': {
+			sortAs: 'anglofonismo',
+			title: 'anglofonismo',
+			description: ['Diz-se de palavras originárias da língua inglesa. Ex: e-mail, okay, pendrive.'],
+			show: true,
+			words: {
+				'anglofonismo': {
+					class: 'substantivo masculino singular',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			}
+		},
+		'alocishétero': {
+			sortAs: 'alocishétero',
+			title: 'alocishétero',
+			description: ['Pessoa ou coisa simultaneamente alosexual, cisgênera e heterosexual.'],
+			show: true,
+			words: {
+				'alocishétero': {
+					class: 'adjetivo masculino singular',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'alocishétera': {
+					class: 'adjetivo feminino singular',
+					auto_gloss: true,
+					show: true,
+					relation: 'gramatical variant'
+				},
+			}
+		},
+		'GRSM': {
+			sortAs: 'GRSM',
+			title: 'GRSM',
+			description: ['Sigla para _Gender, Romantic and Sexual Minorities_ significando _Minorias de Gênero, Romance e Sexualidade_.'],
+			show: true,
+			words: {
+				'GRSM': {
+					class: 'sigla',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			}
+		},
+		'LGBTQIA+': {
+			sortAs: 'LGBTQIA+',
+			title: 'LGBTQIA+',
+			description: ['Sigla para _Lésbica, Gay, Bissexual, Trans, Queer, Intersexo e Alosexual_.'],
+			show: true,
+			words: {
+				'LGBTQIA+': {
+					class: 'sigla',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			}
+		},
+		'queer': {
+			sortAs: 'queer',
+			title: 'queer',
+			description: ['Anglofonismo dito de pessoa ou coisa não alocishétera. Basicamente um sinônimo mais amplo de gay, LGBTQIA+, ou GRSM.'],
+			show: true,
+			words: {
+				'queer': {
+					class: 'substantivo e adjetivo sem gênero singular',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'queers': {
+					class: 'substantivo e adjetivo sem gênero plural',
+					auto_gloss: true,
+					show: true,
+					relation: 'gramatical variant'
+				}
+			}
+		},
 		'ex.': {
 			sortAs: 'ex',
 			title: 'ex.',
@@ -52,7 +270,7 @@ module.exports = exports = {
 					class: 'substantivo masculino singular',
 					auto_gloss: true,
 					show: true,
-					relation: '='
+					relation: 'gramatical variant'
 				},
 				'homens transgêneros': {
 					class: 'substantivo masculino plural',
@@ -310,6 +528,12 @@ module.exports = exports = {
 					show: true,
 					relation: 'abbreviation',
 				},
+				'cisgênero': {
+					class: 'adjetivo masculino singular',
+					auto_gloss: true,
+					show: true,
+					relation: 'antonym'
+				},
 				'transgender': {
 					class: 'substantivo singular e adjetivo',
 					auto_gloss: true,
@@ -371,6 +595,12 @@ module.exports = exports = {
 					auto_gloss: true,
 					show: true,
 					relation: 'abbreviation',
+				},
+				'transgênero': {
+					class: 'adjetivo masculino singular',
+					auto_gloss: true,
+					show: true,
+					relation: 'antonym'
 				},
 				'cisgender': {
 					class: 'substantivo singular e adjetivo',

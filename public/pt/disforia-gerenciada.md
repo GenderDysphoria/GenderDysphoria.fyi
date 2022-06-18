@@ -19,68 +19,67 @@ tweets:
 
 # Disforia Gerenciada
 
-Growing up in the closet, even when you don't know you're in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives:
+Crescer no armário, ainda quando você não sabe que nele está, torna-se uma existência construída sobre mecanismos de coping propositados para aliviar disforia. Os itens abaixo são formas pelas quais uma pessoa trans pode encontrar para aliviar a disforia que experienciam em suas vidas diárias:
 
-- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare at a guy's butt for hours."
+- Quando um videogame lhe oferece a opção de escolher o seu gênero, você tende a escolher um gênero diferente daquele designado ao nascer. Isso pode ser acompanhado de desculpas para defender tal escolha. "O padrão é homem e eu não me importo.", "Eu não quero ter que olhar para a bunda de um homem por horas."
 
-- A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women).
+- Uma preferência por literatura e filmes com personagens de seu vero gênero, ou com personagens que quebram normas de gênero (ex. Mulan, _Little Women_).
 
-- Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
+- Saídas pornográficas que satisfazem fortes desejos ou sentem mais relacionáveis, tais como atração a porno gay/lésbico, fetiche de noiva, ou sequências de transformação.
 
-- Crossdressing or performing drag.
+- Crossdressing ou fazer drag.
 
-- Finding excuses to cut hair short, or to grow it out.
+- Encontrar desculpas para cortar o cabelo ou deixá-lo crescer.
 
-- Shaving of body hair, or a refusal to shave hair you're expected to.
+- Aparar pelos, ou recusa em remover os pelos que de você são esperados.
 
-- Wearing loose and baggy clothing that hides the shape of your body.
+- Vestir roupas largas e folgadas que escondem o formato do seu corpo.
 
-- Avoiding social gatherings whenever possible, seeking isolation.
+- Evitar reuniões sociais sempre que possível, buscando isolação.
 
-- Becoming intimately educated about some gender-associated topic, such as men's or women's clothing design.
+- Tornar-se intimamente educado sobre sobre algum tópico associado gênero, tal como desenho de roupas de homem ou de mulher.
 
-- Obsessively working out (AFABs).
+- Exercitar-se obsessivamente (em AFABs).
 
-- Helping cis partners to shop in order to live vicariously through their presentation.
+- Ajudar parceires cis a comprar para viver vicariamente pela apresentação delus.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215746083487461379'
   '1215749725456125952'
 ] tweets=meta.tweets className="collapse" }}</div> }!}
 
-Because so much abuse is handed down onto gender non-conforming children, many trans people grow up learning to hide their natural personalities out of sheer necessity. Many trans people speak about having a phase of life where they attempted to "buy-in" on their assigned gender, performing masculinity or femininity to extremes in order to try to "fix" themselves. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
+Porque tanto abuso é aplicado sobre crianças não conformantes de gênero, muitas pessoas trans crescem aprendendo a esconder suas personalidades naturais por pura necessidade. Muitas pessoas trans falam sobre ter uma fase da vida em que elas tentaram "aceitar a fundo" seu gênero designado, performando masculinidade ou feminidade a extremos para parecer em ordem e para tentar se consertarem. Isso leva a uma repressão de tendências que podem mesmo superficialmente parecer tóxicas, mas que simplesmente são os resultados de tentar esconder cada pedaço de seus verdadeiros eu.
 
-- Growing and meticulously grooming facial hair (the so-called "denial beard").
+- Crescer e meticulosamente cuidar da barba (a chamada "barba da negação").
 
-- Taking up makeup artistry in order to perfect a high femme look.
+- Dedicar-se a arte de maquiagem para perfeicionar uma aparência muito feminina (look _high femme_).
 
-- Presenting extremely masculine or hyper feminine.
+- Apresentar-se extremamente másculo ou hiperfeminina.
 
-- Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
+- Evitar quaisquer conversas sobre moda para qualquer gênero. Dissociando-se sempre que conversas ou atividades de moda ocorrem.
 
-- Obsessively working out (AMABs).
+- Exercitar-se obsessivamente (AMABs).
 
-- Assuming a strongly stereotyped gender role in a relationship (e.g. the dutifully modest housewife).
+- Assumir um papel de gênero fortemente estereotipado em um relacionamento (ex. a bela e recatada dona-de-casa)
 
-- Marrying and having kids in anticipation that it will "fix" what's wrong with you.
+- Casar-se e ter filhos em antecipação de que isso "consertará" o que há de errado contigo.
 
-- Buying in to ultra-conservative attitudes towards gender and sexuality.
+- Assumir atitudes ultra-conservadoras quanto a gênero e sexualidade.
 
-- Expressing Homophobia and Transphobia in self defense to ward off suspicion.
+- Expressar homofobia e transfobia em auto defesa para afastar suspeição.
 
-- Aggressively passive engagement in anything connected to one's true gender.
+- Engajamento passivo agressivo em qualquer coisa conectada com seu vero gênero.
 
+Finalmente, outro mecanismo de coping bem comum é encontrar meios de escapar ou engajamento mental para esquecer de seus próprios sentimentos. 
 
-Finally, another very common coping mechanism is to find means of escape or mental engagement in order to forget your own feelings.
+- Intensivamente investir grande quantidade de tempo em hobbies.
 
-- Intensely investing large amounts of time into hobbies.
+- Longas horas gastas no trabalho.
 
-- Long hours spent at work.
+- Consumir mídia (filmes, TV ou livros) de forma incessante (_binging_)
 
-- Chain binging movies, TV shows or books.
+- Gastar todo o tempo livre jogando videogames ou em redes sociais.
 
-- Spending all idle time playing video games or on social media.
+- Obsessivamente limpar seu espaço pessoal.
 
-- Obsessively cleaning one's living space.
-
-- Sleeping. Lots and lots of sleeping.
+- Dormir. Muitas e muitas horas dormindo.
