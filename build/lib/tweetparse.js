@@ -50,11 +50,12 @@ var entityProcessors = {
   user_mentions (users, tweet) {
     users.forEach((userObj) => {
       var regex = new RegExp('@' + userObj.screen_name, 'gi' );
-      tweet.html = tweet.html.replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
+      const mention_html = `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`;
+      tweet.html = tweet.html.replace(regex, mention_html);
       if (tweet.html_i18n !== undefined) {
         const langs = Object.keys(tweet.html_i18n);
         for (const lang of langs) {
-          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(regex, `<a href="https://twitter.com/${userObj.screen_name}" class="mention">@${userObj.screen_name}</a>`);
+          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(regex, mention_html);
         }
       }
     });
@@ -64,11 +65,12 @@ var entityProcessors = {
     urls.forEach(({ url, expanded_url, display_url }) => {
       const isQT = tweet.quoted_status_permalink && url === tweet.quoted_status_permalink.url;
       const className = isQT ? 'quoted-tweet' : 'url';
-      tweet.html = tweet.html.replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+      const fancy_html = `<a href="${expanded_url}" class="${className}">${display_url}</a>`;
+      tweet.html = tweet.html.replace(url, isQT ? '' : fancy_html);
       if (tweet.html_i18n !== undefined) {
         const langs = Object.keys(tweet.html_i18n);
         for (const lang of langs) {
-          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(url, isQT ? '' : `<a href="${expanded_url}" class="${className}">${display_url}</a>`);
+          tweet.html_i18n[lang] = tweet.html_i18n[lang].replace(url, isQT ? '' : fancy_html);
         }
       }
     });

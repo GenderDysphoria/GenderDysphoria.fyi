@@ -1,0 +1,34 @@
+{
+  "output": "public/hu/nyomtathato.md",
+  "sources": [
+    "public/hu/index.md",
+    "public/hu/mi-is-az-a-gender.md",
+    "public/hu/tortenelmi-attekintes.md",
+    "public/hu/euforia.md",
+    "public/hu/testi-diszforia.md",
+    "public/hu/biokemiai-diszforia.md",
+    "public/hu/tarsasagi-diszforia.md",
+    "public/hu/tarsadalmi-diszforia.md",
+    "public/hu/szexualis-diszforia.md",
+    "public/hu/kinezeti-diszforia.md",
+    "public/hu/egzisztencialis-diszforia.md",
+    "public/hu/kezelt-diszforia.md",
+    "public/hu/imposztor-szindroma.md",
+    "public/hu/transz-vagyok.md",
+    "public/hu/klinikai-diagnozisok.md",
+    "public/hu/kezeles.md",
+    "public/hu/okok.md",
+    "public/hu/kromoszomak.md",
+    "public/hu/hormonok.md",
+    "public/hu/masodik-pubertas-masc.md",
+    "public/hu/masodik-pubertas-fem.md",
+    "public/hu/vegszo.md"
+  ],
+  "meta": {
+    "title": "A Gender Diszfória Biblia",
+    "lang": "hu",
+    "description": "Betekintés a nemi diszfória sokféle megnyilvánulási formájába, illetve hogy mit jelent transzneműnek lenni.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

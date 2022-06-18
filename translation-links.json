@@ -108,5 +108,9 @@
 		"en": "/en/printable",
 		"pt": "/pt/imprimivel",
 		"zh": "/zh/printable"
+	},
+	{
+		"en": "/en/glossary",
+		"pt": "/pt/glossario"
 	}
 ]

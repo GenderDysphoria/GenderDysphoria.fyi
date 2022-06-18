@@ -1,0 +1,118 @@
+name: Export PDFs
+
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Get necessary packages for this image
+      - uses: actions/checkout@v3
+      - name: Install necessary packages
+        run: sudo apt-get install graphicsmagick -y
+
+      # Get latest chrome
+      - name: Get Chrome
+        run: |
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install ./google-chrome-stable_current_amd64.deb
+
+      # Check out the code
+      - name: Checkout
+        uses: actions/checkout@v3.0.0
+
+      # Get appropriate nodejs version
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: 'npm'
+
+      # Restore packages and build
+      - name: Restore node_modules cache
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node_modules
+
+      - name: Restore Asset Caches
+        uses: actions/cache@v2
+        with:
+          key: if-cache
+          path: |
+            ./if-cache
+            ./if-cache.json
+            ./twitter-cache.json
+
+      - run: npm ci
+        
+      - name: Run build
+        run: npm run build
+
+      # Create a "dummy" http server inside the container
+      # on the output folder of the build
+      - name: Launch HTTP Server
+        uses: Eun/http-server-action@v1.0.3
+        with:
+          directory: dist
+
+      # Launch a headless chrome instance for exporting
+      - name: (EN) Get PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/en.pdf" \
+          http://127.0.0.1:8080/en/printable/index.html
+          
+      - name: (CN) Get PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/cn.pdf" \
+          http://127.0.0.1:8080/zh/printable/index.html
+          
+      - name: (DE) Get PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/de.pdf" \
+          http://127.0.0.1:8080/de/druckbar/index.html
+
+      - name: (HU) Get PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/hu.pdf" \
+          http://127.0.0.1:8080/hu/nyomtathato/index.html
+          
+      - name: (PL) Get PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/pl.pdf" \
+          http://127.0.0.1:8080/pl/do-druku/index.html
+
+      - name: (ZH) Get PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/zh.pdf" \
+          http://127.0.0.1:8080/zh/printable/index.html
+
+      # Something is coming soon ;)
+#      - name: (FR) Get PDF from HTML
+#        run: |
+#          google-chrome --headless --print-to-pdf-no-header \
+#          --run-all-compositor-stages-before-draw --print-to-pdf="./dist/fr.pdf" \
+#          http://127.0.0.1:8080/fr/a-imprimer/index.html
+        
+      - name: Upload PDF artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: pdfs
+          path: |
+            dist/**/*.pdf

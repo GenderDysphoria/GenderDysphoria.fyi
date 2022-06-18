@@ -73,12 +73,12 @@ Eu, mim mesma, não tenho disforia física quanto a minha voz. Eu na verdade gos
 
 ### "Uma de nós!"
 
-Um fenômeno surpreendente e bem curioso é que pessoas transgêneras <abbr data-title="quem ainda está no armário">armariadas</abbr> tem uma tendência de encontrar umas as outras sem nem perceber o que fizeram. É um padrão engraçado que eu tenho ouvido inúmeras vezes: uma pessoa do grupo de amigos se percebe trans, inicia a transição, e isso inspira outros membros do grupo a também perceberem que são trans e a também saírem do armário. 
+Um fenômeno surpreendente e bem curioso é que pessoas transgêneras armariadas tem uma tendência de encontrar umas as outras sem nem perceber o que fizeram. É um padrão engraçado que eu tenho ouvido inúmeras vezes: uma pessoa do grupo de amigos se percebe trans, inicia a transição, e isso inspira outros membros do grupo a também perceberem que são trans e a também saírem do armário. 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-Pessoas trans subconscientemente tendem a gravitar para amizades entre si. Tando por uma necessidade de pares que pensam e agem similarmente sem julgamentos, e por uma laços de ostracização social. Isso, claramente, não é exclusivo de pessoas trans e ocorre com todos os tipos de pessoas <abbr data-title="sinônimo de LGBT">queer</abbr>, mas a forma que isso tem efeitos de espalhamento é bem poderosa. É bem similar com a forma que um grupo inteiro de amigos se casa e tem filhos em resposta a um dos membros do grupo se casando e tendo filhos.
+Pessoas trans subconscientemente tendem a gravitar para amizades entre si. Tando por uma necessidade de pares que pensam e agem similarmente sem julgamentos, e por uma laços de ostracização social. Isso, claramente, não é exclusivo de pessoas trans e ocorre com todos os tipos de pessoas queer, mas a forma que isso tem efeitos de espalhamento é bem poderosa. É bem similar com a forma que um grupo inteiro de amigos se casa e tem filhos em resposta a um dos membros do grupo se casando e tendo filhos.
 
 Pessoas trans geralmente também continuam a auto-selecionar seus grupos pós-transição, como se simplesmente entendemos uns aos outros melhor que pessoas cis conseguem. Há uma energia que ocorre quando um grupo de pessoas trans se encontra em um lugar, a sala fica carregada de camaradagem e comiseração. Nós temos tanto em comum em nossas histórias, tantas experiências compartilhadas, que, salvo conflitos de personalidade, nós instantaneamente nos juntamos.

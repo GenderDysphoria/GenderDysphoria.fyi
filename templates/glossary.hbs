@@ -1,0 +1,59 @@
+    <dl class="glossary">
+    {{#each (gloss false)}}
+      {{#if this.show}}
+      <dt id="{{this.key}}">{{{nogloss this.title}}}<span class="glossary-class"> - {{this.main_word.class}}</span> <a class="glossary-anchor" href="#{{this.key}}">#</a></dt>
+      {{#with (gloss this.key)}}
+        <dd class="glossary-short"><span class="glossary-heading">{{lang 'GLOSSARY_SUMMARY'}}:</span> {{md true this.short}}</dd>
+        {{#if this.long_description}}
+          <dd class="glossary-long"><span class="glossary-heading">{{lang 'GLOSSARY_MEANING'}}:</span></dd>
+        {{#each this.long_description}}
+          <dd class="glossary-long">{{md true this}}</dd>
+        {{/each}}
+        {{/if}}
+        {{#if this.hasAbbreviations }}
+          <dd class="glossary-variants"><span class="glossary-heading">{{lang 'GLOSSARY_ABBREVIATIONS'}}:</span> <ul class="variants-list">
+            {{#each this.wordsAbbreviations}}
+            <li>{{this.word}} <span class="glossary-class"> - {{this.class}}</span></li>
+            {{/each}}
+          </ul></dd>
+        {{/if}}
+        {{#if this.hasSynonyms }}
+          <dd class="glossary-variants"><span class="glossary-heading">{{lang 'GLOSSARY_SYNONYMS'}}:</span> <ul class="variants-list">
+            {{#each this.wordsSynonyms}}
+            <li>{{this.word}} <span class="glossary-class"> - {{this.class}}</span></li>
+            {{/each}}
+          </ul></dd>
+        {{/if}}
+        {{#if this.hasAntonyms}}
+          <dd class="glossary-variants"><span class="glossary-heading">{{lang 'GLOSSARY_ANTONYMS'}}:</span> <ul class="variants-list">
+            {{#each this.wordsAntonyms}}
+            <li>{{this.word}} <span class="glossary-class"> - {{this.class}}</span></li>
+            {{/each}}
+          </ul></dd>
+        {{/if}}
+        {{#if this.hasSeeOthers}}
+          <dd class="glossary-variants"><span class="glossary-heading">{{lang 'GLOSSARY_SEE_OTHERS'}}:</span> <ul class="variants-list">
+            {{#each this.wordsSeeOthers}}
+            <li>{{this.word}} <span class="glossary-class"> - {{this.class}}</span></li>
+            {{/each}}
+          </ul></dd>
+        {{/if}}
+        {{#if this.hasGramaticalVariants}}
+          <dd class="glossary-variants"><span class="glossary-heading">{{lang 'GLOSSARY_GRAMATICAL_VARIANTS'}}:</span> <ul class="variants-list">
+            <li>{{this.main_word.word}} <span class="glossary-class"> - {{this.main_word.class}}</span></li>
+            {{#each this.wordsGramaticalVariants}}
+            <li>{{this.word}} <span class="glossary-class"> - {{this.class}}</span></li>
+            {{/each}}
+          </ul></dd>
+        {{/if}}
+        {{#if this.hasEnTranslations}}
+          <dd class="glossary-variants"><span class="glossary-heading">{{lang 'GLOSSARY_EN_TRANSLATIONS'}}:</span> <ul class="variants-list">
+            {{#each this.wordsEnTranslations}}
+            <li><span lang="en">{{this.word}}</span> <span class="glossary-class"> - {{this.class}}</span></li>
+            {{/each}}
+          </ul></dd>
+        {{/if}}
+      {{/with}}
+      {{/if}}
+    {{/each}}
+    </dl>
