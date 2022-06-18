@@ -13,7 +13,8 @@ const { stripHtml } = require('string-strip-html');
 const markdownIt = require('markdown-it');
 const i18n = require('./lang');
 
-const mAnchor = require('markdown-it-anchor');
+const mdAnchor = require('markdown-it-anchor');
+const mdFootnote = require('markdown-it-footnote')
 
 const glossary = require('./glossary');
 const assert = require('assert');
@@ -59,8 +60,9 @@ const markdownEngines = {
         rel: 'noopener',
       },
     })
-    .use(mAnchor, {
-      permalink: mAnchor.permalink.linkInsideHeader({
+    .use(mdFootnote)
+    .use(mdAnchor, {
+      permalink: mdAnchor.permalink.linkInsideHeader({
         class: 'header-link',
         symbol: '<img src="/images/svg/paragraph.svg">',
         ariaHidden: true,
