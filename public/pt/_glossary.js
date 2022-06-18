@@ -56,13 +56,13 @@ module.exports = exports = {
 				},
 				'demisexual': {
 					class: 'adjetivo singular sem gênero',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'antonym'
 				},
 				'asexual': {
 					class: 'adjetivo singular sem gênero',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'antonym'
 				},
@@ -88,13 +88,13 @@ module.exports = exports = {
 				},
 				'alosexual': {
 					class: 'adjetivo singular sem gênero',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'antonym'
 				},
 				'asexual': {
 					class: 'adjetivo singular sem gênero',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'see'
 				},
@@ -126,13 +126,13 @@ module.exports = exports = {
 				},
 				'alosexual': {
 					class: 'adjetivo singular sem gênero',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'antonym'
 				},
 				'demisexual': {
 					class: 'adjetivo singular sem gênero',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'see'
 				},
@@ -530,7 +530,7 @@ module.exports = exports = {
 				},
 				'cisgênero': {
 					class: 'adjetivo masculino singular',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'antonym'
 				},
@@ -598,7 +598,7 @@ module.exports = exports = {
 				},
 				'transgênero': {
 					class: 'adjetivo masculino singular',
-					auto_gloss: true,
+					auto_gloss: false,
 					show: true,
 					relation: 'antonym'
 				},
