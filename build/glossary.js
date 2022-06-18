@@ -167,7 +167,7 @@ class Word {
 	_pronunciations = []
 	_show           = false;
 	_auto_gloss     = false;
-	_break_classification = [true, true];
+	_break_classification = undefined;
 
 	constructor(word, src) {
 		if (isNonEmptyString(word)) {
@@ -205,17 +205,21 @@ class Word {
 		this._break_classification = Word.compute_fix_break_classification(this._word);
 	}
 
-	// BUG: supports only checking for '.' (dot) at the end of words
-	// TODO: check for Chinese
 	// 0b00 = 0 = no need for \b
 	// 0b01 = 1 = \b only for after the word
 	// 0b10 = 2 = \b only for before the word
 	// 0b11 = 3 = \b both before and after the word
 	static compute_fix_break_classification(word) {
-		if (word[word.length-1] === '.') {
+		if (word.match(/^\b.*\b$/) !== null) {
+			return 3;
+		}
+		if (word.match(/^\b.*$/) !== null) {
 			return 2;
 		}
-		return 3;
+		if (word.match(/^.*\b$/) !== null) {
+			return 1;
+		}
+		return 0;
 	}
 
 	get word()           { return this._word; }
