@@ -243,6 +243,7 @@ class Entry {
 	_show_in_print = false;
 	_words_by_relation = new Map();
 	_words = new Map();
+	_all_words = new Map();
 
 	constructor(key, src) {
 		if (isNonEmptyString(key)) {
@@ -283,8 +284,13 @@ class Entry {
 				throw new Error(`duplicate word entry: ${word_key}`)
 			}
 
-			this._words.set(word_key, word_obj);
-			this.#add_word_by_relation(word_obj);
+			this._all_words.set(word_key, word_obj);
+			if (word_obj.show || word_obj.auto_gloss) {
+				this._words.set(word_key, word_obj);
+			}
+			if (word_obj.show) {
+				this.#add_word_by_relation(word_obj);
+			}
 		}
 	}
 
@@ -304,6 +310,7 @@ class Entry {
 	get show()          { return this._show; }
 	get show_in_print() { return this._show_in_print; }
 	get words()         { return this._words; }
+	get all_words()         { return this._all_words; }
 
 	get long_description() {
 		return this._description.slice(1);
@@ -406,7 +413,7 @@ class Glossary {
 			} else {
 				this._entries_map.set(key, obj);
 				for (const [word, word_obj] of obj.words) {
-					if (word_obj.relation === '=' || word_obj.relation === 'gramatical variant') {
+					if (word_obj.auto_gloss) {
 						this._words2entry_map.set(word, key);
 						this._words_obj_map.set(word, word_obj);
 						if (this._words_set.has(word)) {

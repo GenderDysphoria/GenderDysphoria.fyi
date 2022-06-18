@@ -1,7 +1,7 @@
     <dl class="glossary">
     {{#each (gloss false)}}
       {{#if this.show}}
-      <dt id="{{this.key}}">{{{nogloss this.title}}}<span class="glossary-class"> - {{this.main_word.class}}</span> <a class="glossary-anchor" href="#{{this.key}}">#</a></dt>
+      <dt id="{{this.key}}">{{{nogloss this.title}}}{{#if this.main_word.class}}<span class="glossary-class"> - {{this.main_word.class}}</span>{{/if}} <a class="glossary-anchor" href="#{{this.key}}">#</a></dt>
       {{#with (gloss this.key)}}
         <dd class="glossary-short"><span class="glossary-heading">{{lang 'GLOSSARY_SUMMARY'}}:</span> {{md true this.short}}</dd>
         {{#if this.long_description}}
