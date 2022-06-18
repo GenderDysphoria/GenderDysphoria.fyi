@@ -12,6 +12,7 @@ const fsp = require('node:fs/promises');
 const fs = require('fs-extra');
 const glob = require('./lib/glob');
 const log = require('fancy-log');
+const chalk = require('chalk');
 const Files = require('./files');
 const Promise = require('bluebird');
 const i18n = require('./lang');
@@ -166,7 +167,7 @@ class Word {
 	_pronunciations = []
 	_show           = false;
 	_auto_gloss     = false;
-	_break_classification = [true, true];
+	_break_classification = undefined;
 
 	constructor(word, src) {
 		if (isNonEmptyString(word)) {
@@ -204,17 +205,21 @@ class Word {
 		this._break_classification = Word.compute_fix_break_classification(this._word);
 	}
 
-	// BUG: supports only checking for '.' (dot) at the end of words
-	// TODO: check for Chinese
 	// 0b00 = 0 = no need for \b
 	// 0b01 = 1 = \b only for after the word
 	// 0b10 = 2 = \b only for before the word
 	// 0b11 = 3 = \b both before and after the word
 	static compute_fix_break_classification(word) {
-		if (word[word.length-1] === '.') {
+		if (word.match(/^\b.*\b$/) !== null) {
+			return 3;
+		}
+		if (word.match(/^\b.*$/) !== null) {
 			return 2;
 		}
-		return 3;
+		if (word.match(/^.*\b$/) !== null) {
+			return 1;
+		}
+		return 0;
 	}
 
 	get word()           { return this._word; }
@@ -238,6 +243,7 @@ class Entry {
 	_show_in_print = false;
 	_words_by_relation = new Map();
 	_words = new Map();
+	_all_words = new Map();
 
 	constructor(key, src) {
 		if (isNonEmptyString(key)) {
@@ -278,8 +284,13 @@ class Entry {
 				throw new Error(`duplicate word entry: ${word_key}`)
 			}
 
-			this._words.set(word_key, word_obj);
-			this.#add_word_by_relation(word_obj);
+			this._all_words.set(word_key, word_obj);
+			if (word_obj.show || word_obj.auto_gloss) {
+				this._words.set(word_key, word_obj);
+			}
+			if (word_obj.show) {
+				this.#add_word_by_relation(word_obj);
+			}
 		}
 	}
 
@@ -299,6 +310,7 @@ class Entry {
 	get show()          { return this._show; }
 	get show_in_print() { return this._show_in_print; }
 	get words()         { return this._words; }
+	get all_words()         { return this._all_words; }
 
 	get long_description() {
 		return this._description.slice(1);
@@ -341,19 +353,19 @@ class Entry {
 	}
 
 	get hasAntonyms() {
-		return this.hasWordsByRelation('antonyms');
+		return this.hasWordsByRelation('antonym');
 	}
 
 	get wordsAntonyms() {
-		return this.wordsByRelation('antonyms');
+		return this.wordsByRelation('antonym');
 	}
 
 	get hasSynonyms() {
-		return this.hasWordsByRelation('synonyms');
+		return this.hasWordsByRelation('synonym');
 	}
 
 	get wordsSynonyms() {
-		return this.wordsByRelation('synonyms');
+		return this.wordsByRelation('synonym');
 	}
 
 	get hasSeeOthers() {
@@ -401,15 +413,17 @@ class Glossary {
 			} else {
 				this._entries_map.set(key, obj);
 				for (const [word, word_obj] of obj.words) {
-					this._words2entry_map.set(word, key);
-					this._words_obj_map.set(word, word_obj);
-					if (this._words_set.has(word)) {
-						throw new Error(`duplicate word: ${word}`)
-					} else {
-						this._words_set.add(word);
-					}
 					if (word_obj.auto_gloss) {
-						this._auto_gloss_words_set.add(word);
+						this._words2entry_map.set(word, key);
+						this._words_obj_map.set(word, word_obj);
+						if (this._words_set.has(word)) {
+							throw new Error(`duplicate word: ${word}`)
+						} else {
+							this._words_set.add(word);
+						}
+						if (word_obj.auto_gloss) {
+							this._auto_gloss_words_set.add(word);
+						}
 					}
 				}
 			}
@@ -479,7 +493,7 @@ class Glossary {
 			return this._regexp_words_cache;
 		}
 
-		const re = new RegExp(`(?:${re_core.join('|')})`, 'g');
+		const re = new RegExp(`(?:${re_core.join('|')})`, 'gi');
 
 		this._regexp_words_cache = re;
 		return re;
@@ -494,15 +508,27 @@ class Glossary {
 		return ans;
 	}
 
-	getEntryAndWordObj(word_str) {
+	#getEntryAndWordObjInner(word_str) {
 		try {
 			const entry_str = this._words2entry_map.get(word_str);
 			const entry_obj = this._entries_map.get(entry_str);
 			const word_obj = entry_obj.words.get(word_str);
 			return [entry_obj, word_obj];
 		} catch (e) {
-			throw new Error(`Word not found: '${word_str}'`)
+			return [undefined, undefined];
 		}
+	}
+
+	getEntryAndWordObj(word_str) {
+		let ans = this.#getEntryAndWordObjInner(word_str);
+		if (ans[0] !== undefined && ans[1] !== undefined) {
+			return ans;
+		}
+		ans = this.#getEntryAndWordObjInner(word_str.toLowerCase());
+		if (ans[0] !== undefined && ans[1] !== undefined) {
+			return ans;
+		}
+		throw new Error(`Word not found: '${word_str}'`)
 	}
 
 	render_block_tokens(word_str, next_word, full) {
@@ -668,18 +694,25 @@ function markdownit_plugin (md) {
 					} else {
 						// Word to gloss, remove marker and gloss the word
 						node_txt = node_txt.substr(1, node_txt.length);
-						const pseudo_tokens = gloss.render_block_tokens(node_txt, next_node_txt, true);
-						const new_tokens = tokensMergeText(unPseudoTokens(pseudo_tokens, state.Token));
+						try {
+							const pseudo_tokens = gloss.render_block_tokens(node_txt, next_node_txt, true);
+							const new_tokens = tokensMergeText(unPseudoTokens(pseudo_tokens, state.Token));
 
-						// Parse text tokens to make sure formatting still works
-						for (let i = 0; i < new_tokens.length; i++) {
-							let token = new_tokens[i];
-							if (token.type === 'text') {
-								const parsed = md.parseInline(token.content, env2);
-								new_nodes.push(...parsed[0].children);
-							} else {
-								new_nodes.push(token);
+							// Parse text tokens to make sure formatting still works
+							for (let i = 0; i < new_tokens.length; i++) {
+								let token = new_tokens[i];
+								if (token.type === 'text') {
+									const parsed = md.parseInline(token.content, env2);
+									new_nodes.push(...parsed[0].children);
+								} else {
+									new_nodes.push(token);
+								}
 							}
+						} catch (e) {
+							log.error(chalk.red(e));
+							const token_txt = new state.Token('text', '', 0);
+							token_txt.content = node_txt;
+							new_nodes.push(token_txt);
 						}
 					}
 				}
