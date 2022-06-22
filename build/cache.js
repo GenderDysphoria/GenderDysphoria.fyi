@@ -7,6 +7,7 @@ const { resolve, readFile } = require('./resolve');
 const { hasOwn, isFunction } = require('./lib/util');
 const revHash = require('rev-hash');
 const revPath = require('rev-path');
+const log = require('fancy-log');
 
 const CACHE = 'if-cache';
 const MANIFEST = 'if-cache.json';
@@ -72,14 +73,12 @@ module.exports = exports = class Manifest {
 
   async get (task) {
     if (task === undefined || task === null) {
-      console.error(task);
+      log.error(task);
       throw new Error('Task action is undefined or null.');
-      return;
     }
     if (task.input === undefined || task.input === null) {
-      console.error(task);
+      log.error(task);
       throw new Error('Task action is missing input. (tip: remove `twitter-cache.json` and run `gulp` again)');
-      return;
     }
 
     const hash = this.hash(task);
