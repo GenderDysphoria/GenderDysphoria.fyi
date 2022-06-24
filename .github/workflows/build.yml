@@ -12,6 +12,11 @@ jobs:
       - name: Install GraphicsMagick
         run: sudo apt install graphicsmagick
 
+      - name: Install Chrome
+        run: |
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install ./google-chrome-stable_current_amd64.deb
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
@@ -43,28 +48,6 @@ jobs:
 
       - name: Build site
         run: npm run build
-
-      # - name: Upload Site Build
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: site-html
-      #     path: |
-      #       dist
-
-
-  # render-pdfs:
-  #   runs-on: ubuntu-latest
-  #   needs: build-site
-  #   steps:
-      - name: Install Chrome
-        run: |
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo apt install ./google-chrome-stable_current_amd64.deb
-
-      # - name: Download site build
-      #   uses: actions/download-artifact@v3
-      #   with:
-      #     name: site-html
 
       - name: (EN) Generate PDF from HTML
         run: |
@@ -102,9 +85,13 @@ jobs:
           --run-all-compositor-stages-before-draw --print-to-pdf="${{ github.workspace }}/dist/fr.pdf" \
           http://127.0.0.1:8080/fr/a-imprimer/index.html
 
+      - name: List dist
+        run: ls -la ${{ github.workspace }}/dist
+
       - name: Upload PDFs
         uses: actions/upload-artifact@v3
         with:
           name: site-pdfs
           path: |
+            ${{ github.workspace }}/dist
             **.pdf
