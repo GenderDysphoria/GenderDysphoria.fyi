@@ -107,4 +107,4 @@ jobs:
         with:
           name: site-pdfs
           path: |
-            dist/**.pdf
+            **.pdf

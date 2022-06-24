@@ -15,8 +15,8 @@ const REV_MANIFEST = 'rev-manifest.json';
 
 module.exports = exports = class Manifest {
 
-  constructor ({ time = true, inputRev = true, prod = false, writeCount = 100, writeInterval = 10000 }) {
-    this.compareBy = { time, inputRev };
+  constructor ({ /* time = true, */ inputRev = true, prod = false, writeCount = 100, writeInterval = 10000 }) {
+    this.compareBy = { inputRev };
     this.manifest = {};
     this.rev = memoizeSync(revHash);
     this.stat = memoizeAsync((f) =>
@@ -264,7 +264,7 @@ module.exports = exports = class Manifest {
 
 
   async save () {
-    const revManifest = this.isProd && await fs.readJson(resolve(REV_MANIFEST))
+    const revManifest = false && this.isProd && await fs.readJson(resolve(REV_MANIFEST))
       .catch(() => ({}))
       .then((old) => ({ ...old, ...this.revManifest }));
 
