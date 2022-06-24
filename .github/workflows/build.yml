@@ -93,5 +93,4 @@ jobs:
         with:
           name: site-pdfs
           path: |
-            ${{ github.workspace }}/dist
-            **.pdf
+            ${{ github.workspace }}/dist/**.pdf
