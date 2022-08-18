@@ -29,25 +29,25 @@ tweets:
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud".
+> [Síndrome do Impostor](https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_impostor) (também conhecido como fenômeno do impostor, impostorismo, s;indrome da fraude ou experiência de impostor) é um padrão psicológico no qual um indivíduo duvida de suas conquistas e tem um medo internalizado persistente de ser exposto como "fraude".
 
-Society in general is very good about making trans people doubt themselves. We receive tons and tons of subliminal messages through out our lives saying that being trans isn't normal and that anyone who is has to be exceptionally special. Cis media's obsession with the "born in the wrong body" narrative has led to a lot of false information being internalized by trans youth. Many, *many* trans kids grow up thinking they aren't actually trans because they don't *know* that they are a different gender, they just wish they were. Many non-binary children grow up knowing something is wrong, but not believing they're trans because they don't feel like a binary trans person.
+A sociedade e geral é muito boa em fazer as pessoas trans duvidarem de si mesmas. Nós recebemos toneladas e toneladas de mensagens subliminares ao longo de nossas vidas dizendo que ser trans não é normal e que qualquer pessoa trans tem que ser um caso muito excepcional. A obsessão da mídia cis com a narrativa de "nascido no corpo errado" nos tem levado a muitas falsas informações sendo internalizadas pela juventude trans. Muitas, *muitas*  crianças trans crescem pensando que elas não são trans porque elas não *sabem* que elas são um gênero diferente, elas apenas desejam que fossem. Muitas crianças não-binárias crescem sabendo que algo está errado, mas não acreditando que são trans porque elas não se sentem como uma pessoa binariamente trans.
 
-On top of this, messages saying that trans people hate their bodies or hate their genitalia have polluted the awareness landscape, so that many people who either do not experience physical dysphoria (or simply think theirs isn't very strong) go around believing they aren't "trans enough".
+Além disso, mensagens dizendo que pessoas trans odeiam seus corpos ou seus genitais tem poluído o cenário da conscientização, tanto que muitas pessoas que não experiênciam disforia física (ou simplesmente acham que a sua não é forte o suficiente ) vivem acreditando que simplesmente não são "trans o bastante".
 
-***[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
+***[SIM, VOCÊ É TRANS O BASTANTE](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-On top of this, the constant messaging from transphobic media that trans people are not actually their true genders and are simply trying to trick people into believing otherwise gets internalized like a virus. This creates a lot of self doubt about the authenticity of one's gender, especially in the face of so many gender stereotypes. Seeing oneself fail to meet those stereotypes can make it very easy to convince yourself that you do not live up to your own gender (note: cis men and women get this too, far too often).
+Além disso, são internalizadas como um vírus as constantes mensagens vindas de mídia transfóbica dizendo que pessoas trans não sáo seus verdadeiros gêneros ou que estão simplesmente tentando enganar os outros em acreditar no contrário. Isso cria muita autodúvida sobre a autenticidade de seu gênero, especialmente em face de tantos esteriótipos de gênero. Ver-se falhar em atingir tais esteriótipos pode facilitar muito convencer-se de que você não é fiel ao seu próprio gênero (nota: homens e muheres cis também sentem isso com muita frequência).
 
-Furthermore, due to a history of transphobic abuse, many trans people suffer from damaged self-esteems, and often already have difficulty with self doubts. Gender Dysphoria also causes depression, which further contributes to and reinforces those doubts. This all leads into a massive cluster of self invalidation that can lead someone to struggle over and over again to accept their own gender identity.
+Ademais, devido a uma história de abuso transfóbico, muitas pessoas trans sofrem de auto-estima danificada, e frequentemente já tem dificuldade com auto dúvidas. Disforia de Gênero também causa depressão, o que contribui ainda mais para e reforça essas dúvidas. Isso tudo leva a um massivo aglomerado de auto invalidação que pode levar alguém a lutar de novo e de novo a aceitar sua própria identidade de gênero.
 
-But here's the thing... only trans people are worried about if they are actually transgender! A cisgender person does not have this obsession with their identity, they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
+Mas aqui está a coisa... apenas pessoas trans estão preocupadas se elas são realmente transgêneras! Uma pessoa cis não tem essa obsessão com sua identidade, ela pensa nisso, ela processa isso, e ela vai fazer outra coisa. Se você vive retornando a esses pensamentos de novo e de novo, isso é o seu cérebro te falando que você fez uma curva errada.
 
-The world is *full* of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate trans people and keep us from self-actualizing.
+O mundo é *cheio* de influências colocadas para nos encher de dúvidas e previnir que quebremos a ordem social estabelecida. Esses são alguns dos mesmos sistemas e ideologias que buscam invalidar pessoas trans e previnir que nos auto-realizemos.
 
 ### Autogynephilia
 
