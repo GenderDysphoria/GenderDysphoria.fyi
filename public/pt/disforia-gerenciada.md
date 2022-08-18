@@ -27,7 +27,7 @@ Crescer no armário, ainda quando você não sabe que nele está, torna-se uma e
 
 - Saídas pornográficas que satisfazem fortes desejos ou sentem mais relacionáveis, tais como atração a porno gay/lésbico, fetiche de noiva, ou sequências de transformação.
 
-- Crossdressing ou fazer drag.
+- Crossdressing (travestir-se) ou fazer drag.
 
 - Encontrar desculpas para cortar o cabelo ou deixá-lo crescer.
 
@@ -70,7 +70,7 @@ Porque tanto abuso é aplicado sobre crianças não conformantes de gênero, mui
 
 - Engajamento passivo agressivo em qualquer coisa conectada com seu vero gênero.
 
-Finalmente, outro mecanismo de coping bem comum é encontrar meios de escapar ou engajamento mental para esquecer de seus próprios sentimentos. 
+Finalmente, outro mecanismo de coping bem comum é encontrar meios de escapar ou engajamento mental para esquecer de seus próprios sentimentos.
 
 - Intensivamente investir grande quantidade de tempo em hobbies.
 
