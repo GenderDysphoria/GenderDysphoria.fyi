@@ -33,7 +33,7 @@ tweets:
 
 A sociedade e geral é muito boa em fazer as pessoas trans duvidarem de si mesmas. Nós recebemos toneladas e toneladas de mensagens subliminares ao longo de nossas vidas dizendo que ser trans não é normal e que qualquer pessoa trans tem que ser um caso muito excepcional. A obsessão da mídia cis com a narrativa de "nascido no corpo errado" nos tem levado a muitas falsas informações sendo internalizadas pela juventude trans. Muitas, *muitas*  crianças trans crescem pensando que elas não são trans porque elas não *sabem* que elas são um gênero diferente, elas apenas desejam que fossem. Muitas crianças não-binárias crescem sabendo que algo está errado, mas não acreditando que são trans porque elas não se sentem como uma pessoa binariamente trans.
 
-Além disso, mensagens dizendo que pessoas trans odeiam seus corpos ou seus genitais tem poluído o cenário da conscientização, tanto que muitas pessoas que não experiênciam disforia física (ou simplesmente acham que a sua não é forte o suficiente ) vivem acreditando que simplesmente não são "trans o bastante".
+Além disso, mensagens dizendo que pessoas trans odeiam seus corpos ou seus genitais tem poluído o cenário da conscientização, tanto que muitas pessoas que não experienciam disforia física (ou simplesmente acham que a sua não é forte o suficiente ) vivem acreditando que simplesmente não são "trans o bastante".
 
 ***[SIM, VOCÊ É TRANS O BASTANTE](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
 
@@ -41,15 +41,15 @@ Além disso, mensagens dizendo que pessoas trans odeiam seus corpos ou seus geni
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Além disso, são internalizadas como um vírus as constantes mensagens vindas de mídia transfóbica dizendo que pessoas trans não sáo seus verdadeiros gêneros ou que estão simplesmente tentando enganar os outros em acreditar no contrário. Isso cria muita autodúvida sobre a autenticidade de seu gênero, especialmente em face de tantos esteriótipos de gênero. Ver-se falhar em atingir tais esteriótipos pode facilitar muito convencer-se de que você não é fiel ao seu próprio gênero (nota: homens e muheres cis também sentem isso com muita frequência).
+Além disso, são internalizadas como um vírus as constantes mensagens vindas de mídia transfóbica dizendo que pessoas trans não sáo seus verdadeiros gêneros ou que estão simplesmente tentando enganar os outros em acreditar no contrário. Isso cria muita autodúvida sobre a autenticidade de seu gênero, especialmente em face de tantos esteriótipos de gênero. Ver-se falhar em atingir tais esteriótipos pode facilitar muito convencer-se de que você não é fiel ao seu próprio gênero (nota: homens e mulheres cis também sentem isso com muita frequência).
 
 Ademais, devido a uma história de abuso transfóbico, muitas pessoas trans sofrem de auto-estima danificada, e frequentemente já tem dificuldade com auto dúvidas. Disforia de Gênero também causa depressão, o que contribui ainda mais para e reforça essas dúvidas. Isso tudo leva a um massivo aglomerado de auto invalidação que pode levar alguém a lutar de novo e de novo a aceitar sua própria identidade de gênero.
 
 Mas aqui está a coisa... apenas pessoas trans estão preocupadas se elas são realmente transgêneras! Uma pessoa cis não tem essa obsessão com sua identidade, ela pensa nisso, ela processa isso, e ela vai fazer outra coisa. Se você vive retornando a esses pensamentos de novo e de novo, isso é o seu cérebro te falando que você fez uma curva errada.
 
-O mundo é *cheio* de influências colocadas para nos encher de dúvidas e previnir que quebremos a ordem social estabelecida. Esses são alguns dos mesmos sistemas e ideologias que buscam invalidar pessoas trans e previnir que nos auto-realizemos.
+O mundo é *cheio* de influências colocadas para nos encher de dúvidas e prevenir que quebremos a ordem social estabelecida. Esses são alguns dos mesmos sistemas e ideologias que buscam invalidar pessoas trans e prevenir que nos auto-realizemos.
 
-### Autogynephilia
+### Autoginefilia
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1153300365355307008'
@@ -60,54 +60,52 @@ O mundo é *cheio* de influências colocadas para nos encher de dúvidas e previ
   '1153300374133981186'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-This pattern was strongly reinforced during the late 1980s when the Autogynephelia (AGP) theory of Ray Blanchard gained a lot of traction as trans awareness was just starting to escalate. AGP is a pseudo-scientific explanation intended to "explain" the source of trans women's identities using [paraphilias](https://en.wikipedia.org/wiki/Paraphilia). Blanchard separated trans women according to if they were attracted to men or to women, while simultaneously invalidating their womanhood. His work completely ignored transgender men, and he dismisses non-binary identities outright.
+Esse padrão foi reforçado durante o fim dos anos 1980 quando a Teoria da Autoginefilia (AGP) fo Ray Blanchard ganhou muita tração quando a conscientização trans estava começando a crescer. AGP é uma explicação pseudocientífica cuja intenção era "explicar" a fonte das identidades das mulheres trans usando [parafilias](https://en.wikipedia.org/wiki/Paraphilia).  Blanchard separou as mulheres trans de acordo com se eram atraídas a homens ou mulheres e simultaneamente invalidando as mulheridades delas. Seu trabalho ignorou completamente homens trans, e ele recusou inteiramente as identidade não-binárias.
 
-Autogynephelia attests that straight trans women are actually just gay men who seek a feminine appearance to draw desire from straight men, and that trans lesbians are actually straight men who have become so obsessed with their desire for women that they wish to become a woman in order to gain sexual gratification from themselves.
+A teoria do Blanchard dependia muito na forma em que apresentar-se como mulher geralmente resultava em excitação em mulheres que estavam começando suas transições. Veja bem, a maior parte de suas sujeitas de estudo eram pacientes que estavam tentando procurar terapia hormonal pela primeira vez, e como tal ainda sentiam muita novidade em se apresentarem como mulheres.
 
-Blanchard's theory largely hinged on the way that presenting feminine often resulted in sexual arousal within newly transitioning women. You see, most of his study subjects were patients who were trying to seek hormone therapy for the first time, and as such were still very new to presenting female.
+Sim, isso buga a minha mente mas essa era considerada uma teoria de psicologia válida por anos. Ela até aparecia em livros-textos universitários. Os estudos de pesquisa de Blanchard não tinham o rigor científico e seus dados era extremamente falhos (ele manipulou suas pacientes, e simplesmente jogou fora quaisquer dados que não se encaixavam em sua hipótese). Muito de suas teorias são baseadas em visões misoginísticas  da mulheridade, e o pesquisador nunca incluiu mulheres cis em seus estudos para funcionar como grupo de controle. Você pode ler mais sobre quão falha era essa teoria no excelente ensaio  [The Case Against Autogynephilia](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf) (O Argumento Contra Autoginefilia) da Julia Serano.
 
-Yes, it boggles the mind, but this was actually considered a valid theory of psychology for years. It even appeared in college textbooks. Blanchard's research studies did not meet scientific rigor, and his data was found to be extremely flawed (he manipulated his patients, and simply just threw out any data that didn't fit his hypothesis). A lot of his theories are based in misogynistic views of womanhood, and the man never actually involved any cisgender women in his study to function as a control group. You can read more about how flawed the theory is in Julia Serano's excellent essay [The Case Against Autogynephilia](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf).
+AGP foi meticulosamente refutada pela psicologia moderna no fim dos anos 2000, mas o dano já estava feito. Nos olhos do público, mulheres trans eram todas fetichistas pervertidas. Retratos midiáticos de mulheres trans espelhavam essa atitude, espalhando ainda mais a imagem negativa na consciência pública.
 
-AGP had been thoroughly dismissed by modern psychology by the late 2000s, but the damage has been done. In the public's eye, trans women were all perverted fetishists. Media portrayals of trans women mirrored this attitude, further spreading negative imagery into the public consciousness.
+Indivíduas transfemininas então internalizam essas mensagens e chegam a conclusão de que elas não são realmente transgêneras, apenas fetichistas. Isso aconteceu comigo e certamente aconteceu com quase toda mulher trans da geração millennial (nascidos entre 1981 e 1996) que eu conheço que se descobriram na adolescência.
 
-Transfeminine individuals then internalize these messages, and come to the conclusion that they are not actually transgender, just fetishists. It happened to me, it's happened to nearly every millennial trans woman I know who figured themselves out as a teen.
+Você não uma fetichista, o sentimento que você tem em pensar sobre si mesma como uma mulher é euforia de gênero.
 
-You are not a fetishist, the feeling you get from thinking of yourself as a woman is gender euphoria.
+### Opressão patriarcal
 
-### Patriarchal Oppression
+Uma fonte comum de invalidação para AFABs é a fusão de gênero com a opressão sistêmica das mulheres, particularmente entre pessoas não-binárias sem transição médica. A mensagem "você não quer ser mulher só por como as mulheres são tratadas" é ouvida com muita frequência e ela pode infestar profundamente o seu subconsciente ao ponto de autodúvida. Mas isso não faz muito sentido, porque, se você é AFAB e uma mulher, isso te faz transgênere. E, na média, a sociedade trata pessoas trans pior do que mulheres. Então transicionar para escapar de opressão sistêmica é um conceito meio burro (e eu pessoalmente nunca encontrei uma pessoa trans que tenha feito isso).
 
-A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically-transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self doubt.  But this doesn't make much sense, because if you're AFAB and not a woman, that makes you transgender.  And on average, society treats transgender folks worse than women. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a trans person who has done this).
+A mensagem das Feministas Radicais de abandonar os papéis de gênero femininos também pode dificultar o entendimento de seus próprios sentimentos. "Eu sou realmente não-binárie ou eu sou apenas uma feminista?" "Eu sou realmente homem ou sou apenas uma lésbica muito _butch_ (masculina)?". Por isso, eu encorajo que você fale com feministas mulheres cis, especialmente lésbicas. Elas reclamarão dos sistemas de opressão e do patriarcado, mas os problemas são todos externos e elas *querem ser mulheres*. Mesmo lésbicas bem _butch_ querem ser mulheres, apenas de uma forma diferente da feminidade _mainstream_ (típica).
 
-Radical Feminism's messaging of abandoning female gender roles can also make parsing your own feelings harder. "Am I actually non-binary, or am I just a feminist?" "Am I actually a man, or am I just a very butch lesbian?". For this, I encourage you to talk to cis woman feminists, especially lesbians. They'll complain about systems of oppression and the patriarchy, but the problems are all external, and they *want to be women*. Even very butch lesbians want to be women, just in a different way from mainstream femininity.
+Então você tem o problema de pessoas acreditando que ser não-binárie é ser andrógene e que ser andrógene é ser menos feminina. enbies femininas são válidas! É okay mesmo se você não quer remover seus peitos. É okay mesmo se gostar de suas curvas. É okay mesmo se você não se importa em ser referide por "ela". Isso não lhe faz menos transgênere.
 
-Then you have the problem of people believing that to be non-binary is to be androgynous, and to be androgynous is to be less feminine. Feminine enbies are valid! It is okay if you do not want to remove your breasts. It is okay if you enjoy your curves. It is okay if you do not mind being called "she" and "her". That does not make you any less transgender.
+Se você não se sente uma mulher binária, então você não é uma mulher binária. Mulheres cis não experienciam esse distanciamento/desconexão.
 
-If you feel like you are not a binary woman, than you are not a binary woman. Cis women do not experience that detachment.
+### Masculinidade Tóxica
 
-### Toxic Masculinity
+Crianças designas do gênero masculino crescem em um ambiente encharcado de mensagens do que é "ser um homem". Há tão poucos exemplos de positividade masculinidade na mídia popular, e enbies AMAB masculinos também são tão comumente apagados na representação trans, que ser um homem genderqueer pode lhe fazer sentir muita solidão. enbies AMAB são frequentemente agrupados com homens gay cis ou tratados como mulheres trans.
 
-Male-assigned kids grow up positively drenched in messaging of what it is to "be a man". There are so few examples of positive masculinity in popular media, and AMAB Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. AMAB Enbies are often either grouped in with gay cis men or treated like trans women.
+Você pode ser apenas genderqueer! Sua identidade é válida!
 
-You can just be genderqueer! Your identity is valid!
+### Transmedicalismo
 
-### Transmedicalism
+Essa atinge *todo mundo*. Transmedicalismo (também chamada de _truetrans_ em inglês) é uma ideologia transgênera derivada da escala Harry Benjamin (níveis 5 e 6). Ela busca reforçar as regras pré-WPATH, exigindo intensa disforia física, demandando transição médica, e geralmente invalidando todas as identidades não-bináries. Em seu núcleo, transmedicalismo é um conceito supremacista, elevando as pessoas binárias trans acima das necessidades de qualquer outra identidade de gênero e empurram contra a expansão da identidade trans. Eles querem ainda mais porteiramento (_gatekeeping_) do que já temos hoje, recriminam contra enbies usando o rótulo transgênero e prefeririam ver menos pessoas recebendo tratamento para suas disforias de gênero.
 
-This one hits *everybody*. Transmedicalism (aka Truetrans) is a transgender ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all non-binary identities. At its core, transmedicalism is a supremacist concept, elevating binary trans people above the needs of any other gender identity, and a push back against the expansion of the transgender identity. They wish for more gatekeeping than we have today, rail against enbies using the transgender label, and would prefer to see fewer people receive treatment for their gender dysphoria.
+Sucintamente, muitos transmedicalistas odeiam a que nova geração "tem tudo tão fácil", apesar do fato de que muito de suas fileiras são dessa geração. Essa ideologia começou entre anciões transgêneros descontentes, mas tem desde então se espalhado para outros indivíduos binários, particularmente entre jovens homens trans.
 
-To put it succinctly, many transmedicalists hate that the newer generation "has it so easy," despite the fact that many of their ranks are part of that generation. This ideology started among disgruntled trans elders, but has since spread to other binary individuals, particularly among young trans men.
+Se a primeira exposição de uma pessoa pessoa à transgeneridade é transmedicalista, isso pode severamente atrasar sua própria auto-aceitação e empurrá-los ainda mais fundo no armário. Transmedicalistas são bem conhecidos por realmente dizer para as pessoas "Não, você não é trans.".
 
-If a trans person's first exposure to transness is a transmedicalist, this can severely set back their own self-acceptance and push them even further into the closet. Transmeds are well known to actually tell people "No, you are not trans."
+**Não acredite nessas mentiras.** Elas são técnicas de intimidação e bullying explicitamente desenhadas para gaslampiar-te (_gaslight you_, isto é, manipular alguém para que esse alguém questione sua própria memória, percepção e sanidade) e repudiar/descartar a dor das pessoas para auto gratificação deles.
 
-**Do not believe these lies.** They are bully tactics explicitly designed to gaslight and dismiss people's pain for self gratification.
+### Feminismo Reacionário Trans-Exclusionário (TERFs) / Movimento Crítico de Gênero (GC) / Essencialismo de Gênero
 
-### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism
+[Essencialismo de Gênero](https://en.wikipedia.org/wiki/Gender_essentialism) é a crença de que há atributos inatos a existência de uma pessoa que são derivados baseando-se em quais órgão sexuais a pessoa com. A ideologia TERF e GC nasceu do movimento de separatismo lésbico da segunda onda do feminismo e totalmente nega a existência de biologia transgênera e identidades não-binárias. Esse movimento foi majoritariamente tomado por reacionários de direita, racistas e homofóbicos, e agora está sendo apoiado por organizações cristãs evangélicas.
 
-[Gender Essentialism](https://en.wikipedia.org/wiki/Gender_essentialism) is the belief that there are an innate attributes to a person's existence that are derived based on what sex organs the person is born with. TERF and GC ideology was born out of the lesbian separatist movement of second wave feminism and fully denies the existence of transgender biology and non-binary identities. The movement has been largely overtaken by right-wing reactionaries, racists, and homophobes, and is now being bolstered by evangelical Christian organizations.
+Essas pessoas não vão parar em nada para invalidar sua existência. Não gaste tempo com eles.
 
-These people will stop at nothing to invalidate your existence. Do not give them the time of day.
+### Abolição de Gênero / Pós-generismo
 
-### Gender Abolitionism / Postgenderism
+[Pós-generismo](https://en.wikipedia.org/wiki/Postgenderism) é a filosofia [transhumanista](https://en.wikipedia.org/wiki/Transhumanism) originária no feminismo radical que afirma que gênero causa mais mal do que bem e busca erradicá-lo de nossa sociedade. GAs (Abolicionistas de Gênero) acreditam que gênero é inteiramente uma construção social e que qualquer um que se sente fortemente conectado ao binarismo de gênero ou está nefastamente propagando esteriótipos de gênero ou está ignorantemente seguindo sua doutrinação sistêmica.
 
-[Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. GAs believe that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination.
-
-GAs do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it. They're functionally the extreme leftist version of the Gender Critical movement.
+GAs não acreditam na existência de disforia de gênero e tentarão invalidar aqueles que a experienciam. Elas são funcionalmente a versão extrema-esquerda do Movimento Critico de Gênero.
