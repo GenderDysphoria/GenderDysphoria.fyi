@@ -1,5 +1,6 @@
 *.warc
 node_modules
+.vscode
 /dist
 /aws.json
 /rev-manifest.json
