@@ -18,11 +18,7 @@ siblings:
 
 Essa seção vai focar nos critérios diagnósticos sob o DSM-5, isto é, a quinta versão do Manual Diagnóstico e Estatístico da de Desordens Mentais (DSM) da Associação Psiquiátrica Americana (APA). A razão pelo qual foco nesses padrões é porque, bem, mais ninguém tem um. O Serviço Nacional de Saúde do Reino Unido basicamente espelha o DSM da APA. Outros países tem seus próprios padrões, mas eles são todos bem similares ou muito mais desatualizados.
 
-<!-- TODO: Add Brazil's SUS standards -->
-
 Os SoC (Padrões de Cuidado) da WPATH descreve formas de manifestação de Disforia de Gênero, mas eles não definem critérios claros de diagnóstico, mas deixam isso para profissionais de saúde mental, individualmente, fazerem seus próprios diagnósticos. Em geral eles defendem que se um paciente é de corpo são e mente sã e diz ter Disforia de Gênero, então ele deve ser acreditado. A peça chave aqui é "corpo são e mente sã", isso é deixado para o profissional de saúde mental fazer a devida diligência para garantir que não há outras condições que podem estar causando o paciente a acreditar que tem Disforia de Gênero.
-
-Or to put it bluntly, WPATH says that if you think you're trans, you're trans. This has been the attitude that the majority of the community has adopted as well. As long as you believe your gender does not match what you were assigned at birth, you are transgender. However, insurance companies aren't so happy with self-diagnoses, so here are the criteria which are defined in DSM-5 for diagnosing someone with Gender Dysphoria.
 
 Ou para ser mais direta, a WPATH diz que se você pensa que você é trans, você é trans. Essa também tem sido a atitude que a maioria da comunidade tem adotado. Contanto que você acredite que seu gênero não se encaixa/casa com o que lhe foi atribuído ao nascer, você é trans. Contudo, planos de saúde não estão muito felizes com auto-diagnóstico, então aqui estão os critérios definidos no DSM-5 para diagnosticar Disforia de Gênero em alguém.
 
@@ -45,8 +41,6 @@ Diagnóstico de Disforia de Gênero em crianças pré-púberes requer que a cria
 **Nota** Esses são os critérios para adolescentes e adultos. Crianças tem um conjunto diferente de critérios que [você pode encontrar aqui](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). Eu também dei uma leve alterada na redação deles aqui já que os critérios oficiais são binário-cêntricos.
 
 Para um adulto ser diagnosticado com Disforia de Gênero por um profissional de saúde mental licenciado, ele deve cumprir ao menos dois desses seis critérios e tê-los por mais de seis meses.
-
-- **A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**
 
 - **Uma forte incongruência entre o gênero experienciado/expressado e suas características sexuais primárias e/ou secundárias**
 
@@ -74,6 +68,36 @@ REVISAR O PARÁGRAFO ACIMA!!!
 
 Então é literalmente impossível para uma pessoa identificar-se como trans e não experienciar disforia de gênero. Pelos requisitos da WPATH, qualquer um pode se identificar como trans. Logo a afirmativa "você não precisa ter disforia para ser trans" é um paradoxo lógico.
 
-Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
+Então porque ainda dizemos isso? Porque a maioria das pessoas não sabe o que a disforia de gênero realmente é e é mais fácil repetir o mantra do que explicar os nuances e sutilezas de como a Disforia de Gênero se manifesta. Mas ei, veja, agora você tem um bom artigo para compartilhar que pode ajudar as pessoas a entender isso.
 
-Então porque ainda dizemos isso? Porque a maioria das pessoas não sabe o que a disforia de gênero realmente é e é mais fácil repetir o mantra do que explicar os nuances e sutilezas de como a Disforia de Gênero se manifesta. Mas ei, veja, agora você tem um bom artigo para linkar que pode ajudar as pessoas a entender isso.
+## Contexto Brasileiro
+
+No Brasil, o Conselho Federal de Medicina (CFM) definia _transsexualismo_ (sim, infelizmente usavam essa palavra) nas resoluções [1.482/1997](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/1997/1482), [1.652/2002](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2002/1652) e [1.955/2010](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2010/1955) como:
+
+1. Desconforto com o sexo anatômico natural;
+2. Desejo expresso de eliminar os genitais, perder as características primárias e secundárias do próprio sexo e ganhar as do sexo oposto;
+3. Permanência desses distúrbios de forma contínua e consistente por, no mínimo, dois anos;
+4. Ausência de outro transtornos mentais.
+
+Já a resolução [2.265/2019](https://www.in.gov.br/web/dou/-/resolucao-n-2.265-de-20-de-setembro-de-2019-237203294), além de revogar as três anteriormente mencionadas, estabeleceu que:
+
+ - Trans é quem não tem paridade entre a identidade de gênero e o sexo de nascimento, incluindo travestis.
+ - Bloqueadores de puberdade a partir do estágio Tanner II, em caráter experimental.
+ - 16 anos como idade mínima para hormonioterapia cruzada (_cross-sex hormonal therapy_).
+ - 18 anos como idade mínima para cirurgias, desde que tenha acompanhamento há pelo menos 1 ano.
+ - Para pacientes acima de 18, termo de consentimento para procedimentos clínicos e cirúrgicos.
+ - Para menores de 18, termos de consentimento (dos responsáveis legais) e de assentimento (do menor de idade) para procedimentos clínicos e cirúrgicos.
+
+Em particular, essa resolução deixou clara a questão da auto identidade ao dizer:
+
+> Art. 1º Compreende-se por transgênero ou incongruência de gênero a não paridade entre a identidade de gênero e o sexo ao nascimento, incluindo-se neste grupo transexuais, travestis e outras expressões identitárias relacionadas à diversidade de gênero.
+>
+> § 1º Considera-se identidade de gênero o reconhecimento de cada pessoa sobre seu próprio gênero.
+
+## Contexto Português
+
+???
+
+## Contexto Angolano
+
+???
