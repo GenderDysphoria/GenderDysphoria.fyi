@@ -15,110 +15,114 @@ classes:
 
 # Como a Disforia de Gênero é Tratada?
 
-Treatment options vary significantly depending on the individual person's needs. Every single transition is unique, and there is no one way to transition. This section is a list of possible pathways.
+As opções de tratamento variam significativamente dependo das necessidades individuais pessoa. Toda transição é única e não há uma forma única de transicionar. Essa seção é uma lista de caminhos possíveis.
 
-### Social Transition
+### Transição Social
 
-In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
+Em uma frase: Sair do armário. Isso é simplesmente anunciar ao mundo que você é transgênere. Você anuncia que você deseja usar um novo nome e/ou novos pronomes - ou não, você pode simplesmente querer que as pessoas saibam que você é trans e não se identifica realmente com seu gênero designado ao nascer. Para alguns enbies isso pode nem ser um passo inteiro em suas transições pois gênero é um espectro e há homens não-binários e mulheres não-binárias.
 
-A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones self.
+Uma transição social é o ato de pisar fora do armário e isso pode aliviar um monte de estresse oriundo da supressão de si próprie.
 
-### Legal Transition
+### Transição Jurídicas
 
-This is the process of changing your legal documents to reflect your true gender. This may be through a legal name and gender change issued by a court, through a change of gender marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
+Isso é o processo de corrigir os seus documentos jurídicos para refletir seu verdadeiro gênero. Isso pode ser por uma ordem judicial para alterar o nome civil e o gênero na certidão de nascimento, inclusão de nome social em documentos oficiais, ou reemissão de certidões de nascimento e casamento.
 
-### Presentational Transition
+No Brasil, adultos podem mudar o nome e o sexo nas certidões de nascimento sem necessidade de autorização judicial desde junho de 2018 graças ao [Provimento Nº 73/2018 do CNJ](https://atos.cnj.jus.br/atos/detalhar/2623).
 
-These are changes to how you style yourself, be it your clothes, your hair, or the use of makeup. Our society heavily genders all of these things, and switching presentation is both affirming to one's self and also sends cues to those around them about how they wish to be addressed.
+### Transição Apresentacional
 
-### Medical Transition
+Essas são as mudanças de como você se estiliza, sejam suas roupas, seu cabelo ou o uso de maquiagem. A nossa sociedade fortemente genderiza todas essas coisas e mudar a apresentação é tanto reafirmante para si próprio como também manda dicas para as pessoas ao seu redor de como se quer ser chamade.
 
-For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
+### Transição Médica
 
-***PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION***.
+Para adultos, isso é hormonioterapia (também chamade de terapia hormonal e abreviada como TH) e cirurgia. Para adolescentes isso significa bloqueadores de puberdade até que sejam maduros o bastante para terem certeza de qual hormônio gonadal querem. Para pré-púberes, isso é basicamente nada. Deixe-me repetir já que os transfóbicos errando nesse ponto.
+
+***CRIANÇAS PRÉ-PÚBERES NÃO FAZEM TRANSIÇÃO MÉDICA***.
 
 While the American Academy of Pediatrics [strongly encourages the validation and acceptance of transgender youth](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf), and the enabling of all other forms of transition, they explicitly do not support doctors beginning either hormone therapy or puberty blockers until a child has reached [Tanner stage 2](https://en.wikipedia.org/wiki/Tanner_scale).
 
-Furthermore, no surgeon in the United States will perform a gender altering surgery on a minor (excluding intersex "corrections", which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
+Embora a Academia Americana de Pediatria [fortemente encoraje a validação e aceitação da juventude trans](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) e permita todas as outras formas de transição, eles explicitamente não apoiam, e o Conselho Federal de Medicina brasileiro proíbe, que médicos comecem a hormonioterapia ou bloqueadores de puberdade antes que a criança tenha atingido o [estágio Tanner 2](https://en.wikipedia.org/wiki/Tanner_scale).
 
-### Hormonal Transition
+Ademais, nenhum cirurgião nos Estados Unidos ou no Brasil fará cirurgias de alteração de gênero em menores de idade (salas as "correções" feitas em pessoas intersexo o que é um problema fora do escopo deste artigo). Pouquíssimas crianças tem características fortes o bastante para serem lidas como homens ou mulheres sem as dicas providas pela apresentação. Permitir que uma criança mude seu cabelo e roupas é tudo que é necessário para a criança ser lida menino ou menina.
 
-**Masculinizing Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
+### Transição Hormonal
 
-**Femininizing Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**Hormonioterapia Masculinizante** (características sexuais femininas para masculinas) consiste ba introdução de testosterona, geralmente por via de injeção intramuscular ou gel tópico. O aumento no total de hormônios gonadais tipicamente causa cessão da ovulação que é a fonte da maioria do estrogênio produzido nos ovários.
 
-**In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
+**Hormonioterapia Feminizante** (características sexuais masculinas para femininas) consiste na introdução de estrogênio, tipicamente estradiol, por comprimidos orais, _patches_ ou injeções regulares (intramusculares ou subcutâneas). O uso de implantes que lentamente dispensam hormônios está cada vez mais comum. É também prática comum prescrever um anti-andrógeno para bloquear a produção ou absorção da testosterona. O remédio mais comum para isso é o Acetato de Ciproterona, um bloqueador de receptores de andrógenos. Como ele não é disponível nos Estados Unidos, os americanos costumam usar a Espirolactona que é um remédio de pressão sanguínea que tem efeito colateral de bloquear a testosterona. Médicos podem também prescrever Bicalutamida que também bloqueia receptores de andrógenos. Entretanto, alguns médicos podem simplesmente optar por usar maiores dosagens de estradiol para causar uma parada na produção de testosterona pelo corpo.
 
-### Surgical Transition
+**Em adolescentes**, bloqueadores de puberdade podem envolver os bloqueadores de andrógenos acima ou o uso de antigonadotropina (remédio que bloqueia os hormônios que causam a produção de estrogênio e andrógeno) tal como acetato de leuprolida (uma injeção a cada alguns meses) ou acetato de histrelina (um implante anual).
 
-Transgender surgeries are typically divided into three separate categories:
+### Transição Cirúrgica
 
-**Bottom Surgery** (modifications to genitals).
+Cirurgias transgêneras são tipicamente divididas em duas categorias:
 
-- Femininizing:
+**Cirurgia de Baixo** (_Bottom Surgery_, modifications to genitals).
 
-  - Orchiectomy (removal of the testicles)
-  - Scrotectomy (removal of scrotal tissue, following orchiectomy)
-  - Vaginoplasty (creation of a vaginal cavity)
-  - Vulvaplasty (creation of a vulva, with or without depth).
+- Feminizante:
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+  - Orquiectomia (remoção dos testículos)
+  - Escrotectomia (remoção do tecido escrotal, seguindo orquiectomia)
+  - Vaginoplastia (criação de uma cavidade vaginal)
+  - Vulvoplastia (criação de uma vulva com ou sem profundidade)
 
-A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Para Sua Informação</h4> }!}
 
-An additional option for non-binary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
+Uma nova área em desenvolvimento de cirurgia de baixo são as operações, em AMABs não-bináries, que tentam fazer vaginoplastia *sem* a remoção do pênis. Essa cirurgia é extremamente experimental e foi feita menos de uma dúzia de vezes nos Estados Unidos, mas os prospectos para o futuro parecem bons.
+
+Uma opção adicional para cirurgia não-binária é a cirurgia de nulificação genital que tenta completamente remover a genitália externa, deixando apenas uma apertura uretral.
 
 {!{ </div></div></div> }!}
 
-- Masculinizing:
+- Masculinizante:
 
-  - Hysterectomy (removal of uterus and cervix)
-  - Oophorectomy (removal of one or both ovaries)
-  - Vaginectomy (removal of vaginal cavity)
-  - Metoidioplasty (a process which increases the size of the clitorus into a penis)
-  - Phalloplasty (construction of a penis from skin grafting)
-  - Urethroplasty (extension of the urethral canal through the phallus)
-  - Scrotoplasty (use of labia majora and false testicles to construct a scrotum).
+  - Histerectomia (remoção do útero e cérvix)
+  - Ooforectomia (remoção de um ou ambos os ovários)
+  - Vaginectomia (remoção da cavidade vaginal)
+  - Metoidioplastia (um processo que aumenta o tamanho do clitóris em um pênis)
+  - Faloplastia (construção de um pênis a partir de um enxerto de pele)
+  - Uretroplastia (extensão do canal uretral através do falo)
+  - Escrotoplastia (uso dos lábios maiores e falso testículo para construir um escroto).
 
-**Top Surgery** (modifications to the chest)
+**Cirurgia de cima** (_Top Surgery_, modificações aos seios)
 
-- Feminizing:
-  
-  - Breast Augmentation via fat transfer or implants.
+- Feminizante:
 
-- Masculinizing:
+  - Aumento dos peitos por transferências de gordura ou implantes.
 
-  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
+- Masculinizante:
 
-**Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
+  - Mastectomia bilateral (remoção do tecido dos peitos) com reconstrução do tórax.
 
-  The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
+**Cirurgia Feminização / Masculinização Facial** (modificações ao crânio, cartilagem e pele na face).
 
-- Feminizing:
+  Quanto mais jovem uma pessoa começa a transição hormonal, menor é a necessidade dessas cirurgias, especialmente se começarem antes dos 20.
 
-  - Forehead recontouring
-  - Eye socket recontouring
-  - Brow lift
-  - Hairline correction
-  - Blepharoplasty (lifting of eye bags)
-  - Rhinoplasty (reshaping of the nose)
-  - Cheek implants
-  - Lip lift
-  - Lip filling
-  - Jaw recontouring
-  - Tracheal shave (adam's apple reduction)
-  - Rhytidectomy (face lift)
+- Feminizantes:
 
-- Masculinizing:
+  - Recontorno da testa
+  - Recontorno da cavidade ocular
+  - Levantamento da sobrancelha
+  - Correção da linha do cabelo
+  - Blefaroplastia (levantamento das bolsas dos olhos)
+  - Rinoplastia (remodelação do nariz)
+  - Implantes de bochecha
+  - Levantamento labial
+  - Preenchimento labial
+  - Recontorno da mandíbula
+  - Depilação traqueal (redução do pomo de adão)
+  - Ritidectomia (levantamento facial)
 
-  - Forehead augmentation
-  - Jaw augmentation
-  - Chin augmentation
-  - Tracheal augmentation (adam's apple enlargement)
+- Masculinizantes:
 
-Other Trans Feminine Surgeries:
+  - Aumento da testa
+  - Aumento da mandíbula
+  - Aumento do queixo
+  - Aumento traqueal (aumento do pomo de adão)
 
-- Brazilian Butt Lift. Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
-- Voice Feminization Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
-- Cinderella Surgery. Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
-- Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
+Outras cirurgias transfemininas:
+
+- _Brazilian Butt Lift_. Gordura da barriga é transplantada para os glúteos para aumentar a razão de quadril-cintura. BEM ARRISCADA
+- Cirurgia de Feminização de Voz. Uma incisão é feita nas cordas vocais para permanentemente aumentar o timbre.
+- Cirurgia Cinderella. Ossos no pé são diminuídos para reduzir o tamanho dos pés. EXTREMAMENTE ARRISCADA
+- Redução de Ombros. A clavícula (o osso que liga os braços aos tórax) é diminuída para reduzir a largura dos ombros. EXTREMAMENTE ARRISCADA
