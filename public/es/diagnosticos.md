@@ -8,60 +8,60 @@ classes:
   - gdb
 siblings:
   prev: /es/sindrome-del-impostor
-  prevCaption: Impostor Syndrome
+  prevCaption: Síndrome del impostor
   next: /es/tratamiento
-  nextCaption: Treating Gender Dysphoria
+  nextCaption: Tratamiento de la disforia de género
 ---
 
-# How is Gender Dysphoria Diagnosed?
+# ¿Cómo se diagnostica la disforia de género?
 
-This section is going to focus on the diagnostic criteria under the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, version five (DSM-5). The reason I'm focusing on this standard is because, well, nobody else has one. The UK's National Health Service basically mirrors the APA's DSM. Other countries have their own local standards, but they're all either very similar, or a lot more outdated.
+Esta sección se va a centrar en los criterios de diagnóstico según el Manual Diagnóstico y Estadístico de los Trastornos Mentales de la Asociación Americana de Psiquiatría, versión cinco (DSM-5). La razón por la que me centro en este estándar es porque, bueno, nadie más tiene uno. El Servicio Nacional de Salud del Reino Unido refleja básicamente el DSM de la APA. Otros países tienen sus propios estándares locales, pero todos son muy similares o están mucho más anticuados.
 
-The WPATH SoC describes ways that Gender Dysphoria manifests, but does not define clear diagnostic criteria, instead leaving it up to individual mental health professionals to make their own diagnoses. In general it advocates that if the patient is of sound mind and body and says that they have Gender Dysphoria, then they should be believed. The key piece here is "sound mind and body", it is left to the mental health professional to do the due diligence to ensure that there are no other conditions which may be causing the patient to believe this.
+El SoC del WPATH describe las formas en que se manifiesta la disforia de género, pero no define unos criterios de diagnóstico claros, sino que deja en manos de los profesionales de la salud mental la elaboración de sus propios diagnósticos. En general, defiende que si el paciente está en su sano juicio y dice que tiene disforia de género, hay que creerle. La pieza clave aquí es "mente y cuerpo sanos", se deja al profesional de la salud mental hacer la debida diligencia para asegurarse de que no hay otras condiciones que puedan estar causando que el paciente crea esto.
 
-Or to put it bluntly, WPATH says that if you think you're trans, you're trans. This has been the attitude that the majority of the community has adopted as well. As long as you believe your gender does not match what you were assigned at birth, you are transgender. However, insurance companies aren't so happy with self-diagnoses, so here are the criteria which are defined in DSM-5 for diagnosing someone with Gender Dysphoria.
+O para decirlo sin rodeos, el WPATH dice que si crees que eres trans, eres trans. Esta ha sido la actitud que la mayoría de la comunidad ha adoptado también. Mientras creas que tu género no coincide con el que te asignaron al nacer, eres transgénero. Sin embargo, las compañías de seguros no están tan contentas con los autodiagnósticos, así que aquí están los criterios que se definen en el DSM-5 para diagnosticar a alguien con disforia de género.
 
-{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">Para su información</h4> }!}
 
-Diagnoses of Gender Dysphoria in pre-pubescent children requires the child must have a documented six month history of meeting 6 of these criteria, as well as demonstrated distress or impairment in function.
+El diagnóstico de disforia de género en niños prepúberes requiere que el niño tenga una historia documentada de seis meses de cumplimiento de 6 de estos criterios, así como una angustia demostrada o un deterioro de la función.
 
-1. A strong desire to be of the other gender or an insistence that one is the other gender
-2. A strong preference for wearing clothes typical of the opposite gender
-3. A strong preference for cross-gender roles in make-believe play or fantasy play
-4. A strong preference for the toys, games or activities stereotypically used or engaged in by the other gender
-5. A strong preference for playmates of the other gender
-6. A strong rejection of toys, games and activities typical of one’s assigned gender
-7. A strong dislike of one’s sexual anatomy
-8. A strong desire for the physical sex characteristics that match one’s experienced gender
+1. Un fuerte deseo de ser del otro género o una insistencia en ser del otro género
+2. Una fuerte preferencia por usar ropa típica del otro género
+3. Una fuerte preferencia por los roles de género cruzado en los juegos de fantasía o en los juegos de fantasía
+4. Una fuerte preferencia por los juguetes, juegos o actividades estereotípicamente utilizados o realizados por el otro género
+5. Una fuerte preferencia por compañeros de juego del otro género
+6. Un fuerte rechazo a los juguetes, juegos y actividades típicos del género asignado
+7. Una fuerte aversión a la propia anatomía sexual
+8. Un fuerte deseo de las características sexuales físicas que coinciden con su género experimentado
 
 {!{ </div></div></div> }!}
 
-**Note** These are the criteria for adolescents and adults. Children have a different set of criteria, which [you can find here](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). I have also changed the wording slightly, here, as the official criteria are binary centric.
+**Nota** Estos son los criterios para adolescentes y adultos. Los niños tienen un conjunto diferente de criterios, que [puede encontrar aquí](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). También he cambiado la redacción ligeramente, aquí, ya que los criterios oficiales se centran en lo binario.
 
-For an adult to be diagnosed with Gender Dysphoria by a licensed mental health professional they must meet two of these six criteria, and have experienced those criteria for longer than six months.
+Para que un adulto sea diagnosticado de disforia de género por un profesional de la salud mental autorizado, debe cumplir dos de estos seis criterios y haberlos experimentado durante más de seis meses.
 
-- **A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**
+- **Una marcada incongruencia entre el género experimentado/expresado y las características sexuales primarias y/o secundarias**
 
-  The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the gender they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what genders they relate to more.
+  La forma en que la persona ve el mundo e interactúa con él no coincide con la forma en que se espera que lo haga alguien del género que se le asignó al nacer. Hay un número muy amplio de rasgos que encajan en esta descripción. Puede ser en la forma de interactuar con los demás, en la forma de hablar, en las aficiones que prefieren, en la forma de vestir, en el lenguaje corporal y en los gestos, en los géneros con los que se relacionan, etc.
 
-- **A strong desire to be rid of one’s primary and/or secondary sex characteristics**
-- **A strong desire for the primary and/or secondary sex characteristics of another gender**
+- **Un fuerte deseo de deshacerse de sus características sexuales primarias y/o secundarias**
+- **Un fuerte deseo por las características sexuales primarias y/o secundarias de otro género**
   
-  These two are pretty well paired, this is physical dysphoria as I defined it above. The person finds discomfort with aspects of their body which are a result of their sex at birth, or may even be their sex at birth.
+  Estos dos están bastante bien emparejados, se trata de la disforia física tal y como la he definido anteriormente. La persona se siente incómoda con aspectos de su cuerpo que son resultado de su sexo de nacimiento, o incluso puede ser su sexo de nacimiento.
 
-- **A strong desire to be of another gender**
-- **A strong desire to be treated as another gender**
+- **Un fuerte deseo de ser de otro género**
+- **Un fuerte deseo de ser tratado como otro género**
 
-  These are the social and societal dysphoria. They are how a person wants to interact with the world, and wants the world to interact with them.
+  Se trata de la disforia social y societaria. Son la forma en que una persona quiere interactuar con el mundo y quiere que el mundo interactúe con ella.
 
-- **A strong conviction that one has the typical feelings and reactions of another gender**
+- **Una fuerte convicción de que uno tiene los sentimientos y reacciones típicos de otro género**
 
-  This is pretty self explanatory.
+  Esto se explica por sí mismo.
 
-As I said, only two of these conditions need be met for a formal diagnoses. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing Gender Dysphoria without actually hating any part of their body, or wanting to change any part of their body. Physical Dysphoria is only one fraction of the many ways that lead to being trans.
+Como ya he dicho, sólo es necesario que se cumplan dos de estas condiciones para realizar un diagnóstico formal. Puede que te des cuenta de que sólo dos de ellas comprenden el cuerpo físico. Es perfectamente válido que una persona trans experimente disforia de género sin odiar realmente ninguna parte de su cuerpo, ni querer cambiar ninguna parte de su cuerpo. La disforia física es sólo una fracción de las muchas formas de ser trans.
 
-Now, here is the kicker. If you identify as transgender, meaning that your gender does not align with the binary sex you were assigned at birth, you already meet two of these criteria! You have a strong enough desire to be of another gender that you are identifying that you *are* another gender, and you have a strong conviction of what your gender feels like, and it isn't what you were given at birth.
+Ahora bien, esto es lo más importante. Si te identificas como transgénero, es decir, que tu género no coincide con el sexo binario que te asignaron al nacer, ¡ya cumples dos de estos criterios! Tienes un deseo lo suficientemente fuerte de ser de otro género como para identificar que *eres* de otro género, y tienes una fuerte convicción de cómo se siente tu género, y no es el que te asignaron al nacer.
 
-So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement "you do not have to have dysphoria to be transgender" is a logical paradox.
+Por lo tanto, es literalmente imposible que una persona se identifique como trans y no experimente disforia de género. Según los requisitos del WPATH, cualquiera puede identificarse como trans. Ergo, la afirmación "no tienes que tener disforia para ser transgénero" es una paradoja lógica.
 
-Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra, than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
+Entonces, ¿por qué seguimos diciéndolo? Porque la mayoría de la gente no sabe lo que es realmente la disforia de género, y es más fácil repetir el mantra, que explicar los matices y sutilezas de cómo se manifiesta la disforia de género. Pero oye, mira, ahora tienes un bonito artículo para enlazar que puede ayudar a la gente a entenderlo.
