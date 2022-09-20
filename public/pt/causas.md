@@ -24,17 +24,19 @@ siblings:
 
 # Qual é a Causa da Incongruência de Gênero?
 
-To put it bluntly: We don't know, not firmly. Science and modern psychology has proven that it is **not** caused by nurture; no one *becomes* transgender, gender identity is congenital, solidifying before we even exit the womb. It also appears to sometimes be hereditary; transgender parents have a higher likelihood of having transgender children, and many times they realize this in reverse. The child comes out to the parent, and that helps the parent realize they can come out as well.
+Para ser direta: Nós não sabemos, pelo menos não com certeza. Psicologia moderna e ciência provaram que **não** é causado pela criação/ambiente; ninguém *se torna* trans, a identidade de gênero é congenital, solidificando antes mesmo de sairmos do útero. E ela parece ser às vezes hereditária; genitores trans tem maior chance de term filhos trans e muitas vezes eles percebem isso em reverso. O filho sai do armário para o genitor e isso o ajuda a perceber que ele também pode sair do armário.
 
-Here is the science that is believed to influence gender identity. This does not mean that it *defines* gender identity, nor does it fully encapsulate one's gender, as so many aspects of gender are cultural and social. None of this is prescriptive of a person's identity, none of it is cast in stone.
+Aqui está a ciência que se acredita influenciar a identidade de gênero. Isso não significa que isso *define* a identidade de gênero nem que isso encapsula o gênero de alguém já que tantos aspectos de gênero são culturais e sociais. Nada disso é prescritivo da identidade de uma pessoa, nada é escrito em pedra.
 
 If you've seen Jurassic Park then you may remember this scene:
+
+Se você assistiu _Jurassic Park_, você deve lembrar dessa cena:
 
 {!{
   {{import '~/img' images.jurassicpark
     className="card borderless center span34"
-    alt="All vertebrate embryos are inherently female anyway. They just require an extra hormone given at the right developmental stage to make them male."
-    caption="This isn't science fiction, although it is very simplified."
+    alt="Todos embriões de vertebrados são inerentemente fêmeas mesmo. Eles apenas precisam de um hormônio extra no estágio certo de desenvolvimento para fazê-los machos."
+    caption="Isso não é ficção científica, embora seja muito simplificado."
   }}
 }!}
 
@@ -42,26 +44,25 @@ If you've seen Jurassic Park then you may remember this scene:
 <div class="gutter flex flex-center print-span3">
   {{import '~/img' images.fetalgenitals
     className="card"
-    caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>"
-    alt="Fetal development of internal sexual anatomy"
+    caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Fonte</a>"
+    alt="Desenvolvimento fetal da anatomia sexual internal"
   }}
 </div>
 }!}
 
-The gonads in human fetuses initially develop in a bi-potential state, meaning they can become either ovaries or testes. The SRY gene on the Y chromosome releases a protein called [Testis Determining Factor](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF). This protein then starts a chain reaction with SOX9 production (another protein), which causes the gonadal cells to form into the Sertoli and Leydig cells that make up the testes. If TDF is never produced or is interfered with then the gonad cells form into the Theca cells and Follicles which comprise the ovaries.
+As gonadas em fetos humanos inicialmente se desenvolvem em um estado bi-potencial, significando que elas pode ser ovários ou testis. O gene SRY do cromossomo Y libera uma proteína chamada [Fator Determinante de Testis](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF). Essa proteína começa uma reação em cadeia com a produção de SOX9 (outra proteína) que causa as células gonadais a se formarem em células Sertoli e Leydig que formam os testis. Se TDF nunca for produzido ou sofre interferência, então as células gonadais formam células Theca e folículos que compondo os ovários.
 
+Uma vez formados, os testis então começam um pico de produção de testosterona que tipicamente começa na 8ª semana de gestação e continua até a 24ª semana. Esse pico, em [combinação com um outro hormônio da placenta](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), é responsável pelo desenvolvimento do pênis e escroto. A formação dos genitais começa por volta da 9ª semana e se torna identificável por volta da 11ª semana. Se o pico não ocorrer, ou se o corpo não responder a ele (como no caso de Síndrome da Insensitividade Andrógena) então a genitália forma volva, vagina e útero.
 
-Once formed, the testes then begin producing a testosterone surge which typically starts in the 8th week of gestation and continues until the 24th week. This surge, [combined with another hormone from the placenta](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), is responsible for the development of the penis and scrotum. Genitalia formation starts around week 9 and becomes identifiable by the 11th week. If the surge does not occur, or the body does not respond to it (such as in the case of Androgen Insensitivity Syndrome) then the genitalia form into the vulva, vagina and uterus instead.
+Se há uma interferência nesse processo então pode acabar com as partes erradas e isso é o resultado de muitas condições intersexo. Geralmente isso é um desenvolvimento parcial no qual a genitália externa apenas parcialmente se forma mas as gonadas funcionais ainda existem. Às vezes a criança nasce com genitália masculina ou feminina totalmente funcionais mas com gonada não correspondentes. Às vezes a proteína TDF falha em ser lançada e o feto cresce um sistema reprodutor feminino completo apesar da presença de um cromossomo Y.
 
-If there is an interference in this process then you can end up with the wrong bits, and this is the result of many intersex conditions. Often times this is a partial development, where the external genitalia only partially form, but functional gonads still exist. Sometimes the child comes out with fully functional male or female genitalia, but mismatched gonads. Sometimes the TDF protein fails to release and the fetus grows completely functional female reproductive organs, despite the presence of a Y chromosome.
+Isso é conhecido como Síndrome de Swyer e o número de mulheres com essa condição é desconhecido. Em 2015, uma [mulher XY com Síndrome Sweyer que nascem sem ovários](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) engravidou exitosamente por fertilização _in vitro_. Geralmente Síndro Sewyer resulta em ovários completamente não-funcionais, mas [em 2008 uma mulher foi encontrada com Síndrome de Swyer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/) que passou pela puberdade, menstruava normalmente, e teve duas gravidezes naturais. Sua condição só foi descoberta quando descobriram que sua filha também a tinha.
 
-This is known as Swyer Syndrome, and an unknown number of women may have this condition. In 2015 [an XY woman with Swyer Syndrome who was born without ovaries](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) successfully carried and gave birth to a child via IVF. Usually Swyer Syndrome results in completely non-functional ovaries, but [in 2008 a woman was found with Swyer Syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/) who had gone through puberty, menstruated normally, and had two unassisted pregnancies. Her condition went undiscovered until her daughter was found to also have it.
-
-The fact is, the vast majority of the population has never been tested for genetic karyotype, so we don’t know how common these cases actually are. Where does this come into affect for gender identity? Well, the exact same process that causes the external genitals to differentiate also occurs for the brain.
+O fato é, a vasta maioria da população nunca fez exames de cariótipo (exame para ver os cromossomos) então não sabemos quão comuns esses casos são. Onde isso afeta a identidade de gênero? Bem, os exatos mesmos processos que causam diferenciação nos genitais externos também ocorrem no cérebro.
 
 {!{
 <div class="gutter">
-  <strong style="display: block;text-align: center;">And it gets even weirder!</strong>
+  <strong style="display: block;text-align: center;">E isso fica bem mais esquisito!</strong>
   {{import '~/tweet' ids=[
     '1224039568971710464'
     '1224040716365524993'
@@ -73,7 +74,7 @@ The fact is, the vast majority of the population has never been tested for genet
 </div>
 }!}
 
-#### Brain Split
+#### Divisão Cerebral
 
 The prenatal brain doesn't really start to develop until between week 12 and 24. The cerebral cortex, the thin outer layer of the brain that contains most of what we think of as consciousness, grows substantially during those periods of time. Prior to that, the structure present is more like a scaffolding, the basic parts of the nervous system necessary for bodily function. The primary sulci (the wrinkles in the cerebral cortex that allow for more surface area) [start to form at week 14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), well after the genitals have developed.
 
