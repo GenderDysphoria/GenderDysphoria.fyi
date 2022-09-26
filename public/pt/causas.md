@@ -28,9 +28,7 @@ Para ser direta: Nós não sabemos, pelo menos não com certeza. Psicologia mode
 
 Aqui está a ciência que se acredita influenciar a identidade de gênero. Isso não significa que isso *define* a identidade de gênero nem que isso encapsula o gênero de alguém já que tantos aspectos de gênero são culturais e sociais. Nada disso é prescritivo da identidade de uma pessoa, nada é escrito em pedra.
 
-If you've seen Jurassic Park then you may remember this scene:
-
-Se você assistiu _Jurassic Park_, você deve lembrar dessa cena:
+Se você assistiu _Jurassic Park_, você talvez se lembre dessa cena:
 
 {!{
   {{import '~/img' images.jurassicpark
@@ -76,15 +74,19 @@ O fato é, a vasta maioria da população nunca fez exames de cariótipo (exame 
 
 #### Divisão Cerebral
 
-The prenatal brain doesn't really start to develop until between week 12 and 24. The cerebral cortex, the thin outer layer of the brain that contains most of what we think of as consciousness, grows substantially during those periods of time. Prior to that, the structure present is more like a scaffolding, the basic parts of the nervous system necessary for bodily function. The primary sulci (the wrinkles in the cerebral cortex that allow for more surface area) [start to form at week 14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), well after the genitals have developed.
+O cérebro pré-natal não começa realmente a se desenvolver até entre as 12ª e 24ª semanas. O córtex cerebral, a fina camada externa do cérebro que contém a maioria do que pensamos como a consciência, cresce substancialmente durante esse período de tempo. Antes disso, a estrutura presente é mais como um andaime: as partes básicas do sistema nervoso necessárias para o funcionamento do corpo. Os sulcos primários (as dobrinhas do córtex cerebral que permitem maior área de superfície) [começam a se formar na 14ª semana](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), bem depois dos genitais serem formados.
 
-It [has been confirmed multiple times](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) via MRI studies that there are small but significant differences between cis male and cis female brains, differences which align with the gender identities of trans people in the study. Note, **this does not mean that anyone with those differences will have that gender**, because gender identity isn't that simple, but it provides evidence that there is a clear difference in masculine and feminine brains. [There is also evidence](https://www.pnas.org/content/112/50/15468) that brains can have mosaic combinations of these differences, which may be the case in non-binary people.
+Já [foi confirmado múltiplas vezes](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027), por estudos de MRI (ressonância magnética), que há pequenas porém significantes diferenças entre cérebros de homens e mulheres cis, diferenças que alinham com as identidades de gênero de pessoas trans. Note, **isso não significa que todos com essas diferenças terão tal gênero** porque identidade de gênero não é tão simples, mas isso provê evidência de que há clara diferença cérebros masculinos e femininos. [Há também evidência](https://www.pnas.org/content/112/50/15468) de que cérebros podem ter combinações mosaicas que pode ser o caso em pessoas não-binárias.
 
-A change in the testosterone levels in the fetus after the 11th week can directly impact the masculinization of the cerebral cortex, as well as changes in other parts of the brain structure. This has been examined [over and over again](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) in studies of female assigned children with CAH (congenital adrenal hyperplasia) and CAIS (complete androgen insensitivity syndrome).
+Uma mudança no nível de testosterona no feto após a 11ª semana pode diretamente impactar a masculinização do córtex cerebral bem como impactar as mudanças em outras partes da estrutura cerebral. Isso [foi examinado múltiplas vezes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) em estudos de pessoas designadas mulher ao nascer com HAC  (hiperplasia adrenal congênita) e com SIAC (síndrome da insensibilidade androgênica completa).
 
 <blockquote class="cite"><p>We found a significant relationship between fetal testosterone and sexually differentiated play behavior in both girls and boys.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">Fetal Testosterone Predicts Sexually Differentiated Childhood Behavior in Girls and in Boys</a></blockquote>
 
+<blockquote class="cite"><p>Nós encontramos uma relação significativa entre testosterona fetal e diferenças por sexo no comportamento de meninas e meninos.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">Testosterona Fetal Prediz Comportamento Sexualmente Diferenciado em Meninas e Meninos</a></blockquote>
+
 An excess of testosterone in the mother’s body during the second trimester can (and does) cause masculinization of the brain in an externally female fetus, and an interference in testosterone production or uptake can (and does) cause feminization of the brain in an externally male fetus. This interference does not have to be external in origin, either. Any number of genetic traits can cause the brain to respond differently to testosterone.
+
+
 
 A fairly large study of transgender individuals released in 2018 [found several key genes](https://academic.oup.com/jcem/article/104/2/390/5104458) which were statistically more likely to be longer among trans women (longer, as in having more repeated fragments). Individually these genes may not have an impact strong enough to cause a malfunction of masculinization, but collectively they absolutely could reduce the ability for the fetal brain to masculinize. These genes are all passed from parent to child, giving credence to a tendency for trans parents to have trans children.
 
