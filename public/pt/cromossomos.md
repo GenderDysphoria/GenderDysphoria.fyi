@@ -37,44 +37,44 @@ tweets:
   ] tweets=meta.tweets className="" }}
 </div>}!}
 
+Há dezenas de formas pelas quais cromossomos são mais complexos do que meramente XX e XY. Medicamente elas são referidas como DDSs ([Desordens de Desenvolvimento Sexual](https://en.wikipedia.org/wiki/Disorders_of_sex_development)). Nem todas resultam em uma condição intersexo, e muitas apenas se manifestam no início da puberdade.
 
-There are dozens of ways that chromosomes can be much more complex than XX and XY. Medically these are referred to as DSDs ([Disorders of Sex Development](https://en.wikipedia.org/wiki/Disorders_of_sex_development)). Not all result in an intersex condition, and many only manifest at the onset of puberty.
+- [Síndrome de la Chapelle](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Macho) ocorre quando o gene SRY do esperma paterno cruza em um esperma sem cromossomo Y durante a espermatogênese. Quando o óvulo e o esperma se fundem, isso resulta em um embrião XX com gene SRY, criando uma criança fenotipicamente do sexo masculino com dois cromossomos Y.
 
-- [De la Chapelle Syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypical male child with two X chromosomes.
+- [Síndrome de Swyer](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Fêmea) produz uma criança fenotipicamente do sexo feminino com um cromossomo XY. Isso oriunda de uma dezena de diferentes condições genéticas, incluindo:
 
-- [Swyer Syndrome](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Female) produces a phenotypically female child with an XY chromosome. This results from a dozen different genetic conditions, including:
+  - Ausência ou defeito do gene SRY.
+  - Ausência ou defeito da síntese de [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein))
+  - Ausência da proteína [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) devido a falha adrenal
+  - Ausência ou defeito do gene [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)), impedindo a cascata TDF
 
-  - Absence or defect of an SRY gene
-  - Absence or defect of [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) synthesis
-  - Absence of the [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) protein due to adrenal failure
-  - Absence of or defect the [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) gene, preventing TDF cascade
+- [Disgênese Gonadal XX](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) é bem similar a Síndrome de Swyer, exceto que ocorre em crianças XX e resulta em ovários não funcionais.
 
-- [XX Gonadal Dysgenesis](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) is very similar to Swyer Syndrome, except occurs in XX children and results in nonfunctional ovaries.
+- [Síndrome de Turner](https://en.wikipedia.org/wiki/Turner_syndrome) (45,X) produz uma criança fenotipicamente do sexo masculino com numeras anormalidades. Isso ocorre quando nem um cromossomo X nem Y cruza do esperma.
 
+- [Síndrome de Klinefelter](https://en.wikipedia.org/wiki/Klinefelter_syndrome) (47,XXY) resulta em uma criança fenotipicamente do sexo masculino com características mais femininas. Em casos extremamente raros, [ela aparece em crianças designadas mulheres ao nascer](https://www.ncbi.nlm.nih.gov/pubmed/15755052) também, resultando em testículos feminizados ao invés de ovários.
 
-- [Turner Syndrome](https://en.wikipedia.org/wiki/Turner_syndrome) (45,X) produces a phenotypically female child with numerous abnormalities. It occurs when neither an X or Y chromosome crosses over from the sperm.
+- [49,XXXXY Síndrome de Klinefelter](https://en.wikipedia.org/wiki/49,XXXXY) é geralmente fatal, mas quando não é, sempre resulta em uma criança estéril.
 
-- [Klinefelter Syndrome](https://en.wikipedia.org/wiki/Klinefelter_syndrome) (47,XXY) results in a phenotypically male child with more feminine traits. In extremely rare cases [it appears in female assigned children](https://www.ncbi.nlm.nih.gov/pubmed/15755052) as well, resulting in feminized testicles instead of ovaries.
+- [Trissomia X](https://en.wikipedia.org/wiki/Triple_X_syndrome) (47,XXX), [Tetrasomia X](https://en.wikipedia.org/wiki/Tetrasomy_X) (48,XXXX), e [Pentasomia X](https://en.wikipedia.org/wiki/49,_XXXXX) (49,XXXXX)  todas resultam em uma criança do sexo feminino mas com cada vez mais problemas de saúde.
 
-- [49,XXXXY Klinefelter Syndrome](https://en.wikipedia.org/wiki/49,XXXXY) is often fatal, but when it isn't, it will always results in a sterile child.
+- [Síndrome XXYY](https://en.wikipedia.org/wiki/XXYY_syndrome) resulta em crianças do sexo masculino (devido aos dois genes SRY) que geralmente experienciam hipogonadismo, precisando de suplementos de testosterona mas de resto parecem com um homem típico.
 
-- [Trisomy X](https://en.wikipedia.org/wiki/Triple_X_syndrome) (47,XXX), [Tetrasomy X](https://en.wikipedia.org/wiki/Tetrasomy_X) (48,XXXX), and [Pentasomy X](https://en.wikipedia.org/wiki/49,_XXXXX) (49,XXXXX) all result in a female child, but with progressively more intense health issues.
+- [Mosaicismo](https://en.wikipedia.org/wiki/Mosaic_(genetics)) resulta quando algumas células no corpo tem um conjunto de cromossomos e outras células tem outro conjunto de cromossomos devido a uma mutação genômica durante a gestação. Isso pode ser XX/XY (resultando em conjunto duplo de genitais), X/XY (uma forma mais leve da síndrome de Swyer ou de Turner) or XX/XXY (uma forma mais leve da síndrome de Klinefelter).
 
-- [XXYY Syndrome](https://en.wikipedia.org/wiki/XXYY_syndrome) results in male children (due to two SRY genes) which often experience hypogonadism, needing testosterone supplements, but otherwise seeming like a typical male
+- [Quimerismo](https://en.wikipedia.org/wiki/Chimera_(genetics)) ocorre quando dois embriões fertilizados se fundem em um único zigoto, fazendo metade da criança de ter um conjunto de DNS e a outra metade a ter outro conjunto de DNA. Isso pode resultar em um ser humano típico do fenótipo masculino ou feminino, sendo até mesmo capazes de gerar prole. Em um teste de cariótipo, o teste pode voltar não batendo com o fenótipo da pessoa dependendo de onde no corpo a amostra foi tomada. Em casos extremamente raros, isso pode resultar em dois conjuntos de órgãos reprodutivos.
 
-- [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a dual set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
+- [Hiperplasia Congenital Adrenal](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia)(HAC) é uma masculinização dos geniais femininos em uma criança XX devido a glândulas adrenais hiperativas.
 
-- [Chimerism](https://en.wikipedia.org/wiki/Chimera_(genetics)) occurs when two fertilized embryos merge together into one zygote, causing half of the child to contain one set of DNA and the other half to contain another. This can result in an otherwise completely typical human being of either male or female phenotype, even capable of producing offspring, but which comes back on a kareotype test as not matching their phenotype based on where the sample was taken on their body. In extremely rare cases this can result in two full sets of reproductive organs.
+- [Síndrome de Insensitividade de Andrógenos](https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome)(SIA) é uma resistência total ou parcial a todos os andrógenos, impedindo masculinização de todos os órgãos, exceto pelo testículo, em uma criança XY. Pacientes com SIA tipicamente desenvolvem uma identidade de gênero feminina, mas alguns casos parciais podem resultar em uma identidade masculina.
 
-- [Congenital Adrenal Hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia)(CAH) is masculinization of the female genitals in an XX child due to overactive adrenal glands.
+- [Deficiência da 5-alfa-redutase](https://en.wikipedia.org/wiki/5-alpha-reductase_deficiency)(D5AR) é uma falha na habilidade do corpo de metabolizar a testosterona em dihidrotestosterona (DHT), impedindo a masculinização da genitália até o início da puberdade, quando a criança repentinamente começa a crescer um pênis.
 
-- [Androgen Insensitivity Syndrome](https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome)(AIS) is a total or partial resistance to all androgens, preventing masculinization of all organs, save for the testicles, in an XY child. AIS subjects typically develop a female gender identity, but some partial cases may be male.
-
-- [5-alpha-reductase deficiency](https://en.wikipedia.org/wiki/5-alpha-reductase_deficiency)(5ARD) is a failure in the body's ability to metabolize testosterone into dihydrotestosterone (DHT), preventing masculinization of the genitalia until the onset of puberty, when the child suddenly grows a penis.
-
-- [Aromatase Deficiency](https://en.wikipedia.org/wiki/Aromatase_deficiency) causes masculinization of an otherwise female child due to excess levels of testosterone (and can bleed-over into the mother during gestation).
+- [Deficiência de Aromatase](https://en.wikipedia.org/wiki/Aromatase_deficiency) causa masculinização de uma criança outramente do sexo feminino devido a níveis excessivos de testosterona (e que pode afetar a mãe durante a gestação).
 
 - [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
+
+- [Excesso de Aromatase](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causa feminização em uma criança outramente do sexo masculino pois toda a testosterona é convertida em estrogênio.
 
 {!{ <div class="span34 center print-span2">
   {{import '~/tweet' ids=[
