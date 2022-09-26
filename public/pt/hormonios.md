@@ -16,14 +16,14 @@ classes:
 
 # Como Hormônios Funcionam
 
-As we described in the [Causes of Gender Dysphoria](/gdb/causes) section, every human's DNA contains the genetic instructions for both male and female bodies, and which set of instructions gets used is controlled by what hormones your gonads produce. That differentiation occurs entirely based on whether you happen to have an SRY gene which, in the 6-8th week of gestation, kicks off a chain reaction that produces testes instead of ovaries. From that point on, every sexual attribute of the human body (primary and secondary) is a result of the hormones that those gonads produce.
+Como descrevemos na seção [Causas da Disforia de Gênero](/gdb/pt/causas), todo DNA de seres humanos contém instruções tanto para corpos femininos quanto masculinos, e cujo conjunto de instruções usado é controlado por quais hormônios as suas gonadas produzem. Essa diferenciação ocorre inteiramente baseada em você ter ou não um gene SRY que, nas 6ª a 8ª semanas de gestação, ativa uma reação em cadeia que produz testis ao invés de ovários. Desse ponto de vista, cada atributo sexual do ser humano (primários e secundários) é um resultado dos hormônios que essas gonadas produzem.
 
-If they produce estrogens (primarily Estradiol) then the genitals form into a vulva, vagina and uterus. If they produce androgens (primarily Testosterone) then the genitals form into a penis and scrotum, shifting the [Skene's gland](https://en.wikipedia.org/wiki/Skene%27s_gland) downward and enlarging it into a prostate. Differentiation ends here until the onset of puberty, 9-10 years later, and we all know what puberty does.
+Se eles produzem estrogênio (primariamente estradiol), então os genitais formam uma vulva, vagina e útero. Se eles produzem andrógenos (primariamente testosterona) então os genitais foram um pênis e escroto, movendo a [glândula de Skene](https://en.wikipedia.org/wiki/Skene%27s_gland) para baixo e a alargando em uma próstata. A diferenciação termina aqui e só retorna na puberdade, uns 9 a 10 anos depois, e todos nós sabemos o que a puberdade faz.
 
-So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **Receptor**.
+Então como isso funciona? Por que as células diferenciam dessa maneira? Antes de explicarmos isso, precisamos primeiro explicar o conceito de um **Receptor**.
 
 
-## Hormone Receptors
+## Receptores Hormonais
 
 In simplest terms, a receptor is like the keyed lock ignition on a car (do new car’s still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
 
