@@ -1,176 +1,176 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Estrogenic Second Puberty 101"
-description: "What to expect from feminizing HRT"
+title: "Segunda pubertad estrogénica 101"
+description: "Qué esperar de la THS feminizante"
 preBody: '_declaracion'
 siblings:
   prev: /es/segunda-pubertad-masc
-  prevCaption: Androgenic Second Puberty
+  prevCaption: Segunda pubertad androgénica
   next: /es/conclusion
   nextCaption: Conclusion
 classes:
   - gdb
 ---
 
-# Estrogenic Second Puberty 101
+# Segunda pubertad estrogénica 101
 
-## What to expect from Feminizing HRT
+## Qué esperar de la THS feminizante
 
-This is a compilation of reported medical transition changes collected from testimonials of AMAB trans people taking estrogen based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+Esta es una recopilación de los cambios de transición médica reportados, recogidos de los testimonios de personas trans AMAB que toman terapia hormonal basada en estrógenos. Esta información se ha recogido de las redes sociales y de las salas de chat. Sí, eso significa que todo esto es anecdótico, pero históricamente, la mayoría de los estudios médicos transgénero son anecdóticos porque nadie quiere financiar la investigación médica transgénero.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
+**Nótese que esta es una lista de _posibles_ cambios. No hay garantía de que todas las personas que toman TRH feminizante experimenten todos estos cambios. La edad, la genética, el historial médico, el grado de masculinización desde la pubertad natal y el régimen hormonal pueden influir en los resultados. También hay un grado de aleatoriedad -cada cuerpo es diferente- y algunas cosas pueden tardar años en aparecer.**
 
-### Breast Growth
+### Crecimiento del pecho
 
-Despite public perceptions, the majority of transfems do not pursue breast augmentation, as it often isn't necessary (and for many, is not within reach). Every human is born with breast tissue, it simply remains inactive without estrogen to make it grow. Development typically takes 2-5 years, but can continue for more than ten years, just as it does for cisgender women.
+A pesar de la percepción pública, la mayoría de las mujeres no se someten a un aumento de pecho, ya que a menudo no es necesario (y para muchas, no está a su alcance). Todos los seres humanos nacen con tejido mamario, simplemente permanece inactivo sin estrógenos que lo hagan crecer. El desarrollo suele durar entre 2 y 5 años, pero puede prolongarse durante más de diez años, al igual que en las mujeres cisgénero.
 
-Expect aches and pains in the chest, along with lots of tenderness, in the area surrounding and behind the areola. Avoid bumping into anything, as it *will* hurt. Nipples and areolas will become much more sensitive while also becoming larger and darker. You'll want to invest in some sports bras.
+Es de esperar que haya dolores en el pecho, junto con mucha sensibilidad, en la zona que rodea y detrás de la areola. Evita chocar con cualquier cosa, ya que *dolerá*. Los pezones y las areolas se volverán mucho más sensibles y también más grandes y oscuros. Querrás invertir en algunos sujetadores deportivos.
 
-This may be accompanied with lactation. Some secretion is normal and can be expected as milk ducts form and open up, so there is no cause for alarm. However, significant discharge without intentional stimulation may be a sign of a prolactin imbalance, so you should tell your doctor if this happens.
+Esto puede ir acompañado de la lactancia. Es normal que haya algo de secreción y es de esperar que se formen y abran los conductos de la leche, por lo que no hay motivo de alarma. Sin embargo, una secreción importante sin estimulación intencionada puede ser un signo de un desequilibrio de prolactina, por lo que debes informar a tu médico si esto ocurre.
 
-### Skin Softening
+### Suavizar la piel
 
-Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer and more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
+La testosterona promueve el engrosamiento y el endurecimiento de la epidermis, por lo que su eliminación hace que la piel sea más fina. Además, el estrógeno promueve la producción de colágeno, lo que hace que la piel se vuelva más suave y más iridiscente. Es de esperar que aparezcan más varices en las piernas. Los tatuajes que se hayan desvanecido con el tiempo pueden volverse más atrevidos y claros.
 
-The removal of testosterone also causes a severe drop in skin oils, particularly on the face and scalp. This results in a significant reduction of acne and/or dandruff.
+La eliminación de la testosterona también provoca una grave disminución de la grasa de la piel, sobre todo en la cara y el cuero cabelludo. Esto se traduce en una reducción significativa del acné y/o la caspa.
 
-### Increased Flexibility
+### Mayor flexibilidad
 
-Testosterone causes water retention in ligaments and tendons, rendering them less stretchable. Removing androgens from the body causes the tendons to release those fluids and regain their elasticity.
+La testosterona provoca la retención de agua en los ligamentos y tendones, haciéndolos menos elásticos. La eliminación de los andrógenos del organismo hace que los tendones liberen esos líquidos y recuperen su elasticidad.
 
-### Slimmer Hands and Wrists
+### Manos y muñecas más delgadas
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.hands className="card" caption="The author's hands. This change occurred over the course of three and a half years."}}
+{{import '~/img' images.hands className="card" caption="Las manos del autor. Este cambio se produjo en el transcurso de tres años y medio".}}
 </div>
 }!}
 
-As the skin begins to soften and slim down, the hands gradually begin the shrink. Without testosterone, less blood flows to the hands, causing further reduction in tissue sizes. Ring size will drop as fat and fluids move off the fingers. Finger length shortens as ligaments thin and stretch.
+A medida que la piel comienza a ablandarse y adelgazar, las manos empiezan a encogerse gradualmente. Sin testosterona, fluye menos sangre a las manos, lo que provoca una mayor reducción del tamaño de los tejidos. El tamaño de los anillos se reduce a medida que la grasa y los fluidos se desplazan de los dedos. La longitud de los dedos se acorta a medida que los ligamentos se adelgazan y se estiran.
 
-### Smaller Feet
+### Pies pequeños
 
-Much like hands, the feet also experience changes in shape. Androgens encourage more blood flow to the feet, and encourage water build up in cartilage. Estrogens allow the ligaments in the foot to stretch more. Collectively this causes the arch of the foot to increase, shortening its total length by as much as two centimeters. Many people report a drop of one to two shoe sizes.
+Al igual que las manos, los pies también experimentan cambios de forma. Los andrógenos fomentan un mayor flujo sanguíneo en los pies y favorecen la acumulación de agua en el cartílago. Los estrógenos permiten que los ligamentos del pie se estiren más. En conjunto, esto hace que el arco del pie aumente, acortando su longitud total hasta en dos centímetros. Muchas personas informan de un descenso de una o dos tallas de zapato.
 
-### Thinner & Softer Fingernails
+### Uñas más finas y suaves
 
-Fingernails are made of keratin, and many keratin genes are activated by androgen receptors, thus causing thicker fingernails. The loss of testosterone will make the nails thinner and more prone to breakage.
+Las uñas están hechas de queratina, y muchos genes de la queratina son activados por los receptores de andrógenos, lo que hace que las uñas sean más gruesas. La pérdida de testosterona hará que las uñas sean más finas y más propensas a romperse.
 
-### Reduced Body Hair
+### Reducción del vello corporal
 
-Do not expect a total cessation of body hair, once the follicles are made terminal by DHT they remain that way. However, much like fingernails, hair thickness is an expression of keratin genes activated by androgens. Removing testosterone causes the body hairs to become thinner and lighter. Genetics plays a major role in this, however.
+No espere un cese total del vello corporal, una vez que los folículos se vuelven terminales por la DHT permanecen así. Sin embargo, al igual que las uñas, el grosor del vello es una expresión de los genes de la queratina activados por los andrógenos. La eliminación de la testosterona hace que el vello corporal se vuelva más fino y claro. Sin embargo, la genética desempeña un papel importante en esto.
 
-### Changes in Body Temperature Placement
+### Cambios en la colocación de la temperatura corporal
 
-Androgens encourage extra blood flow to extremities, making them warmer. Because of this, women tend to have warmer core temperatures but lower oral and surface level temperatures. You may see your basal body temperature drop to around 97.6.
+Los andrógenos favorecen el flujo sanguíneo adicional a las extremidades, haciéndolas más calientes. Por ello, las mujeres tienden a tener una temperatura central más cálida, pero una temperatura oral y superficial más baja. Es posible que su temperatura corporal basal descienda a alrededor de 97,6.
 
-This unfortunately results in a reduced tolerance to cold, so expect to need to layer clothing more frequently, especially since many buildings [set their thermostats for male comfort levels](https://www.popsci.com/study-finds-gender-bias-office-air-conditioning/).
+Desgraciadamente, esto da lugar a una menor tolerancia al frío, por lo que es de esperar que tenga que ponerse capas de ropa con más frecuencia, sobre todo porque muchos edificios [ajustan sus termostatos a los niveles de confort masculinos](https://www.popsci.com/study-finds-gender-bias-office-air-conditioning/).
 
-### Changes in Perspiration Patterns
+### Cambios en los patrones de transpiración
 
-With the above shift in temperature distribution, this also results in a significant change in how one sweats. Sweat becomes more of a full body experience, as opposed to largely centered on the head and armpits. Underboob sweat becomes a thing.
+Este cambio en la distribución de la temperatura también provoca un cambio significativo en la forma de sudar. El sudor se convierte en una experiencia de cuerpo entero, en lugar de centrarse principalmente en la cabeza y las axilas. El sudor de las axilas se convierte en una cosa.
 
-### Reduction and/or Change of Body Odor
+### Reducción y/o cambio de olor corporal
 
-A major component in male body odor is the presence of [the steroid pheromone androstadienone](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) in sweat. Androstadienone is metabolized directly from testosterone, so halting testosterone removes the source. Without it, sweat takes on a much sweeter smell, which is often attributed to feminine odors.
+Un componente importante del olor corporal masculino es la presencia de [la feromona esteroide androstadienona](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) en el sudor. La androstadienona se metaboliza directamente a partir de la testosterona, por lo que al detenerla se elimina la fuente. Sin ella, el sudor adquiere un olor mucho más dulce, que suele atribuirse a los olores femeninos.
 
-People taking spironolactone may experience a total cessation of any body odor, due to the way the drug alters cortisol uptake within the body.
+Las personas que toman espironolactona pueden experimentar el cese total de cualquier olor corporal, debido a la forma en que el fármaco altera la captación de cortisol en el organismo.
 
-### Reduced Muscle Mass
+### Reducción de la masa muscular
 
-Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst body builders. People running on androgens naturally have more muscle mass, particularly in the upper body, without even having to work out. Removing androgens causes that muscle mass to atrophy and makes it harder to gain muscle. This is a major contributor to the feminine shoulder and neck line, as well as the waist line.
+Los andrógenos estimulan el crecimiento muscular, razón por la cual los esteroides anabólicos (que son literalmente testosterona) son tan comunes entre los culturistas. Las personas que consumen andrógenos tienen naturalmente más masa muscular, sobre todo en la parte superior del cuerpo, sin ni siquiera tener que hacer ejercicio. La eliminación de los andrógenos hace que esa masa muscular se atrofie y que sea más difícil ganar músculo. Esto contribuye en gran medida a la línea de hombros y cuello femeninos, así como a la línea de la cintura.
 
-With this comes a significant loss in strength. Carrying things becomes more difficult, pickle jars become harder to open.
+Con esto viene una pérdida significativa de fuerza. Llevar cosas se vuelve más difícil, los tarros de encurtidos se vuelven más difíciles de abrir.
 
-### Fat Redistribution into Feminine Proportions
+### Redistribución de la grasa en proporciones femeninas
 
-Androgens encourage the body to deposit fats into the abdomen, while estrogen encourages the body to deposit fats into the thighs, buttocks, and hips. Switching profiles causes new fats to be deposited according in the estrogen profile, and fats that were stored while on androgens break down. This produces the illusion of fat migration as the shape of the body changes. The waist line shrinks and defines itself below the ribs, and the belly becomes softer and flatter.
+Los andrógenos animan al cuerpo a depositar las grasas en el abdomen, mientras que los estrógenos animan al cuerpo a depositar las grasas en los muslos, las nalgas y las caderas. El cambio de perfil hace que se depositen nuevas grasas según el perfil de estrógenos, y las grasas que se almacenaban mientras se tomaban andrógenos se descomponen. Esto produce la ilusión de la migración de la grasa mientras la forma del cuerpo cambia. La línea de la cintura se encoge y se define por debajo de las costillas, y el vientre se vuelve más suave y plano.
 
-Because estrogen deposits weight much lower on the body, and the muscle mass in the upper body is lost, this lowers the center of gravity, which alters one's walking gait. It becomes more natural to cantilever the body with the hips while walking, as opposed to the shoulders.
+Como el estrógeno deposita el peso mucho más abajo en el cuerpo, y se pierde la masa muscular en la parte superior del cuerpo, esto baja el centro de gravedad, lo que altera la forma de caminar. Resulta más natural volcar el cuerpo con las caderas al caminar, en lugar de con los hombros.
 
-### Facial Feature Changes
+### Cambios en los rasgos faciales
 
-Along with body fat migration, fat in the face also migrates. The neck, chin and jaw line thin out while the lips and upper cheeks puff up. The brow and upper eye lids lift, exposing more of the eyeball. Changes in skin and musculature around the eye can alter the shape of the eyeball, changing focal depth and altering vision clarity. The color of the eyes may also change and become bolder, as testosterone causes the pigmentation in the iris to fade.
+Junto con la migración de la grasa corporal, la grasa de la cara también migra. El cuello, la barbilla y la línea de la mandíbula se adelgazan, mientras que los labios y la parte superior de las mejillas se hinchan. Las cejas y los párpados superiores se levantan, dejando más al descubierto el globo ocular. Los cambios en la piel y la musculatura alrededor del ojo pueden alterar la forma del globo ocular, modificando la profundidad focal y alterando la claridad de la visión. El color de los ojos también puede cambiar y volverse más atrevido, ya que la testosterona hace que la pigmentación del iris se desvanezca.
 
-This is an extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. Take selfies to compare.
+Se trata de un proceso extremadamente sutil y lento que dura años, y es fácil pensar que no está cambiando nada en absoluto. Tómate selfies para comparar.
 
-### Changes to Scalp Hair
+### Cambios en el pelo del cuero cabelludo
 
-With the removal of androgens, blood flow to the scalp increases. Follicles that had been lost to male pattern baldness may reactivate, causing some return of the hair line and a filling in of bald spots. Scalp hair becomes thicker and follicles grow stronger, allowing hair to grow to longer lengths.
+Con la eliminación de los andrógenos, aumenta el flujo sanguíneo en el cuero cabelludo. Los folículos que se habían perdido debido a la calvicie de patrón masculino pueden reactivarse, lo que provoca el retorno de la línea del cabello y el relleno de las zonas calvas. El pelo del cuero cabelludo se vuelve más grueso y los folículos se fortalecen, lo que permite que el pelo crezca a mayor longitud.
 
-With this thickening, curliness may become more pronounced, and a change in hair color may also occur. You might find your hair taking on a texture more like your mother's than your father's.
+Con este engrosamiento, el rizado puede volverse más pronunciado, y también puede producirse un cambio en el color del cabello. Es posible que su cabello adquiera una textura más parecida a la de su madre que a la de su padre.
 
-### [Anterior Pelvic Tilt](http://en.wikipedia.org/wiki/Pelvic_tilt)
+### [Inclinación pélvica anterior](http://en.wikipedia.org/wiki/Pelvic_tilt)
 
-As musculature atrophies, ligament flexibility increases, and weight shifts lower on the body, the orientation of the pelvic bone in relation to the spine and femurs rotates forward. Not by much, only about 10-20 degrees, but enough to cause a change in the alignment of the spine and hips, increasing arch of the back and causing the buttocks to jut out more. The added arch to the back can cause a relative drop in total height, between 1 and 2 inches (2-5cm) depending on pelvic shape.
+A medida que la musculatura se atrofia, la flexibilidad de los ligamentos aumenta y el peso se desplaza hacia abajo en el cuerpo, la orientación del hueso de la pelvis en relación con la columna vertebral y los fémures gira hacia delante. No mucho, sólo unos 10-20 grados, pero lo suficiente como para provocar un cambio en la alineación de la columna y las caderas, aumentando el arco de la espalda y haciendo que las nalgas sobresalgan más. El arco añadido a la espalda puede causar una caída relativa de la altura total, entre 2 y 5 cm. dependiendo de la forma de la pelvis.
 
-Note, this is NOT the same as the [hip rotation](https://youtu.be/OROoZzoVwfk?t=12) that occurs in AFAB puberty and during pregnancy. That is the result of migration of bone cells, altering the shape of the pelvic bone itself. **However**, hip rotation *can* occur if the person is young enough to still be within initial puberty, where the body is producing elevated human growth hormone. There have also been examples of hip rotation happening over long periods of time in trans elders. In 2017 an 80 year old trans woman reported on reddit that over the course of her 30 years on HRT, her doctor observed changes in her pelvis consistent with female hip rotation.
+Tenga en cuenta que esto NO es lo mismo que la [rotación de la cadera](https://youtu.be/OROoZzoVwfk?t=12) que se produce en la pubertad AFAB y durante el embarazo. Eso es el resultado de la migración de las células óseas, alterando la forma del propio hueso pélvico. **Sin embargo**, la rotación de cadera *puede* ocurrir si la persona es lo suficientemente joven como para estar todavía dentro de la pubertad inicial, donde el cuerpo está produciendo una elevada hormona de crecimiento humano. También ha habido ejemplos de rotación de cadera que ocurren durante largos períodos de tiempo en ancianos trans. En 2017, una mujer trans de 80 años de edad informó en reddit que en el transcurso de sus 30 años en la TRH, su médico observó cambios en su pelvis consistentes con la rotación de la cadera femenina.
 
-### Reduced Tolerance of Caffeine, Alcohol, and/or Psychotropics
+### Reducción de la tolerancia a la cafeína, el alcohol y/o los psicotrópicos
 
-Less body mass means less blood to dilute chemicals into. Losing testosterone also means a slower metabolic rate, decreasing the speed at which toxins are reduced from the blood stream. Some anti-androgens also put strain on the liver, further reducing how quickly chemicals are processed.
+Menos masa corporal significa menos sangre en la que diluir las sustancias químicas. La pérdida de testosterona también implica una tasa metabólica más lenta, lo que disminuye la velocidad a la que se reducen las toxinas del torrente sanguíneo. Algunos antiandrógenos también ejercen presión sobre el hígado, reduciendo aún más la rapidez con la que se procesan las sustancias químicas.
 
-### Mental Changes
+### Cambios mentales
 
-As covered in the [Biochemical Dysphoria]() section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
+Como se explica en la sección [Disforia Bioquímica](), los cerebros pueden estar conectados a un determinado perfil hormonal, y utilizar un perfil incorrecto es como usar un ordenador portátil con las pilas bajas o un procesador sobrecalentado. El inicio de la TRH da lugar casi universalmente a un cese de los síntomas de despersonalización y desrealización (DPDR) en las dos primeras semanas. La niebla mental desaparece y resulta más fácil concentrarse en conceptos complejos (suponiendo que no se tengan también otras dificultades de procesamiento mental como el TDAH).
 
 ##### ADHD
 
-If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so reducing testosterone can reduce the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. Less working memory means you become more prone to distractions and have more difficulty maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+Si tiene TDAH, puede haber algunos cambios en sus síntomas. Los andrógenos amplifican la función de los receptores de [dopamina](https://en.wikipedia.org/wiki/Dopamine), por lo que la reducción de la testosterona puede reducir el potencial de activación de la dopamina en el cerebro. La dopamina es un neurotransmisor clave en el comportamiento de la [memoria de trabajo](https://en.wikipedia.org/wiki/Working_memory), la memoria a corto plazo del cerebro. Una menor memoria de trabajo significa que se es más propenso a las distracciones y se tiene más dificultad para mantener la [carga cognitiva](https://en.wikipedia.org/wiki/Cognitive_load).
 
-The good news is that estradiol prompts the brain to produce MORE dopamine.
+La buena noticia es que el estradiol hace que el cerebro produzca MÁS dopamina.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end"><div class="card"><div class="card-body"><h4 class="card-title">Authors Note:</h4> }!}
 
-There is a known problem with Spironolactone hampering working memory due to it's affects on mineralcorticoids. This can significantly worsen ADHD issues and make it much harder to maintain focus or be aware of your surroundings. I was involved in a car accident in 2017 that I blame on spiro fog.
+Existe un problema conocido con la espironolactona que dificulta la memoria de trabajo debido a sus efectos sobre los mineralcorticoides. Esto puede empeorar significativamente los problemas de TDAH y hacer que sea mucho más difícil mantener la concentración o ser consciente de su entorno. Estuve involucrado en un accidente de coche en 2017 que culpo a la niebla spiro.
 
 {!{ </div></div></div> }!}
 
-##### Emotional Expansion
+##### Expansión emocional
 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and expression. The stoicism and dissociation lifts and emotions land with much greater intensity. Highs are higher and lows are lower. Those who may have been unable to cry, before transition, gain it back, both for sadness and for joy.
+El alivio de la DPDR se acompaña casi universalmente de una capacidad de emoción y expresión mucho más amplia. El estoicismo y la disociación desaparecen y las emociones aterrizan con mucha más intensidad. Los altos son más altos y los bajos son más bajos. Los que antes de la transición eran incapaces de llorar, vuelven a hacerlo, tanto de tristeza como de alegría.
 
-Unfortunately this also means that if you had trauma from events earlier in life (and who doesn't), you may start to experience PTSD episodes. This is why it is good (and in some places, required) to have a therapist.
+Desgraciadamente, esto también significa que si has tenido traumas por eventos anteriores en tu vida (y quién no los tiene), puedes empezar a experimentar episodios de TEPT. Por eso es bueno (y en algunos lugares, obligatorio) tener un terapeuta.
 
-##### Mood Swings
+##### Cambios de humor
 
-As estrogen levels fluctuate between doses you may experience noticeable and sometimes dramatic shifts in your mood. Unexplained crying happens; PMS rage happens; be ready for it.
+A medida que los niveles de estrógeno fluctúan entre las dosis, puedes experimentar cambios notables y a veces dramáticos en tu estado de ánimo. El llanto inexplicable ocurre; la rabia del SPM ocurre; prepárate para ello.
 
-##### Appetite
+##### Apetito
 
-Many people report being unable to eat as much as they could pre-transition. The loss of lean muscle in the arms and shoulders means that the body has a reduced capacity for burning lipids, and as such the fullness sensation occurs earlier.
+Muchas personas afirman no poder comer tanto como antes de la transición. La pérdida de músculo magro en los brazos y los hombros hace que el cuerpo tenga una menor capacidad para quemar lípidos, por lo que la sensación de saciedad se produce antes.
 
-However, progesterone increases mitochondrial function within the body, boosting metabolic rate. This can cause an increase in appetite as the body attempts to replenish calories burned.
+Sin embargo, la progesterona aumenta la función mitocondrial en el cuerpo, impulsando la tasa metabólica. Esto puede provocar un aumento del Apetito, ya que el cuerpo intenta reponer las calorías quemadas.
 
-That said, you may find yourself unable to eat *as much* food as you could before. Many report that they become full/satisfied sooner than before.
+Dicho esto, es posible que no pueda comer *tanto* como antes. Muchos informan que se sienten llenos/satisfechos antes que antes.
 
-##### Sleep
+##### dormir
 
-Many people report having better sleep patterns after starting HRT. This is likely a factor of the alleviation of DPDR, as it seems to occur in both AMAB and AFAB trans people. That said, initiating progesterone can *significantly* improve sleep, allowing for deeper sleep and more dreaming.
+Muchas personas afirman tener mejores patrones de sueño después de iniciar la THS. Es probable que esto sea un factor de alivio de la DPDR, ya que parece ocurrir tanto en personas trans AMAB como AFAB. Dicho esto, iniciar la progesterona puede mejorar *significativamente* el sueño, permitiendo un sueño más profundo y más sueños.
 
-##### Extroversion
+##### Extroversión
 
-It's extremely common for trans people of all types to find themselves much more sociable post-transition. This may not actually be a factor of hormone therapy, however, an simply be a result of no longer having to suppress large portions of their personality.
+Es muy común que las personas trans de todo tipo se encuentren mucho más sociables después de la transición. Sin embargo, esto puede no ser un factor de la terapia hormonal, sino simplemente el resultado de no tener que suprimir grandes partes de su personalidad.
 
-### Sensory Enhancements
+### Mejoras sensoriales
 
-Transgender HRT has [been shown several times](https://academic.oup.com/cercor/article/28/5/1582/3064956) to cause changes in the distribution of gray matter and white matter within the brain for trans people on both forms of HRT. New structures and neuro-pathways are formed as a result of the shift in hormone profiles, and this results in changes of sensory perception. These are some of the changes that have been observed and reported, but it is is not clear if this is a function of the hormones themselves, or a factor of the brain receiving the hormones it is wired for.
+Se ha demostrado en varias ocasiones que la THS transgénero (https://academic.oup.com/cercor/article/28/5/1582/3064956) provoca cambios en la distribución de la materia gris y la materia blanca en el cerebro de las personas trans que utilizan ambas formas de THS. Se forman nuevas estructuras y vías neuronales como resultado del cambio en los perfiles hormonales, y esto da lugar a cambios en la percepción sensorial. Estos son algunos de los cambios que se han observado y notificado, pero no está claro si esto es una función de las propias hormonas o un factor de que el cerebro reciba las hormonas para las que está preparado.
 
-- **Improved sense of smell**, especially of other bodies. Human sweat becomes very discernible, even overpowering at times.
-- **Improved color perception**. Colors may become bolder, richer.
-- **Improved spatial awareness**. Many trans people experience poor proprioception and a tendency towards clumsiness that goes away after starting HRT.
-- **Changes in perception of taste**. Certain foods become more or less palatable; Cilantro, for example, may become more or less soapy. Increased tolerance of capsaicin (spicy peppers). Chocolate and wine become more flavorful.
+- Mejora del sentido del olfato**, especialmente de otros cuerpos. El sudor humano se vuelve muy perceptible, incluso abrumador a veces.
+- Mejora de la percepción del color**. Los colores pueden ser más intensos, más ricos.
+- Mejora de la conciencia espacial. Muchas personas trans experimentan una mala propriocepción y una tendencia a la torpeza que desaparece después de iniciar la THS.
+- Cambios en la percepción del gusto**. Ciertos alimentos se vuelven más o menos sabrosos; el cilantro, por ejemplo, puede volverse más o menos jabonoso. Mayor tolerancia a la capsaicina (pimientos picantes). El chocolate y el vino se vuelven más sabrosos.
 
-Users of Spironolactone often develop strong cravings for foods high in salt, such as pickles, olives, or potato products. This is because Spiro is a potassium sparing diuretic which causes you to pee out all your sodium. The brain creates cravings to encourage you to replace that sodium.
+Los usuarios de espironolactona suelen desarrollar fuertes antojos de alimentos con alto contenido en sal, como encurtidos, aceitunas o productos de patata. Esto se debe a que Spiro es un diurético ahorrador de potasio que hace que se orine todo el sodio. El cerebro crea antojos para animarle a reemplazar ese sodio.
 
-### Spatial Shift, Reduced Confidence
+### Desplazamiento espacial, reducción de la confianza
 
-There is a very frequently reported experience of feeling smaller within the world, even when wearing heels. People taller than you seem to tower over you, and spaces feel larger.
+Existe una experiencia muy frecuente de sentirse más pequeño en el mundo, incluso cuando se llevan tacones. Las personas más altas que uno parecen sobresalir por encima de uno, y los espacios se sienten más grandes.
 
-People have also reported a tendency to be less prone to start arguments, an a desire to avoid confrontation rather than create it. Testosterone has been shown to increase a persons sense of confidence, and removing it has the opposite affect.
+La gente también ha informado de una tendencia a ser menos propensa a iniciar discusiones, y un deseo de evitar la confrontación en lugar de crearla. Se ha demostrado que la testosterona aumenta la sensación de confianza de las personas, y que eliminarla tiene el efecto contrario.
 
 
-### Genital Changes
+### Cambios genitales
 
 {!{
 <div class="gutter flex">
@@ -178,90 +178,90 @@ People have also reported a tendency to be less prone to start arguments, an a d
 </div>
 }!}
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start acting like they are in the shape of a vulva, even though they aren't.
+Todos los genitales se construyen a partir de los mismos tejidos, simplemente se organizan de forma diferente durante la gestación. Gran parte del comportamiento de estos tejidos está regulado por las hormonas con las que funciona el cuerpo. Las secreciones de la piel, las texturas, la sensibilidad y el comportamiento eréctil son expresiones hormonales. Lo que significa que cuando se eliminan los andrógenos y se añaden estrógenos, estos tejidos empiezan a actuar como si tuvieran forma de vulva, aunque no lo sean.
 
-##### Increased Sensitivity
+##### Mayor sensibilidad
 
-The skin on the glans and shaft becomes much thinner and fragile, more prone to tearing and irritation, while also becoming *significantly* more sensitive to touch. The entire organ also becomes much more sensitive to pressure, and vibration becomes a better form of stimulation over stroking, which may become painful.
+La piel del glande y del pene se vuelve mucho más fina y frágil, más propensa al desgarro y a la irritación, a la vez que se vuelve *significativamente* más sensible al tacto. Todo el órgano también se vuelve mucho más sensible a la presión, y la vibración se convierte en una mejor forma de estimulación que las caricias, que pueden llegar a ser dolorosas.
 
-#### Moisture and Feminine Odor
+#### Humedad y Olor Femenino
 
-The skin along the shaft begins to secret the same fluids as the vaginal canal, particularly during arousal (yes, trans girls get wet). These fluids encourage the development of the same microbiome that develops within the vaginal canal. The combination of these factors means that odor (and taste) of the penis changes to align more to that of a vulva. 
+La piel a lo largo del eje comienza a secretar los mismos fluidos que el canal vaginal, particularmente durante la excitación (sí, las chicas trans se mojan). Estos fluidos favorecen el desarrollo del mismo microbioma que se desarrolla dentro del canal vaginal. La combinación de estos factores hace que el olor (y el sabor) del pene cambie para alinearse más con el de la vulva. 
 
-##### Color and Texture Changes
+##### Cambios de color y textura
 
-The scrotum is an analog of the outer and inner labia, and softens to take on a softer, more velvety texture, extending down into the perineum. The skin along the perineal raphe (the vertical line where the vulva opening had been before the scrotum formed) will also darken. Some people experience a kind of striping pattern along the scrotum.
+El escroto es un análogo de los labios exteriores e interiores, y se ablanda hasta adquirir una textura más suave y aterciopelada, que se extiende hasta el perineo. La piel a lo largo del rafe perineal (la línea vertical donde estaba la abertura de la vulva antes de que se formara el escroto) también se oscurece. Algunas personas experimentan una especie de patrón de rayas a lo largo del escroto.
 
-##### Fewer Erections
+##### Menos erecciones
 
-Without free floating testosterone, the levels of [DHT](https://en.wikipedia.org/wiki/Dihydrotestosterone) in the bloodstream drop significantly. DHT plays a major role in the stimulation of random erections during sleep through the enlargement of the prostate, and these erections are what is responsible for the maintenance of the erectile tissue. Without DHT, the prostate shrinks again, and random erections cease (no more morning wood).
+Sin la testosterona libre flotante, los niveles de [DHT](https://en.wikipedia.org/wiki/Dihydrotestosterone) en el torrente sanguíneo disminuyen considerablemente. La DHT desempeña un papel importante en la estimulación de erecciones aleatorias durante el sueño a través del agrandamiento de la próstata, y estas erecciones son las responsables del mantenimiento del tejido eréctil. Sin DHT, la próstata vuelve a encogerse, y las erecciones aleatorias cesan (no más madera matutina).
 
-However this means that the erectile tissue will begin to atrophy. Prolonged atrophy will result in shrinkage of the entire organ, for better or worse. The shape of the penis changes as this occurs, often becoming more conical. The glans is the first part to shrink and may lose the ability to become rigid. Penetrative sex may become more difficult, and erections themselves may become painful.
+Sin embargo, esto significa que el tejido eréctil comenzará a atrofiarse. Una atrofia prolongada provocará la contracción de todo el órgano, para bien o para mal. La forma del pene cambia a medida que esto ocurre, a menudo volviéndose más cónica. El glande es la primera parte que se encoge y puede perder la capacidad de ponerse rígido. Las relaciones sexuales con penetración pueden resultar más difíciles y las propias erecciones pueden resultar dolorosas.
 
-This can be countered by regularly inducing erections, but that may become more and more difficult as time goes on.
+Esto puede contrarrestarse induciendo regularmente las erecciones, pero esto puede resultar cada vez más difícil con el paso del tiempo.
 
-##### Clear Ejaculate
+##### Eyaculación clara
 
-The majority of the liquid that makes up ejaculate originates in the prostate. It is a completely clear fluid, with a slimy texture. The white color and stickiness that is usually attributed to male ejaculate is caused by semen and seminal fluid from the testicles. The production of both semen and seminal fluid is a product of testicle function, so as the testicles shutdown (either because of anti-androgens or from estrogen dominance), these fluids halt, leaving only the prostate fluid.
+La mayor parte del líquido que compone la eyaculación se origina en la próstata. Se trata de un líquido completamente transparente, con una textura viscosa. El color blanco y la pegajosidad que se suele atribuir a la eyaculación masculina se debe al semen y al líquido seminal de los testículos. La producción tanto de semen como de líquido seminal es un producto de la función testicular, por lo que cuando los testículos se apagan (ya sea por los antiandrógenos o por el dominio de los estrógenos), estos fluidos se detienen, dejando sólo el líquido prostático.
 
-Some people lose even that, and stop having any emissions at all during orgasm.
+Algunas personas pierden incluso eso, y dejan de tener cualquier emisión durante el orgasmo.
 
-Needless to say, this comes with sterility. Contrary to what some sources report, this is NOT permanent, and many people have been able to restore testicle functionality by halting hormone therapy, either for detransition or for reproductive purposes.
+No hace falta decir que esto conlleva la esterilidad. Al contrario de lo que informan algunas fuentes, esto NO es permanente, y muchas personas han sido capaces de restaurar la funcionalidad testicular mediante la interrupción de la terapia hormonal, ya sea para la detransición o con fines reproductivos.
 
 ##### Testicle Atrophy
 
 Once the testes have stopped functioning, the cells start to atrophy, shrinking over time. This atrophy may be accompanied with pain, sometimes in the form of a soreness or a dull throbbing sensation, or sometimes as registering as little sparks of pain that travel along the perineal nerve from the testicles down to the rectum.
 
-### Sexual Changes
+### Cambios sexuales
 
-Initial start of HRT may result in a total loss of sex drive as testosterone levels plummet. This can last 3-12 months, and in some cases doesn't return at all. Starting progesterone often serves as catalyst for its return. If/when sex drive comes back, the new libido [may be a completely different experience](https://curvyandtrans.com/p/5BF1EA/libatious-libidos) that one may not recognize at first.
+El inicio de la THS puede provocar una pérdida total del deseo sexual, ya que los niveles de testosterona caen en picado. Esto puede durar de 3 a 12 meses y, en algunos casos, no se recupera en absoluto. El inicio de la progesterona a menudo sirve de catalizador para su regreso. Si/cuando el deseo sexual regresa, la nueva libido [puede ser una experiencia completamente diferente](https://curvyandtrans.com/p/5BF1EA/libatious-libidos) que uno puede no reconocer al principio.
 
-##### Heightened Erogenous Zones
+##### Zonas erógenas aumentadas
 
 {!{
 <div class="gutter flex">
-  <div class="card"><div class="card-body"><h4 class="card-title">Human Erogenous Zones:</h4>
+  <div class="card"><div class="card-body"><h4 class="card-title">Zonas erógenas aumentadas:</h4>
 {{import '~/img'
   images.erogenous
   link='https://www.researchgate.net/publication/301509880_Topography_of_Human_Erogenous_Zones#pf19'
-  caption='Source: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topography of Human Erogenous Zones</a>'
+  caption='Source: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topografía de las zonas erógenas humanas</a>'
 }}
   </div></div>
 </div>
 }!}
 
-The entire body becomes more responsive to touch, and with that unlocks stronger erogenous zones. Breasts, abdomen, inner thighs and neck, in particular, become more arousal inducing.
+Todo el cuerpo se vuelve más sensible al tacto, y con ello se desbloquean zonas erógenas más fuertes. Los pechos, el abdomen, el interior de los muslos y el cuello, en particular, se vuelven más excitantes.
 
-##### Orgasm
+##### Orgasmo
 
-Orgasm changes significantly, both in the way it builds and how it is experienced (see link above), but additionally, if one is lucky, they will gain the ability to become multi-orgasmic with no refractory period. The cost of this is that orgasm may become harder to achieve, and one has to re-learn how to reach it. It also becomes easier to reach with a partner, which may have been the opposite before.
+El orgasmo cambia significativamente, tanto en la forma en que se construye como en la forma en que se experimenta (véase el enlace anterior), pero además, si uno tiene suerte, obtendrá la capacidad de convertirse en multiorgásmico sin período refractario. El coste de esto es que el orgasmo puede ser más difícil de alcanzar, y uno tiene que volver a aprender cómo alcanzarlo. También resulta más fácil alcanzarlo con una pareja, lo que antes podía ser lo contrario.
 
-##### Attraction
+##### Atracción
 
-It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-transition) for a transgender person to experience a change in their sexual orientation with transition. This is almost always the result of the removal of self-imposed mental barriers, but hormone therapy often plays a role *in* that removal. In most cases this simply involves an expansion of ones attraction, from monosexual to bi/pansexual, but some people also discover that their attraction was largely rooted in self-interest and that their true attraction is reversed.
+No es [en absoluto inaudito](https://www.them.us/story/sexual-attraction-after-transition) que una persona transgénero experimente un cambio en su orientación sexual con la transición. Esto es casi siempre el resultado de la eliminación de barreras mentales autoimpuestas, pero la terapia hormonal a menudo juega un papel *en* esa eliminación. En la mayoría de los casos se trata simplemente de una ampliación de la atracción de uno, de monosexual a bi/pansexual, pero algunas personas también descubren que su atracción estaba en gran medida arraigada en el interés propio y que su verdadera atracción se invierte.
 
-### Cyclical Period-like Symptoms
+### Síntomas cíclicos de la menstruación
 
-Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
+Obviamente, no nos referimos al flujo sanguíneo, eso sería ridículo. Los síntomas varían mucho (al igual que en las mujeres cisgénero) y suelen durar entre 2 y 4 días, repitiéndose cada 26-32 días (aunque algunas dicen experimentarlo quincenalmente). Esto ocurre independientemente de los horarios de la medicación. El uso de una aplicación de seguimiento del periodo como Clue puede revelar el patrón.
 
-- Cramping in the intestine and abdominal muscles, ranging from a slight flutter in the gut to strong painful spasms.
-- Bloating and water retention
-- Gas, diarrhea and other intestinal issues.
-- Emotional instability, mood swings and irrational thoughts
-  - Heightened depression and dysmorphia
-  - Depersonalization or dissociation.
-  - Increased dysphoria
-  - Irritability (PMS)
-- Muscle and joint aches and pains
-- Breast engorgement and nipple tenderness
-- Acne
-- Fatigue
-- Appetite changes, spontaneous cravings (see: chocolate cravings)
-- Spontaneous shifts in libido
-- Changes in genital odor
+- Calambres en el intestino y en los músculos abdominales, que van desde un ligero aleteo en el intestino hasta fuertes espasmos dolorosos.
+- Hinchazón y retención de líquidos
+- Gases, diarrea y otros problemas intestinales.
+- Inestabilidad emocional, cambios de humor y pensamientos irracionales
+  - Depresión aguda y dismorfia
+  - Despersonalización o disociación.
+  - Aumento de la disforia
+  - Irritabilidad (síndrome premenstrual)
+- Dolores musculares y articulares
+- Congestión mamaria y sensibilidad en los pezones
+- Acné
+- Fatiga
+- Cambios de apetito, antojos espontáneos (véase: antojos de chocolate)
+- Cambios espontáneos en la libido
+- Cambios en el olor genital
 
-No, there have not yet been studies on this yet, but it is reported by far, **far** too many individuals to be an anomaly (including by yours truly), and has been confirmed by multiple people's own doctors. There is also precedent of this happening with cisgender women who have had hysterectomies (I personally know two cisgender women who have cycles but do not menstruate, without any medical intervention).
+No, todavía no hay estudios sobre esto, pero es reportado por muchos, **demasiados** individuos para ser una anomalía (incluyendo por su servidor), y ha sido confirmado por los propios médicos de múltiples personas. También hay precedentes de que esto ocurra con mujeres cisgénero que se han sometido a histerectomías (personalmente conozco a dos mujeres cisgénero que tienen ciclos pero no menstrúan, sin ninguna intervención médica).
 
-Running on estrogen and progesterone activates a gene sequence which instructs the hypothalamus to attempt to cycle ovary and uterine behavior just as it does in female assigned individuals, regardless of the absence of ovaries or a uterus. This cycle affects numerous organs and subsystems in the body, causing the release of a variety of different hormones and enzymes that can affect function and even behavior.
+La administración de estrógenos y progesterona activa una secuencia genética que instruye al hipotálamo para que intente realizar un ciclo de ovarios y úteros tal y como lo hace en los individuos con asignación femenina, independientemente de la ausencia de ovarios o de útero. Este ciclo afecta a numerosos órganos y subsistemas del cuerpo, provocando la liberación de una serie de hormonas y enzimas diferentes que pueden afectar a la función e incluso al comportamiento.
 
-A more thorough explanation of this will be coming in a later update to the site.
+En una próxima actualización de la página web se ofrecerá una explicación más detallada sobre este tema.
