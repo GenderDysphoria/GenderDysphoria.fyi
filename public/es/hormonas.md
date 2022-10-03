@@ -1,120 +1,120 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Hormones: How do they work"
-linkTitle: "How Hormones Work"
-description: "It's nothing like magnets."
+title: "Las hormonas: Cómo funcionan"
+linkTitle: "Cómo funcionan las hormonas"
+description: "No es nada parecido a los imanes."
 preBody: '_declaracion'
 siblings:
   prev: /es/chromosomas
-  prevCaption: Chromosomes
+  prevCaption: Chromosomas
   next: /es/segunda-pubertad-masc
-  nextCaption: Androgenic Second Puberty
+  nextCaption: Segunda pubertad androgénica
 classes:
   - gdb
 ---
 
-# How Hormones Work
+# Cómo funcionan las hormonas
 
-As we described in the [Causes of Gender Dysphoria](/en/causes) section, every human's DNA contains the genetic instructions for both male and female bodies, and which set of instructions gets used is controlled by what hormones your gonads produce. That differentiation occurs entirely based on whether you happen to have an SRY gene which, in the 6-8th week of gestation, kicks off a chain reaction that produces testes instead of ovaries. From that point on, every sexual attribute of the human body (primary and secondary) is a result of the hormones that those gonads produce.
+Como describimos en la sección [Causas de la disforia de género](/es/causas), el ADN de cada ser humano contiene las instrucciones genéticas para los cuerpos masculino y femenino, y el conjunto de instrucciones que se utiliza está controlado por las hormonas que producen las gónadas. Esa diferenciación se produce enteramente en función de si tienes un gen SRY que, en la 6ª-8ª semana de gestación, desencadena una reacción en cadena que produce testículos en lugar de ovarios. A partir de ese momento, todos los atributos sexuales del cuerpo humano (primarios y secundarios) son el resultado de las hormonas que producen esas gónadas.
 
-If they produce estrogens (primarily Estradiol) then the genitals form into a vulva, vagina and uterus. If they produce androgens (primarily Testosterone) then the genitals form into a penis and scrotum, shifting the [Skene's gland](https://en.wikipedia.org/wiki/Skene%27s_gland) downward and enlarging it into a prostate. Differentiation ends here until the onset of puberty, 9-10 years later, and we all know what puberty does.
+Si producen estrógenos (principalmente Estradiol) entonces los genitales se convierten en vulva, vagina y útero. Si producen andrógenos (principalmente testosterona), los genitales se convierten en un pene y un escroto, desplazando la glándula de Skene (https://en.wikipedia.org/wiki/Skene%27s_gland) hacia abajo y agrandándola hasta convertirse en una próstata. La diferenciación termina aquí hasta el inicio de la pubertad, 9-10 años después, y todos sabemos lo que hace la pubertad.
 
-So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **Receptor**.
+Entonces, ¿cómo funciona esto? ¿Por qué las células se diferencian así? Bueno, antes de poder explicar eso, primero tenemos que explicar el concepto de **Receptor**.
 
 
-## Hormone Receptors
+## Receptores hormonales
 
-In simplest terms, a receptor is like the keyed lock ignition on a car (do new car’s still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
+En términos sencillos, un receptor es como la cerradura de encendido de un coche (¿los coches nuevos todavía tienen cerraduras de encendido?). Cada célula del cuerpo tiene un conjunto de cerraduras que activan diferentes funciones dentro de esa célula. Son como interruptores que indican a la célula que debe activar una parte diferente de su secuencia genética. Cada receptor sólo puede aceptar ciertos compuestos químicos, de forma parecida a como una cerradura sólo puede aceptar ciertas llaves, y diferentes productos químicos tienen diferentes capacidades para girar la llave. Algunos pueden arrancar completamente el coche, mientras que otros sólo lo ponen en modo accesorio.
 
-The ability for a chemical to fit into a receptor is called **Relational Binding Affinity**, and is measured as percentage of how likely a chemical will bind to a receptor compared to another. So, for example, if Hormone B binds only 10% of the time in relation to Hormone A, then it is said to have a 10% binding affinity. Similarly, the ability for a chemical to turn the key is called *Transactivational Ability*. Compounds which fit into a receptor but don’t do anything are called *Antagonists*, compounds which are able to turn the key are called **Agonists**. If it can only turn the key a tiny bit, it’s called a **Partial Agonist**.
+La capacidad de una sustancia química para encajar en un receptor se denomina **afinidad de unión relacional**, y se mide como porcentaje de la probabilidad de que una sustancia química se una a un receptor en comparación con otra. Así, por ejemplo, si la hormona B se une sólo un 10% de las veces en relación con la hormona A, entonces se dice que tiene una afinidad de unión del 10%. Del mismo modo, la capacidad de una sustancia química para girar la llave se denomina *Capacidad de Transactivación*. Los compuestos que se ajustan a un receptor pero no hacen nada se llaman *Antagonistas*, los compuestos que son capaces de girar la llave se llaman **Agonistas**. Si sólo puede girar la llave un poco, se llama **Agonista Parcial**.
 
-You can think of antagonists like bouncers at a club. They stand in the doorway and prevent anything else from getting through, but don’t enter the club themselves. Most antagonists are referred to as **blockers**. This is different from an **inhibitor**, which is a compound that slows down a chemical reaction, or an *activator*, which speeds up a reaction. In receptors, an inhibitor lowers the ability of the receptor, causing it to respond less effectively to things that bind to the receptor, and an activator increases the ability of the receptor, making it respond stronger, like a booster.
+Puedes pensar en los antagonistas como en los porteros de un club. Se sitúan en la puerta e impiden el paso de cualquier otra cosa, pero no entran ellos mismos en el club. La mayoría de los antagonistas se denominan **bloqueadores**. Esto es diferente de un **inhibidor**, que es un compuesto que ralentiza una reacción química, o un *activador*, que acelera una reacción. En los receptores, un inhibidor disminuye la capacidad del receptor, haciendo que responda con menos eficacia a las cosas que se unen al receptor, y un activador aumenta la capacidad del receptor, haciendo que responda con más fuerza, como un potenciador.
 
-In some cases a hormone can function as an inhibitor or an activator for a different hormone by slowing down or increasing behavior in a cell. For example, progesterone increase cell activity, making cells respond more effectively to estrogens and androgens, and testosterone increases the transaction ability of dopamine receptors, so less dopamine is needed in the brain for the same effect.
+En algunos casos, una hormona puede funcionar como un inhibidor o un activador para una hormona diferente, frenando o aumentando su comportamiento en una célula. Por ejemplo, la progesterona aumenta la actividad celular, haciendo que las células respondan más eficazmente a los estrógenos y andrógenos, y la testosterona aumenta la capacidad de transacción de los receptores de la dopamina, por lo que se necesita menos dopamina en el cerebro para obtener el mismo efecto.
 
-## Whats in a Hormone
+## Qué hay en una hormona
 
-There are four main kinds of hormones:
+Existen cuatro tipos principales de hormonas:
 
-- [Amino Acids](https://en.wikipedia.org/wiki/Amino_acid) such as Melatonin which controls sleep, or Thyroxine which regulates the metabolism.
-- [Peptides](https://en.wikipedia.org/wiki/Peptide_hormone), like Oxytocin and Insulin, which are collections of Amino Acids.
-- [Eicosanoids](https://en.wikipedia.org/wiki/Eicosanoid) that are formed from lipids and fatty acids and predominantly affect the immune system
-- [Steroids](https://en.wikipedia.org/wiki/Steroid) are signaling molecules produced by various internal organs in order to pass messages to other organs within the body.
+- [Amino Acidos](https://es.wikipedia.org/wiki/Aminoacido) como la melatonina, que controla el sueño, o la tiroxina, que regula el metabolismo.
+- [Péptidos](https://es.wikipedia.org/wiki/P%C3%A9ptido), como la oxitocina y la insulina, que son conjuntos de aminoácidos.
+- [Eicosanoides](https://en.wikipedia.org/wiki/Eicosanoid) que se forman a partir de lípidos y ácidos grasos y afectan predominantemente al sistema inmunitario.
+- [Esteroides](https://en.wikipedia.org/wiki/Steroid) son moléculas de señalización producidas por varios órganos internos para transmitir mensajes a otros órganos del cuerpo.
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
   link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
   external=1
-  alt="Chart of steroid metabolism flow"
-  caption="All steroids are formed from cholesterols (top left) and are derived from other steroids. Progestins form into Androgens which form into Estrogens. This is a one-way exchange, and does not reverse, so don't believe it when someone tells you that too much estrogen will turn it into testosterone."
+  alt="Gráfico del flujo del metabolismo de los esteroides"
+  caption="Todos los esteroides se forman a partir de los colesteroles (arriba a la izquierda) y se derivan de otros esteroides. Las progestinas se convierten en andrógenos, que a su vez se convierten en estrógenos. Este es un intercambio unidireccional y no se invierte, así que no crea cuando alguien le diga que demasiado estrógeno lo convertirá en testosterona."
 }}</div> }!}
 
-For the purposes of transition, this last category is what we care about the most, as all of the sex hormones are steroids. They fall into seven main categories:
+A efectos de la transición, esta última categoría es la que más nos interesa, ya que todas las hormonas sexuales son esteroides. Se dividen en siete categorías principales:
 
-- [Androgens](https://en.wikipedia.org/wiki/Androgen)
-- [Estrogens](https://en.wikipedia.org/wiki/Estrogen)
-- [Progestagins](https://en.wikipedia.org/wiki/Progestogen)
-- [Glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)
-- [Mineralcorticoids](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [Neurosteroids](https://en.wikipedia.org/wiki/Steroid)
-- [Aminosteroids](https://en.wikipedia.org/wiki/Aminosteroid)
+- [Androgenos](https://en.wikipedia.org/wiki/Androgen)
+- [Estrogenos](https://en.wikipedia.org/wiki/Estrogen)
+- [Progestágenos](https://en.wikipedia.org/wiki/Progestogen)
+- [Glucocorticoides](https://en.wikipedia.org/wiki/Glucocorticoid)
+- [Mineralcorticoides](https://en.wikipedia.org/wiki/Mineralocorticoid)
+- [Neuroesteroides](https://en.wikipedia.org/wiki/Steroid)
+- [Aminoesteroides](https://en.wikipedia.org/wiki/Aminosteroid)
 
-The first three of these are what we care about most when it comes to Hormone Therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
-
-
-### Androgens
-
-There are nearly a dozen different androgens, but the ones we care about the most are [Testosterone](https://en.wikipedia.org/wiki/Testosterone) and [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
-
-Testosterone is the primary masculinizing hormone for the human body and is produced in the adrenal glands, the testes, and in the ovaries (where it is immediately converted into estrone and estradiol). It tells both muscle and bone cells to grow and in higher concentrations encourages larger muscle mass and thicker skeletal structure. This also means that Testosterone is critical for bone health, as it affects calcium distribution within the skeletal structure. Thus, severe depletion of testosterone can result in osteoperosis and fragile bones. Testosterone also plays a major role in sex drive and libido, encouraging mating behavior within the cerebral cortex.
-
-Dihydrotestosterone (DHT), which is converted from Testosterone in the prostate, skin and liver, plays a major role in the development of the male genitalia during puberty by inducing random erections, and the growth of facial and body hair. Paradoxically, DHT is also what causes male pattern baldness, as it chokes off blood circulation to the follicles on the top of the scalp (sorry, trans guys, it's a double edged sword). DHT binds to androgen receptors ten times more strongly than testosterone, which is why it is critical to eliminate it for feminizing transition.
+Las tres primeras son las que más nos importan cuando se trata de la Terapia Hormonal. Nota: Todos los seres humanos, independientemente del fenotipo, tienen algo de cada una de estas hormonas en sus cuerpos. Las proporciones son las que afectan a la forma del cuerpo.
 
 
-### Estrogens
+### Androgenos
 
-There are four estrogens: [Estradiol](https://en.wikipedia.org/wiki/Estradiol), [Estrone](https://en.wikipedia.org/wiki/Estrone), Estriol and Estetrol. The latter two are only produced during pregnancy and are important for fetal health, but have no bearing on transition.
+Hay casi una docena de andrógenos diferentes, pero los que más nos interesan son la [Testosterona](https://en.wikipedia.org/wiki/Testosterone) y la [Dihidrotestosterona](https://en.wikipedia.org/wiki/Dihydrotestosterone).
 
-Estradiol is the Feminizing hormone, as it is the primary signaling hormone for growth in the mammary glands (breast tissue), and because it encourages fat deposits in the thighs, hips, butt, chest and arms, while discouraging fat deposits in the abdomen, thus producing a curvier figure. Estradiol also promote increased collagen production, resulting in softer skin and more flexible tendons & ligaments.
+La testosterona es la principal hormona masculinizante del cuerpo humano y se produce en las glándulas suprarrenales, los testículos y los ovarios (donde se convierte inmediatamente en estrona y estradiol). Le dice a las células musculares y óseas que crezcan y en concentraciones más altas fomenta una mayor masa muscular y una estructura esquelética más gruesa. Esto también significa que la testosterona es fundamental para la salud de los huesos, ya que afecta a la distribución del calcio en la estructura del esqueleto. Por lo tanto, un agotamiento severo de la testosterona puede dar lugar a osteoperosis y huesos frágiles. La testosterona también desempeña un papel importante en el impulso sexual y la libido, fomentando el comportamiento de apareamiento dentro de la corteza cerebral.
 
-Estrone's role in the body has been something of a puzzle in medical research, as it has significantly lower binding affinity compared to estradiol (0.6%) and very low transactivational ability (4%). The hormone doesn't appear to *do* anything, it just sits in the blood stream. However it has a unique ability to convert to and from Estradiol via an enzyme group called [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), making it ideally suited to function like an estrogen battery within the body.
+La dihidrotestosterona (DHT), que se convierte a partir de la testosterona en la próstata, la piel y el hígado, desempeña un papel importante en el desarrollo de los genitales masculinos durante la pubertad al inducir erecciones aleatorias y el crecimiento del vello facial y corporal. Paradójicamente, la DHT es también la causante de la calvicie masculina, ya que ahoga la circulación sanguínea hacia los folículos de la parte superior del cuero cabelludo (lo siento, chicos trans, es un arma de doble filo). La DHT se une a los receptores de andrógenos diez veces más fuerte que la testosterona, por lo que es fundamental eliminarla para la transición feminizante.
 
-New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, however this is very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as trans women.
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+### Estrogenos
 
-**Why aren't AFAB trans people prescribed estrogen blockers alongside testosterone?**
+Existen cuatro estrógenos: [Estradiol](https://en.wikipedia.org/wiki/Estradiol), [Estrona](https://en.wikipedia.org/wiki/Estrone), Estriol y Estetrol. Los dos últimos sólo se producen durante el embarazo y son importantes para la salud del feto, pero no tienen ninguna relación con la transición.
 
-There are two separate sources for estrogens within the female reproductive system. Ovaries contains thousands of follicles, cell structures which produce eggs. The pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which encourages the follicles to grow into luteal cells. Theca cells within the follicle produce testosterone, and granulosa cells produce the enzyme [aromatase](https://en.wikipedia.org/wiki/Aromatase), which converts that testosterone into estradiol. This is the first source of estrogen, but it is not the largest source.
+El estradiol es la hormona feminizadora, ya que es la principal hormona de señalización para el crecimiento de las glándulas mamarias (tejido mamario), y porque fomenta los depósitos de grasa en los muslos, las caderas, el trasero, el pecho y los brazos, mientras que desalienta los depósitos de grasa en el abdomen, produciendo así una figura más curvilínea. El estradiol también promueve el aumento de la producción de colágeno, lo que resulta en una piel más suave y tendones y ligamentos más flexibles.
 
-Note: This is why PCOS causes ovaries to produce testosterone; the ovarian cysts disrupt the aromatase production, so the testosterone does not get converted.
+El papel de la estrona en el cuerpo ha sido una especie de rompecabezas en la investigación médica, ya que tiene una afinidad de unión significativamente menor en comparación con el estradiol (0,6%) y una capacidad transaccional muy baja (4%). La hormona no parece *hacer* nada, simplemente permanece en el torrente sanguíneo. Sin embargo, tiene una capacidad única de convertirse en y desde el estradiol a través de un grupo de enzimas llamado [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), lo que la hace ideal para funcionar como una batería de estrógenos dentro del cuerpo.
 
-Two weeks into the period cycle the hypothalamus tells the pituitary gland to produce an LH and FSH spike three to four times stronger than earlier in the cycle. That surge causes the follicles to swell until one pops, releasing an egg, at which point the remains of the follicle become a structure known as the corpus luteum. That corpus luteum then begins to produce progesterone and significantly more estrogens in order to prepare the womb for a fertilized egg. This is the second source.
+Nuevas investigaciones están empezando a sugerir que el cuerpo puede regular los niveles totales de estradiol mediante la liberación de HSD17B1 para convertir el estradiol en estrona, y la liberación de HSD17B2 para convertirlo de nuevo, sin embargo esto es un estudio muy temprano. Ambas enzimas se producen en el tejido mamario, y pueden desempeñar un papel en la presencia de síntomas cíclicos similares a los del periodo en individuos con estrógenos que no tienen ovarios, como las mujeres trans.
 
-Taking testosterone causes the hypothalamus to deactivate the genes that initiate this LH and FSH spike, so the follicles never reach maturity, ovulation never occurs, and the corpus luteum is never formed, removing a significant source of estrogen within the ovaries.
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Para su información</h4> }!}
 
-*So no, Reddit, it isn't just "because testosterone is stronger", it's because ovaries are a hell of a lot more complex than testes and are easier to disrupt. Please stop spreading this falsehood.*
+**¿Por qué a las personas trans AFAB no se les prescriben bloqueadores de estrógenos junto con la testosterona?**
+
+Hay dos fuentes distintas de estrógenos dentro del sistema reproductor femenino. Los ovarios contienen miles de folículos, estructuras celulares que producen óvulos. La glándula pituitaria produce la hormona luteinizante (LH) y la hormona estimulante del folículo (FSH), que anima a los folículos a convertirse en células lúteas. Las células tecas dentro del folículo producen testosterona, y las células de la granulosa producen la enzima [aromatasa] (https://en.wikipedia.org/wiki/Aromatase), que convierte esa testosterona en estradiol. Esta es la primera fuente de estrógenos, pero no es la más importante.
+
+Nota: Esta es la razón por la que el SOP hace que los ovarios produzcan testosterona; los quistes ováricos interrumpen la producción de aromatasa, por lo que la testosterona no se convierte.
+
+A las dos semanas del ciclo menstrual, el hipotálamo le dice a la glándula pituitaria que produzca un pico de LH y FSH tres o cuatro veces más fuerte que al principio del ciclo. Ese pico hace que los folículos se hinchen hasta que uno estalla, liberando un óvulo, momento en el que los restos del folículo se convierten en una estructura conocida como cuerpo lúteo. Ese cuerpo lúteo comienza a producir progesterona y muchos más estrógenos para preparar el útero para un óvulo fecundado. Esta es la segunda fuente.
+
+Tomar testosterona hace que el hipotálamo desactive los genes que inician este pico de LH y FSH, por lo que los folículos nunca alcanzan la madurez, la ovulación nunca se produce, y el cuerpo lúteo nunca se forma, eliminando una fuente importante de estrógeno dentro de los ovarios.
+
+*Así que no, Reddit, no es sólo "porque la testosterona es más fuerte", es porque los ovarios son mucho más complejos que los testículos y son más fáciles de interrumpir. Por favor, dejad de difundir esta falsedad.*
 
 {!{ </div></div></div> }!}
 
-### Progestagins
+### Progestágenos
 
-The primary progestogin is [progesterone](https://en.wikipedia.org/wiki/Progesterone), which plays numerous roles in the body and has been found to be [an important component for feminizing hormone therapy](https://academic.oup.com/jcem/article/104/4/1181/5270376).
+El principal progestágeno es la [progesterona](https://en.wikipedia.org/wiki/Progesterone), que desempeña numerosas funciones en el organismo y se ha descubierto que es [un componente importante para la terapia hormonal feminizante](https://academic.oup.com/jcem/article/104/4/1181/5270376).
 
-One of the largest roles that the progestogin receptor plays is in the regulation of gonadal function (ovaries and testies). The hypothalamus is positively *littered* with progestogin receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
+Uno de los mayores papeles que desempeña el receptor de progestágeno es la regulación de la función gonadal (ovarios y testículos). El hipotálamo está positivamente *literao* con receptores de progestágenos y responde fuertemente a su activación, regulando a la baja la producción de [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), que a su vez reduce la producción de [hormona luteinizante](https://en.wikipedia.org/wiki/Luteinizing_hormone) por la glándula pituitaria.
 
-LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestins, chemicals that fit into progestogin receptors, are often included in birth control in order to prevent ovulation. In AMABs, progestogins are a useful tool for blocking testosterone production.
+La LH es la que indica a los ovarios y a los testículos que produzcan estrógenos y andrógenos. La LH y su hormona hermana [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) desempeñan un papel fundamental en la ovulación, que es otra gran fuente de estrógenos en los ovarios. Por ello, las progestinas sintéticas, sustancias químicas que se adaptan a los receptores de progestágenos, se incluyen a menudo en los anticonceptivos para evitar la ovulación. En los AMAB, los progestágenos son una herramienta útil para bloquear la producción de testosterona.
 
-Another type of cell that is full of progestogin receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
+Otro tipo de célula repleta de receptores de progestágenos es el tejido mamario. La progesterona desempeña un papel importante en el crecimiento y la maduración de los conductos lácteos dentro del tejido mamario. Aunque se han realizado pocas investigaciones formales sobre el efecto de la progesterona en el desarrollo de las mamas, anecdóticamente se ha visto que en la comunidad transfemoral proporciona mejoras significativas en la plenitud de las mamas. También se ha demostrado que la progesterona aumenta el flujo sanguíneo al tejido mamario y favorece los depósitos de grasa en los senos, lo que aumenta el tamaño de los mismos.
 
-Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk.
+Además, la progesterona promueve un mejor sueño, mejora la salud cardiovascular, aumenta la cetogénesis (reduciendo los triglicéridos), aumenta la función metabólica y se ha descubierto que reduce el riesgo de cáncer de mama.
 
-### Mineralcorticoids
+### Mineralcorticoides
 
-Mineralcorticoids play no role in transition, but they are worth mentioning because of one major hormone: [Aldosterone](https://en.wikipedia.org/wiki/Aldosterone).
+Los mineralcorticoides no desempeñan ningún papel en la transición, pero vale la pena mencionarlos debido a una hormona importante: [Aldosterona](https://en.wikipedia.org/wiki/Aldosterone).
 
-Aldosterone is what instructs the kidneys to *stop* extracting water from the blood stream. It is produced by the adrenal glands in order to regulate body hydration. Why is this significant?
+La aldosterona es lo que indica a los riñones que *dejen* de extraer agua del torrente sanguíneo. Es producida por las glándulas suprarrenales para regular la hidratación del cuerpo. ¿Por qué es importante?
 
-Because one drug that is very commonly used in trans hormone therapy is an extremely powerful aldosterone antagonist... Spironolactone. Spiro binds to mineralcorticoid receptors more strongly than aldosterone does, but does not activate the receptor. It just clogs it, preventing the kidneys from receiving the signal to stop extracting water.
+Porque un medicamento que se utiliza muy comúnmente en la terapia hormonal trans es un antagonista de la aldosterona extremadamente potente... La espironolactona. La espiro se une a los receptores mineralcorticoides con más fuerza que la aldosterona, pero no activa el receptor. Sólo lo obstruye, impidiendo que los riñones reciban la señal de dejar de extraer agua.
 
-This is why spiro makes people pee so much.
+Por eso la espiro hace que la gente orine mucho.
