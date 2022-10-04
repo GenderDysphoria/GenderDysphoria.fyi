@@ -1,5 +1,7 @@
 
 const { series, watch, src, dest } = require('gulp');
+const log = require('fancy-log');
+const chalk = require('chalk');
 
 /** **************************************************************************************************************** **/
 
@@ -25,6 +27,8 @@ exports.push = pushToProd;
 const cloudfront = require('./cloudfront');
 exports.cloudfront = cloudfront;
 
+const { offlineTask } = require('./offline');
+
 exports.new = require('../build/new-post.js');
 
 function copyProd () {
@@ -33,6 +37,8 @@ function copyProd () {
 
 /** **************************************************************************************************************** **/
 
+exports.offline_quick = offlineTask;
+exports.offline_full = offline_full;
 exports.dev  = series(devBuildTask);
 exports.prod = series(prodBuildTask);
 exports.publish = series(
@@ -48,7 +54,6 @@ exports.testpush = pushToProd.dryrun;
 /** **************************************************************************************************************** **/
 
 function watcher () {
-
   watch([
     'public/**/*.{md,hbs,html,js,json}',
     'posts/**/*.{md,hbs,html,js,json}',
@@ -78,11 +83,41 @@ function watcher () {
   server();
 }
 
-function server () {
+// This thing is buggy as hell and barely works
+async function offline_full(callback) {
+  const { spawn } = require('child_process');
+  log(process.execPath);
+  const srv_proc = spawn(process.execPath, ['./server.js']);
+  srv_proc.stdout.on('data', (data) => {
+    process.stdout.write(data);
+  });
+  srv_proc.stderr.on('data', (data) => {
+    process.stderr.write(data);
+  });
+
+  await new Promise(resolve => setTimeout(resolve, 500));
+
+  // Run the main task
+  offlineTask();
+
+  await new Promise(resolve => setTimeout(resolve, 500));
+
+  // Finish
+  srv_proc.kill('SIGTERM');
+  if (callback !== undefined) {
+    callback();
+  }
+}
+
+function server (callback) {
   var forever = require('forever');
-  var srv = new forever.Monitor('server.js');
+  var srv = new forever.Monitor('server.js', {fork: true});
   srv.start();
   forever.startServer(srv);
+
+  if (callback !== undefined) {
+    callback();
+  }
 }
 
 exports.watch = series(devBuildTask, watcher);
