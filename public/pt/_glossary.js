@@ -2,6 +2,38 @@ module.exports = exports = {
 	glossary_url: '/pt/glossario',
 	lang: 'pt',
 	entries: {
+		'eventualmente': {
+			sortAs: 'eventualmente',
+			title: 'eventualmente',
+			description: ['Indica evento futuro de probabilidade certa mas de data desconhecida.', 'Ex: eventualmente todos morreremos.'],
+			show: true,
+			words: {
+				'eventualmente': {
+					class: 'advérbio',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			}
+		},
+		'generizar': {
+			sortAs: 'generizar',
+			title: 'generizar',
+			description: ['Ler ou interpretar algo como sendo de um determinado gênero.'],
+			show: true,
+			words: {
+				'generizar': {
+					class: 'verbo',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'generizam': {
+					auto_gloss: true,
+					show: false
+				}
+			}
+		},
 		'vicariamente': {
 			sortAs: 'vicariamente',
 			title: 'vicariamente',
@@ -293,13 +325,13 @@ module.exports = exports = {
 				'transman': {
 					class: 'substantivo singular - obsoleto e parcialmente ofensivo',
 					auto_gloss: true,
-					show: true,
+					show: false,
 					relation: 'translation:en',
 				},
 				'transmen': {
 					class: 'substantivo plural - obsoleto e parcialmente ofensivo',
 					auto_gloss: true,
-					show: true,
+					show: false,
 					relation: 'translation:en',
 				},
 				'transgender man': {
@@ -361,13 +393,13 @@ module.exports = exports = {
 				'transwoman': {
 					class: 'substantivo singular - obsoleto e parcialmente ofensivo',
 					auto_gloss: true,
-					show: true,
+					show: false,
 					relation: 'translation:en',
 				},
 				'transwomen': {
 					class: 'substantivo plural - obsoleto e parcialmente ofensivo',
 					auto_gloss: true,
-					show: true,
+					show: false,
 					relation: 'translation:en',
 				},
 				'transgender woman': {
@@ -446,6 +478,26 @@ module.exports = exports = {
 					show: true,
 					relation: 'translation:en',
 				},
+			}
+		},
+		'TH': {
+			sortAs: 'TH',
+			title: 'TH',
+			description: ['Hormonioterapia'],
+			show: true,
+			words: {
+				'TH': {
+					class: 'substantivo feminino singular',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'HRT': {
+					class: 'substantivo feminino singular',
+					auto_gloss: true,
+					show: true,
+					relation: 'translation:en'
+				}
 			}
 		},
 		'gdan': {
