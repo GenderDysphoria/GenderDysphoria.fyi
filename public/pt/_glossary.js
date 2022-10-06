@@ -110,6 +110,26 @@ module.exports = exports = {
 				},
 			},
 		},
+		'monoafetivo': {
+			sortAs: 'monoafetivo',
+			title: 'monoafetivo',
+			description: ['Pessoa que sente atração a apenas um gênero, por exemplo, pessoas heteroafetivas e homoafetivas, mas não pessoas biafetivas ou panafetivas.'],
+			show: true,
+			words: {
+				'monoafetivo': {
+					class: 'adjetivo singular masculino',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+				'monoafetiva': {
+					class: 'adjetivo singular feminino',
+					auto_gloss: true,
+					show: false,
+					relation: '='
+				},
+			}
+		},
 		'alosexual': {
 			sortAs: 'alosexual',
 			title: 'alosexual',

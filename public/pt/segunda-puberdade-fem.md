@@ -244,7 +244,7 @@ Orgasmos mudam significativamente, tanto na forma como se constroem e como ele �
 
 ##### Atração
 
-[Não são desconhecidos](https://www.them.us/story/sexual-attraction-after-transition) os relatos de pessoas trans terem mudança em sua atração sexual com a transição. Isso quase sempre é o resultado de remoção barreiras mentais auto-impostas, mas a hormonioterapia geralmente desempenha um papel *nessa* remoção. Em quase todos os casos, isso simplesmente envolve uma expansão da atração, de monosexual para bi ou pan, mas algumas pessoas também descobrem que suas atrações eram amplamente baseadas em auto-interesse e que sua verdadeira tração é revertida.
+[Não são desconhecidos](https://www.them.us/story/sexual-attraction-after-transition) os relatos de pessoas trans terem mudança em sua atração sexual com a transição. Isso quase sempre é o resultado de remoção barreiras mentais auto-impostas, mas a hormonioterapia geralmente desempenha um papel *nessa* remoção. Em quase todos os casos, isso simplesmente envolve uma expansão da atração, de monoafetiva para bi ou pan, mas algumas pessoas também descobrem que suas atrações eram amplamente baseadas em auto-interesse e que sua verdadeira tração é revertida.
 
 ### Sintomas Clínicos Similares à Menstruação
 
