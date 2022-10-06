@@ -3,7 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Disforia Controlada: el género disfrazado"
 linkTitle: "Disforia Controlada"
 description: "Las formas en que nos hemos enfrentado."
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /es/disforia-existencial
   prevCaption: Disforia Existencial
