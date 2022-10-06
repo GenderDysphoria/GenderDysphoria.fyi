@@ -56,7 +56,7 @@ Trying to tell someone who isn't already questioning that you think they're tran
 
 Even when the person accepts your declaration, the fact that you told them instead of letting them discover it themselves leaves an opening for their own self-conscious to instill doubt about their dysphoria and believe that the idea was suggestive, or that they were manipulated into believing they were trans. The only safe pathway forward for someone to learn they are trans is to realize it on their own.
 
-Finally, the entire purpose of being trans is self assignment and self actualization. Telling a person that they are trans is as surely a coercive assignment what was done when they were born.  If you want to help them figure themselves out, tell them about your life, tell them how dysphoria works, send them to this site, give them ways to see how what they experience isn't something that cis people live with.
+Finally, the entire purpose of being trans is self assignment and self actualization. Telling a person that they are trans is surely as coercive an assignment as what was done when they were born.  If you want to help them figure themselves out, tell them about your life, tell them how dysphoria works, send them to this site, give them ways to see how what they experience isn't something that cis people live with.
 
 Unless of course they ask you if you think they're trans... then the prime directive no longer applies.
 
