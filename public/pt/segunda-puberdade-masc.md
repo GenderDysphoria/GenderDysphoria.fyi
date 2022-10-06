@@ -27,7 +27,7 @@ tweets:
 
 ## O que esperar da TH Masculinizante
 
-Isso é uma compilação de de mudanças relatadas em transição medica coletada de testemunhos de pessoas AFAB trans tomando hormonioterapia com testosterona. Essa informação é juntada a partir de mídia social e salas de bate papo. Sim, isso significa que é tudo anecdotal, mas, historicamente, a maioria dos estudos de saúde trans é anecdotal porque ninguém quer patrocinar pesquisa médica sobre pessoas trans.
+Essa seção é uma compilação de de mudanças relatadas em transição medica coletada de testemunhos de pessoas AFAB trans fazendo hormonioterapia com testosterona. Essa informação é juntada a partir de mídia social e salas de bate papo. Sim, isso significa que é tudo anecdotal, mas, historicamente, a maioria dos estudos de saúde trans é anecdotal porque ninguém quer patrocinar pesquisa médica sobre pessoas trans.
 
 **Note que essa é uma lista de mudanças _possíveis_. Não há garantia de que toda pessoa em TH masculinizante experienciará todas essas mudanças. Sua idade, genética, histórico médico, grau de feminização da puberdade natal, e regime hormonal podem todos impactar seus resultados. Há também um grau de aleatoriedade -- todo corpo é diferente -- e algumas coisas podem levar anos para aparecer.**
 
@@ -107,13 +107,13 @@ Conforme coberto na seção [Disforia Bioquímica](), cérebros podem ser config
 
 ##### TDAH
 
-Se você tem TDAH, podem haver algumas mudanças nos seus sintomas. Andrógenos amplificam a função dos receptores de [dopamina](https://pt.wikipedia.org/wiki/Dopamina), então aumentar a testosterona pode aumentar o potencial de ativação da dopamina no cérebro. A dopamina também um neurotransmissor chave no comportamento de [memória de trabalho](https://pt.wikipedia.org/wiki/Mem%C3%B3ria_de_trabalho): a memória de curto-prazo do cérebro. Mais memória de trabalho significa que você se torna menos propenso a distraçÕes e term uma maior facilidade em manter o [esforço cognitivo](https://pt.wikipedia.org/wiki/Esfor%C3%A7o_cognitivo).
+Se você tem TDAH, podem haver algumas mudanças nos seus sintomas. Andrógenos amplificam a função dos receptores de [dopamina](https://pt.wikipedia.org/wiki/Dopamina), então aumentar a testosterona pode aumentar o potencial de ativação da dopamina no cérebro. A dopamina também um neurotransmissor chave no comportamento de [memória de trabalho](https://pt.wikipedia.org/wiki/Mem%C3%B3ria_de_trabalho): a memória de curto-prazo do cérebro. Mais memória de trabalho significa que você se torna menos propenso a distrações e tem uma maior facilidade em manter o [esforço cognitivo](https://pt.wikipedia.org/wiki/Esfor%C3%A7o_cognitivo).
 
 *Entretanto*, estradiol encoraja a produção de dopamina, então conforme os níveis de estrogênio caem, haverá menos dopamina para o cérebro. Seus sintomas pioram ao invés de melhorarem.
 
 ##### Expansão Emocional
 
-O alívio de DPDR é quase universalmente acompanhado de uma maior capacidade para regulação emocional. Emoções se tornam mais controláveis e suprimíveis, tendo menor probabilidade de causar sobrecarrega de um instante para o outro. *Por favor note: suprimir emoções é um jeito bem rápido de desenvolver trauma.*
+O alívio de DPDR é quase universalmente acompanhado de uma capacidade muito mais ampla para regulação emocional. Emoções se tornam mais controláveis e suprimíveis, tendo menor probabilidade de causar sobrecarrega de um instante para o outro. *Por favor note: suprimir emoções é um jeito bem rápido de desenvolver trauma.*
 
 Entretanto, a habilidade de expressas emoção pode se tornar reduzida. Algumas pessoas perdem a capacidade de chorar após começar testosterona, mas isso *não* é uma experiência universal e pode estar ligado a quão forte é a sua dosagem de testosterona. As razões por trás disso não são bem conhecidas, embora alguns estudos tenham mostrado que andrógenos alteram o funcionamento de partes do cérebro conectadas ao processamento de emoções. Se você perdeu a capacidade de chorar, ela pode voltar no futuro conforme o seu cérebro se aclima e conforme você sai da segunda puberdade.
 
