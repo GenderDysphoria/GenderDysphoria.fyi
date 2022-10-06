@@ -51,7 +51,7 @@ module.exports = exports = {
 		'transificar': {
 			sortAs: 'transificar',
 			title: 'transificar',
-			description: ['Tornar algo ou alguém trans.', 'Ex: aprender sobre pessoas trans não transifica ninguém, quem é cis vai continuar cis.', 'Ex: comprar um blahåj não vai te transificar.'],
+			description: ['Tornar algo ou alguém trans.', 'Ex: aprender sobre pessoas trans não transifica ninguém, quem é cis vai continuar cis.', 'Ex: comprar um blåhaj não vai te transificar.'],
 			show: true,
 			words: {
 				'transificar': {
@@ -62,13 +62,13 @@ module.exports = exports = {
 				},
 			}
 		},
-		'blahåj': {
-			sortAs: 'blahåj',
-			title: 'blahåj',
+		'blåhaj': {
+			sortAs: 'blåhaj',
+			title: 'blåhaj',
 			description: ['Um tubarão azul de pelúcia vendido pela IKEA que se tornou símbolo/meme trans.'],
 			show: true,
 			words: {
-				'blahåj': {
+				'blåhaj': {
 					class: 'substantivo',
 					auto_gloss: true,
 					show: true,
