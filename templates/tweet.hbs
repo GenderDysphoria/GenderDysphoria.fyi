@@ -33,7 +33,7 @@
       {{else}}
       <div class="tweet-quoted missing">{{{lang 'QUOTED_TWEET_UNAVAILABLE'}}}</div>
       {{/with}}{{/compare}}
-      {{#if html_i18n[page.lang]}}
+        {{#if html_i18n[page.lang]}}
         <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
         {{else}}
         <div class="tweet-quoted-text">{{{html}}}</div>
