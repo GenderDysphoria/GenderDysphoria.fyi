@@ -51,7 +51,7 @@ module.exports = exports = {
 		'transificar': {
 			sortAs: 'transificar',
 			title: 'transificar',
-			description: ['Tornar algo ou alguém trans.', 'Ex: aprender sobre pessoas trans não transifica ninguém, quem é cis continua cis.', 'Ex: comprar um blahåj não vai te transificar.'],
+			description: ['Tornar algo ou alguém trans.', 'Ex: aprender sobre pessoas trans não transifica ninguém, quem é cis vai continuar cis.', 'Ex: comprar um blahåj não vai te transificar.'],
 			show: true,
 			words: {
 				'transificar': {
