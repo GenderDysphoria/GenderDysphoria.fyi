@@ -2,6 +2,20 @@ module.exports = exports = {
 	glossary_url: '/pt/glossario',
 	lang: 'pt',
 	entries: {
+		'DPDR': {
+			sortAs: 'DPDR',
+			title: 'DPDR',
+			description: ['Despersonalização e desrealização.'],
+			show: true,
+			words: {
+				'DPDR': {
+					class: 'locução substantiva',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				}
+			}
+		},
 		'eventualmente': {
 			sortAs: 'eventualmente',
 			title: 'eventualmente',

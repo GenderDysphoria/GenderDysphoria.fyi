@@ -113,38 +113,38 @@ Se você tem TDAH, podem haver algumas mudanças nos seus sintomas. Andrógenos 
 
 ##### Expansão Emocional
 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.*
+O alívio de DPDR é quase universalmente acompanhado de uma maior capacidade para regulação emocional. Emoções se tornam mais controláveis e suprimíveis, tendo menor probabilidade de causar sobrecarrega de um instante para o outro. *Por favor note: suprimir emoções é um jeito bem rápido de desenvolver trauma.*
 
-However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain become more acclimated and you come out of second puberty.
+Entretanto, a habilidade de expressas emoção pode se tornar reduzida. Algumas pessoas perdem a capacidade de chorar após começar testosterona, mas isso *não* é uma experiência universal e pode estar ligado a quão forte é a sua dosagem de testosterona. As razões por trás disso não são bem conhecidas, embora alguns estudos tenham mostrado que andrógenos alteram o funcionamento de partes do cérebro conectadas ao processamento de emoções. Se você perdeu a capacidade de chorar, ela pode voltar no futuro conforme o seu cérebro se aclima e conforme você sai da segunda puberdade.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
   '1374070062236246022'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Emotional dis-regulation occurs the most commonly before and immediately after dosing (injections or gel) and results in reduced patience, increased aggression.
+Desregulação emocional ocorre mais comumente antes e imediatamente após a aplicação de testosterona (por injeções ou gel) e resulta em paciência reduzida e aumento na agressão.
 
-##### Increased Appetite / Eating Capacity
+##### Aumento de Apetite / Capacidade de Comer
 
-You are going to be hungry. Testosterone cranks the body's metabolism up significantly, and increased muscle mass means there is more to feed, so you will burn calories faster.
+Você vai ficar faminto. Testosterona aumenta significativamente o metabolismo do corpo e o aumento da massa muscular significa que há mais para alimentar então você queimará calorias mais rápido.
 
-##### Sleep
+##### Sono
 
-Some people report problems with insomnia and having fewer memorable dreams. This is far from a universal, however.
+Algumas pessoas relatam problemas com insônia e ter menos memórias de sonhos. Isso, porém, é longe de ser universal.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-##### Confidence
+##### Auto-Confiança
 
-Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone spark arguments, and more willing to speak out in the face of conflict and self advocate. This does *not* mean more hostile or argumentative, simply that ones tolerance for bullshit is lower.
+A testosterona é conhecida por um induzir um forte senso de auto-confiança em pessoas. Os problemas parecem menos significativos, a autoestima é maior, há menos ansiedades. Muitas pessoas relatam uma tendência a serem mais propensas a começar discussões, e mais dispostas a falar/denunciar em face de conflitos e a se autodefenderem por palavras. Isso *não* significa ser mais hostil ou argumentativo, simplesmente a tolerância a merdas fica menor.
 
-##### Extroversion
+##### Extroversão
 
-It's extremely common for trans people of all types to find themselves much more sociable post-transition. This may simply be a result of no longer having to suppress large portions of their personality, but the aforementioned confidence also plays a role.
+É extremamente comum para pessoas trans de todos os tipos se encontrarem muito mais sociáveis pós-transição. Isso pode simplesmente ser resultado de não ter mais que suprimir grandes partes de suas personalidades, mas a autoconfiança supramencionada também desempenha um papel.
 
-### Genital Changes
+### Mudanças Genitais
 
 {!{
 <div class="gutter flex flex-center">
@@ -152,61 +152,64 @@ It's extremely common for trans people of all types to find themselves much more
 </div>
 }!}
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
+Todas as genitálias são construídas dos mesmos tecidos, eles são meramente organizados de forma distinta durante a gestação. Muito do comportamento desses tecidos é regulado pelos hormônios presentes no corpo. Secreções da pele, texturas, sensitividade e comportamento erétil são todos expressões hormonais. O que significa que quando você adiciona andrógenos, esses tecidos agem como se eles tivessem o formato de um pênis ou escroto, mesmo quando não são.
 
-##### Bottom Growth
+##### Crescimento Inferior (Bottom Growth)
 
 DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene's Gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
+
+A DHT (acima mencionada) desempenha um papel crítico no desenvolvimento de tecido erétil dentro dos genitais. Como os níveis de DHT aumentam conforme aumenta a testosterona, isso fará que a Glândula de Skene (às vezes chamada de próstata feminina) inche. Isso induzirá ereções aleatórias dentro do clitóris, causando crescimento do tecido erétil. O aumento varia de pessoa para pessoa, mas uma a três polegadas é comum.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+O capuz clitórico e as lábias se tornarão mais secas e grossas com o passar do tempo, e as lábias interiores também podem começar a produzir pelos. Auto-lubrificação pode reduzir substancialmente e, com o passar do tempo, a penetração pode se tornar dolorosa. Use mais lubrificante para evitar rasgos e sangramentos.
 
-##### Increased Emissions During Climax
+##### Aumento de Emissões durante o Clímax
 
-With the swelling of the prostate comes more prostate fluid. If you weren't a squirter before, you may become one now.
+Com o inchaço da próstata vem mais fluido prostático. Se você não era um squirter antes, talvez se torne um agora.
 
-##### Changes in Sensitivity and Response
+##### Mudanças em Sensitividade e Resposta
 
-Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft.
+<!-- Bad translation of stroking of the shaft. -->
 
-##### Atrophy
+Estimulação erógena pode se tornar mais focada na cabeça do clitoris e em bater a haste.
 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+##### Atrofia
 
-##### Increased Sex Drive
+Atrofia vaginal e uterina geralmente acontece dentro dos primeiros cinco anos e uma histerectomia pode se tornar necessária. Sinais de atrofia incluem profunda pulsação no abdomen inferior e dolorosas cólicas sem outros sintomas menstruais, particularmente após a atividade sexual. Atrofia vaginal pode ser evitada através do uso dos mesmos dilatadores vaginais que pessoas AMAB trans usam seguindo vaginoplastia.
+
+##### Aumento de Libido
 
 {!{ <div class="gutter flex flex-end">{{import '~/tweet' ids=[
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Libido will almost certainly go through the roof for the first year or two, the strongest immediately following dosing. May find yourself more assertive during sex and more prone to being dominant and/or a top.
+O libido quase certamente irá aos céus pelos primeiros um ou dois anos, sendo mais forte imediatamente após a dosagem. Você pode se encontrar mais assertivo durante o sexo mais propenso a ser dominante ou ativo (top).
 
-##### Orgasm
+##### Orgasmo
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374053191445270534'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The "shape" of ones orgasm can change. Rather than a cascade, it strikes like an explosion from the groin.
+A "forma" do orgasmo pode mudar. Ao invés de uma cascada, ele se parece mais como um explosão oriunda da virilha.
 
-##### Attraction
+##### Atração
 
-Testosterone has been shown to increase arousal from visual stimuli. As such, you may *notice* people of your sexual preference much quicker, especially if you are gynephilic (attracted to the feminine shape).
+Já foi demonstrado que a testosterona aumenta a excitação a partir de estímulos visuais. Por tanto, você pode *notar* pessoas de sua atração sexual muito mais rapidamente, especialmente se você for ginoafetivo (sente atração à feminilidade).
 
-### Cessation of Menstruation
+### Cessação da Menstruação
 
-The increase of androgens within the body causes the hypothalamus to down-regulate production of the hormones which control the ovaries. This will reduce total estrogen available, and may halt ovulation. Without ovulation and with lower FSH levels, the uterus will be less inclined to build up and release a lining, causing the cessation of blood flow.
+O aumento dos andrógenos dentro do corpo pode fazer o hipotálamo reduzir a produção dos hormônios que controlam os ovários. Isso reduzirá o total de estrogênio disponível e pode parar a ovulação. Sem ovulação e com menores níveis de FSH, o útero será menos propenso a construir e soltar o revestimento uterino, causando cessação do fluxo de sangue da menstruação.
 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374054574579798016'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
+Porém, você talvez ainda experiencie outros sintomas menstruais, entretanto, porque o hipotálamo pode continuar a expressar outros aspectos do ciclo menstrual. Isso pode continuar mesmo após uma histerectomia total, embora não seja comum.
 
-You may still experience other period symptoms, however, as the hypothalamus can continue to express other aspects of the monthly cycle. This can even continue following a total hysterectomy, although it is not common.
-
-**This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up, they do not die.
+**Isso *não* significa que você está infértil!** A ovulação pode ocorrer mesmo se você não estiver menstruando. Adicionalmente, parar a testosterona pode fazer os ovários voltarem a funcionar pois eles não morrem.
 
