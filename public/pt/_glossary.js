@@ -48,10 +48,38 @@ module.exports = exports = {
 				}
 			}
 		},
+		'transificar': {
+			sortAs: 'transificar',
+			title: 'transificar',
+			description: ['Tornar algo ou alguém trans.', 'Ex: aprender sobre pessoas trans não transifica ninguém, quem é cis continua cis.', 'Ex: comprar um blahåj não vai te transificar.'],
+			show: true,
+			words: {
+				'transificar': {
+					class: 'verbo',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			}
+		},
+		'blahåj': {
+			sortAs: 'blahåj',
+			title: 'blahåj',
+			description: ['Um tubarão azul de pelúcia vendido pela IKEA que se tornou símbolo/meme trans.'],
+			show: true,
+			words: {
+				'blahåj': {
+					class: 'substantivo',
+					auto_gloss: true,
+					show: true,
+					relation: '='
+				},
+			}
+		},
 		'vicariamente': {
 			sortAs: 'vicariamente',
 			title: 'vicariamente',
-			description: ['De forma que é experenciado na imaginação através das ações de outra pessoa'],
+			description: ['De forma que é experienciado na imaginação através das ações de outra pessoa'],
 			show: true,
 			words: {
 				'vicariamente': {

@@ -16,15 +16,15 @@ preBody: '_aviso_doc_vivo'
 
 ## Conclusão
 
-Every single year we get new studies that show an increase in the size of the transgender population. As awareness continues to grow, more and more people are realizing what has been wrong with their lives and are coming out of the closet. People who transitioned decades ago are coming out of stealth. GLAAD estimates as much as 3% of the population could be transgender, and I have seen numbers as high as 5% or even 10% from more liberal estimations. The more we come to understand about gender, the more language we gain to describe gender, the more people realize that the rigid Male and Female sexual structure that we have been forced into is false.
+A cada anos nós vemos novos estudos que mostram um aumento no tamanho da população trans. Conforme o reconhecimento continua a crescer, mais e mais pessoas percebem que elas estiveram erradas com suas livas e estão saindo do armário. Pessoas que transicionaram décadas atrás estão deixando de ser _stealth_ (viver como se fosse cis, escondendo a sua transgeneridade apesar de já ter transicionado). A GLAAD estima que até 3% da população pode ser transgênera, e eu já vi números tão altos quando 5% ou até 10% vindos de estimativas mais liberais. Quanto mais nós entendermos sobre gênero, quanto mais linguagem ganhamos para descrever gênero, mais pessoas percebem que a estrutural sexual rígida homem e mulher, na qual fomos forçados, é falsa.
 
-Yet all this change frightens people. It frightens conservatives who see their patriarchal social structures dissolving under the new understanding of gender. It frightens old-school transgender people who transitioned under the Harry Benjamin rules and now see so many people easily obtaining what they had to act and lie and manipulate to achieve. They fear that if anyone can be trans, then the public will stop taking trans people seriously. It frightens the misogynistic trans-exclusionary groups that fight so hard to invalidate transgender rights, because they think if anyone can be a man or a woman, then their status as a man or a woman is harmed.
+Ainda assim, essa mudança assusta as pessoas. Isso assusta conservadores que veem suas estruturas sociais patriarcais se dissolvendo sob um novo entendimento de gênero. Isso assusta pessoas transgêneras antigas que transicionaram sob as regras Harry Benjamin e agora veem tantas pessoas conseguindo obter o que elas tiveram que atuar e manipular para conquistar. Elas temem que se qualquer um pode ser trans, então o público parará de levar as pessoas trans à sério. Isso assusta grupos misóginos trans-exclusionários que lutam tão duro para invalidar direitos trans porque eles temem que, se qualquer um pode ser homem ou mulher, então seus status como homem ou mulher é prejudicado.
 
-There is no such thing as a "Transtrender".
+Não existe nem "_transtrender_" nem "modinha de ser trans".
 
-There is no such thing as "Rapid Onset Gender Dysphoria".
+Não existe "Disforia de Gênero de Início Rápido".
 
-There is no such thing as anyone "transing" kids.
+Não existe ninguém tentando "transificar" crianças.
 
-These mentalities have to stop.
+Essas mentalidades tem que parar.
 
