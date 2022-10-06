@@ -13,14 +13,6 @@ classes:
 preBody: '_disclaimer'
 ---
 
-AMAB | AMABs
-
-AFAB | AFABs
-
-LaTeX
-
-TeX
-
 # Choice
 
 What is choice? No, I’m not talking about free will and fate. That is not a subject within the scope of this essay. However, in the context of gender, I do believe it is important to consider the processes that drive us to make decisions.
