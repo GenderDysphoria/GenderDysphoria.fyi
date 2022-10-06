@@ -2,6 +2,11 @@
   name: English (EN)
   pdf-source: /en/printable/index.html?pdf=true
 
+- lang: pt
+  name: Português (PT)
+  pdf-source: /pt/imprimivel/index.html?pdf=true
+
+
 - lang: fr
   name: Français (FR)
   pdf-source: /fr/printable/index.html?pdf=true
