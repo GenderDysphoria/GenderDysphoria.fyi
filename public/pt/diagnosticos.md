@@ -93,11 +93,3 @@ Em particular, essa resolução deixou clara a questão da auto identidade ao di
 > Art. 1º Compreende-se por transgênero ou incongruência de gênero a não paridade entre a identidade de gênero e o sexo ao nascimento, incluindo-se neste grupo transexuais, travestis e outras expressões identitárias relacionadas à diversidade de gênero.
 >
 > § 1º Considera-se identidade de gênero o reconhecimento de cada pessoa sobre seu próprio gênero.
-
-## Contexto Português
-
-???
-
-## Contexto Angolano
-
-???
