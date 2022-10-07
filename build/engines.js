@@ -53,6 +53,7 @@ const markdownEngines = {
     typographer: true,
   })
     .enable('image')
+    // FIXME: This thing is matching all links
     .use(require('markdown-it-link-attributes'), {
       pattern: /^https?:/,
       attrs: {
@@ -106,7 +107,7 @@ function markdown (mode, inline, input, data, hbs, glossaries) {
 
   try {
     if (inline) {
-      return input ? markdownEngines[mode].renderInline(input, data) : '';  
+      return input ? markdownEngines[mode].renderInline(input, data) : '';
     } else {
       return input ? markdownEngines[mode].render(input, data) : '';
     }
@@ -363,7 +364,7 @@ class Injectables {
   //
   // If a single argument is present, a single string will be returned, otherwise an
   // object with links for all languages will be returned
-  // 
+  //
   // Usage: {{translink new-lang fallback-url}}
   translink () {
     return function (...raw_args) {
@@ -504,12 +505,12 @@ class Injectables {
   }
 
   // Provides glossary related functionalities
-  // 
+  //
   // {{gloss flag [lang]}} - Returns the list of entries used in a language sorted lexicographically.
   //     (flag is a boolean indicating the inclusion of variants)
-  // {{gloss term [lang]}} - Returns the corresponding entry for the queried term 
+  // {{gloss term [lang]}} - Returns the corresponding entry for the queried term
   //     (see glossary.js:40-48 for the object structure)
-  // 
+  //
   // The [lang] parameter is optional
   gloss() {
     const self = this;

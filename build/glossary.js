@@ -648,8 +648,113 @@ class MultiGlossary {
 	by_lang (lang) { return this._glossaries.get(lang); }
 }
 
+function renderHeadingAnchorLink(elem_id) {
+
+}
+
+function getAttr(key, attrs) {
+	if (!Array.isArray(attrs)) {
+		return undefined;
+	}
+	for (const [cur_key, cur_val] of attrs) {
+		if (cur_key === key) {
+			return cur_val;
+		}
+	}
+	return undefined;
+}
+
 function markdownit_plugin (md) {
 	const rules = md.core.ruler.getRules('');
+
+	function heading_fix_old(state) {
+		const oldBlockTokens = state.tokens;
+
+		let in_heading = false;
+		const newBlockTokens = [];
+		let tokens_to_add_after = [];
+		let heading_open = undefined;
+
+		for (let j = 0; j < oldBlockTokens.length; j++) {
+			tokens_to_add_after = [];
+
+			if (!in_heading) {
+				in_heading = oldBlockTokens[j].type === 'heading_open';
+				if (in_heading) {
+					heading_open = oldBlockTokens[j];
+					tokens_to_add_after.push(new state.Token('span_open', 'span', 0));
+				}
+			} else {
+				in_heading = oldBlockTokens[j].type === 'heading_close';
+				if (!in_heading) {
+					tokens_to_add_after.push(new state.Token('span_close', 'span', 0));
+					// const tok = new state.Token('text', '', 0);
+					tokens_to_add_after.push(tok);
+
+					// set id
+					oldBlockTokens[j].attrs = [['id', 'my-id']]
+				}
+			}
+			newBlockTokens.push(oldBlockTokens[j]);
+			for (const tok of tokens_to_add_after) {
+				newBlockTokens.push(tok);
+			}
+		}
+
+		state.tokens = newBlockTokens;
+	}
+
+	function heading_fix_inner(state, mystate) {
+
+	}
+
+	function heading_fix(state) {
+		const oldBlockTokens = state.tokens;
+
+		let in_heading = false;
+		const newBlockTokens = [];
+
+		for (let j = 0; j < oldBlockTokens.length; j++) {
+			let tokens_to_add_before = [];
+			let tokens_to_add_after = [];
+			const curToken = oldBlockTokens[j];
+
+			if (!in_heading) {
+				in_heading = curToken.type === 'heading_open';
+			} else {
+				if (curToken.type === 'heading_close') {
+					in_heading = false;
+				} else if (curToken.type === 'inline') {
+					const old_children = curToken.children;
+					const span_open =  new state.Token('span_open',  'span',  1)
+					const span_close = new state.Token('span_close', 'span', -1)
+					span_open.attrs = [['class', 'heading-main-part']];
+					const new_children = [span_open];
+					let span_closed = false;
+					for (let k=0; k < old_children.length; k++) {
+						const curChild = old_children[k];
+						if (!span_closed && curChild.type == 'link_open' && getAttr('class', curChild.attrs) === 'header-link') {
+							span_closed = true;
+							new_children.push(span_close);
+						}
+						new_children.push(curChild);
+					}
+					if (span_closed) {
+						curToken.children = new_children;
+					}
+				}
+			}
+			for (const tok of tokens_to_add_before) {
+				newBlockTokens.push(tok);
+			}
+			newBlockTokens.push(curToken);
+			for (const tok of tokens_to_add_after) {
+				newBlockTokens.push(tok);
+			}
+		}
+
+		state.tokens = newBlockTokens;
+	}
 
 	function gloss_replace(state) {
 		const gloss = state.env.glossary;
@@ -724,6 +829,7 @@ function markdownit_plugin (md) {
 	}
 
 	// Add our rules to the engine
+	md.core.ruler.push('fix-anchor', heading_fix);
 	md.core.ruler.after('inline', 'gloss_replace', gloss_replace);
 }
 

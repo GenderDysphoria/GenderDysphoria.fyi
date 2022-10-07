@@ -68,10 +68,12 @@ body.gdb {
       }
     }
 
-    h1, h2, h3, h4, h5 { a {
-      color: inherit;
-      overflow: hidden;
-    } }
+    h1, h2, h3, h4, h5 {
+      a {
+        color: inherit;
+        overflow: hidden;
+      }
+    }
 
     .full-wide {
       width: calc(100vw - 4em);
