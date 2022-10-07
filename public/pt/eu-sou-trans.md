@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "pt"
 title: "Eu Sou Trans?"
 linkTitle: "Eu Sou Trans?"
 description: "Um Roteiro para e Responder às Questões mais Difíceis"
