@@ -115,7 +115,7 @@ Menor massa corporal significa menos sangue no qual diluir compostos químicos. 
 
 ### Mudanças Mentais
 
-Conforme coberto na seção [Disforia Bioquímica](), cérebros podem ser configurados a um certo perfil hormonal e rodá-los no perfil errado é como usar um laptop com bateria baixa ou um processador sobreaquecido. Iniciar TH quase universalmente resulta em cessação dos sintomas da despersonalização e desrealização (DPDR) dentro das duas primeiras semanas. A névoa mental saí e se fica mais fácil se concentrar em conceitos complexos (assumindo que você não tenha outras dificuldades de processamento mental como TDAH).
+Conforme coberto na seção [Disforia Bioquímica](/pt/disforia-bioquimica), cérebros podem ser configurados a um certo perfil hormonal e rodá-los no perfil errado é como usar um laptop com bateria baixa ou um processador sobreaquecido. Iniciar TH quase universalmente resulta em cessação dos sintomas da despersonalização e desrealização (DPDR) dentro das duas primeiras semanas. A névoa mental saí e se fica mais fácil se concentrar em conceitos complexos (assumindo que você não tenha outras dificuldades de processamento mental como TDAH).
 
 ##### TDAH
 

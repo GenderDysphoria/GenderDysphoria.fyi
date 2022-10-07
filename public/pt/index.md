@@ -53,21 +53,23 @@ siblings:
 
 13. [Síndrome de Impostor](/pt/sindrome-de-impostor)
 
-14. [Diagnósticos Clínicos](/pt/diagnostico)
+14. [Eu Sou Trans?](/pt/eu-sou-trans)
 
-15. [Tratando Disforia de Gênero](/pt/tratamento)
+15. [Diagnósticos Clínicos](/pt/diagnostico)
 
-16. [Causas de Disforia de Gênero](/pt/causas)
+16. [Tratando Disforia de Gênero](/pt/tratamento)
 
-17. [Cromossomos](/pt/cromossomos)
+17. [Causas de Disforia de Gênero](/pt/causas)
 
-18. [Como Hormônios Funcionam](/pt/hormonios)
+18. [Cromossomos](/pt/cromossomos)
 
-19. [Intro. Segunda Puberdade Androgênica](/pt/segunda-puberdade-masc)
+19. [Como Hormônios Funcionam](/pt/hormonios)
 
-20. [Intro. Segunda Puberdade Estrogênica](/pt/segunda-puberdade-fem)
+20. [Intro. Segunda Puberdade Androgênica](/pt/segunda-puberdade-masc)
 
-21. [Conclusão](/pt/conclusao)
+21. [Intro. Segunda Puberdade Estrogênica](/pt/segunda-puberdade-fem)
+
+22. [Conclusão](/pt/conclusao)
 
 {!{ </div> }!}
 
