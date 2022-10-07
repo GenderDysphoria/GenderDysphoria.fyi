@@ -135,10 +135,6 @@ dl.glossary ul.variants-list > li {
   font-family: $font-family-base;
 }
 
-.glossed-block .glossed-tooltip {
-  font-family: $font-family-base;
-}
-
 // Don't dare include the actual tooltips in the print version
 @media print {
   .glossed-tooltip {
