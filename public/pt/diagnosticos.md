@@ -8,8 +8,8 @@ preBody: '_aviso_doc_vivo'
 classes:
   - gdb
 siblings:
-  prev: /pt/sindrome-de-impostor
-  prevCaption: Síndrome de Impostor
+  prev: /pt/eu-sou-trans
+  prevCaption: Eu Sou Trans?
   next: /pt/tratamento
   nextCaption: Tratando Disforia de Gênero
 ---

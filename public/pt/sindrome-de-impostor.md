@@ -8,8 +8,8 @@ preBody: '_aviso_doc_vivo'
 siblings:
   prev: /pt/disforia-gerenciada
   prevCaption: Disforia Gerenciada
-  next: /pt/diagnosticos
-  nextCaption: Diagnósticos Clínicos
+  next: /pt/eu-sou-trans
+  nextCaption: Eu Sou Trans?
 classes:
   - gdb
 tweets:
