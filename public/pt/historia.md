@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Uma Breve História da Disforia de Gênero"
 linkTitle: "A História da Disforia de Gênero"
@@ -64,9 +64,9 @@ A forma como costumo a descrever é como usar uma luva de adulto quando você é
 > Você já estava sentado em algum lugar público ou formal e do nada a sola do seu sapato coça? Você não pode remover seus sapatos ali e coçar o seu pé, então você aguenta a sensação morrendo dentro de você enquanto essa coceira cresce e cresce até que você está pronto para matar a próxima pessoa que falar com você.
 >
 > Ou quando eu era mais jovem e costumava assistir TV à cabo nas manhãs antes da escola. Como era TV à cabo na parte rural da Virgínia Ocidental (estado dos EUA) no começo dos anos 90, de tempos em tempos eu ligava o meu canal favorito e assistiria meus shows enquanto eu comia *maple oatmeal* de café da manhã e assistia Power Rangers — mas o áudio vinha de outra estação (geralmente do canal de tempo meterológico). O vídeo estava okay. O áudio estava okay. Mas o desencontro entre eles? Esse era o tipo de frustração que ficava com você o dia inteiro quando criança.
-> 
+>
 > É a sensação de que você tem quando você pede uma refrescante Coca Diet e o garçom responde: “Pode ser Pepsi?”
-> 
+>
 > É saber que algo está errado e não ser capaz de fazer coisa nenhuma sobre isso.
 
 A Disforia de Gênero é, em sua essência, simplesmente as reações emocionais ao cérebro sabendo que algo não encaixa. Essa incongruência é tão profunda dentro dos subsistemas do cérebro que não há óbvia mensagem de qual é o problema. A única forma que temos para identificá-lo é através das emoções que ele dispara. Nosso consciente ou recebe feedbacks positivos (euforia) ou negativos (disforia) de acordo com quão bem o nosso ambiente se alinha à nossa sensação interna de si mesmo. Parte da transição é aprender a reconhecer esses sinais.

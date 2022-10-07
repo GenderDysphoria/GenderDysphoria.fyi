@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Em Conclusão"
 linkTitle: "Conclusão"

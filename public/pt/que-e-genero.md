@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "O que é gênero?"
 description: "Como definimos o conceito de Gênero e como ele difere de Sexo?"
@@ -32,7 +32,7 @@ Se você traçar a etimologia da palavra a suas raízes latinas, gênero simples
 Muitas pessoas atribuem o termo ao psicólogo John Money, que propôs usar "gênero" em 1955 para diferenciar o sexo mental do sexo físico. Entretanto, John Money não foi o primeiro a fazê-lo. A antropóloga cultura [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) usou o termo em 1949 no seu livro "<span lang="en">Male and Female</span>" (em português: *Masculino e Feminino* ou *Homem e Mulher*) para distinguir entre comportamentos e papéis de gênero  e sexo biológico. O Jornal Americano de Psicologia ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) assim descreve o livro:
 
 > Um livro que dá além de sua premissa; pois ele informa o leitor sobre **"gênero" tanto quando sobre "sexo"**, sobre papéis masculinos e femininos, bem como sobre macho e fêmea e suas funções reprodutivas.
-> 
+>
 > A Margaret Mead move além da delineação específica para um comparação mais geral entre homem e mulher em várias comunidades, finalmente chegando a uma análise de padrões de sexo em nosso próprio meio para nosso próprio tempo.
 
 {!{

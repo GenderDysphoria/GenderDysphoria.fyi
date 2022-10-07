@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Societal"
 linkTitle: "Disforia Societal"
@@ -31,7 +31,7 @@ Papéis de gênero existem, e por mais que tentemos contrariá-los e apontar o s
 
 Um pai AFAB que dá à luz pode experienciar severa disforia sobre ser chamado de mãe. A vasta maioria dos recursos sobre dar à luz são *extremamente* genderizados como de mulher. Tanto que o próprio processo de concepção, gravidez e dar à luz é excepcionalmente carregado com expectativas de gênero. E se você está grávido, será rotulado como mãe independentemente de como você se sente sobre o seu papel, e com isso vem muitas presunções. Presunções sobre dar cuidados, amamentar, e criar crianças.
 
-Indivíduas transfemininas que [passam](https://en.wikipedia.org/wiki/Passing_(gender)) como cisgêneras também experienciam isso. Se você está carregando um bebê ou cuidando de uma criança, você é rotulada de mãe (exceto se a criança for branca e você não, o que te rebaixada à babá, mas isso é outro tópico). Isso pode ser validante, porque isso é um sinal de que você é vista como mulher, mas também pode ser extremamente *invalidante* quando mulheres cis começam a falar sobre as experiências reprodutivas que elas acham serem compartilhadas. 
+Indivíduas transfemininas que [passam](https://en.wikipedia.org/wiki/Passing_(gender)) como cisgêneras também experienciam isso. Se você está carregando um bebê ou cuidando de uma criança, você é rotulada de mãe (exceto se a criança for branca e você não, o que te rebaixada à babá, mas isso é outro tópico). Isso pode ser validante, porque isso é um sinal de que você é vista como mulher, mas também pode ser extremamente *invalidante* quando mulheres cis começam a falar sobre as experiências reprodutivas que elas acham serem compartilhadas.
 
 Some unexpected ways that Societal Dysphoria can appear are in the need to conform to the social standards of your true gender. For example, many trans women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty. A discomfort at swimming topless is a common trait, even when there is no understanding of one's true self; something just knows.
 

@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Física"
 linkTitle: "Disforia Física"
@@ -97,7 +97,7 @@ Todas as características sexuais dimórficas que desenvolvem durante e após a 
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Para sua Informação</h4> }!}
 
-Os genitais de uma pessoa trans em terapia hormonal não se comportam nem remotamente como os equivalentes de pessoas cis. 
+Os genitais de uma pessoa trans em terapia hormonal não se comportam nem remotamente como os equivalentes de pessoas cis.
 
 - O Pênis Estrogênico amacia, ereções se tornam menos pronunciadas, a pele afina e começa a transpirar como a parede vaginal. O escroto amacia e muda de cor, com a rafe perianal se tornando mais distinta. Devido a cessação de ereções aleatórias, o tecido eréctil atrofiará se não for regularmente usado, causando o pênis inteiro a diminuir com o tempo. Vibração se torna mais efetiva para excitação.
 

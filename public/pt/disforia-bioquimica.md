@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Bioquímica"
 linkTitle: "Disforia Bioquímica"
@@ -114,7 +114,7 @@ A intensidade da disforia física e bioquímica é altamente influenciada por ou
 - Se você está tendo retirada de dopamina por cessamento de estimulantes, a sua disforia pode piorar.
 - Se você começa a usar um antidepressivo SSRI e começa a funcionar com mais serotonina, a sua disforia pode diminuir.
 - AMABs transfemininas com testículos experienciam ondas de alta testosterona em relação a atração e desejo, o que pode torná-las mais disfóricas.
-- AFABs transmasculinas com ovários não suprimidos experienciam aumentos e quedas em estrógeno e progesterona ao longo do ciclo menstrual, fazendo suas disforias intensificarem e atenuarem de acordo com o dia do ciclo na qual estão. 
+- AFABs transmasculinas com ovários não suprimidos experienciam aumentos e quedas em estrógeno e progesterona ao longo do ciclo menstrual, fazendo suas disforias intensificarem e atenuarem de acordo com o dia do ciclo na qual estão.
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 
@@ -135,7 +135,7 @@ All of this is valid, and just because you feel very dysphoric one day and not d
 
 Algumas vezes você ouvirá críticos sugerindo que tomar terapia hormonal sempre melhora a saúde mental. Eu mesma ouvi isso quando eu saí do armário para a minha mãe. "Estrógeno deixa todo mundo mais feliz." Isso é totalmente falso. Quando pessoas cis são colocadas em terapia hormonal do gênero oposto, isso sempre resulta em disforia. Essa é uma das razões pelas quais Espirolactona é raramente prescrita para homens, pois o fator anti-androgênio causa instabilidade mental. Cinco a dez porcento das mulheres cis sofrem de Síndrome do Ovário Policístico  (SOP), uma condição que causa os ovários a produzirem testosterona ao invés de estrogênio. Pergunte a qualquer uma delas como a saúde mental deles tem sido, e elas te preencherão o ouvido.
 
-Uma demonstração bem potente disso é o trágico caso de [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). Aos sete meses de idade, David e seu irmão gêmeo receberam circuncisão para tratar um caso sério de fimose (uma condição da pele do prepúcio). A do David deu terrivelmente errado, e o seu pênis foi destruído. Foi tomada uma decisão de fazer vaginoplastia nele e criá-lo como uma menina, incluindo terapia de estrógeno na puberdade. Pelos 13 anos de idade, ele estava em depressão suicida e sofrendo muito, pois nenhuma quantidade de instrução e encorajamento pode fazer um menino apreciar ser uma menina. Quando seus pais informaram o que acontecera, ele retronou a uma apresentação masculina, mudou para terapia de testosterona, e ao longo de sua adolescência teve múltiplas operações para transicionar de volta ao sexo masculino. 
+Uma demonstração bem potente disso é o trágico caso de [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). Aos sete meses de idade, David e seu irmão gêmeo receberam circuncisão para tratar um caso sério de fimose (uma condição da pele do prepúcio). A do David deu terrivelmente errado, e o seu pênis foi destruído. Foi tomada uma decisão de fazer vaginoplastia nele e criá-lo como uma menina, incluindo terapia de estrógeno na puberdade. Pelos 13 anos de idade, ele estava em depressão suicida e sofrendo muito, pois nenhuma quantidade de instrução e encorajamento pode fazer um menino apreciar ser uma menina. Quando seus pais informaram o que acontecera, ele retronou a uma apresentação masculina, mudou para terapia de testosterona, e ao longo de sua adolescência teve múltiplas operações para transicionar de volta ao sexo masculino.
 
 Pessoas sabem quando elas estão vivendo no gênero errado.
 

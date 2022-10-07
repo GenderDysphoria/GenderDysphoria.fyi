@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Euforia"
 linkTitle: "Euforia de Gênero"
@@ -32,7 +32,7 @@ Antes que eu possa falar sobre desconforto, eu preciso falar sobre alívio. Eufo
 
 Imagine uma pessoa que nasceu numa caverna e que gastou sua inteira vida vivendo no subterrâneo, e que sua única fonte de iluminação sendo velas e lâmpadas à óleo. Imagine que ela nunca esteve na superfície, ela nem sabe que a superfície existe. Então, um dia, um desmoronamento ocorre em um túnel lateral e revela uma abertura para a superfície. Luz solar adentra a abertura e de início essa luz é cegante e faz a pessoa correr em medo. Mais tarde ela retorna à abertura e conforme os olhos dela se ajustam eles veem através do buraco e veem um brilhante mundo cheio de cores que ela nem sabia que existiam.
 
-O mundo é amedrontador, é enorme e cheio do desconhecido, então ela rasteja de volta à caverna por segurança mas o buraco ainda está lá, e ela ainda vê a luz toda vez que passa por ela. Gradualmente ela espia para fora mais e mais frequentemente, mais e mais longe da abertura. Ela começa a querer aquela luz e ela começa a achar razões para visitá-la mais frequentemente. 
+O mundo é amedrontador, é enorme e cheio do desconhecido, então ela rasteja de volta à caverna por segurança mas o buraco ainda está lá, e ela ainda vê a luz toda vez que passa por ela. Gradualmente ela espia para fora mais e mais frequentemente, mais e mais longe da abertura. Ela começa a querer aquela luz e ela começa a achar razões para visitá-la mais frequentemente.
 
 Eventualmente ela reconhece que ela não quer mais voltar para o buraco. Ela tem que voltar pois é onde sua família e seus amigos estão, mas esse lugar é tão melhor, ela quer ficar aqui. Voltar para o buraco causa sensação de algo errado, começa a doer estar tanto no escuro.
 

@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Social"
 linkTitle: "Disforia Social"
@@ -35,7 +35,7 @@ tweets:
 ] tweets=meta.tweets className="oneblock" }} </div> }!}
 
 
-Toda a Disforia de Gênero social orbita um conceito central: qual gênero as pessoas acreditam que eu sou? A disforia social é sobre como o mundo externo te percebe, como os outros te falam, e como se espera que você fale com eles. A aplicação disso e experiência da disforia social difere entre antes e depois da pessoa trans se conscientizar sobre seu próprio gênero. 
+Toda a Disforia de Gênero social orbita um conceito central: qual gênero as pessoas acreditam que eu sou? A disforia social é sobre como o mundo externo te percebe, como os outros te falam, e como se espera que você fale com eles. A aplicação disso e experiência da disforia social difere entre antes e depois da pessoa trans se conscientizar sobre seu próprio gênero.
 
 Enquanto ainda se está no escuro, o único despertar/sinal é que algo parece errado na forma como você interage com as suas interações com outras pessoas. Pessoas do seu gênero designado ao nascimento parecem interagir contigo de formas que não lhe parecem naturais. Seus comportamentos e maneirismos geram uma sensação de estranheza e surpresa, enquanto as interações com indivíduos de seu verdadeiro gênero parecem mais fáceis. Você se identifica/relaciona com pessoas mais próximas de seu verdadeiro eu.
 
@@ -73,7 +73,7 @@ Eu, mim mesma, não tenho disforia física quanto a minha voz. Eu na verdade gos
 
 ### "Uma de nós!"
 
-Um fenômeno surpreendente e bem curioso é que pessoas transgêneras armariadas tem uma tendência de encontrar umas as outras sem nem perceber o que fizeram. É um padrão engraçado que eu tenho ouvido inúmeras vezes: uma pessoa do grupo de amigos se percebe trans, inicia a transição, e isso inspira outros membros do grupo a também perceberem que são trans e a também saírem do armário. 
+Um fenômeno surpreendente e bem curioso é que pessoas transgêneras armariadas tem uma tendência de encontrar umas as outras sem nem perceber o que fizeram. É um padrão engraçado que eu tenho ouvido inúmeras vezes: uma pessoa do grupo de amigos se percebe trans, inicia a transição, e isso inspira outros membros do grupo a também perceberem que são trans e a também saírem do armário.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'

@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "Como a Disforia de Gênero se Manifesta: Disforia Existential"
 linkTitle: "Disforia Existencial"
@@ -16,7 +16,7 @@ siblings:
 
 # Disforia Existencial
 
-Quando você cresce como o gênero errado, você perde muitas das coisas que lhe deveriam estar disponíveis se apenas as pessoas soubessem. Noite do pijama, viagens de acampamento, escoteiros/escoteiras^[Nos EUA, os grupos de escoteiros eram tradicionalmente divididos por gênero.], viagens de compras, torcida organizada ou esportes. Eventos que são mistos de gênero podem gerar sensações bem diferentes dependendo de como você engaja com eles, ex. ir para baile de formatura, cerimônias religiosas (ex. ter bat mitzvah ao invés de bar mitzvah), e até mesmo o mero ato de cortejo (paquera). Essa disforia também pode ser de origem biológica, tal como ter uma mágoa por não ter dado à luz ou não ter amamentado seus filhos. 
+Quando você cresce como o gênero errado, você perde muitas das coisas que lhe deveriam estar disponíveis se apenas as pessoas soubessem. Noite do pijama, viagens de acampamento, escoteiros/escoteiras^[Nos EUA, os grupos de escoteiros eram tradicionalmente divididos por gênero.], viagens de compras, torcida organizada ou esportes. Eventos que são mistos de gênero podem gerar sensações bem diferentes dependendo de como você engaja com eles, ex. ir para baile de formatura, cerimônias religiosas (ex. ter bat mitzvah ao invés de bar mitzvah), e até mesmo o mero ato de cortejo (paquera). Essa disforia também pode ser de origem biológica, tal como ter uma mágoa por não ter dado à luz ou não ter amamentado seus filhos.
 
 Essas oportunidades perdidas podem se manifestar como sensações de perda e dor. Ademais, as memórias das coisas que você *teve* acesso mas não teria no caso contrário, ou eventos que foram performados no gênero errado, também podem ser um assunto delicado, pois eles podem ter gerado apegos estranhos. Imagine ter que ser o noivo no seu casamento quando você sabe que deveria ter sido a noiva; crescer sonhando com o seu casamento perfeito e então ter que fazer o papel errado nele.
 

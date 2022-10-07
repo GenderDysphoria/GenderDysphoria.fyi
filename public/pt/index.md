@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2022-10-08T00:00:00.000Z"
 lang: "pt"
 title: "A Bíblia da Disforia de Gênero"
 description: "Um mergulho na multitude de formas que a disforia de gênero se manifesta e o que significa ser transgênero."
