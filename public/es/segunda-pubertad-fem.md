@@ -42,7 +42,7 @@ La testosterona provoca la retención de agua en los ligamentos y tendones, haci
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.hands className="card" caption="Las manos del autor. Este cambio se produjo en el transcurso de tres años y medio".}}
+{{import '~/img' images.hands className="card" caption="Las manos del autor. Este cambio se produjo en el transcurso de tres años y medio."}}
 </div>
 }!}
 
@@ -186,7 +186,7 @@ La piel del glande y del pene se vuelve mucho más fina y frágil, más propensa
 
 #### Humedad y Olor Femenino
 
-La piel a lo largo del eje comienza a secretar los mismos fluidos que el canal vaginal, particularmente durante la excitación (sí, las chicas trans se mojan). Estos fluidos favorecen el desarrollo del mismo microbioma que se desarrolla dentro del canal vaginal. La combinación de estos factores hace que el olor (y el sabor) del pene cambie para alinearse más con el de la vulva. 
+La piel a lo largo del eje comienza a secretar los mismos fluidos que el canal vaginal, particularmente durante la excitación (sí, las chicas trans se mojan). Estos fluidos favorecen el desarrollo del mismo microbioma que se desarrolla dentro del canal vaginal. La combinación de estos factores hace que el olor (y el sabor) del pene cambie para alinearse más con el de la vulva.
 
 ##### Cambios de color y textura
 
