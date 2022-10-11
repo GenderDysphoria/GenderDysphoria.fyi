@@ -39,8 +39,6 @@ Para adultos, isso é hormonioterapia (também chamade de terapia hormonal e abr
 
 ***CRIANÇAS PRÉ-PÚBERES NÃO FAZEM TRANSIÇÃO MÉDICA***.
 
-While the American Academy of Pediatrics [strongly encourages the validation and acceptance of transgender youth](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf), and the enabling of all other forms of transition, they explicitly do not support doctors beginning either hormone therapy or puberty blockers until a child has reached [Tanner stage 2](https://en.wikipedia.org/wiki/Tanner_scale).
-
 Embora a Academia Americana de Pediatria [fortemente encoraje a validação e aceitação da juventude trans](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) e permita todas as outras formas de transição, eles explicitamente não apoiam, e o Conselho Federal de Medicina brasileiro proíbe, que médicos comecem a hormonioterapia ou bloqueadores de puberdade antes que a criança tenha atingido o [estágio Tanner 2](https://en.wikipedia.org/wiki/Tanner_scale).
 
 Ademais, nenhum cirurgião nos Estados Unidos ou no Brasil fará cirurgias de alteração de gênero em menores de idade (salas as "correções" feitas em pessoas intersexo o que é um problema fora do escopo deste artigo). Pouquíssimas crianças tem características fortes o bastante para serem lidas como homens ou mulheres sem as dicas providas pela apresentação. Permitir que uma criança mude seu cabelo e roupas é tudo que é necessário para a criança ser lida menino ou menina.

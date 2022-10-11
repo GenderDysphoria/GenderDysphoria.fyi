@@ -116,13 +116,13 @@ A intensidade da disforia física e bioquímica é altamente influenciada por ou
 - AMABs transfemininas com testículos experienciam ondas de alta testosterona em relação a atração e desejo, o que pode torná-las mais disfóricas.
 - AFABs transmasculinas com ovários não suprimidos experienciam aumentos e quedas em estrógeno e progesterona ao longo do ciclo menstrual, fazendo suas disforias intensificarem e atenuarem de acordo com o dia do ciclo na qual estão.
 
-There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
+Há dezenas de sistemas no seu corpo que operam em sinfonia e todos eles flutuam de dia para dia, manipulando seu estado mental geral. Essa disforia geral pode amplificar o efeito das outras formas de disforia. Um dia você pode dar de ombros para a misgenerização como se não fosse nada e no dia seguinte isso dói como faca no coração a cada vez. Um dia você se vê no espelho e no próximo você está encarando o você mais velho.
 
-Some people experience this in a genderfluid way, with some days leaning male, same days leaning female, and other days not feeling any gender, or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
+Algumas pessoas experienciam isso de uma forma gênero-fluida, com alguns dias tendendo mais para homem e alguns mais para mulher e em outros dias não sentindo nenhum gênero ou ambos. Outros apenas sentem isso como um rio sazonal; às vezes ele enche porque chove na nascente, às vezes ele esvazia por conta da seca.
 
-All of this is valid, and just because you feel very dysphoric one day and not dysphoric the next does not mean that you aren't really trans.
+Tudo isso é válido, e só porque você se sente bem disfórique num dia e não no seguinte não significa que você não é realmente trans.
 
-### This Happens Both Ways
+### Isso Acontece de Mão Dupla
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1222738910821978113'
@@ -135,7 +135,7 @@ All of this is valid, and just because you feel very dysphoric one day and not d
 
 Algumas vezes você ouvirá críticos sugerindo que tomar terapia hormonal sempre melhora a saúde mental. Eu mesma ouvi isso quando eu saí do armário para a minha mãe. "Estrógeno deixa todo mundo mais feliz." Isso é totalmente falso. Quando pessoas cis são colocadas em terapia hormonal do gênero oposto, isso sempre resulta em disforia. Essa é uma das razões pelas quais Espirolactona é raramente prescrita para homens, pois o fator anti-androgênio causa instabilidade mental. Cinco a dez porcento das mulheres cis sofrem de Síndrome do Ovário Policístico  (SOP), uma condição que causa os ovários a produzirem testosterona ao invés de estrogênio. Pergunte a qualquer uma delas como a saúde mental deles tem sido, e elas te preencherão o ouvido.
 
-Uma demonstração bem potente disso é o trágico caso de [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). Aos sete meses de idade, David e seu irmão gêmeo receberam circuncisão para tratar um caso sério de fimose (uma condição da pele do prepúcio). A do David deu terrivelmente errado, e o seu pênis foi destruído. Foi tomada uma decisão de fazer vaginoplastia nele e criá-lo como uma menina, incluindo terapia de estrógeno na puberdade. Pelos 13 anos de idade, ele estava em depressão suicida e sofrendo muito, pois nenhuma quantidade de instrução e encorajamento pode fazer um menino apreciar ser uma menina. Quando seus pais informaram o que acontecera, ele retronou a uma apresentação masculina, mudou para terapia de testosterona, e ao longo de sua adolescência teve múltiplas operações para transicionar de volta ao sexo masculino.
+Uma demonstração bem potente disso é o trágico caso de [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). Aos sete meses de idade, David e seu irmão gêmeo receberam circuncisão para tratar um caso sério de fimose (uma condição da pele do prepúcio). A do David deu terrivelmente errado, e o seu pênis foi destruído. Foi tomada uma decisão de fazer vaginoplastia nele e criá-lo como uma menina, incluindo terapia de estrógeno na puberdade. Pelos 13 anos de idade, ele estava em depressão suicida e sofrendo muito, pois nenhuma quantidade de instrução e encorajamento pode fazer um menino apreciar ser uma menina. Quando seus pais informaram o que acontecera, ele retornou a uma apresentação masculina, mudou para terapia de testosterona, e ao longo de sua adolescência teve múltiplas operações para transicionar de volta ao sexo masculino.
 
 Pessoas sabem quando elas estão vivendo no gênero errado.
 

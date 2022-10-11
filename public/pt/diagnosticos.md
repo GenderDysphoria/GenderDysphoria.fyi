@@ -72,7 +72,7 @@ Então porque ainda dizemos isso? Porque a maioria das pessoas não sabe o que a
 
 ## Contexto Brasileiro
 
-No Brasil, o Conselho Federal de Medicina (CFM) definia _transsexualismo_ (sim, infelizmente usavam essa palavra) nas resoluções [1.482/1997](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/1997/1482), [1.652/2002](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2002/1652) e [1.955/2010](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2010/1955) como:
+No Brasil, o Conselho Federal de Medicina (CFM) definia _transsexualismo_ (sim, infelizmente usavam essa palavra) nas resoluções [1.482/1997](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/1997/1482), [1.652/2002](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2002/1652) e [1.955/2010](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2010/1955) como quem cumpria, simultaneamente, todos os requisitos abaixo:
 
 1. Desconforto com o sexo anatômico natural;
 2. Desejo expresso de eliminar os genitais, perder as características primárias e secundárias do próprio sexo e ganhar as do sexo oposto;
