@@ -24,6 +24,7 @@ const str2locale = {
   'fr': dateFNSLocales.fr,
   'hu': dateFNSLocales.hu,
   'pl': dateFNSLocales.pl,
+  'pt': dateFNSLocales.pt,
   'es': dateFNSLocales.es,
 };
 
