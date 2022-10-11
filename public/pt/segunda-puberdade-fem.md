@@ -43,7 +43,7 @@ Testosterona causa retenção de água nos ligamentos e tendões, fazendo-os men
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.hands className="card" caption="The author's hands. This change occurred over the course of three and a half years."}}
+{{import '~/img' images.hands className="card" caption="As mãos da autora. Essa mudança ocorreu longo de três anos e meio."}}
 </div>
 }!}
 
@@ -225,11 +225,11 @@ No início de TH pode haver uma perda total de interesse sexual conforme os nív
 
 {!{
 <div class="gutter flex">
-  <div class="card"><div class="card-body"><h4 class="card-title">Human Erogenous Zones:</h4>
+  <div class="card"><div class="card-body"><h4 class="card-title">Zonas Humanas Erógenas:</h4>
 {{import '~/img'
   images.erogenous
   link='https://www.researchgate.net/publication/301509880_Topography_of_Human_Erogenous_Zones#pf19'
-  caption='Source: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topography of Human Erogenous Zones</a>'
+  caption='Fonte: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topografia das Zonas Humanas Erógenas</a>'
 }}
   </div></div>
 </div>

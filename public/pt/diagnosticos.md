@@ -22,7 +22,7 @@ Os SoC (Padrões de Cuidado) da WPATH descreve formas de manifestação de Disfo
 
 Ou para ser mais direta, a WPATH diz que se você pensa que você é trans, você é trans. Essa também tem sido a atitude que a maioria da comunidade tem adotado. Contanto que você acredite que seu gênero não se encaixa/casa com o que lhe foi atribuído ao nascer, você é trans. Contudo, planos de saúde não estão muito felizes com auto-diagnóstico, então aqui estão os critérios definidos no DSM-5 para diagnosticar Disforia de Gênero em alguém.
 
-{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">Para Sua Informação</h4> }!}
 
 Diagnóstico de Disforia de Gênero em crianças pré-púberes requer que a criança tenha seis meses de histórico documentado de cumprir seis desses critérios além de sofrimento clinicamente significativo ou prejuízo em funcionamento.
 

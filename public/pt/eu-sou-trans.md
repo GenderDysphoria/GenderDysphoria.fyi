@@ -43,7 +43,7 @@ Minha meta, hoje, é te dar algumas informações e enquadramento mental que me 
 æææ
 <div class="gutter flex flex-end">
   <div class="card">
-    <div class="card-header"><strong>Por que precisamos da _Egg Prime Directive_?</strong></div>
+    <div class="card-header"><strong>Por que precisamos da <em>Egg Prime Directive</em>?</strong></div>
     <div class="card-body">
 æææ
 
