@@ -25,6 +25,8 @@ exports.push = pushToProd;
 const cloudfront = require('./cloudfront');
 exports.cloudfront = cloudfront;
 
+const { offlineTask } = require('./offline');
+
 exports.new = require('../build/new-post.js');
 
 function copyProd () {
@@ -33,6 +35,7 @@ function copyProd () {
 
 /** **************************************************************************************************************** **/
 
+exports.offline = offlineTask;
 exports.dev  = series(devBuildTask);
 exports.prod = series(prodBuildTask);
 exports.publish = series(
@@ -48,8 +51,8 @@ exports.testpush = pushToProd.dryrun;
 /** **************************************************************************************************************** **/
 
 function watcher () {
-
   watch([
+    'translation-links.json',
     'public/**/*.{md,hbs,html,js,json}',
     'posts/**/*.{md,hbs,html,js,json}',
     'templates/*.{md,hbs,html,js,json}',

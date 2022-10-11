@@ -2,7 +2,7 @@
 .markup {
   -webkit-font-smoothing: antialiased;
 
-  p a {
+  p a, .glossed-block span.glossed-tooltip a {
     transition-property: color, padding, margin;
     transition-duration: 0.3s;
     transition-timing-function: ease;
@@ -79,6 +79,7 @@
       align-self: center;
       text-align: right;
       opacity: 0.15;
+      min-width: 25px;
 
       &:hover {
         opacity: 1;

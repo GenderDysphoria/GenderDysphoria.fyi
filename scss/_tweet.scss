@@ -360,7 +360,7 @@
     }
   }
 
-  &.hide-reply .tweet-text a.mention:first-child { display: none; }
+  &.hide-reply .tweet-text a.initial-mention { display: none; }
   &.hide-mentions .tweet-text a.mention { display: none; }
   &.hide-hashtags .tweet-text a.hashtag { display: none; }
   &.hide-quoted .tweet-quoted { display: none; }

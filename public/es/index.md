@@ -34,7 +34,6 @@ Esta experiencia de discontinuidad entre el yo interno y externo, es lo que se p
 
 El propósito de este sitio es documentar las muchas formas en que la Disforia de Género se manifiesta, así como otros aspectos de la transición de género, con el fin de proveer una guía a aquellxs que se están cuestionando, aquellxs que están empezando, aquellxs que ya están encaminadxs, y aquellxs que simplemente desean ser mejores aliadxs.
 
-
 {!{
 <div class="gutter flex" style="justify-content: flex-end">
 <span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>

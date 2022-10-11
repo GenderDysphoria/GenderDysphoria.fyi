@@ -55,6 +55,12 @@ jobs:
           --run-all-compositor-stages-before-draw --print-to-pdf="${{ github.workspace }}/dist/en.pdf" \
           http://127.0.0.1:8080/en/printable/index.html
 
+      - name: (PT) Generate PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ github.workspace }}/dist/en.pdf" \
+          http://127.0.0.1:8080/pt/imprimivel/index.html
+
       - name: (ZH) Generate PDF from HTML
         run: |
           google-chrome --headless --print-to-pdf-no-header \

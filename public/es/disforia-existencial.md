@@ -5,7 +5,7 @@ linkTitle: "Disforia Existencial"
 description: "No me arrepiento de las cosas que he hecho, me arrepiento de las cosas que no hice cuando tuve la oportunidad."
 classes:
   - gdb
-preBody: '_disclaimer'
+preBody: '_declaracion'
 siblings:
   prev: /es/disforia-de-presentacion
   prevCaption: Disforia De Presentacion

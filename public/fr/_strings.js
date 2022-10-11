@@ -1,6 +1,7 @@
 
 module.exports = exports = {
-  MENU_LANGUAGE: 'Français (FR)',
+  MENU_LANGUAGE_SHORT: 'Français (FR)',
+  MENU_LANGUAGE_LONG: 'Français (French)',
   SITE_TITLE: 'C\'est la dysphorie de genre, pour info',
   HEADER_TITLE: 'C\'est la dysphorie de genre, pour info',
   SITE_DESCRIPTION: 'Une ressource pour les personnes qui s\'interrogent sur leur genre, qui sont déjà engagées dans un parcours de changement de genre ou qui veulent simplement en savoir plus sur ce que c\'est que d\'être transgenre.',
@@ -15,4 +16,3 @@ module.exports = exports = {
   QUOTED_TWEET_UNAVAILABLE: 'Tweet citado no disponible',
   TWEET_DATE_FORMAT: 'HH:mm - EEE, dd/LLL/yyyy'
 };
-

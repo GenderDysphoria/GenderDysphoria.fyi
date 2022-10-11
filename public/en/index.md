@@ -78,10 +78,12 @@ siblings:
 ## Introduction
 
 {!{
+{{#with (gloss 'transgender')}}
 <div class="gutter"><blockquote>
-  <strong>Trans·gen·der</strong> - <em>adjective</em><br>
-  Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+  <strong>{{this.title}}</strong> - <em>{{this.main_word.class}}</em><br>
+  <p>{{this.short}}</p>
 </blockquote></div>
+{{/with}}
 }!}
 
 In cultures worldwide, for as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their gender identity do not align with the anglo-european concepts of binary sex based on genital structure. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Tribal [cultures all across Africa](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) recognize numerous gender identities, which [Europeans tried to wipe out](https://daily.jstor.org/the-deviant-african-genders-that-colonialism-condemned/). Human beings have long lived with identities, norms, and degrees of conformity to those norms which differ from the so-called "traditional" idea of gender in westernized culture today.

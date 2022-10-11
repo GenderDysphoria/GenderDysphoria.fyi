@@ -43,6 +43,7 @@ description: "A collection of the best twitter threads on transgender and gender
               {{#each meta.tags}}<a href="#tag={{@key}}" class="post-link tag">{{this}}</a>{{/each}}
               {{#each meta.author}}<a href="#author={{this}}" class="post-link author">{{this}}</a>{{/each}}
             </div>
+            <!-- This code is somewhat broken, but there is a script that fix things in the browser -->
             <a href="{{this.url}}" class="post-link" title="{{date this.date 'MMMM do, yyyy'}}">{{icon 'link'}} Permalink</a>
           </div>
           <div class="post-content">{{{this.content}}}</div>

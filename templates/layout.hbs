@@ -49,7 +49,7 @@
   <link href="//fonts.googleapis.com/css?family=Sriracha:400" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Lato:100,200,300,400,700,800" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Roboto:300,400,600" rel="stylesheet">
-  <link href="//fonts.googleapis.com/css?family=Gothic+A1:300,400,600" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Inter:wght@300;400;600" rel="stylesheet">
   {{#block "prescripts"}}
   <script type="text/javascript" src="{{rev '/js/global.js'}}" data-i-url="{{#prod}}//t.{{page.domain}}{{/prod}}/i"></script>
   {{/block}}
@@ -65,7 +65,7 @@
           <ul class="top-nav-inner">
             <li>{{import (join [ '/public/' page.lang '/_menu' ] "")}}</li>
             <li>
-              <a href="/en/" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE'}}</a>
+              <a href="#" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE_SHORT'}}</a>
               {{import "~/language-menu"}}
             </li>
             <li><a href="/tweets/" class="top-nav-item" title="{{{lang 'TRANS_TWITTER_TOPICS'}}}"><img src="/images/transtwitter.png" width="24" height="24" alt=""></a></li>

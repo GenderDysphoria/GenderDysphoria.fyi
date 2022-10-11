@@ -7,5 +7,4 @@ classes:
   - gdb
 redirect: /en/conclusion
 ---
-
 Redirecting...
