@@ -96,5 +96,6 @@
     "twemoji": "~13.1.0",
     "twitter-lite": "~1.1.0",
     "uuid": "~8.3.2"
-  }
+  },
+  "dependencies": {}
 }
