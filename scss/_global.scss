@@ -3,6 +3,21 @@ body {
   font-family: $font-primary;
 }
 
+// Prevents the page header from blocking view of
+// the element targeted by the fragment in the URL
+[id] {
+  scroll-margin-top: 60px;
+}
+@media screen and (min-width: 500px) and (max-width: 800px) {
+  [id] {
+    scroll-margin-top: 100px;
+  }
+
+}
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+  background-color: yellow !important;
+}
+
 span.svg-icon {
   $size: 1.5em;
   display: inline-block;
