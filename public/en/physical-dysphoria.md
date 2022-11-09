@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Physical Dysphoria"
 linkTitle: "Physical Dysphoria"
-description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
+description: "Body discomfort is only one of the many ways gender dysphoria can manifest."
 preBody: '_disclaimer'
 siblings:
   prev: /en/euphoria
@@ -21,7 +21,7 @@ tweets:
 
 # Physical Gender Dysphoria
 
-Everyone has heard of the "born in the wrong body" narrative. Physical Dysphoria is discomfort over the shape of one's body due to the sexual characteristics it presents. So what body features are we talking about here?
+Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria is discomfort over the shape of one's body due to the sexual characteristics it presents. So what body features are we talking about here?
 
 {!{
 <style>
@@ -98,15 +98,15 @@ All sexually dimorphic features which develop during and after puberty as a resu
 
 The genitals of a transgender person on hormone therapy do not behave remotely like their cisgender counterparts.
 
-- The Estrogenic Penis softens, erections become less pronounced, the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
+- The estrogenic penis softens, erections become less pronounced, and the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
 
-- The Androgenic Vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris.
+- The androgenic vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris.
 
 {!{ </div></div></div> }!}
 
-Primary characteristics can only be altered through surgical intervention. Some secondary sexual characteristics are also one-way trips and require medical intervention to undo, namely the growth of breast tissue and the deepening of the vocal chords. Estrogen does not make the voice more feminine, Testosterone does not make breasts shrink (aside from the loss of fat). Changes to skeletal structure (such as enlarging from testosterone and the widening of hips from estrogen) can only occur prior to the age of 25, while the body is still growing.
+Primary characteristics can only be altered through surgical intervention. Some secondary sexual characteristics are also one-way trips and require medical intervention to undo, namely the growth of breast tissue and the deepening of the vocal chords. Estrogen does not make the voice more feminine, and testosterone does not make breasts shrink (aside from the loss of fat). Changes to skeletal structure (such as enlarging from testosterone and the widening of hips from estrogen) can only occur prior to the age of 25, while the body is still growing.
 
-Some secondary traits can be surgically enhanced (Breast Augmentation, body contouring, facial masculinization / feminization), and some cannot be changed at all.
+Some secondary traits can be surgically enhanced (breast augmentation, body contouring, facial masculinization / feminization), and some cannot be changed at all.
 
 Physical dysphoria manifests in several different ways. Sometimes this is felt in a sort of phantom limb phenomenon, where the person can feel sensations from a penis or vagina that is not there, an ache in a uterus that does not exist, or a sense of absence on the chest from breasts that have not grown in.
 
@@ -118,24 +118,24 @@ It may be felt as horror or revulsion when looking at or touching the external g
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.
+It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping one's nails manicured and polished, or spending hours in the gym attempting to hone one's shape.
 
 Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
 
-Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all, I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
+Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life, I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all; I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they're actually okay with how they look.
+The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then, two years into transition, realize they're actually okay with how they look.
 
 It's okay for you to realize you need more or less than when you started.
 
-It's okay if you don't hate anything about your body, and just wish you looked more feminine or masculine.
+It's okay if you don't hate anything about your body and just wish you looked more feminine or masculine.
 
-It's okay if you only hate some aspects of your body, and don't wish to change all of its sexual characteristics.
+It's okay if you only hate some aspects of your body and don't wish to change all of its sexual characteristics.
 
 It's okay if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
 
