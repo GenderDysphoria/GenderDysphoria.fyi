@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
 linkTitle: "Biochemical Dysphoria"
-description: "The very real and biological factors of Gender Dysphoria that cause mental disturbance."
+description: "The very real and biological factors of gender dysphoria that cause mental disturbance."
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -27,9 +27,9 @@ siblings:
 
 # Biochemical Dysphoria
 
-The primary sexual features of the body begin development during the 8th week of human gestation. Typically by week 11 it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
+The primary sexual features of the body begin development during the eighth week of human gestation. Typically, by week 11, it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
 
-If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, Depersonalization and Derealization (DPDR).
+If your brain is wired for one kind of gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog: a reduction in mental capacity and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy: **depersonalization and derealization (DPDR)**.
 
 {!{
 <div class="gutter">
@@ -60,7 +60,7 @@ If your brain is wired for one gonadal hormones (such as testosterone) and your 
 </div>
 }!}
 
-**Depersonalization** is a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself. You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.
+**Depersonalization** is a disconnect from your own body: an inability to believe that the person you see in the mirror is actually yourself. You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, feeling a lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.
 
 Zinnia Jones [gives these descriptions for Depersonalization](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
@@ -88,7 +88,7 @@ You may be unconcerned with the state of your body, perhaps not even fearing dea
   '1215740224325783553'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-**Derealization** is a detachment from the world around you, a mental sense that everything you perceive is false.
+**Derealization** is a detachment from the world around you: a mental sense that everything you perceive is false.
 
 - Your surroundings seem alien or unfamiliar, even if you've always been there, like someone has swapped out your house for a stage replica.
 - Moving through the world feels like you're walking on a treadmill, with the buildings moving around you instead of you through them.
@@ -98,11 +98,11 @@ You may be unconcerned with the state of your body, perhaps not even fearing dea
 - Distortions of distance and the size and shape of objects
 - Feeling like a passive observer in the events of your life
 
-If you found yourself strongly relating to The Matrix or The Truman Show, you might be experiencing derealization. This can also manifest as a feeling of otherworldliness, like you don't belong in this society. You're just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of The Outer Limits where a boy discovers a spaceship under his house and learns that he and his parents aren't actually human.
+If you found yourself strongly relating to *The Matrix* or *The Truman Show*, you might be experiencing derealization. This can also manifest as a feeling of otherworldliness, like you don't belong in this society. You're just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of *The Outer Limits* where a boy discovers a spaceship under his house and learns that he and his parents aren't actually human.
 
 DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it. This can also go in the opposite direction, where the person is under so much anxiety that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
 
-It's important to note that DPDR is not exclusive to Gender Dysphoria. This condition is co-morbid with several other mental health issues, including chronic depression, obsessive compulsive disorder, and borderline personality disorder. DPDR should not be taken as a sign of Gender Dysphoria purely on its own, it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
+It's important to note that DPDR is not exclusive to gender dysphoria. This condition is comorbid with several other mental health issues, including chronic depression, obsessive compulsive disorder, and borderline personality disorder. DPDR should not be taken as a sign of gender dysphoria purely on its own; it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
 
 ### The Ebb and Flow
 
@@ -110,7 +110,7 @@ The intensity of physical and biochemical dysphoria is highly influenced by othe
 
 - If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
 - If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.
-- If you start on an SSRI Antidepressant and start running with more serotonin, that can make it less intense.
+- If you start on an SSRI antidepressant and start running with more serotonin, that can make it less intense.
 - Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
 - Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
 
@@ -131,12 +131,12 @@ All of this is valid, and just because you feel very dysphoric one day and not d
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. "Estrogen makes everyone happier." This is flat out false. When cis people are put on cross hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from Polycystic Ovarian Syndrome (PCOS), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an ear full.
+Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. "Estrogen makes everyone happier." This is flat out false. When cis people are put on cross-hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from [polycystic ovary syndrome (PCOS)](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an earful.
 
-One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David's went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13 he was deep into suicidal depression and suffering greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his parents informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male.
+One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David's went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13, he was deep into suicidal depression and suffering greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his parents informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male.
 
 People know when they're living the wrong gender.
 
-Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender, and it will stick.
+Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender and it will stick.
 
 This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (though not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.
