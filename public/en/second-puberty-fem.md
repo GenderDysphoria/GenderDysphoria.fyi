@@ -266,3 +266,7 @@ No, there have not yet been studies on this yet, but it is reported by far, **fa
 Running on estrogen and progesterone activates a gene sequence which instructs the hypothalamus to attempt to cycle ovary and uterine behavior just as it does in female assigned individuals, regardless of the absence of ovaries or a uterus. This cycle affects numerous organs and subsystems in the body, causing the release of a variety of different hormones and enzymes that can affect function and even behavior.
 
 A more thorough explanation of this will be coming in a later update to the site.
+
+{!{ <div class="gutter">
+{{import '~/github-tweet-lookalike' githubLink="swarmidentity" githubUser="swarmidentity" githubUserImageLink="https://avatars.githubusercontent.com/u/82755646?s=40&v=4" linkToDisplay='/transition-planner.html' introText="I built this " linkText="Transition Planning Calendar" outroText=" for myself, adding it as a beta feature to this project. Contributions welcome!"}}
+</div> }!}

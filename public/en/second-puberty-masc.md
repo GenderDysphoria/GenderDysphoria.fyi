@@ -218,3 +218,6 @@ You may still experience other period symptoms, however, as the hypothalamus can
 
 **This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up, they do not die.
 
+{!{ <div class="gutter">
+{{import '~/github-tweet-lookalike' githubLink="swarmidentity" githubUser="swarmidentity" githubUserImageLink="https://avatars.githubusercontent.com/u/82755646?s=40&v=4" linkToDisplay='/transition-planner.html' introText="I built this " linkText="Transition Planning Calendar" outroText=" for myself, adding it as a beta feature to this project. Contributions welcome!"}}
+</div> }!}
