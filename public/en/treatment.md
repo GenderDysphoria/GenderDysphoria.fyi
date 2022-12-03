@@ -18,9 +18,9 @@ Treatment options vary significantly depending on the individual person's needs.
 
 ### Social Transition
 
-In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
+In a phrase: coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not; you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
 
-A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones self.
+A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from the suppression of oneself.
 
 ### Legal Transition
 
@@ -32,7 +32,7 @@ These are changes to how you style yourself, be it your clothes, your hair, or t
 
 ### Medical Transition
 
-For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
+For adults, this is hormone replacement therapy and surgery. For adolescents, this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
 
 ***PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION***.
 
@@ -42,24 +42,24 @@ Furthermore, no surgeon in the United States will perform a gender altering surg
 
 ### Hormonal Transition
 
-**Masculinizing Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
+**Masculinizing hormone therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
 
-**Femininizing Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**Feminizing hormone therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US, the most common drug is cyproterone acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
 
-**In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
+**In adolescents**, puberty blockers may involve the above androgen blockers, or (if it is covered by insurance) the use of an antigonadotropic (a drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
 
 ### Surgical Transition
 
 Transgender surgeries are typically divided into three separate categories:
 
-**Bottom Surgery** (modifications to genitals).
+**Bottom Surgery** (modifications to genitals):
 
-- Femininizing:
+- Feminizing:
 
   - Orchiectomy (removal of the testicles)
   - Scrotectomy (removal of scrotal tissue, following orchiectomy)
   - Vaginoplasty (creation of a vaginal cavity)
-  - Vulvaplasty (creation of a vulva, with or without depth).
+  - Vulvoplasty (creation of a vulva, with or without depth).
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
@@ -85,11 +85,11 @@ Phalloplasty does not necessarily require previous hormone therapy, and while it
 
 - Feminizing:
   
-  - Breast Augmentation via fat transfer or implants.
+  - Breast augmentation via fat transfer or implants.
 
 - Masculinizing:
 
-  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction
+  - Bilateral mastectomy (breast tissue removal) with chest reconstruction
   - Breast reduction (some fat and breast tissue removal)
 
 **Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
@@ -120,7 +120,7 @@ Phalloplasty does not necessarily require previous hormone therapy, and while it
 
 Other Trans Feminine Surgeries:
 
-- Brazilian Butt Lift. Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
-- Voice Feminization Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
-- Cinderella Surgery. Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
-- Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
+- Brazilian Butt Lift: Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
+- Voice Feminization Surgery: An incision is performed in the vocal cords in order to permanently raise the pitch.
+- Cinderella Surgery: Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
+- Shoulder Reduction: The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
