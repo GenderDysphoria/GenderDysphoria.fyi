@@ -58,10 +58,10 @@ For an adult to be diagnosed with gender dysphoria by a licensed mental health p
 
   This is pretty self explanatory.
 
-As I said, only two of these conditions need be met for a formal diagnosis. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing gender dysphoria without actually hating any part of their body or wanting to change any part of their body. Physical dysphoria is only one fraction of the many things that lead to being trans.
+As I said, only two of these conditions need to be met for a formal diagnosis. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing gender dysphoria without actually hating any part of their body or wanting to change any part of their body. Physical dysphoria is only one fraction of the many things that lead to being trans.
 
 Now, here is the kicker. If you identify as transgender, meaning that your gender does not align with the binary sex you were assigned at birth, you already meet two of these criteria! You have a strong enough desire to be of another gender that you are identifying that you *are* another gender, and you have a strong conviction of what your gender feels like, and it isn't what you were given at birth.
 
 So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement "you do not have to have dysphoria to be transgender" is a logical paradox.
 
-Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
+Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how gender dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
