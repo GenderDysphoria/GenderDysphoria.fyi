@@ -59,7 +59,7 @@ A nemi diszfória elvileg az énben rejlő helytelenség érzése. Ennek a helyt
 
 Úgy lehet legjobban szemléltetni, mintha gyerekként felnőtt kesztyűt viselnél. A kesztyűbe bele tudod dugni a kezed, és az ujjaid a kesztyű ujjbegyeihez illeszkednek, de a kesztyűvel való ügyességed erősen akadályozva van. Lehet, hogy fel tudsz venni valamit, de nem tudod úgy manipulálni, mint egy felnőtt. A dolgok egyszerűen nincsenek rendben.
 
-Evey Winters így írta le [a Diszfória posztjában](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/):
+Evey Winters így írta le [a Diszfória posztjában](https://eveywinters.com/on-dysphoria-before-enduring-and-after/):
 
 > Ültél már valaha valahol nyilvános vagy hivatalos helyen, és hirtelen viszketett a lábfejed? Nem mintha ott helyben le tudnád venni a cipődet és megvakarni, ezért elviseled a belső haldoklás érzését, miközben ez a viszketés egyre csak nő és nő, amíg készen nem állsz arra, hogy megöld a következő embert, aki megszólít.
 >

@@ -59,7 +59,7 @@ Em princípio, a Disforia de Gênero é uma sensação de algo intrínseca erron
 
 A forma como costumo a descrever é como usar uma luva de adulto quando você é criança. Você pode por a sua mão na luva, e seus dedos podem entrar nos dedos da luva, mas a sua desteridade com a luva é severamente debilitada. Você também pode ser capaz de pegar algo, mas ser incapaz de manipulá-lo como um adulto conseguiria. As coisas simplesmente não estão bem certas.
 
-<span lang="en">Evey Winters</span> descreve assim [em seu post Disforia](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+<span lang="en">Evey Winters</span> descreve assim [em seu post Disforia](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 > Você já estava sentado em algum lugar público ou formal e do nada a sola do seu sapato coça? Você não pode remover seus sapatos ali e coçar o seu pé, então você aguenta a sensação morrendo dentro de você enquanto essa coceira cresce e cresce até que você está pronto para matar a próxima pessoa que falar com você.
 >

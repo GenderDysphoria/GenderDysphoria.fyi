@@ -47,7 +47,7 @@ Hay un malentendido común entre personas tanto cisgénero como transgénero de 
 
 En principio, la Disforia de Género es un sentimiento de incongruencia intrínseca al ser. No hay lógica detrás de esta incongruencia, no hay nada que lo explique, y no puedes describir porqué te sientes de esta manera, solo está ahí. Las cosas en tu existencia son incorrectas, e incluso saber qué cosas son incorrectas puede ser difícil de identificar apropiadamente.
 
-Evey Winters lo describió muy acertadamente [en su publicación sobre Disforia.](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+Evey Winters lo describió muy acertadamente [en su publicación sobre Disforia.](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 > ¿Alguna vez has estado sentadx en un lugar público o un sitio formal y de repente la planta de tu pie te empieza a picar? No es como que pudieras quitarte los zapatos ahí mismo y rascarte, así que aguantas el sentimiento de morir por dentro mientras la picazón crece y crece hasta que estás listx para asesinar a la persona más cercana que se dirija a ti.
 >

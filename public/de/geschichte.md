@@ -70,7 +70,7 @@ Infolgedessen haben sich Befürworter des WPATH SoC 7 und des DSM-5 angewöhnt z
 
 Im Prinzip ist Gender Dysphorie ein Gefühl der Unrichtigkeit, das dem Selbst innewohnt. Es gibt keinen logischen Rückhalt für diese Unrichtigkeit, es gibt nichts, was es erklärt. Man kann nicht beschreiben, warum man so fühlt, es ist einfach so. Dinge fühlen sich für sie falsch an, auch wenn Sie selbst nicht wissen, warum die Dinge falsch sind. Deshalb kann es schwierig sein, es richtig zu identifizieren.
 
-Evey Winters hat es [in ihrem Dysphorie-Beitrag](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/) äußerst treffend beschrieben.
+Evey Winters hat es [in ihrem Dysphorie-Beitrag](https://eveywinters.com/on-dysphoria-before-enduring-and-after/) äußerst treffend beschrieben.
 
 > Haben Sie jemals irgendwo an einem öffentlichen oder formellen Ort gesessen und plötzlich juckt Ihnen die Unterseite Ihres Fußes? Es ist nicht so, dass Sie Ihre Schuhe genau dort ausziehen und kratzen können, um das Gefühl zu lindern. Im Inneren sterben sie ein bisschen, während dieser Juckreiz wächst und wächst. Am Ende könnten Sie die nächste Person erschlagen, die sie anspricht.
 >
