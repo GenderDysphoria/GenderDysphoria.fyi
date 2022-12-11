@@ -188,8 +188,8 @@ function formatTableQuestionsFtM(iterator) {
 
   allQuestionHTMLFtm += "</table>"
 
-    allQuestionHTMLFtm += "<button class='button' id='nextFtMQuestion' onClick=nextFtMButton(" + iterator + ")>Next</button>"
-    allQuestionHTMLFtm += "<button class='button' id='closeFtM' onClick='ftmModal.style.display = \"none\";'>Close</button>"
+    allQuestionHTMLFtm += "<button class='trans-planner-label' id='nextFtMQuestion' onClick=nextFtMButton(" + iterator + ")>Next</button>"
+    allQuestionHTMLFtm += "<button class='trans-planner-label' id='closeFtM' onClick='ftmModal.style.display = \"none\";'>Close</button>"
   
 
   // else if (iterator == 3) {

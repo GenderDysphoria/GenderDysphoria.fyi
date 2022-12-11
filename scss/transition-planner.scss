@@ -10,6 +10,7 @@ $background-color_2: #EEEEEE;
 $background-color_3: rgb(0,0,0);
 $background-color_4: rgba(0,0,0,0.4);
 $background-color_5: #fefefe;
+$primary: #fc0a7e;
 
 .icon-image {
 	width: 100px
@@ -85,17 +86,49 @@ input[type="file"] {
 .bar-max-effect-ftm {
 	fill: #20c4ff;
 }
-.button {
-	font: bold 11px Arial;
-	text-decoration: none;
-	background-color: $background-color_2;
-	color: $color_1;
-	padding: 2px 6px 2px 6px;
-	border-top: 1px solid #CCCCCC;
-	border-right: 1px solid #333333;
-	border-bottom: 1px solid #333333;
-	border-left: 1px solid #CCCCCC;
+
+
+.pink-btn {
+    font-size: 0.9em;
+    box-shadow: 0px 1px 5px rgba(#000, 0.5);
+    color: white;
+    white-space: nowrap;
+    width: 100%;
+    // min-width: 75%;
+    height: 36px;
+    max-width: calc(50vw - 10px);
+	background-color: #fc0a7e;
+  }
+
+  .pink-btn.left {
+    justify-content: flex-start;
+  }
+
+  .pink-btn:hover {
+	background-color: #E81179;
+  }
+
+  .trans-planner-label:hover {
+	background-color: #E81179;
+  }
+
+.full-width {
+	width: 100%
 }
+
+.trans-planner-label {
+	text-align: center;
+	border-radius: 5%;
+	font-size: 0.9em;
+    box-shadow: 0px 1px 5px rgba(#000, 0.5);
+    color: white;
+    white-space: nowrap;
+	line-height: 36px;
+    height: 36px;
+    max-width: calc(50vw - 10px);
+	background-color: #fc0a7e;
+}
+
 .mtf-modal {
 	display: none;
 	position: fixed;

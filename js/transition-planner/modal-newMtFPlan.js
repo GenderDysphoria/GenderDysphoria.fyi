@@ -200,8 +200,8 @@ function formatTableQuestionsMtF(iterator) {
 
   allQuestionHTMLMtF += "</table>"
 
-    allQuestionHTMLMtF += "<button class='button' id='nextMtFQuestion' onClick=nextMtFButton(" + iterator + ")>Next</button>"
-    allQuestionHTMLMtF += "<button class='button' id='closeMtF' onClick='mtfModal.style.display = \"none\";'>Close</button>"
+    allQuestionHTMLMtF += "<button class='trans-planner-label' id='nextMtFQuestion' onClick=nextMtFButton(" + iterator + ")>Next</button>"
+    allQuestionHTMLMtF += "<button class='trans-planner-label' id='closeMtF' onClick='mtfModal.style.display = \"none\";'>Close</button>"
 
   // else if (iterator == 3) {
   //   <button id="generateMtF">Generate New MtF Plan</button>
