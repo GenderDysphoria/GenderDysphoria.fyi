@@ -108,19 +108,33 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
 
 }!}
 
-# Disclaimer
+## Disclaimer
 
 Not a doctor.
 
 {!{
 
-             <div class="black fw-600 fs-m3 mb-5" style="display: none;" id="zoomControl">
-    
-                <h1 class="black fs-l3 lh-2 md-fs-xl1 md-lh-1 fw-900 ">Your Transition Plan:</h1>
-                Start Date: <input type="date" id="graphStartDate"></input><br>
-                End Date: <input type="date" id="graphEndDate"></input><br>
-                <button  class="trans-planner-label" id="setGraphStartEnd" onclick="renderGanttChart()">Zoom</button>
-            </div>
+
+    <section id="zoomControl" class="p-10 md-p-l5" style="display: none;">
+    <h1 class="black fs-l3 lh-2 md-fs-xl1 md-lh-1 fw-900 ">Your Transition Plan:</h1>
+                <div class="flex flex-column md-flex-row mx-auto">
+                    <div class="w-100pc md-w-40pc">
+                        <div class="br-8 p-5 m-5">
+                            Start Date: <input type="date" id="graphStartDate"></input>
+                        </div>
+                    </div>
+                    <div class="w-100pc md-w-40pc">
+                        <div class="br-8 p-5 m-5">
+                        <button  class="trans-planner-label" id="setGraphStartEnd" onclick="renderGanttChart()">Zoom</button>
+                        </div>
+                    </div>
+                    <div class="w-100pc md-w-40pc">
+                        <div class="br-8 p-5 m-5">
+                            End Date: <input type="date" id="graphEndDate"></input>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
     <div id="ganttChartTarget"></div>
 
