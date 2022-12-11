@@ -75,7 +75,7 @@ function drawCommonLabels(svg, height, margin) {
 	bottom : 50,
 	left : 150
     };
-    var selector = 'body';
+    var selector = '#ganttChartTarget';
     var timeDomainStart = d3.time.day.offset(new Date(),-3);
     var timeDomainEnd = d3.time.hour.offset(new Date(),+3);
     var timeDomainMode = FIXED_TIME_DOMAIN_MODE;// fixed or fit

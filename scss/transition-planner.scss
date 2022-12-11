@@ -11,32 +11,10 @@ $background-color_3: rgb(0,0,0);
 $background-color_4: rgba(0,0,0,0.4);
 $background-color_5: #fefefe;
 
-/* The Modal (background) */
-/* Modal Content/Box */
-/* Modal Content/Box */
-/* Modal Content/Box */
-/* The Close Button */
-/* unvisited link */
-/* visited link */
-/* mouse over link */
-html {
-	width: 100%;
-	height: 100%;
-	margin: 0px;
+.icon-image {
+	width: 100px
 }
-body {
-	width: 100%;
-	height: 100%;
-	margin: 0px;
-}
-#wrapper {
-	width: 100%;
-	height: 100%;
-	margin: 0px;
-}
-svg {
-	background-color: $background-color_1;
-}
+
 .onHoverText {
 	text-decoration: underline;
 }
@@ -189,16 +167,5 @@ input[type="file"] {
 		color: $color_3;
 		text-decoration: none;
 		cursor: pointer;
-	}
-}
-a {
-	&:link {
-		color: $color_4;
-	}
-	&:visited {
-		color: $color_5;
-	}
-	&:hover {
-		color: $color_6;
 	}
 }
