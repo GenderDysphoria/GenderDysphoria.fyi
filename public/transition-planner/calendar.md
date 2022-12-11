@@ -4,8 +4,18 @@ title: "Transition Planning Calendar"
 linkTitle: "Transition Planner"
 description: "Anxiety makes some people procrastinate; it makes others over-plan."
 ---
+{!{
+<div class="text-with-margins">
+}!}
 
-## Generate Plan
+## Transition Planner
+
+I made these tools at the very start of my transition because I was stressed out and overwhelmed by the sheer number of things to schedule. As I write this about 6 months later, a lot of these weren't as hard as I first thought. My advice to anyone just starting out is to focus on just one or two areas at a time, trying to handle everything all at once leads to "where do I even start" overload.
+
+
+{!{
+</div>
+}!}
 
 {!{
      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
@@ -24,8 +34,7 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                 <div class="flex flex-column md-flex-row mx-auto">
                     <div id="mtfDiv" class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <img class="w-l5" src="/transition-planner/images/mtf.png" />
-                            <h4 class="indigo fw-600 fs-m3 mb-5">Generate New <span class="blue">Male</span> to <span class="red">Female</span> Transition Plan</h4> 
+                            <img class="w-l5 center" src="/transition-planner/images/mtf.png" />
                                  
                                   <!-- Trigger/Open The New MtF Modal -->
                                 
@@ -33,29 +42,27 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                                         <div id="mtfQuestions" class="mtf-modal-content">
                                         </div>
                                         </div>
-                                        <button id="newMtFModalButton" class="pink-btn">Generate New MtF Plan</button>
+                                        <button id="newMtFModalButton" class="pink-btn">Generate New Feminization Plan</button>
                             
                                 
                         </div>
                     </div>
                     <div id="ftmDiv"  class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <img class="w-l5" src="/transition-planner/images/ftm.png" />
-                            <h4 class="indigo fw-600 fs-m3 mb-5">Generate New <span class="red">Female</span> to <span class="blue">Male</span> Transition Plan</h4> 
+                            <img class="w-l5 center" src="/transition-planner/images/ftm.png" />
                             
                                 <!-- Trigger/Open The New FtM Modal -->
                                 <div id="ftmModal" class="ftm-modal fw-600 opacity-100">
                                     <div id="ftmQuestions" class="ftm-modal-content">
                                     </div>
                                     </div>
-                                    <button id="newFtMModalButton" class="pink-btn">Generate New FtM Plan</button>
+                                    <button id="newFtMModalButton" class="pink-btn">Generate New Masculinization Plan</button>
                                 
                         </div>
                     </div>
                     <div class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <img class="w-l5" src="/transition-planner/images/indigo upload.png" />
-                            <h4 class="indigo fw-600 fs-m3 mb-5">Upload Existing Transition Plan</h4> 
+                            <img class="w-l5 center" src="/transition-planner/images/indigo upload.png" />
                              
                             <label for="file" class="trans-planner-label full-width">
                                 Upload Existing Plan
@@ -71,8 +78,7 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                 <div class="flex flex-column md-flex-row mx-auto">
                     <div class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <h4 class="black fw-600 fs-m3 mb-5"></h4>
-                            <img class="w-l5" src="/transition-planner/images/edit calendar.png" />
+                            <img class="w-l5 center" src="/transition-planner/images/edit calendar.png" />
                             <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Edit Plan</div>
                             <!-- Trigger/Open The Edit Plan Modal -->
                                 <button id="editPlanModalButton"  class="trans-planner-label full-width">Edit Transition Plan</button>
@@ -88,7 +94,7 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                     </div>
                     <div class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <img class="w-l5" src="/transition-planner/images/indigo file download.png" />
+                            <img class="w-l5 center" src="/transition-planner/images/indigo file download.png" />
                             <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Download Plan</div>
 
                                 <button  class="trans-planner-label full-width" onclick="downloadJSONFile()">Download My Plan</button>
@@ -97,7 +103,7 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                     </div>
                     <div class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <img class="w-l5" src="/transition-planner/images/indigo image download.png" />
+                            <img class="w-l5 center" src="/transition-planner/images/indigo image download.png" />
                             <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Download Image</div>
         
                                 <button  class="trans-planner-label full-width" id="downloadPng">Download Image</button>
@@ -108,9 +114,16 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
 
 }!}
 
+{!{
+<div class="text-with-margins">
+}!}
 ## Disclaimer
 
 Not a doctor.
+
+{!{
+</div>
+}!}
 
 {!{
 

@@ -202,3 +202,15 @@ input[type="file"] {
 		cursor: pointer;
 	}
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
+.text-with-margins {
+	margin-left: 10%;
+	margin-right: 10%
+}
