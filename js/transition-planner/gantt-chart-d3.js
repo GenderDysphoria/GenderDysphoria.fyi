@@ -69,6 +69,12 @@ function drawCommonLabels(svg, height, margin) {
     var FIT_TIME_DOMAIN_MODE = "fit";
     var FIXED_TIME_DOMAIN_MODE = "fixed";
     
+	//Scale to width because this isn't expected to change
+	var initialSize = {
+		width: document.body.clientWidth,
+		height: document.body.clientWidth * 0.5
+	}
+
     var margin = {
 	top : 20,
 	right : 40,
@@ -81,8 +87,8 @@ function drawCommonLabels(svg, height, margin) {
     var timeDomainMode = FIXED_TIME_DOMAIN_MODE;// fixed or fit
     var taskTypes = [];
     var taskStatus = [];
-    var height = document.body.clientHeight - margin.top - margin.bottom-20;
-    var width = document.body.clientWidth - margin.right - margin.left-5;
+    var height = initialSize.height - margin.top - margin.bottom-20;
+    var width = initialSize.width - margin.right - margin.left-5;
 
     var tickFormat = "%m/%d";
 

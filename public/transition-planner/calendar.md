@@ -71,7 +71,7 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                 <div class="flex flex-column md-flex-row mx-auto">
                     <div class="w-100pc md-w-40pc">
                         <div class="br-8 p-5 m-5">
-                            <h4 class="white fw-600 fs-m3 mb-5"></h4>
+                            <h4 class="black fw-600 fs-m3 mb-5"></h4>
                             <img class="w-l5" src="/transition-planner/images/edit calendar.png" />
                             <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Edit Plan</div>
                             <!-- Trigger/Open The Edit Plan Modal -->
@@ -106,9 +106,9 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
                 </div>
             </section>
 
-             <div class="white fw-600 fs-m3 mb-5" style="display: none;" id="zoomControl">
+             <div class="black fw-600 fs-m3 mb-5" style="display: none;" id="zoomControl">
     
-                <h1 class="white fs-l3 lh-2 md-fs-xl1 md-lh-1 fw-900 ">TranzPlan:</h1>
+                <h1 class="black fs-l3 lh-2 md-fs-xl1 md-lh-1 fw-900 ">TranzPlan:</h1>
                 Start Date: <input type="date" id="graphStartDate"></input><br>
                 End Date: <input type="date" id="graphEndDate"></input><br>
                 <button  class="button" id="setGraphStartEnd" onclick="renderGanttChart()">Zoom</button>
