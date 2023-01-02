@@ -1,27 +1,30 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 lang: "es"
-title: "In Conclusion"
-description: "Enough with the gatekeeping already."
+title: "En conclusión"
+description: "Ya basta con el control de acceso."
 siblings:
   prev: /es/chromosomas
-  prevCaption: Disorders of Sexual Development
+  prevCaption: Trastornos del desarrollo sexual
 classes:
   - gdb
 preBody: '_declaracion'
 ---
 
-# Conclusion
+# Conclusión
 
-Every single year we get new studies that show an increase in the size of the transgender population. As awareness continues to grow, more and more people are realizing what has been wrong with their lives and are coming out of the closet. People who transitioned decades ago are coming out of stealth. GLAAD estimates as much as 3% of the population could be transgender, and I have seen numbers as high as 5% or even 10% from more liberal estimations. The more we come to understand about gender, the more language we gain to describe gender, the more people realize that the rigid Male and Female sexual structure that we have been forced into is false.
+Cada año aparecen nuevos estudios que muestran un aumento del tamaño de la población transgénero. A medida que aumenta la concienciación, cada vez más personas se dan cuenta de lo que ha estado mal en sus vidas y salen del armario. Las personas que hicieron la transición hace décadas están saliendo de la clandestinidad. GLAAD estima que hasta el 3% de la población podría ser transgénero, y he visto cifras tan altas como el 5% o incluso el 10% según estimaciones más liberales. Cuanto más entendemos sobre el género, cuanto más lenguaje ganamos para describir el género, más gente se da cuenta de que la rígida estructura sexual masculina y femenina a la que nos han obligado es falsa.
 
-Yet all this change frightens people. It frightens conservatives who see their patriarchal social structures dissolving under the new understanding of gender. It frightens old-school transgender people who transitioned under the Harry Benjamin rules and now see so many people easily obtaining what they had to act and lie and manipulate to achieve. They fear that if anyone can be trans, then the public will stop taking trans people seriously. It frightens the misogynistic trans-exclusionary groups that fight so hard to invalidate transgender rights, because they think if anyone can be a man or a woman, then their status as a man or a woman is harmed.
+Sin embargo, todo este cambio asusta a la gente. Asusta a los conservadores que ven cómo sus estructuras sociales patriarcales se disuelven bajo la nueva comprensión del género. Asusta a las personas transgénero de la vieja escuela que hicieron la transición bajo las reglas de Harry Benjamin y que ahora ven que mucha gente obtiene fácilmente lo que ellos tuvieron que actuar y mentir y manipular para conseguir. Temen que si cualquiera puede ser trans, entonces el público dejará de tomar en serio a las personas trans. Eso asusta a los grupos misóginos de exclusión trans que tanto luchan por invalidar los derechos de los trans, porque piensan que si cualquiera puede ser hombre o mujer, entonces su condición de hombre o mujer se ve perjudicada.
 
-There is no such thing as a "Transtrender".
 
-There is no such thing as "Rapid Onset Gender Dysphoria".
 
-There is no such thing as parents "transing" their kids.
+No existe el término "Transtrender".
 
-These mentalities have to stop.
+No existe la "disforia de género de inicio rápido".
+
+No existe la idea de que los padres "transiten" por sus hijos.
+
+Hay que acabar con estas mentalidades.
+
 

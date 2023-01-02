@@ -7,6 +7,7 @@ const { resolve, readFile } = require('./resolve');
 const { hasOwn, isFunction } = require('./lib/util');
 const revHash = require('rev-hash');
 const revPath = require('rev-path');
+const log = require('fancy-log');
 
 const CACHE = 'if-cache';
 const MANIFEST = 'if-cache.json';
@@ -14,8 +15,8 @@ const REV_MANIFEST = 'rev-manifest.json';
 
 module.exports = exports = class Manifest {
 
-  constructor ({ time = true, inputRev = true, prod = false, writeCount = 100, writeInterval = 10000 }) {
-    this.compareBy = { time, inputRev };
+  constructor ({ /* time = true, */ inputRev = true, prod = false, writeCount = 100, writeInterval = 10000 }) {
+    this.compareBy = { inputRev };
     this.manifest = {};
     this.rev = memoizeSync(revHash);
     this.stat = memoizeAsync((f) =>
@@ -72,14 +73,12 @@ module.exports = exports = class Manifest {
 
   async get (task) {
     if (task === undefined || task === null) {
-      console.error(task);
+      log.error(task);
       throw new Error('Task action is undefined or null.');
-      return;
     }
     if (task.input === undefined || task.input === null) {
-      console.error(task);
+      log.error(task);
       throw new Error('Task action is missing input. (tip: remove `twitter-cache.json` and run `gulp` again)');
-      return;
     }
 
     const hash = this.hash(task);
@@ -265,7 +264,7 @@ module.exports = exports = class Manifest {
 
 
   async save () {
-    const revManifest = this.isProd && await fs.readJson(resolve(REV_MANIFEST))
+    const revManifest = false && this.isProd && await fs.readJson(resolve(REV_MANIFEST))
       .catch(() => ({}))
       .then((old) => ({ ...old, ...this.revManifest }));
 

@@ -57,7 +57,7 @@ En principe, la dysphorie de genre est un sentiment de mal-être intrinsèque à
 
 La façon dont je décrivais cela, c'est comme porter un gant d'adulte quand on est un enfant. Tu peux mettre ta main dans le gant, et tes doigts s'insèrent dans les doigts du gant, mais ta dextérité avec le gant est sévèrement entravée. Tu peux peut-être ramasser quelque chose, mais tu ne peux pas le manipuler comme un adulte le ferait. Les choses ne sont pas tout à fait correctes.
 
-Evey Winters l'a décrit ainsi [dans son article sur la dysphorie](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+Evey Winters l'a décrit ainsi [dans son article sur la dysphorie](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 > As-tu déjà été assis dans un lieu public ou formel et, tout à coup, la plante de ton pied te démange ? Ce n'est pas comme si tu pouvais enlever tes chaussures à cet endroit et te gratter, alors tu endures le sentiment de mourir intérieurement pendant que cette démangeaison grandit et grandit jusqu'à ce que tu sois prêt.e à assassiner la prochaine personne qui te parle.
 >
