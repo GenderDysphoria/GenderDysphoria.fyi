@@ -5,9 +5,9 @@ const alias = require('@rollup/plugin-alias');
 const commonjs = require('@rollup/plugin-commonjs');
 const nodeResolve = require('@rollup/plugin-node-resolve').default;
 const replace = require('@rollup/plugin-replace');
-const babel = require('rollup-plugin-babel');
+const babel = require('@rollup/plugin-babel');
 const svg = require('rollup-plugin-react-svg');
-const { terser } = require('rollup-plugin-terser');
+const terser = require('@rollup/plugin-terser');
 
 const plugins = [
   replace({
@@ -27,6 +27,7 @@ const plugins = [
   svg(),
   babel({
     exclude: 'node_modules/**',
+    babelHelpers: 'bundled',
   }),
   nodeResolve({
     extensions: [ '.mjs', '.js', '.jsx', '.json' ],
