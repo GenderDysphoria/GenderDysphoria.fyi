@@ -7,7 +7,7 @@ module.exports = exports = function (md) {
     (state) => {
       state.tokens = flatten(state.tokens.map(descend).filter(Boolean));
       return false;
-    },
+    }
   );
 };
 
