@@ -143,7 +143,7 @@ function processPages (engines, pages, posts, prod) {
     const output = resolve('dist', page.out);
     await fs.ensureDir(path.dirname(output));
     await Promise.all([
-      fs.writeFile(output, Buffer.from(html)),
+      fs.writeFile(output, Buffer.from(await html)),
       page.json && fs.writeFile(resolve('dist', page.json), Buffer.from(
         prod ? JSON.stringify(json) : JSON.stringify(json, null, 2)
       )),
