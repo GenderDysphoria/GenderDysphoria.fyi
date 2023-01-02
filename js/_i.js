@@ -39,7 +39,7 @@
       window.document.body.offsetHeight,
       window.document.documentElement.clientHeight,
       window.document.documentElement.scrollHeight,
-      window.document.documentElement.offsetHeight,
+      window.document.documentElement.offsetHeight
     );
 
     const viewport_height = Math.max(window.document.documentElement.clientHeight, window.innerHeight || 0);

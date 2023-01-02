@@ -153,7 +153,7 @@ class App extends Component {
       <Fragment>
         {caption}
         {map(posts, (post, i) =>
-          <Post post={post} key={i} />,
+          <Post post={post} key={i} />
         )}
         {paginate && <Pagination post={posts[0]} />}
       </Fragment>

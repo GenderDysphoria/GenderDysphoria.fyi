@@ -22,7 +22,7 @@ module.exports = exports = class Files {
     this.assets = assets || [];
 
     this._getTitlecard = memoize(() =>
-      find(assets, { name: 'titlecard', dir: this.base }),
+      find(assets, { name: 'titlecard', dir: this.base })
     );
 
     this._getWebReady = memoize(() => assets && keyBy(assets.map((a) => a.webready), 'name'));

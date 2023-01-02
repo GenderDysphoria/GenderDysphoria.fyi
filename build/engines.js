@@ -66,7 +66,7 @@ function markdown (mode, input, data, hbs) {
     input = stripHtml(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
       .replace(/æææ[\s\S]*?æææ/gi, '')
-      .replace(/\{!\{([\s\S]*?)\}!\}/mg, ''),
+      .replace(/\{!\{([\s\S]*?)\}!\}/mg, '')
     ).result.trim();
     if (input.length > 1000) input = input.slice(0, 1000) + '…';
 
@@ -276,7 +276,7 @@ class Injectables {
       const frame = handybars.makeContext(hash, env);
       try {
         const contents = self._template(tpath, (s) =>
-          handybars(`<span class="svg-icon" style="{{#if this.size}}width:{{this.size}};height:{{this.size}};{{/if}}{{this.style}}">${s}</span>`),
+          handybars(`<span class="svg-icon" style="{{#if this.size}}width:{{this.size}};height:{{this.size}};{{/if}}{{this.style}}">${s}</span>`)
         )(frame);
 
         return handybars.safe(contents);

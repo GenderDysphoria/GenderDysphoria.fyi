@@ -19,8 +19,8 @@ module.exports = exports = async function favicon () {
 
   const input = any(await Promise.all(
     MATCHES.map((f) =>
-      fs.exists(resolve(f)).then((y) => y && f),
-    ),
+      fs.exists(resolve(f)).then((y) => y && f)
+    )
   ));
 
   if (!input) return [];

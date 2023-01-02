@@ -41,6 +41,8 @@ After cloning this repository to your computer you will need to run `npm install
 
 The command `gulp uat` will build the site as if it is prepared for deployment to the website. This performs extra optimizations to reduce the size of the site.
 
+You can use `npm run build` to trigger the Gulp build process for production.
+
 **Tweet Content**
 
 The file `twitter-backup.json` contains the contents of all tweets used on the site. In order to add new tweets to the website (and be able to have them displayed), you will need to create a `twitter-config.json` file in the site root containing your own personal twitter API credentials.
