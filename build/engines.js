@@ -15,6 +15,9 @@ const i18n = require('./lang');
 
 const mAnchor = require('markdown-it-anchor');
 
+const glossary = require('./glossary');
+const assert = require('assert');
+
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
@@ -46,10 +49,11 @@ const markdownEngines = {
       permalink: mAnchor.permalink.linkInsideHeader({
         class: 'header-link',
         symbol: '<img src="/images/svg/paragraph.svg">',
-        renderHref: (input) => '#' + slugify(decodeURIComponent(input)),
         ariaHidden: true,
       }),
+      slugify: slugify,
     })
+    .use(glossary.markdownit_plugin)
     .use(require('./lib/markdown-raw-html'), { debug: false }),
 
   preview: markdownIt({
@@ -60,8 +64,8 @@ const markdownEngines = {
     .use(require('./lib/markdown-token-filter')),
 };
 
-function markdown (mode, input, data, hbs) {
-
+function markdown (mode, inline, input, data, hbs, glossaries) {
+  assert(glossaries !== undefined);
   if (mode === 'preview') {
     input = stripHtml(input
       .replace(/<!--\[[\s\S]*?\]-->/g, '')
@@ -80,8 +84,16 @@ function markdown (mode, input, data, hbs) {
     input = input.replace(/<!--[[\]]-->/g, '');
   }
 
+  // Add glossary tooptips and ruby annotations
+  const lang = data.page.lang;
+  data.glossary = glossaries.by_lang(lang);
+
   try {
-    return input ? markdownEngines[mode].render(input, data) : '';
+    if (inline) {
+      return input ? markdownEngines[mode].renderInline(input, data) : '';  
+    } else {
+      return input ? markdownEngines[mode].render(input, data) : '';
+    }
   } catch (e) {
     log(input);
     throw e;
@@ -109,10 +121,12 @@ const HANDYBARS_TEMPLATES = {
   post:      'templates/post.hbs',
 };
 
+// BUG: for some reason, the glossaries are reloaded but don't show any effect.
+// Some assignment is probably making a copy rather than a reference.
 module.exports = exports = async function (prod) {
-
+  const glossaries = glossary.load_default();
   const revManifest = prod && await fs.readJson(resolve('rev-manifest.json')).catch(() => {}).then((r) => r || {});
-  const injectables = new Injectables(prod, revManifest);
+  const injectables = new Injectables(prod, revManifest, glossaries);
 
   const env = {  ...Kit, ...injectables.helpers() };
 
@@ -139,15 +153,15 @@ module.exports = exports = async function (prod) {
 
   const result = {
     [TYPE.HANDYBARS]:  hbs,
-    [TYPE.MARKDOWN]:   (source, data) => markdown('full', source, data, hbs),
+    [TYPE.MARKDOWN]:   (source, data) => markdown('full', false, source, data, hbs, glossaries),
     [TYPE.OTHER]:      (source) => source,
 
-    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', source, data, hbs) }),
-    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', source, data, hbs) }),
+    [ENGINE.PAGE]:     (source, data) => templates.page({ ...data, contents: markdown('full', false, source, data, hbs, glossaries) }),
+    [ENGINE.POST]:     (source, data) => templates.post({ ...data, contents: markdown('full', false, source, data, hbs, glossaries) }),
     [ENGINE.HTML]:     (source) => source,
     [ENGINE.OTHER]:    (source) => source,
 
-    preview: (source, data) => markdown('preview', source, data, hbs),
+    preview: (source, data) => markdown('preview', false, source, data, hbs, glossaries),
   };
 
   return result;
@@ -155,11 +169,12 @@ module.exports = exports = async function (prod) {
 
 class Injectables {
 
-  constructor (prod, revManifest) {
+  constructor (prod, revManifest, glossaries) {
     this.prod = prod;
     this.revManifest = revManifest;
     this.injections = {};
     this.languages = {};
+    this.glossaries = glossaries;
   }
 
   _parsePath (tpath, local, type) {
@@ -194,6 +209,7 @@ class Injectables {
   helpers () {
     return {
       import:    this.import(),
+      md:        this.md(),
       markdown:  this.markdown(),
       icon:      this.icon(),
       coalesce:  this.coalesce(),
@@ -201,6 +217,9 @@ class Injectables {
       rev:       this.rev(),
       lang:      this.lang(),
       date:      this.date(),
+      gloss:     this.gloss(),
+      nogloss:   this.nogloss(),
+      tojson:    this.tojson(),
     };
   }
 
@@ -225,7 +244,7 @@ class Injectables {
   markdown () {
     const self = this;
     return function (...args) {
-      const { fn, data, resolve: rval } = args.pop();
+      const { fn, env, resolve: rval } = args.pop();
       const local = rval('@root.this.local');
       let contents;
 
@@ -238,7 +257,25 @@ class Injectables {
         contents = self._template(tpath);
       }
 
-      contents = markdown('full', contents, data, () => { throw new Error('You went too deep!'); });
+      contents = markdown('full', false, contents, env['@root'].this, () => { throw new Error('You went too deep!'); }, self.glossaries);
+
+      return { value: contents };
+    };
+  }
+
+  md () {
+    const self = this;
+    return function (...args) {
+      const { env } = args.pop();
+
+      const inline = args[0];
+      let contents = args[1];
+
+      if (contents instanceof Array) {
+        contents = contents.join('\n\n');
+      }
+
+      contents = markdown('full', inline, contents, env['@root'].this, () => { throw new Error('You went too deep!'); }, self.glossaries);
 
       return { value: contents };
     };
@@ -287,10 +324,11 @@ class Injectables {
     };
   }
 
+  // Usage {{lang 'MY-STRING'}}
   lang () {
     return function (key, ...args) {
       const { resolve: rval } = args.pop();
-      const lang = rval('@root.this.page.lang').split('-')[0];
+      const lang = (rval('@root.this.page.lang')||'').split('-')[0];
       return i18n(lang, key, ...args);
     };
   }
@@ -378,6 +416,7 @@ class Injectables {
       if (locale === undefined) {
         log.warn('Locale not found: ' + lang);
       }
+
       if (datefmt === undefined || locale === undefined) {
         const options = {
           weekday: 'short',
@@ -405,6 +444,73 @@ class Injectables {
         return dateobj.toISOString();
       }
     };
+  }
+
+  // Provides glossary related functionalities
+  // 
+  // {{gloss flag [lang]}} - Returns the list of entries used in a language sorted lexicographically.
+  //     (flag is a boolean indicating the inclusion of variants)
+  // {{gloss term [lang]}} - Returns the corresponding entry for the queried term 
+  //     (see glossary.js:40-48 for the object structure)
+  // 
+  // The [lang] parameter is optional
+  gloss() {
+    const self = this;
+    return function (...args) {
+      const { resolve: rval } = args.pop();
+      const filename = rval('@value.input');
+      let term = args[0];
+      const lang = args[1] || rval('@root.this.page.lang');
+
+      // Just some ease of use in case the argument was of the wrong type
+      if (term instanceof glossary.Entry) {
+        term = term.key;
+      }
+
+      // Check if we have the glossary loaded
+      if (self.glossaries === undefined || self.glossaries.by_lang(lang) == undefined) {
+        log.error(`No glossary for language '${lang}' (file ${filename})`);
+        return undefined;
+      }
+
+      const lgloss = self.glossaries.by_lang(lang);
+      if (term === false) {
+        // Return only the main terms
+        return lgloss.entries_sorted;
+      } else if (term === true) {
+        // Return the main terms and the variants
+        return lgloss.words_sorted;
+      } else if (typeof term === 'string') {
+        // Return a specific entry
+        const ans = lgloss.getEntryObj(term);
+        if (ans === undefined) {
+          log.error(`No term '${term}' for language '${lang}' (file ${filename})`)
+        }
+        return ans;
+      } else {
+        log.error(`Invalid type: ${term}`)
+        return undefined;
+      }
+    };
+  }
+
+  // Prevents a word from being "auto glossarized" by turning it into a sequence of hex escape codes.
+  nogloss() {
+    return function (word) {
+      var result = '';
+      for (let i=0; i < word.length; i++) {
+        let hex = word.charCodeAt(i).toString(16);
+        result += `&#x${hex};`;
+      }
+      return result;
+    };
+  }
+
+  // Converts a value to JSON. This is intended for debugging only
+  tojson() {
+    return function (thing) {
+      return JSON.stringify(thing);
+    }
   }
 
 }

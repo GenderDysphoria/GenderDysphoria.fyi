@@ -6,10 +6,20 @@ description: "Enough with the gatekeeping already."
 siblings:
   prev: /en/second-puberty-fem
   prevCaption: Estrogenic Second Puberty
+  next: /en/glossary
+  nextCaption: Glossary
 classes:
   - gdb
 preBody: '_disclaimer'
 ---
+
+AMAB | AMABs
+
+AFAB | AFABs
+
+LaTeX
+
+TeX
 
 # Choice
 
