@@ -59,7 +59,7 @@ function allOf (...args) {
   return (tok) => allBy(args, (check) => check(tok));
 }
 
-function isNumber    (input) { return typeof input === 'number' && !isNaN(input); }
+function isNumber    (input) { return typeof input === 'number' && !Number.isNaN(input); }
 function isString    (input) { return typeof input === 'string'; }
 function isBoolean   (input) { return typeof input === 'boolean'; }
 function isFunction  (input) { return typeof input === 'function'; }
@@ -807,8 +807,7 @@ function pathinate (object, delimiter = '.') {
  * Iterates over a collection and generates an object based on tuple returned from the iteratee.
  *
  * @param  {Object|Array|Map|Set} collection
- * @param  {Function} iteratee Callback invoked for each item, receives `value, key, index`, returns `[key, value]`;
- * @param cb
+ * @param  {Function} cb Callback invoked for each item, receives `value, key, index`, returns `[key, value]`;
  * @returns {Object}
  */
 function mapReduce (collection, cb) {

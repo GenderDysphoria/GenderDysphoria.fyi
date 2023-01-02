@@ -1,3 +1,6 @@
+/* eslint-disable react/prop-types, n/no-missing-import, import/no-unresolved */
+/* eslint import/no-extraneous-dependencies: ["error", {"devDependencies": true}] */
+
 /** @jsx h */
 
 import { h, render, Component, Fragment } from 'preact';

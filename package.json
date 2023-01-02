@@ -4,7 +4,8 @@
   "description": "Code for construction of the GenderDysphoria.fyi website",
   "scripts": {
     "test": "eslint 'build/**/*.js' 'js/**/*.{js,jsx}' --fix",
-    "build": "gulp prod"
+    "build": "gulp prod",
+    "lint": "eslint ."
   },
   "engines": {
     "node": "16"
@@ -31,11 +32,12 @@
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/preset-env": "^7.20.2",
     "@rollup/plugin-alias": "^3.1.5",
+    "@rollup/plugin-babel": "^6.0.3",
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-replace": "^5.0.2",
-    "@rollup/plugin-babel": "^6.0.3",
     "@rollup/plugin-terser": "^0.2.1",
+    "@twipped/eslint-config": "^7.5.2",
     "autoprefixer": "^10.4.13",
     "aws-sdk": "^2.1286.0",
     "babel-eslint": "^10.1.0",
@@ -47,7 +49,6 @@
     "crass": "^0.12.3",
     "date-fns": "^2.29.3",
     "eslint": "^8.31.0",
-    "eslint-config-twipped": "^7.2.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.31.11",

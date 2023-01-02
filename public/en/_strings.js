@@ -13,6 +13,6 @@ module.exports = exports = {
   TRANS_TWITTER_TOPICS: 'Trans Twitter Topics',
   MISSING_TWEET_FOR: 'Missing tweet for ',
   QUOTED_TWEET_UNAVAILABLE: 'Quoted Tweet Unavailable',
-  TWEET_DATE_FORMAT: 'h:mm aa - EEE, LLL do, yyyy'
+  TWEET_DATE_FORMAT: 'h:mm aa - EEE, LLL do, yyyy',
 };
 
