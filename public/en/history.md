@@ -56,7 +56,7 @@ In principle, Gender Dysphoria is a feeling of wrongness intrinsic to the self. 
 
 The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
 
-Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 > Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
 >
