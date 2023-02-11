@@ -177,27 +177,27 @@ function formatTableQuestionsMtF(iterator) {
   var div = document.getElementById('mtfQuestions');
   allQuestionHTMLMtF = '<table id="mtfQuestionTable" class="table table-striped">';
   if (iterator == 0) {
-    allQuestionHTMLMtF += '<tr><th>Are you planning to:</th><th>Answer</th></tr>'
+    allQuestionHTMLMtF += '<tr><th class="th-bold">Are you planning to:</th><th class="th-bold">Answer</th></tr>'
     questionsRoundOneMtF.forEach(formatTableCellFromObjRoundOneMtF)
   }
   else if (iterator == 1) {
-    allQuestionHTMLMtF += '<tr><th>When will you:</th><th>Date</th></tr>'
+    allQuestionHTMLMtF += '<tr><th class="th-bold">When will you:</th><th class="th-bold">Date</th></tr>'
     questionsRoundTwoMtF.forEach(formatTableCellFromObjRoundTwoMtF)
   }
   else if (iterator == 2) {
-    allQuestionHTMLMtF += '<tr><th>How Many:</th><th>Date</th></tr>'
+    allQuestionHTMLMtF += '<tr><th class="th-bold">How Many:</th><th class="th-bold">Date</th></tr>'
     questionsRoundThreeMtF.forEach(formatTableCellFromObjRoundThreeMtF)
   }
   else if (iterator == 3) {
-    allQuestionHTMLMtF += '<tr><th>How Many Days Between:</th><th>Date</th></tr>'
+    allQuestionHTMLMtF += '<tr><th class="th-bold">How Many Days Between:</th><th class="th-bold">Date</th></tr>'
     questionsRoundFourMtF.forEach(formatTableCellFromObjRoundFourMtF)
   }
 
 
   allQuestionHTMLMtF += "</table>"
 
-    allQuestionHTMLMtF += "<button class='trans-planner-label' id='nextMtFQuestion' onClick=nextMtFButton(" + iterator + ")>Next</button>"
-    allQuestionHTMLMtF += "<button class='trans-planner-label' id='closeMtF' onClick='mtfModal.style.display = \"none\";'>Close</button>"
+    allQuestionHTMLMtF += "<button class='trans-planner-label transfem-color' id='nextMtFQuestion' onClick=nextMtFButton(" + iterator + ")>Next</button>"
+    allQuestionHTMLMtF += "<button class='trans-planner-label transfem-color' id='closeMtF' onClick='mtfModal.style.display = \"none\";'>Close</button>"
 
   // else if (iterator == 3) {
   //   <button id="generateMtF">Generate New MtF Plan</button>

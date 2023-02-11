@@ -82,7 +82,7 @@ function formatJSONToEditableTable () {
     var div = document.getElementById('planEditTable');
     data = ganttChartJSON.tasks;
     allTableRowsHTML = '<table id="editPlanTable" class="table table-striped">' +
-    '<tr><th>Start Date</th><th>End Date</th><th>Name</th><th>Status</th><th>Remove</th></tr>'
+    '<tr><th class="th-bold">Start Date</th><th class="th-bold">End Date</th><th class="th-bold">Name</th><th class="th-bold">Status</th><th class="th-bold">Remove</th></tr>'
     data.forEach(formatTableCellFromObj)
     allTableRowsHTML += "</table>"
 

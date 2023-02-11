@@ -4,9 +4,9 @@ var ganttChartJSON;
 var msInDay = 24*60*60*1000;
 
 var todaysDate = new Date();
-var threeYears = new Date(todaysDate.getTime()+(1080 * msInDay));
+var chartEnd = new Date(todaysDate.getTime()+(1200 * msInDay));
 document.getElementById('graphStartDate').valueAsDate = todaysDate;
-document.getElementById('graphEndDate').valueAsDate = threeYears;
+document.getElementById('graphEndDate').valueAsDate = chartEnd;
 
 
 

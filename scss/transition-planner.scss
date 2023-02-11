@@ -108,8 +108,16 @@ input[type="file"] {
 	background-color: #E81179;
   }
 
-  .trans-planner-label:hover {
+  .transfem-color:hover {
 	background-color: #E81179;
+  }
+
+  .transmasc-color:hover {
+	background-color:  #004aba;
+  }
+
+  .trans-mixed-color:hover {
+	background-color: #7f00b6;
   }
 
 .full-width {
@@ -126,7 +134,19 @@ input[type="file"] {
 	line-height: 36px;
     height: 36px;
     max-width: calc(50vw - 10px);
+	padding: 0px 5px;
+}
+
+.transfem-color {
 	background-color: #fc0a7e;
+}
+
+.transmasc-color {
+	background-color: #0a6bfc;
+}
+
+.trans-mixed-color {
+	background-color: #ab04f3;
 }
 
 .mtf-modal {
@@ -225,4 +245,26 @@ button {
 
 .button {
 	font-size: 15px;
+}
+
+.grey-body {
+	background-color: #f0f0f0;
+}
+
+.white-section {
+	@media screen and (min-width: 800px) {
+		margin-right: 200px;
+		margin-left: 10px;
+  
+		@media (max-width: 1000px) {
+		  margin-right: 100px;
+		}
+	  }
+
+	background-color: #ffffff;
+}
+
+.th-bold {
+	font-weight: bold;
+	font-size: 20px;
 }

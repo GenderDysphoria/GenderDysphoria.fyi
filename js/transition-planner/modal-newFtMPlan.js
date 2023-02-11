@@ -165,27 +165,27 @@ function formatTableQuestionsFtM(iterator) {
   var div = document.getElementById('ftmQuestions');
   allQuestionHTMLFtm = '<table id="ftmQuestionTable" class="table table-striped">';
   if (iterator == 0) {
-    allQuestionHTMLFtm += '<tr><th>Are you planning to:</th><th>Answer</th></tr>'
+    allQuestionHTMLFtm += '<tr><th class="th-bold">Are you planning to:</th><th class="th-bold">Answer</th></tr>'
     questionsRoundOneFtM.forEach(formatTableCellFromObjRoundOneFtM)
   }
   else if (iterator == 1) {
-    allQuestionHTMLFtm += '<tr><th>When will you:</th><th>Date</th></tr>'
+    allQuestionHTMLFtm += '<tr><th class="th-bold">When will you:</th><th class="th-bold">Date</th></tr>'
     questionsRoundTwoFtM.forEach(formatTableCellFromObjRoundTwoFtM)
   }
   else if (iterator == 2) {
-    allQuestionHTMLFtm += '<tr><th>How Many:</th><th>Date</th></tr>'
+    allQuestionHTMLFtm += '<tr><th class="th-bold">How Many:</th><th class="th-bold">Date</th></tr>'
     questionsRoundThreeFtM.forEach(formatTableCellFromObjRoundThreeFtM)
   }
   else if (iterator == 3) {
-    allQuestionHTMLFtm += '<tr><th>How Many Days Between:</th><th>Date</th></tr>'
+    allQuestionHTMLFtm += '<tr><th class="th-bold">How Many Days Between:</th><th class="th-bold">Date</th></tr>'
     questionsRoundFourFtM.forEach(formatTableCellFromObjRoundFourFtM)
   }
 
 
   allQuestionHTMLFtm += "</table>"
 
-    allQuestionHTMLFtm += "<button class='trans-planner-label' id='nextFtMQuestion' onClick=nextFtMButton(" + iterator + ")>Next</button>"
-    allQuestionHTMLFtm += "<button class='trans-planner-label' id='closeFtM' onClick='ftmModal.style.display = \"none\";'>Close</button>"
+    allQuestionHTMLFtm += "<button class='trans-planner-label transmasc-color' id='nextFtMQuestion' onClick=nextFtMButton(" + iterator + ")>Next</button>"
+    allQuestionHTMLFtm += "<button class='trans-planner-label transmasc-color' id='closeFtM' onClick='ftmModal.style.display = \"none\";'>Close</button>"
   
 
   // else if (iterator == 3) {
