@@ -13,6 +13,61 @@ description: "Anxiety makes some people procrastinate; it makes others over-plan
 I made these tools at the very start of my transition because I was stressed out and overwhelmed by the sheer number of things to schedule. As I write this about 6 months later, a lot of these weren't as hard as I first thought. My advice to anyone just starting out is to focus on just one or two areas at a time, trying to handle everything all at once leads to "where do I even start" overload.
 
 
+### Medical Timelines
+
+#### Masculinizing Hormone Therapy
+
+| Effect                         | Expected Onset      | Expected Maximum Effect |
+|----------------------------------------------------|------------------------------------|-------------------------|
+| Skin oiliness/acne             | 1-6 months     | 1-2 years               |
+| Facial/body hair growth        | 3-6 months     | 3-5 years               |
+| Scalp hair loss                | >12 months     | variable                |
+| Increased muscle mass/strength | 6-12 months    | 2-5 years               |
+| Body fat redistribution        | 3-6 months     | 2-5 years               |
+| Cessation of menses            | 2-6 months     | n/a                     |
+| Clitoral enlargement           | 3-6 months     | 1-2 years               |
+| Vaginal atrophy                | 3-6 months     | 1-2 years               |
+| Deepened voice                 | 3-12 months    | 1-2 years               |
+
+#### Feminizing Hormone Therapy
+
+| Effects                                            | Expected Onset                     | Expected Maximum Effect |
+|----------------------------------------------------|------------------------------------|-------------------------|
+| Body fat redistribution                            | 3-6 months                         | 2-5 years               |
+| Decreased muscle/mass strength                     | 3-6 months                         | 1-2 years               |
+| Softening of skin/decreased oiliness               | 3-6 months                         | unknown                 |
+| Decreased libido                                   | 1-3 months                         | 1-2 years               |
+| Decreased spontaneous erections                    | 1-3 months                         | 3-6 months              |
+| Male sexual dysfunction                            | variable                           | variable                |
+| Breast growth                                      | 3-6 months                         | 2-3 years               |
+| Decreased testicular volume                        | 3-6 months                         | 2-3 years               |
+| Decreased sperm production                         | variable                           | variable                |
+| Thinning and slowed growth of body and facial hair | 6-12 months                        | >3 years                |
+| Male pattern baldness                              | No regrowth, loss stops 1-3 months | 1-2 years               |
+
+[Source](https://www.gendergp.com/hrt-timelines-hormones-effects/)
+
+### Hoop-jumps/gatekeepers
+
+These are all based on personal experiences, geography makes a BIG difference in the hoops you need to jump through in order to access care.
+
+#### Letter of Support
+
+This is a letter from a therapist stating that you do in fact need medical care. Some of these requirements are being scrapped, but there tends to be a lot of confusion in medical establishments about whether these are required or not; some therapists will fill them out regardless as a precautionary measure. If your therapist uses your input to write one, BE WARNED: these are emotionally brutal. The point of a letter of support is to convince your insurance company that it's cheaper to give you transition care than it is to pay for a suicide attempt and the process was designed by cisgender insurance accountants, so "mental wellbeing" is pretty low on the list of priorities. Much of the process involves listing out in detail how different parts of your body make you feel dysphoric.
+
+For any therapists reading this - in general, asking your clients to list out everything they dislike about themselves in exhaustive detail is not a therapeautic exercise.
+
+Some areas only allow letters of support after a set duration of time spent with a counselor; thankfully this is relaxing in some parts of the US.
+#### Hormones
+
+In some areas you need a letter of support before going on hormones, in others you basically just have to ask for them.
+
+#### Surgeries
+
+Generally you need to be on Hormones for a year before an orchiectomy or feminizing bottom surgery. Anecdotally I've heard of mastectomies that don't require hormones, but more detail would be welcome here.
+
+
+
 {!{
 </div>
 }!}
@@ -119,7 +174,12 @@ I made these tools at the very start of my transition because I was stressed out
 }!}
 ## Disclaimer
 
-Not a doctor.
+I'M NOT A DOCTOR. Talk to an actual medical professional for transition advice, this tool is only meant to help organize the seemingly-massive number of things that need to happen in order to start transitioning. Every body is different and these timelines are rough estimates only.
+
+Medical Timeline source information is <a href="https://www.gendergp.com/hrt-timelines-hormones-effects/">here</a>. A lot of the language used by medical professionals is pathologizing and negative, so I added more positive terms and community-reported transition effects.
+
+This site stores no personal information (which is why you should download the transition plan once you're done and re-upload if you wish to edit/review later).
+
 
 {!{
 </div>
