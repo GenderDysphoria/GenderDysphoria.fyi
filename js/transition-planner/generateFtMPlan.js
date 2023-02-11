@@ -5,8 +5,6 @@
     var topSurgery = "Top Surgery";
     var bottomSurgery = "Bottom Surgery";
     var counseling = "Counseling Sessions";
-    var bloodTest = "Blood Tests";
-    var consultation = "Medical Consultations";
     var comeOut = "Come Out Publicly";
     var legalNameChange = "Legal Name Change";
     var socialTransition = "Social Transition";
@@ -25,9 +23,7 @@
 
 var taskNamesInOriginalOrderFtM = [ comeOut, 
     hormonesLabel, 
-    consultation, 
     counseling, 
-    bloodTest,
     socialTransition, 
     legalNameChange,  
     topSurgery, 
@@ -127,24 +123,7 @@ function GenerateFtMTransitionPlannerJSON(
        
         );
     }
-    if (FtMPlanObject.consultationStatus != "WILL-NOT-DO"){
-        taskNamesToUse.push(consultation);
-        var consultationStart = FtMPlanObject.consultationStartDate;
-        var consultationAptsStart = [];
-        var consultationAptsEnd = [];
-        for(var i = 0; i < FtMPlanObject.consultationNumberAppointments; i++) {
-            
-            var daysBetweenApts = 90;
-            consultationAptsStart[i] = new Date(consultationStart.getTime()+(daysBetweenApts * i * msInDay));
-            if (i > 6) {
-                daysBetweenApts = 180;
-                consultationAptsStart[i] = new Date(consultationAptsStart[i-1].getTime()+(daysBetweenApts * msInDay));
-            }
-
-            consultationAptsEnd[i] = new Date(consultationAptsStart[i].getTime()+(1 * msInDay));
-            tasks.push({"startDate": consultationAptsStart[i],"endDate":  consultationAptsEnd[i],"taskName": consultation,"status":FtMPlanObject.consultationStatus},)
-        }
-    }
+    
     if (FtMPlanObject.counselingStatus != "WILL-NOT-DO"){
         taskNamesToUse.push(counseling);
         var counselingStarts = FtMPlanObject.counselingStartDate;
@@ -159,24 +138,7 @@ function GenerateFtMTransitionPlannerJSON(
             tasks.push({"startDate": counselingAptsStart[i],"endDate":  counselingAptsEnd[i],"taskName": counseling,"status":FtMPlanObject.counselingStatus},)
         }
     }
-    if (FtMPlanObject.bloodTestStatus != "WILL-NOT-DO"){
-        taskNamesToUse.push(bloodTest);
-        var bloodTestStart =  FtMPlanObject.bloodTestStartDate;
-        var bloodTestAptsStart = [];
-        var bloodTestAptsEnd = [];
-        for(var i = 0; i < FtMPlanObject.bloodTestNumber; i++) {
-            
-            var daysBetweenApts = 30;
-            bloodTestAptsStart[i] = new Date(bloodTestStart.getTime()+(daysBetweenApts * i * msInDay));
-            if (i > 12) {
-                daysBetweenApts = 90;
-                bloodTestAptsStart[i] = new Date(bloodTestAptsStart[i-1].getTime()+(daysBetweenApts * msInDay));
-            }
-
-            bloodTestAptsEnd[i] = new Date(bloodTestAptsStart[i].getTime()+(1 * msInDay));
-            tasks.push({"startDate": bloodTestAptsStart[i],"endDate":  bloodTestAptsEnd[i],"taskName": bloodTest,"status":FtMPlanObject.bloodTestStatus},)
-        }
-    }
+    
     if (FtMPlanObject.socialTransitionStatus != "WILL-NOT-DO"){
         taskNamesToUse.push(socialTransition);
         tasks.push(

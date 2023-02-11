@@ -150,10 +150,6 @@ function nextFtMButton(iterator) {
       roundTwoResponsesFtM[5], roundOneResponsesFtM[5],
       //Counseling
       roundTwoResponsesFtM[6], roundThreeResponsesFtM[0], roundFourResponsesFtM[0],  roundOneResponsesFtM[6],
-      //Consultations
-      roundTwoResponsesFtM[7], roundThreeResponsesFtM[1], roundOneResponsesFtM[7],
-      roundTwoResponsesFtM[8], roundThreeResponsesFtM[2], roundOneResponsesFtM[8],
-      
       );
 
       generateAndRenderFtMPlan(thisFtMPlan);

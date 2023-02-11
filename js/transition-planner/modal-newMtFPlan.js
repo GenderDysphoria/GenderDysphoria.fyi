@@ -159,13 +159,9 @@ function nextMtFButton(iterator) {
     roundTwoResponsesMtF[11],
     roundThreeResponsesMtF[2],
     roundFourResponsesMtF[1], roundOneResponsesMtF[11],
-    roundTwoResponsesMtF[12],
-    roundThreeResponsesMtF[3], roundOneResponsesMtF[12],
-    roundTwoResponsesMtF[13], roundThreeResponsesMtF[4], roundOneResponsesMtF[13],
+      roundTwoResponsesMtF[12], roundOneResponsesMtF[12],
+      roundTwoResponsesMtF[13], roundOneResponsesMtF[13],
       roundTwoResponsesMtF[14], roundOneResponsesMtF[14],
-      roundTwoResponsesMtF[15], roundOneResponsesMtF[15],
-      roundTwoResponsesMtF[16], roundOneResponsesMtF[16],
-      roundTwoResponsesMtF[17], roundOneResponsesMtF[17]
       );
 
       generateAndRenderMtFPlan(thisMtFPlan);

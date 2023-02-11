@@ -8,9 +8,6 @@ function FtMPlanObject(
     counselingStartDate,
     counselingDaysBetween,
     counselingNumberSessions, counselingStatus,
-    consultationStartDate,
-    consultationNumberAppointments, consultationStatus,
-    bloodTestStartDate, bloodTestNumber, bloodTestStatus,
     ) {
         this.hormoneStartDate=  hormoneStartDate ; 
         this.hormoneStatus=   hormoneStatus;
@@ -29,12 +26,6 @@ function FtMPlanObject(
         this.counselingDaysBetween= counselingDaysBetween  ;
         this.counselingNumberSessions=  counselingNumberSessions ; 
         this.counselingStatus=  counselingStatus ;
-        this.consultationStartDate=  consultationStartDate ;
-        this.consultationNumberAppointments= consultationNumberAppointments  ;
-        this.consultationStatus=  consultationStatus ;
-        this.bloodTestStartDate= bloodTestStartDate  ; 
-        this.bloodTestNumber= bloodTestNumber  ; 
-        this.bloodTestStatus= bloodTestStatus;
     }
 
     //Define some manual table elements to collect
@@ -48,8 +39,6 @@ var questionsRoundOneFtM =
   "Seek Bottom (aka Phalloplasty) Surgery?",
   "Legally Change Your Name?",
   "Get Mental Health Counseling? (My biased opinion) you really should.",
-  "Consult with a physician?",
-  "Get regular blood tests?",
  ]
 
  function getAnswersRoundOneFtM() {
@@ -62,13 +51,9 @@ var questionsRoundOneFtM =
             ganttChartJSON.FtMPlanObject.bottomStatus,
             ganttChartJSON.FtMPlanObject.nameChangeStatus,
             ganttChartJSON.FtMPlanObject.counselingStatus,
-            ganttChartJSON.FtMPlanObject.consultationStatus,
-            ganttChartJSON.FtMPlanObject.bloodTestStatus,
         ]
     }
     else return [
-    "NEEDS-SCHEDULING",
-    "NEEDS-SCHEDULING",
     "NEEDS-SCHEDULING",
     "NEEDS-SCHEDULING",
     "NEEDS-SCHEDULING",
@@ -88,8 +73,6 @@ var questionsRoundOneFtM =
    "Schedule Bottom Surgery?  Typically this requires a year or two of social transition + counseling.",
    "Start the Legal Name Change?",
    "Start Counseling?",
-   "Start Physician Consultations?",
-   "Start Blood Tests?",
  ]
 
 
@@ -102,10 +85,7 @@ var questionsRoundOneFtM =
             new Date(ganttChartJSON.FtMPlanObject.topSurgeryStartDate),
             new Date(ganttChartJSON.FtMPlanObject.bottomSurgeryStartDate),
             new Date(ganttChartJSON.FtMPlanObject.nameChangeDate),
-            new Date(ganttChartJSON.FtMPlanObject.counselingStartDate),
-            new Date(ganttChartJSON.FtMPlanObject.consultationStartDate),
-            new Date(ganttChartJSON.FtMPlanObject.bloodTestStartDate),
-            
+            new Date(ganttChartJSON.FtMPlanObject.counselingStartDate)
         ]
     }
     else {
@@ -118,34 +98,26 @@ var questionsRoundOneFtM =
         new Date(today.getTime()+(365 * msInDay)),
         new Date(today.getTime()+(700 * msInDay)),
         new Date(today.getTime()+(500 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
+        new Date(today.getTime()+(1 * msInDay))
         ]
     }
 }
  //How many:
 
  var questionsRoundThreeFtM = [
-  "Counseling Sessions are you planning? If you don't know just leave this at 80.",
-    "Consultations are you planning? These drop off in frequency over time and are usually every 3 months to start.",
-    "Blood Tests are you planning? Typically these are once a month to start and less frequent over time."
+  "Counseling Sessions are you planning? If you don't know just leave this at 80."
  ]
 
 
  function getAnswersRoundThreeFtM() {
     if (ganttChartJSON != null) {
         return [
-            ganttChartJSON.FtMPlanObject.counselingNumberSessions,
-            ganttChartJSON.FtMPlanObject.consultationNumberAppointments,
-            ganttChartJSON.FtMPlanObject.bloodTestNumber,
+            ganttChartJSON.FtMPlanObject.counselingNumberSessions
        ];
     }
     else {
         return [
-            80,
-          10,
-         22
+            80
          ]
     }
  }
@@ -164,8 +136,7 @@ function getAnswersRoundFourFtM() {
     }
     else {
         return [
-            14,
-            30
+            14
           ]
     }
 }

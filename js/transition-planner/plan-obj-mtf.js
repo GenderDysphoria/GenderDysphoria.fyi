@@ -15,13 +15,9 @@ function MtFPlanObject(    spermCryoStartDate, spermCryoStatus,
     speechTherapyStartDate,
     speechTherapyNumberSessions,
     speechTherapyDaysBetween, speechTherapyStatus,
-    consultationStartDate,
-    consultationNumberAppointments, consultationStatus,
-    bloodTestStartDate, bloodTestNumber, bloodTestStatus,
     orchiectomyDate, orchiectomyStatus,
     trachealShaveDate, trachealShaveStatus,
     hairLossDate, hairLossStatus,
-    prepDate, prepStatus
     
     ) {
         this.spermCryoStartDate = spermCryoStartDate, 
@@ -54,20 +50,12 @@ function MtFPlanObject(    spermCryoStartDate, spermCryoStatus,
         this.speechTherapyNumberSessions= speechTherapyNumberSessions  ;
         this.speechTherapyDaysBetween=  speechTherapyDaysBetween ; 
         this.speechTherapyStatus=  speechTherapyStatus ;
-        this.consultationStartDate=  consultationStartDate ;
-        this.consultationNumberAppointments= consultationNumberAppointments  ;
-        this.consultationStatus=  consultationStatus ;
-        this.bloodTestStartDate= bloodTestStartDate  ; 
-        this.bloodTestNumber= bloodTestNumber  ; 
-        this.bloodTestStatus= bloodTestStatus;
         this.orchiectomyDate = orchiectomyDate;
         this.orchiectomyStatus = orchiectomyStatus;
         this.trachealShaveDate = trachealShaveDate;
         this.trachealShaveStatus = trachealShaveStatus;
         this.hairLossDate = hairLossDate;
         this.hairLossStatus = hairLossStatus;
-        this.prepDate = prepDate;
-        this.prepStatus = prepStatus;
     }
 
     //Define some manual table elements to collect
@@ -86,12 +74,9 @@ var questionsRoundOneMtF =
   "Get Laser Hair Removal Treatment?",
   "Get Mental Health Counseling? (My biased opinion) you really should.",
   "Get Speech Therapy?",
-  "Consult with a physician?",
-  "Get regular blood tests?",
   "Seek an Orchiectomy Surgery?",
   "Seek Tracheal Shave Surgery?",
   "Take Hair Loss Products (Minoxidil/Finasteride)?",
-  "Take PReP (HIV pre-exposure prophylaxis)?"
  ]
 
  function getAnswersRoundOneMtF() {
@@ -108,18 +93,12 @@ var questionsRoundOneMtF =
             ganttChartJSON.MtFPlanObject.laserStatus,
             ganttChartJSON.MtFPlanObject.counselingStatus,
             ganttChartJSON.MtFPlanObject.speechTherapyStatus,
-            ganttChartJSON.MtFPlanObject.consultationStatus,
-            ganttChartJSON.MtFPlanObject.bloodTestStatus,
             ganttChartJSON.MtFPlanObject.orchiectomyStatus,
             ganttChartJSON.MtFPlanObject.trachealShaveStatus,
             ganttChartJSON.MtFPlanObject.hairLossStatus,
-            ganttChartJSON.MtFPlanObject.prepStatus
         ]
     }
     else return [
-    "NEEDS-SCHEDULING",
-    "NEEDS-SCHEDULING",
-    "NEEDS-SCHEDULING",
     "NEEDS-SCHEDULING",
     "NEEDS-SCHEDULING",
     "NEEDS-SCHEDULING",
@@ -144,7 +123,7 @@ var questionsRoundOneMtF =
    "Start HRT? If you are preserving sperm you should wait until that's finished to start HRT.",
    "Come out publicly?",
    "Start Social Transition?",
-   "Schedule Hair Transplants?",
+   "Schedule Hair Transplants? If you get FFS this should be 9-12 months after at the earliest.",
    "Schedule FFS?",
    "Schedule Top Surgery?",
    "Schedule Bottom Surgery?  Typically this requires a year or two of social transition + counseling.",
@@ -152,12 +131,9 @@ var questionsRoundOneMtF =
    "Start Laser Hair Removal?   Note that this works best at least 6 weeks after starting hormones.",
    "Start Counseling?",
    "Start Speech Therapy?",
-   "Start Physician Consultations?",
-   "Start Blood Tests?",
    "Schedule Orchiectomy?",
    "Schedule Tracheal Shave?",
    "Start Hair Loss Treatments (Finasteride/Minoxidil)?",
-   "Start PReP?"
  ]
 
 
@@ -176,12 +152,9 @@ var questionsRoundOneMtF =
             new Date(ganttChartJSON.MtFPlanObject.laserStartDate),
             new Date(ganttChartJSON.MtFPlanObject.counselingStartDate),
             new Date(ganttChartJSON.MtFPlanObject.speechTherapyStartDate),
-            new Date(ganttChartJSON.MtFPlanObject.consultationStartDate),
-            new Date(ganttChartJSON.MtFPlanObject.bloodTestStartDate),
             new Date(ganttChartJSON.MtFPlanObject.orchiectomyDate),
             new Date(ganttChartJSON.MtFPlanObject.trachealShaveDate),
-            new Date(ganttChartJSON.MtFPlanObject.hairLossDate),
-            new Date(ganttChartJSON.MtFPlanObject.prepDate),
+            new Date(ganttChartJSON.MtFPlanObject.hairLossDate)
             
         ]
     }
@@ -201,12 +174,9 @@ var questionsRoundOneMtF =
         new Date(today.getTime()+(56 * msInDay)),
         new Date(today.getTime()+(7 * msInDay)),
         new Date(today.getTime()+(14 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
         new Date(today.getTime()+(450 * msInDay)),
         new Date(today.getTime()+(550 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
-        new Date(today.getTime()+(1 * msInDay)),
+        new Date(today.getTime()+(1 * msInDay))
         ]
     }
 }
@@ -215,9 +185,7 @@ var questionsRoundOneMtF =
  var questionsRoundThreeMtF = [
    "Laser Sessions are you planning? 6-12 are common to start with occasional followups, but sometimes more are needed.",
    "Counseling Sessions are you planning? If you don't know just leave this at 80.",
-   "Speech Therapy Sessions are you planning?",
-   "Consultations are you planning? These drop off in frequency over time and are usually every 3 months to start.",
-    "Blood Tests are you planning? Typically these are once a month to start and less frequent over time."
+   "Speech Therapy Sessions are you planning?"
  ]
 
 
@@ -227,8 +195,6 @@ var questionsRoundOneMtF =
             ganttChartJSON.MtFPlanObject.numberLaserAppointments,
             ganttChartJSON.MtFPlanObject.counselingNumberSessions,
             ganttChartJSON.MtFPlanObject.speechTherapyNumberSessions,
-            ganttChartJSON.MtFPlanObject.consultationNumberAppointments,
-            ganttChartJSON.MtFPlanObject.bloodTestNumber,
        ];
     }
     else {
@@ -236,8 +202,6 @@ var questionsRoundOneMtF =
             16,
          80,
          12,
-         10,
-         22
          ]
     }
  }

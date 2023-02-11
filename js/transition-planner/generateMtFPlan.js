@@ -12,8 +12,6 @@
     var orchiectomySurgery = "Orchiectomy Surgery";
     var trachealShave = "Trachel Shave Surgery";
     var counseling = "Counseling Sessions";
-    var bloodTest = "Blood Tests";
-    var consultation = "Medical Consultations";
     var comeOut = "Come Out Publicly";
     var legalNameChange = "Legal Name Change";
     var socialTransition = "Social Transition";
@@ -21,8 +19,6 @@
 
     var hairLossStartLabel = "Start Finasteride/Minoxidil";
     var hairLossEffect = "Finasteride/Minoxidil Effect";
-    var prepStartLabel = "Start PReP";
-    var prepEffect = "PRep Effects";
 
 
 
@@ -46,11 +42,8 @@ var taskNamesInOriginalOrderMtF = [ comeOut,
     spermCryoLabel, 
     hormonesLabel, 
     hairLossStartLabel,
-    prepStartLabel,
     lasersLabel, 
-    consultation, 
     counseling, 
-    bloodTest,
     speechTherapySession, 
     socialTransition, 
     legalNameChange,  
@@ -62,7 +55,7 @@ var taskNamesInOriginalOrderMtF = [ comeOut,
     bottomSurgery, 
     bodyFatRedistribution, decreasedMuscleMass, skinSoften, breastGrowth, smallerTestes, decreasedErections, 
     decreasedLibido, moodChanges, baldnessStops, thinningBodyHair, maleSexDysfunction, decreasedSperm,
-    hairLossEffect, prepEffect  
+    hairLossEffect  
 ];
 
 function generateAndRenderMtFPlan(
@@ -155,12 +148,6 @@ function GenerateMtFTransitionPlannerJSON(
     var moodChangesStart = new Date(hrtStart.getTime()+(30 * msInDay));
     var moodChangesMaxEffect = new Date(hrtStart.getTime()+(360 * msInDay));
 
-    var prepStart = MtFPlanObject.prepDate;
-    var prepEnd = new Date(prepStart.getTime()+(1 * msInDay)); 
-
-    var prepEffectStart = new Date(prepStart.getTime()+(7 * msInDay)); 
-    var prepMaxEffect = new Date(prepStart.getTime()+(21 * msInDay));
-
     var hairLossProductStart = MtFPlanObject.hairLossDate;
         var hairLossProductEnd = new Date(hairLossProductStart.getTime()+(1 * msInDay));
 
@@ -199,9 +186,7 @@ function GenerateMtFTransitionPlannerJSON(
     if (MtFPlanObject.hairLossStatus != "WILL-NOT-DO"){
         taskNamesToUse.push(hairLossStartLabel);
     }
-    if (MtFPlanObject.prepStatus != "WILL-NOT-DO"){
-        taskNamesToUse.push(prepStartLabel);
-    }
+    
     if (MtFPlanObject.laserStatus != "WILL-NOT-DO"){
         taskNamesToUse.push(lasersLabel);
             var lasersAptStart = [];
@@ -224,24 +209,7 @@ function GenerateMtFTransitionPlannerJSON(
                 tasks.push({"startDate": lasersAptStart[i],"endDate":  lasersAptEnd[i],"taskName": lasersLabel,"status":MtFPlanObject.laserStatus},)
             }
     }
-    if (MtFPlanObject.consultationStatus != "WILL-NOT-DO"){
-        taskNamesToUse.push(consultation);
-        var consultationStart = MtFPlanObject.consultationStartDate;
-        var consultationAptsStart = [];
-        var consultationAptsEnd = [];
-        for(var i = 0; i < MtFPlanObject.consultationNumberAppointments; i++) {
-            
-            var daysBetweenApts = 90;
-            consultationAptsStart[i] = new Date(consultationStart.getTime()+(daysBetweenApts * i * msInDay));
-            if (i > 6) {
-                daysBetweenApts = 180;
-                consultationAptsStart[i] = new Date(consultationAptsStart[i-1].getTime()+(daysBetweenApts * msInDay));
-            }
-
-            consultationAptsEnd[i] = new Date(consultationAptsStart[i].getTime()+(1 * msInDay));
-            tasks.push({"startDate": consultationAptsStart[i],"endDate":  consultationAptsEnd[i],"taskName": consultation,"status":MtFPlanObject.consultationStatus},)
-        }
-    }
+    
     if (MtFPlanObject.counselingStatus != "WILL-NOT-DO"){
         taskNamesToUse.push(counseling);
         var counselingStarts = MtFPlanObject.counselingStartDate;
@@ -257,24 +225,6 @@ function GenerateMtFTransitionPlannerJSON(
         }
     }
     
-    if (MtFPlanObject.bloodTestStatus != "WILL-NOT-DO"){
-        taskNamesToUse.push(bloodTest);
-        var bloodTestStart =  MtFPlanObject.bloodTestStartDate;
-        var bloodTestAptsStart = [];
-        var bloodTestAptsEnd = [];
-        for(var i = 0; i < MtFPlanObject.bloodTestNumber; i++) {
-            
-            var daysBetweenApts = 30;
-            bloodTestAptsStart[i] = new Date(bloodTestStart.getTime()+(daysBetweenApts * i * msInDay));
-            if (i > 12) {
-                daysBetweenApts = 90;
-                bloodTestAptsStart[i] = new Date(bloodTestAptsStart[i-1].getTime()+(daysBetweenApts * msInDay));
-            }
-
-            bloodTestAptsEnd[i] = new Date(bloodTestAptsStart[i].getTime()+(1 * msInDay));
-            tasks.push({"startDate": bloodTestAptsStart[i],"endDate":  bloodTestAptsEnd[i],"taskName": bloodTest,"status":MtFPlanObject.bloodTestStatus},)
-        }
-    }
     if (MtFPlanObject.speechTherapyStatus != "WILL-NOT-DO"){
         taskNamesToUse.push(speechTherapySession);
         var speechTherapyStart = MtFPlanObject.speechTherapyStartDate;
@@ -411,20 +361,6 @@ function GenerateMtFTransitionPlannerJSON(
             
         );
     }
-
-    if (MtFPlanObject.prepStatus != "WILL-NOT-DO"){
-
-        taskNamesToUse.push(prepEffect);
-
-        tasks.push(
-            {"startDate": prepStart,"endDate": prepEnd,"taskName": prepStartLabel,"status":MtFPlanObject.prepStatus},
-            {"startDate": prepStart,"endDate": prepEffectStart,"taskName": prepEffect,"status":"BEFORE"},
-            {"startDate": prepEffectStart,"endDate": prepMaxEffect,"taskName": prepEffect,"status":"ONSET"},
-            {"startDate": prepMaxEffect,"endDate": chartEnd,"taskName": prepEffect,"status":"MAX-EFFECT"},
-            
-        );
-    }
-        
 
     var taskStatus = {
         "NEEDS-SCHEDULING" : "bar-needs-scheduling",
