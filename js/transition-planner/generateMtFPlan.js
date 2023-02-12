@@ -10,7 +10,7 @@
     var topSurgery = "Top Surgery";
     var bottomSurgery = "Bottom Surgery";
     var orchiectomySurgery = "Orchiectomy Surgery";
-    var trachealShave = "Trachel Shave Surgery";
+    var trachealShave = "Tracheal Shave Surgery";
     var counseling = "Counseling Sessions";
     var comeOut = "Come Out Publicly";
     var legalNameChange = "Legal Name Change";
