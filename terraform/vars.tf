@@ -17,6 +17,11 @@ variable "domain" {
   default = "genderdysphoria.fyi"
 }
 
+variable "shortdomain" {
+  type = string
+  default = "gdb.fyi"
+}
+
 variable "subdomains" {
     type = list
     default = [
