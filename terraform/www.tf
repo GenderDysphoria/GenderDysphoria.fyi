@@ -1,4 +1,7 @@
 
+resource "aws_cloudfront_origin_access_identity" "origin_access_identity" {
+}
+
 # -----------------------------------------------------------------------------------------------------------
 # Cloudfront Configuration
 
@@ -112,10 +115,10 @@ resource "aws_lambda_function" "index_redirect" {
   filename         = "${path.module}/files/index_redirect.js.zip"
   function_name    = "${var.site}-index-redirect"
   handler          = "index_redirect.handler"
-  source_code_hash = data.archive_file.index_redirect.output_base64sha256
+  # source_code_hash = data.archive_file.index_redirect.output_base64sha256
   publish          = true
   role             = aws_iam_role.lambda_redirect.arn
-  runtime          = "nodejs10.x"
+  runtime          = "nodejs16.x"
 
   tags = {
     Name   = "${var.site}-index-redirect"
