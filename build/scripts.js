@@ -13,7 +13,7 @@ module.exports = exports = async function scripts (prod) {
     require.resolve('magnific-popup'),
     require.resolve('popper.js/dist/umd/popper.js'),
     require.resolve('bootstrap/js/dist/util.js'),
-    require.resolve('bootstrap/js/dist/dropdown.js'),
+    require.resolve('bootstrap/js/dist/dropdown.js')
   );
 
   const globalScript = new ClientScript('js/global.js');

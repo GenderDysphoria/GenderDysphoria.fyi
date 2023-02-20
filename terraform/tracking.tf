@@ -5,7 +5,20 @@
 
 resource "aws_s3_bucket" "pixel" {
   bucket = "t.${var.domain}"
+
+  tags = {
+    Name = "Tracking Pixel"
+    Site = var.site
+  }
+}
+
+resource "aws_s3_bucket_acl" "pixel" {
+  bucket = aws_s3_bucket.pixel.id
   acl    = "public-read"
+}
+
+resource "aws_s3_bucket_cors_configuration" "pixel" {
+  bucket = aws_s3_bucket.pixel.id
 
   cors_rule {
     allowed_headers = ["*"]
@@ -15,13 +28,9 @@ resource "aws_s3_bucket" "pixel" {
     max_age_seconds = 3000
   }
 
-  tags = {
-    Name = "Tracking Pixel"
-    Site = var.site
-  }
 }
 
-resource "aws_s3_bucket_object" "ipixel" {
+resource "aws_s3_object" "ipixel" {
   bucket       = aws_s3_bucket.pixel.bucket
   key          = "i"
   source       = "${path.module}/files/i.gif"
@@ -30,49 +39,67 @@ resource "aws_s3_bucket_object" "ipixel" {
   content_type = "image/gif"
 }
 
+
 data "aws_canonical_user_id" "current" {}
 
 resource "aws_s3_bucket" "ipixel_logs" {
   bucket = "${var.site}-analytics"
 
-  grant {
-    id          = data.aws_canonical_user_id.current.id
-    permissions = ["FULL_CONTROL"]
-    type        = "CanonicalUser"
+  tags = {
+    Name = "iPixel Logs Storage"
+    Site = var.site
   }
+}
 
-  grant {
-    # Grant CloudFront awslogsdelivery logs access to your Amazon S3 Bucket
-    # https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html#AccessLogsBucketAndFileOwnership
-    id          = "c4c1ede66af53448b93c283ce9448c4ba468c9432aa01d700d3878632f77d2d0"
-    permissions = ["FULL_CONTROL"]
-    type        = "CanonicalUser"
+resource "aws_s3_bucket_acl" "ipixel_logs" {
+  bucket = aws_s3_bucket.ipixel_logs.id
+  
+  access_control_policy {
+
+    owner {
+      id = data.aws_canonical_user_id.current.id
+    }
+
+    grant {
+      grantee {
+        id          = data.aws_canonical_user_id.current.id
+        type        = "CanonicalUser"
+      }
+
+      permission = "FULL_CONTROL"
+
+    }
+
+    grant {
+      grantee {
+        uri  = "http://acs.amazonaws.com/groups/s3/LogDelivery"
+        type = "Group"
+      }
+
+      permission = "FULL_CONTROL"
+      
+    }
   }
+}
 
-  lifecycle_rule {
-    id      = "logfiles"
-    enabled = true
+resource "aws_s3_bucket_lifecycle_configuration" "example" {
+  bucket = aws_s3_bucket.ipixel_logs.id
 
-    prefix = "RAW/"
+  rule {
+    id = "logfiles"
+
+    filter {
+      prefix = "RAW/"
+    }
 
     transition {
       days          = 30
       storage_class = "STANDARD_IA" # or "ONEZONE_IA"
     }
 
-    # transition {
-    #   days          = 30
-    #   storage_class = "GLACIER"
-    # }
+    # ... other transition/expiration actions ...
 
-    # expiration {
-    #   days = 90
-    # }
-  }
-
-  tags = {
-    Name = "iPixel Logs Storage"
-    Site = var.site
+    status = "Enabled"
   }
 }
 

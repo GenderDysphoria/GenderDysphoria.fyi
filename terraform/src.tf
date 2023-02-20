@@ -60,12 +60,6 @@ resource "aws_iam_access_key" "s3" {
 
 resource "aws_s3_bucket" "src" {
   bucket = var.domain
-  acl    = "public-read"
-
-  website {
-    index_document = "index.html"
-    error_document = "404.html"
-  }
 
   tags = {
     Name = "Site Source"
@@ -73,19 +67,23 @@ resource "aws_s3_bucket" "src" {
   }
 }
 
-resource "aws_s3_bucket" "uat" {
-  bucket = "uat.${var.domain}"
+
+resource "aws_s3_bucket_acl" "src" {
+  bucket = aws_s3_bucket.src.id
   acl    = "public-read"
+}
 
-  website {
-    index_document = "index.html"
-    error_document = "404.html"
+resource "aws_s3_bucket_website_configuration" "src" {
+  bucket = aws_s3_bucket.src.bucket
+
+  index_document {
+    suffix = "index.html"
   }
 
-  tags = {
-    Name = "Site Source UAT"
-    Site = var.site
+  error_document {
+    key = "404.html"
   }
+
 }
 
 
@@ -129,60 +127,5 @@ resource "aws_s3_bucket_policy" "src" {
   ]
 }
 POLICY
-}
-
-
-resource "aws_s3_bucket_policy" "uat" {
-  bucket = aws_s3_bucket.uat.bucket
-  policy = <<POLICY
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Principal": {
-        "AWS": "${aws_iam_user.s3.arn}"
-      },
-      "Action": "s3:ListBucket",
-      "Resource": "${aws_s3_bucket.uat.arn}"
-    },
-    {
-      "Effect": "Allow",
-      "Principal": {
-        "AWS": "${aws_iam_user.s3.arn}"
-      },
-      "Action": [
-        "s3:PutObject",
-        "s3:PutObjectAcl",
-        "s3:GetObject",
-        "s3:GetObjectAcl",
-        "s3:DeleteObject",
-        "s3:ListMultipartUploadParts",
-        "s3:AbortMultipartUpload"
-      ],
-      "Resource": "${aws_s3_bucket.uat.arn}/*"
-    },
-    {
-      "Sid": "PublicReadGetObject",
-      "Effect": "Allow",
-      "Principal": "*",
-      "Action": "s3:GetObject",
-      "Resource": "${aws_s3_bucket.uat.arn}/*"
-    }
-  ]
-}
-POLICY
-}
-
-resource "aws_route53_record" "uat" {
-  name    = "uat.${var.domain}"
-  zone_id = aws_route53_zone.zone.zone_id
-  type    = "A"
-
-  alias {
-    name                   = aws_s3_bucket.uat.website_domain
-    zone_id                = aws_s3_bucket.uat.hosted_zone_id
-    evaluate_target_health = false
-  }
 }
 

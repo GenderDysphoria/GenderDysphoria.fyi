@@ -22,12 +22,12 @@ module.exports = exports = class Manifest {
     this.stat = memoizeAsync((f) =>
       fs.stat(resolve(f))
         .catch(() => null)
-        .then((stats) => (stats && Math.floor(stats.mtimeMs / 1000))),
+        .then((stats) => (stats && Math.floor(stats.mtimeMs / 1000)))
     );
     this.revFile = memoizeAsync((f) =>
       readFile(f)
         .then(revHash)
-        .catch(() => null),
+        .catch(() => null)
     );
 
     this.isProd = prod;

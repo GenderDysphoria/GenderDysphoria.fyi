@@ -16,7 +16,7 @@ module.exports = exports = class Asset extends File {
 
     this.serializable.push(
       'dimensions',
-      'sizes',
+      'sizes'
     );
   }
 

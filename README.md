@@ -35,11 +35,13 @@ All stylesheets for the site are built using SCSS and are are stored in the `scs
 
 ### Building the site with NodeJS
 
-To execute this codebase you will need to have node.js and npm installed on your computer and be familiar with the command line interface. Your computer will also need to have the `gd` and `graphicsmagick` libraries installed. See the build instructions below.
+To execute this codebase you will need to have Node.js and npm installed on your computer and be familiar with the command line interface. Your computer will also need to have the `gd` and `graphicsmagick` libraries installed. See the build instructions below.
 
-After cloning this repository to your computer you will need to run `npm install` in the project directory to install all of the dependency modules. Once this install is complete you can build the site by running the `gulp` command. This will compile all of the image assets, render the site stylesheets, and build the individual pages, before launching a local webserver to host the site for previewing the rendered content. Any changes made to the content while this server is running will trigger a recompile so that the page can simply be reloaded.
+After cloning this repository to your computer you will need to run `npm install` in the project directory to install all of the dependency modules. If you haven't previously used gulp, you will also need to install the gulp CLI tools with `npm install --global gulp-cli`. Once this install is complete you can build the site by running the `gulp` command. This will compile all of the image assets, render the site stylesheets, and build the individual pages, before launching a local webserver to host the site for previewing the rendered content. Any changes made to the content while this server is running will trigger a recompile so that the page can simply be reloaded.
 
 The command `gulp uat` will build the site as if it is prepared for deployment to the website. This performs extra optimizations to reduce the size of the site.
+
+You can use `npm run build` to trigger the Gulp build process for production.
 
 **Tweet Content**
 

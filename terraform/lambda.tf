@@ -26,62 +26,73 @@ resource "aws_iam_role" "lambda_redirect" {
   }
 }
 
+#######################################################
+# LOGGING POLICY
 
-# -----------------------------------------------------------------------------------------------------------
-# IAM Role for Log Parsing Lambda
-
-data "aws_iam_policy_document" "s3_bucket_access" {
+data "aws_iam_policy_document" "lambda_logging" {
   statement {
     actions = [
-      "s3:*",
+      "logs:CreateLogStream",
+      "logs:PutLogEvents",
+      "logs:CreateLogGroup"
     ]
 
-    resources = [
-      aws_s3_bucket.ipixel_logs.arn,
-      "${aws_s3_bucket.ipixel_logs.arn}/*",
-    ]
+    resources = [ "arn:aws:logs:*:*:*" ]
   }
 }
 
-data "aws_iam_policy_document" "lambda_assume_role" {
-  statement {
-    actions = ["sts:AssumeRole"]
+resource "aws_iam_policy" "lambda_logging" {
+  name        = "${var.site}_lambda_logging"
+  path        = "/"
+  description = "IAM policy for logging from a lambda"
 
-    principals {
-      type        = "Service"
-      identifiers = [
-        "edgelambda.amazonaws.com",
-        "lambda.amazonaws.com"
-      ]
+  policy = data.aws_iam_policy_document.lambda_logging.json
+}
+
+resource "aws_iam_role_policy_attachment" "lambda_logs" {
+  role       = aws_iam_role.lambda_redirect.name
+  policy_arn = aws_iam_policy.lambda_logging.arn
+}
+
+#######################################################
+# REPLICATION POLICY
+
+# aws_iam_policy_document.lambda_replication
+data "aws_iam_policy_document" "lambda_replication" {
+  statement {
+    actions = [
+      "lambda:EnableReplication*",
+    ]
+    resources = [
+      "*"
+    ]
+  }
+
+  statement {
+    actions = [
+      "iam:CreateServiceLinkedRole"
+    ]
+    resources = [
+      "arn:aws:iam::*:role/aws-service-role/events.amazonaws.com/AWSServiceRoleForCloudWatchEvents*"
+    ]
+    condition {
+      test = "StringLike"
+      variable = "iam:AWSServiceName"
+      values = ["events.amazonaws.com"]
     }
   }
 }
 
-resource "aws_iam_role" "ipixel_parser" {
-  name = "lambda-${var.site}-ipixel"
+resource "aws_iam_policy" "lambda_replication" {
+  name        = "${var.site}_lambda_replication"
+  path        = "/"
+  description = "IAM policy for replication by lambda@edge"
 
-  assume_role_policy = data.aws_iam_policy_document.lambda_assume_role.json
-
-  tags = {
-    Site = var.site,
-    Role = "ipixel"
-  }
+  policy = data.aws_iam_policy_document.lambda_replication.json
 }
 
-resource "aws_iam_role_policy_attachment" "ipixel_parser" {
-  role       = aws_iam_role.ipixel_parser.name
-  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+resource "aws_iam_role_policy_attachment" "lambda_replication" {
+  role       = aws_iam_role.lambda_redirect.name
+  policy_arn = aws_iam_policy.lambda_replication.arn
 }
 
-
-resource "aws_iam_role_policy" "ipixel_parser_cloudwatch_log_group" {
-  name   = "cloudwatch-log-group"
-  role   = aws_iam_role.ipixel_parser.name
-  policy = data.aws_iam_policy_document.ipixel_parser_cloudwatch_log_group.json
-}
-
-resource "aws_iam_role_policy" "lambda_s3_bucket_readonly" {
-  name   = "s3-bucket-readonly"
-  role   = aws_iam_role.ipixel_parser.name
-  policy = data.aws_iam_policy_document.s3_bucket_access.json
-}

@@ -57,7 +57,7 @@ W ogólności, dysforia płciowa to wewnętrzne poczucie niewłaściwości. Nie 
 
 Kiedyś opisywałam to jako noszenie rękawicy dla dorosłych, kiedy jesteś dzieckiem. Możesz włożyć dłoń do rękawicy, a twoje palce wchodzą w palce rękawicy, lecz twoje zdolności manualne są mocno ograniczone. Możesz coś podnieść, ale nie będziesz w stanie tego obsługiwać tak, jak osoba dorosła. Pewne rzeczy po prostu nie są do końca okej.
 
-Evey Winters opisała to tak [w swoim poście o dysforii](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/):
+Evey Winters opisała to tak [w swoim poście o dysforii](https://eveywinters.com/on-dysphoria-before-enduring-and-after/):
 
 > Zdarzyło ci się kiedyś siedzieć gdzieś w miejscu publicznym albo w formalnej sytuacji i nagle ni z tego, ni z owego zaczyna cię swędzieć podeszwa stopy? Nie możesz zdjąć butów w tym momencie i się podrapać, więc znosisz uczucie umierania w środku, podczas gdy swędzenie narasta do momentu, w którym jesteś gotowy_a zamordować następną osobę, która się do ciebie odezwie.
 >

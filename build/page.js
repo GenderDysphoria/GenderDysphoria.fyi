@@ -30,7 +30,7 @@ module.exports = exports = class Page extends File {
       'dateModified',
       'classes',
       'flags',
-      'siblings',
+      'siblings'
     );
 
     this.engine = this._engine();
