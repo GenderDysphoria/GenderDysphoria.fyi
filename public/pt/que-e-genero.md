@@ -29,7 +29,7 @@ tweets:
 
 Se você traçar a etimologia da palavra a suas raízes latinas, gênero simplesmente significa "tipo".
 
-Muitas pessoas atribuem o termo ao psicólogo John Money, que propôs usar "gênero" em 1955 para diferenciar o sexo mental do sexo físico. Entretanto, John Money não foi o primeiro a fazê-lo. A antropóloga cultura [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) usou o termo em 1949 no seu livro "<span lang="en">Male and Female</span>" (em português: *Masculino e Feminino* ou *Homem e Mulher*) para distinguir entre comportamentos e papéis de gênero  e sexo biológico. O Jornal Americano de Psicologia ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) assim descreve o livro:
+Muitas pessoas atribuem o termo ao psicólogo John Money, que propôs usar "gênero" em 1955 para diferenciar o sexo mental do sexo físico. Entretanto, John Money não foi o primeiro a fazê-lo. A antropóloga cultural [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) usou o termo em 1949 no seu livro "<span lang="en">Male and Female</span>" (em português: *Masculino e Feminino* ou *Homem e Mulher* ou *Macho e Fêmea*) para distinguir entre comportamentos e papéis de gênero  e sexo biológico. O Jornal Americano de Psicologia ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) assim descreve o livro:
 
 > Um livro que dá além de sua premissa; pois ele informa o leitor sobre **"gênero" tanto quando sobre "sexo"**, sobre papéis masculinos e femininos, bem como sobre macho e fêmea e suas funções reprodutivas.
 >
@@ -78,7 +78,7 @@ Gênero, entretanto, é bem mais ... esotérico. Há muitas formas diferentes pe
 </div>
 }!}
 
-O resumo disso é, algumas pessoas são bem macho, outras bem fêmea, algumas pessoas não sentem gênero algum, algumas sentem ambos, algumas estão cravadas no meio, algumas caem nas fronteiras. Algumas pessoas oscilam por todo o espectro de formas imprevisíveis, mudando como o vento. Apenas um indivíduo pode identificar seu próprio gênero, ninguém pode ditá-lo por ele.
+O resumo disso é, algumas pessoas são bem masculinas, outras bem femininas, algumas pessoas não sentem gênero algum, algumas sentem ambos, algumas estão cravadas no meio, algumas caem nas fronteiras. Algumas pessoas oscilam por todo o espectro de formas imprevisíveis, mudando como o vento. Apenas um indivíduo pode identificar seu próprio gênero, ninguém pode ditá-lo por ele.
 
 Gênero é parte construção social, parte comportamentos aprendidos, e parte processos biológicos que se formam bem cedo na vida.
 
@@ -96,7 +96,7 @@ Gênero também afeta as expectativas de que o cérebro tem para o ambiente no q
 
 No lado social, gênero envolve o nosso [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology)): nossa apresentação, nossos maneirismos e comportamentos, como comunicamos, como reagimos, quais são nossas expectativas da vida, e quais papéis que podemos cumprir enquanto andamos pela vida. A autora Susan Stryker descreveu habitus em seu livro [<span lang="en">Transgender History</span>](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X) (em português: _História Transgênera_):
 
-> Muito do habitus envolve manipular nossas características sexuais secundárias para comunicar aos outros nosso senso de quem sentimos ser --- seja com o balanço dos quadris, falar com as nossas mãos, ganhar músculos na academia, crescer o cabelo, vestir roupas que enfatizam nosso decote, depilar nossas axilas, permitir restolho de barba visível em nossas faces, ou falar com inflecção crescente ou cadente no fim de nossas frases. Geralmente essas formas de movimento e estilização se tornaram tão internalizadas que pensamos nelas como naturais muito embora --- dados que elas são todas coisas que aprendemos por observação e prática --- elas possam ser melhor entendidas como uma "segunda natureza" culturalmente adquirida.
+> Muito do habitus envolve manipular nossas características sexuais secundárias para comunicar aos outros nosso senso de quem sentimos ser --- seja com o balanço dos quadris, falar com as nossas mãos, ganhar músculos na academia, crescer o cabelo, vestir roupas que enfatizam nosso decote, depilar nossas axilas, permitir restolho de barba visível em nossas faces, ou falar com inflexão crescente ou cadente no fim de nossas frases. Geralmente essas formas de movimento e estilização se tornaram tão internalizadas que pensamos nelas como naturais muito embora --- dados que elas são todas coisas que aprendemos por observação e prática --- elas possam ser melhor entendidas como uma "segunda natureza" culturalmente adquirida.
 
 De fato, esses são todos fatores culturais; coisas que foram desenvolvidas dentro da população ao longo do tempo. Independentemente de serem essencialmente "inventadas", elas ainda são fortemente generizadas e uma pessoa tende a se conectar com os habitus generizados de seu eu interior, mesmo sem perceber que está fazendo isso. Quando nós somos negados acesso a esses aspectos sociais, isso resulta em desconforto com a nossa posição social na vida.
 
