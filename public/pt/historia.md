@@ -55,9 +55,9 @@ Pessoas trans estão saindo do armário; nós estamos em todos os lugares.
 
 Existe um comum equívoco tanto entre pessoas cisgêneras quanto transgêneras que Disforia de Gênero refere-se exclusivamente ao desconforto físico com o próprio corpo. Entretanto, essa crença de que desconforto corpóreo é central a Disforia de Gênero é na verdade um equívoco, e não é nem um componente majoritário do diagnóstico da Disforia de Gênero. A Disforia de Gênero cruza um grande número de aspectos da vida, incluindo como você interage com os outros, como você se veste, como você se comporta, como você se encaixa na sociedade, como você percebe o mundo ao seu redor, e sim, como você se relaciona com o próprio corpo. Consequentemente, proponentes do SoC 7 da WPATH e do DSM-5 tomaram o hábito de dizer que você não precisa de disforia para ser transgênero. Essa afirmação é geralmente repetida como um mantra, pois ele informa as pessoas que não sentem significativo desconforto com o corpo que elas talvez sejam trans também.
 
-Em princípio, a Disforia de Gênero é uma sensação de algo intrínseca erroneidade com si mesmo. Não há lastro lógico para essa erroneidade, não há nada que a explica, você não consegue descrever o porque você se sente assim, ela simplesmente está lá. Coisas na sua existência estão erradas e mesmo sabendo quais coisas *são* incorretas pode ser difícil identificá-las apropriadamente.
+Em princípio, a Disforia de Gênero é uma sensação de algo intrínseca erroneidade com si mesmo. Não há embasamento lógico para essa erroneidade, não há nada que a explica, você não consegue descrever o porque você se sente assim, ela simplesmente está lá. Coisas na sua existência estão erradas e mesmo sabendo quais coisas *são* incorretas pode ser difícil identificá-las apropriadamente.
 
-A forma como costumo a descrever é como usar uma luva de adulto quando você é criança. Você pode por a sua mão na luva, e seus dedos podem entrar nos dedos da luva, mas a sua desteridade com a luva é severamente debilitada. Você também pode ser capaz de pegar algo, mas ser incapaz de manipulá-lo como um adulto conseguiria. As coisas simplesmente não estão bem certas.
+A forma como costumo a descrever é como usar uma luva de adulto quando você é criança. Você pode por a sua mão na luva, e seus dedos podem entrar nos dedos da luva, mas a sua dexteridade com a luva é severamente debilitada. Você também pode ser capaz de pegar algo, mas ser incapaz de manipulá-lo como um adulto conseguiria. As coisas simplesmente não estão bem certas.
 
 <span lang="en">Evey Winters</span> descreve assim [em seu post Disforia](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
@@ -65,13 +65,13 @@ A forma como costumo a descrever é como usar uma luva de adulto quando você é
 >
 > Ou quando eu era mais jovem e costumava assistir TV à cabo nas manhãs antes da escola. Como era TV à cabo na parte rural da Virgínia Ocidental (estado dos EUA) no começo dos anos 90, de tempos em tempos eu ligava o meu canal favorito e assistiria meus shows enquanto eu comia *maple oatmeal* de café da manhã e assistia Power Rangers — mas o áudio vinha de outra estação (geralmente do canal de tempo meterológico). O vídeo estava okay. O áudio estava okay. Mas o desencontro entre eles? Esse era o tipo de frustração que ficava com você o dia inteiro quando criança.
 >
-> É a sensação de que você tem quando você pede uma refrescante Coca Diet e o garçom responde: “Pode ser Pepsi?”
+> É a sensação de que você tem quando você pede uma refrescante Coca Diet e o garçom responde: “Pode ser ~~Guaraná Jesus~~ Pepsi?”
 >
 > É saber que algo está errado e não ser capaz de fazer coisa nenhuma sobre isso.
 
 A Disforia de Gênero é, em sua essência, simplesmente as reações emocionais ao cérebro sabendo que algo não encaixa. Essa incongruência é tão profunda dentro dos subsistemas do cérebro que não há óbvia mensagem de qual é o problema. A única forma que temos para identificá-lo é através das emoções que ele dispara. Nosso consciente ou recebe feedbacks positivos (euforia) ou negativos (disforia) de acordo com quão bem o nosso ambiente se alinha à nossa sensação interna de si mesmo. Parte da transição é aprender a reconhecer esses sinais.
 
-Pessoas cisgêneras também recebem esses sinais, como esses sinais geralmente se alinham com seus ambientes, elas os tomam por garantidos. Entretanto, existiram algumas ocasiões notáveis em que pessoas cisgêneras foram [colocadas em uma situação](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) em que elas experimentaram disforia de gênero. Tentativas de criar crianças cisgêneras [como o sexo oposto](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (aviso de gatilho: suicídio) sempre caíram em fracasso quando essas crianças, invariavelmente, se declaravam diferentemente.
+Pessoas cisgêneras também recebem esses sinais, como esses sinais geralmente se alinham com seus ambientes, elas os tomam por garantidos. Entretanto, existiram algumas ocasiões notáveis em que pessoas cisgêneras foram [colocadas em uma situação](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) em que elas experimentaram disforia de gênero. Tentativas de criar crianças cisgêneras [como o sexo oposto](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (alerta de conteúdo: suicídio) sempre caíram em fracasso quando essas crianças, invariavelmente, se declaravam diferentemente.
 
 Esses impulsos de euforia e disforia, excitação e aversão, eles sempre se manifestam em muitas formas diferentes, algumas óbvias, algumas muito mais sutis. Disforia muda com o tempo também, tomando novas formas conforme o indivíduo move de pre-consciência rumo a entendimento e através da transição. A meta desse livro é desmontar essas manifestações em suas distintas categorias e descrevê-las para que outros possam aprender a reconhecê-las.
 
@@ -79,6 +79,6 @@ Entretanto, primeiro eu quero destacar algo muito importante, tão importante qu
 
 **TODA PESSOA TRANS EXPERIMENTA UM CONJUNTO DIFERENTE DE FONTES E INTENSIDADES DE DISFORIA**
 
-Não há uma única experiência trans, não um conjunto padrão de sensações e desconfortos, *não existe a uma narrativa transgênera verdadeira*.
+Não há uma única experiência trans, não um conjunto padrão de sensações e desconfortos, *não existe a uma verdadeira narrativa transgênera*.
 
 Ok, com esse aviso fora do caminho, vamos para os pontos cernes.
