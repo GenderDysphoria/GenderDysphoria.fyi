@@ -1,4 +1,5 @@
-/* eslint no-console:0, no-process-exit:0 */
+/* eslint-disable no-console, no-process-exit, n/no-process-exit */
+/* eslint import/no-extraneous-dependencies: ["error", {"devDependencies": true}] */
 
 const argv = require('minimist')(process.argv.slice(2));
 const thread = require('./build/twitter-thread');
@@ -17,5 +18,5 @@ thread(tweet).then(
   }, (err) => {
     console.error(err);
     process.exit(1);
-  },
+  }
 );

@@ -132,7 +132,7 @@ function processPages (engines, pages, posts, prod) {
     }
 
     try {
-      html = shrink(html);
+      html = await shrink(html);
     } catch (e) {
       e.message = `Error while minifying page "${page.input}": ${e.message.slice(0, 50)}`;
       throw e;
@@ -145,7 +145,7 @@ function processPages (engines, pages, posts, prod) {
     await Promise.all([
       fs.writeFile(output, Buffer.from(html)),
       page.json && fs.writeFile(resolve('dist', page.json), Buffer.from(
-        prod ? JSON.stringify(json) : JSON.stringify(json, null, 2),
+        prod ? JSON.stringify(json) : JSON.stringify(json, null, 2)
       )),
     ]);
   });

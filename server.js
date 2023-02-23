@@ -1,3 +1,5 @@
+/* eslint import/no-extraneous-dependencies: ["error", {"devDependencies": true}] */
+
 const express = require('express');
 const morgan = require('morgan');
 const directory = require('serve-index');

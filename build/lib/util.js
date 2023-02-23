@@ -59,7 +59,7 @@ function allOf (...args) {
   return (tok) => allBy(args, (check) => check(tok));
 }
 
-function isNumber    (input) { return typeof input === 'number' && !isNaN(input); }
+function isNumber    (input) { return typeof input === 'number' && !Number.isNaN(input); }
 function isString    (input) { return typeof input === 'string'; }
 function isBoolean   (input) { return typeof input === 'boolean'; }
 function isFunction  (input) { return typeof input === 'function'; }
@@ -113,7 +113,7 @@ function is (...args) {
     IS_LOOKUP.get(a)
 		|| (isFunction(a) && a)
 		|| (isRegExp(a) && re(a))
-		|| equals(a),
+		|| equals(a)
   );
   if (args.length === 1) return (tok) => args[0](tok);
   return (tok) => anyBy(args, (check) => check(tok));
@@ -124,7 +124,7 @@ function isAll (...args) {
     IS_LOOKUP.get(a)
 		|| (isFunction(a) && a)
 		|| (isRegExp(a) && re(a))
-		|| equals(a),
+		|| equals(a)
   );
   if (args.length === 1) return (tok) => args[0](tok);
   return (tok) => allBy(args, (check) => check(tok));
@@ -184,7 +184,7 @@ function ucfirst (input) {
 
 function ucsentence (input) {
   return input.replace(/((?:\S[^.?!]*)[.?!]*)/g, (txt) =>
-    txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(),
+    txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase()
   );
 }
 
@@ -674,7 +674,7 @@ function uniq (collection, predicate = null) {
 function keyBy (collection, predicate) {
   predicate = iteratee(predicate);
   return mapReduce(collection, (value, key, index) =>
-    [ predicate(value, key, index), value ],
+    [ predicate(value, key, index), value ]
   );
 }
 
@@ -706,7 +706,7 @@ function omit (collection, predicate) {
     return mapReduce(collection, (value, key, index) =>
       (predicate(value, key, index)
         ? [ undefined, undefined ]
-        : [ key, value ]),
+        : [ key, value ])
     );
   }
 
@@ -718,7 +718,7 @@ function omit (collection, predicate) {
   return mapReduce(collection, (value, key) =>
     (predicate.includes(key)
       ? [ undefined, undefined ]
-      : [ key, value ]),
+      : [ key, value ])
   );
 }
 
@@ -729,7 +729,7 @@ function pick (collection, predicate) {
     return mapReduce(collection, (value, key, index) =>
       (predicate(value, key, index)
         ? [ key, value ]
-        : [ undefined, undefined ]),
+        : [ undefined, undefined ])
     );
   }
 
@@ -805,9 +805,10 @@ function pathinate (object, delimiter = '.') {
 
 /**
  * Iterates over a collection and generates an object based on tuple returned from the iteratee.
+ *
  * @param  {Object|Array|Map|Set} collection
- * @param  {Function} iteratee Callback invoked for each item, receives `value, key, index`, returns `[key, value]`;
- * @return {Object}
+ * @param  {Function} cb Callback invoked for each item, receives `value, key, index`, returns `[key, value]`;
+ * @returns {Object}
  */
 function mapReduce (collection, cb) {
   if (!collection) return {};
@@ -887,7 +888,7 @@ function flatten (collection, depth = Infinity) {
         ? flatten(val, depth - 1)
         : [ val ]
     )),
-    [],
+    []
   );
 }
 

@@ -63,10 +63,10 @@ const actions = {
 
       // if upscale is not requested, restrict size
       if (!options.upscale) {
-        if (!isNaN(options.width)) {
+        if (!Number.isNaN(options.width)) {
           options.width  = Math.min(options.width, size.width);
         }
-        if (!isNaN(options.height)) {
+        if (!Number.isNaN(options.height)) {
           options.height = Math.min(options.height, size.height);
         }
       }
