@@ -31,7 +31,7 @@ No Brasil, adultos podem mudar o nome e o sexo nas certidões de nascimento sem 
 
 ### Transição Apresentacional
 
-Essas são as mudanças de como você se estiliza, sejam suas roupas, seu cabelo ou o uso de maquiagem. A nossa sociedade fortemente genderiza todas essas coisas e mudar a apresentação é tanto reafirmante para si próprio como também manda dicas para as pessoas ao seu redor de como se quer ser chamade.
+Essas são as mudanças de como você se estiliza, sejam suas roupas, seu cabelo ou o uso de maquiagem. A nossa sociedade fortemente generiza todas essas coisas e mudar a apresentação é tanto reafirmante para si próprio como também manda dicas para as pessoas ao seu redor de como se quer ser chamade.
 
 ### Transição Médica
 
