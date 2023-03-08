@@ -30,7 +30,7 @@ tweets:
 
 Antes que eu possa falar sobre desconforto, eu preciso falar sobre alívio. Euforia de Gênero é um sinal de Disforia de Gênero. Você pode estar se perguntando, "como pode a felicidade ser tristeza?" A resposta é simples.
 
-Imagine uma pessoa que nasceu numa caverna e que gastou sua inteira vida vivendo no subterrâneo, e que sua única fonte de iluminação sendo velas e lâmpadas à óleo. Imagine que ela nunca esteve na superfície, ela nem sabe que a superfície existe. Então, um dia, um desmoronamento ocorre em um túnel lateral e revela uma abertura para a superfície. Luz solar adentra a abertura e de início essa luz é cegante e faz a pessoa correr em medo. Mais tarde ela retorna à abertura e conforme os olhos dela se ajustam eles veem através do buraco e veem um brilhante mundo cheio de cores que ela nem sabia que existiam.
+Imagine uma pessoa que nasceu numa caverna e que gastou sua inteira vida vivendo no subterrâneo, e que sua única fonte de iluminação sendo velas e lâmpadas a óleo. Imagine que ela nunca esteve na superfície, ela nem sabe que a superfície existe. Então, um dia, um desmoronamento ocorre em um túnel lateral e revela uma abertura para a superfície. Luz solar adentra a abertura e de início essa luz é cegante e faz a pessoa correr em medo. Mais tarde ela retorna à abertura e conforme os olhos dela se ajustam eles veem através do buraco e veem um brilhante mundo cheio de cores que ela nem sabia que existiam.
 
 O mundo é amedrontador, é enorme e cheio do desconhecido, então ela rasteja de volta à caverna por segurança mas o buraco ainda está lá, e ela ainda vê a luz toda vez que passa por ela. Gradualmente ela espia para fora mais e mais frequentemente, mais e mais longe da abertura. Ela começa a querer aquela luz e ela começa a achar razões para visitá-la mais frequentemente.
 
@@ -44,7 +44,7 @@ Isso é como a Euforia de Gênero é. Ela é como flashes de uma luz que pode pa
 
 Muitas pessoas trans não tem ideia de quanta dor elas sentem até que elas encontrem pequenos pedaços de alívio. <em lang="en">Cosplay</em>, atuação em teatro, <em lang="en">drag</em>, jogos de interpretação de papéis; pequenas incursões em um gênero diferente daquele no qual elas viveram. Elas podem descobrir que se sentem apenas um pouquinho mais confortáveis. Elas inventarão desculpas para o porquê ("Se eu vou ter que ficar olhando para a bunda de um personagem, melhor que seja a bunda de uma menina." em jogos de perspectiva de terceira pessoa), elas tentarão se convencer que é apenas por diversão, ou uma expressão artística. Elas modem contar a si mesmas que os fragmentos de alegria que elas sentem ao ouvir pronomes distintos é apenas por ser uma novidade. Mas logo elas se encontrão procurando por razões para fazê-lo mais frequentemente. Com frequência cada vez maior, elas interpretam personagens de um sexo diferente, costuram mais fantasias, compram mais roupas, atuando mais frequentemente. Você se encontrará querendo fazer mais disso o tempo inteiro, porque isso simplesmente te faz sentir melhor que a sua vida real, e ser "você" começa a doer. Mais cedo ou mais tarde, o velho você se torna a vestimenta fantasia.
 
-Isso é a mais fundamental razão pelo qual nós como comunidade dizemos "você não precisa de disforia para ser trans", porque tinta preta no quadro preto simplesmente não é visível sem uma minuciosa inspeção e muita luz.
+Essa é a mais fundamental razão pelo qual nós como comunidade dizemos "você não precisa de disforia para ser trans", porque tinta preta no quadro preto simplesmente não é visível sem uma minuciosa inspeção e muita luz.
 
 Tudo que pode ser fonte de disforia tem uma igual e oposta euforia.
 
@@ -53,11 +53,11 @@ Tudo que pode ser fonte de disforia tem uma igual e oposta euforia.
 {!{
   <div class="gutter">
     <blockquote>
-    <strong>gen·drar</strong> - <em>Verbo, neologismo, anglicismo</em><br>
+    <strong>ge·ne·ri·zar</strong> - <em>Verbo, neologismo, anglicismo</em><br>
     <p>Perceber como ou tratar com um determinado gênero.</p>
     <details>
       <summary>Exemplo</summary>
-      <p>Ex: “Em uma entrevista, ele até notou que ele 'se vestia, agia e pensava como um homem' por anos, mas seus colegas de trabalho continuavam o <u>gendrando</u> como mulher.” (<a href="https://en.wiktionary.org/wiki/gender#:~:text=In%20an%20interview%2C%20he%20even%20noted%20that%20he%20%22dressed%2C%20acted%20and%20thought%20like%20a%20man%22%20for%20years%2C%20but%20his%20coworkers%20continued%20to%20gender%20him%20as%20female">Ver no Wikcionário</a>)</p>
+      <p>Ex: “Em uma entrevista, ele até notou que ele 'se vestia, agia e pensava como um homem' por anos, mas seus colegas de trabalho continuavam o <u>generizando</u> como mulher.” (<a href="https://en.wiktionary.org/wiki/gender#:~:text=In%20an%20interview%2C%20he%20even%20noted%20that%20he%20%22dressed%2C%20acted%20and%20thought%20like%20a%20man%22%20for%20years%2C%20but%20his%20coworkers%20continued%20to%20gender%20him%20as%20female">Ver no Wikcionário</a>)</p>
     </details>
   </blockquote>
   {{import '~/tweet' ids=[
@@ -70,12 +70,12 @@ Tudo que pode ser fonte de disforia tem uma igual e oposta euforia.
 
 Exemplos:
 
-- Ser gendrade corretamente.
+- Ser generizade corretamente.
 - Ter tratade com o seu nome escolhido.
 - Vestir roupas que conferem com o seu gênero.
 - Ser e sentir mudanças em seu corpo.
 - Ver-se no espelho (remoção da despersonalização).
-- Socializar de uma forma que corresponde com as suas expectativas gendradas.
+- Socializar de uma forma que corresponde com as suas expectativas generizadas.
 - Cortar o cabelo de forma masculina/feminina/andrógena.
 - Remover (ou não) os pelos da perna.
 - Ser incluíde em algo que você, do contrário, não poderia por conta seu gênero atribuído ao nascimento (ex: <a href="https://en.wikipedia.org/wiki/Bridal_shower"><em lang="en">bridal shower</em></a> ou despedida de solteiro)

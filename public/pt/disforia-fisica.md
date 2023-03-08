@@ -145,7 +145,7 @@ A disforia sentida sobre o corpo pode e irá mudar com o tempo, para melhor e pa
 
 ### Problemas de Imagem Corpórea Internalizada
 
-O mundo é cheio de mensagens subconscientes sobre como as formas dos corpos de homens e mulheres devem ser. Nós somos bombardeados por propaganda e mídia criando uma visão normalizada do que é e não é bonito. Não seja muito gordo, não seja muito magro, não seja muito alto, não seja muito baixo, não tenha um queixo muito largo, não tem um nariz muito grande, use maquiagem não use muita maquiagem, não saia de casa sem um sutiã, mas não o deixe ser visto. É incessante a constante enxurrada de expectativas sobre aparência gendrada.
+O mundo é cheio de mensagens subconscientes sobre como as formas dos corpos de homens e mulheres devem ser. Nós somos bombardeados por propaganda e mídia criando uma visão normalizada do que é e não é bonito. Não seja muito gordo, não seja muito magro, não seja muito alto, não seja muito baixo, não tenha um queixo muito largo, não tem um nariz muito grande, use maquiagem não use muita maquiagem, não saia de casa sem um sutiã, mas não o deixe ser visto. É incessante a constante enxurrada de expectativas sobre aparência generizada.
 
 Todas absorvemos essas mensagens, e pessoas trans internalizam os fatores que importam ao gênero com o qual elas se alinham. Meninas trans crescem aplicando padrões femininos em si mesmas, meninos trans aplicam padrões masculinos em si mesmos e enbies (pessoas não-binárias) frequentemente internalizam vergonha acerca de androgenia. Isso é *em cima* da vergonha que eles recebem por não viverem de acordo com os padrões de seu gênero atribuído ao nascimento.
 
