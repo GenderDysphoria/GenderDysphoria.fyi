@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Seria Trans?"
-linkTitle: "Seria Trans?"
+title: "¿Soy Trans?"
+linkTitle: "¿Soy-Trans?"
 description: "Una hoja de ruta para resolver la pregunta más difícil"
 siblings:
   prev: /es/sindrome-del-impostor.md
@@ -15,7 +15,7 @@ preBody: '_declaracion'
 
 æææ<div class="cw"><p><strong>Curator's Note</strong>: The following page comes from <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">a fantastic post written by Cassie LaBelle</a> and has been reshared with permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">You can read more of her writing on Medium.</a></div>æææ
 
-# Seria Trans?
+# ¿Soy Trans?
 
 Mucho antes de empezar a cuestionar mi género, tenía esta fantasía ociosa en la que una de mis mejores amigas se acercaba a mí y me decía: "déjalo, no engañas a nadie".
 
@@ -71,7 +71,7 @@ A menos, claro, que te pregunten si crees que son trans... entonces ya no se apl
 Como siempre, por favor, entiendan que no tengo formación profesional en terapia de género. Simplemente estoy escribiendo esto desde mi propia investigación amateur y experiencias personales -principalmente mi propio viaje y conversaciones que he tenido con otras mujeres trans y cuestionadores de género. Hay que tener en cuenta que estoy abordando esto desde la perspectiva de una mujer trans bastante binaria que hizo la transición a los treinta años, lo que significa que todavía estoy ciega a gran parte de la experiencia trans. Las cosas son diferentes para las personas trans masculinas y no binarias, así como para muchas otras mujeres trans. Esto no pretende ser una guía universal de expertos - es sólo lo mejor que puedo dar en este momento.
 
 
-### Considere que la mayoría de las personas cis no piensan mucho en su género
+### Considera que la mayoría de las personas cis no piensan mucho en su género
 
 Si ya estás en la fase en la que te cuestionas tu género -incluso si eso sólo significa buscar en Google "¿Soy trans?" y luego cerrar de golpe el portátil antes de obtener un resultado de búsqueda-, enhorabuena, ya has pensado en tu género más de lo que la mayoría de las personas cis harán en toda su vida.
 
@@ -80,7 +80,7 @@ He preguntado a muchos de mis amigos cis si alguna vez han pensado seriamente en
 
 No hay *energía* allí. No para ellos. Si sientes una extraña *energía* cuando piensas en el género, probablemente eso signifique algo.
 
-### Considere que a la mayoría de las personas cis les gusta ser el género que se les asignó al nacer
+### Considera que a la mayoría de las personas cis les gusta ser el género que se les asignó al nacer
 
 Al principio me costó creerlo, pero las personas cis disfrutan de su género. A los hombres cis les gusta ser hombres y a las mujeres cis les gusta ser mujeres. No desean secretamente haber nacido como un miembro del género "opuesto" o como un ser sin género o cualquier otra cosa, en realidad. Como ya hemos establecido, no piensan mucho en su género.
 
@@ -94,7 +94,7 @@ Quizá te sorprenda saber que yo tampoco odiaba activamente que me vieran como u
 
 Tampoco puedo decirte cuántas veces he oído a mujeres trans en el armario decir algo como "bueno, no odio ser un hombre, y los hombres tienen muchos privilegios institucionales. No creo que eligiera ser mujer, aunque pudiera, porque no querría renunciar a mi privilegio masculino". El privilegio masculino es algo real, por supuesto, pero no es una recompensa que los hombres reciben por tener que soportar la eterna incomodidad de ser hombres. Los hombres disfrutan siendo hombres, y seguirían disfrutando siendo hombres sin sus privilegios sociales. Si lo único que te gusta de la masculinidad es el privilegio masculino, probablemente eso signifique algo.
 
-### Considere que la disforia de género es diferente para las mujeres trans que aún no se han autoaceptado
+### Considera que la disforia de género es diferente para las mujeres trans que aún no se han autoaceptado
 
 Durante años, pensé que no podía ser trans porque no experimentaba disforia de género. Estaba muy equivocada.
 
@@ -104,7 +104,7 @@ El otro problema es que la disforia de género se manifiesta de forma diferente 
 
 Antes de eso, la disforia se manifiesta en docenas de otras formas mucho más sutiles. (https://cassielabelle.medium.com/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85). Te recomiendo encarecidamente que lo leas en su totalidad si te estás cuestionando tu género.
 
-### Considerar la hipótesis nula
+### Considera la hipótesis nula
 
 En matemáticas, una [hipótesis nula](https://en.wikipedia.org/wiki/Null_hypothesis) es algo que generalmente se asume como verdadero hasta que se demuestra que es falso. Es una suposición por defecto, como la de "inocente hasta que se demuestre lo contrario". Si vas a condenar a alguien por un asesinato, por ejemplo, las pruebas circunstanciales no sirven. Generalmente se necesitan pruebas físicas abrumadoras, o una confesión, o algún otro signo evidente de culpabilidad.
 
