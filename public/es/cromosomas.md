@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Trastornos del desarrollo sexual: El género no es cromosómico"
 linkTitle: "Cromosomas"
 description: "El ADN es más lo que se llamaría directrices, que reglas reales."

@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 lang: "es"
-title: "What is the Cause of Gender Incongruence"
-description: "It's the hormones, baby."
+title: "¿Qué causa la Incongruencia de Género"
+description: "Son las hormonas, queridx."
 preBody: '_declaracion'
 classes:
   - gdb
@@ -16,12 +16,12 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
   prev: /es/tratamiento
-  prevCaption: Treating Gender Dysphoria
-  next: /es/chromosomas
-  nextCaption: But... but... the chromosomes!
+  prevCaption: Tratamiento de la Disforia de Género
+  next: /es/cromosomas
+  nextCaption: Pero... pero... ¡los cromosomas!
 ---
 
-#¿Cuál es la causa de la incongruencia de género?
+# ¿Cuál es la causa de la disforia de género?
 
 Esto es lo que sabemos hoy. Si has visto Jurassic Park puede que recuerdes esta escena:
 
@@ -50,24 +50,24 @@ El hecho es que, la vasta mayoría de la población nunca ha sido examinada por 
   '1224044949160611840'
 ] tweets=meta.tweets className="oneblock hide-reply" }}</div> }!}
 
-#### Brain Split
+#### Cerebro dividido
 
 El cerebro prenatal no comienza realmente a desarrollarse hasta entre la semana 12 y 24. La corteza cerebral, la delgada capa exterior que contiene la mayor parte de nuestro consciente, crece substancialmente durante esos periodos de tiempo. Antes de eso, la estructura presente es más similar a un andamio, las partes básicas necesarias para la función del cuerpo. Los surcos primarios (las ranuras en la corteza cerebral que permiten mayor área superficial) [comienzan desde la semana 14 \[EN\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), bastante después de que los genitales se han desarrollado.
 
 [Ha sido confirmado múltiples veces](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) mediante estudios de resonancia magnética que hay pequeñas pero significativas diferencias entre los cerebros de hombres y mujeres cisgénero, diferencias que se alinian con las identidades de género de las personas trans que se estudiaron. Nota, **esto no significa que cualquiera con esas diferencias tendrá ese género**, porque la identidad de género no es tan simple, pero provee evidencia que hay una clara diferencia entre cerebros masculinos y femeninos.
 
-A change in the testosterone levels in the fetus after the 11th week can directly impact the masculinization of the cerebral cortex, as well as changes in other parts of the brain structure. This has been examined [over and over again](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) in studies of female assigned children with CAH (congenital adrenal hyperplasia) and CAIS (complete androgen insensitivity syndrome).
+Un cambio en los niveles de testosterona en el feto después de la onceava semana puede impactar directamente la masculinización de la corteza cerebral y otros cambios en la estructura del cerebro. Esto se ha examinado [una y otra vez](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) en estudios de niñxs AFAN con HSC (hiperplasia suprarrenal congénita) y (SICA) síndrome de insensibilidad completa a los andrógenos.
 
-<blockquote class="cite"><p>We found a significant relationship between fetal testosterone and sexually differentiated play behavior in both girls and boys.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">Fetal Testosterone Predicts Sexually Differentiated Childhood Behavior in Girls and in Boys</a></blockquote>
+<blockquote class="cite"><p>Encontramos una relación significativa entre la testosterona fetal y comportamientos sexualmente diferenciados de juego tanto en niñas como niños.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">La Testosterona Fetal Predice el Comportamiento Sexualmente Diferenciado en la Niñez para Niñas y Niños</a></blockquote>
 
-An excess of testosterone in the mother’s body during the second trimester can (and does) cause masculinization of the brain in an externally female fetus, and an interference in testosterone production or uptake can (and does) cause feminisation of an externally male fetus. This interference does not have to be external in origin, either. Any number of genetic traits can cause the brain to respond differently to testosterone.
+Un exceso de testosterona en el cuerpo de la madre durante el segundo trimestre puede (y lo hace) causar masculinización del cerebro en un feto externamente femenino, y el interferir con la producción o la absorción de testosterona puede (y lo hace) causar la fiminización de un geto externamente masculino. Esta interferencia no tiene que ser de origen externo, tampoco. Un número indeterminado de características genéticas pueden causar que el cerebro responda de manera diferente a la testosterona. 
 
-A fairly large study of transgender individuals released in 2018 [found several key genes](https://academic.oup.com/jcem/article/104/2/390/5104458) which were statistically more likely to be longer among trans women (longer, as in having more repeated fragments). Individually these genes may not have an impact strong enough to cause a malfunction of masculinization, but collectively they absolutely could reduce the ability for the fetal brain to masculinize. These genes are all passed from parent to child, giving credence to a tendency for trans parents to have trans children.
+Un estudio bastante grande de individuxs transgénero publicado en 2018 [encontró varios genes clave](https://academic.oup.com/jcem/article/104/2/390/5104458) que fueron estadísticamente más propensos a ser largos entre mujeres trans (largos, en este contexto, quiere decir que poserían más fragmentos repetidos). Individualmente, estos genes pueden no tener un impacto lo suficientemente fuerte para interferir con la masculinización, pero definitivamente pueden reducir la abilidad del cerebro fetal para masculinizarse en conjunto. Estos genes son heredados de progenitorxs a hijxs, dando credibilidad a la tendencia de lxs progenitorxs trans a tener hijxs trans.
 
-#### Gender is Biological
+#### El Género es Biológico
 
-Sadly, western society has actively prevented a deeper understanding of gender. Ancient civilizations understood it well, but colonialism wiped them off the map. 100 years ago, [scientists in Germany were actively studying](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft) transgender medicine and made extraordinary advancements, until the nazis burned it all in 1933. Conservative and fascist pressures in the modern day have hindered advancements in transgender healthcare whenever possible.
+Tristemente, la sociedad occidental ha entorpecido activamente el que tengamos una comprensión más profunda del género. Las civilizaciones antiguas lo entendían bien, pero el colonialismo las eliminó del mapa. Hace cien años, [había científicos en Alemania que estudiaban activamente](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft) la medicina transgénero, logrando avances extraordinarios, hasta que los nazis quemaron todas sus investigaciones en 1933. Las presiones conservadoras y fascistas en en la actualidad han entorpecido el avance de la medicina transgénero siempre que han podido. 
 
-Yet, progress continues, and every few years we learn a little bit more.
+No obstante, el progreso sigue, y cada pocos años aprendemos un poco más.
 
-What we know for certain is that it is not a psychological condition, it is not something caused by trauma or by any external influence, nothing can make a person transgender. It happens in the womb, and is not something that a person can choose to be, any more than they could choose their race or their eye color. It has nothing to do with sexual orientation, it has nothing to do with kinks or fetishes, it has nothing to do with social influences from their parents or from their peers. [Transgender children are as firm in their identities as cisgender children are.](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
+Lo que sabemos a ciencia cierta es que no es una condición fisiológica, ni algo causado por traumas o influencias externas: nada puede hacer a una persona transgénero. Sucede en el vientre y no es algo que una persona pueda elegir más de lo que puede elegir su raza o el color de sus ojos. No tiene nada que ver con la orientación sexual, no tiene nada que ver con kinks o fetiches, no tiene nada que ver con las influencias sociales de sus progenitorxs o sus compañerxs. [Lxs Niñxs Transgénero Tienen Identidades tan Firmes como lxs Niñxs Cisgénero.](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).

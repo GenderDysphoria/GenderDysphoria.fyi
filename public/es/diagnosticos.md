@@ -7,8 +7,8 @@ preBody: '_declaracion'
 classes:
   - gdb
 siblings:
-  prev: /es/sindrome-del-impostor
-  prevCaption: Síndrome del impostor
+  prev: /es/soy-trans
+  prevCaption: ¿Soy Trans?
   next: /es/tratamiento
   nextCaption: Tratamiento de la disforia de género
 ---

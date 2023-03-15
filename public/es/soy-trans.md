@@ -1,13 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "¿Soy Trans?"
-linkTitle: "¿Soy-Trans?"
+linkTitle: "¿Soy- Trans?"
 description: "Una hoja de ruta para resolver la pregunta más difícil"
 siblings:
   prev: /es/sindrome-del-impostor.md
-  prevCaption: sindrome Del Impostor
+  prevCaption: Síndrome Del Impostor
   next: /es/diagnosticos
-  nextCaption: Diagnósticos clínicos
+  nextCaption: Diagnósticos Clínicos
 classes:
   - gdb
 preBody: '_declaracion'

@@ -78,7 +78,7 @@ Finalmente, otra estrategia de afrontamiento que es muy común, es encontrar med
 
 - Encadenarse con películas, series de televisión o libros.
 
-- Usar todo el tiempo de dispersión en videojuegos o redes sociales.
+- Usar todo el tiempo libre en videojuegos o redes sociales.
 
 - Limpieza obsesiva de los espacios.
 

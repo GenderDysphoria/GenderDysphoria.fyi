@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 lang: "es"
-title: "Tratando la disforia de género"
+title: "Tratamiento de la Disforia de Género"
 description: "La transición es la cura."
 preBody: '_declaracion'
 siblings:
   prev: /es/diagnosticos
-  prevCaption: Clinical Diagnoses
+  prevCaption: Diagnósticos Clínicos
   next: /es/causas
-  nextCaption: Causes of Gender Dysphoria
+  nextCaption: Causas de la Disforia de Género
 classes:
   - gdb
 ---
@@ -21,7 +21,7 @@ Las opciones de tratamiento varían significativamente dependiendo de las necesi
 
 En pocas palabras: salir del clóset. Se refiere simplemente a anunciarle al mundo que eres transgénero y que quieres utilizar un nuevo nombre y/o pronombres. O no: simplemente puedes desear que la gente sepa que eres trans y no te identificas con tu género binario asignado. Para algunas personas no binarias, esto puede ni siquiera ser un completo rompimiento con su género asignado, pues el género es un espectro y existen los hombres no binarios y las mujeres no binarias. 
 
-Transicionar socialmente es dar un paso fuera del clóset y puede aliviar mucho del estrés asociado a la supresión de uno/a mismo/a.
+Transicionar socialmente es dar un paso fuera del clóset y puede aliviar mucho del estrés asociado a la supresión de unx mismx.
 
 ## Transición Legal
 
@@ -35,17 +35,17 @@ Es el proceso de cambiar tus documentos legales para reflejar tu verdadero géne
 
 Para personas adultas esto implica terapia de reemplazo hormonal y cirugía. Para adolescentes implica el uso de bloqueadores hormonales hasta que tengan la edad suficiente para tener certeza de qué hormona sexual quieren tener. Para preadolescentes, no se hace absolutamente nada. es importante enfatizar este punto porque es algo en lo que la gente transfóbica se equivoca consistentemente.
 
-***LOS/AS NIÑOS/AS PREADOLESCENTES NO TRANSICIONAN MÉDICAMENTE***.
+***LXS NIÑXS PREADOLESCENTES NO TRANSICIONAN MÉDICAMENTE***.
 
-Si bien la Academia Americana de Pediatría [promueve fuertemente la validación y aceptación de las juventudes transgénero](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) y el acceso a todas las demás formas de transición, se opone explícitamente a l uso médico de terapia hormonal o bloqueadores hormonales antes de que el/la niño/a ha llegado a la [etapa 2 en la escala de Tanner](https://en.wikipedia.org/wiki/Tanner_scale).
+Si bien la Academia Americana de Pediatría [promueve fuertemente la validación y aceptación de las juventudes transgénero](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) y el acceso a todas las demás formas de transición, se opone explícitamente a l uso médico de terapia hormonal o bloqueadores hormonales antes de que unx niñx ha llegado a la [etapa 2 en la escala de Tanner](https://en.wikipedia.org/wiki/Tanner_scale).
 
-Además, ningún cirujano en los Estados Unidos llevará a cabo una cirugía de cambio de género en un menor (excluyendo las "correcciones" a pacientes intersexo, que son otro problema que rebasa el enfoque de este artículo). Muy pocos/as niños/as tienen características inherentes que se puedan asignar como masculinas o femeninas sin otras señales provenientes de la presentación. Permitir que un/a niño/a cambie su pelo y su ropa es todo lo que se necesita para que se le perciba como masculino o femenina.
+Además, ningún cirujano en los Estados Unidos llevará a cabo una cirugía de cambio de género en un menor (excluyendo las "correcciones" a pacientes intersexo, que son otro problema que rebasa el enfoque de este artículo). Muy pocxs niñxs tienen características inherentes que se puedan asignar como masculinas o femeninas sin otras señales provenientes de la presentación. Permitir que unx niñx cambie su pelo y su ropa es todo lo que se necesita para que se le perciba como masculino o femenina.
 
 ## Transición Hormonal 
 
 **Terapia Hormonal Trans-Masculina** (características sexuales femeninas a masculinas) consiste en la introducción de testosterona al cuerpo, normalmente vía inyecciones intramusculares o geles tópicos. El incremento en hormonas sexuales causa una interrupción de la ovulación, que es la fuente de la mayoría de los estrógenos que producen los ovarios. 
 
-**Terapia Hormonal Trans-Femenina** (características sexuales masculinas a femeninas) consiste en la introducción de estrógenos, típicamente estradiol, al cuerpo mediante píldoras orales, parches o inyecciones regulares (intramusculares o subcutáneas). El uso de implantes de liberación lenta se está volviendo más común también. A menudo también se receta un anti-andrógeno para bloquear la producción o la absorción de testosterona. Normalmente, en los Estados Unidos se receta espironolactona, un medicamento que regula la presión sanguínea que como efecto secundario bloquea la testosterona. Fuera de EE.UU., el medicamento más comúnmente utilizado es el Acetato de Ciproterona, un bloqueador de los receptores de andrógenos, que no está disponible en EE.UU. Los/as médicos también pueden recetar bicalutamida, que también bloquea los receptores de andrógenos. Sin embargo, la mayoría de ellos pueden optar por simplemente utilizar una dosis más alta de estradiol que cause que el cuerpo deje de producir testosterona. 
+**Terapia Hormonal Trans-Femenina** (características sexuales masculinas a femeninas) consiste en la introducción de estrógenos, típicamente estradiol, al cuerpo mediante píldoras orales, parches o inyecciones regulares (intramusculares o subcutáneas). El uso de implantes de liberación lenta se está volviendo más común también. A menudo también se receta un anti-andrógeno para bloquear la producción o la absorción de testosterona. Normalmente, en los Estados Unidos se receta espironolactona, un medicamento que regula la presión sanguínea que como efecto secundario bloquea la testosterona. Fuera de EE.UU., el medicamento más comúnmente utilizado es el Acetato de Ciproterona, un bloqueador de los receptores de andrógenos, que no está disponible en EE.UU. Lxs médicxs también pueden recetar bicalutamida, que también bloquea los receptores de andrógenos. Sin embargo, la mayoría de ellos pueden optar por simplemente utilizar una dosis más alta de estradiol que cause que el cuerpo deje de producir testosterona. 
 
 **En adolescentes**, el uso de bloqueo hormonal puede involucrar a los antiandrógenos ya mencionados o, si lo cubre el seguro, el uso de antigonadotropinas (medicamentos que bloquean las hormonas que causan la producción de estrógenos y andrógenos) como el acetato de leuprolida (una inyección cada pocos meses) o el acetato de histrelina (implante anual). 
 
