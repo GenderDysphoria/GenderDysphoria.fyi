@@ -34,7 +34,7 @@ Society in general is very good about making trans people doubt themselves. We r
 
 On top of this, messages saying that trans people hate their bodies or hate their genitalia have polluted the awareness landscape, so that many people who either do not experience physical dysphoria (or simply think theirs isn't very strong) go around believing they aren't "trans enough".
 
-***[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
+***[YES, YOU ARE TRANS ENOUGH](https://us.jkp.com/products/yes-you-are-trans-enough)***
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
