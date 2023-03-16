@@ -7,8 +7,8 @@ preBody: '_declaracion'
 siblings:
   prev: /es/disforia-sexual
   prevCaption: Disforia Sexual
-  next: /es/disforia-historica
-  nextCaption: Disforia Histórica
+  next: /es/disforia-existencial
+  nextCaption: Disforia Existencial
 classes:
   - gdb
 tweets:
