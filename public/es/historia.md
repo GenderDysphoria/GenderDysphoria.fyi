@@ -10,7 +10,7 @@ siblings:
   prev: /es/que-es-el-genero
   prevCaption: ¿Qué es el Género?
   next: /es/euforia
-  nextCaption: Euforia de Genero
+  nextCaption: Euforia de Género
 ---
 
 # Una Breve Historia de la Disforia de Género

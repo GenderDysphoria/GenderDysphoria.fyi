@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "es"
 title: "Segunda pubertad estrogénica 101"
 description: "Qué esperar de la THS feminizante"
 preBody: '_declaracion'
@@ -7,7 +8,7 @@ siblings:
   prev: /es/segunda-pubertad-masc
   prevCaption: Segunda pubertad androgénica
   next: /es/conclusion
-  nextCaption: Conclusion
+  nextCaption: Conclusión
 classes:
   - gdb
 ---
@@ -208,9 +209,9 @@ Algunas personas pierden incluso eso, y dejan de tener cualquier emisión durant
 
 No hace falta decir que esto conlleva la esterilidad. Al contrario de lo que informan algunas fuentes, esto NO es permanente, y muchas personas han sido capaces de restaurar la funcionalidad testicular mediante la interrupción de la terapia hormonal, ya sea para la detransición o con fines reproductivos.
 
-##### Testicle Atrophy
+##### Atrofia testicular
 
-Once the testes have stopped functioning, the cells start to atrophy, shrinking over time. This atrophy may be accompanied with pain, sometimes in the form of a soreness or a dull throbbing sensation, or sometimes as registering as little sparks of pain that travel along the perineal nerve from the testicles down to the rectum.
+Una vez que han dejado de funcionar los testículos, las células que los componen se empiezan a atrofiar, encogiéndose con el tiempo. Esta atrofia puede venir acompañada de dolor, a veces en la forma de sensibilidad o pulsaciones sordas, o a veces como pequeñas chispas de dolor que viajan por el nervio perineal desde los testículos al recto. 
 
 ### Cambios sexuales
 

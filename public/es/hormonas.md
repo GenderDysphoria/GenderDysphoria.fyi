@@ -5,8 +5,8 @@ linkTitle: "Cómo funcionan las hormonas"
 description: "No es nada parecido a los imanes."
 preBody: '_declaracion'
 siblings:
-  prev: /es/chromosomas
-  prevCaption: Chromosomas
+  prev: /es/cromosomas
+  prevCaption: Cromosomas
   next: /es/segunda-pubertad-masc
   nextCaption: Segunda pubertad androgénica
 classes:

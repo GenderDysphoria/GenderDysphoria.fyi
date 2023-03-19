@@ -7,8 +7,8 @@ preBody: '_declaracion'
 siblings:
   prev: /es/disforia-gestionada
   prevCaption: Disforia Gestionada
-  next: /es/diagnosticos
-  nextCaption: Diganósticos Clínicos
+  next: /es/soy-trans
+  nextCaption: ¿Soy Trans?
 classes:
   - gdb
 tweets:

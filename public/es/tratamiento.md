@@ -1,122 +1,122 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 lang: "es"
-title: "Treating Gender Dysphoria"
-description: "Transition is the cure."
+title: "Tratamiento de la Disforia de Género"
+description: "La transición es la cura."
 preBody: '_declaracion'
 siblings:
   prev: /es/diagnosticos
-  prevCaption: Clinical Diagnoses
+  prevCaption: Diagnósticos Clínicos
   next: /es/causas
-  nextCaption: Causes of Gender Dysphoria
+  nextCaption: Causas de la Disforia de Género
 classes:
   - gdb
 ---
 
-# How is Gender Dysphoria Treated?
+# ¿Cómo se Trata la Disforia de Género?
 
-Treatment options vary significantly depending on the individual person's needs. Every single transition is unique, and there is no one way to transition. This section is a list of possible pathways.
+Las opciones de tratamiento varían significativamente dependiendo de las necesidades individuales de cada persona. Cada transición es única y no existe una sola forma de transicionar. En esta sección se enlistan algunos caminos posibles.
 
-## Social Transition
+## Transición Social
 
-In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender and that you wish to use a new name and/or new pronouns. Or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
+En pocas palabras: salir del clóset. Se refiere simplemente a anunciarle al mundo que eres transgénero y que quieres utilizar un nuevo nombre y/o pronombres. O no: simplemente puedes desear que la gente sepa que eres trans y no te identificas con tu género binario asignado. Para algunas personas no binarias, esto puede ni siquiera ser un completo rompimiento con su género asignado, pues el género es un espectro y existen los hombres no binarios y las mujeres no binarias. 
 
-A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones self.
+Transicionar socialmente es dar un paso fuera del clóset y puede aliviar mucho del estrés asociado a la supresión de unx mismx.
 
-## Legal Transition
+## Transición Legal
 
-This is the process of changing your legal documents to reflect your true gender. This may be through a legal name and gender change issued by a court, through a change of gender marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
+Es el proceso de cambiar tus documentos legales para reflejar tu verdadero género. Esto puede hacerse mediante un cambio legal de nombre y género ante una corte, el cambio de los marcadores de género en identificaciones oficiales o la emisión de nuevas actas de nacimiento y matrimonio. 
 
-## Presentational Transition
+## Transición Presentacional
 
-These are changes to how you style yourself, be it your clothes, your hair, or the use of makeup. Our society heavily genders all of these things, and switching presentation is both affirming to one's self and also sends cues to those around them about how they wish to be addressed.
+Éstos son cambios en cómo te arreglas, sea en tu ropa, tu pelo o con el uso de maquillaje. Nuestra sociedad asigna géneros dependiendo de todos estos elementos, por lo que cambiar tu presentación es una forma tanto de afirmar tu género como de dar señales al resto de la gente sobre cómo quieres que se dirijan a ti. 
 
-## Medical Transition
+## Transición Médica
 
-For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For pre-pubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
+Para personas adultas esto implica terapia de reemplazo hormonal y cirugía. Para adolescentes implica el uso de bloqueadores hormonales hasta que tengan la edad suficiente para tener certeza de qué hormona sexual quieren tener. Para preadolescentes, no se hace absolutamente nada. es importante enfatizar este punto porque es algo en lo que la gente transfóbica se equivoca consistentemente.
 
-***PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION***.
+***LXS NIÑXS PREADOLESCENTES NO TRANSICIONAN MÉDICAMENTE***.
 
-While the American Academy of Pediatrics [strongly encourages the validation and acceptance of transgender youth](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf), and the enabling of all other forms of transition, they explicitly do not support doctors beginning either hormone therapy or puberty blockers until a child has reached [Tanner stage 2](https://en.wikipedia.org/wiki/Tanner_scale).
+Si bien la Academia Americana de Pediatría [promueve fuertemente la validación y aceptación de las juventudes transgénero](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) y el acceso a todas las demás formas de transición, se opone explícitamente a l uso médico de terapia hormonal o bloqueadores hormonales antes de que unx niñx ha llegado a la [etapa 2 en la escala de Tanner](https://en.wikipedia.org/wiki/Tanner_scale).
 
-Furthermore, no surgeon in the United States will perform a gender altering surgery on a minor (excluding intersex "corrections", which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
+Además, ningún cirujano en los Estados Unidos llevará a cabo una cirugía de cambio de género en un menor (excluyendo las "correcciones" a pacientes intersexo, que son otro problema que rebasa el enfoque de este artículo). Muy pocxs niñxs tienen características inherentes que se puedan asignar como masculinas o femeninas sin otras señales provenientes de la presentación. Permitir que unx niñx cambie su pelo y su ropa es todo lo que se necesita para que se le perciba como masculino o femenina.
 
-## Hormonal Transition
+## Transición Hormonal 
 
-**Trans Masculine Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
+**Terapia Hormonal Trans-Masculina** (características sexuales femeninas a masculinas) consiste en la introducción de testosterona al cuerpo, normalmente vía inyecciones intramusculares o geles tópicos. El incremento en hormonas sexuales causa una interrupción de la ovulación, que es la fuente de la mayoría de los estrógenos que producen los ovarios. 
 
-**Trans Feminine Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolacotone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**Terapia Hormonal Trans-Femenina** (características sexuales masculinas a femeninas) consiste en la introducción de estrógenos, típicamente estradiol, al cuerpo mediante píldoras orales, parches o inyecciones regulares (intramusculares o subcutáneas). El uso de implantes de liberación lenta se está volviendo más común también. A menudo también se receta un anti-andrógeno para bloquear la producción o la absorción de testosterona. Normalmente, en los Estados Unidos se receta espironolactona, un medicamento que regula la presión sanguínea que como efecto secundario bloquea la testosterona. Fuera de EE.UU., el medicamento más comúnmente utilizado es el Acetato de Ciproterona, un bloqueador de los receptores de andrógenos, que no está disponible en EE.UU. Lxs médicxs también pueden recetar bicalutamida, que también bloquea los receptores de andrógenos. Sin embargo, la mayoría de ellos pueden optar por simplemente utilizar una dosis más alta de estradiol que cause que el cuerpo deje de producir testosterona. 
 
-**In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
+**En adolescentes**, el uso de bloqueo hormonal puede involucrar a los antiandrógenos ya mencionados o, si lo cubre el seguro, el uso de antigonadotropinas (medicamentos que bloquean las hormonas que causan la producción de estrógenos y andrógenos) como el acetato de leuprolida (una inyección cada pocos meses) o el acetato de histrelina (implante anual). 
 
-## Surgical Transition
+## Transición Quirúrgica
 
-Transgender surgeries are typically divided into three separate categories:
+Las cirugías transgénero se dividen típicamente en tres categorías:
 
-**Bottom Surgery** (modifications to genitals).
+**Reconstrucción Genital** 
 
-- Trans Feminine:
+- Trans-Femenina:
 
-  - Orchiectomy (removal of the testicles)
-  - Scrotectomy (removal of scrotal tissue, following orchiectomy)
-  - Vaginoplasty (creation of a vaginal cavity)
-  - Vulvaplasty (creation of a vulva, with or without depth).
+  - Orquiectomía (retiro de los testículos)
+  - Escrotectomía (retiro de tejido escrotal después de una orquiectomía)
+  - Vaginoplastia (creación de una cavidad vaginal)
+  - Vulvoplastia (creación de una vulva, con o sin profundidad).
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Para tu información</h4> }!}
 
-A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
+Un área en desarrollo de la reconstrucción genital son cirugías en personas no binarias nacidas con genitales masculinos que buscan realizar una vaginoplastia *sin* el retiro del pene. Esta cirugía es muy experimental y se ha llevado a cabo menos de una docena de veces en los EE.UU., pero tiene potencial a futuro. 
 
 {!{ </div></div></div> }!}
 
-- Trans Masculine:
+- Trans-Masculina:
 
-  - Hysterectomy (removal of uterus and cervix)
-  - Oophorectomy (removal of one or both ovaries)
-  - Vaginectomy (removal of vaginal cavity)
-  - Metoidioplasty (a process which increases the size of the clitorus into a penis)
-  - Phalloplasty (construction of a penis from skin grafting)
-  - Urethroplasty (extension of the urethral canal through the phallus)
-  - Scrotoplasty (use of labia majora and false testicles to construct a scrotum).
+  - Histerectomía (retiro del útero y el cérvix)
+  - Ovariectomía (retiro de uno o ambos ovarios)
+  - Vaginectomía (retiro de la cavidad vaginal)
+  - Metoidioplastia (proceso que incrementa el tamaño del clítoris para formar un pene)
+  - Faloplastia (construcción de un pene a partir de implantes de piel)
+  - Uretroplastia (extensión de la uretra a través del falo)
+  - Escrotoplastia (uso de los labios mayores y testículos falsos para construir un escroto).
 
-**Top Surgery** (modifications to the chest)
+**Reconstrucción de Pecho**
 
-- Trans Feminine:
+- Trans-Femenina:
   
-  - Breast Augmentation via fat transfer or implants.
+  - Aumento de busto mediante transferencia de tejido adiposo o implantes.
 
-- Trans Masculine:
+- Trans-Masculina:
 
-  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
+  - Mastectomía bilateral (retiro del tejido mamario) con reconstrucción de pecho.
 
-**Facial Feminizing / Masculinizing Surgery** (modifications to the skull, cartilage and skin on the face).
+**Cirugía de Masculinización / Feminización Facial** (modificaciones al cráneo y al cartílago y piel de la cara).
 
-  The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
+  Cuanto más joven sea una persona, menor será la necesidad de estas cirugías, especialmente si transicionan médicamente antes de los cumplir 20 años.
 
-- Trans Feminine:
+- Trans-Femenina:
 
-  - Forehead recontouring
-  - Eye socket recontouring
-  - Brow lift
-  - Hairline correction
-  - Blepharoplasty (lifting of eye bags)
-  - Rhinoplasty (reshaping of the nose)
-  - Cheek implants
-  - Lip lift
-  - Lip filling
-  - Jaw recontouring
-  - Tracheal shave (adam's apple reduction)
-  - Rhytidectomy (face lift)
+  - Recontorneado de la frente
+  - Recontorneado de las órbitas
+  - Levantamiento de cejas
+  - Corrección de la línea de pelo
+  - Blefaroplastia (levantamiento de párpados)
+  - Rinoplastia (remodelación de la nariz)
+  - Implantes de cachete
+  - Levantamiento de labios
+  - Llenado de labios
+  - Recontorneado de la mandíbula
+  - Condrolaringoplastia (reducción del cartílago de la tiroides)
+  - Ritidectomía (levantamiento facial)
 
-- Trans Masculine:
+- Trans-Masculina:
 
-  - Forehead augmentation
-  - Jaw augmentation
-  - Chin augmentation
-  - Tracheal augmentation (adam's apple enlargement)
+  - Aumento de la frente
+  - Aumento de la mandíbula
+  - Aumento de la barbilla
+  - Aumento traqueal (aumento del cartílago de la tiroides)
 
-Other Trans Feminine Surgeries:
+Otras cirugías trans-femeninas:
 
-- Brazilian Butt Lift. Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
-- Voice Feminisation Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
-- Cinderella Surgery. Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
-- Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
+- Levantamiento de Glúteos Brasileño. Se trasplanta tejido adiposo del abdomen al trasero para incrementar la razón cadera-cintura. 
+- Cirugía de Feminización de la Voz. Se realiza una incisión en las cuerdas vocales para incrementar permanentemente el tono de la voz.
+- "Cirugía de Cenicienta". Se acortan los huesos del pie para reducir la talla de zapato. MUY RIESGOSA
+- Reducción de Hombros. Se acorta la clavícula para reducir el ancho de los hombros. MUY RIESGOSA

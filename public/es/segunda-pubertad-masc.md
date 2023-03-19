@@ -1,13 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Androgenic Second Puberty 101"
-description: "What to expect from masculinizing HRT"
+lang: "es"
+title: "Segunda pubertad androgénica 101"
+description: "Qué esperar de la THS masculinizante"
 preBody: '_declaracion'
 siblings:
   prev: /es/hormonas
-  prevCaption: How Hormones Work
+  prevCaption: Cómo Funcionan las Hormonas
   next: /es/segunda-pubertad-fem
-  nextCaption: Estrogenic Second Puberty
+  nextCaption: Segunda Pubertad Estrogénica
 classes:
   - gdb
 
@@ -24,129 +25,129 @@ tweets:
   - '1374070062236246022'
 ---
 
-# Androgenic Second Puberty 101
+# Segunda pubertad androgénica 101
 
-## What to expect from Masculinizing HRT
+## Qué esperar de la THS masculinizante
 
-This is a compilation of reported medical transition changes collected from testimonials of AFAB trans people taking testosterone hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+Ésta es una recopilación de cambios durante la transición médica reportados en testimonios de personas trans AFAN que toman terapia hormonal de testosterona. Esta información ha sido recolectada de redes sociales y grupos de chat. Sí, significa que es toda anecdótica pero, históricamente, la mayoría de los estudios médicos sobre personas transgénero son anecdóticos porque nadie quiere financiar la investigación médica trans.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
+**Nótese que ésta es una lista de cambios _posibles_. No hay garantía alguna de que toda persona bajo THS masculinizante experimentará todos los cambios mencionados. Muchos factores, incluyendo tu edad, genética, historial médico, grado de feminización de la pubertad natal y régimen hormonal, tienen impactos sobre los resultados. También hay un cierto grado de azar -- cada cuerpo es distinto -- y algunas cosas pueden tardar años en suceder.**
 
-### Voice Drop
+### Cambio de Voz
 
-Androgens cause the tissue that comprises the vocal chords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic, if you are a soprano you are not going to become a bass, but it could bring you down to a contralto or tenor.
+Los andrógenos causan que el tejido que constituye las cuerdas vocales se engrose y endurezca, reduciendo el tono de la voz permanentemente. Este cambio no es particularmente rápido, pero es incremental a lo largo de los primeros años. Algunas personas no sufren cambio alguno: varía de persona en persona. El cambio no será drástico: si tu voz es soprano no te convertirás en un bajo, pero podrías llegar a un contralto o un tenor. 
 
-This does *not* mean that your voice will automatically become read as male. Pitch is only a piece of how people gender voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
+Esto *no* significa que tu voz se volverá automáticamente masculina para otrxs. El tono es sólo una parte de cómo asignamos género a la voz, y el modo en que hablas juega un rol mucho más importante. El entrenamiento de voz es necesario para amplificar la resonancia y cambiar el estilo del habla.
 
-### Changes in Body Temperature Placement
+### Cambios en Dónde se Percibe el Calor Corporal
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Androgens encourage extra blood flow to the extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase.  The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
+Los andrógenos promueven el flujo sanguíneo a las extremidades, haciéndolas más calientes. Por ello, los hombres tienen temperaturas en el núcleo más bajas pero temperaturas orales y superficiales más altas. Puede que veas que la temperatura basal de tu cuerpo se incremente. El resultado neto es que te *sentirás* más caliente, y probablemente no puedas ponerte tantas capas de ropa como lo hacías. Si vives en climas fríos, el exponer tus pantorrillas puede ayudar a disipar calor sin enfriarte de manera severa. 
 
-This change often comes fairly early on; expect night sweats while your system gets used to it.
+Este cambio a menudo sucede relativamente temprano; puedes experimentar sudores nocturnos mientras tu cuerpo se acostumbra. 
 
-### Changes in Perspiration
+### Cambios en la Sudoración
 
-With the above shift in temperature distribution, this also results in a significant change in how one sweats. Sweat will pool on the head, back and armpits. You'll also likely sweat more often, so keep water handy.
+Con el cambio mencionado en la distribución del calor, también vienen cambios significativos en cómo sudas. El sudor se concentrará en la cabeza, la espalda y las axilas. También sudarás más seguido, por lo que debes tener agua a la mano. 
 
-### Body Odor
+### Olor corporal
 
-Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
+A menudo es una de las primeras cosas que cambian: el olor del sudor y del cuerpo en general se intensifica, especialmente durante el ejercicio. El olor toma una nota ácida y almizclada. Tiende a normalizarse con el tiempo. 
 
-### Body Hair, Everywhere
+### Vello Corporal por Todos Lados
 
-Androgens significantly increase the presence of body hair on the legs, groin, buttocks, chest, back and arms. Hair will grow in thicker, longer and darker. This will likely happen well before facial hair growth, which can take over a year to start. Rogaine / Monoxidil can help with that, but be careful as it is poisonous if ingested, especially to cats.
+Los andrógenos incrementan significativamente la presencia de vello corporal en las piernas, la entrepierna, las nalgas, el pecho, la espalda y los brazos. El pelo crecerá más grueso, largo y obscuro. Esto sucederá, probablemente, mucho antes de que haya crecimiento de vello facial, que puede tardar más de un año en iniciar. Productos como Rogaine/Monoxidil pueden ayudar, pero se debe tener cuidado pues son tóxicos si se ingieren, en especial para los gatos. 
 
-### Male Pattern Baldness
+### Calvicie de Patrón Masculino
 
-MPD is caused by [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), an androgen which metabolizes from Testosterone. Having more T in your body means more DHT can form, and the gene that contributes to MPD causes the hair follicles on the scalp to receive less blood, choking them out until the follicles die. There will likely be *some* loss of hair line eventually, no matter what, but if there is a history of baldness among the men in your family, then you can expect to see that as well. Again, Rogaine can help with this.
+La CPM es causada por la [Dihidrotestosterona](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), un andrógeno que se crea a partir del metabolismo de la testosterona. El tener más testosterona en tu cuerpo significa que se puede formar más DHT, y el gen que contribuye a la CPM causa que los folículos en el cuero cabelludo reciban menos flujo sanguíneo, asfixiándolos hasta que mueren. Es probable que haya *alguna* pérdida de la línea del pelo en algún momento, independientemente de todo, pero si existe historial de calvicie en los hombres de tu familia es muy probable que también la experimentes. De nuevo, el Rogaine puede ayudar.
 
-The synthetic androgen [Nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct Testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double-edged sword.
+El andrógeno sintético [Nandrolona](https://en.wikipedia.org/wiki/Nandrolone) no se metaboliza para formar DHT y puede ser una alternativa viable para reemplazar la testosterona si la pérdida de pelo es una preocupación. Sin embargo, la DHT es importante para el crecimiento genital, por lo que esto puede ser una espada de doble filo. 
 
-### Thicker and Oilier Skin
+### Piel Más Gruesa y Oleaginosa
 
-Testosterone promotes the thickening and toughening of the epidermis, causing skin to become coarser. As estrogen levels fall, the body will produce less collagen. This causes the skin to become tougher and drier (especially in the knees and elbows). Veins on the hands, arms, and legs may become more pronounced, but not varicose.
+La testosterona promueve el engrosamiento y endurecimiento de la epidermis, causando que la piel se vuelva más áspera. A medida que caen los niveles de estrógeno, el cuerpo produce menos colágeno. Esto causa a su vez que la piel se vuelva más dura y seca (especialmente en rodillas y codos). Las venas de las manos, brazos y piernas se pueden volver más visibles, pero no varicosas.
 
-Expect your face and scalp to become oilier. Acne is likely to be a problem, and not just on the face. This tends to be worst immediately after dosing. This will generally improve after the first few years.
+Tu cara y cuero cabelludo se volverán más grasos. El acné será un problema, probablemente, y no sólo en tu cara. Esto tiende a ser más notorio inmediatamente después de una dosis. Generalmente deja de ser un problema después de unos pocos años.
 
-### Larger Hands / Feet
+### Pies/Manos Más Grandes
 
-Over long periods of time (3-5 years) the hands may become tougher and more calloused. You may need to increase your ring size eventually.
+En escalas grandes de tiempo (3-5 años), las manos se pueden volver más duras y callosas. Puede que necesites incrementar el tamaño de tus anillos en algún momento.
 
-Testosterone also causes ligaments and tendons to retain more water, altering their flexibility. Over time this can result in an increase in foot size as the arch of the foot lowers.
+La testosterona también causa que los ligamentos y tendones retengan más agua, alterando su flexibilidad. Esto puede causar un incremento en el tamaño de tus pies a medida que el arco baja. 
 
-### Thicker and Stronger Nails
+### Uñas más gruesas y duras
 
-Both fingernails and toenails will grow thicker over time as keratin levels rise due to the presence of androgens.
+Las uñas de manos y pies se volverán más gruesas con el tiempo a medida que el nivel de queratina se incrementa con la presencia de los andrógenos.
 
-### Increased Muscle Mass
+### Incremento en la Masa Muscular
 
-Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst body builders. The body will naturally gain more muscle without even having to exercise, but *with* exercise there can be substantial gains, particularly in the arms and shoulders. Beware, you won't know your own strength at first.
+Los andrógenos estimulan el crecimiento de los músculos, razón por la cual es tan común el uso de los esteroides anabólicos (literalmente testosterona) entre los fisicoculturistas. El cuerpo ganará más masa muscular naturalmente inclusive sin ejercicio, pero las ganancias *con* ejercicio pueden ser substanciales, en particular en los brazos y hombros. Cuidado: puede que no midas tu propia fuerza en un principio.
 
-Added lean muscle in the upper body redefines the shoulder and neck line, creating a more masculine silhouette. It also improves the body's ability to process lipids, making weight loss easier.
+La masa muscular añadida en la parte superior del cuerpo redefine la línea de los hombros y el cuello, creando una silueta más masculina. También se mejora la habilidad del cuerpo de procesar los lípidos, haciendo más fácil el perder peso.
 
-### Fat Redistribution
+### Redistribución de Grasa Corporal
 
-Where estrogen encourages the body to deposit fats into the thighs, buttocks, and hips, androgens encourage the body to deposit fats largely into the abdomen. Starting testosterone will encourage your body to follow the androgen pattern, so you can expect new weight to deposit into your belly, while weight loss will take away from all over. Fat in the breasts, thighs and buttocks will slowly shift away as muscle builds, but this may take a long time.
+Mientras que el estrógeno promueve el depósito de grasa en muslos, nalgas y caderas, los andrógenos promueven que la grasa se deposite principalmente en el abdomen. La testosterona hará que tu cuerpo siga el patrón androgénico, por lo que el peso que ganes se depositará principalmente en la panza, mientras que la pérdida de peso consumirá grasa de todo el cuerpo. La grasa en los pechos, muslos y nalga se irá lentamente a medida que se gana músculo, pero esto puede tomar un largo tiempo. 
 
-### Facial Feature Changes
+### Cambios en las Características Faciales
 
-Along with body fat migration, fat in the face also moves. The neck, chin and jaw line will fill out while the lips and upper cheeks shrink. The color of the eyes may also change and become fainter in the long term, as testosterone causes the pigmentation in the iris to fade.
+Al igual que la grasa en el cuerpo migra, la grasa en la cara también se redistribuye. El cuello, la barbilla y la mandíbula se rellenarán, mientras que los labios y la parte superior de los cachetes se encogerán. El color de los ojos también puede cambiar y volverse más opaco a largo plazo, ya que la testosterona causa que la pigmentación del iris se apague.
 
-This is and extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. The greatest shifts seem to happen in years 3 and 4. Take selfies to compare.
+Esto es un proceso extremadamente sutil y lento que toma años, y es fácil pensar que nada está sucediendo. Los cambios más grandes suceden, al parecer, en los años 3 y 4 de la transición. Toma selfies para comparar.
 
 
-### Increased Tolerance of Caffeine, Alcohol, and/or Psychotropics
+### Mayor Tolerancia al Alcohol, la Cafeína y Psicotrópicos
 
-More mass means more blood to dilute chemicals into. Increasing testosterone also means a higher metabolic rate, increasing the speed at which toxins are removed from the blood stream.
+Más masa significa que hay más sangre para diluir químicos. El incremento en la testosterona también causa una mayor tasa metabólica, incrementando la tasa a la que se remueven toxinas del torrente sanguíneo.
 
-### Mental Changes
+### Cambios Mentales
 
-As covered in the [Biochemical Dysphoria]() section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
+Como se comentó en la sección sobre la [Disforia Bioquímica](/es/disforia-bioquimica), los cerebros pueden estar construidos para un cierto perfil hormonal, por lo que trabajar bajo un perfil distinto es como usar una computadora con las baterías bajas o el procesador sobrecalentado. El iniciar la THS detiene los síntomas de despersonalización y desrealización (DPDR) casi universalmente durante las primeras dos semanas. Esta neblina mental desaparece y se hace más fácil concentrarse en conceptos complejos (suponiendo que no haya otras condiciones como TDAH que dificulten el procesamiento cognitivo). 
 
-##### ADHD
+##### TDAH
 
-If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so increasing testosterone can improve the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. More working memory means you may become less prone to distractions and have an easier time maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+Si padeces de TDAH, puedes experimentar algunos cambios en tus síntomas. Los andrógenos amplifican la función de los receptores de [dopamina](https://en.wikipedia.org/wiki/Dopamine), por lo que un incremento en la testosterona puede modular el potencial de activación de la dopamina en el cerebro. La dopamina es un neurotransmisor clave para el comportamiento de la [memoria de trabajo](https://en.wikipedia.org/wiki/Working_memory), la memoria a corto plazo del cerebro. Más memoria de trabajo significa que eres menos propenso a distraerte y puedes mantener más fácilmente la [carga cognitiva](https://en.wikipedia.org/wiki/Cognitive_load).
 
-*However*, estradiol encourages the production of dopamine, so as estrogen levels fall there will be less dopamine for the brain to work with. Your symptoms worsen, not improve.
+*Sin embargo*, el estradiol promueve la producción de dopamina, así que a medida que caen los niveles de estrógenos el cerebro tendrá menos dopamina para funcionar. Tus síntomas empeoran, no mejoran. 
 
-##### Emotional Expansion
+##### Expansión Emocional
 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.*
+El alivio de la DPDR viene acompañado casi universalmente de una capacidad más amplia de sentir y regular emociones. Las emociones se vuelven más controlables y reprimibles, y es menos probable que te abrumen en el momento. *Nótese: el reprimir emociones es una forma muy eficiente de desarrollar traumas.*
 
-However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain become more acclimated and you come out of second puberty.
+No obstante, la habilidad de expresarlas puede reducirse. Algunas personas pierden la capacidad de llorar después de iniciar el tratamiento con testosterona, pero esto *no* es una experiencia universal y puede estar ligado a la dosis te testosterona. Las razones detrás de esto no están del todo claras, pero se ha visto en algunos estudios que los andrógenos alteran la función de partes del cerebro conectadas al procesamiento emocional. Si efectivamente pierdes la capacidad de llorar, puede regresar con el tiempo a medida que el cerebro se aclimata y termina tu segunda pubertad.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
   '1374070062236246022'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Emotional dis-regulation occurs the most commonly before and immediately after dosing (injections or gel) and results in reduced patience, increased aggression.
+La desregulación emocional ocurre comúnmente antes e inmediatamente desués de una dosis (inyecciones o gel) y se manifiesta como poca paciencia y mayor agresión.
 
-##### Increased Appetite / Eating Capacity
+##### Mayor Apetito / Capacidad de Comer
 
-You are going to be hungry. Testosterone cranks the body's metabolism up significantly, and increased muscle mass means there is more to feed, so you will burn calories faster.
+Te va a dar hambre. La testosterona incrementa significativamente el metabolismo del cuerpo y la masa muscular adicional significa que hay más masa que alimentar, por lo que quemas calorías más rápidamente.
 
-##### Sleep
+##### Sueño
 
-Some people report problems with insomnia and having fewer memorable dreams. This is far from a universal, however.
+Algunas personas reportan problemas de insomnio y el tener menos sueños memorables. Cabe aclarar que esto no es de ningún modo universal.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-##### Confidence
+##### Confianza
 
-Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone spark arguments, and more willing to speak out in the face of conflict and self advocate. This does *not* mean more hostile or argumentative, simply that ones tolerance for bullshit is lower.
+La testosterona es conocida por producir una fuerte sensación de confianza en unx mismx en las personas. Los problemas parecen menos significativos, la autoestima es más fuerte, hay menos preocupaciones. Muchas personas reportan una tendencia mayor a iniciar peleas y a intervenir en conflictos o para defenderse. Esto *no* significa que sean más hostiles o argumentativas, simplemente que tienen menor tolerancia a las tonterías.
 
-##### Extroversion
+##### Extroversión
 
-It's extremely common for trans people of all types to find themselves much more sociable post-transition. This may simply be a result of no longer having to suppress large portions of their personality, but the aforementioned confidence also plays a role.
+Es extremadamente común que la gente trans de todos tipos se sienta mucho más sociable después de su transición. Esto puede ser resultado de ya no tener que reprimir grandes partes de su personalidad, pero puede que la confianza ya mencionada también juegue un rol.
 
-### Genital Changes
+### Cambios Genitales
 
 {!{
 <div class="gutter flex flex-center">
@@ -154,58 +155,58 @@ It's extremely common for trans people of all types to find themselves much more
 </div>
 }!}
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
+Todos los genitales se construyen con los mismos tejidos, y simplemente se organizan de manera diferente durante la gestación. Mucho del comportamiento de estos tejidos es regulado por las hormonas que dominan en el cuerpo. Las secreciones de la piel, las texturas, la sensibilidad y el comportamiento eréctil son todas expresiones hormonales. Esto significa que cuando se introducen andrógenos, estos tejidos empiezan a actuar como si tuvieran la forma de un pene y un escroto, inclusive cuando no la tienen.
 
-##### Bottom Growth
+##### Crecimiento Genital
 
-DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene's Gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
+La DHT (ver arriba) juega un papel crítico en el desarrollo del tejido eréctil dentro de los genitales. A medida que los niveles de DHT se elevan con el incremento en la testosterona, esto causa que la glándula de Skene (a veces apodada la próstata femenina) se inflame. Esto produce erecciones aleatorias en el clítoris, que a su vez causan que el tejido eréctil crezca. La cantidad de crecimiento varía de persona a persona, pero es común que alcance de 2.5 a 7.5 cm.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+El prepucio del clítoris y los labios se vuelven más secos y gruesos con el tiempo, y puede que crezca pelo sobre los labios menores. La lubricación puede reducirse substancialmente y puede que con el tiempo se vuelva dolorosa la penetración. Utiliza más lubricante para evitar heridas y sangrado.
 
 {!{ {{import '~/tweet' ids=[
   '1431244822044622848'
   '1431244926214356993'
 ] tweets=meta.tweets className="grid-row" }} }!}
 
-##### Increased Emissions During Climax
+##### Mayores Secreciones durante el Orgasmo
 
-With the swelling of the prostate comes more prostate fluid. If you weren't a squirter before, you may become one now.
+Con la inflamación de la próstata se incrementa el fluido que produce. Si antes no eyaculabas, puede que ahora lo hagas.
 
-##### Changes in Sensitivity and Response
+##### Cambios en la Sensibilidad y la Respuesta a Estímulos
 
-Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft.
+La estimulación erótica puede concentrarse más en la cabeza del clítoris y en acariciar su base.
 
-##### Atrophy
+##### Atrofia
 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+La atrofia vaginal y uretral sucede comúnmente dentro de los primeros cinco años, y se puede volver necesaria una histerectomía. Los síntomas de la atrofia incluyen una pulsación profunda en el abdomen bajo y cólicos dolorosos sin otros síntomas de la menstruación, en particular después de un encuentro sexual. La atrofia vaginal puede evitarse mediante el uso de los mismos dilatadores vaginales que utilizan las personas trans AMAN después de una vaginoplastia.
 
-##### Increased Sex Drive
+##### Mayor Deseo Sexual
 
 {!{ <div class="gutter flex flex-end">{{import '~/tweet' ids=[
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Libido will almost certainly go through the roof for the first year or two, the strongest immediately following dosing. May find yourself more assertive during sex and more prone to being dominant and/or a top.
+Es casi seguro que la libido aumentará enormemente durante el primer año o dos, en especial después de cada dosis. Puede que te vuelvas más asertivx durante el sexo o más proclive a ser dominante/top.
 
-##### Orgasm
+##### Orgasmo
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374053191445270534'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The "shape" of ones orgasm can change. Rather than a cascade, it strikes like an explosion from the groin.
+La "forma" de tus orgasmos puede cambiar. Más que una cascada, se siente como una explosión originada en la entrepierna.
 
-##### Attraction
+##### Atracción
 
-Testosterone has been shown to increase arousal from visual stimuli. As such, you may *notice* people of your sexual preference much quicker, especially if you are gynephilic (attracted to the feminine shape).
+Se ha demostrado que la testosterona incrementa la excitación derivada de estímulos visuales. Entonces, puede que *notes* a las personas de tu preferencia sexual mucho más rápido, en especial si eres ginefílicx (te atrae la forma femenina).
 
-### Cessation of Menstruation
+### Suspensión de la Menstruación
 
-The increase of androgens within the body causes the hypothalamus to down-regulate production of the hormones which control the ovaries. This will reduce total estrogen available, and may halt ovulation. Without ovulation and with lower FSH levels, the uterus will be less inclined to build up and release a lining, causing the cessation of blood flow.
+El incremento de andrógenos en el cuerpo causa que el hipotálamo regule negativamente la producción de las hormonas que controlan los ovarios. Esto reducirá el estrógeno total disponible, y puede detener la ovulación. Sin ovulación y con niveles más bajos de HFE, el útero será menos propenso a producir y liberar su recubrimiento, causando que se suspenda el flujo de sangre.
 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
@@ -213,7 +214,6 @@ The increase of androgens within the body causes the hypothalamus to down-regula
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
 
-You may still experience other period symptoms, however, as the hypothalamus can continue to express other aspects of the monthly cycle. This can even continue following a total hysterectomy, although it is not common.
+Puede que sufras otros síntomas de la menstruación de todos modos, pues el hipotálamo puede seguir expresando otros aspectos del ciclo mensual. Esto puede continuar inclusive después de una histerectomía, aunque no es común.
 
-**This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up, they do not die.
-
+**Sin embargo, esto *no* significa que seas infértil.** La ovulación puede ocurrir incluso si no menstrúas. Además, el interrumpir la toma de testosterona puede despertar a los ovarios: no están muertos.

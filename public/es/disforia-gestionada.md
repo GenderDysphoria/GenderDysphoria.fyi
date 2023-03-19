@@ -5,8 +5,8 @@ title: "Disforia Gestionada: Disforia disfrazada"
 description: "No me arrepiento de las cosas que he hecho, I regret the things I didn't do when I had the chance."
 preBody: '_declaracion'
 siblings:
-  prev: /es/disforia-historica
-  prevCaption: Disforia Histórica
+  prev: /es/disforia-existencial
+  prevCaption: Disforia Existencial
   next: /es/sindrome-del-impostor
   nextCaption: Síndrome del Impostor
 classes:
@@ -53,7 +53,7 @@ Debido a todo el abuso que se vierte sobre niñxs que no se acomodan a su géner
 
 - Adquirir destreza con el maquillaje para perfeccionar un aspecto muy femenino.
 
-- Presentarse de forma extremadamente masculina o hiper femenina.
+- Presentarse de forma extremadamente masculina o hiperfemenina.
 
 - Evitar cualquier conversación sobre moda para cualquier género. Disociarse cada que ocurren actividades o conversaciones relacionadas a la moda.
 
@@ -78,7 +78,7 @@ Finalmente, otra estrategia de afrontamiento que es muy común, es encontrar med
 
 - Encadenarse con películas, series de televisión o libros.
 
-- Usar todo el tiempo de dispersión en videojuegos o redes sociales.
+- Usar todo el tiempo libre en videojuegos o redes sociales.
 
 - Limpieza obsesiva de los espacios.
 

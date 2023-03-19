@@ -1,4 +1,4 @@
----
+---   
 fecha: "2020-01-26T20:41:55.827Z"
 lang: "es"
 title: "La Biblia de la Disforia de Género"
@@ -14,7 +14,63 @@ siblings:
 
 {!{
 {{import '~/img' images.titlecard srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px" alt="La Biblia de la Disforia de Género" style="margin-bottom: 1em;"}}
-<div class="gutter"><blockquote>
+}!}
+### Table of Contents:
+
+{!{ <div class="two-column-list"> }!}
+
+1. [Introducción](/es/index)
+
+2. [¿Qué es el Género?](/es/que-es-el-genero)
+
+3. [La Historia de la Disforia de Género](/es/historia)
+
+4. [Euforia de Género](/es/euforia)
+
+5. [Disforia Física](/es/disforia-fisica)
+
+6. [Disforia Bioquímica](/es/disforia-bioquimica)
+
+7. [Disforia Social](/es/disforia-social)
+
+8. [Disforia Societal](/es/disforia-societal)
+
+9. [Disforia Sexual](/es/disforia-sexual)
+
+10. [Disforia de Presentación](/es/disforia-de-presentacion)
+
+11. [Disforia Histórica](/es/disforia-historica)
+
+12. [Disforia Gestionada](/es/disforia-gestionada)
+
+13. [Síndrome del Impostor](/es/sindrome-del-impostor)
+
+14. [¿Soy Trans?](/es/soy-trans)
+
+15. [Diagnósticos Clínicos](/es/diagnosticos)
+
+16. [Tratando la Disforia de Género](/es/tratamiennto)
+
+17. [Causas de la Disforia de Género](/es/causas)
+
+18. [Cromosomas](/es/cromosomas)
+
+19. [Cómo Funcionan las Hormonas](/es/hormonas)
+
+20. [Intro. Segunda Pubertad Androgénica](/es/segunda_pubertad_masc)
+
+21. [Intro. Segunda Pubertad Estrogénica](/es/segunda_pubertad_fem)
+
+22. [Conclusión](/es/conclusion)
+
+{!{ </div> }!}
+
+<hr class="print-break-after print-hidden">
+
+## Introduction
+
+{!{
+  <div class="gutter"><blockquote>
   <strong>Trans·ge·ne·ro</strong> - <em>adjetivo</em><br>
   Denota o se relaciona a una persona cuyo sentido personal de identidad y género no corresponde con el sexo asignado al nacer.
 </blockquote></div>
