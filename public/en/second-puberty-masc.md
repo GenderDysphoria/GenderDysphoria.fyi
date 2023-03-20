@@ -27,15 +27,15 @@ tweets:
 
 # Androgenic Second Puberty 101
 
-## What to expect from Masculinizing HRT
+## What To Expect from Masculinizing HRT
 
 This is a compilation of reported medical transition changes collected from testimonials of AFAB trans people taking testosterone hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
+**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness — every body is different — and some things can take years to appear.**
 
 ### Voice Drop
 
-Androgens cause the tissue that comprises the vocal chords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic, if you are a soprano you are not going to become a bass, but it could bring you down to a contralto or tenor.
+Androgens cause the tissue that comprises the vocal cords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic; if you are a soprano, you are not going to become a bass, but it could bring you down to a contralto or tenor.
 
 This does *not* mean that your voice will automatically become read as male. Pitch is only a piece of how people gender voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
 
@@ -59,13 +59,13 @@ Often one of the first things to change: sweat and general body odor will become
 
 ### Body Hair, Everywhere
 
-Androgens significantly increase the presence of body hair on the legs, groin, buttocks, chest, back and arms. Hair will grow in thicker, longer and darker. This will likely happen well before facial hair growth, which can take over a year to start. Rogaine / Monoxidil can help with that, but be careful as it is poisonous if ingested, especially to cats.
+Androgens significantly increase the presence of body hair on the legs, groin, buttocks, chest, back, and arms. Hair will grow in thicker, longer, and darker. This will likely happen well before facial hair growth, which can take over a year to start. Rogaine/minoxidil can help with that, but be careful, as it is poisonous if ingested (especially to cats).
 
 ### Male Pattern Baldness
 
-MPD is caused by [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), an androgen which metabolizes from Testosterone. Having more T in your body means more DHT can form, and the gene that contributes to MPD causes the hair follicles on the scalp to receive less blood, choking them out until the follicles die. There will likely be *some* loss of hair line eventually, no matter what, but if there is a history of baldness among the men in your family, then you can expect to see that as well. Again, Rogaine can help with this.
+MPB is caused by [dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), an androgen which metabolizes from Testosterone. Having more T in your body means more DHT can form, and the gene that contributes to MPB causes the hair follicles on the scalp to receive less blood, choking them out until the follicles die. There will likely be *some* loss of hair line eventually, no matter what, but if there is a history of baldness among the men in your family, then you can expect to see that as well. Again, minoxidil can help with this.
 
-The synthetic androgen [Nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct Testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double-edged sword.
+The synthetic androgen [nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double-edged sword.
 
 ### Thicker and Oilier Skin
 
@@ -85,7 +85,7 @@ Both fingernails and toenails will grow thicker over time as keratin levels rise
 
 ### Increased Muscle Mass
 
-Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst body builders. The body will naturally gain more muscle without even having to exercise, but *with* exercise there can be substantial gains, particularly in the arms and shoulders. Beware, you won't know your own strength at first.
+Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst bodybuilders. The body will naturally gain more muscle without even having to exercise, but *with* exercise there can be substantial gains, particularly in the arms and shoulders. Beware; you won't know your own strength at first.
 
 Added lean muscle in the upper body redefines the shoulder and neck line, creating a more masculine silhouette. It also improves the body's ability to process lipids, making weight loss easier.
 
@@ -95,18 +95,17 @@ Where estrogen encourages the body to deposit fats into the thighs, buttocks, an
 
 ### Facial Feature Changes
 
-Along with body fat migration, fat in the face also moves. The neck, chin and jaw line will fill out while the lips and upper cheeks shrink. The color of the eyes may also change and become fainter in the long term, as testosterone causes the pigmentation in the iris to fade.
+Along with body fat migration, fat in the face also moves. The neck, chin and jawline will fill out while the lips and upper cheeks shrink. The color of the eyes may also change and become fainter in the long term, as testosterone causes the pigmentation in the iris to fade.
 
-This is and extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. The greatest shifts seem to happen in years 3 and 4. Take selfies to compare.
-
+This is an extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. The greatest shifts seem to happen in years 3 and 4. Take selfies to compare.
 
 ### Increased Tolerance of Caffeine, Alcohol, and/or Psychotropics
 
-More mass means more blood to dilute chemicals into. Increasing testosterone also means a higher metabolic rate, increasing the speed at which toxins are removed from the blood stream.
+More mass means more blood to dilute chemicals into. Increasing testosterone also means a higher metabolic rate, increasing the speed at which toxins are removed from the bloodstream.
 
 ### Mental Changes
 
-As covered in the [Biochemical Dysphoria]() section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
+As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
 
 ##### ADHD
 
@@ -118,14 +117,14 @@ If you have ADHD, there may be some changes in your symptoms. Androgens amplify 
 
 The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.*
 
-However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain become more acclimated and you come out of second puberty.
+However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
   '1374070062236246022'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Emotional dis-regulation occurs the most commonly before and immediately after dosing (injections or gel) and results in reduced patience, increased aggression.
+Emotional deregulation occurs the most commonly before and immediately after dosing (injections or gel) and results in reduced patience and increased aggression.
 
 ##### Increased Appetite / Eating Capacity
 
@@ -133,7 +132,7 @@ You are going to be hungry. Testosterone cranks the body's metabolism up signifi
 
 ##### Sleep
 
-Some people report problems with insomnia and having fewer memorable dreams. This is far from a universal, however.
+Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
@@ -141,7 +140,7 @@ Some people report problems with insomnia and having fewer memorable dreams. Thi
 
 ##### Confidence
 
-Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone spark arguments, and more willing to speak out in the face of conflict and self advocate. This does *not* mean more hostile or argumentative, simply that ones tolerance for bullshit is lower.
+Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone to spark arguments, and more willing to speak out in the face of conflict and self advocate. This does *not* mean more hostile or argumentative, but simply that one's tolerance for bullshit is lower.
 
 ##### Extroversion
 
@@ -155,11 +154,11 @@ It's extremely common for trans people of all types to find themselves much more
 </div>
 }!}
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
+All genitalia are constructed from the same tissues; they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones one's body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
 
 ##### Bottom Growth
 
-DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene's Gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
+DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
@@ -190,7 +189,7 @@ Vaginal and uterine atrophy often happens within the first five years, and a hys
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Libido will almost certainly go through the roof for the first year or two, the strongest immediately following dosing. May find yourself more assertive during sex and more prone to being dominant and/or a top.
+Libido will almost certainly go through the roof for the first year or two, with the strongest effects immediately following dosing. You may find yourself more assertive during sex and more prone to being dominant and/or a top.
 
 ##### Orgasm
 
@@ -198,7 +197,7 @@ Libido will almost certainly go through the roof for the first year or two, the 
   '1374053191445270534'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The "shape" of ones orgasm can change. Rather than a cascade, it strikes like an explosion from the groin.
+The "shape" of one's orgasm can change. Rather than a cascade, it strikes like an explosion from the groin.
 
 ##### Attraction
 
@@ -208,13 +207,10 @@ Testosterone has been shown to increase arousal from visual stimuli. As such, yo
 
 The increase of androgens within the body causes the hypothalamus to down-regulate production of the hormones which control the ovaries. This will reduce total estrogen available, and may halt ovulation. Without ovulation and with lower FSH levels, the uterus will be less inclined to build up and release a lining, causing the cessation of blood flow.
 
-
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374054574579798016'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-
 You may still experience other period symptoms, however, as the hypothalamus can continue to express other aspects of the monthly cycle. This can even continue following a total hysterectomy, although it is not common.
 
-**This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up, they do not die.
-
+**This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up; they do not die.

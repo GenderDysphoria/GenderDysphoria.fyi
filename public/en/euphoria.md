@@ -28,15 +28,15 @@ tweets:
 }!}
 
 
-Before I can talk about discomfort, I have to talk about relief. Gender Euphoria is itself a sign of Gender Dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
+Before I can talk about discomfort, I have to talk about relief. Gender euphoria is itself a sign of gender dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
 
-Imagine a person who was born in a cave, who spent their entire life living underground, their only source of illumination being candles and oil lamps. Imagine they've never been above ground, they don't even know the surface exists. Then one day a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later they return to the opening, and as the person's eyes adjust they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
+Imagine a person who was born in a cave, who spent their entire life living underground, with their only source of illumination being candles and oil lamps. Imagine they've never been above ground; they don't even know the surface exists. Then, one day, a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later, they return to the opening, and, as the person's eyes adjust, they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
 
-That world is scary, it's huge and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually they peek out more and more frequently, and further and further from the opening. They start to want that light, they find reasons to visit it more often.
+That world is scary, huge, and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually, they peek out more and more frequently, and further and further from the opening. They start to want that light; they find reasons to visit it more often.
 
-Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, they want to stay here. Going back into the hole feels wrong, it starts to hurt to be in the dark so much.
+Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, and they want to stay here. Going back into the hole feels wrong; it starts to hurt to be in the dark so much.
 
-This is what Gender Euphoria is like, it is brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
+This is what gender euphoria is like: brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
@@ -60,7 +60,7 @@ Examples:
 
 - Being gendered correctly
 - Being addressed by your chosen name
-- Wearing correctly gendered clothing
+- Wearing correctly-gendered clothing
 - Seeing and feeling changes in your body
 - Seeing yourself in the mirror (removal of depersonalization)
 - Socializing in a way that conforms with gendered expectations
@@ -72,6 +72,6 @@ Examples:
 
 Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
 
-**What euphoria is NOT** is a sexual high, turn on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
+**What euphoria is NOT** is a sexual high, turn-on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn-on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
 
-That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely, it does not go away when they go back to their daily lives.
+That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this; how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely; it does not go away when they go back to their daily lives.

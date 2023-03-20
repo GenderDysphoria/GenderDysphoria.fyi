@@ -33,7 +33,7 @@ tweets:
   '1215731319973523456'
 ] tweets=meta.tweets className="oneblock" }} </div> }!}
 
-All social gender dysphoria orbits around one central concept: What Gender do people believe me to be? Social Dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender, versus how Social Dysphoria is experienced after a trans awakening (cracking one's shell).
+All social gender dysphoria orbits around one central concept: "What gender do people believe me to be?" Social dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender versus how social dysphoria is experienced after a trans awakening (cracking one's shell).
 
 While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people. People of your assigned gender seem to interact with each other in ways that do not feel natural to you. Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier. You relate to people closer to your own truth.
 
@@ -41,9 +41,9 @@ For example, an AMAB trans person may find themselves very uncomfortable in grou
 
 This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
 
-Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person will be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
+Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person may be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
 
-Gender neutral pronouns can also be unsettling for binary trans people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being transgender, and the person addressing them doesn't know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being trans. It is sort of a catch-22.
+Gender-neutral pronouns can also be unsettling for binary trans people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being transgender, and the person addressing them doesn't know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being trans. It is sort of a catch-22.
 
 Singular they can also be used maliciously when a transphobic individual refuses to use the correct pronoun, but knows they will get in trouble for using the wrong pronouns. Tone and intent matter a lot.
 
@@ -64,11 +64,11 @@ The discomfort caused by social dysphoria can pressure a trans person to act and
 
 Some physical traits which may cause discomfort all the time for some trans people may only manifest as a social dysphoria for others. For example, some people may only be self conscious about their physical appearance when it causes them to be misgendered or clocked (read as being trans), and feel completely comfortable when interacting in environments where they are always seen and treated as their true gender.
 
-I, myself, have no direct physical dysphoria around my voice, I actually really enjoy singing in my natal baritone, and when I am home with just my family I let my voice relax. When out in public, however, being able to speak in a feminine voice plays a critical role in my being seen as a woman by strangers, so I put a lot of effort into training it into a feminine sound. My feminine voice turns on the instant I answer the phone or leave the house, it isn't even a conscious thing.
+I, myself, have no direct physical dysphoria around my voice; I actually really enjoy singing in my natal baritone, and when I am home with just my family I let my voice relax. When out in public, however, being able to speak in a feminine voice plays a critical role in my being seen as a woman by strangers, so I put a lot of effort into training it into a feminine sound. My feminine voice turns on the instant I answer the phone or leave the house, it isn't even a conscious thing.
 
 ### "One of us!"
 
-A very curious and surprisingly phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
+A very curious and surprisingly common phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
