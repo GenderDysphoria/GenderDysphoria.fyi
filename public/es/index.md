@@ -1,5 +1,5 @@
----   
-fecha: "2020-01-26T20:41:55.827Z"
+---
+date: "2020-01-26T20:41:55.827Z"
 lang: "es"
 title: "La Biblia de la Disforia de Género"
 description: "Un clavado a las multitudes de formas en que se manifiesta la disforia de género y lo que significa ser transgénero."
@@ -13,7 +13,14 @@ siblings:
 
 
 {!{
-{{import '~/img' images.titlecard srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px" alt="La Biblia de la Disforia de Género" style="margin-bottom: 1em;"}}
+{{import
+  '~/img'
+  images.titlecard
+  srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
+  alt="La Biblia de la Disforia de Género"
+  style="margin-bottom: 1em;"
+  imgStyle="width: 100%"
+}}
 }!}
 ### Table of Contents:
 
