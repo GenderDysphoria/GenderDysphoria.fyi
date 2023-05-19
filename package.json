@@ -9,7 +9,7 @@
   },
   "private": true,
   "engines": {
-    "node": "16"
+    "node": "18"
   },
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "siteInfo": {
