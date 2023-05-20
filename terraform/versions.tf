@@ -26,6 +26,6 @@ provider "namecheap" {
   user_name = var.namecheap.username
   api_user = var.namecheap.username
   api_key = var.namecheap.apikey
-  client_ip = chomp(data.http.externalip.body)
+  client_ip = chomp(data.http.externalip.response_body)
   use_sandbox = false
 }

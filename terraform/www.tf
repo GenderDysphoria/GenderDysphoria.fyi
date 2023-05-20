@@ -7,8 +7,8 @@ resource "aws_cloudfront_origin_access_identity" "origin_access_identity" {
 
 resource "aws_cloudfront_distribution" "site" {
   origin {
-    domain_name = aws_s3_bucket.src.bucket_regional_domain_name
-    origin_id   = "S3-Website-${aws_s3_bucket.src.website_endpoint}"
+    domain_name = aws_s3_bucket_website_configuration.src.website_endpoint
+    origin_id   = "S3-Website-${aws_s3_bucket_website_configuration.src.website_endpoint}"
 
     custom_origin_config {
       origin_protocol_policy = "http-only"
@@ -30,7 +30,7 @@ resource "aws_cloudfront_distribution" "site" {
   default_cache_behavior {
     allowed_methods  = ["GET", "HEAD"]
     cached_methods   = ["GET", "HEAD"]
-    target_origin_id = "S3-Website-${aws_s3_bucket.src.website_endpoint}"
+    target_origin_id = "S3-Website-${aws_s3_bucket_website_configuration.src.website_endpoint}"
 
     forwarded_values {
       query_string = false
