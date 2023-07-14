@@ -4,6 +4,7 @@ title: "De Genderdysforie Bijbel"
 linkTitle: Inleiding
 description: "Een duik in de vele manieren waarop genderdysforie zich manifesteert en wat het betekent om transgender te zijn."
 preBody: '_disclaimer'
+lang: nl
 classes:
   - gdb
 siblings:

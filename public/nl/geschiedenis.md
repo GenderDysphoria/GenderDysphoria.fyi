@@ -6,6 +6,7 @@ description: "De oorsprong van genderdysforie en de betekenis ervan vandaag de d
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: nl
 siblings:
   prev: /nl/wat-is-gender
   prevCaption: Wat Is Gender?

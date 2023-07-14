@@ -4,6 +4,7 @@ title: "Hoe Genderdysforie Zich Manifesteert: Euforie"
 linkTitle: "Gender Euforie"
 description: "Om schaduw te hebben, moet er licht zijn."
 preBody: '_disclaimer'
+lang: nl
 siblings:
   prev: /nl/geschiedenis
   prevCaption: De Geschiedenis van Genderdysforie

@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Wat is Gender?"
 description: "Hoe definiëren we het concept van Gender en hoe verschilt het van Geslacht?"
 preBody: '_disclaimer'
+lang: nl
 siblings:
   prev: /nl/
   prevCaption: Inleiding

@@ -4,6 +4,7 @@ title: "Hoe Genderdysforie zich manifesteert: Biochemische Dysforie"
 linkTitle: "Biochemische Dysforie"
 description: "De zeer reële en biologische factoren van genderdysforie die mentale verstoring veroorzaken."
 preBody: '_disclaimer'
+lang: nl
 classes:
   - gdb
 tweets:

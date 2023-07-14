@@ -4,6 +4,7 @@ title: "Hoe Genderdysforie Zich Manifesteert: Fysieke Dysforie"
 linkTitle: "Fysieke Dysforie"
 description: "Lichamelijk ongemak is slechts een van de vele manieren waarop genderdysforie zich kan manifesteren."
 preBody: '_disclaimer'
+lang: nl
 siblings:
   prev: /nl/euforie
   prevCaption: Gender Euforie
