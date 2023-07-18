@@ -8,8 +8,8 @@ lang: nl
 siblings:
   prev: /nl/maatschappelijke-dysforie
   prevCaption: Maatschappelijke Dysforie
-  next: /nl/presentatie-dysforie
-  nextCaption: Presentatie Dysforie
+  next: /nl/presentationele-dysforie
+  nextCaption: Presentationele Dysforie
 classes:
   - gdb
 tweets:
