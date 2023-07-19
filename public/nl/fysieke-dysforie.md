@@ -146,7 +146,7 @@ Het is oké als je *helemaal geen* medische transitie nodig hebt. Lichaamsgevoel
 
 De wereld zit vol met onderbewuste boodschappen over hoe de lichamen van mannen en vrouwen gevormd moeten zijn. We worden overspoeld met reclame en media die een genormaliseerd beeld creëren van wat wel en niet mooi is. Niet te dik zijn, niet te dun zijn, niet te lang zijn, niet te kort zijn, geen te brede kin hebben, geen te grote neus hebben, make-up dragen maar niet te veel make-up, het huis niet verlaten zonder bh, maar de bh niet laten zien. Zo gaat het maar door, de constante stroom van verwachtingen rondom gendergerelateerd uiterlijk.
 
-Iedereen neemt deze boodschappen op, en transpersonen internaliseren de factoren die van belang zijn voor het geslacht waarmee ze zich identificeren. Transmeisjes groeien op en passen vrouwelijke normen toe op zichzelf, transjongens passen mannelijke normen toe op zichzelf, en non-binaire personen internaliseren vaak schaamte rondom androgynie. Dit komt *bovenop* de schaamte die ze ervaren omdat ze niet voldoen aan de normen van hun toegewezen geslacht.
+Iedereen neemt deze boodschappen op, en transpersonen internaliseren de factoren die van belang zijn voor het gender waarmee ze zich identificeren. Transmeisjes groeien op en passen vrouwelijke normen toe op zichzelf, transjongens passen mannelijke normen toe op zichzelf, en non-binaire personen internaliseren vaak schaamte rondom androgynie. Dit komt *bovenop* de schaamte die ze ervaren omdat ze niet voldoen aan de normen van hun toegewezen gender.
 
 Wat is het eindresultaat hiervan? Kathryn zei het het beste:
 

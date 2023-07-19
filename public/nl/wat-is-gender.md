@@ -31,7 +31,7 @@ Als je de etymologie van het woord volgt tot aan zijn Latijnse wortels, betekent
 
 Veel mensen schrijven de term toe aan psycholoog John Money, die in 1955 voorstelde om "gender" te gebruiken om mentaal geslacht te onderscheiden van fysiek geslacht. Money was echter niet de eerste die dit deed. Cultureel antropoloog [Margaret Mead](https://nl.wikipedia.org/wiki/Margaret_Mead) gebruikte de term al in 1949 in haar boek *Male and Female* om onderscheid te maken tussen gendergerelateerd gedrag en rollen enerzijds en biologisch geslacht anderzijds. In het American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) werd het boek als volgt beschreven:
 
-> Een boek dat de lezer niet alleen informeert over **'geslacht' en 'sekse'**, over de mannelijke en vrouwelijke rollen, maar ook man en vrouwen en hun voortplantingsfuncties.
+> Een boek dat de lezer niet alleen informeert over **'gender' en 'geslacht'**, over de mannelijke en vrouwelijke rollen, maar ook man en vrouwen en hun voortplantingsfuncties.
 >
 > Margaret Mead gaat van specifieke beschrijvingen naar algemene vergelijkingen van mannelijkheid en vrouwelijkheid in verschillende gemeenschappen, om uiteindelijk een analyse te maken van seksuele patronen in onze eigen samenleving, in onze eigen tijd.
 
