@@ -50,7 +50,7 @@ siblings:
 
 11. [Existentiële Dysforie](/nl/existentiele-dysforie)
 
-12. [Beheerste Dysforie](/nl/beheersbare-dysforie)
+12. [Beheerste Dysforie](/nl/beheerste-dysforie)
 
 13. [Impostor Syndroom](/nl/impostor-syndroom)
 

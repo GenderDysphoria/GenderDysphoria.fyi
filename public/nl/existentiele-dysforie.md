@@ -10,7 +10,7 @@ lang: nl
 siblings:
   prev: /nl/presentationele-dysforie
   prevCaption: Presentationele Dysforie
-  next: /nl/beheersbare-dysforie
+  next: /nl/beheerste-dysforie
   nextCaption: Beheerste Dysforie
 ---
 
