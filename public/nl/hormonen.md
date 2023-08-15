@@ -32,7 +32,7 @@ Je kunt antagonisten vergelijken met uitsmijters bij een club. Ze staan bij de d
 
 In sommige gevallen kan een hormoon functioneren als een remmer of een activator voor een ander hormoon door gedrag in een cel te vertragen of te verhogen. Bijvoorbeeld, progesteron verhoogt de celactiviteit, waardoor cellen effectiever reageren op oestrogenen en androgenen, en testosteron verhoogt het transactivatievermogen van dopamine-receptoren, zodat er minder dopamine nodig is in de hersenen voor hetzelfde effect.
 
-## Wat zit er in een Hormoon<!-- ToDo -->
+## Wat zit er in een Hormoon
 
 Er zijn vier hoofdtypen hormonen:
 
@@ -103,7 +103,7 @@ Een van de belangrijkste rollen die de progestagenenreceptor speelt, is de regul
 
 LH vertelt de eierstokken en testikels om oestrogeen en androgenen te produceren. LH en zijn zusje [FSH](https://nl.wikipedia.org/wiki/Follikelstimulerend_hormoon) spelen beide een centrale rol in de ovulatie, wat een andere grote bron van oestrogeen is bij eigenaars van eierstokken. Synthetische progestagenen (chemische stoffen die in progestagenenreceptoren passen) worden daarom vaak opgenomen in anticonceptie om ovulatie te voorkomen. Bij AMABs zijn progestagenen een nuttig hulpmiddel om de productie van testosteron te blokkeren.
 
-Een ander type cel dat vol zit met progestagenenreceptoren is het borstweefsel<!-- ToDo Check translation of 'borstweefsel' -->. Progesteron speelt een belangrijke rol in de groei en rijping van melkkanalen in het borstweefsel. Hoewel er weinig formeel onderzoek is gedaan naar het effect van progesteron op borstontwikkeling, wordt het anekdotisch veel gezien in de transfem-gemeenschap als een significante verbetering van de volheid van de borsten. Van progesteron is ook aangetoond dat het de bloedtoevoer naar borstweefsel verhoogt en vetophopingen in de borsten stimuleert, beide verhogen de borstgrootte.
+Een ander type cel dat vol zit met progestagenenreceptoren is het borstweefsel. Progesteron speelt een belangrijke rol in de groei en rijping van melkkanalen in het borstweefsel. Hoewel er weinig formeel onderzoek is gedaan naar het effect van progesteron op borstontwikkeling, wordt het anekdotisch veel gezien in de transfem-gemeenschap als een significante verbetering van de volheid van de borsten. Van progesteron is ook aangetoond dat het de bloedtoevoer naar borstweefsel verhoogt en vetophopingen in de borsten stimuleert, beide verhogen de borstgrootte.
 
 Bovendien bevordert progesteron beter slapen, verbetert het de cardiovasculaire gezondheid, verhoogt het ketogenese (verlaagt triglyceriden), verhoogt het de stofwisseling en is gebleken dat het het risico op borstkanker vermindert.
 
