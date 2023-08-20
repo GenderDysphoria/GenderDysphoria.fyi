@@ -148,7 +148,7 @@ Bekend is dat testosteron een sterk gevoel van zelfvertrouwen bij mensen opwekt.
 
 Het is uiterst gebruikelijk dat transmensen van allerlei soorten zich na de overgang veel socialer voelen. Dit kan eenvoudig het gevolg zijn van het niet langer hoeven onderdrukken van grote delen van hun persoonlijkheid, maar het eerder genoemde zelfvertrouwen speelt ook een rol.
 
-### Genitale Veranderingen <!-- ToDo Continue here -->
+### Genitale Veranderingen
 
 {!{
 <div class="gutter flex flex-center">
@@ -160,13 +160,13 @@ Alle genitaliën zijn opgebouwd uit dezelfde weefsels; ze zijn alleen anders geo
 
 ##### Groei van de Onderkant
 
-DHT (hierboven genoemd) speelt een cruciale rol in de ontwikkeling van het erectiele weefsel in de geslachtsorganen. Naarmate de DHT-spiegels stijgen met de toename van testosteron, zal dit ervoor zorgen dat de Skene's klier (soms aangeduid als de vrouwelijke prostaat) opzwelt. Dit zal willekeurige erecties binnen de clitoris veroorzaken, waardoor het erectiele weefsel groeit. De hoeveelheid groei varieert van persoon tot persoon, maar 1-3 inch is gebruikelijk.
+DHT (hierboven genoemd) speelt een cruciale rol in de ontwikkeling van het erectiele weefsel in de geslachtsorganen. Naarmate de DHT-spiegels stijgen met de toename van testosteron, zal dit ervoor zorgen dat de klier van Skene (soms aangeduid als de vrouwelijke prostaat) opzwelt. Dit zal willekeurige erecties binnen de clitoris veroorzaken, waardoor het erectiele weefsel groeit. De hoeveelheid groei varieert van persoon tot persoon, maar 2.5 tot 7.5 cm (1-3 inch) is gebruikelijk.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-De clitorishoed en schaamlippen worden in de loop van de tijd droger en dikker, en de binnenste schaamlippen kunnen ook beginnen te groeien. Zelfsmering kan aanzienlijk verminderen, en na verloop van tijd kan penetratie pijnlijk worden. Gebruik meer glijmiddel om scheuren en bloedingen te voorkomen.
+De clitorale kap en schaamlippen worden in de loop van de tijd droger en dikker, en haren kunnen op de binnenste schaamlippen beginnen te groeien. Zelfsmering kan aanzienlijk verminderen, en na verloop van tijd kan penetratie pijnlijk worden. Gebruik meer glijmiddel om scheuren en bloedingen te voorkomen.
 
 {!{ {{import '~/tweet' ids=[
   '1431244822044622848'
@@ -175,11 +175,11 @@ De clitorishoed en schaamlippen worden in de loop van de tijd droger en dikker, 
 
 ##### Toegenomen Uitstoot Bij Klimax
 
-Met de zwelling van de prostaat komt meer prostaatvloeistof. Als je voorheen geen 'squirt'er was, kun je er nu een worden.
+Met de zwelling van de prostaat komt meer prostaatvloeistof. Als je voorheen geen squirter was, kun je er nu een worden.
 
 ##### Veranderingen in Gevoeligheid en Reactie
 
-Erogeen stimulatie kan zich meer richten op het hoofd van de clitoris en het strelen van de schacht.
+Erogene stimulatie kan meer gefocust worden op de clitorale kap en in het strelen van de schacht.
 
 ##### Atrofie
 
@@ -191,7 +191,7 @@ Vaginale en baarmoederatrofie treedt vaak op binnen de eerste vijf jaar, en een 
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-De seksuele drift zal vrijwel zeker het dak uit gaan gedurende het eerste jaar of twee, met de sterkste effecten direct na het innemen van de dosis. Je kunt jezelf tijdens seks assertiever voelen en meer geneigd zijn tot dominantie en/of een 'top'-rol. Je zult ook meer gedachten over seks hebben.
+Het libido zal vrijwel zeker het dak uit gaan gedurende het eerste jaar of twee, met de sterkste effecten direct na het innemen van de dosis. Je kunt jezelf tijdens seks assertiever voelen en meer geneigd zijn tot dominantie en/of een 'top'-rol.
 
 ##### Orgasme
 
@@ -199,7 +199,7 @@ De seksuele drift zal vrijwel zeker het dak uit gaan gedurende het eerste jaar o
   '1374053191445270534'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-De "vorm" van een orgasme kan veranderen. In plaats van een waterval is het meer een explosie vanuit het liesgebied.
+De "vorm" van een orgasme kan veranderen. In plaats van een waterval is het meer een explosie vanuit de lies.
 
 ##### Aantrekking
 
@@ -215,4 +215,4 @@ De toename van androgenen in het lichaam zorgt ervoor dat de hypothalamus de pro
 
 Je kunt nog steeds andere symptomen van je menstruatie ervaren, omdat de hypothalamus andere aspecten van de maandelijkse cyclus kan blijven reguleren. Dit kan zelfs doorgaan na een volledige hysterectomie, hoewel het niet gebruikelijk is.
 
-**Dit betekent echter *niet* dat je onvruchtbaar bent.** Ovulatie kan nog steeds plaatsvinden, zelfs als je niet menstrueert. Daarnaast zal het stoppen van testosteron de oude zaadjes laten ontwaken; ze sterven niet.
+**Dit betekent echter *niet* dat je onvruchtbaar bent.** Ovulatie kan nog steeds plaatsvinden, zelfs als je niet menstrueert. Daarnaast zal het stoppen van testosteron de oude bolletjes laten ontwaken; ze sterven niet.
