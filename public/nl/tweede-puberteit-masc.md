@@ -33,7 +33,7 @@ tweets:
 
 Dit is een compilatie van gerapporteerde medische transitieveranderingen verzameld uit getuigenissen van AFAB transmensen die testosteron hormoontherapie nemen. Deze informatie is verzameld van sociale media en chatrooms. Ja, dat betekent dat dit allemaal anekdotisch is, maar historisch gezien is het grootste deel van het transgender medische onderzoek anekdotisch omdat niemand transgender medisch onderzoek wil financieren.
 
-**Let op dat dit een lijst is van _mogelijke_ veranderingen. Er is geen garantie dat elke persoon op masculiniserende HRT al deze veranderingen zal ervaren. Je leeftijd, genetica, medische geschiedenis, mate van feminisering door de oorspronkelijke puberteit en hormoonschema kunnen alle invloed hebben op de resultaten. Er is ook een element van willekeurigheid - elk lichaam is anders - en sommige dingen kunnen jaren duren voordat ze verschijnen.**
+**Let op dat dit een lijst is van _mogelijke_ veranderingen. Er is geen garantie dat elke persoon op masculiniserende HRT al deze veranderingen zal ervaren. Je leeftijd, genetica, medische geschiedenis, mate van feminisering door de oorspronkelijke puberteit en hormoonschema kunnen allemaal invloed hebben op de resultaten. Er is ook een element van willekeurigheid - elk lichaam is anders - en sommige dingen kunnen jaren duren voordat ze verschijnen.**
 
 ### Verlaging van de Stem
 
