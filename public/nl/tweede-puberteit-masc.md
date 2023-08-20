@@ -9,7 +9,7 @@ siblings:
   prev: /nl/hormonen
   prevCaption: Hoe Hormonen Werken
   next: /nl/tweede-puberteit-fem
-  nextCaption: Estrogene Tweede Puberteit
+  nextCaption: Oestrogene Tweede Puberteit
 classes:
   - gdb
 
@@ -31,15 +31,15 @@ tweets:
 
 ## Wat te Verwachten van Masculiniserende HRT
 
-Dit is een compilatie van gerapporteerde medische transitieveranderingen verzameld uit getuigenissen van AFAB transmensen die testosteron hormoontherapie nemen. Deze informatie is verzameld van sociale media en chatrooms. Ja, dat betekent dat dit allemaal anekdotisch is, maar historisch gezien is het grootste deel van het medische onderzoek naar transgender anekdotisch omdat niemand transgender medisch onderzoek wil financieren.
+Dit is een compilatie van gerapporteerde medische transitieveranderingen verzameld uit getuigenissen van AFAB transmensen die testosteron hormoontherapie nemen. Deze informatie is verzameld van sociale media en chatrooms. Ja, dat betekent dat dit allemaal anekdotisch is, maar historisch gezien is het grootste deel van het transgender medische onderzoek anekdotisch omdat niemand transgender medisch onderzoek wil financieren.
 
-**Let op: dit is een lijst van _mogelijke_ veranderingen. Er is geen garantie dat elke persoon op masculiniserende HRT al deze veranderingen zal ervaren. Je leeftijd, genetica, medische geschiedenis, mate van feminisering door de oorspronkelijke puberteit en hormoonschema kunnen alle invloed hebben op de resultaten. Er is ook een element van willekeurigheid - elk lichaam is anders - en sommige dingen kunnen jaren duren voordat ze verschijnen.**
+**Let op dat dit een lijst is van _mogelijke_ veranderingen. Er is geen garantie dat elke persoon op masculiniserende HRT al deze veranderingen zal ervaren. Je leeftijd, genetica, medische geschiedenis, mate van feminisering door de oorspronkelijke puberteit en hormoonschema kunnen alle invloed hebben op de resultaten. Er is ook een element van willekeurigheid - elk lichaam is anders - en sommige dingen kunnen jaren duren voordat ze verschijnen.**
 
 ### Verlaging van de Stem
 
 Androgenen zorgen ervoor dat het weefsel dat de stembanden vormt, dikker en harder wordt, waardoor de toonhoogte van de stem permanent lager wordt. Dit is geen erg snelle verandering, maar eerder geleidelijk gedurende de eerste paar jaar. Sommige mensen ervaren helemaal geen stemverandering, het varieert per persoon. De verandering zal niet drastisch zijn; als je een sopraan bent, word je niet meteen een bas, maar het kan je wel naar een alt of tenor brengen.
 
-Dit betekent *niet* automatisch dat je stem automatisch als mannelijk zal worden waargenomen. Toonhoogte is slechts een deel van hoe mensen stem genderen, en de manier waarop je praat speelt een veel grotere rol. Vocale training zal nodig zijn om resonantie te versterken en de spreekstijl te veranderen.
+Dit betekent *niet* automatisch dat je stem automatisch als mannelijk zal worden waargenomen. Toonhoogte is slechts een deel van hoe mensen stem genderen, en de manier waarop je praat speelt een veel grotere rol. Vocale training (logopedie) zal nodig zijn om resonantie te versterken en de spreekstijl te veranderen.
 
 ### Veranderingen in Lichaamstemperatuurverdeling
 
@@ -47,7 +47,7 @@ Dit betekent *niet* automatisch dat je stem automatisch als mannelijk zal worden
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Androgenen stimuleren extra bloedtoevoer naar de uiteinden van het lichaam, waardoor ze warmer worden. Hierdoor hebben mannen koelere kernen maar warmere orale en oppervlaktetemperaturen. Je kunt zien dat je basale lichaamstemperatuur toeneemt. Het resultaat is dat je het *warmer* zult hebben en waarschijnlijk niet zoveel kleding kunt dragen als voorheen. Als je in koude klimaten woont, kan het blootstellen van je kuiten helpen om warmte te verspreiden zonder je te veel af te koelen.
+Androgenen stimuleren extra bloedtoevoer naar de ledematen, waardoor deze warmer worden. Hierdoor hebben mannen koelere kernen maar warmere orale en oppervlaktetemperaturen. Je kunt zien dat je basale lichaamstemperatuur toeneemt. Het netto resultaat is dat je je warmer zult *voelen* en waarschijnlijk niet zoveel kleding kunt dragen als voorheen. Als je in koude klimaten woont, kan het blootstellen van je kuiten helpen om warmte te verspreiden zonder je te veel af te koelen.
 
 Deze verandering komt vaak vrij vroeg; verwacht nachtzweten terwijl je systeem eraan gewend raakt.
 
@@ -65,9 +65,9 @@ Androgenen vergroten aanzienlijk de aanwezigheid van lichaamshaar op de benen, l
 
 ### Mannelijke Kaalheidspatroon
 
-MKB wordt veroorzaakt door [dihydrotestosteron](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), een androgeen dat wordt gemetaboliseerd uit testosteron. Meer T in je lichaam betekent meer DHT kan zich vormen, en het gen dat bijdraagt aan MKB zorgt ervoor dat de haarzakjes op de hoofdhuid minder bloed ontvangen, waardoor ze verstikt raken totdat de haarzakjes afsterven. Er zal waarschijnlijk *enig* haarverlies zijn van de haargrens uiteindelijk, ongeacht wat dan ook, maar als er een geschiedenis van kaalheid is onder de mannen in je familie, dan kun je dat ook verwachten. Minoxidil kan ook hierbij helpen.
+MKP wordt veroorzaakt door [dihydrotestosteron](https://nl.wikipedia.org/wiki/Dihydrotestosteron) (DHT), een androgeen dat wordt gemetaboliseerd uit testosteron. Meer T in je lichaam betekent meer DHT kan zich vormen, en het gen dat bijdraagt aan MKP zorgt ervoor dat de haarzakjes op de hoofdhuid minder bloed ontvangen, waardoor ze verstikt raken totdat de haarzakjes afsterven. Er zal waarschijnlijk *enig* haarverlies zijn van de haargrens uiteindelijk, ongeacht wat dan ook, maar als er een geschiedenis van kaalheid is onder de mannen in je familie, dan kun je dat ook verwachten. Minoxidil kan ook hierbij helpen.
 
-Het synthetische androgeen [nandrolon](https://en.wikipedia.org/wiki/Nandrolone) wordt niet gemetaboliseerd in DHT en kan een levensvatbaar alternatief zijn in plaats van direct testosteron als haarverlies een zorg is. Echter, DHT is belangrijk voor genitale groei, dus dit is een tweesnijdend zwaard.
+Het synthetische androgeen [nandrolon](https://nl.wikipedia.org/wiki/Nandrolon) wordt niet gemetaboliseerd in DHT en kan een levensvatbaar alternatief zijn in plaats van direct testosteron als haarverlies een zorg is. Echter, DHT is belangrijk voor genitale groei, dus dit is een tweesnijdend zwaard.
 
 ### Dikkere en Vettere Huid
 
@@ -111,7 +111,7 @@ Zoals besproken in het gedeelte over Biochemische Genderdysforie, kunnen hersene
 
 ##### ADHD
 
-Als je ADHD hebt, kunnen er enkele veranderingen in je symptomen zijn. Androgenen versterken de functie van [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptoren, dus het verhogen van testosteron kan het activeringspotentieel voor dopamine in de hersenen verbeteren. Dopamine is een belangrijke neurotransmitter in het gedrag van [werkgeheugen](https://en.wikipedia.org/wiki/Working_memory), het korte-termijn geheugen van de hersenen. Meer werkgeheugen betekent dat je minder vatbaar kunt worden voor afleidingen en gemakkelijker een [cognitieve belasting](https://en.wikipedia.org/wiki/Cognitive_load) kunt behouden.
+Als je ADHD hebt, kunnen er enkele veranderingen in je symptomen zijn. Androgenen versterken de functie van [dopamine](https://nl.wikipedia.org/wiki/Dopamine) receptoren, dus het verhogen van testosteron kan het activeringspotentieel voor dopamine in de hersenen verbeteren. Dopamine is een belangrijke neurotransmitter in het gedrag van [werkgeheugen](https://nl.wikipedia.org/wiki/Werkgeheugen_(mens)), het korte-termijn geheugen van de hersenen. Meer werkgeheugen betekent dat je minder vatbaar kunt worden voor afleidingen en gemakkelijker een [cognitieve belasting](https://en.wikipedia.org/wiki/Cognitive_load) kunt behouden.
 
 *Echter*, estradiol stimuleert de productie van dopamine, dus naarmate de oestrogeenspiegels dalen, zal er minder dopamine beschikbaar zijn voor de hersenen om mee te werken. Je symptomen zullen verslechteren, niet verbeteren.
 
@@ -142,13 +142,13 @@ Sommige mensen melden problemen met slapeloosheid en minder memorabele dromen. D
 
 ##### Zelfvertrouwen
 
-Bekend is dat testosteron een sterk gevoel van zelfvertrouwen bij mensen opwekt. Problemen lijken minder significant, het zelfvertrouwen is sterker, minder angsten. Veel mensen melden een neiging om sneller ruzie te krijgen en meer bereid te zijn om zich uit te spreken in conflictsituaties en voor zichzelf op te komen. Dit betekent *niet* meer vijandigheid of twistziekheid, maar simpelweg dat de tolerantie voor onzin lager is.
+Bekend is dat testosteron een sterk gevoel van zelfvertrouwen bij mensen opwekt. Problemen lijken minder significant, het zelfvertrouwen is sterker, minder angsten. Veel mensen melden een neiging om sneller ruzie te krijgen en meer bereid te zijn om zich uit te spreken in conflictsituaties en voor zichzelf op te komen. Dit betekent *niet* meer vijandig of twistziek, maar simpelweg dat de tolerantie voor onzin lager is.
 
 ##### Extraversie
 
 Het is uiterst gebruikelijk dat transmensen van allerlei soorten zich na de overgang veel socialer voelen. Dit kan eenvoudig het gevolg zijn van het niet langer hoeven onderdrukken van grote delen van hun persoonlijkheid, maar het eerder genoemde zelfvertrouwen speelt ook een rol.
 
-### Genitale Veranderingen
+### Genitale Veranderingen <!-- ToDo Continue here -->
 
 {!{
 <div class="gutter flex flex-center">
