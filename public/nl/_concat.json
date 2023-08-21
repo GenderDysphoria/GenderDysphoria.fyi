@@ -1,5 +1,5 @@
 {
-  "output": "public/nl/printable.md",
+  "output": "public/nl/afdrukbaar.md",
   "sources": [
     "public/nl/index.md",
     "public/nl/wat-is-gender.md",
