@@ -5,7 +5,7 @@ linkTitle: "Conclusie"
 description: "Het is nu toch wel welletjes met de gatekeeping."
 siblings:
   prev: /en/second-puberty-fem
-  prevCaption: Esterogene Tweede Puberteit
+  prevCaption: Oestrogene Tweede Puberteit
 classes:
   - gdb
 preBody: '_disclaimer'
