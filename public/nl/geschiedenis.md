@@ -61,7 +61,7 @@ Evey Winters beschreef het op deze manier [in haar bericht over dysforie](https:
 
 > Heb je ooit ergens in een openbare of formele omgeving gezeten en plotseling je voetzool voelde jeuken? Het is niet alsof je daar ter plekke je schoenen kunt uittrekken en het kunt krabben, dus je verdraagt het gevoel van innerlijke dood terwijl deze jeuk groeit en groeit totdat je klaar bent om de volgende persoon die tegen je praat te vermoorden.
 >
-> Of toen ik jonger was, keek ik 's ochtends voor school graag naar kabeltelevisie. Omdat het kabeltelevisie was op het platteland van West Virginia in de vroege jaren 90, zette ik zo nu en dan mijn favoriete kanaal aan om naar mijn programma's te kijken terwijl ik mijn havermout at en dan zag ik Power Rangers - maar het geluid kwam van een andere zender (meestal het weerkanaal). Het beeld was prima. Het geluid was prima. Maar het gebrek aan overeenstemming tussen die twee? Dat is het soort frustratie dat je de hele dag als kind bijblijft. <!-- TODO is West Virginia correct? -->
+> Of toen ik jonger was, keek ik 's ochtends voor school graag naar kabeltelevisie. Omdat het kabeltelevisie was op het platteland van West Virginia in de vroege jaren 90, zette ik zo nu en dan mijn favoriete kanaal aan om naar mijn programma's te kijken terwijl ik mijn havermout at en dan zag ik Power Rangers - maar het geluid kwam van een andere zender (meestal het weerkanaal). Het beeld was prima. Het geluid was prima. Maar het gebrek aan overeenstemming tussen die twee? Dat is het soort frustratie dat je de hele dag als kind bijblijft.
 >
 > Het is het gevoel dat je krijgt wanneer je vraagt om een frisse verfrissende Diet Coke en de serveerster zegt: "Is Pepsi oké?"
 >
