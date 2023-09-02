@@ -11,6 +11,12 @@ terraform {
       version = ">= 2.0.0"
     }
   }
+
+  backend "s3" {
+    bucket                  = "twipped-terraform"
+    key                     = "gdb/terraform.tfstate"
+    region                  = "us-east-1"
+  }
   required_version = ">= 0.13"
 }
 
