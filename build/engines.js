@@ -26,6 +26,7 @@ const str2locale = {
   'pl': dateFNSLocales.pl,
   'pt': dateFNSLocales.pt,
   'es': dateFNSLocales.es,
+  'nl': dateFNSLocales.nl,
 };
 
 const markdownEngines = {

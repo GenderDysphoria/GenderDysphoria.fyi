@@ -1,0 +1,34 @@
+{
+  "output": "public/nl/afdrukbaar.md",
+  "sources": [
+    "public/nl/index.md",
+    "public/nl/wat-is-gender.md",
+    "public/nl/geschiedenis.md",
+    "public/nl/euforie.md",
+    "public/nl/fysieke-dysforie.md",
+    "public/nl/biochemische-dysforie.md",
+    "public/nl/sociale-dysforie.md",
+    "public/nl/maatschappelijke-dysforie.md",
+    "public/nl/seksuele-dysforie.md",
+    "public/nl/presentationele-dysforie.md",
+    "public/nl/existentiele-dysforie.md",
+    "public/nl/beheerste-dysforie.md",
+    "public/nl/impostor-syndroom.md",
+    "public/nl/ben-ik-trans.md",
+    "public/nl/diagnoses.md",
+    "public/nl/behandeling.md",
+    "public/nl/oorzaken.md",
+    "public/nl/chromosomen.md",
+    "public/nl/hormonen.md",
+    "public/nl/tweede-puberteit-masc.md",
+    "public/nl/tweede-puberteit-fem.md",
+    "public/nl/conclusie.md"
+  ],
+  "meta": {
+    "title": "De Genderdysforie Bijbel",
+    "lang": "nl",
+    "description": "Een duik in de vele manieren waarop genderdysforie zich manifesteert en wat het betekent om transgender te zijn.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

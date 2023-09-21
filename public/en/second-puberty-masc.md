@@ -46,7 +46,7 @@ This does *not* mean that your voice will automatically become read as male. Pit
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Androgens encourage extra blood flow to the extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase.  The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
+Androgens encourage extra blood flow to the extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase. The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
 
 This change often comes fairly early on; expect night sweats while your system gets used to it.
 

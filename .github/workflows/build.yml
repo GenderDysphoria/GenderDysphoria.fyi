@@ -91,6 +91,12 @@ jobs:
           --run-all-compositor-stages-before-draw --print-to-pdf="${{ github.workspace }}/dist/fr.pdf" \
           http://127.0.0.1:8080/fr/a-imprimer/index.html
 
+      - name: (NL) Generate PDF from HTML
+        run: |
+          google-chrome --headless --print-to-pdf-no-header \
+          --run-all-compositor-stages-before-draw --print-to-pdf="${{ github.workspace }}/dist/nl.pdf" \
+          http://127.0.0.1:8080/nl/afdrukbaar/index.html
+
       - name: List dist
         run: ls -la ${{ github.workspace }}/dist
 
