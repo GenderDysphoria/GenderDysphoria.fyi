@@ -83,7 +83,7 @@
     "plugin-error": "^2.0.1",
     "png-to-ico": "^2.1.8",
     "popper.js": "^1.16.0",
-    "postcss": "^8.4.20",
+    "postcss": "^8.4.31",
     "preact": "^10.11.3",
     "rev-hash": "^3.0.0",
     "rev-path": "^2.0.0",
