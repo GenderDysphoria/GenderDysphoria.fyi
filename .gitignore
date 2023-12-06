@@ -10,7 +10,7 @@ node_modules
 /posts.json
 /if-*
 /twitter-cache.json
-/twitter-config.json
+/twitter-config*.json
 /twitter-media.json
 /terraform/*.tfstate*
 /terraform/.terraform
