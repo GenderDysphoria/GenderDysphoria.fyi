@@ -44,10 +44,10 @@ const markdownEngines = {
       },
     })
     .use(mAnchor, {
+      slugify,
       permalink: mAnchor.permalink.linkInsideHeader({
         class: 'header-link',
         symbol: '<img src="/images/svg/paragraph.svg">',
-        renderHref: (input) => '#' + slugify(decodeURIComponent(input)),
         ariaHidden: true,
       }),
     })
