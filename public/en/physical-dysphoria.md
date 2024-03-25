@@ -145,7 +145,7 @@ It's okay if you don't need medical transition *at all*. Body feelings are not t
 
 The world is full of subconscious messages about how men and women's bodies should be shaped. We are bombarded with advertising and media creating a normalized view of what is and is not beautiful. Don't be too fat, don't be too skinny, don't be too tall, don't be too short, don't have too broad of a chin, don't have too large of a nose, wear makeup but don't wear too much makeup, don't leave the house without a bra, but don't let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
 
-Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Trans girls grow up mapping feminine standards onto themselves, trans boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is *on top* of the shame they are loaded with for not living up to their assigned gender's standards.
+Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Those who align with femininity grow up mapping feminine standards onto themselves, those who align with masculinity map masculine standards on to themselves, and enbies may internalize shame around androgyny. This is *on top* of the shame they are loaded with for not living up to their assigned gender's standards.
 
 What is the end result of this? Kathryn said it best:
 
