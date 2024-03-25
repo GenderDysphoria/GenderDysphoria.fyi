@@ -66,7 +66,7 @@ Unless, of course, they ask you if you think they're trans... then the prime dir
 </div>
 æææ
 
-As always, please understand that I have no professional training in gender therapy. I am simply writing this from my own amateur research and personal experiences — mostly my own journey and conversations I’ve had with other trans women and gender questioners. Keep in mind that I am coming at this from the perspective of a fairly binary trans lady who transitioned in her early thirties, which means that I am still blind to a lot of the trans experience. Things are are different for trans-masculine and non-binary people, as well as for many other trans women. This is not meant to be a universal expert guide — it’s just the best I can give you right now.
+As always, please understand that I have no professional training in gender therapy. I am simply writing this from my own amateur research and personal experiences — mostly my own journey and conversations I’ve had with other trans women and gender questioners. Keep in mind that I am coming at this from the perspective of a fairly binary trans lady who transitioned in her early thirties, which means that I am still blind to a lot of the trans experience. Things are different for trans-masculine and non-binary people, as well as for many other trans women. This is not meant to be a universal expert guide — it’s just the best I can give you right now.
 
 ### Consider That Most Cis People Don’t Think About Their Gender Very Much
 
