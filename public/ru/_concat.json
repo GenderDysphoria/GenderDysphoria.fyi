@@ -1,0 +1,33 @@
+{
+  "output": "public/en/printable.md",
+  "sources": [
+    "public/ru/index.md",
+    "public/ru/what-is-gender.md",
+    "public/ru/history.md",
+    "public/ru/euphoria.md",
+    "public/ru/physical-dysphoria.md",
+    "public/ru/biochemical-dysphoria.md",
+    "public/ru/social-dysphoria.md",
+    "public/ru/societal-dysphoria.md",
+    "public/ru/sexual-dysphoria.md",
+    "public/ru/presentational-dysphoria.md",
+    "public/ru/existential-dysphoria.md",
+    "public/ru/managed-dysphoria.md",
+    "public/ru/impostor-syndrome.md",
+    "public/ru/am-i-trans.md",
+    "public/ru/diagnoses.md",
+    "public/ru/treatment.md",
+    "public/ru/causes.md",
+    "public/ru/chromosomes.md",
+    "public/ru/hormones.md",
+    "public/ru/second-puberty-masc.md",
+    "public/ru/second-puberty-fem.md",
+    "public/ru/conclusion.md"
+  ],
+  "meta": {
+    "title": "Библия Гендерной Дисфории",
+    "description": "Погрузитесь во множество проявлений гендерной дисфории и то, что значит быть трансгендером.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
