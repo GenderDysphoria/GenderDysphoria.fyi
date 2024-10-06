@@ -45,7 +45,7 @@ exports.everything = function (prod = false) {
 
 
     // prime tweet data for all pages
-    let pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta.ignore));
+    let pages = await primeTweets(PublicFiles.pages.filter((p) => !p.meta?.ignore));
     pages = pages.filter(Boolean);
 
     let posts = await primeTweets(PostFiles.pages.filter((p) => !p.meta.ignore));

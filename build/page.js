@@ -89,7 +89,7 @@ module.exports = exports = class Page extends File {
     try {
       var { attributes: meta, body } = frontmatter(raw.toString('utf8'));
     } catch (e) {
-      log.error('Error while parsing frontmatter for ' + this.filepath, e);
+      log.error('Error while parsing frontmatter for ' + this.input + '\n', e);
       return false;
     }
 
