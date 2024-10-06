@@ -9,7 +9,7 @@
   },
   "private": true,
   "engines": {
-    "node": "18"
+    "node": "20"
   },
   "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "siteInfo": {
@@ -79,7 +79,7 @@
     "memoizepromise": "^2.0.0",
     "minimist": "^1.2.7",
     "morgan": "^1.10.0",
-    "node-sass": "^8.0.0",
+    "node-sass": "^9.0.0",
     "plugin-error": "^2.0.1",
     "png-to-ico": "^2.1.8",
     "popper.js": "^1.16.0",
