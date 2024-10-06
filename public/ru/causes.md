@@ -4,6 +4,7 @@ title: "В чём причина гендерного несоответстви
 linkTitle: "Причины гендерной дисфории"
 description: "Это гормоны, детка."
 preBody: '_disclaimer'
+lang: ru
 classes:
   - gdb
 tweets:

@@ -6,6 +6,7 @@ description: "Я не жалею о том, что сделал, я жалею �
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ru
 siblings:
   prev: /ru/presentational-dysphoria
   prevCaption: Презентационная дисфория

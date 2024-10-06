@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "В заключение"
 linkTitle: "Заключение"
 description: "Хватит уже придираться."
+lang: ru
 siblings:
   prev: /ru/second-puberty-fem
   prevCaption: Эстрогенное второе половое созревание

@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Лечение гендерной дисфории"
 description: "Переход - это лекарство."
 preBody: '_disclaimer'
+lang: ru
 siblings:
   prev: /ru/diagnoses
   prevCaption: Клинические диагнозы

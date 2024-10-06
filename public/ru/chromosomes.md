@@ -4,6 +4,7 @@ title: "Расстройства полового развития: Пол не 
 linkTitle: "Хромосомы"
 description: "ДНК - это скорее рекомендации, чем реальные правила."
 preBody: '_disclaimer'
+lang: ru
 classes:
   - gdb
 siblings:

@@ -4,6 +4,7 @@ title: "Эстрогенное второе половое созревание 
 linkTitle: Эстрогенное половое созревание
 description: "Чего ожидать от феминизирующей ЗГТ"
 preBody: '_disclaimer'
+lang: ru
 siblings:
   prev: /ru/second-puberty-masc
   prevCaption: Андрогенное второе половое созревание

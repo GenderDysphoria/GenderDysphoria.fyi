@@ -4,6 +4,7 @@ title: "Библия гендерной дисфории"
 linkTitle: Введение
 description: "Погружение во множество способов проявления гендерной дисфории и в то, что значит быть трансгендером."
 preBody: '_disclaimer'
+lang: ru
 classes:
   - gdb
 siblings:

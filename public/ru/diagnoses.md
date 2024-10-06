@@ -4,6 +4,7 @@ title: "Диагностика гендерной дисфории"
 linkTitle: "Клинические диагнозы"
 description: "Это клиническая картина."
 preBody: '_disclaimer'
+lang: ru
 classes:
   - gdb
 siblings:

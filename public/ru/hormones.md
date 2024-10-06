@@ -4,6 +4,7 @@ title: "Гормоны: Как они работают"
 linkTitle: "Как работают гормоны"
 description: "Ключи, замки и автомобильные замки зажигания"
 preBody: '_disclaimer'
+lang: ru
 siblings:
   prev: /ru/chromosomes
   prevCaption: Хромосомы

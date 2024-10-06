@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Трансгендер ли я?"
 linkTitle: "Трансгендер ли я?"
 description: "Дорожная карта решения сложнейшего вопроса"
+lang: ru
 siblings:
   prev: /ru/impostor-syndrome
   prevCaption: Синдром самозванца
