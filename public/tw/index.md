@@ -8,7 +8,7 @@ classes:
   - gdb
 siblings:
   next: /en/what-is-gender
-  nextCaption: What is Gender?
+  nextCaption: 性別是什麼?
 ---
 
 
@@ -23,7 +23,7 @@ siblings:
 }}
 }!}
 
-### Table of Contents:
+### 目錄：
 
 {!{ <div class="two-column-list"> }!}
 
@@ -75,7 +75,7 @@ siblings:
 
 <hr class="print-break-after print-hidden">
 
-## Introduction
+## 簡介
 
 {!{
 <div class="gutter"><blockquote>
