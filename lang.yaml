@@ -17,3 +17,7 @@
 - lang: zh
   name: 中文 (ZH)
   pdf-source: /zh/printable/index.html?pdf=true
+
+- lang: tw
+  name: 台式中文 (TW)
+  pdf-source: /tw/printable/index.html?pdf=true

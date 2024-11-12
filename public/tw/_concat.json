@@ -1,0 +1,33 @@
+{
+  "output": "public/tw/printable.md",
+  "sources": [
+    "public/tw/index.md",
+    "public/tw/what-is-gender.md",
+    "public/tw/history.md",
+    "public/tw/euphoria.md",
+    "public/tw/physical-dysphoria.md",
+    "public/tw/biochemical-dysphoria.md",
+    "public/tw/social-dysphoria.md",
+    "public/tw/societal-dysphoria.md",
+    "public/tw/sexual-dysphoria.md",
+    "public/tw/presentational-dysphoria.md",
+    "public/tw/existential-dysphoria.md",
+    "public/tw/managed-dysphoria.md",
+    "public/tw/impostor-syndrome.md",
+    "public/tw/am-i-trans.md",
+    "public/tw/diagnoses.md",
+    "public/tw/treatment.md",
+    "public/tw/causes.md",
+    "public/tw/chromosomes.md",
+    "public/tw/hormones.md",
+    "public/tw/second-puberty-masc.md",
+    "public/tw/second-puberty-fem.md",
+    "public/tw/conclusion.md"
+  ],
+  "meta": {
+    "title": "The Gender Dysphoria Bible",
+    "description": "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
