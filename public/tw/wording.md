@@ -12,3 +12,5 @@
 * sexual orientation - 性取向
   * https://terms.naer.edu.tw/ 採心理學的答案
 
+* depersonalization - 失自我感
+  * https://terms.naer.edu.tw/ 採心理學的答案

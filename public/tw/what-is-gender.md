@@ -140,7 +140,7 @@ zh-tw: -->
 Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
 
 zh-tw: -->
-性別也影響大腦對其所處環境（你的身體）的期望，當環境不符合這些期望時，大腦會通過憂鬱、去個人化、現實感喪失和解離的形式發出警報。這些是大腦潛意識地告訴我們有什麼地方出了嚴重問題。
+性別也影響大腦對其所處環境（你的身體）的期望，當環境不符合這些期望時，大腦會通過憂鬱、失自我感、現實感喪失和解離的形式發出警報。這些是大腦潛意識地告訴我們有什麼地方出了嚴重問題。
 
 {!{
 <div class="gutter"><blockquote>
