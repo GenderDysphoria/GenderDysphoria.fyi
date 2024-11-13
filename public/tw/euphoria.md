@@ -5,9 +5,9 @@ linkTitle: "性別欣快"
 description: "有陰影的地方就一定有光。"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/history
+  prev: /tw/history
   prevCaption: 性別不安的歷史
-  next: /en/physical-dysphoria
+  next: /tw/physical-dysphoria
   nextCaption: 身體不安
 classes:
   - gdb

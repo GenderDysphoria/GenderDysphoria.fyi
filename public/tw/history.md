@@ -10,9 +10,9 @@ classes:
   - gdb
 preBody: '_disclaimer'
 siblings:
-  prev: /en/what-is-gender
+  prev: /tw/what-is-gender
   prevCaption: 性別是什麼？
-  next: /en/euphoria
+  next: /tw/euphoria
   nextCaption: 性別欣快
 ---
 <!-- en:

@@ -5,9 +5,9 @@ linkTitle: "身體不安"
 description: "身體不適僅是性別不安諸多表現方式之一。"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/euphoria
+  prev: /tw/euphoria
   prevCaption: 性別欣快
-  next: /en/biochemical-dysphoria
+  next: /tw/biochemical-dysphoria
   nextCaption: 生化不安
 classes:
   - gdb
