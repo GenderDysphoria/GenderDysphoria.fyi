@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "性別不安的表現：身體不安"
+title: "性別不安的體現：身體不安"
 linkTitle: "身體不安"
-description: "身體不適僅是性別不安諸多表現方式之一。"
+description: "身體不適僅是性別不安諸多體現方式之一。"
 preBody: '_disclaimer'
 siblings:
   prev: /tw/euphoria
