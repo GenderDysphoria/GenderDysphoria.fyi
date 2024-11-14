@@ -14,3 +14,11 @@
 
 * depersonalization - 失自我感
   * https://terms.naer.edu.tw/ 採心理學的答案
+
+* derealization - 失現實感
+  * https://terms.naer.edu.tw/ 採心理學的答案
+
+* Spironolactone - 螺環固醇內酮
+
+* intersex - 陰陽人
+  * https://gec.ey.gov.tw/File/BB6090A3DC795CBA?A=C
