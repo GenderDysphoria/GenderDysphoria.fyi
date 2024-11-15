@@ -5,9 +5,9 @@ linkTitle: "社會不安"
 description: "因為角色就是角色，代價就是代價，扮演錯誤的角色是要付出沉重代價的。"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/social-dysphoria
+  prev: /tw/social-dysphoria
   prevCaption: 社交不安
-  next: /en/sexual-dysphoria
+  next: /tw/sexual-dysphoria
   nextCaption: 性慾不安
 classes:
   - gdb
