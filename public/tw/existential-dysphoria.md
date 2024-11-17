@@ -10,7 +10,7 @@ siblings:
   prev: /tw/presentational-dysphoria
   prevCaption: 表現不安
   next: /tw/managed-dysphoria
-  nextCaption: 管理不安
+  nextCaption: 應付不安
 ---
 
 <!-- # Existential Dysphoria -->
