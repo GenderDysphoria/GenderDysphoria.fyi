@@ -13,8 +13,7 @@ classes:
 preBody: '_disclaimer'
 ---
 
-<!-- æææ<div class="cw"><p><strong>Curator's Note</strong>: The following page comes from <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">a fantastic post written by Cassie LaBelle</a> and has been reshared with permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">You can read more of her writing on Medium.</a></div>æææ -->
-æææ<div class="cw"><p><strong>編者註：</strong>以下頁面來自 Cassie LaBelle 撰寫的[一篇精彩的文章](https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d)（英文），並已獲得許可轉載。[你可以在 Medium 上閱讀她更多的作品。](https://cassielabelle.medium.com/)（英文）</p></div>æææ
+æææ<div class="cw"><p><strong>編者註</strong>: 以下頁面來自 Cassie LaBelle 撰寫的<a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">一篇精彩的文章</a>（英文），並已獲得許可轉載。<a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">你可以在 Medium 上閱讀她更多的作品。</a>（英文）</div>æææ
 
 <!-- # Am I Trans? -->
 # 我是跨嗎？
