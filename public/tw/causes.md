@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "性別不一致的成因是什麼"
 linkTitle: "性別不安的成因"
 description: "是荷爾蒙，寶貝。"

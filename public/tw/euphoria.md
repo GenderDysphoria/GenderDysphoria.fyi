@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "性別不安的表現: 欣快感"
 linkTitle: "性別欣快"
 description: "有陰影的地方就一定有光。"

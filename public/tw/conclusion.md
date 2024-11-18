@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "總而言之"
 linkTitle: "結論"
 description: "不要再當守門員了。"

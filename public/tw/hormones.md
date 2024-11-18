@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "荷爾蒙：它們如何運作"
 linkTitle: "荷爾蒙如何運作"
 description: "鑰匙、鎖和汽車點火裝置"

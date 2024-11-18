@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "性發育差異:性別不是染色體"
 linkTitle: "染色體"
 description: "DNA 更像是指導方針，而不是實際規則。"
