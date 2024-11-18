@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "應付不安: 偽裝的性別"
 linkTitle: "應付不安"
 description: "我們應對的方式。"

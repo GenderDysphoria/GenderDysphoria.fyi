@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "冒牌者症候群，跨性別版本"
 linkTitle: "冒名頂替症候群"
 description: "我真的是跨嗎?"

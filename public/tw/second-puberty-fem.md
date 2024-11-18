@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "雌激素性第二青春期 101"
 linkTitle: 雌激素性青春期
 description: "女性化 HRT 的預期變化"

@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "性別不安的體現：表現不安"
 linkTitle: "表現不安"
 description: "帽T和運動褲永遠不退流行。"

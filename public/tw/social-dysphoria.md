@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: 性別不安的體現：社交不安"
 linkTitle: "社交不安"
 description: 代名詞、舊名，還有性別稱呼，天啊！"

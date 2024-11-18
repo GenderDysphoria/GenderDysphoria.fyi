@@ -1,5 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
+lang: "tw"
 title: "性別不安聖經 - The Gender Dysphoria Bible"
 linkTitle: 簡介
 description: "探討性別不安的多種表現方式以及成為跨性別者的意義。"
@@ -7,7 +8,7 @@ preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  next: /en/what-is-gender
+  next: /tw/what-is-gender
   nextCaption: 性別是什麼?
 ---
 
