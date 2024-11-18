@@ -49,7 +49,7 @@ siblings:
 
 11. [存在不安](/tw/existential-dysphoria)
 
-12. [管理不安](/tw/managed-dysphoria)
+12. [應付不安](/tw/managed-dysphoria)
 
 13. [冒名頂替症候群](/tw/impostor-syndrome)
 
