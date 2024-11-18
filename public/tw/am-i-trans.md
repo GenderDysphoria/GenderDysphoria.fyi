@@ -54,12 +54,6 @@ preBody: '_disclaimer'
 <!-- My goal today, then, is to give you some of the information and mental framing that helped me self-accept. I can’t tell you whether or not you are transgender, but I can point you down a path that you might be able to travel down yourself. I can’t provide the answers, but I can try to give you the right questions. -->
 那麼，我今天的目標是向你提供一些幫助我自我接納的資訊和思維框架。我無法告訴你你是否是跨性別者，但我可以指引你一條你可以自己走的道路。我無法提供答案，但我可以試著給你正確的問題。
 
-<!-- æææ
-<div class="gutter flex flex-end">
-  <div class="card">
-    <div class="card-header"><strong>Why do we need The Egg Prime Directive?</strong></div>
-    <div class="card-body">
-æææ -->
 æææ
 <div class="gutter flex flex-end">
   <div class="card">
