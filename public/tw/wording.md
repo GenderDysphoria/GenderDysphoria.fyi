@@ -22,3 +22,6 @@
 
 * intersex - 陰陽人
   * https://gec.ey.gov.tw/File/BB6090A3DC795CBA?A=C
+
+* null hypothesis - 虛無假設
+  * https://terms.naer.edu.tw/ 採數學
