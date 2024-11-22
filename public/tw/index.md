@@ -81,7 +81,7 @@ siblings:
 {!{
 <div class="gutter"><blockquote>
   <strong>跨性別 - Trans·gen·der</strong> - <em>形容詞</em><br>
-  表示或關於一個人的人格同一性和性別感不符合他們出生時被指定的性別的人。
+  指的是一個人的自我認同與性別，不符合其出生時被指定的性別。
 </blockquote></div>
 }!}
 
