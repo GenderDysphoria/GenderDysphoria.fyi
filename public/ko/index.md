@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "The Gender Dysphoria Bible"
+title: "젠더 불쾌감 바이블"
 linkTitle: Introduction
-description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
+description: "젠더 불쾌감 나타나게 되는 수많은 방법들과 트랜스젠더가 된다는 것이 어떤 의미인지에 대한 탐구."
 preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  next: /en/what-is-gender
-  nextCaption: What is Gender?
+  next: /ko/what-is-gender
+  nextCaption: 젠더가 무엇인가요?
 ---
 
 
@@ -23,84 +23,84 @@ siblings:
 }}
 }!}
 
-### Table of Contents:
+### 목차:
 
 {!{ <div class="two-column-list"> }!}
 
-1. [Introduction](/en/#introduction)
+1. [소개](/ko/#introduction)
 
-2. [What is Gender?](/en/what-is-gender)
+2. [젠더가 뭔가요?](/ko/what-is-gender)
 
-3. [The History of Gender Dysphoria](/en/history)
+3. [젠더 불쾌감의 역사](/ko/history)
 
-4. [Gender Euphoria](/en/euphoria)
+4. [젠더 만족감](/ko/euphoria)
 
-5. [Physical Dysphoria](/en/physical-dysphoria)
+5. [신체적 불쾌감](/ko/physical-dysphoria)
 
-6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
+6. [생화학적 불쾌감](/ko/biochemical-dysphoria)
 
-7. [Social Dysphoria](/en/social-dysphoria)
+7. [Social Dysphoria](/ko/social-dysphoria)
 
-8. [Societal Dysphoria](/en/societal-dysphoria)
+8. [Societal Dysphoria](/ko/societal-dysphoria)
 
-9. [Sexual Dysphoria](/en/sexual-dysphoria)
+9. [성적 불쾌감](/ko/sexual-dysphoria)
 
-10. [Presentational Dysphoria](/en/presentational-dysphoria)
+10. [표현 방식에 대한 불쾌감](/ko/presentational-dysphoria)
 
-11. [Existential Dysphoria](/en/existential-dysphoria)
+11. [존재론적 불쾌감](/ko/existential-dysphoria)
 
-12. [Managed Dysphoria](/en/managed-dysphoria)
+12. [관리된 불쾌감](/ko/managed-dysphoria)
 
-13. [Impostor Syndrome](/en/impostor-syndrome)
+13. [가면 증후군](/ko/impostor-syndrome)
 
-14. [Am I Trans?](/en/am-i-trans)
+14. [제가 트랜스젠더일까요?](/ko/am-i-trans)
 
-15. [Clinical Diagnoses](/en/diagnoses)
+15. [임상 진단](/ko/diagnoses)
 
-16. [Treating Gender Dysphoria](/en/treatment)
+16. [젠더 불쾌감 치료](/ko/treatment)
 
-17. [Causes of Gender Dysphoria](/en/causes)
+17. [젠더 불쾌감의 원인](/ko/causes)
 
-18. [Chromosomes](/en/chromosomes)
+18. [염색체](/ko/chromosomes)
 
-19. [How Hormones Work](/en/hormones)
+19. [호르몬의 작용 방식](/ko/hormones)
 
-20. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+20. [안드로겐성 2차 사춘기 101](/ko/second-puberty-masc)
 
-21. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+21. [에스트로겐성 2차 사춘기 101](/ko/second-puberty-fem)
 
-22. [Conclusion](/en/conclusion)
+22. [결론](/ko/conclusion)
 
 {!{ </div> }!}
 
 <hr class="print-break-after print-hidden">
 
-## Introduction
+## 도입부
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Trans·gen·der</strong> - <em>adjective</em><br>
-  Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+  <strong>Trans·gen·der</strong> - <em>형용사</em><br>
+  정체성에 대한 감각과 젠더가 출생 시 지정된 성별과 일치하지 않는 사람을 나타내거나 이에 관련된 것.
 </blockquote></div>
 }!}
 
-In cultures worldwide, for as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their gender identity do not align with the anglo-european concepts of binary sex based on genital structure. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Tribal [cultures all across Africa](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) recognize numerous gender identities, which [Europeans tried to wipe out](https://daily.jstor.org/the-deviant-african-genders-that-colonialism-condemned/). Human beings have long lived with identities, norms, and degrees of conformity to those norms which differ from the so-called "traditional" idea of gender in westernized culture today.
+인류 문명이 존재해 온 이래로, 전 세계의 다양한 문화에서는 젠더 정체성의 경험이 생식기 구조에 기반한 앵글로-유럽계 성별 이분법과 일치하지 않는 [사람들이 있어왔습니다](https://en.wikipedia.org/wiki/Transgender_history). 수메르 제국에 존재했던 중간 성별의 사제 계층인 갈라가 4,500년 전에 존재하기도 했습니다. 북아메리카 원주민 문화는 유럽 식민주의 이전부터 [제 3의 젠더](https://en.wikipedia.org/wiki/Third_gender)를 인정해왔으며, 오늘날에도 이를 존중하고 있습니다. [아프리카 전역의 부족 문화](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) 또한 다양한 성 정체성을 인정해 왔는데, 이를 유럽인들이 말살하려 하였습니다. 인간은 오랫동안 정체성, 규범, 그리고 그 규범에 대한 순응의 정도가 서구 문화에서 흔히 "전통적"이라고 여겨지는 젠더의 개념과 다르게 살아왔습니다.
 
-In spite of this, however, the modern western understanding of the transgender experience has only existed for approximately 130 years. Even the word "transgender" only dates back to 1965, when John Oliven proposed it as a more accurate alternative to David Cauldwell's term "transsexual" (coined in 1949), which itself replaced Magnus Hirschfield's term "transvestite" (1910).
+하지만 그럼에도 불구하고 트랜스젠더 경험에 대한 현대 서구의 이해는 130년 동안 밖에 존재해오지 않았습니다. 심지어 David Cauldwell의 "트랜스섹슈얼<sup>(transsexual)</sup>" (1949년에 만들어진 용어) 의 더 정확한 대안으로 John Oliven이 제의한 "트랜스젠더<sup>(transgender)</sup>"라는 단어가 1965년으로 거슬러 올라가곤 하는데, 이 단어 자체도 Magnus Hirschfield의 용어인 "트랜스베스타이트<sup>(transvestite)</sup>" (1910) 를 대체하기도 했습니다.
 
-Being transgender can mean that a person born with a penis is actually a girl, that a person born with a vulva is actually a boy, or that a person with any genital configuration may not wholly fit either side of that spectrum and is non-binary.
+트랜스젠더가 된다는 것은 음경을 가진 사람이 사실은 소녀이고, 음문을 가진 사람이 사실은 소년이고, 혹은 어떤 생식기 구성을 가졌든 이 스펙트럼의 어느 한 쪽에도 완전히 맞아들어가지 않는 사람이 논바이너리일수도 있다는 것을 의미합니다.
 
-A trans person can come to recognize this at *any point* in their life. Some children identify it at as soon as they are able to grasp the concept of gender, others don't start to feel anything until the onset of puberty, and still others do not realize that anything is wrong at all until they are fully adults. Many people are simply never exposed to the idea that their gender could mismatch their sex assigned at birth, or what that feels like, and thus simply accepted their fate.
+트랜스젠더인 사람들은 자신의 정체성을 삶의 **어느 시점에서든** 깨달을 수 있습니다. 어떤 아이들은 젠더라는 개념을 이해할수 있게 되자마자 정체화하기도 하고, 어떤 사람들은 사춘기가 시작되기 전까지 어떤 것도 느끼지 않을 수도 있습니다. 그리고 어떤 사람들은 완전히 성인이 되기 전까지 무언가가 잘못되었다는 것을 전혀 느끼지 않기도 합니다. 많은 사람들이 자신의 젠더가 출생 시 지정된 성별과 일치하지 않을 수 있거나 그게 어떻게 느껴지는지에 대해 노출되어본 적이 없고, 그러므로 단순히 주어진 운명을 받아들이며 살아왔을 수도 있습니다.
 
-Even more common is a perception that even though they have feelings about being unhappy with the gender they were assigned at birth, they believe that this is not the same as what transgender people experience. Some may feel that a wish to be transgender and have transition available is some kind of disrespect towards "real" trans people who knew they were actually boys or girls "born in the wrong body." These narratives of the transgender experience that have been spread by popular media can create a very false impression of just what it means to be transgender and what growing up transgender feels like.
+더 흔한 것으로는 자신의 출생 시 지정된 젠더에 행복하지 않은 느낌이 들지만, 그 경험이 트랜스젠더들이 겪는 것과 같지 않다고 생각하는 인식입니다. 어떤 사람들은 트랜스젠더가 되고 전환에 접근하고 싶어하는 것이 사실은 "잘못된 몸으로 태어난" 소년 혹은 소녀인지 알고 있었던 "진짜" 트랜스젠더들에 대한 비존중이라고 느낄 수도 있습니다. 대중 매체에 의해 퍼뜨려진 이러한 트랜스젠더 경험에 대한 이야기는 단순히 트랜스젠더가 된다는 것이 어떤 의미인지, 그리고 트랜스젠더로 자라는 것이 어떻게 느껴지는지에 대해 매우 잘못된 인식을 발생시킬 수도 있습니다.
 
-This experience of discontinuity between the societal presumed gender and the internal sense of self is what we describe as Gender Dysphoria, and is common among nearly all trans individuals, regardless of their position within or outside of the gender binary. This has at times been something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests itself, and what qualifies a person as being trans. So as not to get lost in that topic, this site will define Gender Dysphoria in broad terms of incongruence with sex assigned at birth. If you experience gender identity in a way that does not match what was assigned to you at birth, your claim to the transgender identity is valid, no matter how that incongruence manifests for you.
+사회적으로 추정된 젠더와 내면의 자아감 사이의 이러한 불연속적인 경험은 우리는 젠더 불쾌감<sup>(Gender Dysphoria)</sup> 이라고 부르는데, 이는 젠더 이분법 내에 위치해있든 외에 위치해있든 거의 모든 트랜스젠더 개인에게서 나타납니다. 여러 그룹들이 젠더 불쾌감이 무엇인지, 어떻게 드러나는지, 트랜스젠더가 되는 데에 어떤 조건이 있는지에 대해 각기 다른 의견들을 가지고 있기 때문에 이러한 주제는 때때로 트랜스젠더 공동체 내에서 정치적 논쟁거리가 되기도 합니다. 이 주제에서의 혼란을 피하기 위해 이 사이트에서는 젠더 불쾌감을 출생 시 지정된 성별과의 넓은 맥락에서의 불일치로 정의합니다. 만약 당신이 출생 시 지정된 젠더와 일치하지 않는 젠더 정체성을 경험했다면, 그 불일치가 어떤 형태로 나타나든 당신의 트랜스젠더 정체성에 대한 주장은 유효합니다.
 
-The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as the numerous forms of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
+질문 중인 사람들, 트랜스젠더 여정을 시작하는 사람들, 이미 여정에 있는 사람들, 그리고 단순히 앨라이가 되고자 하는 사람들에게 가이드를 제공해 줄수 있도록, 이 웹사이트의 목적은 수많은 형태의 젠더 전환과 함께 젠더 불쾌감이 나타날 수 있는 여러 많은 방식들을 문서화하기 위함입니다.
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">
-<span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<span><a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a>의 작품들에 기반한 표지 아트워크</span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
 {{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
