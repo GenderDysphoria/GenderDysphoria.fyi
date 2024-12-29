@@ -1,13 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "What is Gender?"
-description: "How do we define the concept of Gender, and how does it differ from Sex?"
+title: "젠더가 무엇인가요?"
+description: "젠더의 개념을 어떻게 정의하고, 젠더가 성별과 어떻게 다른가요?"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/
-  prevCaption: Introduction
-  next: /en/history
-  nextCaption: The History of Gender Dysphoria
+  prev: /ko/
+  prevCaption: 소개
+  next: /ko/history
+  nextCaption: 젠더 불쾌감의 역사
 classes:
   - gdb
 tweets:
@@ -15,24 +15,24 @@ tweets:
   - '1439225913623781377'
 ---
 
-# What is Gender?
+# 젠더가 무엇인가요?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Gen·der</strong> - <em>Noun</em><br>
-    The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or gender identity (the personal sense of one's own gender).
+    <strong>Gen·der</strong> - <em>명사</em><br>
+    여성성과 남성성과 관련되고 각 특징을 구분하는 특성의 범위. 맥락에 따라서 이러한 특성들은 생물학적 성별, 성별에 기반한 사회적 구조 (예: 젠더 역할), 혹은 젠더 정체성 (자신의 젠더에 대한 개인적인 인식) 을 포함할 수 있다.
   </blockquote>
 </div>
 }!}
 
-If you trace the etymology of the word to its Latin roots, gender simply means "type". The Norman French term **gendre** was in use in the 12th century to describe "the quality of being male or female."
+이 단어의 라틴어 어원을 추적해보면, 젠더는 단순히 "유형"을 의미합니다. 노르만 프랑스어의 **gendre**는 12세기에 "남성 또는 여성의 특성"을 설명하는 데 사용되었습니다.
 
-Many people attribute the term to psychologist John Money, who proposed using "gender" in 1955 to differentiate mental sex from physical sex. However, Money was not the first to do so. Cultural Anthropologist [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) used the term in 1949 in her book "Male and Female" to distinguish gendered behaviors and roles from biological sex. The American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) described the book thusly:
+많은 사람들이 1955년에 "젠더"를 정신적 성별과 신체적 성별을 구별하는 데 사용하자고 제안한 심리학자인 John Money에게서 이 용어가 비롯되었다고 봅니다. 그러나 그가 최초로 이 용어를 사용한 사람은 아니었습니다. 문화인류학자 [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead)는 1949년 그녀가 쓴 책인 "남성과 여성<sup>(Male and Female)</sup>"에서 생물학적 성별과 구분되는 젠더 행동과 역할을 설명하기 위해 이 용어를 사용했습니다. 미국 심리학 저널 ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948))에서는 이 책을 다음과 같이 묘사했습니다:
 
-> A book, moreover, which gives beyond its premise; for it informs the reader upon **'gender' as well as upon 'sex,'** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
+> 게다가 이 책은 전제 이상의 것을 알려준다. 독자에게 '젠더'와 '성별', 남성성과 여성성, 남성과 여성, 그리고 그들의 생식 기능에 대해서도 정보를 제공한다.
 >
-> Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
+> Margaret Mead는 특정한 설명에서 출발하여 여러 공동체에서 남성과 여성의 더 일반적인 구별로 나아가고, 마침내 우리 사회와 현대의 성 패턴에 대한 분석에 이른다.
 
 {!{
 <div class="gutter">
@@ -43,31 +43,31 @@ Many people attribute the term to psychologist John Money, who proposed using "g
 </div>
 }!}
 
-Human Sex (the adjective, not the verb) is broken down into three categories:
+인간의 성별 (sex / 형용사, 동사가 아님) 은 다음 세 가지 범주로 나뉩니다:
 
-- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
-- **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
-- **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person's own sex and the way that they express it.
+- **[유전자형<sup>(Genotype)</sup>](https://en.wikipedia.org/wiki/Genotype)**: 생물의 유전적으로 정의된 염색체 핵형 (XX, XY, 및 그 변이형)
+- **[표현형<sup>(Phenotype)</sup>](https://en.wikipedia.org/wiki/Phenotype)**: 관찰 가능한 1차 및 2차 성징 (생식기, 지방 및 근육 분포, 골격 구조 등)
+- **[젠더<sup>(Gender)</sup>](https://en.wikipedia.org/wiki/Gender)**: 관찰할 수 없는 성징, 개인 스스로의 성과 그 성을 표현하는 방법에 대한 내면적 정신 모델
 
-Any of these three aspects can fall into a position on a range of values. Your elementary school health class probably taught you that Genotype is binary, either Female (XX) or Male (XY), when the reality is that there are a dozen other permutations that can occur within human beings.
+세 가치 측면 모두가 여러 값에 맞아 들어갈 수 있습니다. 여러분이 초등학교 건강 수업에서 유전자형이 여성 (XX) 혹은 남성 (XY) 둘 중 하나라며 이진법적이라고 배웠을 수도 있지만, 실제로는 인간에게서 일어날 수 있는 다수의 변형이 존재합니다.
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Likewise, many people believe that Phenotype is also binary, but biology has recognized for hundreds of years that when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
+마찬가지로, 많은 사람들이 표현형도 이진법적이라고 믿지만, 생물학은 수백 년 동안 성징을 전체 집단에 걸쳐 도식화하면 실제로는 대부분의 인구가 두 그룹의 백분위수 내에 속하게 되는 이봉분포<sup>(bimodal distribution)</sup>로 나타난다는 것을 인식해 왔습니다. 일부 사람들은 단순히 자연의 법칙에 따라서 두 범주 밖에 속하게 될 것이라는 뜻입니다. 많은 사람들이 두 성별의 성징과 함께 중간에 위치합니다.
 
-Gender, however, is a lot more... esoteric. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
+하지만 젠더는 훨씬 더... 난해합니다. 사람들이 젠더 스펙트럼을 설명할려고 했던 여러 다른 방법들이 존재하지만, 그 어떠한 것도 완전히 담아내지 못했습니다. 왜냐하면 스펙트럼 자체가 매우 추상적인 개념이기 때문입니다.
 
 {!{
 <div class="">
   <div class="card">
-    <div class="card-header"><strong>Some of the methods used to describe gender</strong></div>
+    <div class="card-header"><strong>젠더를 설명하기 위해 사용된 일부 방법들</strong></div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
       {{import '~/img' images.gender_unicorn className="" }}
     </div>
     <div class="card-body">
-      <em>Sources:</em>
+      <em>출처:</em>
       [<a href="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of">Tumblr</a>]
       [<a href="http://www.transstudent.org/gender">TransStudent.org</a>]
     </div>
@@ -75,37 +75,37 @@ Gender, however, is a lot more... esoteric. There are a lot of different ways th
 </div>
 }!}
 
-The short of it is, some people are very male, some people are very female, some people feel no gender at all, some people feel both, some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender, no one else can dictate it for them.
+짧게 말해, 어떤 사람들은 매우 남성적이고, 어떤 사람들은 매우 여성적이며, 어떤 사람들은 젠더를 전혀 느끼지 않을수도 있고, 어떤 사람들은 둘 다 느낄수도 있고, 어떤 사람들은 가운데에 던져졌고, 어떤 사람들은 가장자리를 따라 착지했을수도 있습니다. 어떤 사람들은 바람처럼 변화하며 예측 불가능한 방식으로 스펙트럼 전역으로 오갈수도 있습니다. 오직 자신만이 자신의 젠더를 정의할 수 있습니다. 다른 누구도 그것을 강요할 수 없습니다.
 
-Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
+젠더는 부분적으로 사회적 형성물, 부분적으로 학습된 행동들, 그리고 사람의 생애 초기부터 형성되는 부분적으로 생물학적인 과정입니다.
 
-Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
+오늘날의 증거에 따르면 젠더는 태아기 동안 뇌의 대뇌피질이 형성될 때 확립되는 것으로 보입니다. (젠더 불쾌감의 원인 영역에서 더 자세히 다루겠습니다.) 이러한 정신적 모델을 통해 무의식적인 단계에서 어떤 젠더 스펙트럼의 측면으로 기울게 될지 알수 있습니다. 이는 행동, 세계에 대한 인식, 끌림을 경험하는 방법 (성적 지향 및 호르몬의 영향과는 별개입니다), 그리고 다른 사람들과의 유대 형성 방식에 영향을 미칩니다.
 
-Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
+젠더는 뇌가 자신이 속한 환경 (신체) 에 대해 가지는 기대에 영향을 미치기도 합니다. 이러한 환경이 이 기대에 미치지 못할 경우 뇌는 우울증, 이인증, 비현실감, 해리와 같은 경고 신호를 보냅니다. 이러한 신호들은 뇌가 우리에게 무언가가 매우 잘못되었다고 알려주는 무의식적인 방법입니다.
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Hab·i·tus</strong> - <em>Noun</em><br>
-  Socially ingrained habits, skills, and dispositions. The way a person perceives and reacts to the world.
+  <strong>Hab·i·tus</strong> - <em>명사</em><br>
+  사회적으로 깊이 몸에 밴 습관, 능력, 기질. 사람이 세상을 받아들이고 세상에 반응하는 방식.
 </blockquote></div>
 }!}
 
-On the social side, gender involves our [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology)): our presentation, our mannerisms and behaviors, how we communicate, how we react, what our expectations are from life, and the roles that we fulfill as we walk through life. The author Susan Stryker described habitus it in her book [Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X):
+사회적인 면에서는, 젠더는 우리의 [하비투스<sup>(habitus)</sup>](https://en.wikipedia.org/wiki/Habitus_(sociology))를 포함하기도 합니다. 이러한 하비투스의 예시로는 우리의 외모, 습관과 행동, 반응하는 방식, 우리가 삶에서 기대하는 것들, 그리고 우리가 삶을 살아가면서 수행하는 역할들이 있습니다. 저자인 Susan Stryker는 그녀의 책인 [트랜스젠더 역사](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X)에서 하비투스를 다음과 같이 설명했습니다:
 
-> A lot of habitus involves manipulating our secondary sex characteristics to communicate to others our own sense of who we feel we are---whether we sway our hips, talk with our hands, bulk up at the gym, grow out our hair, wearclothing with a neckline that emphasizes our cleavage, shave our armpits, allow stubble to be visible on our faces, or speak with a rising or falling inflection at the end of sentences. Often these ways of moving and styling have become so internalize that we think of them as natural even though---given that they are all things we've learned through observation and practice---they can be better understood as culturally acquired "second nature."
+> 많은 하비투스들은 우리가 스스로 느끼는 정체성을 다른 사람들에게 전달하기 위해 이차 성징을 조작하는 것들을 포함하게 됩니다. 골반을 흔들며 걷거나, 손을 사용해 말하거나, 헬스장에서 근육을 키우거나, 머리를 기르거나, 가슴을 강조하는 넥라인이 있는 옷을 입거나, 문장 끝에 올라가거나 내려가는 억양으로 말하는 등의 행동이 그 예입니다. 이러한 움직임과 스타일링 방식은 너무 내면화되어 마치 자연스러운 것처럼 느껴지지만, 사실 이는 관찰과 연습을 통해 배운것이기 때문에 문화적으로 습득된 '제2의 본성'으로 이해하는 것이 더 적절합니다.
 
-Indeed, these are all cultural factors; things which have developed within the population over time. Regardless of being essentially "made up", they are still strongly gendered and a person tends to connect to the gendered habitus of their internal self, without even realizing they are doing it. When we are denied access to those social aspects, this results in discomfort with one's social position in life.
+정말로 이러한 것들은 사회 속에서 시간이 자나며 발달된 문화적 요인들입니다. 본질적으로 "만들어진 것"이라고 하더라도, 여전히 강하게 젠더화되어 있으며 사람들은 자신도 모르게 자신의 내면의 자아와 연결된 젠더화된 하비투스에 연결되기 마련입니다. 이러한 사회적 측면에 대한 접근이 제한될 때는 삶에서의 사회적 위치에 대한 불편함이 초래되게 됩니다.
 
-John Money's experiments attempted to confirm his belief that gender is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). Gender does not change, every human is the same gender at 40 that they were at 4. What changes is our own personal understanding of our gender as we mature as individuals.
+John Money의 실험은 젠더가 완전히 사회적 형성물이며 어떤 아이들도 가르쳐진 대로 자신을 정체화 할수 있다는 Money의 믿음을 확실시하고자 하였습니다. 그의 실험은 완전한 실패였습니다. (생화학적 불쾌감 영역을 참조해주세요.) 젠더는 변하지 않습니다. 모든 인간은 40살 때이나 4살 때이나 같은 젠더입니다. 실제로 변하는 것은 우리가 개인으로 자라나면서 이해하게 되는 자신의 젠더에 대한 해석일 뿐입니다
 
-These negative symptoms (depression, derealization, social discomfort) are the symptoms of Gender Dysphoria.
+이러한 부정적인 증상(우울증, 비현실감, 사회적 불편감)은 젠더 불쾌감의 증상입니다.
 
-What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual, etc), but gender itself does not affect sexuality and sexuality has no role in gender.
+젠더에 해당하지 않는 내용을 언급하자면 성적 지향이 있습니다. 우리는 우리의 젠더에 연결된 용어들을 사용하여 지향성을 설명하지만 (동성애자/이성애자/양성애자, 기타), 젠더 자체는 섹슈얼리티에 영향을 끼치지 않고 섹슈얼리티는 젠더와 연관이 없습니다.
 
-## What does it mean to be Non-Binary?
+## 논바이너리가 된다는 것이 어떤 의미인가요?
 
-Non-Binary can basically be simplified as a lack of exclusive affinity to Male or Female. This may be a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), a total affinity to both ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), a balanced affinity to both (androgyne), an affinity that changes from day to day ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.wikia.org/wiki/Pangender)).
+논바이너리는 간단하게 말해 남성 혹은 여성에 구애된 친연성이 적다는 것으로 간단히 설명될 수 있습니다. 두 젠더에 모두에 친연성이 부족한 것일수도 있고 ([에이젠더<sup>agender</sup>](https://gender.wikia.org/wiki/Agender)), 양 젠더에 완전히 친연성이 있는 것일수도 있고 ([바이젠더<sup>bigender</sup>](https://gender.wikia.org/wiki/Bigender)), 두 젠더 모두에 균형적으로 친연성이 있는 것일수도 있고 ([젠더플루이드<sup>genderfluid</sup>](https://gender.wikia.org/wiki/Genderfluid)), 부분적으로 친연성이 있을수도 있고 ([데미젠더<sup>demigender</sup>](https://gender.wikia.org/wiki/Demigender)), 전체 젠더 스펙트럼에 친연성을 동시에 가질 수도 있습니다 ([팬젠더<sup>pangender</sup>](https://gender.wikia.org/wiki/Pangender)).
 
-It could be an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.wikia.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
+한 젠더의 측면에서 친연성이 있지만 다른 젠더는 그렇지 않을수도 있습니다. 예를 들어서, [데미걸](https://gender.wikia.org/wiki/Demigirl)은 출생 시 여성으로 지정됐지만 여성이 되는 것이나 여성성에 부분적으로 연결됐다고 느낄 수도 있습니다. 출생 시 남성으로 지정되었지만 젠더 불쾌감을 완화하기 위해 호르몬 치료를 받고 있고, 여성 표현형을 지녔지만 여성이 되는 것의 사회적인 측면에 강한 연결을 느끼지 않는 사람일 수도 있습니다.
 
-In generalist terms this book will be describing gender in a sense of binary identities (male/female) vs non-binary identities, but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
+일반적인 맥락에서 이 책은 젠더를 이진법적인 정체성 (남성/여성) VS 논바이너리 정체성의 관점에서 설명할 예정입니다. 하지만 이러한 설명 방법은 간단한 작성을 위한 것입니다. 젠더 경험과 표현의 깊이는 이러한 간단한 설명보다 훨씬 훨씬 복잡하다는 것을 알아주세요
