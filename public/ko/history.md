@@ -1,23 +1,23 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "A Brief History of Gender Dysphoria"
-linkTitle: "The History of Gender Dysphoria"
-description: "The origins of Gender Dysphoria and the current meaning today."
+title: "간단한 젠더 불쾌감의 역사"
+linkTitle: "젠더 불쾌감의 역사"
+description: "젠더 불쾌감의 유래와 오늘날에서의 의미."
 classes:
   - gdb
 preBody: '_disclaimer'
 siblings:
-  prev: /en/what-is-gender
-  prevCaption: What Is Gender?
-  next: /en/euphoria
-  nextCaption: Gender Euphoria
+  prev: /ko/what-is-gender
+  prevCaption: 젠더가 뭔가요?
+  next: /ko/euphoria
+  nextCaption: 젠더 만족감
 ---
 
-# A Brief History of Gender Dysphoria
+# 간략한 젠더 불쾌감의 역사
 
-In 1948, noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
+1948년에 저명한 성과학자 Alfred Kinsey (네 [*그* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey) 맞습니다.) 는 자신이 사실은 소녀이고 무언가가 매우 잘못됐다며 요지부동으로 주장한 남자아이를 둔 여성으로부터 연락을 받았습니다. 그 어머니는 자신의 딸을 억누르기 보다는 자신의 딸이 자신이 되고 싶은 사람이 될수 있도록 돕고 싶어 했습니다. Kinsey는 독일의 내분비학자인 [Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin)을 찾아가 그가 아이를 도와줄 수 있는지 알아보고자 하였습니다. Benjamin은 그 십대를 위해 에스트로겐 치료 방침을 개발했고, 수술적 지원을 받기 위해 아이의 가족과 협력하였습니다.
 
-Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term Gender Identity Disorder instead.
+그 다음 Benjamin은 계속하여 치료 방침을 다듬고, 자신의 경력 동안 비슷한 감정을 가지고 있는 수천명의 환자들을 치료했습니다. 자신의 일에 대한 보수를 받길 거부하고, 대신에 이러한 환자들에게 안도감을 주는 것으로 만족감을 느끼며, 환자들의 치료 이력을 이용하여 이러한 상태에 대한 자신의 이해를 넓히고자 하였습니다. 1973년 Benjamin은 이러한 불일치감을 젠더 불쾌감이라는 용어로 명명했습니다. 안타깝게도, 이 용어는 2013년까지 미국에서 사용되지 않았으며, 그때까지 미국 정신의학회<sup>(American Psychiatric Association)</sup>는 젠더 정체성 장애라는 용어를 대신 사용했습니다.
 
 {!{
 <div class="gutter print-inline">
@@ -28,54 +28,54 @@ Benjamin then went on to refine his protocol and treated thousands of patients w
 </div>
 }!}
 
-If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how Gender Dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transsexual", you were usually rejected for treatment.
+만약 이 글을 읽고 있는 트랜스젠더라면, Harry Benjamin 이라는 이름을 들어본 적이 있을겁니다. 하지만 긍정적인 맥락에서 들어본 것은 아닐텐데요. 1979년에 그의 이름이 트랜스젠더를 위한 치료 기준<sup>(Standards of Care (SoC) for transgender people)</sup>을 발표한 Harry Benjamin 국제 젠더 불쾌감 협회 (HBIGDA)를 설립하는데 (허락 하에) 사용되었습니다. 이 치료 기준은 "Harry Benjamin 규칙"으로 알려졌으며, 젠더 불쾌감의 진단에 있어서 악명높게 제한적이었습니다. 환자들은 고통과 성기능 장애의 단계에 따라 6등급 척도로 분류되었습니다. 만약 5등급 이상, 즉 "진정한 트랜스섹슈얼"로 분류되지 않았다면, 대부분의 경우 치료가 거부되었습니다.
 
-The problem was, Tier 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals, and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that if you did not fit all the criteria, then you were not trans enough to transition.
+문제는 5등급과 6등급이 독점적으로 출생 성별에 끌림을 느껴야 한다고 요구했다는 점입니다. 전환은 반드시 이성애자가 **되는 것이어야 했고**, 게이와 양성애자는 허용되지 않았습니다. 몸과 생식기에 극심한 불쾌감을 경험해야 했고, 치료 없이도 이미 진정한 젠더로 살고 있어야 하기도 했습니다. 많은 트랜스젠더들이 공동체 코칭과 퍼포먼스적인 표현을 통해 이러한 제한을 우회하기도 했지만, 많은 (저를 포함한) 사람들에게 있어서 이 척도에 맞아 떨어지지 않는다면 전환을 할 만큼 진정한 트랜스젠더가 아니라고 믿어졌었습니다.
 
-In 2011 the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (SoC, version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
+2011년 HBIGDA는 트랜스젠더 이해와 수용에 대한 증가하는 압력에 대응하기 위해 조직을 스스로 재편하고, WPATH <sup>(세계 트랜스젠더 건강 전문가 협회 / World Professional Association for Transgender Health)</sup> 라는 새로운 이름을 채택했습니다. (이 단체에서 최초로) 실제 트랜스젠더들의 지도 아래에서, 완전히 새로운 치료 기준 (10년만의 SoC, 7판) 을 발표하기도 하였는데, 이 기준에서는 특정한 개인의 증상에 집중하고 젠더와 섹슈얼리티를 완전히 분리하면서 Benjamin 척도를 폐기하였습니다. 2년 뒤, 2013년에 미국 심리학회가 정신질환 진단 및 통계 편람 (DSM) 5판에서의 진단 척도를 WPATH 치료 기준과 일치하도록 개정하기도 하였는데, 그 결과 젠더 정체성 장애가 젠더 불쾌감으로 대체되었습니다. 이 변화로, 미국의 모든 트랜스젠더들이 의료적 전환을 받을 수 있게 됐습니다.
 
-This is why trans presence across the world has suddenly exploded in the last decade. With easier access comes larger numbers, with larger numbers comes more visibility, with more visibility comes more awareness, and with more awareness comes more people accessing treatment. [A study conducted in 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) showed 0.6% of adults and 0.7% of youth in the United States identified as transgender, [a study conducted in 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) showed 1.8% of high school age students identified as transgender, and [a survey conducted by GLAAD in 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) showed a whopping 12% of respondents 18 to 34 did not identify as cisgender.
+그러한 이유로 지난 10년동안 전 세계에서 트랜스젠더의 존재가 급격히 증가했던 것입니다. 접근이 쉬워지면 숫자가 증가하고, 숫자가 증가하면 가시성이 높아지며, 가시성이 높아지면 인식이 확산되고, 인식이 확산되면 더 많은 사람들이 치료를 받게 됩니다. [2014년에 실시된 연구](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf)에 따르면 미국 성인 인구의 0.6%와 청소년 0.7%가 자신을 트랜스젠더로 정체화했습니다. 그리고 [GLAAD가 2017년에 실시한 설문조사](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf)에 따르면, 18세에서 34세 응답자의 무려 12%가 시스젠더로 정체화하지 않았다고 합니다.
 
-Transgender people are coming out of the woodwork; we are everywhere.
+트랜스젠더들이 이제 모습을 드러내고 있습니다. 우리는 어디에나 존재합니다.
 
-## So What Is Gender Dysphoria?
+## 그래서 젠더 불쾌감이 뭔가요?
 
 {!{
 <div class="gutter print-span4">
   <blockquote>
-    <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
-    A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+    <strong>Dys·pho·ri·a</strong> - <em>명사</em><br>
+    삶에 대한 불안감이나 일반적인 불만족 상태. 만족감의 반대.
   </blockquote>
   {{import '~/img' images.glue className="card print-span4"}}
 </div>
 }!}
 
-There is a common misconception among both cisgender and transgender people that Gender Dysphoria refers exclusively to a physical discomfort with ones own body. However, this belief that body discomfort is central to Gender Dysphoria is in fact a misconception, and is not even a majority component of a Gender Dysphoria diagnosis. Gender Dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and yes, how you relate to your own body. Consequently, proponents of the WPATH SoC 7 and the DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
+시스젠더와 트랜스젠더 모두가 흔히 오해하는 점 중 하나로 젠더 불쾌감이 오로지 자신의 신체에 대한 불편함을 의미한다는 것이 있습니다. 하지만, 신체에 대한 불편함이 젠더 불쾌감의 중심 요소라는 이러한 믿음은 실제로는 오해이며, 젠더 불쾌감 진단의 주요 구성 요소조차 아닙니다. 젠더 불쾌감은 삶의 다양한 모든 측면에 걸쳐 나타납니다. 그 예시로는 타인과의 상호작용, 타인이 자신을 대하는 방식, 옷차림, 행동 양식, 사회에서의 적응, 주변 세계에 대한 인식, 그리고 물론 자신의 신체와의 관계까지 포함됩니다. 결과적으로, WPATH의 치료 기준 7판과 DSM-5의 지지자들은 "트랜스젠더가 되기 위해 반드시 젠더 불쾌감을 느낄 필요는 없다"는 말을 자주 합니다. 이 말은 극심한 신체적 불편감을 느끼지 않는 사람들도 트랜스젠더일 수 있다는 내용을 알리며 만트라처럼 자주 반복됩니다.
 
-In principle, Gender Dysphoria is a feeling of wrongness intrinsic to the self. There is no logical backing to this wrongness, there is nothing which explains it, you can not describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things *are* incorrect can be hard to properly identify.
+본질적으로, 젠더 불쾌감은 스스로에게 내재된 잘못된 느낌입니다. 이 잘못됨에 대한 논리적인 근거는 없으며, 이를 설명할수 있는 것은 없습니다. 왜 이런 감정을 느끼는지 말로 설명할 수 없고, 그냥 그렇게 느껴집니다. 존재하면서 어떤 것들이 잘못되었지만, **어떤 것들**이 잘못되었는지 알면서도 정확히 파악하긴 어려울 수 있습니다.
 
-The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
+제가 설명을 하곤 했던 방식으로는, 어린 아이가 성인용 장갑을 낄 때와 같다는 것이 있습니다. 장갑에 손을 넣을 수 있고, 손가락이 장갑 속 구멍 갯수와 일치하지만, 그 장갑을 낀 상태에서는 손재주가 크게 제한됩니다. 무언가를 주울 수는 있겠지만, 성인이 할수 있는 것처럼 조작할 수는 없습니다. 뭔가가 정확히 맞아들어가지 않는 느낌입니다.
 
-Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
+Evey Winters는 자신이 쓴 [불쾌감 블로그 포스트](https://eveywinters.com/on-dysphoria-before-enduring-and-after/)에서 다음과 같이 설명했습니다.
 
-> Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
+> 공공장소나 공적인 자리 어딘가에 앉아있는데 갑자기 발밑이 가려웠던 적이 있으신가요? 거기서 바로 신발을 빼고 간질수는 없는데, 그래서 바로 옆쪽에서 말을 거는 사람을 살해할 준비가 될 때까지 간지러움이 계속 계속 심해지는 와중 내면에서 죽어가는 감정을 견더냅니다.
 >
-> Or when I was younger I used to watch cable TV in the mornings before school. Because it was cable TV in rural WV in the early 90’s, every so often I’d turn on my favorite channel to watch my shows while I ate my maple oatmeal and I’d be seeing Power Rangers — but the audio would be from another station (usually the weather channel). The video was fine. The audio was fine. But the mismatch between them? That’s the kind of frustration that sits with you all day as a child.
+> 또 제가 어렸을 때는 학교 가기 전 아침마다 케이블 TV를 보곤 했습니다. 90대 초반 웨스트버지니아 시골에서 케이블 TV를 보던 시절이라, 가끔 메이플 오트밀을 먹으며 프로그램을 보려고 제일 좋아하는 채널을 틀고 파워레인저를 보고 있으면 음성이 다른 스테이션 (대개는 일기예보 채널) 에서 오곤 했습니다. 비디오도 괜찮았고, 오디오도 괜찮았는데, 둘이 엇나간 그 상황? 어린 아이로서 하루 종일 짜증을 안고 살게 되는 일이었죠.
 >
-> It’s the feeling you get when you ask for a crisp refreshing Diet Coke and the server says, “Is Pepsi ok?”
+> 상쾌하고 시원한 다이어트 코카콜라를 시켰는데 서빙 직원이 "펩시도 괜찮으세요?" 라고 물을 때의 그 느낌입니다.
 >
-> It is knowing that something is wrong and not being able to do a damn thing about it.
+> 무언가가 잘못된 것을 아는데도 어찌할 도리가 없는 그 느낌입니다.
 
-Gender Dysphoria is, at its core, simply emotional reactions to the brain knowing that something does not fit. This incongruence is so deep inside the brain's subsystems that there is no obvious message of what the problem is. The only way we have to identify it is via the emotions that it triggers. Our consciousness receives either positive (euphoria) or negative (dysphoria) feedback according to how well our current environment aligns with our internal sense of self. Part of transition is learning to recognize those signals.
+근본적으로, 젠더 불쾌감은 간단히 무언가가 맞지 않는다는 것을 인지하는 뇌에 대한 감정적인 반응입니다. 이 불일치는 뇌 하위 시스템에 아주 깊게 자리 잡고 있어, 어떤 것이 문제인지 명확하게 전달되지 않습니다. 이 반응이 촉발시키는 감정을 통해서만 알아내야만 합니다. 우리의 의식은 현재 환경이 얼마나 우리 스스로의 내면과 일치하는지에 따라 긍정 (행복감) 또는 부정 (불쾌감) 피드백을 받습니다. 전환 과정의 일부로는 이러한 신호를 해석하는 것이 있습니다.
 
-Cisgender people receive them as well, but since the signals usually align with their environment, they take them for granted. There have been a few notable occasions, however, when a cisgender person has been [put into a situation](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) where they experience gender dysphoria. Attempts to raise cisgender children [as the opposite sex](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Content warning: suicide) have always met with failure when the child inevitably declares themselves differently.
+시스젠더들도 이 피드백을 받지만 이러한 신호가 환경과 일치하기 때문에 당연하게 여깁니다. 하지만 시스젠더가 젠더 불쾌감을 경험하게 되는 [상황에 처한](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) 몇 가지 주목할 만한 사례가 있었습니다. 시스젠더인 아이를 [반대 성별로 키우려는 시도](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (내용 경고: 자살) 는 항상 아이가 필연적으로 자신을 다르게 선언하면서 실패로 끝났습니다.
 
-These impulses of euphoria and dysphoria, arousal and aversion, they all manifest in many different ways, some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this book is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them.
+이런 행복감과 불쾌감, 흥분과 혐오의 충동은 모두 여러 가지 다른 방식으로 나타납니다. 어떤 것들은 명확하고, 어떤 것들은 더 미묘하기도 합니다. 불쾌감도 시간이 지나면서 변화하며, 인식 이전 단계에서부터 이해와 전환을 겪으면서 새로운 형태를 취하게 됩니다. 이 책의 목표는 이러한 징후들을 개별적인 범주로 나누고 다른 사람들이 배우고 인식할 수 있도록 설명하는 것입니다.
 
-However, first I must stress something very important, so important that I am putting it into big bold letters:
+그러나, 아주 중요한 무언가를 강조해야 할것 같습니다. 매우 중요하므로 두꺼운 글자로 작성하겠습니다:
 
-**EVERY SINGLE TRANS PERSON EXPERIENCES A DIFFERENT SET OF DYSPHORIA SOURCES AND INTENSITIES**
+**모든 트랜스젠더들은 각기 다른 불쾌감의 원인과 강도를 경험합니다.**
 
-There is no one single trans experience, there is no standard set of feelings and discomforts, there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
+단 하나의 트랜스젠더 경험만 있는 것이 아니며, 감정과 불편함에는 표준이 없고, **단 하나의 트랜스젠더 이야기만 있는 것이 아닙니다**. 모든 트랜스젠더들이 불쾌감을 각자의 방식으로 각자의 정도로 느끼며, 어떤 사람에게 불편한 것들이 어떤 사람에게는 불편하지 않을 수도 있습니다.
 
-Ok, that disclaimer out of the way, let's get to the meat and potatoes.
+전제가 끝났으니 이제 본론으로 들어가겠습니다.
