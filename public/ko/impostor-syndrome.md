@@ -4,10 +4,11 @@ title: "Impostor Syndrome, but make it Trans"
 linkTitle: "Impostor Syndrome"
 description: "Am I really trans?"
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/managed-dysphoria
+  prev: /ko/managed-dysphoria
   prevCaption: Managed Dysphoria
-  next: /en/am-i-trans
+  next: /ko/am-i-trans
   nextCaption: Am I Trans?
 classes:
   - gdb

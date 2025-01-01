@@ -4,10 +4,11 @@ title: "Androgenic Second Puberty 101"
 linkTitle: Androgenic Puberty
 description: "What to expect from masculinizing HRT"
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/hormones
+  prev: /ko/hormones
   prevCaption: How Hormones Work
-  next: /en/second-puberty-fem
+  next: /ko/second-puberty-fem
   nextCaption: Estrogenic Second Puberty
 classes:
   - gdb

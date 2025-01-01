@@ -4,6 +4,7 @@ title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
 linkTitle: "Biochemical Dysphoria"
 description: "The very real and biological factors of Gender Dysphoria that cause mental disturbance."
 preBody: '_disclaimer'
+lang: ko
 classes:
   - gdb
 tweets:
@@ -19,9 +20,9 @@ tweets:
   - '1222743360034758656'
   - '1222743749920464896'
 siblings:
-  prev: /en/physical-dysphoria
+  prev: /ko/physical-dysphoria
   prevCaption: Physical Dysphoria
-  next: /en/social-dysphoria
+  next: /ko/social-dysphoria
   nextCaption: Social Dysphoria
 ---
 

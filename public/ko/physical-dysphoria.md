@@ -4,10 +4,11 @@ title: "How Gender Dysphoria Manifests: Physical Dysphoria"
 linkTitle: "Physical Dysphoria"
 description: "Body discomfort is only one of the many ways Gender Dysphoria manifests."
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/euphoria
+  prev: /ko/euphoria
   prevCaption: Gender Euphoria
-  next: /en/biochemical-dysphoria
+  next: /ko/biochemical-dysphoria
   nextCaption: Biochemical Dysphoria
 classes:
   - gdb

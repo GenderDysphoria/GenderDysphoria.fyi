@@ -4,13 +4,14 @@ title: "Am I Trans?"
 linkTitle: "Am I Trans?"
 description: "A Roadmap To Figuring Out The Toughest Question"
 siblings:
-  prev: /en/impostor-syndrome
+  prev: /ko/impostor-syndrome
   prevCaption: Impostor Syndrome
-  next: /en/diagnoses
+  next: /ko/diagnoses
   nextCaption: Clinical Diagnoses
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ko
 ---
 
 æææ<div class="cw"><p><strong>Curator's Note</strong>: The following page comes from <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">a fantastic post written by Cassie LaBelle</a> and has been reshared with permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">You can read more of her writing on Medium.</a></div>æææ

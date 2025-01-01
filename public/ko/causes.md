@@ -4,6 +4,7 @@ title: "What is the Cause of Gender Incongruence"
 linkTitle: "Causes of Gender Dysphoria"
 description: "It's the hormones, baby."
 preBody: '_disclaimer'
+lang: ko
 classes:
   - gdb
 tweets:
@@ -15,9 +16,9 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
-  prev: /en/treatment
+  prev: /ko/treatment
   prevCaption: Treating Gender Dysphoria
-  next: /en/chromosomes
+  next: /ko/chromosomes
   nextCaption: But... but... the chromosomes!
 ---
 

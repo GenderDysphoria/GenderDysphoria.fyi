@@ -4,12 +4,13 @@ title: "Diagnosing Gender Dysphoria"
 linkTitle: "Clinical Diagnoses"
 description: "It's clinical."
 preBody: '_disclaimer'
+lang: ko
 classes:
   - gdb
 siblings:
-  prev: /en/am-i-trans
+  prev: /ko/am-i-trans
   prevCaption: Am I Trans?
-  next: /en/treatment
+  next: /ko/treatment
   nextCaption: Treating Gender Dysphoria
 ---
 

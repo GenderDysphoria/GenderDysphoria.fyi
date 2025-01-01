@@ -3,10 +3,11 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Treating Gender Dysphoria"
 description: "Transition is the cure."
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/diagnoses
+  prev: /ko/diagnoses
   prevCaption: Clinical Diagnoses
-  next: /en/causes
+  next: /ko/causes
   nextCaption: Causes of Gender Dysphoria
 classes:
   - gdb

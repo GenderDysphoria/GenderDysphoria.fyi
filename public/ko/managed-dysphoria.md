@@ -4,10 +4,11 @@ title: "Managed Dysphoria: Gender in Disguise"
 linkTitle: "Managed Dysphoria"
 description: "The ways we've coped."
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/existential-dysphoria
+  prev: /ko/existential-dysphoria
   prevCaption: Existential Dysphoria
-  next: /en/impostor-syndrome
+  next: /ko/impostor-syndrome
   nextCaption: Impostor Syndrome
 classes:
   - gdb

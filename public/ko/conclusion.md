@@ -4,11 +4,12 @@ title: "In Conclusion"
 linkTitle: "Conclusion"
 description: "Enough with the gatekeeping already."
 siblings:
-  prev: /en/second-puberty-fem
+  prev: /ko/second-puberty-fem
   prevCaption: Estrogenic Second Puberty
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ko
 ---
 
 # Choice

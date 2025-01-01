@@ -6,10 +6,11 @@ description: "I don't regret the things I have done, I regret the things I didn'
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/presentational-dysphoria
+  prev: /ko/presentational-dysphoria
   prevCaption: Presentational Dysphoria
-  next: /en/managed-dysphoria
+  next: /ko/managed-dysphoria
   nextCaption: Managed Dysphoria
 ---
 

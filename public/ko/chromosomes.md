@@ -4,12 +4,13 @@ title: "Disorders of Sex Development: Gender is not Chromosomal"
 linkTitle: "Chromosomes"
 description: "DNA is more what you'd call guidelines, than actual rules."
 preBody: '_disclaimer'
+lang: ko
 classes:
   - gdb
 siblings:
-  prev: /en/causes
+  prev: /ko/causes
   prevCaption: Causes of Gender Dysphoria
-  next: /en/hormones
+  next: /ko/hormones
   nextCaption: How Hormones Work
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328

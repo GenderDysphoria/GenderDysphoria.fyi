@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "젠더가 무엇인가요?"
 description: "젠더의 개념을 어떻게 정의하고, 젠더가 성별과 어떻게 다른가요?"
 preBody: '_disclaimer'
+lang: ko
 siblings:
   prev: /ko/
   prevCaption: 소개

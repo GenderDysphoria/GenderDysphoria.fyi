@@ -4,10 +4,11 @@ title: "How Gender Dysphoria Manifests: Social Dysphoria"
 linkTitle: "Social Dysphoria"
 description: "Pronouns and Deadnames and Gendering, oh my."
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/biochemical-dysphoria
+  prev: /ko/biochemical-dysphoria
   prevCaption: Biochemical Dysphoria
-  next: /en/societal-dysphoria
+  next: /ko/societal-dysphoria
   nextCaption: Societal Dysphoria
 classes:
   - gdb

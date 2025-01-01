@@ -4,10 +4,11 @@ title: "How Gender Dysphoria Manifests: Sexual Dysphoria"
 linkTitle: "Sexual Dysphoria"
 description: "Sometimes a Cigar doesn't want to be smoked."
 preBody: '_disclaimer'
+lang: ko
 siblings:
-  prev: /en/societal-dysphoria
+  prev: /ko/societal-dysphoria
   prevCaption: Societal Dysphoria
-  next: /en/presentational-dysphoria
+  next: /ko/presentational-dysphoria
   nextCaption: Presentational Dysphoria
 classes:
   - gdb

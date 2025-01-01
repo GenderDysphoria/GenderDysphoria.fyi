@@ -6,6 +6,7 @@ description: "젠더 불쾌감의 유래와 오늘날에서의 의미."
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ko
 siblings:
   prev: /ko/what-is-gender
   prevCaption: 젠더가 뭔가요?
