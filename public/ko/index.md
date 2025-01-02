@@ -34,13 +34,13 @@ siblings:
 
 3. [젠더 불쾌감의 역사](/ko/history)
 
-4. [젠더 만족감](/ko/euphoria)
+4. [젠더 행복감](/ko/euphoria)
 
 5. [신체적 불쾌감](/ko/physical-dysphoria)
 
 6. [생화학적 불쾌감](/ko/biochemical-dysphoria)
 
-7. [Social Dysphoria](/ko/social-dysphoria)
+7. [사회적 불쾌감](/ko/social-dysphoria)
 
 8. [Societal Dysphoria](/ko/societal-dysphoria)
 
@@ -76,7 +76,7 @@ siblings:
 
 <hr class="print-break-after print-hidden">
 
-## 도입부
+## 소개
 
 {!{
 <div class="gutter"><blockquote>
@@ -85,7 +85,7 @@ siblings:
 </blockquote></div>
 }!}
 
-인류 문명이 존재해 온 이래로, 전 세계의 다양한 문화에서는 젠더 정체성의 경험이 생식기 구조에 기반한 앵글로-유럽계 성별 이분법과 일치하지 않는 [사람들이 있어왔습니다](https://en.wikipedia.org/wiki/Transgender_history). 수메르 제국에 존재했던 중간 성별의 사제 계층인 갈라가 4,500년 전에 존재하기도 했습니다. 북아메리카 원주민 문화는 유럽 식민주의 이전부터 [제 3의 젠더](https://en.wikipedia.org/wiki/Third_gender)를 인정해 왔으며, 오늘날에도 이를 존중하고 있습니다. [아프리카 전역의 부족 문화](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) 또한 다양한 성 정체성을 인정해 왔는데, 이를 유럽인들이 말살하려 하였습니다. 인간은 오랫동안 정체성, 규범, 그리고 그 규범에 대한 순응의 정도가 서구 문화에서 흔히 "전통적"이라고 여겨지는 젠더의 개념과 다르게 살아왔습니다.
+인류 문명이 존재해 온 이래로, 전 세계의 다양한 문화에서는 젠더 정체성의 경험이 생식기 구조에 기반한 앵글로-유럽계 성별 이분법과 일치하지 않는 [사람들이 있어왔습니다](https://en.wikipedia.org/wiki/Transgender_history). 수메르 제국에 존재했던 중간 성별의 사제 계층인 갈라가 4,500년 전에 존재하기도 했습니다. 북아메리카 원주민 문화는 유럽 식민주의 이전부터 [제 3의 젠더](https://en.wikipedia.org/wiki/Third_gender)를 인정해 왔으며, 오늘날에도 이를 존중하고 있습니다. [아프리카 전역의 부족 문화](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) 또한 다양한 젠더 정체성을 인정해 왔는데, 이를 유럽인들이 말살하려 하였습니다. 인간은 오랫동안 정체성, 규범, 그리고 그 규범에 대한 순응의 정도가 서구 문화에서 흔히 "전통적"이라고 여겨지는 젠더의 개념과 다르게 살아왔습니다.
 
 하지만 그럼에도 불구하고 트랜스젠더 경험에 대한 현대 서구의 이해는 130년 동안 밖에 존재해 오지 않았습니다. 심지어 David Cauldwell의 "트랜스섹슈얼<sup>(transsexual)</sup>" (1949년에 만들어진 용어) 의 더 정확한 대안으로 John Oliven이 제의한 "트랜스젠더<sup>(transgender)</sup>"라는 단어가 1965년으로 거슬러 올라가곤 하는데, 이 단어 자체도 Magnus Hirschfield의 용어인 "트랜스베스타이트<sup>(transvestite)</sup>" (1910) 를 대체하기도 했습니다.
 
