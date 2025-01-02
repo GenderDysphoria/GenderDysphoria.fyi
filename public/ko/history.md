@@ -24,7 +24,7 @@ siblings:
 <div class="gutter print-inline">
   {{import '~/img' images.hbscale
     className="card print-span34 print-center"
-    caption="Harry Benjamin Diagnostic Scale"
+    caption="Harry Benjamin 진단 척도"
   }}
 </div>
 }!}
