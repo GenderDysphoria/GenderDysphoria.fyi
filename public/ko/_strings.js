@@ -12,6 +12,6 @@ module.exports = exports = {
   TRANS_TWITTER_TOPICS: '트랜스젠더 트위터 주제',
   MISSING_TWEET_FOR: '다음 트윗을 찾을수 없음: ',
   QUOTED_TWEET_UNAVAILABLE: '인용 트윗이 존재하지 않음',
-  TWEET_DATE_FORMAT: 'h:mm aa - EEE, LLL do, yyyy',
+  TWEET_DATE_FORMAT: 'yyyy년 MM월 dd일 EEE요일 - a h:mm ',
 };
 
