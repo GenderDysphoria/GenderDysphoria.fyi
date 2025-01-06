@@ -1,0 +1,10 @@
+services:
+  node_app:
+    image: node:18
+    platform: linux/amd64
+    working_dir: /app
+    volumes:
+      - ./:/app
+      - ./node_modules:/app/node_modules
+      - ./dist:/app/dist
+    command: ["sh", "-c", "npm install && npm run build"]
