@@ -31,7 +31,7 @@ My good friend Lily coined the phrase **“Egg Prime Directive”** to describe 
 
 When someone is just told they are trans, that opens ground for denial; it activates defense mechanisms built by internalized transphobia, and it has a high probability of pushing them further into the closet, if not making them outright transphobic. Even when it doesn’t, it leaves ground for their own subconscious to reject their dysphoria, claiming that they were just manipulated or deceived.
 The much more effective strategy is to talk about your own experiences with dysphoria so that they see the common grounds and come to their own conclusion about their gender. The code doesn’t forbid helping them to explore their gender; it forbids assigning a gender to them.
-Or, to put it more succinctly, you cannot be told what the Matrix is; you can only be shown.
+Or, to put it more succinctly, no one can be told what the Matrix is. You have to see it for yourself.
 
 I’m sure there are some trans people out there who don’t follow the Egg Prime Directive, but I haven’t met them. It’s one of the only things that seems to unify the whole trans community, myself included. Even though I wanted my own external validation more than anything, I now see that true acceptance could have only come from within. The only person who can tell you that you are trans is yourself.
 
