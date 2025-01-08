@@ -11,7 +11,7 @@ siblings:
   prev: /ko/what-is-gender
   prevCaption: 젠더가 뭔가요?
   next: /ko/euphoria
-  nextCaption: 젠더 만족감
+  nextCaption: 젠더 행복감
 ---
 
 # 간략한 젠더 불쾌감의 역사
@@ -45,7 +45,7 @@ siblings:
 <div class="gutter print-span4">
   <blockquote>
     <strong>Dys·pho·ri·a</strong> - <em>명사</em><br>
-    삶에 대한 불안감이나 일반적인 불만족 상태. 만족감의 반대.
+    삶에 대한 불안감이나 일반적인 불만족 상태. 행복감의 반대.
   </blockquote>
   {{import '~/img' images.glue className="card print-span4"}}
 </div>
