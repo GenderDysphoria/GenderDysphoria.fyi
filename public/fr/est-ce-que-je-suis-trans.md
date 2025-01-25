@@ -22,7 +22,7 @@ Bien avant de me poser des questions sur mon genre, j'avais ce fantasme où une 
 
 Si tu m'as confronté à ce fantasme à l'époque, je n'aurais pas pu te dire ce que je voulais dire exactement par "tu ne trompes personne". Au fond de moi, je savais que c'était probablement lié au genre, mais mes lèvres n'auraient pas été capables de former ces mots. Tout ce que je savais, c'est que je faisais semblant d'être quelqu'un que je n'étais pas, d'une manière vague, passive et éphémère.
 
-Une fois que je me suis acceptée en tant que femme trans et que j'ai entamé le long processus de coming out, tout ce que je voulais, c'était que quelqu'un me dise qu'il le savait déjà. Je voulais qu'on me dise : "Je suis si heureux.se que tu aies compris". "Je connais la vérité depuis des années. C'était tellement évident. Je ne sais pas si quelqu'un aurait pu penser que tu étais un garçon. Je suis si heureux.se que tu puisses enfin vivre comme tu es vraiment maintenant."
+Une fois que je me suis acceptée en tant que femme trans et que j'ai entamé le long processus de coming out, tout ce que je voulais, c'était que quelqu'un me dise qu'il le savait déjà. Je voulais qu'on me dise : "Je suis si heureux·se que tu aies compris". "Je connais la vérité depuis des années. C'était tellement évident. Je ne sais pas si quelqu'un aurait pu penser que tu étais un garçon. Je suis si heureux·se que tu puisses enfin vivre comme tu es vraiment maintenant."
 
 Personne ne m'a jamais dit ça, cependant. Mon processus de coming-out a été couronné de succès et la plupart de mes amis m'ont soutenu, mais je n'ai jamais obtenu la validation externe dont j'avais besoin. Mes amis et ma famille m'ont accepté en tant que trans parce que je leur ai dit que j'étais trans. Ils n'avaient pas remarqué que j'avais passé les deux dernières décennies à porter le costume mal ajusté d'un homme qui existait à peine.
 
@@ -116,7 +116,7 @@ L'hypothèse nulle cis pose une question simple et efficace : une fois que tu re
 
 C'est vraiment aussi simple que ça. Les hommes veulent être des hommes, et les femmes veulent être des femmes. Si tu veux être un homme, alors tu es un homme. Si tu veux être une femme, alors tu es une femme. Si tu ne veux être ni l'un ni l'autre, ou si tu veux être les deux, ou si tu veux être une femme parfois et un homme d'autres fois, alors tu es probablement une sorte de genderfluid ou de non-binaire.
 
-Je t’entends dire : "mais tu ne peux pas juste... faire ça !"  Je t'entends dire. Mais tu peux absolument faire ça. En fait, c'est la seule et unique question à laquelle tu dois répondre par toi-même. Si tu veux être une fille et que tu t'es toujours considéré comme un garçon, tu seras probablement plus heureux.se en vivant comme une fille. Cela vaut au moins la peine de faire quelques pas pour voir si la transition t'apportera le bonheur, n'est-ce pas ?
+Je t’entends dire : "mais tu ne peux pas juste... faire ça !"  Je t'entends dire. Mais tu peux absolument faire ça. En fait, c'est la seule et unique question à laquelle tu dois répondre par toi-même. Si tu veux être une fille et que tu t'es toujours considéré comme un garçon, tu seras probablement plus heureux·se en vivant comme une fille. Cela vaut au moins la peine de faire quelques pas pour voir si la transition t'apportera le bonheur, n'est-ce pas ?
 
 ### Considère que le fait de douter de toi n'invalide pas ton éventuelle transidentité
 
@@ -204,7 +204,7 @@ Peu importe ce que tu décides à propos de ton genre, l'important est d'être f
 
 Quel que soit ton choix, fais-le parce qu'il t'aidera à te sentir mieux dans ta peau.
 
-### Considère que la transition consiste moins à découvrir une vérité métaphysique unique qu'à faire ce qui te rend heureux.se
+### Considère que la transition consiste moins à découvrir une vérité métaphysique unique qu'à faire ce qui te rend heureux·se
 
 Un point de friction que je rencontre souvent lorsque je parle à des femmes trans en questionnement est qu'elles se sont paralysées par la peur et qu'elles ne veulent pas agir avant d'avoir résolu l'équation au centre d'elles-mêmes et d'avoir complètement et pleinement accepté qu'elles sont, sans aucun doute, 100% trans.
 

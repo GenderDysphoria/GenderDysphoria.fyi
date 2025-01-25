@@ -37,7 +37,7 @@ La dysphorie sociétale peut se manifester de manière inattendue par le besoin 
 
 ### La honte
 
-L'incapacité de se conformer à ces rôles peut se manifester *intensément* par la honte et l'humiliation. Le fait de grandir dans l'ombre et de d'avoir mal à se conformer aux stéréotypes de genre courants entraîne souvent des signes de déception de la part des parents et des pairs qui s'attendaient à autre chose. Un père peut être déçu que son enfant AMAB ne veuille pas faire du sport ou d'autres activités masculines. Les pairs féminins peuvent désapprouver le fait qu'un adolescent AFAB choisisse de fréquenter un cercle social masculin. Les adolescents peuvent ostraciser une personne trans AMAB qui ne participe pas à leur humour.
+L'incapacité de se conformer à ces rôles peut se manifester *intensément* par la honte et l'humiliation. Le fait de grandir dans l'ombre et d'avoir mal à se conformer aux stéréotypes de genre courants entraîne souvent des signes de déception de la part des parents et des pairs qui s'attendaient à autre chose. Un père peut être déçu que son enfant AMAB ne veuille pas faire du sport ou d'autres activités masculines. Les pairs féminins peuvent désapprouver le fait qu'un adolescent AFAB choisisse de fréquenter un cercle social masculin. Les adolescents peuvent ostraciser une personne trans AMAB qui ne participe pas à leur humour.
 
 Ce genre de situation peut conduire à des brimades et à des abus, poussant la personne trans à se sentir isolée, seule et pas à sa place. Ce sentiment d’être à part crée ensuite un sentiment de honte de ne pas être la personne que tout le monde attend qu'elle soit. Cela se manifeste alors par une dépression qui s'ajoute au reste de la dysphorie, aggravant ainsi la douleur.
 
