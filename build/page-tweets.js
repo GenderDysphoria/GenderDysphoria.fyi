@@ -55,8 +55,9 @@ module.exports = exports = async function tweets (pages) {
   /* Load Missing Tweets **************************************************/
 
   while (tweetsNeeded.length) {
-    log('Fetching tweets: ' + tweetsNeeded.join(', '));
-    const arriving = await Promise.all(chunk(tweetsNeeded, 99).map(twitter));
+    // log('Fetching tweets: ' + tweetsNeeded.join(', '));
+    // const arriving = await Promise.all(chunk(tweetsNeeded, 99).map(twitter));
+    const arriving = [];
     const tweetsRequested = tweetsNeeded;
     tweetsNeeded = [];
     const loaded = [];
@@ -71,6 +72,7 @@ module.exports = exports = async function tweets (pages) {
 
     const absent = difference(tweetsRequested, loaded);
     for (const id of absent) {
+      if (!id) continue;
       if (!hasOwn(twitterBackup, id)) {
         log.error('Could not find tweet ' + id);
         continue;
