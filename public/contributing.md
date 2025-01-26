@@ -10,7 +10,7 @@ classes:
 
 The Gender Dysphoria Bible is a constant work in progress. As the understanding of gender and gender dysphoria develops, this site is constantly in need of further improvement. This site code and the page contents are available open source via the GitHub social programming site. The content of the site is licensed Creative Commons Non-Commercial Attribution ShareAlike, which means that its text cannot be reproduced for commercial purposes, must be credited back to this site if it is redistributed, and if a distribution alters the text, then it must also be released under the same license.
 
-99% of the content on this site was written by the site maintainer, Jocelyn Badgley (aka [Curvy and Trans](http://www.curvyandtrans.com)). The site is a labor of love, and honestly there are sometimes weeks or months between updates because I just don't always have the [spoons](https://en.wikipedia.org/wiki/Spoon_theory) to work on this *and* my day job while taking care of my family.
+99% of the content on this site was written by the site maintainer, Jocelyn Badgley. The site is a labor of love, and honestly there are sometimes weeks or months between updates because I just don't always have the [spoons](https://en.wikipedia.org/wiki/Spoon_theory) to work on this *and* my day job while taking care of my family.
 
 ## Ways You Can Help
 

@@ -11,15 +11,14 @@
   "engines": {
     "node": "20"
   },
-  "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "siteInfo": {
     "title": "That's Gender Dysphoria, FYI",
     "domain": "genderdysphoria.fyi",
     "lang": "en",
     "siteUrl": "https://genderdysphoria.fyi",
     "description": "A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.",
-    "creator": "TwippingVanilla",
-    "author": "Jocelyn Badgley",
+    "creator": "twipped@twipped.social",
+    "author": "Twipped Media",
     "rss": {
       "title": "That's Gender Dysphoria, FYI",
       "feed_url": "https://genderdysphoria.fyi/atom.xml",
