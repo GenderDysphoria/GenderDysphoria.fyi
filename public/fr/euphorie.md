@@ -24,7 +24,7 @@ tweets:
 {!{
 <div class="gutter"><blockquote>
   <strong>Eu·pho·rie</strong> - <em>substantif</em><br>
-  Un sentiment ou un état d'excitation et de bonheur intense. Etre heureux.se, ressentir de la joie, de l'allégresse.
+  Un sentiment ou un état d'excitation et de bonheur intense. Etre heureux·se, ressentir de la joie, de l'allégresse.
 </blockquote></div>
 }!}
 
