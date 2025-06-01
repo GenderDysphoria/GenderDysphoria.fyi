@@ -1,3 +1,24 @@
+$disable-dark-mode: false !default;
+
+@mixin dark-mode {
+  @if not $disable-dark-mode {
+    .dark-mode & {
+      @content
+    }
+  }
+}
+
+@mixin light-mode {
+  @if $disable-dark-mode {
+    // noop if dark mode is disabled
+    @content
+  } @else {
+    :root:not(.dark-mode) & {
+      @content
+    }
+  }
+}
+
 .dark-toggle {
   .dark-toggle-sun {
     opacity: 1;
