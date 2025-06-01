@@ -94,6 +94,7 @@ $header-full-height: 100px;
 @import "bootstrap/scss/utilities";
 // @import "bootstrap/scss/print";
 
+@import "./dark";
 @import "./global";
 @import "./header";
 @import "./footer";
@@ -108,4 +109,4 @@ $header-full-height: 100px;
 @import "./longform";
 @import "./font-compatibility";
 
-|node_modules/magnific-popup/dist/magnific-popup.css|
+//|node_modules/magnific-popup/dist/magnific-popup.css|
