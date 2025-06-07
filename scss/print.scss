@@ -96,7 +96,7 @@ $header-full-height: 100px;
 @import "bootstrap/scss/utilities";
 // @import "bootstrap/scss/print";
 
-@import "./dark";
+@import "./dark";  // Need to disable for print styles
 @import "./global";
 // @import "./header";
 @import "./footer";
