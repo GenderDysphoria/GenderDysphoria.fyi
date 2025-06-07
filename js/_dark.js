@@ -6,7 +6,7 @@
     }
   // Evaluate device preferences
   } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.documentElement.classList.remove('dark-mode');
+    document.documentElement.classList.add('dark-mode');
   }
 }());
 
