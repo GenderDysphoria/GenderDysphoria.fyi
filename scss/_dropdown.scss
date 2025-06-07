@@ -1,0 +1,13 @@
+.dropdown-menu {
+  @include dark-mode {
+    background-color: #2d2d2d;
+
+    .dropdown-item, .dropdown-item:hover:active:not(.active) {
+      color: white;
+    }
+
+    .dropdown-item:hover:not(:active) {
+      color: black;
+    }
+  }
+}
