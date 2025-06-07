@@ -5,14 +5,6 @@ $body-bg: #f8f9fa;
 $content-bg: white;
 $gutter-bg: #f0f0f0;
 $gutter-border: #e2e2e2;
-
-/* Dark mode */
-$body-bg-dark: black;
-$body-color-dark: #e2e2e2;
-$content-bg-dark: #222;
-$gutter-bg-dark: #171717;
-$gutter-border-dark: #fc0a7e;
-
 $font-primary: 'Lato', Arial, sans-serif;
 $font-secondary: 'Inter', 'Gothic A1', 'Helvetica Neue', Helvetica, serif;
 $font-brand: 'Sriracha', Geneva, monospace;
@@ -61,6 +53,16 @@ $header-bg-1: #E81179;
 $header-bg-2: #281362;
 $header-bg-mid: mix($header-bg-1, $header-bg-2);
 $header-full-height: 100px;
+
+/* -- Dark Mode -- */
+$body-bg-dark: black;
+$body-color-dark: #e2e2e2;
+$content-bg-dark: #222;
+$gutter-bg-dark: #171717;
+$gutter-border-dark: #fc0a7e;
+
+$primary-light-dark: lighten($primary, 10%);
+$primary-lighter-dark: lighten($primary, 10%);
 
 @import "bootstrap/scss/functions";
 @import "bootstrap/scss/variables";
