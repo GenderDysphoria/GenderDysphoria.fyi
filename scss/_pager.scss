@@ -33,6 +33,12 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
+
+    @include dark-mode {
+      &:hover {
+        color: white;
+      }
+    }
   }
 
   .btn.left {

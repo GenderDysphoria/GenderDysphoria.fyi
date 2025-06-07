@@ -7,6 +7,10 @@ body.page, body.post {
   header {
     background: $gray-800;
     &.active { background: white; }
+
+    @include dark-mode {
+      background: $gray-900;
+    }
   }
 
 }
@@ -27,15 +31,30 @@ body.post {
 }
 
 body.gdb {
+  @include dark-mode {
+    background-color: $body-bg-dark;
+  }
 
   #body {
     background-color: $gutter-bg;
+    border-bottom: 1px solid $gutter-border;
+
+    @include dark-mode {
+      background-color: $gutter-bg-dark;
+      border-bottom: 1px solid $gutter-border-dark;
+      color: $body-color-dark;
+      box-shadow: 0px 6px 11px -6px $gutter-border-dark;
+    }
 
     @media (max-width: 500px) {
       border-left: 1px solid $gutter-border;
       border-right: 1px solid $gutter-border;
+
+      @include dark-mode {
+        border-left: 1px solid $gutter-border-dark;
+        border-right: 1px solid $gutter-border-dark;
+      }
     }
-    border-bottom: 1px solid $gutter-border;
 
     max-width: 1200px;
     margin-left: auto;
@@ -53,6 +72,11 @@ body.gdb {
 
     background: $content-bg;
     border-right: 1px solid $gutter-border;
+
+    @include dark-mode {
+      background: $content-bg-dark;
+      border-right: none;
+    }
 
     padding: 1em 1em;
 

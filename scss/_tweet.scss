@@ -8,6 +8,10 @@
   $borderRadius: .35em;
   $avatarSize: 36px;
 
+  $borderColorDark: $trans-blue-dark;
+  $textLightDark: #697882;
+  $textDarkDark: #b4d0dd;
+
   font-size: 12px;
   body.post & {
     font-size: 15px;
@@ -21,6 +25,15 @@
   background-color: white;
   overflow-x: hidden;
   overflow-y: auto;
+
+  @include dark-mode {
+    background-color: $content-bg-dark;
+    border-color: $borderColorDark;
+
+    &:not(.grid-row) {
+      box-shadow: 0 0 5px 2px rgba($trans-blue, 0.5);
+    }
+  }
 
   page-break-inside: avoid;
 
@@ -47,6 +60,10 @@
     border-top: 1px solid $borderColor;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
+
+    @include dark-mode {
+      border-top: 1px solid $borderColorDark;
+    }
   }
 
   .tweet-item:first-child .tweet-logo { display: block; }
@@ -68,6 +85,10 @@
     color: $textDark;
     margin-bottom: 1em;
     line-height: 1;
+
+    @include dark-mode {
+      color: $textDarkDark;
+    }
 
     &:hover {
       color: $textHover;
@@ -348,6 +369,10 @@
     .tweet-item {
       border-top: none;
       padding: 0;
+
+      @include dark-mode {
+        border-top: none;
+      }
     }
 
     .tweet-item + .tweet-item {
@@ -383,6 +408,13 @@
     border: none;
     max-height: unset;
 
+    @include dark-mode {
+      // Box shadow hackery
+      margin-left: -1em;
+      margin-right: -1em;
+      padding: 1em;
+    }
+
     .tweet-item {
       background-color: white;
       border: 1px solid $borderColor;
@@ -390,6 +422,12 @@
       flex-direction: column;
       border-top-left-radius: $borderRadius;
       border-top-right-radius: $borderRadius;
+
+      @include dark-mode {
+        background-color: $content-bg-dark;
+        border: 1px solid $borderColorDark;
+        box-shadow: 0 0 5px 2px rgba($trans-blue, 0.5);
+      }
 
       .tweet-logo { display: block; }
 
@@ -415,6 +453,11 @@
       display: flex;
       flex-direction: column;
       margin: -1px;
+
+      @include dark-mode {
+        background-color: $content-bg-dark;
+        
+      }
 
       .tweet-logo { display: block; }
 

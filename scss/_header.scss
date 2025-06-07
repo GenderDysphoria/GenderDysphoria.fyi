@@ -10,6 +10,10 @@
       text-decoration: none;
     }
   }
+
+  @include dark-mode {
+    color: $body-color-dark;
+  }
 }
 
 body.inner-page header {
@@ -63,6 +67,12 @@ header {
     @media (max-width: 500px) {
       font-size: 1.8em;
     }
+
+    @include dark-mode {
+      abbr {
+        color: $primary;
+      }
+    }
   }
 
   &.active {
@@ -78,7 +88,6 @@ header {
 
   nav {
     flex: 1;
-    max-width: 1200px;
 
     display: flex;
     justify-content: space-between;
@@ -91,6 +100,17 @@ header {
 
     @media (max-width: 500px) {
       font-size: 0.8rem;
+    }
+
+    @include dark-mode {
+      a {
+        color: inherit;
+
+        &:hover {
+          color: inherit;
+          text-decoration: none;
+        }
+      }
     }
   }
 
@@ -192,6 +212,12 @@ header {
   }
 
   background-color: $cwColor;
+
+  @include dark-mode {
+    background-color: $gray-800;
+    color: white;
+    border-bottom: 1px solid $primary;
+  }
 
   font-size: 0.8rem;
   font-weight: 300;
