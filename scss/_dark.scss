@@ -9,10 +9,7 @@ $disable-dark-mode: false !default;
 }
 
 @mixin light-mode {
-  @if $disable-dark-mode {
-    // noop if dark mode is disabled
-    @content
-  } @else {
+  @if not $disable-dark-mode {
     :root:not(.dark-mode) & {
       @content
     }
