@@ -53,8 +53,8 @@ body.gdb {
       border-right: 1px solid $gutter-border;
 
       @include dark-mode {
-        border-left: 1px solid $gutter-border-dark;
-        border-right: 1px solid $gutter-border-dark;
+        border-left: 0;
+        border-right: 0;
       }
     }
 
