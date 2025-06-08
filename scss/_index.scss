@@ -115,6 +115,13 @@
       }
     }
 
+    @media (max-width: 500px) {
+      .copy {
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
+
   }
 
   .pager {
