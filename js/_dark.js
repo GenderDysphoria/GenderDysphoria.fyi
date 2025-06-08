@@ -11,7 +11,9 @@
 }());
 
 $(function () {
-  $('.dark-toggle').on('click', function toggleDarkMode () {
+  $('.dark-toggle').on('click', function toggleDarkMode (e) {
+    e.preventDefault();
+
     if (document.documentElement.classList.contains('dark-mode')) {
       document.documentElement.classList.remove('dark-mode');
       window.localStorage.setItem('dark-mode', 'false');
