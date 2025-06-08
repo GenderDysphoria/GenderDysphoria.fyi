@@ -84,6 +84,10 @@
         box-shadow: 0 0 1pc 6px $primary;
         color: $body-color-dark;
         text-shadow: none;
+
+        @media (max-width: 800px) {
+          box-shadow: none;
+        }
       }
 
       max-width: 850px;
