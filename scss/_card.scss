@@ -7,6 +7,10 @@
     background: $content-bg-dark;
     border: 1px solid $primary;
     box-shadow: 0 0 5px 2px rgba($primary, 0.5);
+
+    .card-header {
+      background: lighten($content-bg-dark, 5);
+    }
   }
 
   &.borderless {
