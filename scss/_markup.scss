@@ -1,6 +1,7 @@
 
 .markup {
   -webkit-font-smoothing: antialiased;
+  transition: background-color 0.5s;
 
   p a {
     transition-property: color, padding, margin;

@@ -31,6 +31,8 @@ body.post {
 }
 
 body.gdb {
+  transition: background-color 0.5s;
+
   @include dark-mode {
     background-color: $body-bg-dark;
   }
