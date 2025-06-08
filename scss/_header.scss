@@ -219,11 +219,13 @@ header {
   }
 }
 
-// @media (min-width: 500px) {
-  body:not(.front-page) header + * {
-    margin-top: $header-full-height;
+body:not(.front-page) header + * {
+  margin-top: $header-mobile-height;
+
+  @media (min-width: 800px) {
+    margin-top: $header-desktop-height;
   }
-// }
+}
 
 .disclaimer {
   $cwColor: darken($gray-100, 2%);
