@@ -15,28 +15,3 @@ $disable-dark-mode: false !default;
     }
   }
 }
-
-.dark-toggle {
-  .dark-toggle-sun {
-    opacity: 1;
-    transition: all 0.5s;
-    transition-behavior: allow-discrete;
-  }
-
-  .dark-toggle-moon {
-    position: fixed;
-    opacity: 0;
-    transition: all 0.5s;
-    transition-behavior: allow-discrete;
-  }
-
-  @include dark-mode {
-    .dark-toggle-sun {
-      opacity: 0;
-    }
-
-    .dark-toggle-moon {
-      opacity: 1;
-    }
-  }
-}
