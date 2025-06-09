@@ -52,7 +52,18 @@ $primary: #fc0a7e;
 $header-bg-1: #E81179;
 $header-bg-2: #281362;
 $header-bg-mid: mix($header-bg-1, $header-bg-2);
-$header-full-height: 100px;
+$header-desktop-height: 100px;
+$header-mobile-height: 142px;
+
+/* -- Dark Mode -- */
+$body-bg-dark: black;
+$body-color-dark: #e2e2e2;
+$content-bg-dark: #222;
+$gutter-bg-dark: #171717;
+$gutter-border-dark: #fc0a7e;
+
+$primary-light-dark: lighten($primary, 10%);
+$primary-lighter-dark: lighten($primary, 10%);
 
 @import "bootstrap/scss/functions";
 @import "bootstrap/scss/variables";
@@ -94,8 +105,10 @@ $header-full-height: 100px;
 @import "bootstrap/scss/utilities";
 // @import "bootstrap/scss/print";
 
+@import "./dark";
 @import "./global";
 @import "./header";
+@import "./dropdown";
 @import "./footer";
 @import "./tweet";
 @import "./index";
@@ -108,4 +121,4 @@ $header-full-height: 100px;
 @import "./longform";
 @import "./font-compatibility";
 
-|node_modules/magnific-popup/dist/magnific-popup.css|
+//|node_modules/magnific-popup/dist/magnific-popup.css|

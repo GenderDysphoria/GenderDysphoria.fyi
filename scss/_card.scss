@@ -3,12 +3,30 @@
   text-decoration: none;
   background: white;
 
+  @include dark-mode {
+    background: $content-bg-dark;
+    border: 1px solid $primary;
+    box-shadow: 0 0 5px 2px rgba($primary, 0.5);
+
+    .card-header {
+      background: lighten($content-bg-dark, 5);
+    }
+  }
+
   &.borderless {
     border: none;
+
+    @include dark-mode {
+      box-shadow: none;
+    }
   }
 
   .card-img, .card-img-top {
     // width: unset;
+    @include dark-mode {
+      // Some card images don't work on dark backgrounds
+      background-color: white;
+    }
   }
 
   .card-img-top + .card-img-top {
@@ -22,6 +40,10 @@
     color: #333;
     font-size: 12px;
     font-family: $font-secondary;
+
+    @include dark-mode {
+      color: $body-color-dark;
+    }
 
     ul { padding-left: 1.2em; }
   }
@@ -70,6 +92,10 @@
     font-family: Roboto, Helvetica, Arial,sans-serif;
     text-decoration:none;
 
+    @include dark-mode {
+      background: $content-bg-dark;
+      color: $body-color-dark;
+    }
 
     .ig-header {
       display: flex;

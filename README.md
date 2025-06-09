@@ -62,3 +62,6 @@ The file is in this format:
 
 Publishing the site content requires AWS credentials which are not stored in this repository. Attempts to use the `gulp publish` command will fail.
 
+## Attributions
+
+Sun/moon svg icons forked from [glow-ui/glow-icons](https://github.com/glow-ui/glow-icons). Licensed under the [MIT license](https://github.com/glow-ui/glow-icons/blob/main/LICENSE).

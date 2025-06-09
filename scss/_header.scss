@@ -10,6 +10,10 @@
       text-decoration: none;
     }
   }
+
+  @include dark-mode {
+    color: $body-color-dark;
+  }
 }
 
 body.inner-page header {
@@ -63,6 +67,12 @@ header {
     @media (max-width: 500px) {
       font-size: 1.8em;
     }
+
+    @include dark-mode {
+      abbr {
+        color: $primary;
+      }
+    }
   }
 
   &.active {
@@ -72,13 +82,16 @@ header {
       .top-brand {
         max-height: 0;
       }
+
+      .top-nav.aux-nav {
+        display: none;
+      }
     }
   }
 
 
   nav {
     flex: 1;
-    max-width: 1200px;
 
     display: flex;
     justify-content: space-between;
@@ -92,6 +105,36 @@ header {
     @media (max-width: 500px) {
       font-size: 0.8rem;
     }
+
+    @include dark-mode {
+      a {
+        color: inherit;
+
+        &:hover {
+          color: inherit;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  .top-nav {
+    &.main-nav {
+      margin-left: auto;
+      order: 2;
+
+      @media (max-width: 800px) {
+        margin-left: 0;
+      }
+    }
+
+    &.aux-nav {
+      order: 3;
+
+      @media (max-width: 800px) {
+        order: 1;
+      }
+    }
   }
 
   .top-nav-inner {
@@ -99,12 +142,8 @@ header {
     justify-content: space-between;
     align-items: center;
     list-style: none;
-    margin: 0 0 0 1em;
+    margin: 0;
     padding: 0;
-
-    @media (max-width: 800px) {
-      margin: 0;
-    }
 
 
     .top-nav-item {
@@ -144,38 +183,49 @@ header {
       }
     }
 
-    @media (max-width: 400px) {
-      .disposable {
-        display: none;
-      }
-    }
-
     .dropdown-menu {
       max-height: 90vh;
       overflow: auto;
     }
-  }
 
-  @media (max-width: 500px) {
+    .dark-toggle {
+      display: grid;
 
-    .top-nav-inner .disposable {
-      transition: max-width 0.5s ease-out;
-      max-width: 50px;
+      > span {
+        grid-column: 1;
+        grid-row: 1;
+        transition: all 0.5s;
+        transition-behavior: allow-discrete;
+      }
+
+      .dark-toggle-sun {
+        opacity: 1;
+      }
+
+      .dark-toggle-moon {
+        opacity: 0;
+      }
+
+      @include dark-mode {
+        .dark-toggle-sun {
+          opacity: 0;
+        }
+
+        .dark-toggle-moon {
+          opacity: 1;
+        }
+      }
     }
-
-    &.active .top-nav-inner .disposable {
-      max-width: 0;
-      overflow: hidden;
-    }
   }
-
 }
 
-// @media (min-width: 500px) {
-  body:not(.front-page) header + * {
-    margin-top: $header-full-height;
+body:not(.front-page) header + * {
+  margin-top: $header-mobile-height;
+
+  @media (min-width: 800px) {
+    margin-top: $header-desktop-height;
   }
-// }
+}
 
 .disclaimer {
   $cwColor: darken($gray-100, 2%);
@@ -192,6 +242,12 @@ header {
   }
 
   background-color: $cwColor;
+
+  @include dark-mode {
+    background-color: $gray-800;
+    color: white;
+    border-bottom: 1px solid $primary;
+  }
 
   font-size: 0.8rem;
   font-weight: 300;
