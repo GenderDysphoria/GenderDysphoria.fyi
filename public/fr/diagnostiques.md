@@ -37,7 +37,7 @@ Le diagnostic de la dysphorie de genre chez les enfants prépubères exige que l
 
 {!{ </div></div></div> }!}
 
-**Remarque** Il s'agit des critères pour les adolescents et les adultes. Les enfants ont des critères différentes , que [tu peux retrouver ici](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). J'ai également modifié légèrement la formulation, ici, car les critères officiels sont centrés sur le binaire.
+**Remarque** Il s'agit des critères pour les adolescents et les adultes. Les enfants ont des critères différents, que [tu peux retrouver ici](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). J'ai également modifié légèrement la formulation, ici, car les critères officiels sont centrés sur le binaire.
 
 Pour qu'un adulte soit diagnostiqué comme souffrant de dysphorie de genre par un professionnel de la santé mentale agréé, il doit répondre à deux de ces six critères, et avoir ressenti ces critères pendant plus de six mois.
 
