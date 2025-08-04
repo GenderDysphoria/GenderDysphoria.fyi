@@ -57,7 +57,7 @@ Dans le cadre de la transition, c'est cette dernière catégorie qui nous intér
 - [Progestatifs](https://fr.wikipedia.org/wiki/Progestatif)
 - [Glucocorticoïdes](https://fr.wikipedia.org/wiki/Glucocortico%C3%AFde)
 - [Minéralcorticoïdes](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [NeurostéroïdeŒstrogèness](https://fr.wikipedia.org/wiki/St%C3%A9ro%C3%AFde)
+- [Neurostéroïde Œstrogènes](https://fr.wikipedia.org/wiki/St%C3%A9ro%C3%AFde)
 - [Aminostéroïdes](https://en.wikipedia.org/wiki/Aminosteroid)
 
 Les trois premières sont celles qui nous intéressent le plus lorsqu'il s'agit d'hormonothérapie. Remarque : Tous les êtres humains, quel que soit leur phénotype, possèdent une partie de chacune de ces hormones dans leur corps. Les ratios sont ce qui affecte la forme du corps.
@@ -110,7 +110,7 @@ Le tissu mammaire est un autre type de cellule qui regorge de récepteurs de pro
 
 En plus, la progestérone favorise un meilleur sommeil, améliore la santé cardiovasculaire, augmente la cétogenèse (réduction des triglycérides), accroît la fonction métabolique et réduit le risque de cancer du sein.
 
-### Minéralcorticoïdes
+### Minéralocorticoïdes
 
 Les minéralocorticoïdes ne jouent aucun rôle dans la transition, mais ils méritent d'être mentionnés en raison d'une hormone majeure : [Aldostérone](https://fr.wikipedia.org/wiki/Aldost%C3%A9ronee).
 
@@ -118,4 +118,4 @@ L'aldostérone donne l'ordre aux reins de *cesser* d'extraire l'eau du sang. Ell
 
 Parce qu'un médicament qui est très couramment utilisé dans l'hormonothérapie trans est un antagoniste de l'aldostérone extrêmement puissant... la Spironolactone. La Spiro se lie aux récepteurs minéralo-corticoïdes plus fortement que l'aldostérone, mais n'active pas le récepteur. Il le bloque simplement, empêchant les reins de recevoir le signal d'arrêter d'extraire de l'eau.
 
-C'est pourquoi le spiro fait tant uriner les gens.
+C'est pourquoi la spiro fait tant uriner les gens.
