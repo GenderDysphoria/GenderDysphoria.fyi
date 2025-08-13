@@ -63,7 +63,7 @@ Le malaise causé par la dysphorie sociale peut pousser une personne transgenre 
 
 ### Dysphorie Physique et Sociale
 
-Certains traits physiques qui peuvent être source de gêne permanente pour certaines personnes trans peuvent ne se manifester que sous la forme d'une dysphorie sociale pour d'autres. Par exemple, certaines personnes ne sont conscientes de leur apparence physique que lorsqu'elles sont victimes d'une erreur de genre ou repéré comme trans, et se sentent parfaitement à l'aise lorsqu'elles interagissent dans des environnements où elles sont toujours vues et traitées comme leur véritable genre.
+Certains traits physiques qui peuvent être source de gêne permanente pour certaines personnes trans peuvent ne se manifester que sous la forme d'une dysphorie sociale pour d'autres. Par exemple, certaines personnes ne sont conscientes de leur apparence physique que lorsqu'elles sont victimes d'une erreur de genre ou repérées comme trans, et se sentent parfaitement à l'aise lorsqu'elles interagissent dans des environnements où elles sont toujours vues et traitées comme leur véritable genre.
 
 Personnellement, je n'ai pas de dysphorie physique directe liée à ma voix, j'aime vraiment chanter dans mon baryton natal, et quand je suis à la maison avec ma famille, je laisse ma voix se détendre. Cependant, lorsque je suis en public, le fait de pouvoir parler avec une voix féminine joue un rôle essentiel pour que les étrangers me considèrent comme une femme, et je fais donc beaucoup d'efforts pour l'entraîner à un son féminin. Ma voix féminine s'active dès que je réponds au téléphone ou que je quitte la maison, ce n'est même pas conscient.
 

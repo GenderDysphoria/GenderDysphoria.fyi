@@ -18,7 +18,7 @@ classes:
 
 ## De quoi attendre de THS féminisant ?
 
-Il s'agit d'une compilation des changements de transition médicale signalés, recueillis à partir de témoignages de personnes trans AMAB prenant une hormonothérapie à base d'œstrogènes. Cettes informations sont recueillies dans les médias sociaux et les salons de discussion. Oui, cela signifie que tout cela est anecdotique, mais historiquement, la plupart des études médicales sur les transgenres sont anecdotiques parce que personne ne veut financer la recherche médicale sur les transgenres.
+Il s'agit d'une compilation des changements de transition médicale signalés, recueillis à partir de témoignages de personnes trans AMAB prenant une hormonothérapie à base d'œstrogènes. Ces informations sont recueillies dans les médias sociaux et les salons de discussion. Oui, cela signifie que tout cela est anecdotique, mais historiquement, la plupart des études médicales sur les transgenres sont anecdotiques parce que personne ne veut financer la recherche médicale sur les transgenres.
 
 **Note qu'il s'agit d'une liste de changements _possibles_. Il n'y a aucune garantie que chaque personne sous THS féminisant aura tous ces changements. Ton âge, ta génétique, tes antécédents médicaux, ton degré de masculinisation depuis la puberté natale et ton régime hormonal peuvent tous avoir un impact sur les résultats. Il y a aussi un certain degré d'aléatoire - chaque corps est différent - et certaines choses peuvent mettre des années à apparaître**.
 
@@ -60,11 +60,11 @@ Les ongles sont constitués de kératine, et de nombreux gènes de la kératine 
 
 ### Réduction des poils du corps
 
-N'attends pas à une cessation totale de la pilosité corporelle, une fois que les follicules sont rendus terminaux par l'androstanolone, ils le restent. Cependant, tout comme les ongles, l'épaisseur des poils est l'expression des gènes de la kératine activés par les androgènes. L'élimination de la testostérone rend les poils du corps plus fins et plus clairs. La génétique joue toutefois un rôle majeur dans ce domaine.
+N'attends pas une cessation totale de la pilosité corporelle, une fois que les follicules sont rendus terminaux par l'androstanolone, ils le restent. Cependant, tout comme les ongles, l'épaisseur des poils est l'expression des gènes de la kératine activés par les androgènes. L'élimination de la testostérone rend les poils du corps plus fins et plus clairs. La génétique joue toutefois un rôle majeur dans ce domaine.
 
 ### Changements de la température corporelle
 
-Les androgènes favorisent l'afflux de sang vers les extrémités, ce qui les rend plus chaudes. De ce fait, les femmes ont tendance à avoir une température centrale plus élevée mais une température buccale et de surface plus basse. Tu peux voir ta température corporelle basale chuter à environ 36.4 degrés.
+Les androgènes favorisent l'afflux de sang vers les extrémités, ce qui les rend plus chaudes. De ce fait, les femmes ont tendance à avoir une température centrale plus élevée mais une température buccale et de surface plus basse. Tu peux voir ta température corporelle basale chuter à environ 36,4 degrés.
 
 Il en résulte malheureusement une tolérance réduite au froid, et tu devrais donc prendre plusieurs couches de vêtements plus fréquemment, d'autant plus que de nombreux bâtiments règlent leurs thermostats sur des niveaux de confort masculins (https://www.popsci.com/study-finds-gender-bias-office-air-conditioning/).
 
@@ -196,7 +196,7 @@ Analogue des lèvres externes et internes, le scrotum se ramollit pour prendre u
 
 ##### Moins d'érections
 
-Sans testostérone flottante, les niveaux d'androstanolone(https://fr.wikipedia.org/wiki/Androstanolone) dans la circulation sanguine diminuent considérablement. L'androstanolone joue un rôle majeur dans la stimulation des érections aléatoires pendant le sommeil par l'élargissement de la prostate, et ces érections sont responsables de l'entretien du tissu érectile. Sans androstanolone, la prostate rétrécit à nouveau et les érections aléatoires cessent (plus de bois du matin).
+Sans testostérone flottante, les niveaux d'[androstanolone](https://fr.wikipedia.org/wiki/Androstanolone) dans la circulation sanguine diminuent considérablement. L'androstanolone joue un rôle majeur dans la stimulation des érections aléatoires pendant le sommeil par l'élargissement de la prostate, et ces érections sont responsables de l'entretien du tissu érectile. Sans androstanolone, la prostate rétrécit à nouveau et les érections aléatoires cessent (plus de bois du matin).
 
 Cependant, cela signifie que le tissu érectile va commencer à s'atrophier. Une atrophie prolongée entraîne un rétrécissement de l'organe entier, pour le meilleur ou pour le pire. La forme du pénis change alors, devenant souvent plus conique. Le gland est la première partie à rétrécir et peut perdre sa capacité à devenir rigide. Les rapports sexuels avec pénétration peuvent devenir plus difficiles, et les érections elles-mêmes peuvent devenir douloureuses.
 
