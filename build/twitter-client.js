@@ -1,6 +1,6 @@
 const fs = require('fs-extra');
 const { resolve } = require('./resolve');
-const { chunk, uniq, difference } = require('lodash');
+const { uniq, difference } = require('lodash');
 const Twitter = require('twitter-lite');
 const log = require('fancy-log');
 const tweetparse = require('./lib/tweetparse');

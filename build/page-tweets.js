@@ -1,4 +1,4 @@
-const { chunk, uniq, uniqBy, difference } = require('lodash');
+const { uniq, uniqBy, difference } = require('lodash');
 const fs = require('fs-extra');
 const { resolve } = require('./resolve');
 const log = require('fancy-log');
@@ -32,6 +32,7 @@ function applyI18N (original_tweet, twitter_i18n) {
 }
 
 module.exports = exports = async function tweets (pages) {
+  // eslint-disable-next-line no-unused-vars
   const [ twitter, twitterBackup, twitterCache ] = await Promise.all([
     fs.readJson(resolve('twitter-config.json')).catch(() => null)
       .then(getTwitterClient),
