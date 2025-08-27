@@ -6,6 +6,7 @@ description: "No me arrepiento de las cosas que he hecho, me arrepiento de las c
 classes:
   - gdb
 preBody: '_declaracion'
+lang: es
 siblings:
   prev: /es/disforia-de-presentacion
   prevCaption: Disforia De Presentacion
