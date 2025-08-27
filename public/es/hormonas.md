@@ -4,6 +4,7 @@ title: "Las hormonas: Cómo funcionan"
 linkTitle: "Cómo funcionan las hormonas"
 description: "No es nada parecido a los imanes."
 preBody: '_declaracion'
+lang: es
 siblings:
   prev: /es/cromosomas
   prevCaption: Cromosomas
