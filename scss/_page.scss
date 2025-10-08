@@ -224,7 +224,7 @@ body.post {
 
         .post-link {
           flex: 1;
-          flex-basis: $sidebarWidth / 2;
+          flex-basis: div($sidebarWidth, 2);
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
@@ -268,7 +268,7 @@ body.post {
         position: relative;
         .post-tags {
           display: grid;
-          grid-template-columns: repeat( auto-fill, minmax( $sidebarWidth / 2 - 15, 1fr ) );
+          grid-template-columns: repeat( auto-fill, minmax( div($sidebarWidth, 2) - 15, 1fr ) );
         }
       }
     }
