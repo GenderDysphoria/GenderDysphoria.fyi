@@ -4,7 +4,7 @@ var Promise = require('bluebird');
 
 var credentials;
 try {
-  credentials = require('../aws.json');
+  credentials = require('../aws.json'); // eslint-disable-line import/no-unresolved
 } catch (e) {
   credentials = null;
 }
