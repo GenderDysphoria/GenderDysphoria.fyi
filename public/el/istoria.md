@@ -1,5 +1,5 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
+date: "2025-10-26T20:12:09Z"
 title: "Μια Σύντομη Εξιστόρηση της Δυσφορίας Φύλου"
 linkTitle: "Η Ιστορία της Δυσφορίας Φύλου"
 description: "Η προέλευση της Δυσφορίας Φύλου και η σημερινή της έννοια."
@@ -10,7 +10,7 @@ preBody: '_disclaimer'
 siblings:
   prev: /el/what-is-gender
   prevCaption: Τι σημαίνει «gender»;
-  next: /el/euphoria
+  next: /el/euforia
   nextCaption: Ευφορία Φύλου
 ---
 
