@@ -23,7 +23,7 @@ siblings:
 }}
 }!}
 
-### Table of Contents:
+### Περιεχόμενα:
 
 {!{ <div class="two-column-list"> }!}
 
