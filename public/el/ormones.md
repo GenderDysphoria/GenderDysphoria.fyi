@@ -1,8 +1,8 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Hormones: How do they work"
-linkTitle: "How Hormones Work"
-description: "Keys, Locks, and Car Ignitions"
+date: "2025-11-10T13:50:50Z"
+title: "Ορμόνες: Πώς λειτουργούν"
+linkTitle: "Πώς Λειτουργούν Οι Ορμόνες"
+description: "Κλειδιά, Κλειδαριές, και Μίζες Αυτοκινήτων"
 preBody: '_disclaimer'
 lang: el
 siblings:
