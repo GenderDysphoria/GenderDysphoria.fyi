@@ -8,7 +8,7 @@ lang: el
 siblings:
   prev: /el/vioxhmikh-dysforia
   prevCaption: Βιοχημική Δυσφορία
-  next: /en/koinwnikh-dysforia
+  next: /el/koinwnikh-dysforia
   nextCaption: Κοινωνική Δυσφορία
 classes:
   - gdb

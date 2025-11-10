@@ -8,7 +8,7 @@ classes:
   - gdb
 preBody: '_disclaimer'
 siblings:
-  prev: /el/what-is-gender
+  prev: /el/ti-shmainei-gender
   prevCaption: Τι σημαίνει «gender»;
   next: /el/euforia
   nextCaption: Ευφορία Φύλου

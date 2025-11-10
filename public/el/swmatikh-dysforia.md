@@ -6,7 +6,7 @@ description: "Η σωματική δυσφορία είναι μονάχα έν�
 preBody: '_disclaimer'
 lang: el
 siblings:
-  prev: /el/euphoria
+  prev: /el/euforia
   prevCaption: Ευφορία Φύλου
   next: /el/vioxhmikh-dysforia
   nextCaption: Βιοχημική Δυσφορία

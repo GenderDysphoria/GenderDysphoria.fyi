@@ -19,7 +19,7 @@ tweets:
   - https://twitter.com/ErinInTheMorn/status/1228165767264256003
 ---
 
-# Gender Euphoria
+# Ευφορία Φύλου
 
 {!{
 <div class="gutter"><blockquote>
