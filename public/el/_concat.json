@@ -1,0 +1,34 @@
+{
+  "output": "public/el/pros-ektypwsh.md",
+  "sources": [
+    "public/el/index.md",
+    "public/el/ti-shmainei-gender.md",
+    "public/el/istoria.md",
+    "public/el/euforia.md",
+    "public/el/swmatikh-dysforia.md",
+    "public/el/vioxhmikh-dysforia.md",
+    "public/el/diaproswpikh-dysforia.md",
+    "public/el/koinwnikh-dysforia.md",
+    "public/el/seksoualikh-dysforia.md",
+    "public/el/parousiastikh-dysforia.md",
+    "public/el/yparksiakh-dysforia.md",
+    "public/el/elegxomenh-dysforia.md",
+    "public/el/syndromo-tou-apatewna.md",
+    "public/el/eimai-trans.md",
+    "public/el/diagnwseis.md",
+    "public/el/perithalpsh.md",
+    "public/el/aities.md",
+    "public/el/xrwmoswmata.md",
+    "public/el/ormones.md",
+    "public/el/deuterh-efhveia-andr.md",
+    "public/el/deuterh-efhveia-gyn.md",
+    "public/el/symperasma.md"
+  ],
+  "meta": {
+    "title": "Η Βίβλος της Δυσφορίας Φύλου",
+    "lang": "el",
+    "description": "Μια εισαγωγή στους πολλαπλούς τρόπους με τους οποίους εκδηλώνεται η δυσφορία φύλου και τι σημαίνει να είσαι τρανς.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

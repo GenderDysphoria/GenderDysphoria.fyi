@@ -1,3 +1,7 @@
+- lang: el
+  name: Ελληνικά (EL)
+  pdf-source: /el/pros-ektypwsh/index.html?pdf=true
+
 - lang: en
   name: English (EN)
   pdf-source: /en/printable/index.html?pdf=true

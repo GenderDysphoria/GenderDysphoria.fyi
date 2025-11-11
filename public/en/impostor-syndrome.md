@@ -81,7 +81,7 @@ Radical feminism's messaging of abandoning female gender roles can also make par
 
 Then you have the problem of people believing that to be non-binary is to be androgynous, and to be androgynous is to be less feminine. Feminine enbies are valid! It is okay if you do not want to remove your breasts. It is okay if you enjoy your curves. It is okay if you do not mind being called "she" and "her". That does not make you any less transgender.
 
-If you feel like you are not a binary woman, than you are not a binary woman. Cis women do not experience that detachment.
+If you feel like you are not a binary woman, then you are not a binary woman. Cis women do not experience that detachment.
 
 ### Toxic Masculinity
 
