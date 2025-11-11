@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: el
 siblings:
   prev: /el/deuterh-efhveia-andr
-  prevCaption: Androgenic Second Puberty
+  prevCaption: Ανδρογονική 2η Εφηβεία
   next: /el/symperasma
   nextCaption: Συμπέρασμα
 classes:
