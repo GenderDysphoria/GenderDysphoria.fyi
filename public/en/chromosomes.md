@@ -30,7 +30,7 @@ tweets:
 
 # But the Chromosomes!!!
 
-## More Than Two Options
+## More than Two Options
 
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
@@ -97,7 +97,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
   ] tweets=meta.tweets className="" }}
 </div>}!}
 
-## But Most People Are Still XX Or XY!!!
+## But Most People Are Still XX or XY!!!
 
 Biological sex in endosex (non-intersex) people is still more complicated than the simplistic XX/XY model suggests. Even if someone has typical 46,XX or 46,XY chromosomes, the body can change how it *uses* DNA without changing the DNA sequence itself. This process is called epigenetics.
 
