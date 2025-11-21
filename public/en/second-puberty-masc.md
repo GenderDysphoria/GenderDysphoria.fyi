@@ -118,7 +118,7 @@ If you have ADHD, there may be some changes in your symptoms. Androgens amplify 
 
 The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.*
 
-However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty.
+However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty. Therapy may also help provide you with techniques to cry in a healthy manner.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
@@ -133,7 +133,7 @@ You are going to be hungry. Testosterone cranks the body's metabolism up signifi
 
 ##### Sleep
 
-Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however.
+Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however; others feel sleepier and sleep more.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
@@ -159,18 +159,22 @@ All genitalia are constructed from the same tissues; they are merely organized d
 
 ##### Bottom Growth
 
-DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
+DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
-
 {!{ {{import '~/tweet' ids=[
   '1431244822044622848'
   '1431244926214356993'
 ] tweets=meta.tweets className="grid-row" }} }!}
+
+##### Decreased Lubrication
+
+The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+
+You can also ask your gynecological provider or primary care doctor about vaginal estrogen. The levels of estrogen used in these products are so low, [there's no risk of interference with the effects of testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/).
 
 ##### Increased Emissions During Climax
 
@@ -178,11 +182,17 @@ With the swelling of the prostate comes more prostate fluid. If you weren't a sq
 
 ##### Changes in Sensitivity and Response
 
-Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft.
+Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft. Friction in general may become more pleasurable as opposed to vibration. Some people report greater sensitivity during vaginal penetration due to the thinner skin.
 
 ##### Atrophy
 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through vaginal estrogen, as well as the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+
+##### Changes to Pap Test
+
+Your internal genitals may develop small amounts of benign prostate tissue, which can range from a couple cells to a "well-developed" gland. The clinical term is [androgen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/). These prostate cells may be misinterpreted as the lesions created by HPV if found on a Pap test, but unlike HPV, the cells in prostatic metaplasia look medically normal and don't appear to be a cancer risk. If necessary, a biopsy can clearly tell them apart.
+
+Decreased lubrication and atrophy, as discussed above, may also make it physically more difficult to perform the Pap test. The provider may have to exert more force to collect an adequate sample. Your provider can use a smaller speculum to reduce the pain of the procedure. Some providers may allow you to swab your own cervix, but this is not guaranteed.
 
 ##### Increased Sex Drive
 
