@@ -73,13 +73,14 @@ An additional option for non-binary bottom surgery is genital nullification surg
 
   - Hysterectomy (removal of uterus and cervix)
   - Oophorectomy (removal of one or both ovaries)
+  - Salpingectomy (removal of one or both uterine tubes, often performed with hysterectomy and/or oophorectomy)
   - Vaginectomy (removal of vaginal cavity)
   - Metoidioplasty (a process which turns the enlarged clitoris after hormone therapy into a penis)
   - Phalloplasty (construction of a penis from skin grafting)
   - Urethroplasty (extension of the urethral canal through the phallus)
-  - Scrotoplasty (use of labia majora and false testicles to construct a scrotum).
+  - Scrotoplasty (use of labia majora and prosthetic testicles to construct a scrotum).
 
-Phalloplasty does not necessarily require previous hormone therapy, and while it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, some surgeons can perform phalloplasty without vaginectomy or phalloplasty without urethroplasty.  
+Phalloplasty does not necessarily require previous hormone therapy. While it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, urethroplasty is not technically required to construct a neopenis. As vaginal tissue is typically used to construct the neourethra, some surgeons will not perform urethroplasty without vaginectomy.
 
 **Top Surgery** (modifications to the chest)
 
@@ -91,6 +92,8 @@ Phalloplasty does not necessarily require previous hormone therapy, and while it
 
   - Bilateral mastectomy (breast tissue removal) with chest reconstruction
   - Breast reduction (some fat and breast tissue removal)
+
+Mastectomy for top surgery typically reshapes the nipples to be more masculine, but some people opt to remove their nipples entirely.
 
 **Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
 
