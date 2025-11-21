@@ -30,6 +30,8 @@ tweets:
 
 # But the Chromosomes!!!
 
+## More Than Two Options
+
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
     '1223942625708761088'
@@ -94,3 +96,9 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
     '1208181235593490433'
   ] tweets=meta.tweets className="" }}
 </div>}!}
+
+## But Most People Are Still XX Or XY!!!
+
+Biological sex in endosex (non-intersex) people is still more complicated than the simplistic XX/XY model suggests. Even if someone has typical 46,XX or 46,XY chromosomes, the body can change how it *uses* DNA without changing the DNA sequence itself. This process is called epigenetics.
+
+One form of epigenetics is DNA methylation, where molecules called methyl groups are added to genes to control how often that gene is expressed. DNA methylation varies by chromosomal sex, but it also changes as people age in sex-specific ways. Long-term gender-affirming hormone therapy appears to change [sex-and-age-specific sites of DNA methylation](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) to be more masculine on testosterone, or more feminine on estrogen. Therefore, the body's collection of epigenetic changes, or epigenome, is different for cis men, cis women, transmasculine people on HRT, and transfeminine people on HRT.
