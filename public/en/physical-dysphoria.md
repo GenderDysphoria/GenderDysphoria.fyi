@@ -100,7 +100,7 @@ The genitals of a transgender person on hormone therapy do not behave remotely l
 
 - The estrogenic penis softens, erections become less pronounced, and the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
 
-- The androgenic vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris.
+- The androgenic vagina becomes drier & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris. Friction becomes more effective for arousal.
 
 {!{ </div></div></div> }!}
 
@@ -145,7 +145,7 @@ It's okay if you don't need medical transition *at all*. Body feelings are not t
 
 The world is full of subconscious messages about how men and women's bodies should be shaped. We are bombarded with advertising and media creating a normalized view of what is and is not beautiful. Don't be too fat, don't be too skinny, don't be too tall, don't be too short, don't have too broad of a chin, don't have too large of a nose, wear makeup but don't wear too much makeup, don't leave the house without a bra, but don't let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
 
-Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Those who align with femininity grow up mapping feminine standards onto themselves, those who align with masculinity map masculine standards on to themselves, and enbies may internalize shame around androgyny. This is *on top* of the shame they are loaded with for not living up to their assigned gender's standards.
+Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Those who align with femininity grow up mapping feminine standards onto themselves, those who align with masculinity map masculine standards on to themselves, and nonbinary people may internalize shame around androgyny or the gender they are assumed to be after transition. This is *on top* of the shame trans people in general are loaded with for not living up to their assigned gender's standards.
 
 What is the end result of this? Kathryn said it best:
 
