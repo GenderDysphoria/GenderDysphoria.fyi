@@ -58,6 +58,7 @@ Transgender surgeries are typically divided into three separate categories:
 
   - Orchiectomy (removal of the testicles)
   - Scrotectomy (removal of scrotal tissue, following orchiectomy)
+  - Vasectomy (removal of the sperm ducts, which is done during orchiectomy but can also be done before on its own)
   - Vaginoplasty (creation of a vaginal cavity)
   - Vulvoplasty (creation of a vulva, with or without depth).
 
@@ -80,7 +81,7 @@ An additional option for non-binary bottom surgery is genital nullification surg
   - Urethroplasty (extension of the urethral canal through the phallus)
   - Scrotoplasty (use of labia majora and prosthetic testicles to construct a scrotum).
 
-Phalloplasty does not necessarily require previous hormone therapy. While it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, urethroplasty is not technically required to construct a neopenis. As vaginal tissue is typically used to construct the neourethra, some surgeons will not perform urethroplasty without vaginectomy.
+Phalloplasty does not necessarily require previous hormone therapy. While it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, urethroplasty and vaginectomy are not technically required to construct a penis. However, as vaginal tissue is typically used to construct the new urethra, some surgeons will not perform urethroplasty without vaginectomy.
 
 **Top Surgery** (modifications to the chest)
 
