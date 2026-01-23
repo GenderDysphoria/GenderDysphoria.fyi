@@ -57,6 +57,10 @@ Likewise, many people believe that phenotype is also binary, but biology has rec
 
 Gender, however, is a lot more... esoteric. There are a lot of different ways in which people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it because the spectrum is itself a very abstract concept.
 
+It is important to note that while spectrum-based models are useful for many people, they do not describe all lived experiences of gender. Some people experience their gender as a position between male and female, some experience it as a mixture of the two, and others experience gender in ways that do not meaningfully reference the male/female binary at all.
+
+For these people, gender may be better understood as multidimensional, non-linear, or relational rather than as a single axis. No single diagram or metaphor fully captures the breadth of human gender experience.
+
 {!{
 <div class="">
   <div class="card">
@@ -77,9 +81,12 @@ Gender, however, is a lot more... esoteric. There are a lot of different ways in
 
 The short of it is: some people are very male, some people are very female. Some people feel no gender at all, some people feel both. Some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender; no one else can dictate it for them.
 
+
+Some people find spectrum language useful to describe these experiences. Others find that their gender exists outside of, orthogonal to, or independent from such frameworks entirely.
+
 Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
 
-Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
+Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people. For individuals whose gender is not experienced as a position on a binary or spectrum, dysphoria may arise not from being “too far” toward one end, but from being misclassified into a framework that does not match their internal sense of self.
 
 Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
 
@@ -104,7 +111,11 @@ What **Gender is *not*** is sexual orientation. We describe orientation using te
 
 ## What does it mean to be Non-binary?
 
-Non-binary can basically be simplified as a lack of exclusive affinity to male or female. This may be a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), a total affinity to both ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), a balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)), an affinity that changes from day to day ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.wikia.org/wiki/Pangender)).
+Non-binary is often described as a lack of exclusive affinity to male or female, but this framing does not capture all non-binary experiences.
+
+For some people, non-binary gender is relational to the binary (such as being between, mixed, fluid between, or partially connected to male and/or female identities). For others, non-binary gender exists outside of and without reference to the binary entirely, or is experienced as an absence of gender, a multiplicity of genders, or something that does not map cleanly to binary-derived categories.
+
+Non-binary experiences may include a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), affinity to two or more genders ([bi-gender](https://gender.wikia.org/wiki/Bigender)), a balanced affinity ([androgyne](https://gender.fandom.com/wiki/Androgyne)), an affinity that changes over time ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or an experience of encompassing many or all genders ([pangender](https://gender.wikia.org/wiki/Pangender)).
 
 It could be an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.wikia.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
 
