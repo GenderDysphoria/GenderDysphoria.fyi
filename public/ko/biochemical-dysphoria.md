@@ -119,9 +119,9 @@ Zinnia Jones가 [이인증에 대한 다음과 같은 설명들을 해 줍니다
 
 어떤 사람들은 이 현상을 젠더플루이드한 방식으로 경험합니다. 어떤 날에는 남자, 어떤 날에는 여자, 다른 날에는 아무 젠더, 혹은 둘 다일 수도 있습니다. 어떤 사람들은 이게 계절적인 강으로 느껴지기도 합니다. 가끔은 물줄기에 비가 내려 부풀어 오르고, 가끔은 가뭄 때문에 썰물로 느려지기도 합니다.
 
-이 모든 것들은 유효합니다. 어떤 날에는 매우 불쾌감을 느끼고 다음 날에는 그렇지 않은 것이 여러부이 트랜스젠더가 아니라는 의미는 아닙니다.
+이 모든 것들은 유효합니다. 어떤 날에는 매우 불쾌감을 느끼고 다음 날에는 그렇지 않은 것이 여러분이 트랜스젠더가 아니라는 의미는 아닙니다.
 
-### This Happens Both Ways
+### 이 현상은 어느 쪽으로든 나타납니다
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1222738910821978113'
@@ -132,12 +132,12 @@ Zinnia Jones가 [이인증에 대한 다음과 같은 설명들을 해 줍니다
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. "Estrogen makes everyone happier." This is flat out false. When cis people are put on cross hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from Polycystic Ovarian Syndrome (PCOS), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an ear full.
+가끔 회의론자들이 호르몬 치료를 받는 것이 항상 정신 건강을 개선시킨다고 말하는 것을 들을겁니다. 저 스스로도 제 어머니에게 커밍아웃할때 이 말을 들었는데요. "에스트로겐이 모두를 행복하게 한다." 이것은 완전한 거짓입니다. 시스젠더들이 교차 호르몬 치료를 받게 될 경우 이는 항상 불쾌감으로 이어지게 됩니다. 이는 스피로놀락톤이 남성에게 거의 처방되지 않는 이유 중 하나입니다. 항안드로겐의 요소가 정서 불안을 일으키기 때문입니다. 5%부터 10%까지의 시스여성이 다낭성난소증후군 으로부터 고통을 받습니다. 다낭성난소증후군은 난소가 에스트로겐 대신 테스테스테론을 생산하게 하는 상태입니다. 이 상태를 겪은 사람에게 정신 건강의 상태가 어땠었는지 한 번 불어보세요. 분노를 표출할 겁니다.
 
-One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David's went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13 he was deep into suicidal depression and suffering greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his parents informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male.
+이 상황에 대한 아주 강력한 있는 설명으로는 [데이비드 라이머(David Reimer)](https://en.wikipedia.org/wiki/David_Reimer)의 비극적인 사례가 있습니다. 생후 7개월 때 데이비드와 그의 쌍둥이 형제는 심한 상태의 포경(phimosis / 포피의 피부 질환)을 치료하기 위해 포경수술을 받았습니다. 데이비드의 수술이 끔찍하게 잘못되었고, 그의 음경은 파괴되었습니다. 그 결과 질 성형술을 시행하고 그를 소녀로 기르기로 결정이 되었고, 이는 사춘기 시기의 에스트로겐 치료를 포함하였습니다. 13세가 되었을 무렵 그는 깊은 자살 충동을 동반한 우울증에 빠지고 극심한 고통을 겪었는데, 이는 어떤 코칭이나 격려도 소년이 소녀가 되는 것을 즐기게 만들 수 없었기 때문입니다. 그의 가족이 그에게 어떤 일이 있었는지 알려주었을 때, 그는 남성 표현형으로 돌아오고 테스토스테론 치료로 전환하였으며, 다시 남성으로 전환하기 위해 10대 기간 동안 여러 차례의 수술을 거쳤습니다.
 
-People know when they're living the wrong gender.
+사람들은 자신이 다른 젠더로 살아가고 있을 때 이를 인지합니다.
 
-Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender, and it will stick.
+심리학자 존 머니는 데이비드의 사례를 감독하였고, 그의 양육 과정에서 내려진 결정들에 대해 큰 책임이 있었습니다. 자신의 명성을 쌓고자 했던 머니는 데이비드의 사례를 심각하게 왜곡하여 보도했으며, 자신의 보고서에서 이를 완전한 성공 사례로 묘사하였습니다. 이 결과는 오늘날까지도 이어지는데, 이는 머니의 보고서가 간성인 영아에게 생식기 교정 수술을 시행하는 것이 적절한지에 대한 예시 사례로 사용되었기 때문입니다. 50년이 지난 오늘날에도 그저 아이의 생식기를 바꾸고 그 젠더로 아이를 기르면 될 것이라고 믿는 의사들이 여전히 존재합니다.
 
-This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (though not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.
+이것이 [간성](https://en.wikipedia.org/wiki/Intersex) 공동체의 비극입니다. 대략 출생아 60명중 1명 꼴로 이러한 간성 상태가 나타납니다. (이것이 반드시 생식기에 대한 상태는 아니지만요.) 종종 간성인 아동들에게 사용되는 "교정" 시술들이 기능 그리고/혹은 감각의 상실로 이어지기도 합니다. 생각보다 자주, 의사들은 음문이 음경보다 만들기 쉽다는 이유로 강제된 여성 지정 수술을 선택합니다.
