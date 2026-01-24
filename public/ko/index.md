@@ -42,7 +42,7 @@ siblings:
 
 7. [사회적 불쾌감](/ko/social-dysphoria)
 
-8. [Societal Dysphoria](/ko/societal-dysphoria)
+8. [넓은 의미에서의 사회적 불쾌감](/ko/societal-dysphoria)
 
 9. [성적 불쾌감](/ko/sexual-dysphoria)
 

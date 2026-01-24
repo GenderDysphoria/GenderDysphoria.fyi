@@ -1,15 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Social Dysphoria"
-linkTitle: "Social Dysphoria"
-description: "Pronouns and Deadnames and Gendering, oh my."
+title: "어떻게 젠더 불쾌감이 나타나는가: 사회적 불쾌감"
+linkTitle: "사회적 불쾌감"
+description: "대명사, 데드네이밍, 그리고 젠더링. 세상에."
 preBody: '_disclaimer'
 lang: ko
 siblings:
   prev: /ko/biochemical-dysphoria
-  prevCaption: Biochemical Dysphoria
+  prevCaption: 생화학적 불쾌감
   next: /ko/societal-dysphoria
-  nextCaption: Societal Dysphoria
+  nextCaption: 넓은 의미에서의 사회적 불쾌감
 classes:
   - gdb
 tweets:
@@ -23,7 +23,7 @@ tweets:
   - '1137185510793678848'
 ---
 
-# Social Dysphoria
+# 사회적 불쾌감
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215718003310039040'
@@ -34,47 +34,49 @@ tweets:
   '1215731319973523456'
 ] tweets=meta.tweets className="oneblock" }} </div> }!}
 
-All social gender dysphoria orbits around one central concept: What Gender do people believe me to be? Social Dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender, versus how Social Dysphoria is experienced after a trans awakening (cracking one's shell).
+모든 젠더 불쾌감은 하나의 핵심 개념을 중심으로 돌아갑니다: 사람들이 나를 어떤 젠더로 믿고 있을까? 사회적 불쾌감은 외부 세계가 자신을 어떻게 인식하는지, 다른 사람들이 자신을 어떻게 부르는지, 그리고 자신이 다른 사람들을 어떻게 부르는지에 대한 내용입니다. 이는 트랜스젠더인 사람이 자신의 젠더에 대해 자가 인지를 하기 전과 트랜스젠더 각성 ("알 껍질이 꺠지는 순간" / cracking one's shell) 이후 사회적 불쾌감이 어떻게 경험되는지에 따라 다르게 적용됩니다.
 
-While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people. People of your assigned gender seem to interact with each other in ways that do not feel natural to you. Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier. You relate to people closer to your own truth.
+깨어나기 전에는, 자신이 다른 사람과 상호작용하는 방식이 뭔가 이상하다는 것 외에는 인지하지 않습니다. 자신의 지정 성별인 사람들이 자신에게 자연스럽게 다가오지 않는 방식으로 상호작용 하는 것 처럼 보입니다. 자신의 진정한 젠더인 사람들과의 상호작용은 더 쉽게 느껴지는 반면, 지정 성별인 사람들의 행동과 매너리즘은 이상하고 깜짝 놀라게 느껴집니다. 즉 자신의 진실된 모습과 더 가까운 사람들과 공감하는 것입니다.
 
-For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
+예를 들어, 출생 시 남성으로 지정된 트랜스젠더인은 자신이 남성 그룹에서 매우 큰 불편함을 느낍니다. 자신이 어울리지 않는다고 느끼고 자신의 남성 또래들과 어울리는 데 어려움을 느낄 수도 있습니다. 남성적인 사회 상호작용이 자연스럽게 다가오지 않고, 자신의 남성 친구들을 흉내 내는 것이 어색하게 느껴집니다. 여성과의 우정에 더욱 끌릴 수도 있지만, 남성과 여성 사이에서 작용하는 사회적이고 이성애 중심적인 역학 때문에 좌절감을 느낍니다. 이는 친구 관계를 형성하는 것을 방해할 수도 있습니다. 애초에 여성들이 친구 관계를 형성하기를 원하는 경우인 경우에야 그렇기도 합니다. 출생 시 남성으로 지정된 트랜스젠더인은 여성들이 원칙적으로 거리를 둘 때 깊은 상처를 받기도 합니다.
 
-This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
+무언가가 잘못되었다는 느낌은 자신이 자신 스스로의 불일치감을 더더욱 깊이 인지하게 될 때 크게 증가합니다. 자신이 누구인지를 깨달으면서 이는 새로운 형태를 띠게 됩니다. 이것이 이분법적인 트랜스젠더인들에게 있어서는 자신의 남성 혹은 여성인 진정한 젠더로 보여야 한다는 필요일 수도 있습니다. 어떤 논바이너리인들은 자신이 남성과 여성 중 그 어느것으로도 보이지 않는 것에 대해 행복감을 경험합니다. 이것이 젠더화되지 않은 방법으로 불려지는 것, 혹은 같은 환경에서 여러 사람들에게 각각 다른 젠더로 보이는 것일 수도 있습니다. 어떤 사람들은 다른 사람들이 자신의 젠더가 무엇인지 맞추지 못하고 혼란스러워 할 때 강렬한 행복감을 느끼기도 합니다.
 
-Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person will be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
+사회적 불쾌감은 대명사와 미스젠더링과 관련이 있습니다. 자신의 젠더와 일치하지 않는 she, he, him, 혹은 her 처럼 젠더화된 대명사로 불리는 것은 매우 불쾌한 경험입니다. 물론 이는 *모든* 사람들에게 해당합니다. 시스젠더인들에게도 마찬가지로요. 하지만 시스젠더인은 미스젠더링을 당하면서 모욕감을 느낀다면, 트랜스젠더인은 상처를 받습니다. 이는 칠판을 손톱으로 긁는 소리나, 피부를 철수세미로 문지리는 것과 같습니다. 잘못된 대명사를 듣는 것은 자신 이야기하고 있는 상대가 자신을 자신의 진정한 젠더로 인식하지 않는다는 것을 상기시켜 줍니다.
 
-Gender neutral pronouns can also be unsettling for binary trans people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being transgender, and the person addressing them doesn't know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being trans. It is sort of a catch-22.
+젠더 중립적인 대명사는 어떤 사람이 자신에게 맞는 대명사를 피하고 있다고 확실시하는 방식으로 사용되었을 때 이분법적인 트랜스젠더인들에게 불편하게 느껴질 수 있습니다. 이는 종종 자신이 트랜스젠더인 것으로 읽히거나, 상대방이 어떤 대명사를 사용해야 할지 모르는 상황이라는 신호일 수 있습니다. 상대방의 대명사를 물어보는 것으로 이 상황은 바로 해결될 수 있지만, 모순적으로 이런 상황에서도 대명사를 물어본다는 것이 트랜스젠더인 것으로 인식된다는 불쾌감을 일으킬 수 있습니다. 이러지도 저러지도 못하는 상황인 것입니다.<sup>(catch-22)</sup>
 
-Singular they can also be used maliciously when a transphobic individual refuses to use the correct pronoun, but knows they will get in trouble for using the wrong pronouns. Tone and intent matter a lot.
+단수 they 또한 트랜스혐오적인 사람이 알맞는 대명사를 사용하기를 거부하면서도 잘못된 대명사를 사용하면 문제가 될 것을 아는 상황에서 악의적으로 사용될 수 있습니다. 어조와 의도가 아주 중요한 것입니다.
 
-The same also applies to names. Being called by one's given name (deadname) instead of their chosen name can feel invalidating when done ignorantly, and downright dismissive when done intentionally.
+이러한 내용은 이름에도 적용될 수 있습니다. 자신이 정한 이름 대신 자신에게 주어진 이름 (데드네임)으로 불려지는 것이 무지에서 비롯되었더라도 자신의 정체성을 부정당하는 것처럼 느껴질 수 있습니다. 의도적으로 행해진 경우 노골적으로 무시당한다고 느껴질 수도 있습니다.
 
-It may also manifest as joy or embarrassment at being labeled as your true gender while still living as your assigned gender. Examples:
+여전히 자신의 지정 젠더로 살아가면서 자신의 진정한 젠더로 분류되는 것이 즐거움이나 창피함으로 나타나기도 합니다. 예시로는 다음이 있습니다:
 
-- An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
-- An AFAB person being called Sir, and feeling better for it.
+- 출생 시 남성으로 지정된 사람이 모욕의 의도로 소녀로 분류되었지만, 분노하기 보다는 얼굴이 붉어지는 경우.
+- 출생 시 여성으로 지정된 사람이 (영어) sir로 불리고 기분이 나아지는 경우.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper.
+사회적 불쾌감으로 생긴 불편함은 트랜스젠더인이 자신이 정말로 자신이 누구인지 말하는 사람이라고 설득하고자 과장된 방식으로 행동하도록 압박을 줄 수도 있습니다. 트랜스펨인 사람들은 메이크업과 여성적인 복장에 집중하고, 얌전해 보이기 위해 말수를 줄이고 더 높은 목소리로 말할 수도 있습니다. 트랜스메스큘린인 사람들은 남성적인 복장을 택하고, 자세를 더 꼿꼿이 하며, 감정 표현을 억누르고, 더 크게 말하기 시작하고, 자신의 목소리를 의도적으로 더 낮게 낼 수도 있습니다.
 
-### Physical vs Social Dysphoria
+### 신체적 불쾌감 VS 사회적 불쾌감
 
-Some physical traits which may cause discomfort all the time for some trans people may only manifest as a social dysphoria for others. For example, some people may only be self conscious about their physical appearance when it causes them to be misgendered or clocked (read as being trans), and feel completely comfortable when interacting in environments where they are always seen and treated as their true gender.
+어떤 트랜스젠더인에게는 어떤 신체적인 특징이 항상 불편함을 유발할 수도 있지만, 어떤 트랜스젠더인에게는 사회적 불쾌감으로만 나타날 수도 있습니다. 예를 들어, 어떤 사람들은 자신이 미스젠더링 당하거나 클락<sup>(clocking)</sup>되었을 때만 (트랜스젠더로 읽히는 것) 자신의 신체적인 외모에 의식하게 되고, 자신이 자신의 진정한 젠더로 대우받는 환경에서는 완전히 편안함을 느끼기도 합니다.
 
-I, myself, have no direct physical dysphoria around my voice, I actually really enjoy singing in my natal baritone, and when I am home with just my family I let my voice relax. When out in public, however, being able to speak in a feminine voice plays a critical role in my being seen as a woman by strangers, so I put a lot of effort into training it into a feminine sound. My feminine voice turns on the instant I answer the phone or leave the house, it isn't even a conscious thing.
+저 자신은 제 목소리에 대해 직접적으로 신체적 불쾌감을 가지고 있지 않습니다. 오히려 출생 바리톤으로 노래하는 것을 정말 즐기고, 가족과만 집에 있을 때 목소리를 진정시킵니다. 하지만 밖에 있을 때는, 여성적인 목소리로 말할 수 있는 것이 제가 낯선 사람으로부터 여성으로 보이는 것에 핵심적인 역할을 합니다. 그래서 저는 제 목소리를 여성적으로 들리게 훈련하도록 많은 노력을 기울입니다. 제가 전화를 받을 때나 집을 나설 때, 저는 바로 제 여성적인 목소리를 사용합니다. 더이상 의식적으로 하는 일도 아닌 겁니다.
 
-### "One of us!"
+### "우리 중에 있다!"
 
-A very curious and surprisingly phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
+아주 흥미롭고도 놀라운 현상으로는, 벽장에 있는 트랜스젠더인들이 자신도 모르게 서로를 찾는 경향을 가지고 있다는 점이 있습니다. 제가 반복해서 계속해서 들은 재미있는 패턴이 있는데, 어떤 친구 그룹에서 한 사람이 자신이 트랜스젠더임을 알아차리고 트랜지션을 할 때, 이것이 그 친구 그룹에 있는 다른 구성원들에게도 계기가 되어 자신 역시 트랜스젠더임을 깨닫고 커밍아웃하게 된다는 것입니다.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-Trans people subconsciously tend to gravitate towards each other's friendships, both out of a need for peers who think and act the same as us without judgments, and due to a kinship of social ostracization. This is not exclusive to trans people, of course, and occurs with all types of queer people, but the way it has a rippling effect is quite powerful. It's very similar to the way an entire friend group will get married and have kids all in response to one member of the group initiating.
+트랜스젠더인들은 무의식적으로 서로의 우정에 끌리게 되는 경향이 있습니다. 판단받지 않고 비슷하게 생각하고 행동하는 또래가 필요하다는 이유일 수도 있고, 사회적 배제를 함께 겪음으로 형성된 연대감 때문이기도 합니다. 물론 이는 트랜스젠더인에게만 한정된 이야기가 아니고, 모든 종류의 퀴어인들에게 나타날 수 있습니다. 하지만 이런 파급 효과가 일어나는 방식은 꽤 강력합니다. 이는 마치 친구 그룹의 한 사람이 먼저 결혼하거나 아이를 가지기 시작하는 것에 대한 반응으로 친구 그룹의 모든 사람이 결혼하고 아이를 가지게 되는 것과 비슷합니다.
 
 Trans people often continue to self-select their groups post-transition as well, as we simply understand each other better than cis people can. There is an energy that occurs when a group of trans people get together in a location, the room becomes charged with camaraderie and commiseration. We all have so much in common in our histories, so many shared experiences, that (short of personality conflicts) we instantly bond together.
+
+트랜스젠더인은 종종 트랜지션 이후에도 자신의 그룹을 스스로 선택하게 됩니다. 서로를 시스젠더인보다 더 잘 이해하기 때문입니다. 여러 명의 트랜스젠더인이 한 공간에 모일 때 일어나는 에너지가 있는데, 그 공간은 연대감과 공감으로 가득 차게 됩니다. 우리는 역사적으로 많은 공통점과 공유된 경험을 나누고 있어서, (성격 충돌이 없다면) 즉각적으로 유대감을 형성하게 됩니다.
