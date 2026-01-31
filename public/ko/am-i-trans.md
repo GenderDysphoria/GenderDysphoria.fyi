@@ -4,8 +4,8 @@ title: "Am I Trans?"
 linkTitle: "Am I Trans?"
 description: "A Roadmap To Figuring Out The Toughest Question"
 siblings:
-  prev: /ko/impostor-syndrome
-  prevCaption: Impostor Syndrome
+  prev: /ko/가면-증후군
+  prevCaption: 가면 증후군
   next: /ko/diagnoses
   nextCaption: Clinical Diagnoses
 classes:
