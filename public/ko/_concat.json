@@ -12,9 +12,9 @@
     "public/ko/성적-불쾌감.md",
     "public/ko/표현적-불쾌감.md",
     "public/ko/존재적-불쾌감.md",
-    "public/ko/managed-dysphoria.md",
-    "public/ko/impostor-syndrome.md",
-    "public/ko/am-i-trans.md",
+    "public/ko/관리되는-불쾌감.md",
+    "public/ko/가면-증후군.md",
+    "public/ko/제가-트랜스젠더일까요.md",
     "public/ko/diagnoses.md",
     "public/ko/treatment.md",
     "public/ko/causes.md",
@@ -27,7 +27,7 @@
   "meta": {
     "title": "젠더 불쾌감 바이블",
     "lang": "ko",
-    "description": "젠더 불쾌감 나타나게 되는 수많은 방법들과 트랜스젠더가 된다는 것이 어떤 의미인지에 대한 탐구.",
+    "description": "젠더 불쾌감이 나타나게 되는 수많은 방식과 트랜스젠더라는 것이 어떤 의미인지에 대한 탐구.",
     "classes": [ "gdb", "longform" ],
     "preBody": "_disclaimer"
   }
