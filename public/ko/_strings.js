@@ -6,7 +6,7 @@ module.exports = exports = {
 
   PATREON_FOOTER_BODY: '이 웹사이트는 공동체의 기여 덕분에 만들어질 수 있었습니다. 이 웹사이트가 귀중한 가치가 되었다면, <a href="https://www.patreon.com/curvyandtrans">Patreon에서 후원</a>하거나 <a href="https://ko-fi.com/curvyandtrans">Ko-fi를 통해 기부</a>하는 것을 고려해 보세요.',
   PATREON_FOOTER_THANKS: '아래 Patreon 후원자들에게 깊은 감사를 드립니다:',
-  FOOTER_COPYRIGHT: '사이트 텍스트와 웹사이트 코드, 원본 그래픽들은 <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 라이선스를 사용합니다.</a>',
+  FOOTER_COPYRIGHT: '사이트 텍스트와 웹사이트 코드, 원본 그래픽은 <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 라이선스를 사용합니다.</a>',
   FOOTER_COPYRIGHT2: '와 다른 기여자들',
 
   TRANS_TWITTER_TOPICS: '트랜스젠더 트위터 주제',
