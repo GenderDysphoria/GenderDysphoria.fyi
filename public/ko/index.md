@@ -42,15 +42,15 @@ siblings:
 
 7. [사회적 불쾌감](/ko/사회적-불쾌감)
 
-8. [넓은 의미에서의 사회적 불쾌감](/ko/societal-dysphoria)
+8. [넓은 의미에서의 사회적 불쾌감](/ko/넓은-의미에서의-사회적-불쾌감)
 
-9. [성적 불쾌감](/ko/sexual-dysphoria)
+9. [성적 불쾌감](/ko/성적-불쾌감)
 
-10. [표현 방식에 대한 불쾌감](/ko/presentational-dysphoria)
+10. [표현적 불쾌감](/ko/표현적-불쾌감)
 
-11. [존재론적 불쾌감](/ko/existential-dysphoria)
+11. [존재적 불쾌감](/ko/존재적-불쾌감)
 
-12. [관리된 불쾌감](/ko/managed-dysphoria)
+12. [관리된 불쾌감](/ko/관리된-불쾌감)
 
 13. [가면 증후군](/ko/impostor-syndrome)
 
