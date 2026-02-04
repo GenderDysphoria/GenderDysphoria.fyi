@@ -18,7 +18,7 @@ Treatment options vary significantly depending on the individual person's needs.
 
 ### Social Transition
 
-In a phrase: coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not; you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such a thing as a "non-binary man" and a "non-binary woman".
+In a phrase: coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not; you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some nonbinary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such a thing as a "nonbinary man" and a "nonbinary woman".
 
 A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from the suppression of oneself.
 
@@ -64,9 +64,9 @@ Transgender surgeries are typically divided into three separate categories:
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
-A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
+A newly developing area of bottom surgery is in AMAB nonbinary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
 
-An additional option for non-binary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
+An additional option for nonbinary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
 
 {!{ </div></div></div> }!}
 
