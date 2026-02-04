@@ -23,4 +23,4 @@ Sometimes existential dysphoria can manifest existentially, hitting you with all
 
 Many trans people attempt to recapture some of these lost events, hosting or attending queer proms, organizing sleepovers, performing vow renewals with their spouses, and engaging in common puberty rites of passage like having a mother figure help them shop for their first bra, or having a father figure teach them to shave. However, ultimately, existential dysphoria is something that can never be relieved. You can make new experiences to replace the ones you lost, but you can never turn back the clock.
 
-This is one of many reasons why affirming trans youth is so important. Boys want to do common boy things, girls want to do common girl things, and nonbinary children want to do whatever feels correct to them, and when they miss out they will not forget.
+This is one of many reasons why affirming trans youth is so important. Boys want to do common boy things, girls want to do common girl things, and non-binary children want to do whatever feels correct to them, and when they miss out they will not forget.
