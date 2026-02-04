@@ -103,9 +103,9 @@ These negative symptoms (depression, derealization, social discomfort) are the s
 
 What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual, etc), but gender itself does not affect sexuality and sexuality has no role in gender.
 
-## What does it mean to be non-binary?
+## What does it mean to be Non-binary?
 
-non-binary identities are outside of an exclusive affinity to either male or female. Sometimes this means a total affinity to both ([bigender](https://gender.fandom.org/wiki/Bigender)) or balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)). It can also mean an affinity that changes from day to day ([genderfluid](https://gender.fandom.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.fandom.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.fandom.org/wiki/Pangender)).
+Non-binary identities are outside of an exclusive affinity to either male or female. Sometimes this means a total affinity to both ([bigender](https://gender.fandom.org/wiki/Bigender)) or balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)). It can also mean an affinity that changes from day to day ([genderfluid](https://gender.fandom.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.fandom.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.fandom.org/wiki/Pangender)).
 
 It can also mean a lack of affinity to any gender identity at all ([agender](https://gender.fandom.org/wiki/Agender)) or a strong affinity to a gender identity that isn't relative to either male or female (including but not limited to [aporagender](https://gender.fandom.com/wiki/Aporagender)).
 
