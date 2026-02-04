@@ -39,6 +39,8 @@ While still in the dark, the only awareness is that something seems off about th
 
 For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
 
+Some nonbinary people feel social incongruence in interactions with both men and women, which may persist even if they change their gender presentation.
+
 This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some nonbinary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
 
 Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person may be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
@@ -58,7 +60,7 @@ It may also manifest as joy or embarrassment at being labeled as your true gende
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper.
+The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper. Some nonbinary people may consciously alter their presentation to be less obviously masculine or feminine, which can resemble the techniques of binary trans people with similar bodies, or may play up intentionally conflicting gender cues.
 
 ### Physical vs Social Dysphoria
 
