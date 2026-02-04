@@ -55,7 +55,7 @@ Any of these three aspects can fall into a position on a range of values. Your e
 
 Likewise, many people believe that phenotype is also binary, but biology has recognized for hundreds of years that, when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
-Gender, however, is a lot more... esoteric. There are a lot of different ways in which people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it because the spectrum is itself a very abstract concept.
+Gender, however, is a lot more... esoteric. There are a lot of different ways in which people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it because the range of human gender is itself a very abstract concept. Even the term "gender spectrum" as used in this document is shorthand for the various facets that make up gender; many people who call it a "spectrum" still depict it as multidimensional. Others use a variety of different metaphors, such as cubes or clusters.
 
 {!{
 <div class="">
@@ -67,6 +67,7 @@ Gender, however, is a lot more... esoteric. There are a lot of different ways in
       {{import '~/img' images.gender_unicorn className="" }}
     </div>
     <div class="card-body">
+      Note that these three depictions all vary in how many dimensions of gender there are and which traits they measure.<br />
       <em>Sources:</em>
       [<a href="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of">Tumblr</a>]
       [<a href="http://www.transstudent.org/gender">TransStudent.org</a>]
@@ -75,11 +76,11 @@ Gender, however, is a lot more... esoteric. There are a lot of different ways in
 </div>
 }!}
 
-The short of it is: some people are very male, some people are very female. Some people feel no gender at all, some people feel both. Some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender; no one else can dictate it for them.
+The short of it is: some people are very male, some people are very female. Some people feel no gender at all, some people feel both. Some feel their gender weakly, others feel it intensely. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Some might question the premise of a spectrum at all! Only an individual can identify their own gender; no one else can dictate it for them.
 
 Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
 
-Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
+Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people. These may not all line up the same way.
 
 Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
 
@@ -102,10 +103,12 @@ These negative symptoms (depression, derealization, social discomfort) are the s
 
 What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual, etc), but gender itself does not affect sexuality and sexuality has no role in gender.
 
-## What does it mean to be Non-binary?
+## What does it mean to be Nonbinary?
 
-Non-binary can basically be simplified as a lack of exclusive affinity to male or female. This may be a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), a total affinity to both ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), a balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)), an affinity that changes from day to day ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.wikia.org/wiki/Pangender)).
+Nonbinary identities are outside of an exclusive affinity to either male or female. Sometimes this means a total affinity to both ([bigender](https://gender.fandom.org/wiki/Bigender)) or balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)). It can also mean an affinity that changes from day to day ([genderfluid](https://gender.fandom.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.fandom.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.fandom.org/wiki/Pangender)).
 
-It could be an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.wikia.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
+It can also mean a lack of affinity to any gender identity at all ([agender](https://gender.fandom.org/wiki/Agender)) or a strong affinity to a gender identity that isn't relative to either male or female (including but not limited to [aporagender](https://gender.fandom.com/wiki/Aporagender)).
 
-In generalist terms, this book will be describing gender in a sense of binary identities (male/female) vs non-binary identities, but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
+Some nonbinary people have an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.fandom.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
+
+In generalist terms, this book will be describing gender in a sense of binary identities (male/female) vs nonbinary identities, but this is purely for the sake of writing simplicity. Similarly, the list of nonbinary identities mentioned is not exhaustive. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
