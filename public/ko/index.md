@@ -70,7 +70,7 @@ siblings:
 
 21. [에스트로겐성 2차 사춘기 기초](/ko/second-puberty-fem)
 
-22. [결론](/ko/conclusion)
+22. [결론](/ko/결론)
 
 {!{ </div> }!}
 
