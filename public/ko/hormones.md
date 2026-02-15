@@ -6,8 +6,8 @@ description: "Keys, Locks, and Car Ignitions"
 preBody: '_disclaimer'
 lang: ko
 siblings:
-  prev: /ko/chromosomes
-  prevCaption: Chromosomes
+  prev: /ko/염색체
+  prevCaption: 염색체
   next: /ko/second-puberty-masc
   nextCaption: Androgenic Second Puberty
 classes:
