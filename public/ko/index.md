@@ -64,11 +64,11 @@ siblings:
 
 18. [염색체](/ko/염색체)
 
-19. [호르몬의 작용 방식](/ko/hormones)
+19. [호르몬은 어떻게 작용하는가](/ko/hormones)
 
-20. [안드로겐성 2차 사춘기 101](/ko/second-puberty-masc)
+20. [안드로겐성 2차 사춘기 기초](/ko/second-puberty-masc)
 
-21. [에스트로겐성 2차 사춘기 101](/ko/second-puberty-fem)
+21. [에스트로겐성 2차 사춘기 기초](/ko/second-puberty-fem)
 
 22. [결론](/ko/conclusion)
 
