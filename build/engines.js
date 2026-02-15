@@ -19,7 +19,9 @@ const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
   'en': dateFNSLocales.enUS,
+  'el': dateFNSLocales.el,
   'zh': dateFNSLocales.zhCN,
+  'tw': dateFNSLocales.zhTW,
   'de': dateFNSLocales.de,
   'fr': dateFNSLocales.fr,
   'hu': dateFNSLocales.hu,
@@ -38,6 +40,7 @@ const markdownEngines = {
     typographer: true,
   })
     .enable('image')
+    .use(require('markdown-it-footnote'))
     .use(require('markdown-it-link-attributes'), {
       pattern: /^https?:/,
       attrs: {

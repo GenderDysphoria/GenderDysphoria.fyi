@@ -1,6 +1,6 @@
 const fs = require('fs-extra');
 const { resolve } = require('./resolve');
-const { chunk, uniq, difference } = require('lodash');
+const { uniq, difference } = require('lodash');
 const Twitter = require('twitter-lite');
 const log = require('fancy-log');
 const tweetparse = require('./lib/tweetparse');
@@ -41,11 +41,12 @@ class TwitterClient {
 
     tweetids = uniq(tweetids.map(parseTweetId));
 
-    let tweetsNeeded = this._missing(tweetids);
+    let tweetsNeeded = this._missing(tweetids).filter(Boolean);
 
     while (tweetsNeeded.length) {
-      log('Fetching tweets: ' + tweetsNeeded.join(', '));
-      const arriving = await Promise.all(chunk(tweetsNeeded, 99).map(this._lookup));
+      // log('Fetching tweets: ' + tweetsNeeded.join(', '));
+      // const arriving = await Promise.all(chunk(tweetsNeeded, 99).map(this._lookup));
+      const arriving = [];
       const tweetsRequested = tweetsNeeded;
       tweetsNeeded = [];
       const loaded = [];
@@ -61,6 +62,7 @@ class TwitterClient {
 
       const absent = difference(tweetsRequested, loaded);
       for (const id of absent) {
+        if (!id) continue;
         if (!hasOwn(this._backupData, id)) {
           log.error('Could not find tweet ' + id);
           continue;

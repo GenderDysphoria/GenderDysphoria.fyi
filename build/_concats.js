@@ -1,6 +1,7 @@
 
 module.exports = exports = [
   require('../public/de/_concat.json'),
+  require('../public/el/_concat.json'),
   require('../public/en/_concat.json'),
   require('../public/es/_concat.json'),
   require('../public/nl/_concat.json'),
@@ -10,4 +11,5 @@ module.exports = exports = [
   require('../public/pl/_concat.json'),
   require('../public/zh/_concat.json'),
   require('../public/ko/_concat.json'),
+  require('../public/tw/_concat.json'),
 ];

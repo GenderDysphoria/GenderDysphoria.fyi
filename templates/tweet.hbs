@@ -1,8 +1,8 @@
 <div class="tweet{{#is ids.length 1}} single{{/is}} {{className}}" style="{{style}}">
   {{#each ids}}
   <div class="tweet-item" data-id="{{this}}">{{#with tweets[this]}}
-    <a class="tweet-link" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank">{{icon 'link'}}</a>
-    <a class="tweet-header" href="https://twitter.com/{{user.screen_name}}" target="_blank">
+    <span class="tweet-link" target="_blank">{{icon 'link'}}</span>
+    <span class="tweet-header" target="_blank">
       <b><img src="{{rev user.avatar.output}}" alt=""></b>
       <strong>
         {{{user.name_html}}}
@@ -11,19 +11,19 @@
       </strong>
       <span>@{{user.screen_name}}</span>
       <img src="/tweets/logo.svg" alt="Twitter Logo" class="tweet-logo">
-    </a>
+    </span>
     {{#if this.quoted_status_id_str}}{{#with tweets[quoted_status_id_str]}}
     <div class="tweet-quoted">
-      <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
+      <span rel="author">
         <strong>{{{user.name_html}}}</strong>
         <span>@{{user.screen_name}}</span>
-      </a>
+      </span>
       {{#compare this.quoted_status_id_str '!=' this.id_str}}{{#with tweets[quoted_status_id_str]}}
       <div class="tweet-quoted">
-        <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">
+        <span rel="author">
           <strong>{{{user.name_html}}}</strong>
           <span>@{{user.screen_name}}</span>
-        </a>
+        </span>
         {{#if html_i18n[page.lang]}}
         <div class="tweet-quoted-text">{{{html_i18n[page.lang]}}}</div>
         {{else}}
@@ -75,7 +75,7 @@
     </div></div></div></div>
     {{/any}}
     <div class="tweet-footer">
-      <a class="tweet-date" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" target="_blank" title="{{date created_at 'iso'}}">{{date created_at (lang 'TWEET_DATE_FORMAT')}}</a>
+      <span class="tweet-date" title="{{date created_at 'iso'}}">{{date created_at (lang 'TWEET_DATE_FORMAT')}}</span>
     </div>
   {{else}}{{{lang 'MISSING_TWEET_FOR'}}} {{this}}{{/with}}</div>
   {{/each}}

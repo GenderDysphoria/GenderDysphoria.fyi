@@ -1,16 +1,19 @@
 
 .markup {
   -webkit-font-smoothing: antialiased;
+  transition: background-color 0.5s;
 
   p a {
     transition-property: color, padding, margin;
     transition-duration: 0.3s;
     transition-timing-function: ease;
-    color: $primary;
     text-decoration: underline;
 
-    &:hover {
-      color: #e84992;
+    @include light-mode {
+      color: $primary;
+      &:hover {
+        color: #e84992;
+      }
     }
   }
 
@@ -33,6 +36,13 @@
     border-radius: 5px;
     padding: 15px;
     color: black;
+
+    @include dark-mode {
+      background: darken($trans-blue-darkest, 10%);
+      border: 1px solid #0087bb;
+      color: $body-color-dark;
+      box-shadow: 0 0 5px 2px rgba($trans-blue,0.5);
+    }
 
     color-adjust: exact;
     -webkit-print-color-adjust: exact;
@@ -86,6 +96,12 @@
 
       img {
         height: 1em;
+      }
+
+      @include dark-mode {
+        // Convert the black svg icon to the $primary color at runtime using CSS filters
+        // https://stackoverflow.com/a/43960991
+        filter: invert(34%) sepia(87%) saturate(2698%) hue-rotate(313deg) brightness(108%) contrast(98%);
       }
     }
 
@@ -151,6 +167,11 @@
   color-adjust: exact;
   -webkit-print-color-adjust: exact;
   print-color-adjust: exact;
+
+  @include dark-mode {
+    background-color: lighten($content-bg-dark, 5%);
+    color: $gray-900;
+  }
 
   font-size: 0.8rem;
   font-weight: 300;

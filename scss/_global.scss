@@ -1,6 +1,19 @@
+a {
+  @include dark-mode {
+    color: lighten($primary, 10%);
+      
+    &:hover {
+      color: lighten($primary, 20%);
+    }
+  }
+}
 
 body {
   font-family: $font-primary;
+  
+  @include dark-mode {
+    color: $body-color-dark;
+  }
 }
 
 // Prevents the page header from blocking view of
@@ -16,6 +29,10 @@ body {
 }
 h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
   background-color: yellow !important;
+
+  @include dark-mode {
+    color: black;
+  }
 }
 
 span.svg-icon {

@@ -30,6 +30,8 @@ tweets:
 
 # But the Chromosomes!!!
 
+## More than Two Options
+
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
     '1223942625708761088'
@@ -94,3 +96,9 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
     '1208181235593490433'
   ] tweets=meta.tweets className="" }}
 </div>}!}
+
+## But Most People Are Still XX or XY!!!
+
+Biological sex in endosex (non-intersex) people is still more complicated than the simplistic XX/XY model suggests. Even if someone has typical 46,XX or 46,XY chromosomes, the body can change how it *uses* DNA without changing the DNA sequence itself. This process is called [epigenetics](https://www.cdc.gov/genomics-and-health/epigenetics/).
+
+Epigenetic changes vary between XX and XY chromosomes, but they also differ as people age in sex-specific ways. Long-term gender-affirming hormone therapy appears to make some of those [sex-and-age-specific changes](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) more masculine on testosterone, or more feminine on estrogen. Therefore, the DNA of a cis man isn't used the same way as the DNA of a trans woman on estrogen, even if they both have XY chromosomes, and the DNA of a cis woman isn't used the same way as the DNA of a trans man on testosterone, even if they both have XX chromosomes.

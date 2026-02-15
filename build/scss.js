@@ -2,7 +2,7 @@ const glob = require('./lib/glob');
 const { ROOT, readFile, resolve } = require('./resolve');
 const actions = require('./actions');
 const File = require('./file');
-const sass = require('node-sass');
+const sass = require('sass');
 const Promise = require('bluebird');
 const postcss = require('postcss');
 const autoprefixer = require('autoprefixer');
@@ -45,21 +45,14 @@ class Sass extends File {
       contents = contents.replace(match, insert);
     }
 
-    const sassOptions = {
-      data: contents,
-      file: resolve(this.input),
-      includePaths: [
+    let { css } = await sass.compileStringAsync(contents, {
+      loadPaths: [
         resolve(this.cwd),
         resolve('node_modules'),
       ],
       sourceMapEmbed: true,
-    };
-
-    let { css } = await (new Promise((resolve, reject) => { // eslint-disable-line no-shadow
-      sass.render(sassOptions, (err, result) => (
-        err ? reject(err) : resolve(result)
-      ));
-    }));
+      silenceDeprecations: [ 'mixed-decls', 'color-functions', 'global-builtin', 'import' ],
+    });
 
     if (prod) {
       css = (await postcss([ autoprefixer ]).process(css, {

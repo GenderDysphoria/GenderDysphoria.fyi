@@ -31,7 +31,7 @@ tweets:
 
 ## Ce que tu dois attendre de THS masculinisant
 
-Il s'agit d'une compilation des changements de transition médicale signalés, recueillis à partir de témoignages de personnes trans AFAB prenant une hormonothérapie à base d'androgènes. Cettes informations sont recueillies dans les médias sociaux et les salons de discussion. Oui, cela signifie que tout cela est anecdotique, mais historiquement, la plupart des études médicales sur les transgenres sont anecdotiques parce que personne ne veut financer la recherche médicale sur les transgenres.
+Il s'agit d'une compilation des changements de transition médicale signalés, recueillis à partir de témoignages de personnes trans AFAB prenant une hormonothérapie à base d'androgènes. Ces informations sont recueillies dans les médias sociaux et les salons de discussion. Oui, cela signifie que tout cela est anecdotique, mais historiquement, la plupart des études médicales sur les transgenres sont anecdotiques parce que personne ne veut financer la recherche médicale sur les transgenres.
 
 **Note qu'il s'agit d'une liste de changements _possibles_. Il n'y a aucune garantie que chaque personne sous THS masculinisant aura tous ces changements. Ton âge, ta génétique, tes antécédents médicaux, ton degré de masculinisation depuis la puberté natale et ton régime hormonal peuvent tous avoir un impact sur les résultats. Il y a aussi un certain degré d'aléatoire - chaque corps est différent - et certaines choses peuvent mettre des années à apparaître**.
 
@@ -120,7 +120,7 @@ Si tu souffres de TDAH, il se peut que tes symptômes changent. Les androgènes 
 
 L'atténuation de la DPDR s'accompagne presque universellement d'une capacité beaucoup plus grande d'émotion et de régulation émotionnelle. Les émotions deviennent un peu plus contrôlables et supprimables, moins susceptibles de déborder sur le champ. *Remarque : supprimer les émotions est un moyen très rapide de développer un traumatisme.*
 
-Cependant, la capacité à les exprimer peut être réduite. Certaines personnes perdent la capacité de pleurer après avoir commencé à prendre de la testostérone, mais ce n'est *pas* une expérience universelle et cela peut être lié à la puissance de ta dose de T. Les raisons de ce phénomène ne sont pas bien connues. Les raisons de ce phénomène ne sont pas bien connues, mais certaines études ont montré que les androgènes modifient le fonctionnement des parties du cerveau liées au traitement des émotions. Si tu perds la capacité de pleurer, elle peut revenir avec le temps, à mesure que ton cerveau s'habitue et que tu sors de la deuxième puberté.
+Cependant, la capacité à les exprimer peut être réduite. Certaines personnes perdent la capacité de pleurer après avoir commencé à prendre de la testostérone, mais ce n'est *pas* une expérience universelle et cela peut être lié à la puissance de ta dose de T. Les raisons de ce phénomène ne sont pas bien connues, mais certaines études ont montré que les androgènes modifient le fonctionnement des parties du cerveau liées au traitement des émotions. Si tu perds la capacité de pleurer, elle peut revenir avec le temps, à mesure que ton cerveau s'habitue et que tu sors de la deuxième puberté.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'

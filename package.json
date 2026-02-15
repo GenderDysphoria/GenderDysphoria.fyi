@@ -11,15 +11,14 @@
   "engines": {
     "node": "20"
   },
-  "author": "Jocelyn Badgley <joc@twipped.com> (http://twipped.com/)",
   "siteInfo": {
     "title": "That's Gender Dysphoria, FYI",
     "domain": "genderdysphoria.fyi",
     "lang": "en",
     "siteUrl": "https://genderdysphoria.fyi",
     "description": "A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.",
-    "creator": "TwippingVanilla",
-    "author": "Jocelyn Badgley",
+    "creator": "twipped@twipped.social",
+    "author": "Twipped Media",
     "rss": {
       "title": "That's Gender Dysphoria, FYI",
       "feed_url": "https://genderdysphoria.fyi/atom.xml",
@@ -75,11 +74,11 @@
     "make-fetch-happen": "^11.0.2",
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^8.6.6",
+    "markdown-it-footnote": "^4.0.0",
     "markdown-it-link-attributes": "^4.0.1",
     "memoizepromise": "^2.0.0",
     "minimist": "^1.2.7",
     "morgan": "^1.10.0",
-    "node-sass": "^9.0.0",
     "plugin-error": "^2.0.1",
     "png-to-ico": "^2.1.8",
     "popper.js": "^1.16.0",
@@ -90,6 +89,7 @@
     "rollup": "^3.9.1",
     "rollup-plugin-react-svg": "^3.0.3",
     "rss": "^1.2.2",
+    "sass": "^1.90.0",
     "serve-index": "^1.9.1",
     "string-strip-html": "^8.3.0",
     "svg-dimensions": "^1.0.2",

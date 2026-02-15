@@ -31,7 +31,7 @@ My good friend Lily coined the phrase **“Egg Prime Directive”** to describe 
 
 When someone is just told they are trans, that opens ground for denial; it activates defense mechanisms built by internalized transphobia, and it has a high probability of pushing them further into the closet, if not making them outright transphobic. Even when it doesn’t, it leaves ground for their own subconscious to reject their dysphoria, claiming that they were just manipulated or deceived.
 The much more effective strategy is to talk about your own experiences with dysphoria so that they see the common grounds and come to their own conclusion about their gender. The code doesn’t forbid helping them to explore their gender; it forbids assigning a gender to them.
-Or, to put it more succinctly, you cannot be told what the Matrix is; you can only be shown.
+Or, to put it more succinctly, no one can be told what the Matrix is. You have to see it for yourself.
 
 I’m sure there are some trans people out there who don’t follow the Egg Prime Directive, but I haven’t met them. It’s one of the only things that seems to unify the whole trans community, myself included. Even though I wanted my own external validation more than anything, I now see that true acceptance could have only come from within. The only person who can tell you that you are trans is yourself.
 
@@ -52,7 +52,7 @@ Why? Because most of the time they won't believe you.
 
 Internalized transphobia has indoctrinated us all to believe that it's impossible that we are trans, or that being trans is something negative and reviled. Pressures from within a person's family or from their upbringing can make it extremely hard to accept themselves.
 
-Trying to tell someone who isn't already questioning that you think they're transgender triggers a self-defense mechanism; their subconscious actively tries to reject the statement, and there is a high probability that the suggestion will not only push them further into the closet, but can even make them hostile towards you for making it. Many transphobes show clear evidence of fighting their own struggles with gender, and there is no shortage of trans people who [have a history of being transphobic](https://curvyandtrans.tumblr.com/post/661595258598113280/interview-with-an-ex-radfem) out of self-preservation.
+Trying to tell someone who isn't already questioning that you think they're transgender triggers a self-defense mechanism; their subconscious actively tries to reject the statement, and there is a high probability that the suggestion will not only push them further into the closet, but can even make them hostile towards you for making it. Many transphobes show clear evidence of fighting their own struggles with gender, and there is no shortage of trans people who [have a history of being transphobic](https://twippedtronic.tumblr.com/post/661595258598113280/interview-with-an-ex-radfem) out of self-preservation.
 
 Even when the person accepts your declaration, the fact that you told them instead of letting them discover it themselves leaves an opening for their own self-conscious to instill doubt about their dysphoria and believe that the idea was suggestive, or that they were manipulated into believing they were trans. The only safe pathway forward for someone to learn they are trans is to realize it on their own.
 
