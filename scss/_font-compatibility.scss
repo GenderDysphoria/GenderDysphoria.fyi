@@ -1,5 +1,5 @@
-
 $font-secondary-comp: 'Helvetica Neue', Helvetica, serif;
+$font-korean: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
 
 html[lang=de], html[lang=pl], html[lang=hu], html[lang=fr] {
   .card .card-body {
@@ -8,5 +8,32 @@ html[lang=de], html[lang=pl], html[lang=hu], html[lang=fr] {
 
   .markup blockquote {
     font-family: $font-secondary-comp;
+  }
+}
+
+html[lang=ko] {
+  body {
+    font-family: $font-korean;
+    font-weight: 500;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $font-korean;
+    font-weight: 700;
+  }
+
+  .card .card-body {
+    font-family: $font-korean;
+    font-weight: 500;
+  }
+
+  .markup blockquote {
+    font-family: $font-korean;
+    font-weight: 500;
+  }
+
+  a span {
+    font-family: $font-korean;
+    font-weight: 500;
   }
 }
