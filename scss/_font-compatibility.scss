@@ -36,4 +36,14 @@ html[lang=ko] {
     font-family: $font-korean;
     font-weight: 500;
   }
+
+  .top-brand {
+    font-family: $font-korean;
+    font-weight: 600;
+  }
+
+  .top-brand abbr {
+    font-family: $font-brand;
+    font-weight: 500;
+  }
 }
