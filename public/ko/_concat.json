@@ -1,0 +1,34 @@
+{
+  "output": "public/ko/printable.md",
+  "sources": [
+    "public/ko/index.md",
+    "public/ko/젠더가-무엇인가요.md",
+    "public/ko/역사.md",
+    "public/ko/행복감.md",
+    "public/ko/신체적-불쾌감.md",
+    "public/ko/생화학적-불쾌감.md",
+    "public/ko/사회적-불쾌감.md",
+    "public/ko/넓은-의미에서의-사회적-불쾌감.md",
+    "public/ko/성적-불쾌감.md",
+    "public/ko/표현적-불쾌감.md",
+    "public/ko/존재적-불쾌감.md",
+    "public/ko/관리되는-불쾌감.md",
+    "public/ko/가면-증후군.md",
+    "public/ko/제가-트랜스젠더일까요.md",
+    "public/ko/진단.md",
+    "public/ko/치료.md",
+    "public/ko/원인.md",
+    "public/ko/염색체.md",
+    "public/ko/호르몬.md",
+    "public/ko/이차-사춘기-남.md",
+    "public/ko/이차-사춘기-여.md",
+    "public/ko/결론.md"
+  ],
+  "meta": {
+    "title": "젠더 불쾌감 바이블",
+    "lang": "ko",
+    "description": "젠더 불쾌감이 나타나게 되는 수많은 방식과 트랜스젠더라는 것이 어떤 의미인지에 대한 탐구.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
