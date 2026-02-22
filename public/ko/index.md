@@ -2,7 +2,7 @@
 date: "2020-01-26T20:41:55.827Z"
 title: "젠더 불쾌감 바이블"
 linkTitle: Introduction
-description: "젠더 불쾌감 나타나게 되는 수많은 방법들과 트랜스젠더가 된다는 것이 어떤 의미인지에 대한 탐구."
+description: "젠더 불쾌감 나타나게 되는 수많은 방법들과 트랜스젠더인 것이 어떤 의미인지에 대한 탐구."
 preBody: '_disclaimer'
 lang: ko
 classes:
