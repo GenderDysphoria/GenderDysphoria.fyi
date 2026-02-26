@@ -25,3 +25,7 @@
 - lang: zh
   name: 中文 (ZH)
   pdf-source: /zh/printable/index.html?pdf=true
+
+- lang: ko
+  name: 한국어 (KO)
+  pdf-source: /ko/printable/index.html?pdf=true
