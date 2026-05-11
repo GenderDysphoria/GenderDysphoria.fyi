@@ -18,19 +18,20 @@ const mAnchor = require('markdown-it-anchor');
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
-  'en': dateFNSLocales.enUS,
-  'el': dateFNSLocales.el,
-  'zh': dateFNSLocales.zhCN,
-  'tw': dateFNSLocales.zhTW,
   'de': dateFNSLocales.de,
+  'el': dateFNSLocales.el,
+  'en': dateFNSLocales.enUS,
+  'es': dateFNSLocales.es,
   'fr': dateFNSLocales.fr,
   'hu': dateFNSLocales.hu,
+  'it': dateFNSLocales.it,
+  'ko': dateFNSLocales.ko,
+  'nl': dateFNSLocales.nl,
   'pl': dateFNSLocales.pl,
   'pt': dateFNSLocales.pt,
-  'es': dateFNSLocales.es,
-  'nl': dateFNSLocales.nl,
   'ru': dateFNSLocales.ru,
-  'ko': dateFNSLocales.ko,
+  'tw': dateFNSLocales.zhTW,
+  'zh': dateFNSLocales.zhCN,
 };
 
 const markdownEngines = {
