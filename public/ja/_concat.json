@@ -1,0 +1,34 @@
+{
+  "output": "public/ja/printable.md",
+  "sources": [
+    "public/ja/index.md",
+    "public/ja/ジェンダーとは.md",
+    "public/ja/歴史.md",
+    "public/ja/性別高揚感.md",
+    "public/ja/身体的違和.md",
+    "public/ja/生化学的違和.md",
+    "public/ja/対人的違和.md",
+    "public/ja/社会的違和.md",
+    "public/ja/性的違和.md",
+    "public/ja/表現的違和.md",
+    "public/ja/実存的違和.md",
+    "public/ja/管理された違和.md",
+    "public/ja/インポスター症候群.md",
+    "public/ja/私はトランスジェンダーなの.md",
+    "public/ja/診断.md",
+    "public/ja/治療.md",
+    "public/ja/原因.md",
+    "public/ja/染色体.md",
+    "public/ja/ホルモン.md",
+    "public/ja/二度目の思春期-男性化.md",
+    "public/ja/二度目の思春期-女性化.md",
+    "public/ja/結論.md"
+  ],
+  "meta": {
+    "title": "性別違和バイブル",
+    "lang": "ja",
+    "description": "性別違和が現れる多様なかたちと、トランスジェンダーであるとはどういうことかを掘り下げる一冊。",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

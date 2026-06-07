@@ -1,6 +1,6 @@
 const path = require('path');
 const fs = require('fs-extra');
-const gm = require('gm');
+const gm = process.env.GM_IMAGEMAGICK ? require('gm').subClass({ imageMagick: '7+' }) : require('gm');
 const Promise = require('bluebird');
 const fetch = require('make-fetch-happen');
 const ico = require('png-to-ico');
