@@ -55,12 +55,11 @@ Any of these three aspects can fall into a position on a range of values. Your e
 
 Likewise, many people believe that phenotype is also binary, but biology has recognized for hundreds of years that, when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
-Gender, however, is a lot more... esoteric. There are a lot of different ways in which people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it because the range of human gender is itself a very abstract concept. Even the term "gender spectrum" as used in this document is shorthand for the various facets that make up gender; many people who call it a "spectrum" still depict it as multidimensional. Others use a variety of different metaphors, such as cubes or clusters.
-
+Gender, however, is a lot more... esoteric. There are a lot of different ways in which people have attempted to illustrate a gender spectrum, but none have quite thoroughly captured it because the breadth of what gender encapsulates is itself a very abstract concept.
 {!{
 <div class="">
   <div class="card">
-    <div class="card-header"><strong>Some of the methods used to describe gender</strong></div>
+    <div class="card-header"><strong>Examples of methods used to describe gender</strong></div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
