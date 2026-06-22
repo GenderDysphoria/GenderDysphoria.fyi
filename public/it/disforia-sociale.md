@@ -60,7 +60,8 @@ La disforia sociale compare anche come gioia o imbarazzo quanto quacuno si rivol
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-Il disagio causato dalla disforia sociale può spingere una persona trans a comportarsi e presentarsi in maniera esagerata per convincere il resto del mondo di essere davvero il genere che afferma di essere. Le persone transfemminili potrebbero concentrarsi molto sull'uso del trucco e di capi d'abbigliamento femminili, diventando più silenziose per apparire più riservate, usando toni di voce più acuti. Le persone transmascoline invece tenderanno a usare abiti maschili, apparire più alte, reprimere le proprie emozioni e parlare più forte, con toni di voce più profondi.
+Il disagio causato dalla disforia sociale può spingere una persona trans a comportarsi e presentarsi in maniera esagerata per convincere il resto del mondo di essere davvero il genere che afferma di essere. Le persone transfemminili potrebbero concentrarsi molto sull'uso del trucco e di capi d'abbigliamento femminili, diventando più silenziose per apparire più riservate, usando toni di voce più acuti. Le persone transmascoline invece tenderanno a usare abiti maschili, apparire più alte, reprimere le proprie emozioni e parlare più forte, con toni di voce più profondi. 
+Alcune persone non binarie alterano volontariamente la propria presentazione al fine di renderla meno ovviamente maschile o femminile, in maniera simile alle tecniche delle persone trans binarie con simili corpi, oppure mischiando intenzionalmente indicatori di genere contrastanti. 
 
 ### Disforia Fisica contro Disforia Sociale
 
