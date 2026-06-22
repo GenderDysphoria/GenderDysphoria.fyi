@@ -4,7 +4,7 @@ title: "In Conclusione"
 linkTitle: "Conclusione"
 description: "Basta porre mille paletti."
 siblings:
-  prev: /it/seconda-pubertà-fem
+  prev: /it/seconda-puberta-fem
   prevCaption: Seconda Pubertà Estrogenica
 classes:
   - gdb
