@@ -8,7 +8,7 @@ lang: it
 classes:
   - gdb
 siblings:
-  next: /it/che-cosa-è-il-genere
+  next: /it/che-cosa-e-il-genere
   nextCaption: Che cos'è il Genere?
 ---
 

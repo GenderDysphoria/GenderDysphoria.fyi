@@ -56,18 +56,19 @@ Qualunque di questi tre aspetti può ricadere dentro una posizione con una gamma
 
 Similmente, molto persone credono che anche il fenotipo sia binario, ma la biologia ha riconosciuto per centinaia di anni che, tenendo traccia di tutte le caratteristiche sessuali di una popolazione, si finisce per compilare una distribuzione bimodale dove la maggioranza della popolazione ricade in una percentuale di due gruppi maggioritari. Ciò significa che alcune persone, semplicemente per come va la vita, si ritroveranno al di fuori di questi due gruppi. Molte persone si trovano nel mezzo, con caratteristiche di entrambi i sessi.
 
-Il genere è, invece, molto più... esoterico. Ci sono molti modi diversi tramite cui le persone hanno cercato di rappresentare lo spettro del genere, senza che nessuno ci riuscisse con precisione in quanto lo spettro stesso è un concetto molto astratto.
+Il genere è, invece, molto più... esoterico. Le persone hanno cercato di rappresentare il genere su uno spettro in molti modi diversi, senza però ottenere risultati precisi in quanto l'ampiezza di ciò che è compreso nel genere è un concetto a sé ancora molto astratto.
 
 {!{
 <div class="">
   <div class="card">
-    <div class="card-header"><strong>Alcuni metodi utilizzati per descrivere il genere</strong></div>
+    <div class="card-header"><strong>Esempi di metodi utilizzati per descrivere il genere</strong></div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
       {{import '~/img' images.gender_unicorn className="" }}
     </div>
     <div class="card-body">
+        Queste tre rappresentazioni differiscono in base al numero di dimensioni del genere rappresentate e alle caratteristiche misurate.<br />
       <em>Sources:</em>
       [<a href="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of">Tumblr</a>]
       [<a href="http://www.transstudent.org/gender">TransStudent.org</a>]
@@ -76,11 +77,12 @@ Il genere è, invece, molto più... esoterico. Ci sono molti modi diversi tramit
 </div>
 }!}
 
-In sintesi: alcune persone sono decisamente maschili, altre sono decisamente femminili. Alcune persone non percepiscono nessun genere, altre percepiscono entrambi. Altre si ritrovano nel mezzo, altre più vicine ai bordi. Altre ancora oscillano lungo tutto lo spettro in maniera imprevedibile, variabili quanto il vento. Solo l'individuo può indentificare il proprio genere; nessun'altra persona può farlo al suo posto.
+In sintesi: alcune persone sono decisamente maschili, altre sono decisamente femminili. Alcune persone non percepiscono nessun genere, altre percepiscono entrambi. Altre non percepiscono il genere più di tanto, altre lo percepiscono intensamente. Altre ancora oscillano lungo tutto lo spettro in maniera imprevedibile, variabili quanto il vento. Altre ancora mettono in dubbio la premessa stessa dell'esistenza di uno spettro del genere. Solo l'individuo può indentificare il proprio genere; nessun'altra persona può farlo al suo posto.
 
-Il genere è in parte un costrutto sociale, in parte comportamenti appresi, in parte processi biologici che si formano molto preso nella vita di una persona.
+Il genere è in parte un costrutto sociale, in parte comportamenti appresi, in parte processi biologici che si formano molto presto nella vita di una persona.
 
-Le prove attuali sembrano suggerire che il genere di una persona venga stabilito durante la gestazione, nel corso della formazione della corteccia cerebrale (troverai informazioni aggiuntive nel capitolo sulle Cause della Disforia di Genere). Questo modello mentale informa poi, a livello subconscio, quali aspetti dello spettro di genere una persona tenderà a preferire. Ciò influenza il sua comportamento, la suapercezione del mondo, il modo in cui prova attrazione (un concetto separato dall'orientamento sessuale e le influenze ormonali) e la maniera in cui si lega con altre persone.
+Le prove attuali sembrano suggerire che il genere di una persona venga stabilito durante la gestazione, nel corso della formazione della corteccia cerebrale (troverai informazioni aggiuntive nel capitolo sulle Cause della Disforia di Genere). Questo modello mentale informa poi, a livello subconscio, quali aspetti dello spettro di genere una persona tenderà a preferire. Ciò influenza il sua comportamento, la sua percezione del mondo, il modo in cui prova attrazione (un concetto separato dall'orientamento sessuale e le influenze ormonali) e la maniera in cui si lega con altre persone.
+Non è però detto che tutte queste variabili siano allineate fra loro.
 
 Il genere influenza anche le aspettative che il cervello possiede per l'ambiente in cui si trova (il tuo corpo) e quando l'ambiente non soddisfa quelle aspettative, il cervello manda segnali di allerta sottoforma di depressione, depersonalizzazione, derealizzazione e dissociazione. Queste sono le modalità inconscie attraverso cui il cervello ci informa che qualcosa non va affatto bene.
 
@@ -107,6 +109,8 @@ Cosa il Genere ***non è*** è il nostro orientamento sessuale. Descriviamo l'or
 
 Si dice non binaria (in inglese non-binary o enby), un'identità che, in parole povere, non presenta un'affiliazione esclusiva alla mascolinità o alla femminilità. Ciò può essere causato da una mancanza di affinità con entrambe le identità ([agender](https://chiaralalli.com/agender-definizione/)), un'affinità totale con entrambe ([bi-gender](https://chiaralalli.com/bigender-definizione-e-come-capire-se-sei-bigender/)), un'affinità equilibrata fra entrambe ([androginia](https://it.wikipedia.org/wiki/Androgino)), un'affinità che varia di giorno in giorno ([genderfluid (articolo in inglese)](https://gender.wikia.org/wiki/Genderfluid)), un'affinità parziale demigender, ([demiboy](https://chiaralalli.com/demiboy-caratteristiche-significato/)) o ([demigirl](https://chiaralalli.com/demigirl-caratteristiche-definizione/)), o addirittura un'affinità all'intero spettro contemporaneamente ([pangender](https://it.wikipedia.org/wiki/Pangender)).
 
-Potrebbe essere un'affinità ad alcuni aspetti di un genere, ma non ad altri. Per esempio, una persona di genere demigirl potrebbe essere stata assegnata femmina alla nascita ma sentire solo una connessione parziale con la femminilità, oppure potrebbe essere una persona assegnata maschio alla nascita che si è sottoposta a terapia ormonale per alleviare la disforia fisica e possiede un fenotipo femminile, ma senza provare forte connessione agli aspetti sociali dell'essere donna.
+Può anche voler dire una mancanza di affinità con tutte le identità di genere ([agenere](https://lgbtqia.fandom.com/it/wiki/Agenere) o una forte affinità verso un'identità di genere non correlata a un'identità maschile o femminile (inclusa l'identità [aporagenere](https://gender.fandom.com/wiki/Aporagender) (articolo in inglese), che però non è l'unica).
 
-In termini generali, questo libro descriverà il genere contrapponendo identità binarie (maschio/femmina) con identità non binarie, ma questo puramente per semplificarne la stesura. Per favore, ricorda che la profondità dell'esperienza e dell'espressione del genere è molto, molto più complicata di questa semplice sintesi.
+Alcune persone non binarie provano un'affinità ad alcuni aspetti di un genere, ma non ad altri. Per esempio, una persona di genere demigirl potrebbe essere stata assegnata femmina alla nascita ma sentire solo una connessione parziale con la femminilità, oppure potrebbe essere una persona assegnata maschio alla nascita che si è sottoposta a terapia ormonale per alleviare la disforia fisica e possiede un fenotipo femminile, ma senza provare forte connessione agli aspetti sociali dell'essere donna.
+
+In termini generali, questo libro descriverà il genere contrapponendo identità binarie (maschio/femmina) con identità non binarie, ma questo puramente per semplificarne la stesura. Nella stessa maniera, l'elenco di identità non binarie menzionate non è esaustivo. Per favore, ricorda che la profondità dell'esperienza e dell'espressione del genere è molto, molto più complicata di questa semplice sintesi.

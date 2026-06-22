@@ -1,13 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Ormoni: come funzionao"
+title: "Ormoni: come funzionano"
 linkTitle: "Come Funzionano Gli Ormoni"
 description: "Chiavi, Serrature e Accensioni d'Automobili"
 preBody: '_disclaimer'
 siblings:
   prev: /it/cromosomi
   prevCaption: Cromosomi
-  next: /it/seconda-pubertà-masc
+  next: /it/seconda-puberta-masc
   nextCaption: Seconda Pubertà Maschile
 classes:
   - gdb

@@ -5,7 +5,7 @@ linkTitle: Pubertà Estrogenica
 description: "Cosa aspettarsi dalla terapia ormonale femminilizzante"
 preBody: '_disclaimer'
 siblings:
-  prev: /it/seconda-pubertà-masc
+  prev: /it/seconda-puberta-masc
   prevCaption: Seconda Pubertà Androgenica
   next: /it/conclusione
   nextCaption: Conclusione
