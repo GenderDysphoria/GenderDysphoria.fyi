@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Estrogenic Second Puberty 101"
 linkTitle: Estrogenic Puberty
 description: "What to expect from feminizing HRT"
+lang: en
 preBody: '_disclaimer'
 siblings:
   prev: /en/second-puberty-masc

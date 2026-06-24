@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "In Conclusion"
 linkTitle: "Conclusion"
 description: "Enough with the gatekeeping already."
+lang: en
 siblings:
   prev: /en/second-puberty-fem
   prevCaption: Estrogenic Second Puberty

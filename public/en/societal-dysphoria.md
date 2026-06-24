@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Societal Dysphoria"
 linkTitle: "Societal Dysphoria"
 description: "Because a role is a role, and a toll is a toll, and it's a heavy toll to live the wrong role."
+lang: en
 preBody: '_disclaimer'
 siblings:
   prev: /en/social-dysphoria

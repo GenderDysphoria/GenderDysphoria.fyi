@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Hormones: How do they work"
 linkTitle: "How Hormones Work"
 description: "Keys, Locks, and Car Ignitions"
+lang: en
 preBody: '_disclaimer'
 siblings:
   prev: /en/chromosomes

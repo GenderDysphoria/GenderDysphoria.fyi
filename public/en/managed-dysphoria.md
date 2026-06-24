@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Managed Dysphoria: Gender in Disguise"
 linkTitle: "Managed Dysphoria"
 description: "The ways we've coped."
+lang: en
 preBody: '_disclaimer'
 siblings:
   prev: /en/existential-dysphoria
