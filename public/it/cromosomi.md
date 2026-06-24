@@ -4,6 +4,7 @@ title: "Disturbi della Differenziazione Sessuale:: il Genere non è Cromosomico"
 linkTitle: "Cromosomi"
 description: "Il DNA è più simile a delle linee guida che a delle vere e proprie regole."
 preBody: '_disclaimer'
+lang: it
 classes:
   - gdb
 siblings:

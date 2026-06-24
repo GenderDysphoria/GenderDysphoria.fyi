@@ -4,6 +4,7 @@ title: "Come si Manifesta la Disforia di Genere: Euforia"
 linkTitle: "Euforia di Genere"
 description: "Perché possa esserci l'ombra dev'esserci anche la luce."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/storia
   prevCaption: La Storia della Disforia di Genere

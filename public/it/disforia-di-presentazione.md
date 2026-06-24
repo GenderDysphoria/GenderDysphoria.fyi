@@ -4,6 +4,7 @@ title: "Come si Manifesta la Disforia di Genere: Disforia di Presentazione"
 linkTitle: "Disforia di Presentazione"
 description: "Tute e felpe non sono mai fuori moda."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/disforia-sessuale
   prevCaption: Disforia Sessuale

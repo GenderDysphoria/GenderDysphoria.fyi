@@ -4,6 +4,7 @@ title: "Sindrome dell'Impostore, però Trans"
 linkTitle: "Sindrome dell'Impostore"
 description: "Sono davvero trans?"
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/disforia-gestita
   prevCaption: Disforia Gestita

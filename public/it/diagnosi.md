@@ -4,6 +4,7 @@ title: "Diagnosticare la Disforia"
 linkTitle: "Diagnosi Cliniche"
 description: "La situazione si fa clinica."
 preBody: '_disclaimer'
+lang: it
 classes:
   - gdb
 siblings:

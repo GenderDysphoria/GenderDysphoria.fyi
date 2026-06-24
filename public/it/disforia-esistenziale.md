@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Come si Manifesta la Disforia di Genere: Disforia Esistenziale"
 linkTitle: "Disforia Esistenziale"
 description: "Non mi pento di ciò che ho fatto, ma di ciò che non ho fatto quando avevo la possibilità di farlo."
+lang: it
 classes:
   - gdb
 preBody: '_disclaimer'

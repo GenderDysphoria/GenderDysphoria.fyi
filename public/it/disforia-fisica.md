@@ -4,6 +4,7 @@ title: "Come si Manifesta la Disforia di Genere: Disforia Fisica"
 linkTitle: "Disforia Fisica"
 description: "Il disagio fisico è solo uno dei tanti modi in cui si manifesta la disforia di genere."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/euforia
   prevCaption: Euforia di Genere

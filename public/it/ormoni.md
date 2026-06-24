@@ -4,6 +4,7 @@ title: "Ormoni: come funzionano"
 linkTitle: "Come Funzionano Gli Ormoni"
 description: "Chiavi, Serrature e Accensioni d'Automobili"
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/cromosomi
   prevCaption: Cromosomi

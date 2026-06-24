@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Sono Trans?"
 linkTitle: "Sono Trans?"
 description: "Un Percorso per Rispondere alla Domanda più Ardua"
+lang: it
 siblings:
   prev: /it/sindrome-dell-impostore
   prevCaption: Sindrome dell'Impostore

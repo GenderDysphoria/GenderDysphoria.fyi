@@ -4,6 +4,7 @@ title: "Come si Manifesta la Disforia di Genere: Disforia Sociale"
 linkTitle: "Disforia Sociale"
 description: "I pronomi, i nomi morti e il genere, porca vacca."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/disforia-biochimica
   prevCaption: Disforia Biochimica

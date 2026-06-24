@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "In Conclusione"
 linkTitle: "Conclusione"
 description: "Basta porre mille paletti."
+lang: it
 siblings:
   prev: /it/seconda-puberta-fem
   prevCaption: Seconda Pubertà Estrogenica

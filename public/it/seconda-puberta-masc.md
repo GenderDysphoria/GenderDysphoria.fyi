@@ -4,6 +4,7 @@ title: "Seconda Pubertà Androgenica"
 linkTitle: Pubertà Androgenica
 description: "Cosa aspettarsi dalla terapia ormonale mascolinizzante"
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/ormoni
   prevCaption: Come Funzionano gli Ormoni

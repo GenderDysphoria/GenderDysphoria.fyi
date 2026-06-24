@@ -4,6 +4,7 @@ title: "Qual è la Causa dell'Incongruenza di Genere"
 linkTitle: "Cause della disforia di genere"
 description: "Sono gli ormoni, tesoro."
 preBody: '_disclaimer'
+lang: "it"
 classes:
   - gdb
 tweets:

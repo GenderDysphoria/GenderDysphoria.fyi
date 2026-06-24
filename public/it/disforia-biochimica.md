@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Come si Manifesta la Disforia di Genere: Disforia Biochimica"
 linkTitle: "Disforia Biochimica"
 description: "Le vere cause biologiche della disforia di genere e come queste causano disagio."
+lang: it
 preBody: '_disclaimer'
 classes:
   - gdb

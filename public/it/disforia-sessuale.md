@@ -4,6 +4,7 @@ title: "Come si Manifesta la Disforia di Genere: Disforia Sessuale"
 linkTitle: "Disforia Sessuale"
 description: "A volte un sigaro non vuole essere fumato."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/disforia-di-ruolo
   prevCaption: Disforia di Ruolo

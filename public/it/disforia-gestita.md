@@ -4,6 +4,7 @@ title: "Disforia Gestita: il Genere sotto Mentite Spoglie"
 linkTitle: "Disforia Gestita"
 description: "Come abbiamo tirato avanti."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/disforia-esistenziale
   prevCaption: Disforia Esistenziale

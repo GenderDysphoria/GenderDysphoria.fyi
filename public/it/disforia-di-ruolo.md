@@ -4,6 +4,7 @@ title: "Come si Manifesta la Disforia di Genere: Disforia di Ruolo"
 linkTitle: "Disforia di Ruolo"
 description: "Perché se un ruolo è un ruolo e un prezzo è un prezzo, vivere nel ruolo sbagliato è un grosso prezzo da pagare."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/disforia-sociale
   prevCaption: Disforia Sociale

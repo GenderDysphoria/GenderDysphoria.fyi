@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Trattamento della Disforia di Genere"
 description: "La cura è la transizione."
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/diagnosi
   prevCaption: Diagnosticare la Disforia
