@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 siblings:
   prev: /it/ormoni
   prevCaption: Come Funzionano gli Ormoni
-  next: /it/seconda-pubertà-fem
+  next: /it/seconda-puberta-fem
   nextCaption: Seconda Pubertà Estrogenica
 classes:
   - gdb

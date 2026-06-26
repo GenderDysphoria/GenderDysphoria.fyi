@@ -145,7 +145,7 @@ Va bene anche se non hai *affatto* bisogno di una transizione medica. Le sensazi
 
 Il mondo è pieno di messaggi subliminali che indicano che forma dovrebbero avere i corpi di donne e uomini. Veniamo bombardati da pubblicità e media che creano un'immagine normalizzata su cosa è bello e cosa non lo è. Una persona non deve essere troppo grassa, né troppo magra, né troppo alta, né troppo bassa; non deve avere il mento troppo largo o il naso troppo grande, deve truccarsi ma non troppo, non deve uscire di casa senza reggiseno e deve fare in modo che questo non si veda. Ancora e ancora e ancora, una pioggia costante di aspettative sull'aspetto sulla base del genere.
 
-Assorbiamo tutti questi messaggi e le persone trans internalizzano i fattori relativi al genere a cui si allineano. Le ragazze trans crescono sottoponendosi agli standard femminili, i ragazzi trans si sottopongono a quelli maschili e le persone non binarie tendono a internalizzare un senso di vergogna legato all'androginia. Questo *sommato* alla vergogna con cui le persone trans convivono per non riuscire a raggiungere gli standard del genere loro assegnato alla nascita.
+Assorbiamo tutti questi messaggi e le persone trans internalizzano i fattori relativi al genere a cui si allineano. Le ragazze trans crescono sottoponendosi agli standard femminili, i ragazzi trans si sottopongono a quelli maschili e le persone non binarie tendono a interiorizzare un senso di vergogna intorno all'androginia o al genere al quale la gente presume appartengano in seguito alla transizione . Questo *sommato* alla vergogna con cui le persone trans convivono per non riuscire a raggiungere gli standard del genere loro assegnato alla nascita.
 
 Come va a finire? Kathryn lo ha detto meglio di me:
 
