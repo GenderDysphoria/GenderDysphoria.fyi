@@ -10,6 +10,7 @@ module.exports = exports = [
   require('../public/hu/_concat.json'),
   require('../public/pl/_concat.json'),
   require('../public/zh/_concat.json'),
+  require('../public/ja/_concat.json'),
   require('../public/ko/_concat.json'),
   require('../public/tw/_concat.json'),
 ];
