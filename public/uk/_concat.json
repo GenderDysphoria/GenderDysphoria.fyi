@@ -1,0 +1,34 @@
+{
+  "output": "public/uk/printable.md",
+  "sources": [
+    "public/uk/index.md",
+    "public/uk/what-is-gender.md",
+    "public/uk/history.md",
+    "public/uk/euphoria.md",
+    "public/uk/physical-dysphoria.md",
+    "public/uk/biochemical-dysphoria.md",
+    "public/uk/social-dysphoria.md",
+    "public/uk/societal-dysphoria.md",
+    "public/uk/sexual-dysphoria.md",
+    "public/uk/presentational-dysphoria.md",
+    "public/uk/existential-dysphoria.md",
+    "public/uk/managed-dysphoria.md",
+    "public/uk/impostor-syndrome.md",
+    "public/uk/am-i-trans.md",
+    "public/uk/diagnoses.md",
+    "public/uk/treatment.md",
+    "public/uk/causes.md",
+    "public/uk/chromosomes.md",
+    "public/uk/hormones.md",
+    "public/uk/second-puberty-masc.md",
+    "public/uk/second-puberty-fem.md",
+    "public/uk/conclusion.md"
+  ],
+  "meta": {
+    "title": "Біблія ґендерної дисфорії",
+    "lang": "uk",
+    "description": "Занурення в безліч способів, якими виявляється ґендерна дисфорія, і в те, що означає бути трансгендерною людиною.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}

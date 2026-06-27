@@ -33,3 +33,7 @@
 - lang: ko
   name: 한국어 (KO)
   pdf-source: /ko/printable/index.html?pdf=true
+
+- lang: uk
+  name: Українська (UK)
+  pdf-source: /uk/printable/index.html?pdf=true

@@ -32,6 +32,7 @@ const str2locale = {
   'pt': dateFNSLocales.pt,
   'ru': dateFNSLocales.ru,
   'tw': dateFNSLocales.zhTW,
+  'uk': dateFNSLocales.uk,
   'zh': dateFNSLocales.zhCN,
 };
 
