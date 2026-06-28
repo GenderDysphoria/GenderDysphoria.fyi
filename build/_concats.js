@@ -13,4 +13,5 @@ module.exports = exports = [
   require('../public/ja/_concat.json'),
   require('../public/ko/_concat.json'),
   require('../public/tw/_concat.json'),
+  require('../public/uk/_concat.json'),
 ];
