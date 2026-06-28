@@ -45,7 +45,9 @@ const markdownEngines = {
     .enable('image')
     .use(require('markdown-it-footnote'))
     .use(require('markdown-it-link-attributes'), {
-      pattern: /^https?:/,
+      matcher (href) {
+        return href.startsWith("https:");
+      },
       attrs: {
         target: '_blank',
         rel: 'noopener',
