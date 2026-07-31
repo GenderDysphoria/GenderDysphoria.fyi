@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 lang: uk
 siblings:
   prev: /uk/euphoria
-  prevCaption: Ґендерна ейфорія
+  prevCaption: Гендерна ейфорія
   next: /uk/biochemical-dysphoria
   nextCaption: Біохімічна дисфорія
 classes:
