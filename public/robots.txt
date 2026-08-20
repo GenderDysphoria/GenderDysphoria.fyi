@@ -19,6 +19,12 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
+User-agent: Zing-BottaBot/2.0
+Disallow: /
+
+User-agent: trendkite-akashic-crawler
+Disallow: /
+
 User-agent: GPTBot
 Disallow: /
 
