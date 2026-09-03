@@ -4,10 +4,19 @@ const awsrouter   = require('gulp-awspublish-router');
 const parallelize = require('concurrent-transform');
 
 var credentials;
-try {
-  credentials = require('../aws.json'); // eslint-disable-line import/no-unresolved
-} catch (e) {
-  credentials = null;
+if (process.env.AWS_ACCESS_KEY_ID && process.env.AWS_SECRET_ACCESS_KEY) {
+  // Prefer credentials supplied via environment variables over a plaintext
+  // credentials file, to avoid storing secrets on disk / in build logs.
+  credentials = {
+    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
+  };
+} else {
+  try {
+    credentials = require('../aws.json'); // eslint-disable-line import/no-unresolved
+  } catch (e) {
+    credentials = null;
+  }
 }
 
 const routes = {
