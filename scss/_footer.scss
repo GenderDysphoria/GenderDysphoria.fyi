@@ -2,8 +2,8 @@
 footer, .footer {
   font-size: 10px;
   text-align: center;
-  margin-top: 10px;
-  margin-bottom: 20px;
+  margin-block-start: 10px;
+  margin-block-end: 20px;
   padding: 0 20px;
 
   p {
@@ -29,7 +29,7 @@ footer, .footer {
   font-size: 12px;
 
   strong {
-    margin-bottom: 5px;
+    margin-block-end: 5px;
     display: block;
     color: #bbb;
   }

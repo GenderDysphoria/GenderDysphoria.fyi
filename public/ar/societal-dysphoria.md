@@ -4,6 +4,7 @@ title: "كيف يتجلى اضطراب الهوية الجنسية: الاضطر
 linkTitle: "الانزعاج الجندري المجتمعي"
 description: "لأن الدور دور، والثمن ثمن، وإنها لضريبةٌ باهظةٌ أن تعيشَ دوراً ليس دورك."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/social-dysphoria

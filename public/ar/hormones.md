@@ -4,6 +4,7 @@ title: "الهرمونات: كيف تعمل؟"
 linkTitle: "كيف تعمل الهرمونات"
 description: "المفاتيح، الأقفال، ومفاتيح تشغيل السيارات"
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/chromosomes

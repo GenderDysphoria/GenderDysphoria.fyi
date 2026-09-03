@@ -4,6 +4,7 @@ title: "ختاماً"
 linkTitle: "خاتمة"
 description: "كفى احتكاراً للأمر."
 lang: ar
+rtl: true
 siblings:
   prev: /ar/second-puberty-fem
   prevCaption: البلوغ الثاني المعتمد على الإستروجين 101

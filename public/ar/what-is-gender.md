@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "ما هو النوع الاجتماعي"
 description: "كيف نُعرِّف مفهوم النوع الاجتماعي وهل يختلف عن الجنس؟"
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/

@@ -4,6 +4,7 @@ title: "عُسر الهوية الجنسية المُدار: الجندر في �
 linkTitle: "عُسر المزاج المُدار"
 description: "الطرق التي تعاملنا بها."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/existential-dysphoria

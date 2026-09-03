@@ -4,6 +4,7 @@ title: "متلازمة المحتال... لكن بنسخة متحوّلة"
 linkTitle: "متلازمة المحتال"
 description: "هل أنا حقًا متحوّل؟"
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/managed-dysphoria

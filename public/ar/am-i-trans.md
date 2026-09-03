@@ -4,6 +4,7 @@ title: "هل أنا عابر/ة جنسياً؟"
 linkTitle: "هل أنا عابر/ة جنسياً؟"
 description: "A Roadmap To Figuring Out The Toughest Question"
 lang: ar
+rtl: true
 siblings:
   prev: /ar/impostor-syndrome
   prevCaption: متلازمة المنتحل

@@ -4,6 +4,7 @@ title: "البلوغ الثاني الإستروجيني 101"
 linkTitle: البلوغ الإستروجيني
 description: "ماذا تتوقع من العلاج الهرموني المؤنِّث"
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/second-puberty-masc

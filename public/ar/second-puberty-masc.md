@@ -4,6 +4,7 @@ title: "البلوغ الثاني الأندروجيني 101"
 linkTitle: البلوغ الأندروجيني
 description: "ماذا تتوقع من العلاج الهرموني المُذكِّر"
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/hormones

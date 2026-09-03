@@ -134,8 +134,8 @@ body.page, body.post {
   #body {
     background: unset;
     max-width: unset;
-    margin-left: auto;
-    margin-right: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
 
     padding: 5px;
   }
@@ -193,6 +193,10 @@ body.page, body.post {
 
     &.print-right {
       float: right;
+
+      html[dir="rtl"] & {
+        float: left;
+      }
     }
   }
 

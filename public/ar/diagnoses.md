@@ -4,6 +4,7 @@ title: "تشخيص اضطراب الهوية الجنسية"
 linkTitle: "التشخيصات السريرية"
 description: "إنه سريري."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 classes:
   - gdb

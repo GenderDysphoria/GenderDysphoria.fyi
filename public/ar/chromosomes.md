@@ -4,6 +4,7 @@ title: "اضطرابات التطور الجنسي: النوع الاجتماع�
 linkTitle: "الكروموسومات"
 description: "الحمض النووي أشبه ما يكون بإرشادات منه بقواعد صارمة."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 classes:
   - gdb

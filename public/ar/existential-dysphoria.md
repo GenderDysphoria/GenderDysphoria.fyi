@@ -4,6 +4,7 @@ title: "كيف يتجلى اضطراب الهوية الجنسية: الاضطر
 linkTitle: "الاضطراب الوجودي"
 description: "لا أندم على الأشياء التي فعلتها، بل أندم على الأشياء التي لم أفعلها حين أتيحت لي الفرصة."
 lang: ar
+rtl: true
 classes:
   - gdb
 preBody: '_disclaimer'

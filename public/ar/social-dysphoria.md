@@ -4,6 +4,7 @@ title: "كيف يتجلى اضطراب الهوية الجنسية: الاضطر
 linkTitle: "الانزعاج الاجتماعي"
 description: "الضمائر، والأسماء السابقة، وتحديد الجنس... يا للهول!"
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/biochemical-dysphoria

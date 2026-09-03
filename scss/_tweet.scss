@@ -21,7 +21,7 @@
   border: 1px solid $borderColor;
   border-radius: .35em;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin-bottom: 1em;
+  margin-block-end: 1em;
   background-color: white;
   overflow-x: hidden;
   overflow-y: auto;
@@ -83,7 +83,7 @@
     grid-column-gap: 10px;
     grid-row-gap: 0px;
     color: $textDark;
-    margin-bottom: 1em;
+    margin-block-end: 1em;
     line-height: 1;
 
     @include dark-mode {
@@ -117,7 +117,7 @@
         width: 16px;
         display: inline-block;
         vertical-align: bottom;
-        margin-left: 4px;
+        margin-inline-start: 4px;
         background-image: url('/tweets/verified.svg');
         background-position: center center;
         background-size: contain;
@@ -155,8 +155,8 @@
 
   .tweet-text, .tweet-quoted-text {
     line-height: 1.5em;
-    p { margin-bottom: 0.5em; }
-    p:last-child { margin-bottom: 0; }
+    p { margin-block-end: 0.5em; }
+    p:last-child { margin-block-end: 0; }
     a { color: $textHover; }
   }
 
@@ -168,8 +168,8 @@
     display: inline-block;
     color: $textDark;
     font-size: 0.95em;
-    margin-top: 0.4em;
-    margin-bottom: 0.75em;
+    margin-block-start: 0.4em;
+    margin-block-end: 0.75em;
     background: rgba($gray-500, 0.1);
 
     color-adjust: exact;
@@ -195,7 +195,7 @@
     }
 
     p:last-child {
-      margin-bottom: 0;
+      margin-block-end: 0;
     }
 
     &.missing {
@@ -208,7 +208,7 @@
   }
 
   .tweet-entities {
-    margin-top: 10px;
+    margin-block-start: 10px;
 
     border-radius: 14px;
     overflow: hidden;
@@ -306,7 +306,7 @@
     align-items: flex-end;
     color: $textLight;
     font-size: 1em;
-    margin-top: 10px;
+    margin-block-start: 10px;
 
     a {
       text-decoration: none;
@@ -352,7 +352,7 @@
       }
 
       .tweet-text p:first-child {
-        padding-right: 30px;
+        padding-inline-end: 30px;
       }
     }
   }
@@ -406,8 +406,8 @@
 
     @include dark-mode {
       // Box shadow hackery
-      margin-left: -1em;
-      margin-right: -1em;
+      margin-inline-start: -1em;
+      margin-inline-end: -1em;
       padding: 1em;
     }
 

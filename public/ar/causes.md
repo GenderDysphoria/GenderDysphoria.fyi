@@ -4,6 +4,7 @@ title: "ما هو سبب عدم توافق الهوية الاجتماعية؟"
 linkTitle: "أسباب اضطراب الهوية الجندرية"
 description: "إنها الهرمونات، يا عزيزي."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 classes:
   - gdb

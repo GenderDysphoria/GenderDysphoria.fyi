@@ -4,6 +4,7 @@ title: "كيف يتجلى اضطراب الهوية الجنسية: النشوة
 linkTitle: "النشوة الجندرية"
 description: "لكي يوجد الظل، لا بد من وجود الضوء."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/history

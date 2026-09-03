@@ -4,6 +4,7 @@ title: "كيف يتجلى اضطراب الهوية الجنسية: اضطراب
 linkTitle: "الانزعاج المرتبط بالعرض"
 description: "لا تبطل موضة السترات ذات القلنسوة وسراويل الرياضة أبداً.."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/sexual-dysphoria

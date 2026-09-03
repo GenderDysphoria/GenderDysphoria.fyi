@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "علاج اضطراب الهوية الاجتماعية"
 description: "التحول هو العلاج."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/diagnoses

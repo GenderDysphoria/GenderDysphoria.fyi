@@ -4,6 +4,7 @@ title: "كيف يظهر اضطراب الهوية الجنسية: الاضطرا
 linkTitle: "الانزعاج الجسدي"
 description: "يُعد الشعور بعدم الارتياح الجسدي مجرد واحدة من صور عديدة قد يتجلى من خلالها اضطراب الهوية الجنسية."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 siblings:
   prev: /ar/euphoria

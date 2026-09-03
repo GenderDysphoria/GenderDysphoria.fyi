@@ -4,6 +4,7 @@ title: "لمحة موجزة عن تاريخ اضطراب الهوية الاجت
 linkTitle: "تاريخ اضطراب الهوية الاجتماعية"
 description: "جذور اضطراب الهوية الاجتماعية ومعناها الحالي."
 lang: ar
+rtl: true
 classes:
   - gdb
 preBody: '_disclaimer'

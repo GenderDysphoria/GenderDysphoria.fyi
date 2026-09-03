@@ -45,7 +45,7 @@
       color: $body-color-dark;
     }
 
-    ul { padding-left: 1.2em; }
+    ul { padding-inline-start: 1.2em; }
   }
 
   .card-body.caption {
@@ -70,8 +70,8 @@
   }
 
   @include media-breakpoint-down(sm) {
-    margin-top: 0 !important;
-    margin-bottom: 5px;
+    margin-block-start: 0 !important;
+    margin-block-end: 5px;
 
     &.hero {
       margin: 0 -15px 10px -15px;
@@ -163,18 +163,26 @@
 
   .card.left {
     float: left;
-    margin-right: 10px;
+    margin-inline-end: 10px;
+    html[dir="rtl"] & {
+      float: right;
+    }
   }
 
   .card.right {
     float: right;
-    margin-left: 10px;
+    margin-inline-start: 10px;
+
+    html[dir="rtl"] & {
+      float: left;
+
+    }
   }
 
   .card.center {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-end: 1em;
   }
 
   .card.natural {
@@ -196,7 +204,7 @@
     &.right { clear: right; }
 
     &:first-child {
-      margin-top: 0.5em;
+      margin-block-start: 0.5em;
     }
   }
 

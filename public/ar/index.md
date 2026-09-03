@@ -4,6 +4,7 @@ title: "كتاب اضطراب الهوية الجنسية"
 linkTitle: مقدمة
 description: "استكشافٌ للصور المتعددة التي يتجلى فيها اضطراب الهوية الجنسية (gender dysphoria)، وما يعنيه أن يكون المرء عابرًا جنسيًا."
 lang: ar
+rtl: true
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -19,7 +20,7 @@ siblings:
   images.titlecard
   srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
   alt="The Gender Dysphoria Bible"
-  style="margin-bottom: 1em;"
+  style="margin-block-end: 1em;"
   imgStyle="width: 100%"
 }}
 }!}
