@@ -1,0 +1,34 @@
+{
+  "output": "public/ar/printable.md",
+  "sources": [
+    "public/ar/index.md",
+    "public/ar/what-is-gender.md",
+    "public/ar/history.md",
+    "public/ar/euphoria.md",
+    "public/ar/physical-dysphoria.md",
+    "public/ar/biochemical-dysphoria.md",
+    "public/ar/social-dysphoria.md",
+    "public/ar/societal-dysphoria.md",
+    "public/ar/sexual-dysphoria.md",
+    "public/ar/presentational-dysphoria.md",
+    "public/ar/existential-dysphoria.md",
+    "public/ar/managed-dysphoria.md",
+    "public/ar/impostor-syndrome.md",
+    "public/ar/am-i-trans.md",
+    "public/ar/diagnoses.md",
+    "public/ar/treatment.md",
+    "public/ar/causes.md",
+    "public/ar/chromosomes.md",
+    "public/ar/hormones.md",
+    "public/ar/second-puberty-masc.md",
+    "public/ar/second-puberty-fem.md",
+    "public/ar/conclusion.md"
+  ],
+  "meta": {
+    "title": "كتاب اضطراب الهوية الجنسية - The Gender Dysphoria Bible",
+    "lang": "ar",
+    "description": "استكشافٌ للصور المتعددة التي يتجلى فيها "اضطراب الهوية الجنسية" ما يعنيه أن يكون المرء عابرًا جنسيًا.",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
