@@ -15,6 +15,10 @@ body {
   @include dark-mode {
     color: $body-color-dark;
   }
+
+  html[dir="rtl"] & {
+    font-size: 1.2em;
+  }
 }
 
 // Prevents the page header from blocking view of

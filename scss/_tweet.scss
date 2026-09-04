@@ -12,6 +12,10 @@
   $textLightDark: #697882;
   $textDarkDark: #b4d0dd;
 
+  // given all the tweets on this version are untranslated
+  // I'm forcing tweets to always be LTR
+  direction: ltr;
+
   font-size: 12px;
   body.post & {
     font-size: 15px;

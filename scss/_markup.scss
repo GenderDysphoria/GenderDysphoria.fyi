@@ -8,6 +8,7 @@
     transition-duration: 0.3s;
     transition-timing-function: ease;
     text-decoration: underline;
+    text-decoration-skip-ink: skip;
 
     @include light-mode {
       color: $primary;
@@ -95,6 +96,11 @@
       text-decoration: none;
       align-self: center;
       opacity: 0.15;
+      text-align: right;
+
+      html[dir="rtl"] & {
+        text-align: left;
+      }
 
       &:hover {
         opacity: 1;
@@ -179,14 +185,14 @@
     color: $gray-900;
   }
 
-  font-size: 0.8rem;
+  font-size: 0.8em;
   font-weight: 300;
 
   .cw-header {
     font-weight: 500;
     margin: 5px -10px;
     padding: 0px 10px 5px;
-    font-size: 1.2rem;
+    font-size: 1.2em;
     font-family: $font-secondary;
 
     p { margin: 0; }
