@@ -18,6 +18,7 @@ const mAnchor = require('markdown-it-anchor');
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
+  'bg': dateFNSLocales.bg,
   'de': dateFNSLocales.de,
   'el': dateFNSLocales.el,
   'en': dateFNSLocales.enUS,

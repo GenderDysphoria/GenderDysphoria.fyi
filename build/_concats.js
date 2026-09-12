@@ -1,5 +1,6 @@
 
 module.exports = exports = [
+  require('../public/bg/_concat.json'),
   require('../public/de/_concat.json'),
   require('../public/el/_concat.json'),
   require('../public/en/_concat.json'),
