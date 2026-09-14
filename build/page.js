@@ -108,6 +108,7 @@ module.exports = exports = class Page extends File {
     this.ignore = this.meta.ignore;
     this.draft = this.meta.draft;
     this.lang = this.lang || this.meta.lang || 'en';
+    this.rtl = this.meta.rtl;
     this.siblings = this.meta.siblings;
     this.images = webready;
     this.titlecard = titlecard;

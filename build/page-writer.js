@@ -81,6 +81,7 @@ function pageState (page, posts) {
     page: {
       domain: siteInfo.domain,
       lang,
+      rtl: page.meta.rtl,
       date: page.meta.date || '',
       title: page.meta.title
         ? (page.meta.title + (page.meta.subtitle ? ', ' + page.meta.subtitle : '') + ' :: ' + i18n(lang, 'SITE_TITLE'))
@@ -106,6 +107,8 @@ function pageJSON (post) {
     title: post.meta.title,
     subtitle: post.meta.subtitle,
     description: post.meta.description,
+    lang: post.lang,
+    rtl: post.meta.rtl,
     preview: post.preview,
     date: post.dateCreated,
     modified: post.dateModified,

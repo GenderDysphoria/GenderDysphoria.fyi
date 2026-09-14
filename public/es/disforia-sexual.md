@@ -42,7 +42,7 @@ Algunas mujeres trans, por ejemplo, se identifican como hombres gays previo a la
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-bottom: 5px" caption="\"Swole Mom\" - How Baby, by Lindsay Ishihiro"}}
+{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-block-end: 5px" caption="\"Swole Mom\" - How Baby, by Lindsay Ishihiro"}}
 </div>
 }!}
 

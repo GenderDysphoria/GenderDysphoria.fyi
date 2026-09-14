@@ -17,7 +17,7 @@ siblings:
   images.titlecard
   srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
   alt="性別違和バイブル"
-  style="margin-bottom: 1em;"
+  style="margin-block-end: 1em;"
   imgStyle="width: 100%"
 }}
 }!}

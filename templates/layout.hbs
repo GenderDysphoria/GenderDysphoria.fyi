@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="{{page.lang}}">
+<html lang="{{page.lang}}"{{#if page.rtl}} dir="rtl"{{/if}}>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,6 +50,10 @@
   <link href="//fonts.googleapis.com/css?family=Roboto:300,400,600" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Inter:300,400,600" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Gothic+A1:300,400,600" rel="stylesheet">
+  {{#if page.rtl}}
+  <link href="//fonts.googleapis.com/css2?family=Amiri:wght@100;200;300;400;500;600;700" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css2?family=Reem+Kufi:wght@100;200;300;400;500;600;700" rel="stylesheet">
+  {{/if}}
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
   {{#block "prescripts"}}
   <script type="text/javascript" src="{{rev '/js/global.js'}}" data-i-url="{{#prod}}//t.{{page.domain}}{{/prod}}/i"></script>

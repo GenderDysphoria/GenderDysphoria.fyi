@@ -120,11 +120,11 @@ header {
 
   .top-nav {
     &.main-nav {
-      margin-left: auto;
+      margin-inline-start: auto;
       order: 2;
 
       @media (max-width: 800px) {
-        margin-left: 0;
+        margin-inline-start: 0;
       }
     }
 
@@ -220,10 +220,10 @@ header {
 }
 
 body:not(.front-page) header + * {
-  margin-top: $header-mobile-height;
+  margin-block-start: $header-mobile-height;
 
   @media (min-width: 800px) {
-    margin-top: $header-desktop-height;
+    margin-block-start: $header-desktop-height;
   }
 }
 
@@ -249,7 +249,7 @@ body:not(.front-page) header + * {
     border-bottom: 1px solid $primary;
   }
 
-  font-size: 0.8rem;
+  font-size: 0.8em;
   font-weight: 300;
 
   .container {
@@ -268,6 +268,6 @@ body:not(.front-page) header + * {
   }
 
   p:last-child {
-    margin-bottom: 0;
+    margin-block-end: 0;
   }
 }

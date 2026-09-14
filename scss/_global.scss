@@ -10,20 +10,25 @@ a {
 
 body {
   font-family: $font-primary;
+  text-align: unset;
   
   @include dark-mode {
     color: $body-color-dark;
+  }
+
+  html[dir="rtl"] & {
+    font-size: 1.2em;
   }
 }
 
 // Prevents the page header from blocking view of
 // the element targeted by the fragment in the URL
 [id] {
-  scroll-margin-top: 60px;
+  scroll-margin-block-start: 60px;
 }
 @media screen and (min-width: 500px) and (max-width: 800px) {
   [id] {
-    scroll-margin-top: 100px;
+    scroll-margin-block-start: 100px;
   }
 
 }

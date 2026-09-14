@@ -8,6 +8,7 @@
     transition-duration: 0.3s;
     transition-timing-function: ease;
     text-decoration: underline;
+    text-decoration-skip-ink: skip;
 
     @include light-mode {
       color: $primary;
@@ -59,7 +60,7 @@
       font-family: cursive;
       font-weight: 700;
       display: block;
-      padding-left: 10px;
+      padding-inline-start: 10px;
       content: "\201C";
       font-size: 50px;
       position: absolute;
@@ -68,10 +69,17 @@
       color: $trans-blue;
       text-shadow: 0 1px 3px rgba($trans-blue,0.5);
       opacity: 0.8;
+
+      html[dir="rtl"] & {
+        left: unset;
+        right: -7px;
+        top: -14px;
+        content: "\201D";
+      }
     }
 
     p:last-child {
-      margin-bottom: 0;
+      margin-block-end: 0;
     }
 
   }
@@ -87,8 +95,12 @@
       font-size: 0.75em;
       text-decoration: none;
       align-self: center;
-      text-align: right;
       opacity: 0.15;
+      text-align: right;
+
+      html[dir="rtl"] & {
+        text-align: left;
+      }
 
       &:hover {
         opacity: 1;
@@ -123,20 +135,20 @@
   h5 {
     font-weight: 600;
     font-family: $font-primary;
-    margin-bottom: 0.2rem;
+    margin-block-end: 0.2rem;
     font-size: 1.05em;
   }
 
   li p {
-    margin-bottom: 0;
-    margin-top: 0.5em;
+    margin-block-end: 0;
+    margin-block-start: 0.5em;
   }
 
   li p + ul {
-    margin-bottom: 0.5em;
+    margin-block-end: 0.5em;
   }
 
-  ul { padding-left: 2em; }
+  ul { padding-inline-start: 2em; }
 
   code {
     font-size: 87.5%;
@@ -148,9 +160,9 @@
   }
 
   .center {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-end: 1em;
   }
 }
 
@@ -159,7 +171,7 @@
   margin: 0 -1rem 1em;
 
   &:first-child {
-    margin-top: -1rem;
+    margin-block-start: -1rem;
   }
 
   padding: 10px 20px;
@@ -173,21 +185,21 @@
     color: $gray-900;
   }
 
-  font-size: 0.8rem;
+  font-size: 0.8em;
   font-weight: 300;
 
   .cw-header {
     font-weight: 500;
     margin: 5px -10px;
     padding: 0px 10px 5px;
-    font-size: 1.2rem;
+    font-size: 1.2em;
     font-family: $font-secondary;
 
     p { margin: 0; }
   }
 
   > p:last-child {
-    margin-bottom: 0;
+    margin-block-end: 0;
   }
 }
 
@@ -202,23 +214,23 @@
   ol, ul {
 
     @media (max-width: 400px) {
-      padding-left: 1.5em;
+      padding-inline-start: 1.5em;
     }
 
     @media (max-width: 500px) {
-      padding-left: 2em;
+      padding-inline-start: 2em;
     }
 
     @media (min-width: 500px) {
       columns: 2;
-      padding-left: 3em;
+      padding-inline-start: 3em;
     }
 
     @media (min-width: 1100px) {
-      padding-left: 5em;
+      padding-inline-start: 5em;
     }
 
-    li { margin-bottom: 0.5em; }
+    li { margin-block-end: 0.5em; }
     p { margin: 0; }
   }
 }

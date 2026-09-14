@@ -43,7 +43,7 @@ Alcune donne trans, per esempio, si consideravano uomini gay prima della transiz
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-bottom: 5px" caption="&quot;Swole Mom&quot; - How Baby, di Lindsay Ishihiro"}}
+{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-block-end: 5px" caption="&quot;Swole Mom&quot; - How Baby, di Lindsay Ishihiro"}}
 </div>
 }!}
 

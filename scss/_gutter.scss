@@ -11,13 +11,22 @@
     @media (max-width: 1000px) {
       width: 300px;
     }
+
+    html[dir="rtl"] & {
+      left: unset;
+      right: calc(100% + 1em);
+    }
   }
 
   @media screen and (min-width: 500px) and (max-width: 800px) {
     float: right;
     width: 300px;
-    margin-left: 1em;
+    margin-inline-start: 1em;
     zoom: 0.9;
+
+    html[dir="rtl"] & {
+      float: left;
+    }
   }
 
   @media print {
@@ -28,7 +37,11 @@
     &:not(.print-inline) {
       float: right;
       width: 40vw;
-      margin-left: 1em;
+      margin-inline-start: 1em;
+
+      html[dir="rtl"] & {
+        float: left;
+      }
     }
   }
 
@@ -42,7 +55,7 @@
 
   > a > img:not(.card-img-top), > img {
     max-width: 100%;
-    margin-bottom: 5px;
+    margin-block-end: 5px;
   }
 }
 

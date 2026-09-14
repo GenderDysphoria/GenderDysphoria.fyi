@@ -1,4 +1,6 @@
 $font-secondary-comp: 'Helvetica Neue', Helvetica, serif;
+$font-rtl: 'Amiri', Ariel, sans-serif;
+$font-heading-rtl: 'Reem Kufi', 'Helvetica Neue', Helvetica, serif;
 $font-korean: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
 
 html[lang=de], html[lang=pl], html[lang=hu], html[lang=fr] {
@@ -8,6 +10,16 @@ html[lang=de], html[lang=pl], html[lang=hu], html[lang=fr] {
 
   .markup blockquote {
     font-family: $font-secondary-comp;
+  }
+}
+
+html[dir="rtl"] {
+  body {
+    font-family: $font-rtl;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $font-heading-rtl;
   }
 }
 

@@ -2,6 +2,11 @@
 .card {
   text-decoration: none;
   background: white;
+  font-size: 1rem;
+
+  html[dir="rtl"] & {
+    font-size: 1.2rem;
+  }
 
   @include dark-mode {
     background: $content-bg-dark;
@@ -38,23 +43,22 @@
     padding: 1em;
     line-height: 1.3;
     color: #333;
-    font-size: 12px;
+    font-size: 0.8em;
     font-family: $font-secondary;
 
     @include dark-mode {
       color: $body-color-dark;
     }
 
-    ul { padding-left: 1.2em; }
+    ul { padding-inline-start: 1.2em; }
   }
 
   .card-body.caption {
-    font-size: 10px;
+    font-size: 0.8em;
     text-align: center;
   }
 
   .list-group-item {
-    font-size: 12px;
 
     padding: 0.5rem 1.25rem;
     text-decoration: none;
@@ -70,8 +74,8 @@
   }
 
   @include media-breakpoint-down(sm) {
-    margin-top: 0 !important;
-    margin-bottom: 5px;
+    margin-block-start: 0 !important;
+    margin-block-end: 5px;
 
     &.hero {
       margin: 0 -15px 10px -15px;
@@ -163,18 +167,26 @@
 
   .card.left {
     float: left;
-    margin-right: 10px;
+    margin-inline-end: 10px;
+    html[dir="rtl"] & {
+      float: right;
+    }
   }
 
   .card.right {
     float: right;
-    margin-left: 10px;
+    margin-inline-start: 10px;
+
+    html[dir="rtl"] & {
+      float: left;
+
+    }
   }
 
   .card.center {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-end: 1em;
   }
 
   .card.natural {
@@ -196,7 +208,7 @@
     &.right { clear: right; }
 
     &:first-child {
-      margin-top: 0.5em;
+      margin-block-start: 0.5em;
     }
   }
 

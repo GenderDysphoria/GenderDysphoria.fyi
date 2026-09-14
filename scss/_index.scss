@@ -35,11 +35,15 @@
     blockquote {
       padding: 1em;
       border-radius: 1em;
-      margin-top: -2.5em;
-      margin-bottom: 0;
-      margin-left: 1em;
-      margin-right: 0.5em;
+      margin-block-start: -2.5em;
+      margin-block-end: 0;
+      margin-inline-start: 1em;
+      margin-inline-end: 0.5em;
       float: right;
+
+      html[dir="rtl"] & {
+        float: left;
+      }
 
       background: #ad7ad6;
       border: 3px solid rgba(#ad7ad6, 0.9);
@@ -93,32 +97,32 @@
       }
 
       max-width: 850px;
-      margin-left: 0.5em;
+      margin-inline-start: 0.5em;
     }
 
     @media (max-width: 760px) {
       blockquote {
         max-width: unset;
         width: unset;
-        margin-top: -1em;
-        margin-bottom: 1em;
+        margin-block-start: -1em;
+        margin-block-end: 1em;
       }
     }
 
     @media (max-width: 865px) {
       .copy {
-        margin-right: 0.5em;
+        margin-inline-end: 0.5em;
       }
 
       blockquote {
-        margin-right: 1em;
+        margin-inline-end: 1em;
       }
     }
 
     @media (max-width: 500px) {
       .copy {
-        margin-left: 0;
-        margin-right: 0;
+        margin-inline-start: 0;
+        margin-inline-end: 0;
       }
     }
 
