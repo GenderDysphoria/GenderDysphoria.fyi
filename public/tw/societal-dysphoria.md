@@ -29,13 +29,13 @@ tweets:
 
 # 社會不安
 
-<!-- Gender roles exist, and, as much as we may try to buck them and point out the sexism that exists, there will always be expectations placed on people for their gender. The strongest of these are in marital and parental roles; "Husband", "Wife", "Mother", "Father", these terms come with loads of baggage attached to them, and the wrong role, or even any role at all, can feel like a lead-lined straitjacket. You are given a whole book full of behaviors and actions, likes and dislikes, that you are just expected to fulfill, and if you fail to meet those requirements then you are seen as a bad spouse or a bad parent. -->
+<!-- Gender roles exist, and, as much as we may try to buck them and point out the sexism that exists, there will always be expectations placed on people for their gender. The strongest of these are in marital and parental roles; "Husband", "Wife", "Mother", "Father", these terms come with loads of baggage attached to them, and the wrong role, or even any role at all, can feel like a lead-lined straitjacket. You are given a whole book full of behaviors and actions, likes and dislikes, that you are just expected to fulfill, and if you fail to meet those requirements then you are seen as a bad spouse or a bad parent. In the case of non-binary people, you may be given competing expectations that are impossible to fulfill, or even be reproached by others for assuming a gendered role at all. -->
 
-性別角色確實存在，無論我們多麼努力地反抗它們並指出存在的性別歧視，人們總是會面臨基於性別的期望。這些期望在婚姻和親子角色中表現得尤為強烈；「丈夫」、「妻子」、「母親」、「父親」，這些詞彙都帶有大量的包袱，扮演錯誤的角色，或者甚至扮演任何角色，都可能讓人感覺像是穿著鉛衣的緊身衣般難以喘息。你會被賦予一整本關於行為舉止、喜好厭惡的規範，而你被期望去履行它們，如果你沒有達到這些要求，你就會被視為一個糟糕的配偶或糟糕的父母。
+性別角色確實存在，無論我們多麼努力地反抗它們並指出存在的性別歧視，人們總是會面臨基於性別的期望。這些期望在婚姻和親子角色中表現得尤為強烈；「丈夫」、「妻子」、「母親」、「父親」，這些詞彙都帶有大量的包袱，扮演錯誤的角色，或者甚至扮演任何角色，都可能讓人感覺像是穿著鉛衣的緊身衣般難以喘息。你會被賦予一整本關於行為舉止、喜好厭惡的規範，而你被期望去履行它們，如果你沒有達到這些要求，你就會被視為一個糟糕的配偶或糟糕的父母。對非二元性別者而言，他們可能同時被賦予彼此衝突、根本不可能全部滿足的期望，甚至可能只因採取任何帶有性別色彩的角色，就遭到他人責備。
 
-<!-- An AFAB parent who gives birth may experience severe dysphoria around being labeled as a mother. The vast majority of resources for birth are *extremely* female-gendered, so just the very process of conceiving,  carrying, and giving birth is exceptionally loaded with gender expectations. If you are pregnant then you are labeled a mom, regardless of how you actually feel about your role, and with that comes a whole load of assumptions — assumptions about caregiving, breastfeeding, and child-rearing. -->
+<!-- An AFAB parent who gives birth may experience severe dysphoria around being labeled as a mother. The vast majority of resources for birth are *extremely* female-gendered, so just the very process of conceiving, carrying, and giving birth is exceptionally loaded with gender expectations. If you are pregnant then you are labeled a mom, regardless of how you actually feel about your role, and with that comes a whole load of assumptions — assumptions about caregiving, breastfeeding, and child-rearing. -->
 
-出生時指定性別為女性(AFAB) 家長在生產後，可能會因為被貼上「母親」的標籤而經歷嚴重的不安感。絕大多數的生產資源都 *非常* 女性化，因此，從受孕、懷胎到分娩的整個過程都充滿了性別期望。如果你懷孕了，那麼你就會被貼上媽媽的標籤，無論你對自己的角色實際感受如何，伴隨而來的就是一大堆的臆測——關於照顧、母乳餵養和育兒的臆測。
+出生時指定性別為女性（AFAB）的家長在生產後，可能會因為被貼上「母親」的標籤而經歷嚴重的不安感。絕大多數的生產資源都 *非常* 女性化，因此，從受孕、懷胎到分娩的整個過程都充滿了性別期望。如果你懷孕了，那麼你就會被貼上媽媽的標籤，無論你對自己的角色實際感受如何，伴隨而來的就是一大堆的臆測——關於照顧、母乳餵養和育兒的臆測。
 
 <!-- [Cisgender-passing](https://en.wikipedia.org/wiki/Passing_(gender)) transfeminine individuals also run into this. If you are holding an infant or tending to a child then you are labeled a mom (unless the child is mixed race, in which case you're demoted to nanny, but that's a whole other topic). This can be validating, because it is a sign that you've been seen as a woman, but it can also be extremely *invalidating* when cis women start to talk about what they think are shared experiences with reproductive processes. -->
 
@@ -94,9 +94,9 @@ tweets:
   '1216112014411599877'
 ] tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
-<!-- Societal dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered, and AFABs may become uncomfortable with the amount of attention they receive from their prospective partners (beyond the discomfort that women experience, as this includes genuine attention, not just unwanted attention). The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons. -->
+<!-- Societal dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered. While unwanted attention causes discomfort for all genders, AFABs may become uncomfortable with even the amount of *genuine* attention they receive from prospective partners. The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons. -->
 
-社會不安在求偶儀式中 *強烈地* 發揮作用。當你不是男孩或女孩時，被迫成為男朋友或女朋友會讓人非常迷惘，而且常常感到很不公平。出生指定性別男性(AMAB)可能會希望被呵護的是 *他們*，而出生指定性別女性(AFAB)可能會因為潛在伴侶對他們的過多關注而感到不舒服（這超越了女性經歷的不適，因為這包含了真正的關注，而不僅僅是不必要的關注）。伴侶期望他們扮演這些求偶角色可能會讓他們感到沉重的負擔。相比之下，以真實的性別約會會讓人感到愉悅。買花送給一位跨性別女孩，看看她有多麼欣喜若狂。
+社會不安在求偶儀式中會 *強烈地* 發揮作用。當你既不是男孩也不是女孩，卻被迫扮演男朋友或女朋友的角色時，會非常迷惘，而且往往讓人感到很不公平。出生時指定性別為男性（AMAB）的人可能會希望 *自己* 才是被呵護的那一方。雖然不受歡迎的關注會讓任何性別的人感到不適，但出生時指定性別為女性（AFAB）的人甚至可能連潛在伴侶給予的 *真心關注* 都感到不自在。伴侶期待他們扮演這些求偶角色，可能會成為沉重的負擔。相較之下，以真實性別約會則可能帶來性別欣快。買花送給一位跨性別女孩，看看她有多麼心花怒放。
 
 <!-- A closeted trans person may feel so much pressure to conform to heterosexuality that they suppress their own instincts with regards to relationships and take on a performative role. Many a trans woman has attempted to play the role of a heterosexual husband to a wife, only to realize with transition that they would much prefer the role of the wife. They may not even be attracted to women. -->
 
@@ -110,6 +110,10 @@ tweets:
 
 例如，我自己在向妻子出櫃後才意識到，我以前所有的約會嘗試都完全是女同性戀性質的。我的首要任務始終是與她們成為好朋友。約會從未被稱為約會，因為我們只是找個地方坐下來聊天，一起出去玩。因此，我的幾段戀情都以失敗告終，原因很簡單，我太害怕採取主動，怕破壞友誼。我會花一半醒著的時間想著她們，想要和她們在一起，不是出於性慾，而是出於個人的迷戀。我的第一個女朋友在我們的第一次約會時就直接告訴我，我不像她約會過的任何男人，因為我喜歡聊天，而不是只想著肢體接觸。兩個月後，她和我分手了，因為我不像她期望的伴侶那樣果斷。
 
-<!-- These dynamics get even more complex for non-binary people, some of whom can at best describe their dating style as queer. Some struggle to identify what role they play in a relationship. Others take a specific role that is typically seen as a binary gendered role. Some non-binary people wish to be seen as a boyfriend/girlfriend even if they are not a boy/girl. Some want to play a role seen by society as neutral or consisting of aspects from both binary roles. -->
+<!-- These dynamics get even more complex for non-binary people, some of whom can at best describe their dating style as queer. Some struggle to identify what role they play in a relationship. Others take a specific role that is typically seen as a binary gendered role, and may not be the one assumed from their appearance. Some non-binary people wish to be seen as a boyfriend/girlfriend even if they are not a boy/girl. Some want to play a role seen by society as neutral or consisting of aspects from both binary roles. Some non-binary people may feel uneasy about heterosexual dating dynamics in particular, whether they play the "male" or "female" role. -->
 
-對於非二元性別者來說，這些動態更加複雜，他們中的一些人最多只能將自己的約會風格描述為酷兒。有些人難以確定自己在一段關係中扮演的角色。另一些人則扮演特定的角色，這些角色通常被視為二元性別角色。一些非二元性別者希望被視為男朋友/女朋友，即使他們不是男孩/女孩。有些人想要扮演一個在社會上被視為中性或包含兩種二元性別角色特徵的角色。
+對非二元性別者而言，這些動態會更加複雜；有些人充其量只能把自己的約會方式描述為酷兒。有些人難以判斷自己在關係中扮演什麼角色；另一些人則會採取通常被視為二元性別角色的特定位置，而且那個角色未必是旁人從其外表所推定的角色。有些非二元性別者希望被視為男朋友／女朋友，即使自己並不是男孩／女孩；有些人則希望扮演社會上被視為中性、或同時包含兩種二元角色元素的角色。也有些非二元性別者會特別對異性戀式的約會動態感到不自在，無論自己被放在「男性」還是「女性」的角色。
+
+<!-- As many people define their orientations in terms of their gender relation to men and women in a way that does not map to non-binary people, some non-binary people may find the traditional language of "heterosexual" or "homosexual" itself induces dysphoria. -->
+
+由於許多人以自己和男性、女性之間的性別關係來定義性傾向，而這種分類方式未必能套用在非二元性別者身上，因此有些非二元性別者甚至會因「異性戀」或「同性戀」這類傳統用語本身而感到不安。

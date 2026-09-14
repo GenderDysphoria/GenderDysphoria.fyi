@@ -19,9 +19,9 @@ tweets:
 
 # 性慾不安
 
-<!-- Closely related to societal dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography (the bulk of trans/cis pornography involves the trans woman topping). Deviations from these roles often result in shame, both from partners and from peers. -->
+<!-- Closely related to societal dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography. (The bulk of trans/cis pornography involves trans women topping, etc.) Deviations from these roles often result in shame, both from partners and from peers. -->
 
-與社會不安密切相關的是圍繞性慾、性關係和性行為的不安。[異性戀霸權](https://zh.wikipedia.org/wiki/%E5%BC%82%E6%80%A7%E6%81%8B%E6%9C%AC%E4%BD%8D)的性別角色預設了[出生指定男性(AMABs)扮演上位(top)，而出生指定女性(AFABs)會扮演下位(bottom)](https://zh.wikipedia.org/wiki/%E6%94%BB%E5%8F%97)。這些動態關係被我們的大眾媒體、有害的男子氣概，尤其色情作品所強化，即使在 *跨性別* 色情片中也是如此（大多數跨性別/順性別色情片都涉及跨性別女性扮演上位）。偏離這些角色通常會導致羞愧感，無論是來自伴侶還是同儕。
+與社會不安密切相關的是圍繞性慾、性關係和性行為的不安。[異性戀霸權](https://zh.wikipedia.org/wiki/%E5%BC%82%E6%80%A7%E6%81%8B%E6%9C%AC%E4%BD%8D)的性別角色預設了[出生指定男性(AMABs)扮演上位(top)，而出生指定女性(AFABs)會扮演下位(bottom)](https://zh.wikipedia.org/wiki/%E6%94%BB%E5%8F%97)。這些動態關係被我們的大眾媒體、有害的男子氣概，尤其色情作品所強化，即使在 *跨性別* 色情片中也是如此。（大多數跨性別／順性別色情片涉及跨性別女性扮演上位等情況。）偏離這些角色通常會導致羞愧感，無論是來自伴侶還是同儕。
 
 <!-- Of course, this is not an absolute by any means, and many heterosexual cis couples do find ways out of these molds, finding a new dynamic in their relationship, or engaging in kinks to satisfy desires. Some couples find they aren't sexually compatible at all and seek other partners. However, there are many, many external pressures discouraging this kind of self-awareness and discovery, and breaking away from those demands can be extremely difficult — even traumatic. This is particularly true when there is a background of conservatism or religious virtuism. -->
 
@@ -64,7 +64,7 @@ tweets:
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-block-end: 5px" caption="&quot;Swole Mom&quot; - How Baby, by Lindsay Ishihiro"}}
+{{import '~/img' images.howbaby_swole className="card" link="http://howbabycomic.com/comic/hb279/" external=1 style="margin-bottom: 5px" caption="&quot;Swole Mom&quot; - How Baby, by Lindsay Ishihiro"}}
 </div>
 }!}
 
@@ -115,4 +115,3 @@ tweets:
 <!-- It was a dysphoria I could not possibly have put into words until after it had finally been relieved. I was even more relieved as I began to integrate into queer women's spaces and came to realize that _women are exactly as thirsty as men are_; we're just (usually) much more respectful about it. It was a release of guilt that I didn't even know I was carrying. -->
 
 這是一種不安，直到它最終得到緩解後，我才有可能用語言表達出來。當我開始融入酷兒女性的空間，並意識到 *女性和男性一樣渴望* 時，我更加釋然了；我們只是（通常）更尊重這一點。這是一種我甚至不知道自己背負的罪惡感的釋放。
-

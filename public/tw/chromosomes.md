@@ -32,6 +32,9 @@ tweets:
 <!-- # But the Chromosomes!!! -->
 # 但是染色體！！！
 
+<!-- ## More than Two Options -->
+## 不只兩種選項
+
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
     '1223942625708761088'
@@ -119,3 +122,12 @@ tweets:
     '1208181235593490433'
   ] tweets=meta.tweets className="" }}
 </div>}!}
+
+<!-- ## But Most People Are Still XX or XY!!! -->
+## 但大多數人仍然是 XX 或 XY！！！
+
+<!-- Biological sex in endosex (non-intersex) people is still more complicated than the simplistic XX/XY model suggests. Even if someone has typical 46,XX or 46,XY chromosomes, the body can change how it *uses* DNA without changing the DNA sequence itself. This process is called [epigenetics](https://www.cdc.gov/genomics-and-health/epigenetics/). -->
+對於非陰陽人（endosex，亦稱內性人）而言，生理性別仍然比簡化的 XX/XY 模型所呈現的更複雜。即使一個人具有典型的 46,XX 或 46,XY 染色體，身體也能在不改變 DNA 序列本身的情況下，改變它*如何使用* DNA。這個過程稱為[表觀遺傳學](https://www.cdc.gov/genomics-and-health/epigenetics/)（英文）。
+
+<!-- Epigenetic changes vary between XX and XY chromosomes, but they also differ as people age in sex-specific ways. Long-term gender-affirming hormone therapy appears to make some of those [sex-and-age-specific changes](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) more masculine on testosterone, or more feminine on estrogen. Therefore, the DNA of a cis man isn't used the same way as the DNA of a trans woman on estrogen, even if they both have XY chromosomes, and the DNA of a cis woman isn't used the same way as the DNA of a trans man on testosterone, even if they both have XX chromosomes. -->
+XX 與 XY 染色體的表觀遺傳變化有所不同，而且隨著年齡增長，也會以與性別相關的方式產生差異。長期的性別肯認荷爾蒙治療似乎會讓其中一些[與性別及年齡相關的變化](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4)（英文），在使用睪固酮時變得更偏男性化，在使用雌激素時變得更偏女性化。因此，即使順性別男性與使用雌激素的跨性別女性都具有 XY 染色體，他們的 DNA 使用方式也不相同；同樣地，即使順性別女性與使用睪固酮的跨性別男性都具有 XX 染色體，他們的 DNA 使用方式也不相同。
