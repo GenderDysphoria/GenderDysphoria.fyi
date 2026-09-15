@@ -1,0 +1,34 @@
+{
+  "output": "public/bg/printable.md",
+  "sources": [
+    "public/bg/index.md",
+    "public/bg/what-is-gender.md",
+    "public/bg/history.md",
+    "public/bg/euphoria.md",
+    "public/bg/physical-dysphoria.md",
+    "public/bg/biochemical-dysphoria.md",
+    "public/bg/social-dysphoria.md",
+    "public/bg/societal-dysphoria.md",
+    "public/bg/sexual-dysphoria.md",
+    "public/bg/presentational-dysphoria.md",
+    "public/bg/existential-dysphoria.md",
+    "public/bg/managed-dysphoria.md",
+    "public/bg/impostor-syndrome.md",
+    "public/bg/am-i-trans.md",
+    "public/bg/diagnoses.md",
+    "public/bg/treatment.md",
+    "public/bg/causes.md",
+    "public/bg/chromosomes.md",
+    "public/bg/hormones.md",
+    "public/bg/second-puberty-masc.md",
+    "public/bg/second-puberty-fem.md",
+    "public/bg/conclusion.md"
+  ],
+  "meta": {
+    "title": "Библията за половата дисфория",
+    "lang": "bg",
+    "description": "Потапяне в множеството начини, по които се проявява половата дисфория, и какво означава да си транс.",
+    "classes": ["gdb", "longform"],
+    "preBody": "_disclaimer"
+  }
+}
