@@ -146,3 +146,7 @@ tweets:
 <!-- - Sleeping. Lots and lots of sleeping. -->
 
 - 睡覺。大量的睡覺。
+
+<!-- - Drug and alcohol use. -->
+
+- 使用藥物與酒精。

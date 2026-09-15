@@ -85,10 +85,12 @@ classes:
 
   <!-- - Orchiectomy (removal of the testicles)
   - Scrotectomy (removal of scrotal tissue, following orchiectomy)
+  - Vasectomy (removal of the sperm ducts, which is done during orchiectomy but can also be done before on its own)
   - Vaginoplasty (creation of a vaginal cavity)
   - Vulvoplasty (creation of a vulva, with or without depth). -->
   - 睪丸切除術(Orchiectomy)（移除睪丸）
   - 陰囊切除術(Scrotectomy)（移除陰囊組織，在睪丸切除術之後）
+  - 輸精管切除術(Vasectomy)（移除輸精管；睪丸切除術時也會處理，但也可以事先單獨進行）
   - 陰道成形術(Vaginoplasty)（創造陰道腔）
   - 外陰成形術(Vulvoplasty)（創造外陰，有或沒有深度）。
 
@@ -107,21 +109,23 @@ classes:
 
   <!-- - Hysterectomy (removal of uterus and cervix)
   - Oophorectomy (removal of one or both ovaries)
+  - Salpingectomy (removal of one or both uterine tubes, often performed with hysterectomy and/or oophorectomy)
   - Vaginectomy (removal of vaginal cavity)
   - Metoidioplasty (a process which turns the enlarged clitoris after hormone therapy into a penis)
   - Phalloplasty (construction of a penis from skin grafting)
   - Urethroplasty (extension of the urethral canal through the phallus)
-  - Scrotoplasty (use of labia majora and false testicles to construct a scrotum). -->
+  - Scrotoplasty (use of labia majora and prosthetic testicles to construct a scrotum). -->
   - 子宮切除術(Hysterectomy)（移除子宮和子宮頸）
   - 卵巢切除術(Oophorectomy)（移除一個或兩個卵巢）
+  - 輸卵管切除術(Salpingectomy)（移除一側或兩側輸卵管，常與子宮切除術和／或卵巢切除術一起進行）
   - 陰道切除術(Vaginectomy)（移除陰道腔）
   - 陰蒂成形術(Metoidioplasty)（將激素治療後增大的陰蒂變成陰莖的過程）
   - 陰莖成形術(Phalloplasty)（透過植皮來構造陰莖）
   - 尿道成形術(Urethroplasty)（將尿道延伸穿過陰莖）
-  - 陰囊成形術(Scrotoplasty)（使用大陰唇和假睪丸來構造陰囊）。
+  - 陰囊成形術(Scrotoplasty)（使用大陰唇和人工睪丸植入物來構造陰囊）。
 
-<!-- Phalloplasty does not necessarily require previous hormone therapy, and while it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, some surgeons can perform phalloplasty without vaginectomy or phalloplasty without urethroplasty.   -->
-陰莖成形術不一定需要事先進行激素治療，雖然通常同時進行陰道切除術、尿道成形術和陰莖成形術，但一些外科醫生可以在不進行陰道切除術的情況下進行陰莖成形術，或者在不進行尿道成形術的情況下進行陰莖成形術。
+<!-- Phalloplasty does not necessarily require previous hormone therapy. While it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, urethroplasty and vaginectomy are not technically required to construct a penis. However, as vaginal tissue is typically used to construct the new urethra, some surgeons will not perform urethroplasty without vaginectomy. -->
+陰莖成形術不一定需要事先進行荷爾蒙治療。雖然陰道切除術、尿道成形術和陰莖成形術常會同時進行，但從技術上來說，構造陰莖並不一定需要尿道成形術或陰道切除術。不過，由於新尿道通常會使用陰道組織來構造，有些外科醫師不會在未進行陰道切除術的情況下施作尿道成形術。
 
 <!-- **Top Surgery** (modifications to the chest) -->
 **上半身手術**（胸部改造）
@@ -139,6 +143,9 @@ classes:
   - Breast reduction (some fat and breast tissue removal) -->
   - 雙側乳房切除術(Bilateral mastectomy)（移除乳房組織）和胸部重建
   - 縮胸術（移除一些脂肪和乳房組織）
+
+<!-- Mastectomy for top surgery typically reshapes the nipples to be more masculine, but some people opt to remove their nipples entirely. -->
+上半身手術中的乳房切除術通常會重新塑造乳頭，使外觀更偏男性化；但也有人選擇完全移除乳頭。
 
 <!-- **Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face). -->
 **面部女性化/男性化手術**（改造面部的顱骨、軟骨和皮膚）。
@@ -198,4 +205,3 @@ classes:
 - 聲音女性化手術：在聲帶上切開一個切口，以永久提高音調。
 - 灰姑娘手術：縮短腳部的骨骼，以縮小腳的尺寸。風險極高
 - 肩膀縮小術：縮短鎖骨以縮小肩膀的寬度。風險極高
-

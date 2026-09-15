@@ -163,8 +163,8 @@ tweets:
 <!-- The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.* -->
 DPDR 的緩解幾乎普遍伴隨著更廣泛的情緒和情緒調節能力。情緒變得更容易控制和壓抑，不太可能當場爆發。*請注意：壓抑情緒是形成創傷的一個非常快速的方式。*
 
-<!-- However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty. -->
-然而，表達情緒的能力可能會降低。有些人在開始服用睪固酮後會失去哭泣的能力，但這 *不是* 一種普遍的經歷，可能與你的 T 劑量強度有關。其背後的原因尚不清楚，儘管一些研究發現雄激素會改變大腦中與情緒處理相關部分的功能。如果你確實失去了哭泣的能力，隨著你的大腦更加適應，當你度過第二青春期，它可能會隨著時間的推移而恢復。
+<!-- However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty. Therapy may also help provide you with techniques to cry in a healthy manner. -->
+然而，表達情緒的能力可能會降低。有些人在開始服用睪固酮後會失去哭泣的能力，但這 *不是* 一種普遍的經歷，可能與你的 T 劑量強度有關。其背後的原因尚不清楚，儘管一些研究發現雄激素會改變大腦中與情緒處理相關部分的功能。如果你確實失去了哭泣的能力，隨著你的大腦更加適應，當你度過第二青春期，它可能會隨著時間的推移而恢復。心理治療也可能幫助你學習以健康方式哭泣的技巧。
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
@@ -183,8 +183,8 @@ DPDR 的緩解幾乎普遍伴隨著更廣泛的情緒和情緒調節能力。情
 <!-- ##### Sleep -->
 ##### 睡眠
 
-<!-- Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however. -->
-有些人報告有失眠和難以記住夢的問題。然而，這遠不是普遍現象。
+<!-- Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however; others feel sleepier and sleep more. -->
+有些人報告有失眠和較少能記住夢境的情況。不過這遠非普遍現象；也有人反而更容易感到睏倦，睡得更多。
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
@@ -217,20 +217,26 @@ DPDR 的緩解幾乎普遍伴隨著更廣泛的情緒和情緒調節能力。情
 <!-- ##### Bottom Growth -->
 ##### 下體生長
 
-<!-- DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common. -->
+<!-- DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common. -->
 DHT（上文提到的）在生殖器內勃起組織的發育中起著關鍵作用。隨著睪固酮的增加，DHT 水平也會升高，這會導致斯基恩氏腺（有時稱為女性前列腺）腫脹。這會導致陰蒂內的隨機勃起，從而導致勃起組織生長。生長的程度因人而異，但 1-3 英寸(3-8 公分)很常見。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-<!-- The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding. -->
-隨著時間的推移，陰蒂包皮和陰唇會變得乾燥和變厚，小陰唇也可能開始長毛。自體潤滑可能會大大減少，隨著時間的推移，插入可能會變得疼痛。使用更多潤滑劑，以避免撕裂和出血。
-
 {!{ {{import '~/tweet' ids=[
   '1431244822044622848'
   '1431244926214356993'
 ] tweets=meta.tweets className="grid-row" }} }!}
+
+<!-- ##### Decreased Lubrication -->
+##### 潤滑減少
+
+<!-- The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding. -->
+隨著時間的推移，陰蒂包皮和陰唇會變得乾燥和變厚，小陰唇也可能開始長毛。自體潤滑可能會大大減少，隨著時間的推移，插入可能會變得疼痛。使用更多潤滑劑，以避免撕裂和出血。
+
+<!-- You can also ask your gynecological provider or primary care doctor about vaginal estrogen. The levels of estrogen used in these products are so low, [there's no risk of interference with the effects of testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/). -->
+你也可以詢問婦產科醫師或家庭醫學科醫師，是否適合使用陰道局部雌激素。這類產品使用的雌激素劑量非常低，[不會干擾睪固酮所帶來的效果](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/)（英文）。
 
 <!-- ##### Increased Emissions During Climax -->
 ##### 高潮時分泌物增加
@@ -241,14 +247,23 @@ DHT（上文提到的）在生殖器內勃起組織的發育中起著關鍵作�
 <!-- ##### Changes in Sensitivity and Response -->
 ##### 敏感性和反應的變化
 
-<!-- Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft. -->
-性感帶刺激可能會更集中在陰蒂頭部和陰莖的撫摸上。
+<!-- Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft. Friction in general may become more pleasurable as opposed to vibration. Some people report greater sensitivity during vaginal penetration due to the thinner skin. -->
+性感帶刺激可能會更集中在陰蒂頭部以及對陰蒂體的撫摸。相較於震動刺激，摩擦刺激整體上可能變得更令人愉悅。也有人表示，由於皮膚變薄，在陰道插入時會感覺更加敏感。
 
 <!-- ##### Atrophy -->
 ##### 萎縮
 
-<!-- Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB trans people use following vaginoplasty. -->
-陰道和子宮萎縮通常發生在最初五年內，可能需要進行子宮切除術。萎縮的跡象包括下腹部深部搏動性疼痛和沒有其他經期症狀的疼痛性痙攣，尤其是在性交後。透過使用與出生指定性別為男性(AMAB)的跨性別者在陰道成形術後使用的相同的陰道擴張器，可以避免陰道萎縮。
+<!-- Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through vaginal estrogen, as well as the use of the same vaginal dilators that AMAB trans people use following vaginoplasty. -->
+陰道和子宮萎縮通常發生在最初五年內，可能需要進行子宮切除術。萎縮的跡象包括下腹部深部搏動性疼痛和沒有其他經期症狀的疼痛性痙攣，尤其是在性交後。陰道萎縮可以透過陰道局部雌激素，以及使用與出生時指定性別為男性（AMAB）的跨性別者在陰道成形術後使用的相同陰道擴張器來避免。
+
+<!-- ##### Changes to Pap Test -->
+##### 子宮頸抹片檢查的變化
+
+<!-- Your internal genitals may develop small amounts of benign prostate tissue, which can range from a couple cells to a "well-developed" gland. The clinical term is [androgen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/). These prostate cells may be misinterpreted as the lesions created by HPV if found on a Pap test, but unlike HPV, the cells in prostatic metaplasia look medically normal and don't appear to be a cancer risk. If necessary, a biopsy can clearly tell them apart. -->
+內部生殖器可能會形成少量良性的前列腺組織，程度可以從只有幾個細胞，到形成「發育良好」的腺體。臨床上稱為[雄激素相關前列腺化生（androgen-associated prostatic metaplasia）](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/)（英文）。如果這些前列腺細胞在子宮頸抹片檢查中被發現，可能會被誤認為 HPV 所造成的病灶；但與 HPV 不同，前列腺化生的細胞在醫學上看起來正常，目前也看不出有致癌風險。如有需要，切片檢查可以清楚區分兩者。
+
+<!-- Decreased lubrication and atrophy, as discussed above, may also make it physically more difficult to perform the Pap test. The provider may have to exert more force to collect an adequate sample. Your provider can use a smaller speculum to reduce the pain of the procedure. Some providers may allow you to swab your own cervix, but this is not guaranteed. -->
+如前所述，潤滑減少與萎縮也可能讓子宮頸抹片檢查在操作上更加困難。醫療人員可能需要施加較大的力量才能取得足夠的檢體，也可以改用較小的陰道窺器來減少檢查時的疼痛。有些醫療提供者可能允許你自行採集子宮頸檢體，但並非所有地方都會提供這個選項。
 
 <!-- ##### Increased Sex Drive -->
 ##### 性慾增加
@@ -291,5 +306,4 @@ DHT（上文提到的）在生殖器內勃起組織的發育中起著關鍵作�
 
 <!-- **This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up; they do not die. -->
 **然而，這*並不*意味著你不孕。** 即使你沒有月經，仍然可能會排卵。此外，停止服用睪固酮會使舊的卵巢甦醒；它們不會死亡。
-
 

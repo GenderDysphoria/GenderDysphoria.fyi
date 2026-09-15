@@ -19,7 +19,7 @@ siblings:
   images.titlecard
   srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
   alt="性別不安聖經 - The Gender Dysphoria Bible"
-  style="margin-block-end: 1em;"
+  style="margin-bottom: 1em;"
   imgStyle="width: 100%"
 }}
 }!}
@@ -85,7 +85,7 @@ siblings:
 </blockquote></div>
 }!}
 
-在全球各地的文化中，自人類文明存在以來，就[一直有人](https://en.wikipedia.org/wiki/Transgender_history)的性別認同經驗與基於生殖器結構的盎格魯-歐洲概念的二元性別不一致。 4500年前，蘇美爾帝國的中性別祭司階級Gala存在。 北美洲的土著文化在歐洲殖民主義之前就認識到[第三性別](https://en.wikipedia.org/wiki/Third_gender)，直到今天仍然如此。 非洲各地的部落[文化](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1)認識到許多性別身份，[歐洲人試圖消滅](https://daily.jstor.org/the-deviant-african-genders-that-colonialism-condemned/)。 人類長期以來一直擁有與所謂的西方文化中今天的所謂「傳統」性別觀念不同的身份，規範和符合度。
+在全球各地的文化中，自人類文明存在以來，就[一直有人](https://en.wikipedia.org/wiki/Transgender_history)的性別認同經驗與基於生殖器結構的盎格魯-歐洲概念的二元性別不一致。4500 年前，蘇美爾帝國就存在 Gala 這個中性別祭司階級。北美洲許多原住民族文化在歐洲殖民主義之前就認識到[第三性別](https://en.wikipedia.org/wiki/Third_gender)，直到今天仍然如此。非洲各地的部落[文化](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1)認識到許多性別身份，[歐洲人試圖消滅](https://daily.jstor.org/the-deviant-african-genders-that-colonialism-condemned/)。人類長期以來一直擁有與所謂的西方文化中今天的所謂「傳統」性別觀念不同的身份，規範和符合度。
 
 然而，現代西方對於跨性別經驗的理解只有約130年的歷史。即使是「跨性別」這個詞也只有1965年約翰·奧利文（John Oliven）提出來取代大衛·考爾德威爾（David Cauldwell）在1949年提出的「變性人」（transsexual），而後者曾取代了馬格努斯·赫希菲爾德（Magnus Hirschfield）在1910年提出的「異裝癖」（transvestite）。
 

@@ -39,7 +39,7 @@ tweets:
 
 <!-- Like it or not, presentation is gendered, and it is extremely common for trans people to want to present themselves in the fashion of their true gender, and a desire to be free of the shackles of gendered presentation is common among all trans people, regardless of where they sit on the gender spectrum. For AMAB individuals they may manifest as a wish to incorporate more feminine elements; for AFABs it may manifest as a want for a more masculine appearance. This may come as a full push towards the opposite of their assigned gender, or a desire to seek a middle-ground in pursuit of androgyny. It may even simply be a wish to *not* present as your assigned gender. -->
 
-無論你喜不喜歡，表現都被賦予了性別，跨性別者想要以他們真實性別的方式來表現自己是非常普遍的，而擺脫性別表現束縛的願望在所有跨性別者中都很常見，無論他們處於性別光譜的哪個位置。對於出生時指定性別為男性(AMAB)的人來說，這可能表現為希望融入更多女性化的元素；對於出生時指定性別為女性(AFAB)的人來說，這可能表現為想要更男性化的外表。這可能表現為完全朝著與他們指定性別相反的方向發展，或者渴望在追求中性的過程中找到一個中間地帶。它甚至可能只是一種 *不想* 以你被指定的性別來表現的願望。
+無論你喜不喜歡，表現都被賦予了性別，跨性別者想要以他們真實性別的方式來表現自己是非常普遍的，而擺脫性別表現束縛的願望在所有跨性別者中都很常見，無論他們處於性別光譜的哪個位置。對於出生時指定性別為男性（AMAB）的人來說，這可能表現為希望融入更多女性化的元素；對於出生時指定性別為女性（AFAB）的人來說，這可能表現為想要更男性化的外表。這可能表現為完全朝著與他們指定性別相反的方向發展，或者渴望在追求中性的過程中找到一個中間地帶。它甚至可能只是一種 *不想* 以你被指定的性別來表現的願望。
 
 
 <!-- **Not all transfems present feminine, not all transmascs present masculine, and not all non-binary people seek androgyny. Butch AMAB trans people are valid; femme AFAB trans people are valid. Presentation is not gender; gender is not presentation.** -->

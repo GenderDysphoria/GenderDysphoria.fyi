@@ -147,9 +147,9 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 - 接受雌激素治療的陰莖會變得柔軟，勃起不再明顯，皮膚變薄，並開始像陰道壁一樣分泌愛液。陰囊變軟且顏色改變，會陰縫變得更明顯。由於自發性勃起停止，如果不經常使用，勃起組織(erectile tissue)會萎縮，導致整個陰莖隨著時間推移而縮小。震動刺激在性喚起方面變得更有效。
 
-<!-- - The androgenic vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris. -->
+<!-- - The androgenic vagina becomes drier & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris. Friction becomes more effective for arousal. -->
 
-- 接受雄激素治療的陰道會變得乾燥且容易撕裂（潤滑可能成為一個問題）。陰蒂的皮膚變厚，陰蒂頭由於開始出現自發性勃起而增長增粗。陰唇也會變厚，而且通常毛髮會變多。開始接受荷爾蒙治療通常會導致陰蒂極度敏感。
+- 接受雄激素治療的陰道會變得乾燥且容易撕裂（潤滑可能成為一個問題）。陰蒂的皮膚變厚，陰蒂頭由於開始出現自發性勃起而增長增粗。陰唇也會變厚，而且通常毛髮會變多。開始接受荷爾蒙治療通常會導致陰蒂極度敏感。摩擦刺激在性喚起方面會變得更有效。
 
 {!{ </div></div></div> }!}
 
@@ -171,7 +171,7 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 <!-- It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle. -->
 
-當看到或觸摸外生殖器時，可能會感到恐懼或厭惡，引發情緒爆發或強烈想要移除令人不快的器官。生理女的跨性別者可能會在月經期間感到不適，或者對自己的荷爾蒙週期感到疏離和格格不入。
+當看到或觸摸外生殖器時，可能會感到恐懼或厭惡，引發情緒爆發或強烈想要移除令人不快的器官。出生時指定性別為女性（AFAB）的跨性別者可能會在月經期間感到不適，或者對自己的荷爾蒙週期感到疏離和格格不入。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
@@ -187,7 +187,7 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 <!-- Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus. -->
 
-不想要的身體特徵可能會讓患者羨慕那些因為疾病（例如睪丸癌或乳腺癌）而被迫移除這些特徵的人。患有嚴重生殖器焦慮的生理男(AMAB)往往會希望發生某種意外事故，導致他們失去陰莖。
+不想要的身體特徵可能會讓當事人羨慕那些因為疾病（例如睪丸癌或乳癌）而被迫移除這些特徵的人。出生時指定性別為男性（AMAB）、且有嚴重生殖器不安的人往往會希望發生某種意外事故，導致他們失去陰莖。
 
 <!-- Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life, I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all; I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body. -->
 
@@ -230,7 +230,7 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 <!-- **Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.** -->
 
-**並非所有跨性別者都一定會對全身的生理性別感到焦慮。生理女(AMAB)不一定要討厭自己的胸部，生理男不一定要討厭自己的陰莖。每個跨性別者的經歷都不同，而且都是有效的、值得被認可的。**
+**跨性別者不一定會對全身都感到身體不安。出生時指定性別為女性（AFAB）的人不一定要討厭自己的胸部，出生時指定性別為男性（AMAB）的人也不一定要討厭自己的陰莖。每位跨性別者的經驗都不同，而且都是有效且值得被認可的。**
 
 <!-- ### Internalized Body Image Issues -->
 
@@ -240,9 +240,9 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 這個世界充斥著關於男女身形應該如何的潛意識訊息。我們被鋪天蓋地的廣告和媒體轟炸，它們塑造了對於什麼是以及什麼不是美麗的標準化觀點。不能太胖、不能太瘦、不能太高、不能太矮、下巴不能太寬、鼻子不能太大、要化妝但不能化太濃、出門一定要穿胸罩但不能讓胸罩露出來。這些關於性別外表的期待不斷地、持續地轟炸著我們。
 
-<!-- Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Those who align with femininity grow up mapping feminine standards onto themselves, those who align with masculinity map masculine standards on to themselves, and enbies may internalize shame around androgyny. This is *on top* of the shame they are loaded with for not living up to their assigned gender's standards. -->
+<!-- Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Those who align with femininity grow up mapping feminine standards onto themselves, those who align with masculinity map masculine standards on to themselves, and non-binary people may internalize shame around androgyny or the gender they are assumed to be after transition. This is *on top* of the shame trans people in general are loaded with for not living up to their assigned gender's standards. -->
 
-每個人都會吸收這些訊息，而跨性別者則會將符合自身認同性別的因素內化。認同女性特質的人會以女性的標準審視自己，認同男性特質的人會以男性的標準審視自己，而非二元性別者則可能將對中性特質的羞恥感內化。而這一切，*還加上*了他們因為不符合指定性別標準而承受的羞恥感。
+每個人都會吸收這些訊息，而跨性別者則會將符合自身認同性別的因素內化。認同女性特質的人會以女性的標準審視自己，認同男性特質的人會以男性的標準審視自己，而非二元性別者則可能將對中性特質、或轉變後被他人認定為某個性別的羞恥感內化。而這一切，*還加上*了跨性別者普遍因為不符合出生時指定性別標準而承受的羞恥感。
 
 <!-- What is the end result of this? Kathryn said it best: -->
 

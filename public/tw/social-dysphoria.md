@@ -60,6 +60,10 @@ tweets:
 
 例如，一個被出生時指定性別為男性(AMAB)的跨性別者可能會在男性群體中感到非常不自在。他們可能覺得格格不入，難以融入男性同儕之中。陽剛的社交互動對他們來說並非自然而然，試圖模仿男性朋友的行為會讓他們感到尷尬。他們可能會發現自己更容易被女性朋友吸引，但又會對男女之間的社會和異性戀互動感到沮喪，因為這阻礙了他們建立純友誼關係。這還得看女性是否願意與他們建立友誼。當女性原則上迴避他們時，他們可能會感到深深的傷害。
 
+<!-- Some non-binary people feel social incongruence in interactions with both men and women, which may persist even if they change their gender presentation. -->
+
+一些非二元性別者在與男性和女性互動時都會感到社交上的不一致感，即使改變自己的性別表現，這種感覺仍可能持續存在。
+
 <!-- This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused. -->
 
 隨著當事人越來越意識到自身的不一致，這種錯誤感會加劇，而在意識到自己真實身份後，這種感覺會呈現新的形態。對於二元性別的跨性別者來說，這通常意味著強烈地需要被視為他們真實的性別，無論是男性還是女性。一些非二元性別者則將此體驗為被視為非男非女的愉悅感，因此只會以非性別化的方式被稱呼，或者在同一場合被不同的人解讀為不同的性別。有些人則在人們無法辨識其性別而感到困惑時，體驗到強烈的愉悅感。
@@ -87,17 +91,17 @@ tweets:
 <!-- - An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
 - An AFAB person being called Sir, and feeling better for it. -->
 
-- 一個出生時指定性別為男性(AMAB)的跨性別者被稱為小妹妹，意圖侮辱，卻讓他們臉紅而不是生氣。
-- 一個出生時指定性別為女性(AFAB)的跨性別者被稱為先生，並因此感覺良好。
+- 一個出生時指定性別為男性（AMAB）的跨性別者被稱為小妹妹，意圖侮辱，卻讓他們臉紅而不是生氣。
+- 一個出生時指定性別為女性（AFAB）的跨性別者被稱為先生，並因此感覺良好。
 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-<!-- The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper. -->
+<!-- The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper. Some non-binary people may consciously alter their presentation to be less obviously masculine or feminine, which can resemble the techniques of binary trans people with similar bodies, or may play up intentionally conflicting gender cues. -->
 
-社交不安造成的不適感會迫使跨性別者以誇張的方式行事和表現，試圖讓其他人相信他們真的是他們所說的那樣。跨性別女性可能會專注於化妝和女性服飾，並變得更安靜以表現得更端莊，用更高的聲調說話。跨性別男性則會傾向於男性化的服裝風格，站得更高，壓抑情緒的展現，開始大聲說話，並刻意壓低嗓音。
+社交不安造成的不適感會迫使跨性別者以誇張的方式行事和表現，試圖讓其他人相信他們真的是他們所說的那樣。跨性別女性可能會專注於化妝和女性服飾，並變得更安靜以表現得更端莊，用更高的聲調說話。跨性別男性則會傾向於男性化的服裝風格，站得更高，壓抑情緒的展現，開始大聲說話，並刻意壓低嗓音。有些非二元性別者可能會刻意調整自己的外在表現，讓自己不要那麼明顯偏男性或女性；這可能類似於具有相似身體條件的二元跨性別者所採用的技巧，也可能刻意強化彼此衝突的性別線索。
 
 <!-- ### Physical vs Social Dysphoria -->
 

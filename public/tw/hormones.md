@@ -158,7 +158,7 @@ LH 是指示卵巢和睪丸產生雌激素和雄激素的物質。LH 及其姊�
 另一種類型充滿孕激素受體的細胞是乳腺組織。助孕酮在乳腺組織中乳腺管的生長和成熟中起著重要作用。雖然很少有正式的研究來探討助孕酮對乳房發育的影響，但坊間證據表明，它在跨性別女性群體中廣泛使用，可以顯著改善乳房的豐滿度。助孕酮也被證明可以增加流向乳房組織的血液，並促進乳房中的脂肪沉積，這兩者都會增加乳房的大小。
 
 <!-- Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk. -->
-此外，助孕酮還能促進更好的睡眠，改善心血管健康，增加生酮作用（降低三酸甘油酯），增強代謝功能，並且已被發現可以降低患乳腺癌的風險。
+此外，助孕酮還能促進更好的睡眠，改善心血管健康，增加生酮作用（降低三酸甘油酯），增強代謝功能，並且已被發現可以降低患乳癌的風險。
 
 <!-- ### Mineralocorticoids -->
 ### 鹽皮質素 (Mineralocorticoids)
