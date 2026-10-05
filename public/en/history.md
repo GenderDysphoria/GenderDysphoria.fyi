@@ -79,4 +79,4 @@ However, first I must stress something very important, so important that I am pu
 
 There is no one single trans experience; there is no standard set of feelings and discomforts; there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
 
-Okay, with that disclaimer out of the way, let's get to the meat and potatoes.
+Okay, with that disclaimer out of the way, let's get to the real substance of dysphoria.

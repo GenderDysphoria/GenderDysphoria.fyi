@@ -8,8 +8,8 @@ preBody: '_disclaimer'
 siblings:
   prev: /en/second-puberty-masc
   prevCaption: Androgenic Second Puberty
-  next: /en/conclusion
-  nextCaption: Conclusion
+  next: /en/regrets
+  nextCaption: Is It Worth It?
 classes:
   - gdb
 ---

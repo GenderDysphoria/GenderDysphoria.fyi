@@ -5,8 +5,8 @@ linkTitle: "Conclusion"
 description: "Enough with the gatekeeping already."
 lang: en
 siblings:
-  prev: /en/second-puberty-fem
-  prevCaption: Estrogenic Second Puberty
+  prev: /en/regrets
+  prevCaption: Is It Worth It?
 classes:
   - gdb
 preBody: '_disclaimer'

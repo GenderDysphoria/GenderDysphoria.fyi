@@ -234,3 +234,75 @@
     p { margin: 0; }
   }
 }
+
+
+.bargraph {
+  display: grid;
+  grid-template-columns: minmax(30ch, min-content) auto;
+  gap: 3px 0;
+  background-color: $trans-blue-light;
+  padding: 3px;
+
+  @include dark-mode {
+    background-color: $trans-blue-dark;
+  }
+
+  @media screen and (max-width: 500px) {
+    grid-template-columns: 1fr;
+    gap: 0;
+
+    &>div {
+      border-bottom: 3px solid $trans-blue-light;
+      @include dark-mode {
+        border-bottom-color: $trans-blue-dark;
+      }
+      &:last-child {
+        border-width: 0;
+      }
+    }
+  }
+
+  &>strong {
+    display: flex;
+    align-items: center;
+    padding-inline: 5px;
+    background-color: $trans-blue-lightest;
+
+    @include dark-mode {
+      background-color: $trans-blue-darkest;
+    }
+  }
+
+  &>div {
+    display: flex;
+    align-items: center;
+    background-color: $trans-blue-lightest;
+
+    @include dark-mode {
+      background-color: $trans-blue-darkest;
+    }
+
+    b {
+      display: flex;
+      align-items: center;
+      justify-content: start;
+      background: $trans-blue;
+      color: $gray-900;
+      height: 2em;
+      margin-block: 4px;
+      padding-inline: 5px;
+      font-weight: bold;
+    }
+
+    span {
+      display: flex;
+      align-items: center;
+      justify-content: start;
+      font-weight: bold;
+    }
+
+    b+span {
+      margin-inline-start: 5px;
+    }
+  }
+}
