@@ -109,10 +109,10 @@ zh-tw: -->
 我以前用來描述它的方式是，當你是一個孩子時穿著成人的手套。 你可以把手放進手套裡，你的手指可以伸進手套的指頭裡，但是你的手套的靈巧性受到了嚴重的阻礙。 你可能能夠拿起東西，但你無法像成年人那樣操縱它。 事情就是不太對。
 
 <!-- en:
-Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
+Evey Winters described it this way [in her Dysphoria post](https://web.archive.org/web/20210721194221/https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 zh-tw: -->
-Evey Winters 在她的[不安貼文](https://eveywinters.com/on-dysphoria-before-enduring-and-after/)中這樣描述。
+Evey Winters 在她的[不安貼文](https://web.archive.org/web/20210721194221/https://eveywinters.com/on-dysphoria-before-enduring-and-after/)中這樣描述。
 
 <!-- en:
 > Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.

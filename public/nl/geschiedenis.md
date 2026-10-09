@@ -57,7 +57,7 @@ In principe is genderdysforie een gevoel van ongelijk dat intrinsiek is aan zich
 
 De manier waarop ik het vroeger beschreef, is als het dragen van een volwassenen handschoen als je een kind bent. Je kunt je hand in de handschoen steken en je vingers passen in de vingers van de handschoen, maar je behendigheid met de handschoen is ernstig beperkt. Je kunt misschien iets oppakken, maar je kunt het niet manipuleren zoals een volwassene dat zou kunnen. Dingen kloppen gewoon niet helemaal.
 
-Evey Winters beschreef het op deze manier [in haar bericht over dysforie](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
+Evey Winters beschreef het op deze manier [in haar bericht over dysforie](https://web.archive.org/web/20210721194221/https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 > Heb je ooit ergens in een openbare of formele omgeving gezeten en plotseling je voetzool voelde jeuken? Het is niet alsof je daar ter plekke je schoenen kunt uittrekken en het kunt krabben, dus je verdraagt het gevoel van innerlijke dood terwijl deze jeuk groeit en groeit totdat je klaar bent om de volgende persoon die tegen je praat te vermoorden.
 >

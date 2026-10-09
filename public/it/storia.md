@@ -57,7 +57,7 @@ Alla radice, la disforia di genere è la sensazione che ci sia qualcosa di intri
 
 Il modo in cui di solito la descrivo è come un bambino che indossa un guanto fatto per un adulto. Riesce a mettere la mano nel guanto e le sue dita nelle fessure, ma la sua destrezza è molto limitata. Potrebbe riuscire a raccogliere qualcosa, ma non a manipolarla come potrebbe farlo un adulto. Le cose semplicemente non sono come dovrebbero essere.
 
-Evey Winters la descrisse così [nel suo post sulla Disforia](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
+Evey Winters la descrisse così [nel suo post sulla Disforia](https://web.archive.org/web/20210721194221/https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
 >Ti è mai capitato di sederti in un luogo pubblico o formale quando, d'improvviso, inizia a pruderti la pianta del piede? Non puoi certo toglierti la scarpa sul posto e grattare, quindi sopporti quella sensazione di star morendo dentro mentre il prurito diventa sempre più intenso, finché non ti viene voglia di uccidere la prossima persona che prova a parlare con te.
 >
