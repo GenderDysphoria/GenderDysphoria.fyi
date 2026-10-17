@@ -28,9 +28,6 @@ The best way to add completely new content to the site is to reach out to me dir
 
 - [GitHub Repository](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 - Email Address: [gdb@curvyandtrans.com](mailto:gdb@curvyandtrans.com)
-- Twitter: [Twippedtronic](https://twitter.com/twippedtronic)
-- Instagram: [CurvyAndTrans](https://instagram.com/curvyandtrans)
-- Facebook: [Curvy and Trans](https://facebook.com/curvyandtrans)
 - [Patreon](https://patreon.com/curvyandtrans)
 
 ## How to Contribute a Translation
