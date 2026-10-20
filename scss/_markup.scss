@@ -306,3 +306,26 @@
     }
   }
 }
+
+.preview-link {
+  background-color: $primary;
+  color: white;
+  padding: 1em;
+  border-radius: 0.5em;
+  margin-bottom: 1em;
+  box-shadow: inset 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 1px 5px rgba(0, 0, 0, 0.3);
+
+  a {
+    color: inherit !important;
+    text-decoration: underline;
+  }
+  &.preview-link > p {
+    margin: 0;
+  }
+
+  .top-fold & {
+    margin-bottom: 3em;
+    max-width: 870px;
+    box-shadow: inset 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 1px 5px rgba(0, 0, 0, 0.9);
+  }
+}
