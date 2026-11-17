@@ -44,9 +44,9 @@ Many people attribute the term to psychologist John Money, who proposed using "g
 </div>
 }!}
 
-Human Sex (the adjective, not the verb) is broken down into three categories:
+Human Sex (the noun, not the verb) is broken down into three categories:
 
-- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically-defined chromosomal kareotype of an organism (XX, XY, [and all variants thereof](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically-defined chromosomal karyotype of an organism (XX, XY, [and all variants thereof](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
 - **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc.)
 - **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person's own sex, and the way that they express it.
 
