@@ -1,3 +1,8 @@
+# THIS CODEBASE IS NOW DEPRECATED
+
+Changes to the Gender Dysphoria Bible should now be submitted to the new site codebase.
+
+---
 
 # Codebase for the [Gender Dysphoria Bible](https://genderdysphoria.fyi).
 
